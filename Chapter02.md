@@ -409,13 +409,11 @@ This pre-generated template represents a bold tomb raider. The template is ready
 
 ### Assassin
 
-Prime Requisite:	STR and DEX
-
-Requirements: 		None
-
-Hit Dice: 		1d6
-
-Maximum Level: 		14
+Prime Requisite: | STR and DEX
+:--------------- | :----------
+Requirements:    | None
+Hit Dice:        | 1d6
+Maximum Level:   | 14
 
 Assassins are humans who train to kill by ambush and treachery. Assassins may be back-alley brawlers, violent thugs, or members of an organized guild. Some assassins are members of an order of Assassins, a religious brotherhood of trained killers, or are simply murders-for-hire or rogues with a taste for violence.
 
@@ -428,75 +426,50 @@ Assassins may wear any type of armor, but most favor stealth over steel. When we
 Upon reaching 9th level (Assassin), an assassin may construct a hideout. When an assassin builds a hideout, he will gain 2d6 1st level assassin apprentices, come to learn under a master. If hired, they must be paid standard rates for ruffians.  These thugs will serve the character with some loyalty, though at least one will be an infiltrator working for the assassin’s local rivals, sent to keep an eye on the character. Additional rules for hideouts are detailed in the Campaign chapter.
 
 
-### Template:     	  	Bravo
-
-Proficiencies:		Fighting Style (Two-Weapon Fighting), Intimidation
-
-Starting Equipment:	Serrated sword, left-hand dagger, black leather armor, armiger’s tunic, duelist’s cloak, high boots, belt pouch with bone dice made from last foe, backpack, 2 week’s iron rations, 36gp
+Template:           | Bravo
+:------------------ | :----
+Proficiencies:      | Fighting Style (Two-Weapon Fighting), Intimidation
+Starting Equipment: | Serrated sword, left-hand dagger, black leather armor, armiger’s tunic, duelist’s cloak, high boots, belt pouch with bone dice made from last foe, backpack, 2 week’s iron rations, 36gp
 
 This pre-generated template represents a swaggering killer-for-hire. The template is ready for adventure. However, if your assassin’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4). 
 
 
 ### Assassin Level Progression
 
+| Experience | Title                       | Level | Hit Dice | Damage Bonus | Backstab |
+| ---------: | :-------------------------- | ----: | :------- | -----------: | -------: |
+|          0 | Thug                        |     1 | 1d6      |           +1 |       x2 |
+|      1,700 | Enforcer                    |     2 | 2d6      |           +1 |       x2 |
+|      3,400 | Torturer                    |     3 | 3d6      |           +2 |       x2 |
+|      6,800 | Slayer                      |     4 | 4d6      |           +2 |       x2 |
+|     14,000 | Destroyer                   |     5 | 5d6      |           +2 |       x3 |
+|     28,000 | Executioner                 |     6 | 6d6      |           +3 |       x3 |
+|     55,000 | Blackguard                  |     7 | 7d6      |           +3 |       x3 |
+|    110,000 | Assassin                    |     8 | 8d6      |           +3 |       x3 |
+|    230,000 | Master Assassin             |     9 | 9d6      |           +4 |       x4 |
+|    350,000 | Master Assassin, 10th level |    10 | 9d6+2*   |           +4 |       x4 |
+|    470,000 | Master Assassin, 11th level |    11 | 9d6+4*   |           +4 |       x4 |
+|    590,000 | Master Assassin, 12th level |    12 | 9d6+6*   |           +5 |       x4 |
+|    710,000 | Master Assassin, 13th level |    13 | 9d6+8*   |           +5 |       x5 |
+|    830,000 | Grandfather of Assassins    |    14 | 9d6+10*  |           +5 |       x5 |
 
-### 
-
-Experience     Title				Level	Hit Dice	Damage Bonus	Backstab
-
-0	       Thug				1	1d6 		+1     		x2
-
-1,700	       Enforcer				2	2d6		+1		x2
-
-3,400	       Torturer				3	3d6		+2		x2
-
-6,800	       Slayer				4	4d6		+2		x2
-
-14,000	       Destroyer			5	5d6		+2		x3
-
-28,000	       Executioner			6	6d6		+3		x3
-
-55,000	       Blackguard			7	7d6		+3		x3
-
-110,000	       Assassin				8	8d6		+3		x3
-
-230,000	       Master Assassin			9	9d6		+4		x4
-
-350,000	       Master Assassin, 10th level	10	9d6+2*		+4		x4
-
-470,000	       Master Assassin, 11th level	11	9d6+4*		+4		x4
-
-590,000	       Master Assassin, 12th level	12	9d6+6*		+5		x4
-
-710,000	       Master Assassin, 13th level	13	9d6+8*		+5		x5
-
-830,000	       Grandfather of Assassins		14	9d6+10*		+5		x5
 *Hit point modifiers from constitution are ignored
 
 
 ### Assassin (Fighter) Attack and Saving Throws
 
-Level	 Petrification & Paralysis   Poison & Death	Blast & Breath	Staffs & Wands	Spells	Attack Throw
-
-1	 15+	       14+	     16+      		16+   		17+    	 	10+	
-
-2-3	 14+	       13+	     15+		15+		16+		9+
-
-4	 13+	       12+	     14+		14+		15+		8+
-
-5-6	 12+	       11+	     13+		13+		14+		7+
-
-7	 11+	       10+	     12+		12+		13+		6+
-
-8-9	 10+	       9+	     11+		11+		12+		5+
-
-10	 9+	       8+	     10+		10+		11+		4+
-
-11-12	 8+	       7+	     9+			9+		10+		3+
-
-13	 7+	       6+	     8+			8+		9+		2+
-
-14+	 6+	       5+	     7+			7+		8+		1+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
+| 1     |                       15+ |            14+ |            16+ |            16+ |    17+ |          10+ |
+| 2-3   |                       14+ |            13+ |            15+ |            15+ |    16+ |           9+ |
+| 4     |                       13+ |            12+ |            14+ |            14+ |    15+ |           8+ |
+| 5-6   |                       12+ |            11+ |            13+ |            13+ |    14+ |           7+ |
+| 7     |                       11+ |            10+ |            12+ |            12+ |    13+ |           6+ |
+| 8-9   |                       10+ |             9+ |            11+ |            11+ |    12+ |           5+ |
+| 10    |                        9+ |             8+ |            10+ |            10+ |    11+ |           4+ |
+| 11-12 |                        8+ |             7+ |             9+ |             9+ |    10+ |           3+ |
+| 13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+ |
+| 14+   |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+ |
 
 
 ### Bard
