@@ -1618,3 +1618,4 @@ With this spell the caster creates an invisible magical “eye” through which 
 Arcane 2	Duration:	permanent
 
 A wizard lock spell cast upon a door, chest, or portal magically locks it. The caster can freely pass his own wizard lock without affecting it, as can any arcane spellcaster 3 or more levels higher than the caster of the wizard lock; otherwise, a door or object secured with this spell can be opened only by breaking in or with a successful dispel magic or knock spell.
+

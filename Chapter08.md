@@ -5102,3 +5102,4 @@ Treasure Type:	None
 XP:		29
 
 Zombies are undead corpses reanimated through dark and sinister magic. Because of their utter lack of intelligence, the instructions given to a zombie by its creator must be very simple. The chaotic mages and clerics that create zombies use them to guard locations or valuable treasure. Zombies are susceptible to ordinary weapons, but like other undead they are immune to poison, and charm, hold, and sleep spells. Zombies’ somewhat clumsy, decomposing limbs force them to attack last each round.
+
