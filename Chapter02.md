@@ -35,9 +35,9 @@ Character Abilities must be determined by rolling randomly. Roll 3d6 for each ab
 
 When complete, your character will have a score ranging from 3 to 18 in each of the following abilities.  A bonus or penalty is associated with each score, as shown on the table below.  Each class has one or more prime requisite ability scores, which affect the rate at which the character will earn experience points. Some class may have other minimum ability requirements which must be met in addition.
 
-Strength: As the name implies, this ability measures the character's raw physical power. Strength is a prime requisite for assassins, explorers, dwarven vaultguards, elven spellswords, and fighters. Apply the ability bonus or penalty for Strength to all attack throws and damage rolls in melee (hand-to-hand) combat.  Note that a penalty here will not reduce damage from a successful attack below one point, unless the target is otherwise invulnerable to the attack (see the Adventures chapter for details).
+**Strength**: As the name implies, this ability measures the character's raw physical power. Strength is a prime requisite for assassins, explorers, dwarven vaultguards, elven spellswords, and fighters. Apply the ability bonus or penalty for Strength to all attack throws and damage rolls in melee (hand-to-hand) combat.  Note that a penalty here will not reduce damage from a successful attack below one point, unless the target is otherwise invulnerable to the attack (see the Adventures chapter for details).
 
-Intelligence: This is the ability to learn and apply knowledge. Intelligence is a prime requisite for elven nightblades, elven spellswords, and mages. The ability bonus for Intelligence is added to the number of proficiencies the character begins play with (see the Proficiencies chapter for details) and the number of languages the character is able to learn to read and write, as described below. Mages, elven nightblades, and elven spellswords increase the number of spells of each level in their repertoire by their Intelligence bonus (see the Spells chapter for details). 
+**Intelligence**: This is the ability to learn and apply knowledge. Intelligence is a prime requisite for elven nightblades, elven spellswords, and mages. The ability bonus for Intelligence is added to the number of proficiencies the character begins play with (see the Proficiencies chapter for details) and the number of languages the character is able to learn to read and write, as described below. Mages, elven nightblades, and elven spellswords increase the number of spells of each level in their repertoire by their Intelligence bonus (see the Spells chapter for details). 
 
 All characters begin the game knowing their native language. In most campaign worlds, the majority of humans speak a common language, often called “Common.”  The demi-human races (elves and dwarves) have their own languages, and members of these  races normally begin play knowing their racial language, Common (or the local human language if it isn't called Common), and certain other languages based on the race. 
 
@@ -45,13 +45,13 @@ A character with an Intelligence penalty will only know his native language, and
 
 The languages available to characters include the demi-human languages (Elven, Dwarven, Gnomish, and Halfling) and the various beastmen dialects (e.g. Orc, Goblin). At the Judge’s discretion, player characters may also begin play knowing ancient or archaic tongues, or exotic languages such as Draconic (the language of dragons). The specific languages available will depend on the campaign setting.
 
-Wisdom: A combination of intuition, willpower and common sense. Wisdom is a prime requisite for bladedancers, clerics, and dwarven craftpriests. The Wisdom bonus or penalty applies to saving throws caused by spells or magic items. This would include, e.g., a save versus Blast against a fireball or a save versus Death from a finger of death, but not a save versus Petrification against a medusa’s gaze. 
+**Wisdom**: A combination of intuition, willpower and common sense. Wisdom is a prime requisite for bladedancers, clerics, and dwarven craftpriests. The Wisdom bonus or penalty applies to saving throws caused by spells or magic items. This would include, e.g., a save versus Blast against a fireball or a save versus Death from a finger of death, but not a save versus Petrification against a medusa’s gaze. 
 
-Dexterity: This ability measures the character's quickness and balance as well as his aptitude with tools. Dexterity is a prime requisite for assassins, bards, bladedancers, elven nightblades, explorers, and thieves. A character’s Dexterity bonus or penalty is applied to his attack throws with missile weapons, Armor Class value, and Initiative die rolls.
+**Dexterity**: This ability measures the character's quickness and balance as well as his aptitude with tools. Dexterity is a prime requisite for assassins, bards, bladedancers, elven nightblades, explorers, and thieves. A character’s Dexterity bonus or penalty is applied to his attack throws with missile weapons, Armor Class value, and Initiative die rolls.
 
-Constitution: Constitution is a combination of general health and vitality.  Apply the Constitution bonus or penalty to each Hit Die rolled by the character.  Note that a penalty here cannot reduce any Hit Die roll to less than 1 point.
+**Constitution**: Constitution is a combination of general health and vitality.  Apply the Constitution bonus or penalty to each Hit Die rolled by the character.  Note that a penalty here cannot reduce any Hit Die roll to less than 1 point.
 
-Charisma: This is the ability to influence or even lead people; those with high Charisma are well-liked, or at least highly respected. Charisma is a prime requisite for bards. Apply the Charisma bonus or penalty to the character’s reaction rolls. Charisma also determines the maximum number of henchmen the character may employ, and modifies their morale.  The number of henchmen a character may hire is equal to 4 plus the Charisma bonus or penalty (and therefore ranges from 1 to 7); the average morale of any such henchmen will be 0, modified by the character’s Charisma bonus or penalty.
+**Charisma**: This is the ability to influence or even lead people; those with high Charisma are well-liked, or at least highly respected. Charisma is a prime requisite for bards. Apply the Charisma bonus or penalty to the character’s reaction rolls. Charisma also determines the maximum number of henchmen the character may employ, and modifies their morale.  The number of henchmen a character may hire is equal to 4 plus the Charisma bonus or penalty (and therefore ranges from 1 to 7); the average morale of any such henchmen will be 0, modified by the character’s Charisma bonus or penalty.
 
 
 ### Classes and Ability Scores
@@ -86,13 +86,11 @@ Selecting equipment and proficiencies can be time-consuming, especially for new 
 
 ### Fighter
 
-Prime Requisite:	STR
-
-Requirements:		None
-
-Hit Dice:		1d8
-
-Maximum Level:		14
+Prime Requisite: | STR
+:--------------- | :---
+Requirements:    | None
+Hit Dice:        | 1d8
+Maximum Level:   | 14
 
 Fighters are exclusively trained in the arts of combat and war. They are specialists at dealing physical blows. Fighters may have learned their arts as warriors, gladiators battling for glory in the arena, raiders, or sell-swords in the games of the noble houses. 
 
@@ -103,83 +101,59 @@ When a fighter reaches 5th level (Exemplar), his battlefield prowess inspires ot
 At 9th level (Warlord), a fighter can, assuming enough gold is at hand, build a castle and become a great leader of men, taking a leadership rank in his society. When he does so, up 1d4+1x10 0th level mercenaries and 1d6 fighters of 1st-3rd level will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries. Through force of arms, the fighter may ultimately control several castles or even entire realms, but must be a capable, strong leader and provide protection. Additional rules for castles are detailed in the Campaign chapter.
 
 
-### Template: 	    Mercenary 
-
-Proficiencies:	    Combat Reflexes, Manual of Arms
-
-Starting Equipment: Well-oiled sword, metal shield re-painted many times, slightly battered chainmail armor, crossbow, case with 20 quarrels,  military tunic, boots, backpack, 2 week’s iron rations
+Template:           | Mercenary 
+:------------------ | :--------
+Proficiencies:      | Combat Reflexes, Manual of Arms
+Starting Equipment: | Well-oiled sword, metal shield re-painted many times, slightly battered chainmail armor, crossbow, case with 20 quarrels,  military tunic, boots, backpack, 2 week’s iron rations
 
 This pre-generated template represents a wary sellsword. The template is ready for adventure. However, if your fighter’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4).
 
 
 ### Fighter Level Progression
 
-Experience    Title			Level	Hit Dice	Damage Bonus 
+| Experience | Title             | Level | Hit Dice | Damage Bonus |
+| ---------: | :---------------- | ----: | :------- | -----------: |
+|          0 | Man-at-Arms       |     1 | 1d8      |           +1 |
+|      2,000 | Warrior           |     2 | 2d8      |           +1 |
+|      4,000 | Swordmaster       |     3 | 3d8      |           +2 |
+|      8,000 | Hero              |     4 | 4d8      |           +2 |
+|     16,000 | Exemplar          |     5 | 5d8      |           +2 |
+|     32,000 | Myrmidon          |     6 | 6d8      |           +3 |
+|     65,000 | Champion          |     7 | 7d8      |           +3 |
+|    130,000 | Epic Hero         |     8 | 8d8      |           +3 |
+|    250,000 | Warlord           |     9 | 9d8      |           +4 |
+|    370,000 | Warlord, 10th lvl |    10 | 9d8+2*   |           +4 |
+|    490,000 | Warlord, 11th lvl |    11 | 9d8+4*   |           +4 |
+|    610,000 | Warlord, 12th lvl |    12 | 9d8+6*   |           +5 |
+|    730,000 | Warlord, 13th lvl |    13 | 9d8+8*   |           +5 |
+|    850,000 | Overlord          |    14 | 9d8+10*  |           +5 |
 
-0	      Man-at-Arms		1	1d8 		+1
-
-2,000	      Warrior			2	2d8		+1
-
-4,000	      Swordmaster		3	3d8		+2
-
-8,000	      Hero			4	4d8		+2
-
-16,000	      Exemplar			5	5d8		+2	
-
-32,000	      Myrmidon			6	6d8		+3
-
-65,000	      Champion			7	7d8		+3
-
-130,000	      Epic Hero			8	8d8		+3	
-
-250,000	      Warlord			9	9d8		+4
-
-370,000	      Warlord, 10th lvl		10	9d8+2*		+4
-
-490,000	      Warlord, 11th lvl		11	9d8+4*		+4
-
-610,000	      Warlord, 12th lvl		12	9d8+6*		+5
-
-730,000	      Warlord, 13th lvl		13	9d8+8*		+5
-
-850,000	      Overlord 	    		14	9d8+10*		+5
 *Hit point modifiers from constitution are ignored
 
 
 ### Fighter Attack and Saving Throws
 
-Level	Petrification & Paralysis	Poison & Death	Blast & Breath	Staffs & Wands	Spells	Attack Throw
-
-1	15+	      			14+    	 	16+   		16+    	 	17+	10+
-
-2-3	14+				13+		15+		15+		16+	9+
-
-4	13+				12+		14+		14+		15+	8+
-
-5-6	12+				11+		13+		13+		14+	7+
-
-7	11+				10+		12+		12+		13+	6+
-
-8-9	10+				9+		11+		11+		12+	5+
-
-10	9+				8+		10+		10+		11+	4+
-
-11-12	8+				7+		9+		9+		10+	3+
-
-13	7+				6+		8+		8+		9+	2+
-
-14	6+				5+		7+		7+		8+	1+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
+| 1     |                       15+ |            14+ |            16+ |            16+ |    17+ |          10+ |
+| 2-3   |                       14+ |            13+ |            15+ |            15+ |    16+ |           9+ |
+| 4     |                       13+ |            12+ |            14+ |            14+ |    15+ |           8+ |
+| 5-6   |                       12+ |            11+ |            13+ |            13+ |    14+ |           7+ |
+| 7     |                       11+ |            10+ |            12+ |            12+ |    13+ |           6+ |
+| 8-9   |                       10+ |             9+ |            11+ |            11+ |    12+ |           5+ |
+| 10    |                        9+ |             8+ |            10+ |            10+ |    11+ |           4+ |
+| 11-12 |                        8+ |             7+ |             9+ |             9+ |    10+ |           3+ |
+| 13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+ |
+| 14    |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+ |
 
 
 ### Mage
 
-Prime Requisite:	INT
-
-Requirements:		None
-
-Hit Dice:		1d4
-
-Maximum Level:		14
+Prime Requisite: | INT
+:--------------- | :---
+Requirements:    | None
+Hit Dice:        | 1d4
+Maximum Level:   | 14
 
 Sometimes called wizards, sorcerers, or magicians, mages study arcane secrets and cast spells. While early in their career mages have only limited power, experienced mages are able to cast a great number of powerful spells. A mage may be a wizard steeped in ancient lore, a sinister sorcerer, or a village witch or hedge wizard with strange charms and hodge-podge traditions.
 
@@ -192,73 +166,54 @@ When a mage reaches 5th level (Thaumaturge), he may begin to research spells, sc
 At 11th level, a mage may learn and cast ritual arcane spells of great power (7th, 8th, and 9th level), craft magical constructs, and create magical cross-breeds. If chaotic, the mage may create necromantic servants and become undead. These rules are in the Campaign chapter.
 
 
-### Template:      	     Magical Scholar
-
-Proficiencies:	     Loremastery, Collegiate Wizardry
-
-Starting Equipment:  Rune-etched quarterstaff, blue mage’s cassock, shoes, backpack,  spell book with sleep, 2  week’s iron rations, 85gp
+Template:           | Magical Scholar
+:------------------ | :--------------
+Proficiencies:      | Loremastery, Collegiate Wizardry
+Starting Equipment: | Rune-etched quarterstaff, blue mage’s cassock, shoes, backpack,  spell book with sleep, 2  week’s iron rations, 85gp
 
 This pre-generated template represents a curious magical scholar from an organized guild of mages. The template is ready for adventure. However, if your mage’s INT is 13 or greater, you may pick one or more additional general proficiencies and starting spells before play if you’d like (see Starting Proficiencies in Chapter 4 and Spell Repertoire in Chapter 5). 
 
 
-### Mage Level Progression	    	       	 	 	 	        Mage Spell Progression
+### Mage Level and Spell Progression
 
-Experience 		   Title		Level	Hit Dice	1	2	3	4	5	6
+| Experience | Title            | Level | Hit Dice |   1 |   2 |   3 |   4 |   5 |   6 |
+| ---------: | :--------------- | ----: | :------- | --: | --: | --: | --: | --: | --: |
+|          0 | Arcanist         |     1 | 1d4      |   1 |   - |   - |   - |   - |   - |
+|      2,500 | Seer             |     2 | 2d4      |   2 |   - |   - |   - |   - |   - |
+|      5,000 | Theurgist        |     3 | 3d4      |   2 |   1 |   - |   - |   - |   - |
+|     10,000 | Magician         |     4 | 4d4      |   2 |   2 |   - |   - |   - |   - |
+|     20,000 | Thaumaturge      |     5 | 5d4      |   2 |   2 |   1 |   - |   - |   - |
+|     40,000 | Enchanter        |     6 | 6d4      |   2 |   2 |   2 |   - |   - |   - |
+|     80,000 | Sorcerer         |     7 | 7d4      |   3 |   2 |   2 |   1 |   - |   - |
+|    160,000 | Mage             |     8 | 8d4      |   3 |   3 |   2 |   2 |   - |   - |
+|    310,000 | Wizard           |     9 | 9d4      |   3 |   3 |   3 |   2 |   1 |   - |
+|    460,000 | Wizard, 10th lvl |    10 | 9d4+1*   |   3 |   3 |   3 |   3 |   2 |   - |
+|    610,000 | Wizard, 11th lvl |    11 | 9d4+2*   |   4 |   3 |   3 |   3 |   2 |   1 |
+|    760,000 | Wizard, 12th lvl |    12 | 9d4+3*   |   4 |   4 |   3 |   3 |   3 |   2 |
+|    910,000 | Wizard, 13th lvl |    13 | 9d4+4*   |   4 |   4 |   4 |   3 |   3 |   2 |
+|  1,060,000 | Archmage         |    14 | 9d4+5*   |   4 |   4 |   4 |   4 |   3 |   3 |    
 
-0			   Arcanist		1	1d4 		1	-	-	-	-	-
-
-2,500			   Seer			2	2d4		2	-	-	-	-	-
-
-5,000			   Theurgist		3	3d4		2	1	-	-	-	-
-
-10,000			   Magician		4	4d4		2	2	-	-	-	-
-
-20,000			   Thaumaturge 		5	5d4		2	2	1	-	-	-
-
-40,000			   Enchanter		6	6d4		2	2	2	-	-	-
-
-80,000			   Sorcerer		7	7d4		3	2	2	1	-	-
-
-160,000			   Mage			8	8d4		3	3	2	2	-	-
-
-310,000			   Wizard		9	9d4		3	3	3	2	1	-
-
-460,000			   Wizard, 10th lvl	10	9d4+1*		3	3	3	3	2	-
-
-610,000			   Wizard, 11th lvl	11	9d4+2*		4	3	3	3	2	1
-
-760,000			   Wizard, 12th lvl	12	9d4+3*		4	4	3	3	3	2
-
-910,000			   Wizard, 13th lvl	13	9d4+4*		4	4	4	3	3	2	
-
-1,060,000		   Archmage		14	9d4+5*		4	4	4	4	3	3
 *Hit point modifiers from constitution are ignored
 
 
 ### Mage Attack and Saving Throws
 
-Level	    Petrification & Paralysis	Poison & Death	Blast & Breath	Staffs & Wands	Spells	Attack Throw	
-
-1-3	    13+		    		13+    	 	15+   		11+    	 	12+	10+
-
-4-6	    12+				12+		14+		10+		11+	9+
-
-7-9	    11+				11+		13+		9+		10+	8+
-
-10-12	    10+				10+		12+		8+		9+	7+	
-
-13-14	    9+				9+		11+		7+		8+	6+	
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
+| 1-3   |                       13+ |            13+ |            15+ |            11+ |    12+ |          10+ |
+| 4-6   |                       12+ |            12+ |            14+ |            10+ |    11+ |           9+ |
+| 7-9   |                       11+ |            11+ |            13+ |             9+ |    10+ |           8+ |
+| 10-12 |                       10+ |            10+ |            12+ |             8+ |     9+ |           7+ |
+| 13-14 |                        9+ |             9+ |            11+ |             7+ |     8+ |           6+ |
 
 
 ### Cleric
 
-Prime Requisite:	WIS
-
-Requirements:		None
-
-Hit Dice:		1d6
-
-Maximum Level:		14
+Prime Requisite: | WIS
+:--------------- | :---
+Requirements:    | None
+Hit Dice:        | 1d6
+Maximum Level:   | 14
 
 Clerics are holy crusaders, trained to fight to further the ends of their faith. Humans who become clerics have pledged their lives to serve a particular deity or religion. To this end, they conduct their lives in a way that furthers the desires and will of their gods or goddesses. A cleric may be a priest-militant, a cultist sworn to the chthonic powers of the Nether Darkness, or anything in between.
 
@@ -270,7 +225,7 @@ All clerics have the ability to turn undead, calling upon the name and power of 
 
 There is no limit to how often a cleric may attempt to turn undead each day, but if an attempt to turn undead fails during an encounter, the cleric may not attempt to turn undead again for the remainder of that encounter. 
 
-EXAMPLE: Balbus the Blessed, a 1st level cleric, attempts to turn 4 foul undead skeletons. When Balbus’s player looks at the Turning Undead table, the value corresponding to his level and the entry for skeletons is 10+. He will turn some undead on a roll of 10 or higher on 1d20. He rolls a result of 12, meaning some skeletons will be turned. To determine how many HD he turns, he rolls 2d6 and comes up with a 3. Since skeletons have 1 HD each, three of them flee, leaving one behind for Balbus to vanquish.
+*Example*: Balbus the Blessed, a 1st level cleric, attempts to turn 4 foul undead skeletons. When Balbus’s player looks at the Turning Undead table, the value corresponding to his level and the entry for skeletons is 10+. He will turn some undead on a roll of 10 or higher on 1d20. He rolls a result of 12, meaning some skeletons will be turned. To determine how many HD he turns, he rolls 2d6 and comes up with a 3. Since skeletons have 1 HD each, three of them flee, leaving one behind for Balbus to vanquish.
 
 If Balbus had been attempting to turn zombies, or other undead that have 2 HD each, he would only have turned one, since a roll of three only completely accounts for one 2 HD monster.
 
@@ -287,105 +242,73 @@ When a cleric reaches 5th level (Vicar), he may begin to research spells, scribe
 Upon attaining 9th level (Patriarch), a cleric may establish or build a fortified church. So long as the cleric is currently in favor with his god, he may buy or build his fortified church at half the normal price due to divine intervention. Once a fortified church is established, the cleric’s reputation will spread and he will attract 5d6x10 0th level soldiers armed with various weapons, plus another 1d6 clerics of 1st-3rd level of the same religion to serve the order. They are completely loyal (morale +4). While in the cleric’s service, his followers must be provided food and lodging, but need not be paid wages. The Judge determines which proportions of followers are archers, infantry, etc. Additional rules for fortified churches are detailed in the Campaign chapter.
 
 
-### Template:      	   	 Priest 
-
-Proficiencies:	   	 Divine Blessing, Theology
-
-Starting Equipment:	 Mace, wooden shield, banded plate armor, priest’s cassock, shoes, backpack, 2 week’s iron rations, holy symbol, holy book
+Template:           | Priest 
+:------------------ | :-----
+Proficiencies:      | Divine Blessing, Theology
+Starting Equipment: | Mace, wooden shield, banded plate armor, priest’s cassock, shoes, backpack, 2 week’s iron rations, holy symbol, holy book
 
 This pre-generated template represents a devout priest from an organized religious order. The template is ready for adventure. However, if your cleric’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4). 
 
 
-### 
+### Cleric Level and Spell Progression
 
-Cleric Level Progression    	       	 	        Cleric Spell Progression
+| Experience | Title               | Level | Hit Dice |   1 |   2 |   3 |   4 |   5 |
+| ---------: | :------------------ | ----: | :------- | --: | --: | --: | --: | --: |
+|          0 | Catechist           |     1 | 1d6      |   - |   - |   - |   - |   - |
+|      1,500 | Acolyte             |     2 | 2d6      |   1 |   - |   - |   - |   - |
+|      3,000 | Priest              |     3 | 3d6      |   2 |   - |   - |   - |   - |
+|      6,000 | Curate              |     4 | 4d6      |   2 |   1 |   - |   - |   - |
+|     12,000 | Vicar               |     5 | 5d6      |   2 |   2 |   - |   - |   - |
+|     24,000 | Rector              |     6 | 6d6      |   2 |   2 |   1 |   1 |   - |
+|     50,000 | Prelate             |     7 | 7d6      |   2 |   2 |   2 |   1 |   1 |
+|    100,000 | Bishop              |     8 | 8d6      |   3 |   3 |   2 |   2 |   1 |
+|    200,000 | Patriarch           |     9 | 9d6      |   3 |   3 |   3 |   2 |   2 |
+|    300,000 | Patriarch, 10th lvl |    10 | 9d6+1*   |   4 |   4 |   3 |   3 |   2 |
+|    400,000 | Patriarch, 11th lvl |    11 | 9d6+2*   |   4 |   4 |   4 |   3 |   3 |
+|    500,000 | Patriarch, 12th lvl |    12 | 9d6+3*   |   5 |   5 |   4 |   4 |   3 |
+|    600,000 | Patriarch, 13th lvl |    13 | 9d6+4*   |   5 |   5 |   5 |   4 |   3 |
+|    700,000 | Theocrat            |    14 | 9d6+5*   |   6 |   5 |   5 |   5 |   4 |
 
-Experience   Title	       	     Level Hit Dice	1	2	3	4	5
-
-0	     Catechist	       	     1     1d6 		0	0	0	0	0
-
-1,500	     Acolyte	       	     2     2d6		1	0	0	0	0
-
-3000	     Priest	       	     3     3d6		2	0	0	0	0
-
-6,000	     Curate	       	     4     4d6		2	1	0	0	0
-
-12,000	     Vicar	       	     5     5d6		2	2	0	0	0
-
-24,000	     Rector	       	     6     6d6		2	2	1	1	0
-
-50,000	     Prelate	       	     7     7d6		2	2	2	1	1
-
-100,000	     Bishop	       	     8     8d6		3	3	2	2	1
-
-200,000	     Patriarch	       	     9     9d6		3	3	3	2	2
-
-300,000	     Patriarch, 10th lvl     10	   9d6+1*	4	4	3	3	2	
-
-400,000	     Patriarch, 11th lvl     11	   9d6+2*	4	4	4	3	3
-
-500,000	     Patriarch, 12th lvl     12	   9d6+3*	5	5	4	4	3
-
-600,000	     Patriarch, 13th lvl     13	   9d6+4*	5	5	5	4	3
-
-700,000	     Theocrat	     	     14	   9d6+5*	6	5	5	5	4
 *Hit point modifiers from constitution are ignored
 
 
 ### Cleric Attack and Saving Throws
 
-Level  	      Petrification & Paralysis		Poison & Death	Blast & Breath	Staffs & Wands	Spells	Attack Throw
-
-1-2    	      13+	       			10+    	 	16+   		13+    	 	15+	10+
-
-3-4    	      12+				9+		15+		12+		14+	9+
-
-5-6    	      11+				8+		14+		11+		13+	8+	
-
-7-8    	      10+				7+		13+		10+		12+	7+
-
-9-10   	      9+				6+		12+		9+		11+	6+	
-
-11-12  	      8+				5+		11+		8+		10+	5+	
-
-13- 14 	      7+				4+		10+		7+		9+	4+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
+| 1-2   |                       13+ |            10+ |            16+ |            13+ |    15+ |          10+ |
+| 3-4   |                       12+ |             9+ |            15+ |            12+ |    14+ |           9+ |
+| 5-6   |                       11+ |             8+ |            14+ |            11+ |    13+ |           8+ |
+| 7-8   |                       10+ |             7+ |            13+ |            10+ |    12+ |           7+ |
+| 9-10  |                        9+ |             6+ |            12+ |             9+ |    11+ |           6+ |
+| 11-12 |                        8+ |             5+ |            11+ |             8+ |    10+ |           5+ |
+| 13-14 |                        7+ |             4+ |            10+ |             7+ |     9+ |           4+ |
 
 
-### Cleric Turning Undead 
+### Cleric Turning Undead by Cleric Level
 
-	       	      Cleric Level   
+| Undead Type |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |  10 |  11 |  12 |  13 | 14+ |
+| :---------- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
+| Skeleton    | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D |   D |   D |
+| Zombie      | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D |   D |
+| Ghoul       | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D |
+| Wight       | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |
+| Wraith      |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |
+| Mummy       |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |
+| Spectre     |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |
+| Vampire     |   - |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |
+| Infernal*   |   - |   - |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |
 
-Undead Type	      1    2    3    4    5    6    7    8    9    10    11    12    13    14+ 
-
-Skeleton	      10+  7+	4+   T	  T    D    D	 D    D	   D	 D     D     D	   D   
-
-Zombie		      13+  10+	7+   4+	  T    T    D	 D    D	   D	 D     D     D	   D
-
-Ghoul		      16+  13+	10+  7+	  4+   T    T	 D    D	   D	 D     D     D	   D
-
-Wight		      19+  16+	13+  10+  7+   4+   T	 T    D	   D	 D     D     D	   D
-
-Wraith		      -	   19+	16+  13+  10+  7+   4+	 T    T	   D	 D     D     D	   D
-
-Mummy		      -	   -	19+  16+  13+  10+  7+	 4+   T	   T	 D     D     D	   D
-
-Spectre		      -	   -	-    19+  16+  13+  10+	 7+   4+   T	 T     D     D	   D
-
-Vampire		      -	   -	-    -	  19+  16+  13+	 10+  7+   4+	 T     T     D	   D	
-
-Infernal*	      -	   -	-    -	  -    19+  16+	 13+  10+  7+	 4+    T     T	   D
 *This category includes very powerful undead, or unholy beings such as demons and devils
 
 
 ### Thief
 
-Prime Requisite:	DEX
-
-Requirements:		None
-
-Hit Dice:		1d4
-
-Maximum Level:		14
+Prime Requisite: | DEX
+:--------------- | :---
+Requirements:    | None
+Hit Dice:        | 1d4
+Maximum Level:   | 14
 
 Thieves have a range of unique skills associated with their profession that make them very handy companions in adventures. However, thieves can be a bit shady and they sometimes are not as trustworthy as other classes. A thief will usually belong to a Thieves’ Guild from the character’s local town, where he can seek shelter and information between adventures. At the Judge’s discretion, a thief may have to forfeit a portion of his earnings to the guild in exchange for protection. Thieves are everywhere, from the slums to the highest halls of the government. 
 
@@ -399,15 +322,15 @@ Opening Locks:  With the aid of thieves’ tools, a thief may pick mechanical lo
 
 Finding and Removing Traps:  Through careful inspection and probing, a thief may find hidden traps and then attempt to disable or discharge the trap harmlessly. A thief may only try to find or remove a trap once in any given area. . The Judge may apply bonuses or penalties to the roll, depending on the complexity of the trap. If the thief fails, he may not try again until he reaches a higher experience level. Note that these are separate skills, for a thief must find a trap before he can remove it.
 
-Picking Pockets: This skill is the bread and butter of non-adventuring thieves for it is a quick source of income — though not without peril. A throw that is less than half the target value means that the intended target notices the thieving attempt. The Judge will then make a reaction roll with a -3 penalty to determine the intended victim’s reaction.
+**Picking Pockets**: This skill is the bread and butter of non-adventuring thieves for it is a quick source of income — though not without peril. A throw that is less than half the target value means that the intended target notices the thieving attempt. The Judge will then make a reaction roll with a -3 penalty to determine the intended victim’s reaction.
 
-Moving Silently: Thieves may move with total silence. When successful, even keen eared guards will not hear the movements of a thief. However, the thief always thinks he is successful in this skill, and will not know otherwise unless and until others react to his presence. Thieves may move silently at ½ their standard combat movement rate without penalty. If they move greater than ½ speed, they take a -5 penalty to the proficiency throw. If they run, they take a -10 penalty. 
+**Moving Silently**: Thieves may move with total silence. When successful, even keen eared guards will not hear the movements of a thief. However, the thief always thinks he is successful in this skill, and will not know otherwise unless and until others react to his presence. Thieves may move silently at ½ their standard combat movement rate without penalty. If they move greater than ½ speed, they take a -5 penalty to the proficiency throw. If they run, they take a -10 penalty. 
 
-Climbing Walls: Thieves are adept at scaling sheer surfaces, including walls or steep cliffs. They require a proficiency throw for each 100’ they intend to climb. If the roll fails, they fall a distance equal to half the attempted distance, plus the distance covered by any previous throws, taking 1d6 points of damage per 10 feet. Thieves climb at ¼ their standard combat movement rate. 
+**Climbing Walls**: Thieves are adept at scaling sheer surfaces, including walls or steep cliffs. They require a proficiency throw for each 100’ they intend to climb. If the roll fails, they fall a distance equal to half the attempted distance, plus the distance covered by any previous throws, taking 1d6 points of damage per 10 feet. Thieves climb at ¼ their standard combat movement rate. 
 
-Hiding in Shadows: A thief may attempt to skulk unseen in the cover of darkness. A thief will always think he is successful in this skill, and will not know otherwise until others react to his presence. A thief will remain hidden so long as he stays motionless. If he moves, he must make a new proficiency throw to hide.
+**Hiding in Shadows**: A thief may attempt to skulk unseen in the cover of darkness. A thief will always think he is successful in this skill, and will not know otherwise until others react to his presence. A thief will remain hidden so long as he stays motionless. If he moves, he must make a new proficiency throw to hide.
 
-Hearing Noises: Thieves can attempt to listen for noises in a cave or hallway and at a door or other locations. The thief must be quiet and in a quiet environment. 
+**Hearing Noises**: Thieves can attempt to listen for noises in a cave or hallway and at a door or other locations. The thief must be quiet and in a quiet environment. 
 
 Upon attaining 4th level, a thief gains the ability to read languages (including ciphers, treasure maps, and dead languages, but not magical writings) with a proficiency throw of 5+ on 1d20. If the roll does not succeed, the thief may not try to read that particular piece of writing until he reaches a higher level of experience.
 
@@ -416,100 +339,69 @@ When a thief attains 9th level (Master Thief), he can establish a hideout, and 2
 At 10th level, a thief can read and cast magic from arcane scrolls with a proficiency throw of 3+ on 1d20. However, a failed throw means the spell does not function as expected, and can create a horrible effect at the Judge’s discretion.
 
 
-### Template:      	       Tomb Raider 
-
-Proficiencies:	       Trap Finding, Mapping
-
-Starting Equipment:    10’ pole, short sword, 2 throwing daggers,  crossbow, case with 20 quarrels, sturdy leather armor, tanned brown cloak, thick tunic and leggings, high boots, backpack, 2 large treasure sacks, thieves’ tools, 50’ rope, tinderbox, lantern, hammer and 12 iron spikes, 2 flasks of military oil, wineskin, 2 week’s iron rations, 20sp
+Template:           | Tomb Raider 
+:------------------ | :----------
+Proficiencies:      | Trap Finding, Mapping
+Starting Equipment: | 10’ pole, short sword, 2 throwing daggers,  crossbow, case with 20 quarrels, sturdy leather armor, tanned brown cloak, thick tunic and leggings, high boots, backpack, 2 large treasure sacks, thieves’ tools, 50’ rope, tinderbox, lantern, hammer and 12 iron spikes, 2 flasks of military oil, wineskin, 2 week’s iron rations, 20sp
 
 This pre-generated template represents a bold tomb raider. The template is ready for adventure. However, if your thief’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4). 
 
 
 ### Thief Level Progression
 
-Experience	Title				Level	Hit Dice	Backstab	
+| Experience | Title                    | Level | Hit Dice | Backstab |
+| ---------: | :----------------------- | ----: | :------- | -------: |
+|          0 | Footpad                  |     1 | 1d4      |       x2 |
+|      1,250 | Hood                     |     2 | 2d4      |       x2 |
+|      2,500 | Robber                   |     3 | 3d4      |       x2 |
+|      5,000 | Burglar                  |     4 | 4d4      |       x2 |
+|     10,000 | Rogue                    |     5 | 5d4      |       x3 |
+|     20,000 | Scoundrel                |     6 | 6d4      |       x3 |
+|     40,000 | Pilferer                 |     7 | 7d4      |       x3 |
+|     80,000 | Thief                    |     8 | 8d4      |       x3 |
+|    180,000 | Master Thief             |     9 | 9d4      |       x4 |
+|    280,000 | Master Thief, 10th level |    10 | 9d4+2*   |       x4 |
+|    380,000 | Master Thief, 11th level |    11 | 9d4+4*   |       x4 |
+|    480,000 | Master Thief, 12th level |    12 | 9d4+6*   |       x4 |
+|    580,000 | Master Thief, 13th level |    13 | 9d4+8*   |       x5 |
+|    680,000 | Prince of Thieves        |    14 | 9d4+10*  |       x5 |
 
-0		Footpad 			1	1d4 		x2
-
-1,250		Hood				2	2d4		x2
-
-2,500		Robber				3	3d4		x2
-
-5,000		Burglar				4	4d4		x2
-
-10,000		Rogue				5	5d4		x3
-
-20,000		Scoundrel			6	6d4		x3
-
-40,000		Pilferer			7	7d4		x3
-
-80,000		Thief				8	8d4		x3
-
-180,000		Master Thief			9	9d4		x4
-
-280,000		Master Thief, 10th level	10	9d4+2*		x4
-
-380,000		Master Thief, 11th level	11	9d4+4*		x4
-
-480,000		Master Thief, 12th level	12	9d4+6*		x4
-
-580,000		Master Thief, 13th level	13	9d4+8*		x5
-
-680,000		Prince of Thieves  		14	9d4+10*		x5
 *Hit point modifiers from constitution are ignored
 
 
 ### Thief Attack and Saving Throws
 
-Level    Petrification & Paralysis	Poison & Death	Blast & Breath	Staffs & Wands	Spells	Attack Throw
-
-1-2      13+	      			13+    	 	16+   		14+    	 	15+	10+
-
-3-4      12+				12+		15+		13+		14+	9+	
-
-5-6      11+				11+		14+		12+		13+	8+
-
-7-8      10+				10+		13+		11+		12+	7+	
-
-9-10     9+				9+		12+		10+		11+	6+
-
-11-12    8+				8+		11+		9+		10+	5+
-
-13-14+	 7+				7+		10+		8+		9+	4+
+| Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
+| :----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
+| 1-2    |                       13+ |            13+ |            16+ |            14+ |    15+ |          10+ |
+| 3-4    |                       12+ |            12+ |            15+ |            13+ |    14+ |           9+ |
+| 5-6    |                       11+ |            11+ |            14+ |            12+ |    13+ |           8+ |
+| 7-8    |                       10+ |            10+ |            13+ |            11+ |    12+ |           7+ |
+| 9-10   |                        9+ |             9+ |            12+ |            10+ |    11+ |           6+ |
+| 11-12  |                        8+ |             8+ |            11+ |             9+ |    10+ |           5+ |
+| 13-14+ |                        7+ |             7+ |            10+ |             8+ |     9+ |           4+ |
 
 
 ### Thief Skills
 
-Level	Open Locks	Find and Remove Traps	Pick Pockets*	Move Silently	Climb Walls	Hide in Shadows	Hear Noise
+| Level | Open Locks | Find and Remove Traps | Pick Pockets* | Move Silently | Climb Walls | Hide in Shadows | Hear Noise |
+| :---- | ---------: | --------------------: | ------------: | ------------: | ----------: | --------------: | ---------: |
+|     1 |        18+ |                   18+ |           17+ |           17+ |          6+ |             19+ |        14+ |
+|     2 |        17+ |                   17+ |           16+ |           16+ |          5+ |             18+ |        13+ |
+|     3 |        16+ |                   16+ |           15+ |           15+ |          5+ |             17+ |        12+ |
+|     4 |        15+ |                   15+ |           14+ |           14+ |          4+ |             16+ |        11+ |
+|     5 |        14+ |                   14+ |           13+ |           13+ |          4+ |             15+ |        10+ |
+|     6 |        12+ |                   13+ |           12+ |           12+ |          4+ |             14+ |         9+ |
+|     7 |        10+ |                   11+ |           10+ |           10+ |          3+ |             12+ |         8+ |
+|     8 |         8+ |                    9+ |            8+ |            8+ |          3+ |             10+ |         7+ |
+|     9 |         6+ |                    7+ |            6+ |            6+ |          3+ |              8+ |         6+ |
+|    10 |         4+ |                    5+ |            4+ |            4+ |          3+ |              6+ |         5+ |
+|    11 |         3+ |                    3+ |            2+ |            2+ |          2+ |              4+ |         4+ |
+|    12 |         2+ |                    2+ |           -1+ |            2+ |          2+ |              3+ |         3+ |
+|    13 |         1+ |                    2+ |           -3+ |            1+ |          1+ |              2+ |         2+ |
+|    14 |         1+ |                    1+ |           -5+ |            1+ |          1+ |              1+ |         1+ |
 
-1	18+  		18+  	 		17+  		17+  		6+    		19+  		14+
-
-2	17+		17+			16+		16+		5+		18+		13+	
-
-3	16+		16+			15+		15+		5+		17+		12+
-
-4	15+		15+			14+		14+		4+		16+		11+
-
-5	14+		14+			13+		13+		4+		15+		10+	
-
-6	12+		13+			12+		12+		4+		14+		9+
-
-7	10+		11+			10+		10+		3+		12+		8+
-
-8	8+		9+			8+		8+		3+		10+		7+
-
-9	6+		7+			6+		6+		3+		8+		6+
-
-10	4+		5+			4+		4+		3+		6+		5+
-
-11	3+		3+			2+		2+		2+		4+		4+
-
-12	2+		2+			-1+		2+		2+		3+		3+
-
-13	1+		2+			-3+		1+		1+		2+		2+	
-
-14	1+		1+			-5+		1+		1+		1+		1+
-* -1 penalty on the proficiency throw per each level the thief is lower than the victim.
+*-1 penalty on the proficiency throw per each level the thief is lower than the victim.
 
 
 ### Campaign Classes
@@ -1219,4 +1111,5 @@ The worlds of Adventurer Conqueror King are dangerous and hostile. For the sake 
 
 Occasionally, there are not enough party members to take on the challenges of an adventure. The party may hire NPCs, such as henchmen or mercenaries, for extra hands. The rules for hiring henchmen and mercenaries are discussed in Chapter 3, Equipment. 
 
-When there are only a small number of players, the Judge may allow them to each play more than one character. Nevertheless, in these cases characters belonging to the same player cannot offer each other special treatment, such as trading or giving away riches or magical items, unless the Judge rules it acceptable. 
+When there are only a small number of players, the Judge may allow them to each play more than one character. Nevertheless, in these cases characters belonging to the same player cannot offer each other special treatment, such as trading or giving away riches or magical items, unless the Judge rules it acceptable.
+
