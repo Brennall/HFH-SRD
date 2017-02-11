@@ -24,7 +24,7 @@ You've taken the first step on your adventure, but you are still a 0th level hum
 9. Give your character a name, and create a description of what your character looks like, his personality, and maybe even a brief note about the character's background. Then choose an appropriate Alignment for your character. Your Judge will have information on the setting of your character's world that can be helpful in naming your new character and developing his background.
 
 
-### Generating Multiple Characters (Optional)
+#### Generating Multiple Characters (Optional)
 
 As an optional rule, at the start of play, each player generates five characters and select one primary and two back-up characters. The remaining two characters are given to the Judge to use as NPCs to populate the campaign setting. If the primary and back-ups are all killed, the player generates five additional characters, again picking three and giving the Judge two. This ensures that the player always has a variety of characters to choose from to find one he likes, and gives the Judge some additional NPCs to populate the world.
 
@@ -109,7 +109,7 @@ Starting Equipment: | Well-oiled sword, metal shield re-painted many times, slig
 This pre-generated template represents a wary sellsword. The template is ready for adventure. However, if your fighter's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4).
 
 
-### Fighter Level Progression
+#### Fighter Level Progression
 
 | Experience | Title             | Level | Hit Dice | Damage Bonus |
 | ---------: | :---------------- | ----: | :------- | -----------: |
@@ -131,7 +131,7 @@ This pre-generated template represents a wary sellsword. The template is ready f
 *Hit point modifiers from constitution are ignored
 
 
-### Fighter Attack and Saving Throws
+#### Fighter Attack and Saving Throws
 
 | Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
 | :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
@@ -174,7 +174,7 @@ Starting Equipment: | Rune-etched quarterstaff, blue mage's cassock, shoes, back
 This pre-generated template represents a curious magical scholar from an organized guild of mages. The template is ready for adventure. However, if your mage's INT is 13 or greater, you may pick one or more additional general proficiencies and starting spells before play if you'd like (see Starting Proficiencies in Chapter 4 and Spell Repertoire in Chapter 5).
 
 
-### Mage Level and Spell Progression
+#### Mage Level and Spell Progression
 
 | Experience | Title            | Level | Hit Dice |   1 |   2 |   3 |   4 |   5 |   6 |
 | ---------: | :--------------- | ----: | :------- | --: | --: | --: | --: | --: | --: |
@@ -196,7 +196,7 @@ This pre-generated template represents a curious magical scholar from an organiz
 *Hit point modifiers from constitution are ignored
 
 
-### Mage Attack and Saving Throws
+#### Mage Attack and Saving Throws
 
 | Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
 | :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
@@ -250,7 +250,7 @@ Starting Equipment: | Mace, wooden shield, banded plate armor, priest's cassock,
 This pre-generated template represents a devout priest from an organized religious order. The template is ready for adventure. However, if your cleric's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4).
 
 
-### Cleric Level and Spell Progression
+#### Cleric Level and Spell Progression
 
 | Experience | Title               | Level | Hit Dice |   1 |   2 |   3 |   4 |   5 |
 | ---------: | :------------------ | ----: | :------- | --: | --: | --: | --: | --: |
@@ -272,7 +272,7 @@ This pre-generated template represents a devout priest from an organized religio
 *Hit point modifiers from constitution are ignored
 
 
-### Cleric Attack and Saving Throws
+#### Cleric Attack and Saving Throws
 
 | Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
 | :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
@@ -347,7 +347,7 @@ Starting Equipment: | 10' pole, short sword, 2 throwing daggers,  crossbow, case
 This pre-generated template represents a bold tomb raider. The template is ready for adventure. However, if your thief's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4).
 
 
-### Thief Level Progression
+#### Thief Level Progression
 
 | Experience | Title                    | Level | Hit Dice | Backstab |
 | ---------: | :----------------------- | ----: | :------- | -------: |
@@ -369,7 +369,7 @@ This pre-generated template represents a bold tomb raider. The template is ready
 *Hit point modifiers from constitution are ignored
 
 
-### Thief Attack and Saving Throws
+#### Thief Attack and Saving Throws
 
 | Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
 | :----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
@@ -434,7 +434,7 @@ Starting Equipment: | Serrated sword, left-hand dagger, black leather armor, arm
 This pre-generated template represents a swaggering killer-for-hire. The template is ready for adventure. However, if your assassin's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4).
 
 
-### Assassin Level Progression
+#### Assassin Level Progression
 
 | Experience | Title                       | Level | Hit Dice | Damage Bonus | Backstab |
 | ---------: | :-------------------------- | ----: | :------- | -----------: | -------: |
@@ -456,7 +456,7 @@ This pre-generated template represents a swaggering killer-for-hire. The templat
 *Hit point modifiers from constitution are ignored
 
 
-### Assassin (Fighter) Attack and Saving Throws
+#### Assassin (Fighter) Attack and Saving Throws
 
 | Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
 | :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
@@ -509,7 +509,7 @@ Starting Equipment: | Crossbow, quiver with 20 bolts, short sword, dagger, well-
 This pre-generated template represents a wandering minstrel with magic in his song. The template is ready for adventure. However, if your bard's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4).
 
 
-### Bard Level Progression
+#### Bard Level Progression
 
 | Experience | Title            | Level | Hit Dice | Arcane Dabbling | Loremastery |
 | ---------: | :--------------- | ----: | :------- | --------------: | ----------: |
@@ -531,7 +531,7 @@ This pre-generated template represents a wandering minstrel with magic in his so
 *Hit point modifiers from constitution are ignored
 
 
-### Bard (Thief) Attack and Saving Throws
+#### Bard (Thief) Attack and Saving Throws
 
 | Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
 | :----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
@@ -573,7 +573,7 @@ Starting Equipment: | Pair of gracefully curved swords, polished leather armor, 
 This pre-generated template represents a temple-trained bladedancer. The template is ready for adventure. However, if your bladedancer's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4).
 
 
-### Bladedancer Level and Spell Progression
+#### Bladedancer Level and Spell Progression
 
 | Experience | Title                      | Level | Hit Dice | AC Bonus |   1 |   2 |   3 |   4 |   5 |
 | ---------: | :------------------------- | ----: | :------- | -------: | --: | --: | --: | --: | --: |
@@ -595,7 +595,7 @@ This pre-generated template represents a temple-trained bladedancer. The templat
 *Hit point modifiers from constitution are ignored
 
 
-### Bladedancer (Cleric) Attack and Saving Throws
+#### Bladedancer (Cleric) Attack and Saving Throws
 
 | Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
 | :----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
@@ -639,7 +639,7 @@ Starting Equipment: | Sturdy longbow, quiver with 20 arrows, spear, short sword,
 This pre-generated template represents a keen-eyed archer and tracker. The template is ready for adventure. However, if your explorer's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4).
 
 
-### Explorer Level Progression
+#### Explorer Level Progression
 
 | Experience    | Title                   | Level  | Hit Dice       | Damage Bonus |
 | ------------: | :---------------------- | -----: | :------------- | -----------: |
@@ -661,7 +661,7 @@ This pre-generated template represents a keen-eyed archer and tracker. The templ
 *Hit point modifiers from constitution are ignored
 
 
-### Explorer (Fighter) Attack and Saving Throws
+#### Explorer (Fighter) Attack and Saving Throws
 
 | Level             | Petrification & Paralysis   | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
 | :---------------- | --------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
@@ -709,7 +709,7 @@ Starting Equipment: | Dwarven battle axe, brace of 3 hand axes, rust-free banded
 This pre-generated template represents a dwarven vaultguard specializing in fighting goblins, kobolds, and other denizens of the darkness below. The template is ready for adventure. However, if your dwarven vaultguard's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4).
 
 
-### Dwarven Vaultguard Level Progression
+#### Dwarven Vaultguard Level Progression
 
 | Experience        | Title                       | Level          | Hit Dice       | Damage Bonus |
 | ----------------: | :-------------------------- | -------------: | :------------- | -----------: |
@@ -730,7 +730,7 @@ This pre-generated template represents a dwarven vaultguard specializing in figh
 *Hit point modifiers from constitution are ignored
 
 
-### Dwarven Vaultguard (Fighter) Attack and Saving Throws
+#### Dwarven Vaultguard (Fighter) Attack and Saving Throws
 
 | Level  | Petrification & Paralysis  | Poison & Death     | Blast & Breath         | Staffs & Wands         | Spells         | Attack Throw |
 | :----- | -------------------------: | -----------------: | ---------------------: | ---------------------: | -------------: | -----------: |
@@ -775,7 +775,7 @@ Starting Equipment:    | Warhammer with carved head, engraved banded plate armor
 This pre-generated template represents a craftpriest focused on reclaiming lost artifacts from evil forces. The template is ready for adventure. However, if your dwarven craftpriest's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4).
 
 
-### Craftpriest Level and Spell Progression
+#### Craftpriest Level and Spell Progression
 
 | Experience | Title                        | Level | Hit Dice |   1 |   2 |   3 |   4 |   5 |
 | ---------: | :--------------------------- | ----: | :------- | --: | --: | --: | --: | --: |
@@ -793,7 +793,7 @@ This pre-generated template represents a craftpriest focused on reclaiming lost 
 *Hit point modifiers from constitution are ignored
 
 
-### Dwarven Craftpriest (Cleric) Attack and Saving Throws
+#### Dwarven Craftpriest (Cleric) Attack and Saving Throws
 
 | Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
 | :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
@@ -833,7 +833,7 @@ Starting Equipment:   | Gracefully curved sword and dagger, elven composite bow,
 This pre-generated template represents a traditional fighter-mage of elven heritage. The template is ready for adventure. However, if your elven spellsword's INT is 13 or greater, you may pick one or more additional general proficiencies and starting Spells before play if you'd like (see Starting Proficiencies in Chapter 4 and Spell Repertoire in Chapter 5).
 
 
-### Spellsword Level and Spell Progression
+#### Spellsword Level and Spell Progression
 
 | Experience | Title                   | Level | Hit Dice |   1 |   2 |   3 |   4 |
 | ---------: | :---------------------- | ----: | :------- | --: | --: | --: | --: |
@@ -851,7 +851,7 @@ This pre-generated template represents a traditional fighter-mage of elven herit
 *Hit point modifiers from constitution are ignored
 
 
-### Elven Spellsword (Fighter) Attack and Saving Throws
+#### Elven Spellsword (Fighter) Attack and Saving Throws
 
 | Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
 | :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
@@ -895,7 +895,7 @@ Starting Equipment:    | Crossbow, case with 20 quarrels, sword, dagger, leather
 This pre-generated template represents a silent killer with a penchant for poisons and potions. The template is ready for adventure. However, if your elven nightblade's INT is 13 or greater, you may pick one or more additional general proficiencies and starting spells before play if you'd like (see Starting Proficiencies in Chapter 4).
 
 
-### Nightblade Level and Spell Progression
+#### Nightblade Level and Spell Progression
 
 | Experience | Title                  | Level  | Hit Dice | Acrobatics |   1 |   2 |   3 |
 | ---------: | :--------------------- | -----: | :------- | ---------: | --: | --: | --: |
@@ -914,7 +914,7 @@ This pre-generated template represents a silent killer with a penchant for poiso
 *Hit point modifiers from constitution are ignored
 
 
-### Elven Nightblade (Thief) Attack and Saving Throws
+#### Elven Nightblade (Thief) Attack and Saving Throws
 
 | Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
 | :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
