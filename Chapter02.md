@@ -3,25 +3,25 @@
 
 ### Creating a Character
 
-You’ve taken the first step on your adventure, but you are still a 0th level human. Don’t despair, because you become 1st level when you create your first character, and progress from there! To create a character, follow the nine steps below:
+You've taken the first step on your adventure, but you are still a 0th level human. Don't despair, because you become 1st level when you create your first character, and progress from there! To create a character, follow the nine steps below:
 
 1. Start with a fresh character sheet. You can copy the one provided in this book, download and print one, or reproduce it by hand on a piece of paper. If all else fails, just scribble down notes on scratch paper!
 
-2. Roll 3d6 in order for your character’s ability scores, as described below under Character Abilities, and write the results after the names of the abilities. Write down the ability score bonus or penalty for each score, as shown on the Ability Score table. 
+2. Roll 3d6 in order for your character's ability scores, as described below under Character Abilities, and write the results after the names of the abilities. Write down the ability score bonus or penalty for each score, as shown on the Ability Score table. 
 
-3. Choose a class which suits your character’s abilities from the Character Classes section. All classes have prime requisites, and some classes require minimum scores for some abilities. If abilities are not quite high enough for the class you would like to play, see Classes and Ability Scores for some options to adjust your scores. Write down the special abilities of your class, as described for each class.  
+3. Choose a class which suits your character's abilities from the Character Classes section. All classes have prime requisites, and some classes require minimum scores for some abilities. If abilities are not quite high enough for the class you would like to play, see Classes and Ability Scores for some options to adjust your scores. Write down the special abilities of your class, as described for each class.  
 
 4. Note on your character sheet that your character has zero (0) experience points (or XP); you may also want to note the number needed to advance to second level, as shown in the table for your class. Gaining experience points is explained in the Adventures and Campaigns chapters. 
 
-5. Roll hit points (hp) using the appropriate die for your class, adding your Constitution bonus or penalty, and note the result as your hit points on your character sheet. If your character has a Constitution penalty, the penalty will not lower any Hit Die roll below 1. (At your Judge’s discretion, you may begin with the maximum hit points for 1st level.)
+5. Roll hit points (hp) using the appropriate die for your class, adding your Constitution bonus or penalty, and note the result as your hit points on your character sheet. If your character has a Constitution penalty, the penalty will not lower any Hit Die roll below 1. (At your Judge's discretion, you may begin with the maximum hit points for 1st level.)
 
-6. Record your character’s attack throws and saving throws on your character sheet. Attack throws and saving throws are listed with each class, and described fully in the Adventures chapter. Note that attacks with melee weapons are modified by your Strength, while missile weapons such as bows or thrown daggers are modified by Dexterity. Don’t forget to adjust your attack throws to reflect these modifiers. 
+6. Record your character's attack throws and saving throws on your character sheet. Attack throws and saving throws are listed with each class, and described fully in the Adventures chapter. Note that attacks with melee weapons are modified by your Strength, while missile weapons such as bows or thrown daggers are modified by Dexterity. Don't forget to adjust your attack throws to reflect these modifiers. 
 
-7. Choose your character’s starting proficiencies from the Proficiencies chapter. Apply any modifiers to your ability scores, hit points, attack throws, or saving throws from proficiencies. If you have chosen to play a mage or elven spellsword, roll for your starting spells, as described in the Spells chapter.
+7. Choose your character's starting proficiencies from the Proficiencies chapter. Apply any modifiers to your ability scores, hit points, attack throws, or saving throws from proficiencies. If you have chosen to play a mage or elven spellsword, roll for your starting spells, as described in the Spells chapter.
 
-8. Generate your character’s starting wealth by rolling 3d6x10 gold pieces (gp) and purchase equipment for your character from the lists in the Equipment chapter. Write your purchases on your character sheet, and note how much money remains afterward. Make sure you understand the weapon and armor restrictions for your class before making your purchases. Since you now know what armor your character is wearing, note your Armor Class (AC) on the character sheet based on the type of armor you choose. Don’t forget to add your Dexterity bonus or penalty to AC. Likewise, record your weapon damages based on the type of weapons you choose, modified by your Strength bonus or penalty. Calculate your character’s encumbrance based on how much weight he is carrying.
+8. Generate your character's starting wealth by rolling 3d6x10 gold pieces (gp) and purchase equipment for your character from the lists in the Equipment chapter. Write your purchases on your character sheet, and note how much money remains afterward. Make sure you understand the weapon and armor restrictions for your class before making your purchases. Since you now know what armor your character is wearing, note your Armor Class (AC) on the character sheet based on the type of armor you choose. Don't forget to add your Dexterity bonus or penalty to AC. Likewise, record your weapon damages based on the type of weapons you choose, modified by your Strength bonus or penalty. Calculate your character's encumbrance based on how much weight he is carrying.
 
-9. Give your character a name, and create a description of what your character looks like, his personality, and maybe even a brief note about the character’s background. Then choose an appropriate Alignment for your character. Your Judge will have information on the setting of your character’s world that can be helpful in naming your new character and developing his background.
+9. Give your character a name, and create a description of what your character looks like, his personality, and maybe even a brief note about the character's background. Then choose an appropriate Alignment for your character. Your Judge will have information on the setting of your character's world that can be helpful in naming your new character and developing his background.
 
 
 ### Generating Multiple Characters (Optional)
@@ -39,33 +39,33 @@ When complete, your character will have a score ranging from 3 to 18 in each of 
 
 **Intelligence**: This is the ability to learn and apply knowledge. Intelligence is a prime requisite for elven nightblades, elven spellswords, and mages. The ability bonus for Intelligence is added to the number of proficiencies the character begins play with (see the Proficiencies chapter for details) and the number of languages the character is able to learn to read and write, as described below. Mages, elven nightblades, and elven spellswords increase the number of spells of each level in their repertoire by their Intelligence bonus (see the Spells chapter for details). 
 
-All characters begin the game knowing their native language. In most campaign worlds, the majority of humans speak a common language, often called “Common.”  The demi-human races (elves and dwarves) have their own languages, and members of these  races normally begin play knowing their racial language, Common (or the local human language if it isn't called Common), and certain other languages based on the race. 
+All characters begin the game knowing their native language. In most campaign worlds, the majority of humans speak a common language, often called "Common."  The demi-human races (elves and dwarves) have their own languages, and members of these  races normally begin play knowing their racial language, Common (or the local human language if it isn't called Common), and certain other languages based on the race. 
 
-A character with an Intelligence penalty will only know his native language, and cannot read more than a word or two. Characters with at least average Intelligence (9-12) will be literate in any languages they can speak. Characters with an Intelligence bonus may begin the game knowing one or more languages other than those given above; the number of additional languages that may be learned is equal to the Intelligence bonus (+1, +2, or +3). The player may also choose to leave one or more bonus language “slots” open, to be filled during play.
+A character with an Intelligence penalty will only know his native language, and cannot read more than a word or two. Characters with at least average Intelligence (9-12) will be literate in any languages they can speak. Characters with an Intelligence bonus may begin the game knowing one or more languages other than those given above; the number of additional languages that may be learned is equal to the Intelligence bonus (+1, +2, or +3). The player may also choose to leave one or more bonus language "slots" open, to be filled during play.
 
-The languages available to characters include the demi-human languages (Elven, Dwarven, Gnomish, and Halfling) and the various beastmen dialects (e.g. Orc, Goblin). At the Judge’s discretion, player characters may also begin play knowing ancient or archaic tongues, or exotic languages such as Draconic (the language of dragons). The specific languages available will depend on the campaign setting.
+The languages available to characters include the demi-human languages (Elven, Dwarven, Gnomish, and Halfling) and the various beastmen dialects (e.g. Orc, Goblin). At the Judge's discretion, player characters may also begin play knowing ancient or archaic tongues, or exotic languages such as Draconic (the language of dragons). The specific languages available will depend on the campaign setting.
 
-**Wisdom**: A combination of intuition, willpower and common sense. Wisdom is a prime requisite for bladedancers, clerics, and dwarven craftpriests. The Wisdom bonus or penalty applies to saving throws caused by spells or magic items. This would include, e.g., a save versus Blast against a fireball or a save versus Death from a finger of death, but not a save versus Petrification against a medusa’s gaze. 
+**Wisdom**: A combination of intuition, willpower and common sense. Wisdom is a prime requisite for bladedancers, clerics, and dwarven craftpriests. The Wisdom bonus or penalty applies to saving throws caused by spells or magic items. This would include, e.g., a save versus Blast against a fireball or a save versus Death from a finger of death, but not a save versus Petrification against a medusa's gaze. 
 
-**Dexterity**: This ability measures the character's quickness and balance as well as his aptitude with tools. Dexterity is a prime requisite for assassins, bards, bladedancers, elven nightblades, explorers, and thieves. A character’s Dexterity bonus or penalty is applied to his attack throws with missile weapons, Armor Class value, and Initiative die rolls.
+**Dexterity**: This ability measures the character's quickness and balance as well as his aptitude with tools. Dexterity is a prime requisite for assassins, bards, bladedancers, elven nightblades, explorers, and thieves. A character's Dexterity bonus or penalty is applied to his attack throws with missile weapons, Armor Class value, and Initiative die rolls.
 
 **Constitution**: Constitution is a combination of general health and vitality.  Apply the Constitution bonus or penalty to each Hit Die rolled by the character.  Note that a penalty here cannot reduce any Hit Die roll to less than 1 point.
 
-**Charisma**: This is the ability to influence or even lead people; those with high Charisma are well-liked, or at least highly respected. Charisma is a prime requisite for bards. Apply the Charisma bonus or penalty to the character’s reaction rolls. Charisma also determines the maximum number of henchmen the character may employ, and modifies their morale.  The number of henchmen a character may hire is equal to 4 plus the Charisma bonus or penalty (and therefore ranges from 1 to 7); the average morale of any such henchmen will be 0, modified by the character’s Charisma bonus or penalty.
+**Charisma**: This is the ability to influence or even lead people; those with high Charisma are well-liked, or at least highly respected. Charisma is a prime requisite for bards. Apply the Charisma bonus or penalty to the character's reaction rolls. Charisma also determines the maximum number of henchmen the character may employ, and modifies their morale.  The number of henchmen a character may hire is equal to 4 plus the Charisma bonus or penalty (and therefore ranges from 1 to 7); the average morale of any such henchmen will be 0, modified by the character's Charisma bonus or penalty.
 
 
 ### Classes and Ability Scores
 
-Once abilities have been determined, each player must choose a class. Each class has one or more prime requisite ability scores. A character must have an ability score of at least 9 in a class’s prime requisite(s) in order to choose a particular class. Some classes have additional minimum ability score requirements. A character must have the minimum required ability, if one is indicated, in order to choose a particular class.
+Once abilities have been determined, each player must choose a class. Each class has one or more prime requisite ability scores. A character must have an ability score of at least 9 in a class's prime requisite(s) in order to choose a particular class. Some classes have additional minimum ability score requirements. A character must have the minimum required ability, if one is indicated, in order to choose a particular class.
 
-If a character’s prime requisite ability is high enough, the character will receive a bonus to experience points earned during play. The Ability Prime Requisite table, below, details the effect a score in a prime requisite has on experience points earned by characters. If a class has two prime requisites, calculate the character’s experience adjustment based on whichever prime requisite has the lower ability score. 
+If a character's prime requisite ability is high enough, the character will receive a bonus to experience points earned during play. The Ability Prime Requisite table, below, details the effect a score in a prime requisite has on experience points earned by characters. If a class has two prime requisites, calculate the character's experience adjustment based on whichever prime requisite has the lower ability score. 
 
-Once a player has selected his character class, he may raise the class’s prime requisite ability or abilities if desired by sacrificing points in other abilities. 2 ability points may be sacrificed from an ability to raise a prime requisite ability 1 point. This may be done more than once, but no ability can be lowered below 9, and no ability may be lowered if it is also a prime requisite for the class, even if there are a few points to spare above the minimum required score. 
+Once a player has selected his character class, he may raise the class's prime requisite ability or abilities if desired by sacrificing points in other abilities. 2 ability points may be sacrificed from an ability to raise a prime requisite ability 1 point. This may be done more than once, but no ability can be lowered below 9, and no ability may be lowered if it is also a prime requisite for the class, even if there are a few points to spare above the minimum required score. 
 
 
 ### Hit Points
 
-Hit points are a measure of a character’s ability to survive in combat. When a character, or any other being, is reduced to 0 or fewer hit points, he is incapacitated and possibly dead. Hit points are not a direct representation of the character’s capacity to receive physical injury. Rather, they represent a holistic combination of fighting skill, stamina, luck, and the favor of the gods, all of which contribute to helping the character roll with blows and survive attacks that would have killed a lesser combatant. 
+Hit points are a measure of a character's ability to survive in combat. When a character, or any other being, is reduced to 0 or fewer hit points, he is incapacitated and possibly dead. Hit points are not a direct representation of the character's capacity to receive physical injury. Rather, they represent a holistic combination of fighting skill, stamina, luck, and the favor of the gods, all of which contribute to helping the character roll with blows and survive attacks that would have killed a lesser combatant. 
 
 Each character class rolls a different kind of die to determine hit points, as noted in the Character Classes section, based on their toughness in battle. One die is rolled at first level, and further dice are rolled and cumulatively added to the total hp for each level of experience, unless otherwise noted. One optional rule, to allow first level characters to be hardier, is for the Judge to allow all hp rolls for first level characters to be considered the maximum result (e.g. an 8 for fighters or a 6 for clerics.)
 
@@ -78,7 +78,7 @@ The core human classes described in these rules are the fighter, mage, cleric, a
 
 Compared to humans, demi-humans are rare, and generally more specialized. Demi-human classes are defined by their race, with different classes available for dwarves, elves, and other demi-humans. The demi-human classes described in these rules are the dwarven vaultguard, dwarven craftpriest, elven spellsword, and elven nightblade. 
 
-Selecting equipment and proficiencies can be time-consuming, especially for new players. As a faster alternative, we offer a pre-generated template for each class, with weapons, armor, equipment, proficiencies, and spells ready for play. If you want to use these templates, you can skip step 8 (picking proficiencies and spells) and 9 (rolling for starting wealth and purchasing equipment) of character generation and simply use the template. A variety of additional templates, new classes, and rules for creating customized classes are available in the Adventurer Conqueror King System Player’s Companion, available separately from Autarch. 
+Selecting equipment and proficiencies can be time-consuming, especially for new players. As a faster alternative, we offer a pre-generated template for each class, with weapons, armor, equipment, proficiencies, and spells ready for play. If you want to use these templates, you can skip step 8 (picking proficiencies and spells) and 9 (rolling for starting wealth and purchasing equipment) of character generation and simply use the template. A variety of additional templates, new classes, and rules for creating customized classes are available in the Adventurer Conqueror King System Player's Companion, available separately from Autarch. 
 
 
 ### Core Classes
@@ -96,7 +96,7 @@ Fighters are exclusively trained in the arts of combat and war. They are special
 
 As their name suggests, fighters are exceptionally skilled combatants. Fighters are trained in the use of all weapons and armor. They may fight wielding a weapon and shield, wielding a two-handed weapon, or wielding a weapon in each hand, as desired. At first level, fighters hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws and saving throws by two points every three levels of experience (the best progression of any class). Fighters also increase their base damage roll from successful missile and melee attacks by +1 at 1st level and by an additional +1 at 3rd, 6th, 9th, and 12th level. 
 
-When a fighter reaches 5th level (Exemplar), his battlefield prowess inspires others to follow him. Any henchmen and mercenaries hired by the fighter gain a +1 bonus to their morale score whenever he personally leads them. This bonus stacks with any modifiers from the fighter’s Charisma or proficiencies.
+When a fighter reaches 5th level (Exemplar), his battlefield prowess inspires others to follow him. Any henchmen and mercenaries hired by the fighter gain a +1 bonus to their morale score whenever he personally leads them. This bonus stacks with any modifiers from the fighter's Charisma or proficiencies.
 
 At 9th level (Warlord), a fighter can, assuming enough gold is at hand, build a castle and become a great leader of men, taking a leadership rank in his society. When he does so, up 1d4+1x10 0th level mercenaries and 1d6 fighters of 1st-3rd level will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries. Through force of arms, the fighter may ultimately control several castles or even entire realms, but must be a capable, strong leader and provide protection. Additional rules for castles are detailed in the Campaign chapter.
 
@@ -104,9 +104,9 @@ At 9th level (Warlord), a fighter can, assuming enough gold is at hand, build a 
 Template:           | Mercenary 
 :------------------ | :--------
 Proficiencies:      | Combat Reflexes, Manual of Arms
-Starting Equipment: | Well-oiled sword, metal shield re-painted many times, slightly battered chainmail armor, crossbow, case with 20 quarrels,  military tunic, boots, backpack, 2 week’s iron rations
+Starting Equipment: | Well-oiled sword, metal shield re-painted many times, slightly battered chainmail armor, crossbow, case with 20 quarrels,  military tunic, boots, backpack, 2 week's iron rations
 
-This pre-generated template represents a wary sellsword. The template is ready for adventure. However, if your fighter’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4).
+This pre-generated template represents a wary sellsword. The template is ready for adventure. However, if your fighter's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4).
 
 
 ### Fighter Level Progression
@@ -159,9 +159,9 @@ Sometimes called wizards, sorcerers, or magicians, mages study arcane secrets an
 
 Because of their devotion to arcane study, mages receive limited combat training. At first level, mages hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws and saving throws only two points every six levels of experience (i.e., half as fast as fighters). They may only fight with quarterstaffs, clubs, daggers, and darts. They are unable to use shields, fight with two weapons, or wear any kind of armor. For these reasons, mages are quite vulnerable to physical danger, and in an adventuring group they should be protected.
 
-In exchange for these weaknesses, mages can learn and cast many powerful arcane spells. The number and levels of spells the mage can use in a single day are listed on the Mage Spell Progression table. A mage’s spell selection is limited to the spells in his repertoire. A mage’s repertoire can include a number of spells up to to the number and level of spells listed for his level, increased by his Intelligence bonus. For instance, Quintus, a 3rd level mage, is able to cast 2 1st level spells and 1 2nd level spell per day. If he has 16 INT (+2 modifier) he can have up to 4 1st level and 3 2nd level spells in his repertoire. More information on casting spells and individual spell descriptions can be found in the Spells chapter.
+In exchange for these weaknesses, mages can learn and cast many powerful arcane spells. The number and levels of spells the mage can use in a single day are listed on the Mage Spell Progression table. A mage's spell selection is limited to the spells in his repertoire. A mage's repertoire can include a number of spells up to to the number and level of spells listed for his level, increased by his Intelligence bonus. For instance, Quintus, a 3rd level mage, is able to cast 2 1st level spells and 1 2nd level spell per day. If he has 16 INT (+2 modifier) he can have up to 4 1st level and 3 2nd level spells in his repertoire. More information on casting spells and individual spell descriptions can be found in the Spells chapter.
 
-When a mage reaches 5th level (Thaumaturge), he may begin to research spells, scribe magical scrolls, and brew potions. When a mage reaches 9th level (Wizard), he is able to create more powerful magic items such as weapons, rings, and staffs. A mage may also build a sanctum, often a great tower, when he reaches 9th level. He will then attract 1d6 apprentices of 1st-3rd level plus 2d6 normal men seeking to become mages. Their intelligence scores will be above average, but many will become discouraged from the rigorous mental training and quit after 1d6 months. While in the mage’s service, apprentices must be provided food and lodging, but need not be paid wages. If the mage builds a dungeon beneath or near his tower, monsters will start to arrive to dwell within, followed shortly by adventurers seeking to fight them. Additional rules for mages’ sanctum are detailed in the Campaign chapter.
+When a mage reaches 5th level (Thaumaturge), he may begin to research spells, scribe magical scrolls, and brew potions. When a mage reaches 9th level (Wizard), he is able to create more powerful magic items such as weapons, rings, and staffs. A mage may also build a sanctum, often a great tower, when he reaches 9th level. He will then attract 1d6 apprentices of 1st-3rd level plus 2d6 normal men seeking to become mages. Their intelligence scores will be above average, but many will become discouraged from the rigorous mental training and quit after 1d6 months. While in the mage's service, apprentices must be provided food and lodging, but need not be paid wages. If the mage builds a dungeon beneath or near his tower, monsters will start to arrive to dwell within, followed shortly by adventurers seeking to fight them. Additional rules for mages' sanctum are detailed in the Campaign chapter.
 
 At 11th level, a mage may learn and cast ritual arcane spells of great power (7th, 8th, and 9th level), craft magical constructs, and create magical cross-breeds. If chaotic, the mage may create necromantic servants and become undead. These rules are in the Campaign chapter.
 
@@ -169,9 +169,9 @@ At 11th level, a mage may learn and cast ritual arcane spells of great power (7t
 Template:           | Magical Scholar
 :------------------ | :--------------
 Proficiencies:      | Loremastery, Collegiate Wizardry
-Starting Equipment: | Rune-etched quarterstaff, blue mage’s cassock, shoes, backpack,  spell book with sleep, 2  week’s iron rations, 85gp
+Starting Equipment: | Rune-etched quarterstaff, blue mage's cassock, shoes, backpack,  spell book with sleep, 2  week's iron rations, 85gp
 
-This pre-generated template represents a curious magical scholar from an organized guild of mages. The template is ready for adventure. However, if your mage’s INT is 13 or greater, you may pick one or more additional general proficiencies and starting spells before play if you’d like (see Starting Proficiencies in Chapter 4 and Spell Repertoire in Chapter 5). 
+This pre-generated template represents a curious magical scholar from an organized guild of mages. The template is ready for adventure. However, if your mage's INT is 13 or greater, you may pick one or more additional general proficiencies and starting spells before play if you'd like (see Starting Proficiencies in Chapter 4 and Spell Repertoire in Chapter 5). 
 
 
 ### Mage Level and Spell Progression
@@ -219,13 +219,13 @@ Clerics are holy crusaders, trained to fight to further the ends of their faith.
 
 Clerics are skilled combatants, albeit not as good as fighters. At first level, clerics hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws and saving throws by two points every four levels of experience (a progression mid-way between fighters and mages). As holy warriors, clerics are trained to wear any armor and fight with a variety of weapons. The particular weapons that clerics are trained to fight with are determined by the strictures of their religious order. 
 
-If your Judge has not specified particular religious orders in his campaign, the default cleric is assumed to be a worshipper of the God of Law and Light. Strict holy doctrine prevents these clerics from using any weapons that shed blood.  The cleric of Law and Light may use only blunt weapons such as warhammers, maces, clubs, quarterstaffs, and slings. This cleric may use any shields or fight with two-handed weapons, but is not trained to fight with weapons in each hand (i.e. he may not ‘dual wield’).  (See the bladedancer campaign class for an example of a cleric variant with a different feel). 
+If your Judge has not specified particular religious orders in his campaign, the default cleric is assumed to be a worshipper of the God of Law and Light. Strict holy doctrine prevents these clerics from using any weapons that shed blood.  The cleric of Law and Light may use only blunt weapons such as warhammers, maces, clubs, quarterstaffs, and slings. This cleric may use any shields or fight with two-handed weapons, but is not trained to fight with weapons in each hand (i.e. he may not 'dual wield').  (See the bladedancer campaign class for an example of a cleric variant with a different feel). 
 
-All clerics have the ability to turn undead, calling upon the name and power of their deity to turn away, and even destroy, undead. The potency of this ability is determined by level. On the Turning Undead table, there will be a dash, a “T”, a “D”, or a number corresponding to the type of undead monster and the level of the cleric. A dash means that the cleric has not attained high enough level to turn the undead type. A “T” means that the cleric automatically turns the undead, and a “D” means that the undead will be destroyed automatically. A number indicates that the player must roll that number or higher on 1d20 in order to turn the undead. If this roll is successful, or there is a “T” in the chart, the player rolls 2d6 and the result equals the number of total Hit Dice of undead monsters turned. A “D” in the chart requires the same roll to determine how many HD of undead are destroyed. No matter what the dice roll result, at least one undead monster will always be turned or destroyed, as appropriate, on a successful use of turning. 
+All clerics have the ability to turn undead, calling upon the name and power of their deity to turn away, and even destroy, undead. The potency of this ability is determined by level. On the Turning Undead table, there will be a dash, a "T", a "D", or a number corresponding to the type of undead monster and the level of the cleric. A dash means that the cleric has not attained high enough level to turn the undead type. A "T" means that the cleric automatically turns the undead, and a "D" means that the undead will be destroyed automatically. A number indicates that the player must roll that number or higher on 1d20 in order to turn the undead. If this roll is successful, or there is a "T" in the chart, the player rolls 2d6 and the result equals the number of total Hit Dice of undead monsters turned. A "D" in the chart requires the same roll to determine how many HD of undead are destroyed. No matter what the dice roll result, at least one undead monster will always be turned or destroyed, as appropriate, on a successful use of turning. 
 
 There is no limit to how often a cleric may attempt to turn undead each day, but if an attempt to turn undead fails during an encounter, the cleric may not attempt to turn undead again for the remainder of that encounter. 
 
-*Example*: Balbus the Blessed, a 1st level cleric, attempts to turn 4 foul undead skeletons. When Balbus’s player looks at the Turning Undead table, the value corresponding to his level and the entry for skeletons is 10+. He will turn some undead on a roll of 10 or higher on 1d20. He rolls a result of 12, meaning some skeletons will be turned. To determine how many HD he turns, he rolls 2d6 and comes up with a 3. Since skeletons have 1 HD each, three of them flee, leaving one behind for Balbus to vanquish.
+*Example*: Balbus the Blessed, a 1st level cleric, attempts to turn 4 foul undead skeletons. When Balbus's player looks at the Turning Undead table, the value corresponding to his level and the entry for skeletons is 10+. He will turn some undead on a roll of 10 or higher on 1d20. He rolls a result of 12, meaning some skeletons will be turned. To determine how many HD he turns, he rolls 2d6 and comes up with a 3. Since skeletons have 1 HD each, three of them flee, leaving one behind for Balbus to vanquish.
 
 If Balbus had been attempting to turn zombies, or other undead that have 2 HD each, he would only have turned one, since a roll of three only completely accounts for one 2 HD monster.
 
@@ -233,21 +233,21 @@ Turned undead flee the area for 10 rounds by the best and fastest means availabl
 
 Certain chaotic sects teach their clerics to control undead rather than turn them. The undead are controlled for 1 turn per level of the cleric. If the undead would have been destroyed, the undead are controlled for 1 day per level of the cleric instead. Controlled undead behave as if charmed, obeying the cleric as if they were friends. However, if the controlled undead are turned or destroyed by a cleric during the duration of the control, the control is dispelled immediately. If the duration of the control ends without incident, the undead will flee (as if turned).
 
-Starting at 2nd level (Acolyte), clerics may manifest their deity’s power in the form of divine spells, which are granted through prayer and worship. The power and number of divine spells available to the character are determined by level according to the Cleric Spell Progression table. See the Spells chapter for a list of all available spells.
+Starting at 2nd level (Acolyte), clerics may manifest their deity's power in the form of divine spells, which are granted through prayer and worship. The power and number of divine spells available to the character are determined by level according to the Cleric Spell Progression table. See the Spells chapter for a list of all available spells.
 
 In order to use spells and turn undead, clerics must uphold the doctrines of their faith and god. If a cleric ever falls from favor, due to violating the beliefs of his god or breaking the rules of his clergy, the god may impose penalties upon the cleric. These penalties are entirely up to the Judge, but might include penalties to attack or a reduction in spells available. More information on casting spells and individual spell descriptions can be found in the Spells chapter.
 
 When a cleric reaches 5th level (Vicar), he may begin to research spells, scribe scrolls, and brew potions. At 9th level (Patriarch), he is able to create more powerful magic items such as weapons, rings, and staffs. At 11th level, a cleric may learn and cast ritual divine spells of great power (6th and 7th level), and craft magical constructs such as golems and animated statues. If chaotic, the cleric will become able to create necromantic servants and even become undead himself. These activities are explained in the Campaign chapter.
 
-Upon attaining 9th level (Patriarch), a cleric may establish or build a fortified church. So long as the cleric is currently in favor with his god, he may buy or build his fortified church at half the normal price due to divine intervention. Once a fortified church is established, the cleric’s reputation will spread and he will attract 5d6x10 0th level soldiers armed with various weapons, plus another 1d6 clerics of 1st-3rd level of the same religion to serve the order. They are completely loyal (morale +4). While in the cleric’s service, his followers must be provided food and lodging, but need not be paid wages. The Judge determines which proportions of followers are archers, infantry, etc. Additional rules for fortified churches are detailed in the Campaign chapter.
+Upon attaining 9th level (Patriarch), a cleric may establish or build a fortified church. So long as the cleric is currently in favor with his god, he may buy or build his fortified church at half the normal price due to divine intervention. Once a fortified church is established, the cleric's reputation will spread and he will attract 5d6x10 0th level soldiers armed with various weapons, plus another 1d6 clerics of 1st-3rd level of the same religion to serve the order. They are completely loyal (morale +4). While in the cleric's service, his followers must be provided food and lodging, but need not be paid wages. The Judge determines which proportions of followers are archers, infantry, etc. Additional rules for fortified churches are detailed in the Campaign chapter.
 
 
 Template:           | Priest 
 :------------------ | :-----
 Proficiencies:      | Divine Blessing, Theology
-Starting Equipment: | Mace, wooden shield, banded plate armor, priest’s cassock, shoes, backpack, 2 week’s iron rations, holy symbol, holy book
+Starting Equipment: | Mace, wooden shield, banded plate armor, priest's cassock, shoes, backpack, 2 week's iron rations, holy symbol, holy book
 
-This pre-generated template represents a devout priest from an organized religious order. The template is ready for adventure. However, if your cleric’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4). 
+This pre-generated template represents a devout priest from an organized religious order. The template is ready for adventure. However, if your cleric's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4). 
 
 
 ### Cleric Level and Spell Progression
@@ -310,23 +310,23 @@ Requirements:    | None
 Hit Dice:        | 1d4
 Maximum Level:   | 14
 
-Thieves have a range of unique skills associated with their profession that make them very handy companions in adventures. However, thieves can be a bit shady and they sometimes are not as trustworthy as other classes. A thief will usually belong to a Thieves’ Guild from the character’s local town, where he can seek shelter and information between adventures. At the Judge’s discretion, a thief may have to forfeit a portion of his earnings to the guild in exchange for protection. Thieves are everywhere, from the slums to the highest halls of the government. 
+Thieves have a range of unique skills associated with their profession that make them very handy companions in adventures. However, thieves can be a bit shady and they sometimes are not as trustworthy as other classes. A thief will usually belong to a Thieves' Guild from the character's local town, where he can seek shelter and information between adventures. At the Judge's discretion, a thief may have to forfeit a portion of his earnings to the guild in exchange for protection. Thieves are everywhere, from the slums to the highest halls of the government. 
 
 Thieves are trained combatants, although not as skilled as fighters. At first level, thieves hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws and saving throws by two points every four levels of experience. Because of their need of stealth and free movement, thieves cannot wear armor heavier than leather, and they cannot use shields. They may use any missile weapons and any one-handed melee weapons, and may wield a weapon in each hand if desired.
 
 A thief also has the ability to backstab. He must catch an opponent unaware of his presence, either by surprise or by moving silently and/or hiding in shadows to sneak up on his opponent. When backstabbing, the thief will receive an attack bonus of +4 and, if successful, deal additional damage for every four levels he has attained. A thief at 1st through 4th levels does double the normal damage, at 5th-8th levels does triple the normal damage, at 9th-12th levels does quadruple the normal damage, and at 13th level or higher does quintuple the normal damage. 
 
-Thieves have the following range of skills, which improve as the thief gains levels according to the progression on the Thief Skills table. When a thief attempts to make use of one of his skills, the character or Judge will make a proficiency throw of 1d20. (Usually the Judge will make rolls for these abilities, because a thief is not always aware when he has failed.) After applying any relevant modifiers (e.g. due to the complexity of a lock), the result is compared to the target value listed on the Thief Skills table below for the appropriate skill. A result that is greater than or equal to the value listed for the proficiency throw that corresponds to the thief’s level is a success. A roll of 20 is always a success, and a roll of 1 is always a failure. 
+Thieves have the following range of skills, which improve as the thief gains levels according to the progression on the Thief Skills table. When a thief attempts to make use of one of his skills, the character or Judge will make a proficiency throw of 1d20. (Usually the Judge will make rolls for these abilities, because a thief is not always aware when he has failed.) After applying any relevant modifiers (e.g. due to the complexity of a lock), the result is compared to the target value listed on the Thief Skills table below for the appropriate skill. A result that is greater than or equal to the value listed for the proficiency throw that corresponds to the thief's level is a success. A roll of 20 is always a success, and a roll of 1 is always a failure. 
 
-Opening Locks:  With the aid of thieves’ tools, a thief may pick mechanical locks. He may only try to pick a particular lock once, and if he fails, he may not try the same lock again until he reaches a higher experience level. The Judge may apply bonuses or penalties to the roll, depending on the complexity of the lock.
+Opening Locks:  With the aid of thieves' tools, a thief may pick mechanical locks. He may only try to pick a particular lock once, and if he fails, he may not try the same lock again until he reaches a higher experience level. The Judge may apply bonuses or penalties to the roll, depending on the complexity of the lock.
 
 Finding and Removing Traps:  Through careful inspection and probing, a thief may find hidden traps and then attempt to disable or discharge the trap harmlessly. A thief may only try to find or remove a trap once in any given area. . The Judge may apply bonuses or penalties to the roll, depending on the complexity of the trap. If the thief fails, he may not try again until he reaches a higher experience level. Note that these are separate skills, for a thief must find a trap before he can remove it.
 
-**Picking Pockets**: This skill is the bread and butter of non-adventuring thieves for it is a quick source of income — though not without peril. A throw that is less than half the target value means that the intended target notices the thieving attempt. The Judge will then make a reaction roll with a -3 penalty to determine the intended victim’s reaction.
+**Picking Pockets**: This skill is the bread and butter of non-adventuring thieves for it is a quick source of income - though not without peril. A throw that is less than half the target value means that the intended target notices the thieving attempt. The Judge will then make a reaction roll with a -3 penalty to determine the intended victim's reaction.
 
-**Moving Silently**: Thieves may move with total silence. When successful, even keen eared guards will not hear the movements of a thief. However, the thief always thinks he is successful in this skill, and will not know otherwise unless and until others react to his presence. Thieves may move silently at ½ their standard combat movement rate without penalty. If they move greater than ½ speed, they take a -5 penalty to the proficiency throw. If they run, they take a -10 penalty. 
+**Moving Silently**: Thieves may move with total silence. When successful, even keen eared guards will not hear the movements of a thief. However, the thief always thinks he is successful in this skill, and will not know otherwise unless and until others react to his presence. Thieves may move silently at  1/2  their standard combat movement rate without penalty. If they move greater than  1/2  speed, they take a -5 penalty to the proficiency throw. If they run, they take a -10 penalty. 
 
-**Climbing Walls**: Thieves are adept at scaling sheer surfaces, including walls or steep cliffs. They require a proficiency throw for each 100’ they intend to climb. If the roll fails, they fall a distance equal to half the attempted distance, plus the distance covered by any previous throws, taking 1d6 points of damage per 10 feet. Thieves climb at ¼ their standard combat movement rate. 
+**Climbing Walls**: Thieves are adept at scaling sheer surfaces, including walls or steep cliffs. They require a proficiency throw for each 100' they intend to climb. If the roll fails, they fall a distance equal to half the attempted distance, plus the distance covered by any previous throws, taking 1d6 points of damage per 10 feet. Thieves climb at  1/4  their standard combat movement rate. 
 
 **Hiding in Shadows**: A thief may attempt to skulk unseen in the cover of darkness. A thief will always think he is successful in this skill, and will not know otherwise until others react to his presence. A thief will remain hidden so long as he stays motionless. If he moves, he must make a new proficiency throw to hide.
 
@@ -334,17 +334,17 @@ Finding and Removing Traps:  Through careful inspection and probing, a thief may
 
 Upon attaining 4th level, a thief gains the ability to read languages (including ciphers, treasure maps, and dead languages, but not magical writings) with a proficiency throw of 5+ on 1d20. If the roll does not succeed, the thief may not try to read that particular piece of writing until he reaches a higher level of experience.
 
-When a thief attains 9th level (Master Thief), he can establish a hideout, and 2d6 thief apprentices of 1st level will come to work with the character. If hired, they must be paid standard rates for ruffians. A successful character might use these followers to start a Thieves’ Guild. Additional rules for hideouts are detailed in the Campaign chapter.
+When a thief attains 9th level (Master Thief), he can establish a hideout, and 2d6 thief apprentices of 1st level will come to work with the character. If hired, they must be paid standard rates for ruffians. A successful character might use these followers to start a Thieves' Guild. Additional rules for hideouts are detailed in the Campaign chapter.
 
-At 10th level, a thief can read and cast magic from arcane scrolls with a proficiency throw of 3+ on 1d20. However, a failed throw means the spell does not function as expected, and can create a horrible effect at the Judge’s discretion.
+At 10th level, a thief can read and cast magic from arcane scrolls with a proficiency throw of 3+ on 1d20. However, a failed throw means the spell does not function as expected, and can create a horrible effect at the Judge's discretion.
 
 
 Template:           | Tomb Raider 
 :------------------ | :----------
 Proficiencies:      | Trap Finding, Mapping
-Starting Equipment: | 10’ pole, short sword, 2 throwing daggers,  crossbow, case with 20 quarrels, sturdy leather armor, tanned brown cloak, thick tunic and leggings, high boots, backpack, 2 large treasure sacks, thieves’ tools, 50’ rope, tinderbox, lantern, hammer and 12 iron spikes, 2 flasks of military oil, wineskin, 2 week’s iron rations, 20sp
+Starting Equipment: | 10' pole, short sword, 2 throwing daggers,  crossbow, case with 20 quarrels, sturdy leather armor, tanned brown cloak, thick tunic and leggings, high boots, backpack, 2 large treasure sacks, thieves' tools, 50' rope, tinderbox, lantern, hammer and 12 iron spikes, 2 flasks of military oil, wineskin, 2 week's iron rations, 20sp
 
-This pre-generated template represents a bold tomb raider. The template is ready for adventure. However, if your thief’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4). 
+This pre-generated template represents a bold tomb raider. The template is ready for adventure. However, if your thief's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4). 
 
 
 ### Thief Level Progression
@@ -423,15 +423,15 @@ Assassins may use any weapon without limitation. Although assassins generally pr
 
 Assassins may wear any type of armor, but most favor stealth over steel. When wearing leather armor or lighter garb, an assassin may move silently, hide in shadows, and backstab as a thief of the same level. If wear armor heavier than leather, these abilities are not available. 
 
-Upon reaching 9th level (Assassin), an assassin may construct a hideout. When an assassin builds a hideout, he will gain 2d6 1st level assassin apprentices, come to learn under a master. If hired, they must be paid standard rates for ruffians.  These thugs will serve the character with some loyalty, though at least one will be an infiltrator working for the assassin’s local rivals, sent to keep an eye on the character. Additional rules for hideouts are detailed in the Campaign chapter.
+Upon reaching 9th level (Assassin), an assassin may construct a hideout. When an assassin builds a hideout, he will gain 2d6 1st level assassin apprentices, come to learn under a master. If hired, they must be paid standard rates for ruffians.  These thugs will serve the character with some loyalty, though at least one will be an infiltrator working for the assassin's local rivals, sent to keep an eye on the character. Additional rules for hideouts are detailed in the Campaign chapter.
 
 
 Template:           | Bravo
 :------------------ | :----
 Proficiencies:      | Fighting Style (Two-Weapon Fighting), Intimidation
-Starting Equipment: | Serrated sword, left-hand dagger, black leather armor, armiger’s tunic, duelist’s cloak, high boots, belt pouch with bone dice made from last foe, backpack, 2 week’s iron rations, 36gp
+Starting Equipment: | Serrated sword, left-hand dagger, black leather armor, armiger's tunic, duelist's cloak, high boots, belt pouch with bone dice made from last foe, backpack, 2 week's iron rations, 36gp
 
-This pre-generated template represents a swaggering killer-for-hire. The template is ready for adventure. However, if your assassin’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4). 
+This pre-generated template represents a swaggering killer-for-hire. The template is ready for adventure. However, if your assassin's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4). 
 
 
 ### Assassin Level Progression
@@ -488,28 +488,28 @@ Bards advance in attack throws and saving throws as a thief, by two points every
 
 All bards can sing, recite poetry, or play a group of instruments in a skilled manner. The bard chooses the type of performance that his character knows. A bard may take the Perform proficiency to learn other types of performances (see Chapter 4, Proficiencies). 
 
-By reciting heroic lays and epic poems, bards can inspire courage. Inspiring courage requires  a few moments of oration before a battle (one round), and grants the bard’s allies within a 50' radius a +1 bonus to attack throws, damage rolls, morale rolls (for monsters or NPCs allied with the caster), and saving throws against magical fear. The bonus lasts for 10 minutes (1 turn). A bard can inspire courage in any given character once per day per class level.  (Even the most inspiring epic gets old if you hear it twice in the same day.) A bard cannot inspire courage on characters who are already engaged in combat.
+By reciting heroic lays and epic poems, bards can inspire courage. Inspiring courage requires  a few moments of oration before a battle (one round), and grants the bard's allies within a 50' radius a +1 bonus to attack throws, damage rolls, morale rolls (for monsters or NPCs allied with the caster), and saving throws against magical fear. The bonus lasts for 10 minutes (1 turn). A bard can inspire courage in any given character once per day per class level.  (Even the most inspiring epic gets old if you hear it twice in the same day.) A bard cannot inspire courage on characters who are already engaged in combat.
 
 Because of their study of ancient annals and legends, bards possess loremastery. This knowledge allows them to decipher occult runes, remember ancient history, identify historic artifacts, and similar tasks. At 1st level, a bard must make a proficiency throw of 18+ on 1d20 to succeed in these tasks. The proficiency throw required reduces by 1 per level. 
 
-This same knowledge allows bards to dabble in the arcane. They may attempt to use wands, staffs, and other magic Items only useable by mages. At 1st level, the character must make a proficiency throw of 18+ on 1d20 or the attempt backfires in some desultory way (Judge’s discretion). The proficiency throw required reduces by 2 per level, to a minimum of 3+.
+This same knowledge allows bards to dabble in the arcane. They may attempt to use wands, staffs, and other magic Items only useable by mages. At 1st level, the character must make a proficiency throw of 18+ on 1d20 or the attempt backfires in some desultory way (Judge's discretion). The proficiency throw required reduces by 2 per level, to a minimum of 3+.
 
 Upon attaining 4th level (Annalist), the bard gains the ability to read languages, including ciphers, treasure maps, and dead languages, but not magical writings. A proficiency throw of 5+ on 1d20 is required. If the roll does not succeed, the bard may not try to read that particular piece of writing until he reaches a higher level of experience.
 
-When a bard reaches 5th level (Chronicler), his chronicles of battle inspire his hirelings to strive for glory. Any henchmen and mercenaries hired by the bard gain a +1 bonus to their morale score if the bard is there to witness and record their deeds. This bonus stacks with any modifiers from the bard’s Charisma or proficiencies.
+When a bard reaches 5th level (Chronicler), his chronicles of battle inspire his hirelings to strive for glory. Any henchmen and mercenaries hired by the bard gain a +1 bonus to their morale score if the bard is there to witness and record their deeds. This bonus stacks with any modifiers from the bard's Charisma or proficiencies.
 
 Upon reaching 9th level (Bard), a bard can build a hall and become a ruler. When he does so, up 1d4+1 x10 0th level mercenaries and 1d6 bards of 1st-3rd level will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries. Additional rules for halls are detailed in the Campaign chapter.
 
-At 10th level, the bard can read and cast magic from arcane scrolls with a proficiency throw of 3+ on 1d20. However, a failed throw means the spell does not function as expected, and can create a horrible effect at the Judge’s discretion.
+At 10th level, the bard can read and cast magic from arcane scrolls with a proficiency throw of 3+ on 1d20. However, a failed throw means the spell does not function as expected, and can create a horrible effect at the Judge's discretion.
 
 
 ### Template:      	     Wandering Minstrel
 
 Proficiencies:	     Magical Music, Diplomacy
 
-Starting Equipment:  Crossbow, quiver with 20 bolts, short sword, dagger, well-maintained leather armor, traveler’s tunic and sturdy boots, backpack, musical instrument, 2 week’s iron rations
+Starting Equipment:  Crossbow, quiver with 20 bolts, short sword, dagger, well-maintained leather armor, traveler's tunic and sturdy boots, backpack, musical instrument, 2 week's iron rations
 
-This pre-generated template represents a wandering minstrel with magic in his song. The template is ready for adventure. However, if your bard’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4). 
+This pre-generated template represents a wandering minstrel with magic in his song. The template is ready for adventure. However, if your bard's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4). 
 
 
 ### Experience	   Title    	       Level	   Hit Dice 	 Arcane Dabbling    Loremastery 
@@ -579,20 +579,20 @@ Bladedancers are skilled combatants. At first level, bladedancers hit an unarmor
 
 A bladedancer may wield a weapon in each hand, or fight with a two-handed weapon, but may not resort to shields. Bladedancers are only trained to fight in leather or lighter armor. However, they gain a +1 bonus to initiative and a +1 bonus to Armor Class if able to move freely. At level 7, the AC bonus increases to +2, and at level 13 the AC bonus increases to +3. 
 
-A bladedancer may turn undead like a cleric. Starting at 2nd level, a bladedancer may cast divine spells. Bladedancers follow the same spell progression as clerics and use the same rules for learning and casting spells. However, a bladedancer’s spell list is slightly different than a cleric’s; see the Spells chapter for details. Like clerics, bladedancers must uphold the doctrines of their faith and god, and suffer penalties if they violate them.
+A bladedancer may turn undead like a cleric. Starting at 2nd level, a bladedancer may cast divine spells. Bladedancers follow the same spell progression as clerics and use the same rules for learning and casting spells. However, a bladedancer's spell list is slightly different than a cleric's; see the Spells chapter for details. Like clerics, bladedancers must uphold the doctrines of their faith and god, and suffer penalties if they violate them.
 
 When a bladedancer reaches 5th level (Blade-Sister), she may begin to research spells, scribe scrolls, and brew potions. At 9th level (Blade-Mistress), she is able to create more powerful magic items such as weapons, rings, and staffs. At 11th level, a bladedancer may learn and cast ritual divine spells of great power (6th and 7th level), and craft magical constructs such as golems and animated statues. If chaotic, the bladedancer will become able to create necromantic servants and even become undead herself. These activities are explained in the Campaign chapter. 
 
-When a bladedancer reaches 9th level (Blade-Mistress), she may choose to construct a temple as a stronghold. If she has not lost the favor of her deity, the cost of building the temple will be half the normal amount due to miraculous assistance from the bladedancer’s honored deity. Once the temple is completed, fanatically loyal bladedancers called the “faithful,” who need never check morale, will come to defend the Blade-Mistress. There will be 5d6x10 0th level soldiers armed with various weapons, plus another 1d6 bladedancers of 1st-3rd level to serve the order. While in the bladedancer’s service, her followers must be provided food and lodging, but need not be paid wages. Additional rules for temples are detailed in the Campaign chapter.
+When a bladedancer reaches 9th level (Blade-Mistress), she may choose to construct a temple as a stronghold. If she has not lost the favor of her deity, the cost of building the temple will be half the normal amount due to miraculous assistance from the bladedancer's honored deity. Once the temple is completed, fanatically loyal bladedancers called the "faithful," who need never check morale, will come to defend the Blade-Mistress. There will be 5d6x10 0th level soldiers armed with various weapons, plus another 1d6 bladedancers of 1st-3rd level to serve the order. While in the bladedancer's service, her followers must be provided food and lodging, but need not be paid wages. Additional rules for temples are detailed in the Campaign chapter.
 
 
 ### Template:	     Temple Bladedancer
 
 Proficiencies:	     Swashbuckler, Performance (Dance)
 
-Starting Equipment:  Pair of gracefully curved swords, polished leather armor, golden silk cloak, bladedancer’s head dress (20gp value), holy symbol, backpack, 2 week’s iron rations
+Starting Equipment:  Pair of gracefully curved swords, polished leather armor, golden silk cloak, bladedancer's head dress (20gp value), holy symbol, backpack, 2 week's iron rations
 
-This pre-generated template represents a temple-trained bladedancer. The template is ready for adventure. However, if your bladedancer’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4). 
+This pre-generated template represents a temple-trained bladedancer. The template is ready for adventure. However, if your bladedancer's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4). 
 
 
 ### Bladedancer Level Progression	       	 			       	        Bladedancer Spell Progression
@@ -664,22 +664,22 @@ While they prefer to evade foes where possible, explorers are cunning warriors w
 
 Explorers have animal reflexes, gaining +1 bonus to initiative and a +1 bonus to surprise rolls. Outdoors, explorers are difficult to spot, having the ability to seemingly disappear into woods and underbrush with a proficiency throw of 3+ on 1d20. In dungeons, an explorer who is motionless and quiet in cover can escape detection with a proficiency throw of 14+ on 1d20. 
 
-Parties guided by explorers gain significant advantages on wilderness adventures. Any time the explorer’s party is in country familiar to the explorer, they get a +4 bonus on proficiency throws to avoid getting lost.  In any terrain except clear and grassland terrain, the explorer’s party receives a +5 bonus to proficiency throws to evade wilderness encounters. 
+Parties guided by explorers gain significant advantages on wilderness adventures. Any time the explorer's party is in country familiar to the explorer, they get a +4 bonus on proficiency throws to avoid getting lost.  In any terrain except clear and grassland terrain, the explorer's party receives a +5 bonus to proficiency throws to evade wilderness encounters. 
 
 A party guided by an explorer can evade wilderness encounters even when surprised on a proficiency throw of 19+. See the Wilderness Adventures and Evasion Pursuit sections of Chapter 6 for more details on getting lost and evading encounters. 
 
-When an explorer reaches 5th level (Guide), his experience and hardiness reassures those who follow him into the wild. Hirelings on a wilderness adventure led by the explorer gain a +1 bonus to their morale score. This bonus stacks with any modifiers from the explorer’s Charisma or proficiencies.
+When an explorer reaches 5th level (Guide), his experience and hardiness reassures those who follow him into the wild. Hirelings on a wilderness adventure led by the explorer gain a +1 bonus to their morale score. This bonus stacks with any modifiers from the explorer's Charisma or proficiencies.
 
-When an explorer reaches 9th level (Warden), he may decide to build a border fort in the borderlands or wilderness. When he does so, up to 1d4+1 x10 0th level mercenaries and 1d6 explorers of 1st – 3rd level will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries. The character becomes the warden of any nearby settlers, and will attract more settlers over time. These people will look to the Warden as their leader, responsible for the growth and safety of their settlement. Additional rules for border forts are detailed in the Campaign chapter.
+When an explorer reaches 9th level (Warden), he may decide to build a border fort in the borderlands or wilderness. When he does so, up to 1d4+1 x10 0th level mercenaries and 1d6 explorers of 1st - 3rd level will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries. The character becomes the warden of any nearby settlers, and will attract more settlers over time. These people will look to the Warden as their leader, responsible for the growth and safety of their settlement. Additional rules for border forts are detailed in the Campaign chapter.
 
 
 ### Template:	    Pathfinder
 
 Proficiencies:	    Precise Shot, Tracking
 
-Starting Equipment: Sturdy longbow, quiver with 20 arrows, spear, short sword, dagger, chainmail armor, wind-battered fur cloak, boots, backpack, 2 week’s iron rations, wineskin, lantern, tinderbox, 2 flasks of common oil, blanket, 50’ rope, 12 iron spikes, small hammer and 20sp
+Starting Equipment: Sturdy longbow, quiver with 20 arrows, spear, short sword, dagger, chainmail armor, wind-battered fur cloak, boots, backpack, 2 week's iron rations, wineskin, lantern, tinderbox, 2 flasks of common oil, blanket, 50' rope, 12 iron spikes, small hammer and 20sp
 
-This pre-generated template represents a keen-eyed archer and tracker. The template is ready for adventure. However, if your explorer’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4). 
+This pre-generated template represents a keen-eyed archer and tracker. The template is ready for adventure. However, if your explorer's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4). 
 
 
 ### Explorer Level Progression
@@ -754,9 +754,9 @@ Hit Dice:		1d8
 
 Maximum Level:		13
 
-Dwarves are stout, short, bearded demi-humans who average a height of approximately 4’ and weigh about 150lb. Perhaps not surprisingly, they have skin, hair and eye colors in earth tones. Dwarves have a reputation for having surly attitudes, and are particularly gruff with elves. They value precious metals and stones, and live in deep underground vaults, where they endure constant raids from the orcs, trolls, and even worse denizens of the darkness below.
+Dwarves are stout, short, bearded demi-humans who average a height of approximately 4' and weigh about 150lb. Perhaps not surprisingly, they have skin, hair and eye colors in earth tones. Dwarves have a reputation for having surly attitudes, and are particularly gruff with elves. They value precious metals and stones, and live in deep underground vaults, where they endure constant raids from the orcs, trolls, and even worse denizens of the darkness below.
 
-Dwarves trained to defend their race’s underground vault from the endless hordes that threaten it are called vaultguards. Though most vaultguards are born, live and die in the vault, from time to time a young vaultguard will be dispatched to foreign realms on a warrior’s pilgrimage. The few vaultguards who return from such pilgrimages bring gold and glory to their clans, often leading them to found new vaults and become great lords. The dwarven vaultguard class represents such a dwarf. 
+Dwarves trained to defend their race's underground vault from the endless hordes that threaten it are called vaultguards. Though most vaultguards are born, live and die in the vault, from time to time a young vaultguard will be dispatched to foreign realms on a warrior's pilgrimage. The few vaultguards who return from such pilgrimages bring gold and glory to their clans, often leading them to found new vaults and become great lords. The dwarven vaultguard class represents such a dwarf. 
 
 Dwarven vaultguards are highly trained combatants. At first level, dwarven vaultguards hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws and saving throws as fighters, by two points every three levels of experience. They increase their base damage roll from successful missile and melee attacks by +1 at 1st level, and by an additional +1 at 3rd, 6th, 9th, and 12th level. Due to their short height, dwarven vaultguards cannot use human-sized two-handed weapons (such as two-handed swords or pole arms) or longbows, but they can use any other weapon or armor. They are trained to fight wielding a weapon and shield, wielding a weapon two-handed, and wielding a weapon in each hand. 
 
@@ -764,16 +764,16 @@ Dwarves gain a +1 bonus to surprise rolls when underground due to sensitivity to
 
 In addition to these abilities, dwarves are particularly hardy people. The target values for all their saving throws versus Blast/Breath are reduced by 3, while the target values for all their other saving throws are reduced by 4. These adjustments are already factored into the saving throws on the Dwarven Vaultguard Attack and Saving Throws table below. Dwarf characters will speak the Common and Dwarvish tongue and, because of their frequent interaction underground with these monsters, dwarves can also speak Goblin, Gnome, and Kobold.
 
-When a dwarven vaultguard reaches 9th level (Vaultlord), he can attract dwarves from far and wide by constructing his own underground vault. Dwarves usually live in clans, so dwarves of the character’s clan will be the first to live under his roof, but dwarves from other clans will also come and live nearby to be ruled by the character. A total of 3d6x10 1st level NPCs of the same race will move in to help maintain and defend the vault at no cost to the character. A dwarven vaultguard is expected to employ only soldiers of dwarven descent, but may hire members of other races for other tasks. Additional rules for dwarven vaults are detailed in the Campaign chapter.
+When a dwarven vaultguard reaches 9th level (Vaultlord), he can attract dwarves from far and wide by constructing his own underground vault. Dwarves usually live in clans, so dwarves of the character's clan will be the first to live under his roof, but dwarves from other clans will also come and live nearby to be ruled by the character. A total of 3d6x10 1st level NPCs of the same race will move in to help maintain and defend the vault at no cost to the character. A dwarven vaultguard is expected to employ only soldiers of dwarven descent, but may hire members of other races for other tasks. Additional rules for dwarven vaults are detailed in the Campaign chapter.
 
 
 ### Template:      	     Goblin Slayer
 
 Proficiencies: 	     Goblin-Slaying, Caving
 
-Starting Equipment:  Dwarven battle axe, brace of 3 hand axes, rust-free banded plate armor, large steel shield with painted vault insignia, backpack, 2 week’s iron rations, lantern, 2 flasks of military oil, 3 flasks of common oil, tinder box
+Starting Equipment:  Dwarven battle axe, brace of 3 hand axes, rust-free banded plate armor, large steel shield with painted vault insignia, backpack, 2 week's iron rations, lantern, 2 flasks of military oil, 3 flasks of common oil, tinder box
 
-This pre-generated template represents a dwarven vaultguard specializing in fighting goblins, kobolds, and other denizens of the darkness below. The template is ready for adventure. However, if your dwarven vaultguard’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4). 
+This pre-generated template represents a dwarven vaultguard specializing in fighting goblins, kobolds, and other denizens of the darkness below. The template is ready for adventure. However, if your dwarven vaultguard's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4). 
 
 
 ### Dwarven Vaultguard Level Progression
@@ -841,17 +841,17 @@ Hit Dice:		1d6
 
 Maximum Level:		10
 
-Nothing is so revered among the dwarven people as craftsmanship. A dwarf’s work is his life, and the spirits of great dwarven artisans are believed to live on forever in their masterpieces. The veneration of these relics falls to the care of a caste of dwarves known as craftpriests. While most craftpriests attend to the shrines and monuments of their clan, young craftpriests are sometimes sent forth to recover monuments to the glorious past from the ancient ruins and wastelands of the world. This class represents such a craftpriest. 
+Nothing is so revered among the dwarven people as craftsmanship. A dwarf's work is his life, and the spirits of great dwarven artisans are believed to live on forever in their masterpieces. The veneration of these relics falls to the care of a caste of dwarves known as craftpriests. While most craftpriests attend to the shrines and monuments of their clan, young craftpriests are sometimes sent forth to recover monuments to the glorious past from the ancient ruins and wastelands of the world. This class represents such a craftpriest. 
 
 At first level, dwarven craftpriests hit an unarmored foe (AC 0) with an attack throw of 10+. Dwarven craftpriests advance in attack throws and saving throws as clerics, by two points every four levels of experience. Dwarven craftpriests may wear any armor and may use any of the traditional weapons of their people, including the battle axe, great axe, hand axe, flail, mace, morning star, and warhammer. They are trained to fight wielding a weapon and shield or wielding a weapon two-handed, but may not dual wield weapons. 
 
 A dwarven craftpriest may turn undead like a cleric. Starting at 2nd level (Craft-Acolyte), a craftpriest may cast divine spells. Craftpriests follow the same spell progression as clerics, use the same rules for learning and casting spells, and select their spells from the same spell list. See the Spells chapter for details. Because of their religious training, a craftpriest can automatically identify religious symbols, trappings, and holy days of the dwarven faith, and recognizes those of other faiths with a proficiency throw of 8+ on 1d20.
 
-In addition, each dwarven craftpriest is a journeyman in a particular type of craft, such as armor-making, leatherworking, weapon-smithing, etc. With access to craftsman’s tools, the character can produce 20gp worth of items per month, and supervise 3 apprentices in his craft. When examining works of his craft, the craftpriest can identify masterwork items, rare materials, and famous artisans with a proficiency throw of 8+ on 1d20. Their attention to detail gives craftpriests a +3 bonus on proficiency rolls for other proficiencies they learn as well.
+In addition, each dwarven craftpriest is a journeyman in a particular type of craft, such as armor-making, leatherworking, weapon-smithing, etc. With access to craftsman's tools, the character can produce 20gp worth of items per month, and supervise 3 apprentices in his craft. When examining works of his craft, the craftpriest can identify masterwork items, rare materials, and famous artisans with a proficiency throw of 8+ on 1d20. Their attention to detail gives craftpriests a +3 bonus on proficiency rolls for other proficiencies they learn as well.
 
 Dwarves gain a +1 bonus to surprise rolls when underground due to sensitivity to the rock and stone around them. Because of their experience underground, dwarves may detect traps, false walls, hidden construction, or sloped passages with a proficiency throw of 14+ on 1d20. Dwarves must be actively searching for these abilities to function. In addition to these abilities, dwarves are particularly hardy people. The target values for all their saving throws versus Blast/Breath are reduced by 3, while the target values for all their other saving throws are reduced by 4. These adjustments are already factored into the saving throws on the Dwarven Craftpriest Attack and Saving Throws table below. Dwarven characters speak the Common and Dwarvish tongue and, because of their frequent interaction underground with these monsters, also speak Goblin, Gnome, and Kobold.
 
-Starting at 5th level (Craft-Vicar), a craftpriest may begin to research spells, scribe scrolls, and brew potions. At 9th level (Craft-Lord), he is able to create more powerful magic items such as weapons, rings, and staffs, and craft magical constructs such as golems. At 9th level, he also can construct a vault that will attract dwarves from far and wide. Dwarves of the character’s clan will be the first to live under his roof, but dwarves from other clans will also come and live nearby to be ruled by the character. A total of 3d6x10 1st level NPCs of the same race will move in to help maintain and defend the vault at no cost to the character. A Craft-Lord is expected to employ only soldiers of dwarven descent, but may hire members of other races for other tasks. Additional rules for dwarven vaults are detailed in the Campaign chapter.
+Starting at 5th level (Craft-Vicar), a craftpriest may begin to research spells, scribe scrolls, and brew potions. At 9th level (Craft-Lord), he is able to create more powerful magic items such as weapons, rings, and staffs, and craft magical constructs such as golems. At 9th level, he also can construct a vault that will attract dwarves from far and wide. Dwarves of the character's clan will be the first to live under his roof, but dwarves from other clans will also come and live nearby to be ruled by the character. A total of 3d6x10 1st level NPCs of the same race will move in to help maintain and defend the vault at no cost to the character. A Craft-Lord is expected to employ only soldiers of dwarven descent, but may hire members of other races for other tasks. Additional rules for dwarven vaults are detailed in the Campaign chapter.
 
  
 
@@ -859,9 +859,9 @@ Template:		Reclaimer
 
 Proficiencies:		Magical Engineering, Knowledge (History)
 
-Starting Equipment:	Warhammer with carved head, engraved banded plate armor, steel shield with craft insignia, steel holy symbol (craft insignia), backpack, 2 week’s iron rations, craftsman’s tools
+Starting Equipment:	Warhammer with carved head, engraved banded plate armor, steel shield with craft insignia, steel holy symbol (craft insignia), backpack, 2 week's iron rations, craftsman's tools
 
-This pre-generated template represents a craftpriest focused on reclaiming lost artifacts from evil forces. The template is ready for adventure. However, if your dwarven craftpriest’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4). 
+This pre-generated template represents a craftpriest focused on reclaiming lost artifacts from evil forces. The template is ready for adventure. However, if your dwarven craftpriest's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4). 
 
 
 ### Craftpriest Level Progression	       	 	     	     		   	Craftpriest Spell Progression
@@ -916,7 +916,7 @@ Hit Dice:		1d6
 Maximum Level:		10
 
 
-### Elves are lithe, fey beings with pointed ears, delicate features, and graceful movement. They typically weigh about 130lb and stand between 5 ½’ and 6’ tall. Humans envy their long lifespans and seeming agelessness. Though elves are a peaceful people that enjoy poetry and art, they are also very talented fighters and skilled mages. The elven spellsword class represents one such remarkable elf, trained in the arts of both fighters and mages. 
+### Elves are lithe, fey beings with pointed ears, delicate features, and graceful movement. They typically weigh about 130lb and stand between 5  1/2 ' and 6' tall. Humans envy their long lifespans and seeming agelessness. Though elves are a peaceful people that enjoy poetry and art, they are also very talented fighters and skilled mages. The elven spellsword class represents one such remarkable elf, trained in the arts of both fighters and mages. 
 
 Elven spellswords learn an elegant, deadly style of fighting. At first level, elven spellswords hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws and saving throws as fighters, by two points every three levels of experience. They increase their base damage roll from successful missile and melee attacks by +1 at 1st level, and by an additional +1 at 3rd, 6th, and 9th level. Elven spellswords can wield any weapon and wear any armor. They are trained to fight wielding a weapon and shield, wielding a two-handed weapon, and wielding a weapon in each hand. 
 
@@ -933,9 +933,9 @@ At 9th level (Wizard-Lord), elven spellswords can also establish a fastness in a
 
 Proficiencies:	       Battle Magic, Military Strategy
 
-Starting Equipment:    Gracefully curved sword and dagger, elven composite bow, quiver with 20 arrows, chainmail armor, embroidered cloak, boots, backpack, 2 week’s iron rations, spell book with magic missile 
+Starting Equipment:    Gracefully curved sword and dagger, elven composite bow, quiver with 20 arrows, chainmail armor, embroidered cloak, boots, backpack, 2 week's iron rations, spell book with magic missile 
 
-This pre-generated template represents a traditional fighter-mage of elven heritage. The template is ready for adventure. However, if your elven spellsword’s INT is 13 or greater, you may pick one or more additional general proficiencies and starting Spells before play if you’d like (see Starting Proficiencies in Chapter 4 and Spell Repertoire in Chapter 5). 
+This pre-generated template represents a traditional fighter-mage of elven heritage. The template is ready for adventure. However, if your elven spellsword's INT is 13 or greater, you may pick one or more additional general proficiencies and starting Spells before play if you'd like (see Starting Proficiencies in Chapter 4 and Spell Repertoire in Chapter 5). 
 
 
 ### Spellsword Level ProgressionSpellsword Spell Progression
@@ -1003,7 +1003,7 @@ Elven nightblades cast spells as mages of one-half their level, using the same s
 
 Elves gain a +1 bonus to surprise rolls when in the wilderness due to their attunement to nature. Elves have keen eyes that allow them to detect hidden and secret doors with a proficiency throw of 8+ on 1d20 when actively searching, or 14+ on casual inspection. Because of their connection to nature, elves are completely unaffected by the paralysis ghouls can inflict, and the target values for all their saving throws versus Spells, Paralysis, and Petrification are reduced by 1. Elves can speak Common, Elven, Gnoll, Hobgoblin, and Orc languages.
 
-When they reach 9th level (Nightblade), elven nightblades may construct a hideout. When a nightblade builds a hideout, he will gain 2d6 1st level nightblades as apprentices, come to learn under a master. If hired, they must be paid standard rates for ruffians. These nightblades will serve the character with some loyalty, though at least one will be an infiltrator working for the elven nightblade’s local rivals, sent to keep an eye on the character. Additional rules for hideouts are detailed in the Campaign chapter.
+When they reach 9th level (Nightblade), elven nightblades may construct a hideout. When a nightblade builds a hideout, he will gain 2d6 1st level nightblades as apprentices, come to learn under a master. If hired, they must be paid standard rates for ruffians. These nightblades will serve the character with some loyalty, though at least one will be an infiltrator working for the elven nightblade's local rivals, sent to keep an eye on the character. Additional rules for hideouts are detailed in the Campaign chapter.
 
 When they reach 10th level, elven nightblades may begin to research spells, scribe magical scrolls, and brew potions, as if they were 5th level mages.
 
@@ -1012,9 +1012,9 @@ When they reach 10th level, elven nightblades may begin to research spells, scri
 
 Proficiencies:		Skulking, Alchemy
 
-Starting Equipment:	Crossbow, case with 20 quarrels, sword, dagger, leather armor, dark hooded cloak, backpack, 2 week’s iron rations, grappling hook, 50’ rope, crowbar, flask of military oil, tinder box
+Starting Equipment:	Crossbow, case with 20 quarrels, sword, dagger, leather armor, dark hooded cloak, backpack, 2 week's iron rations, grappling hook, 50' rope, crowbar, flask of military oil, tinder box
 
-This pre-generated template represents a silent killer with a penchant for poisons and potions. The template is ready for adventure. However, if your elven nightblade’s INT is 13 or greater, you may pick one or more additional general proficiencies and starting spells before play if you’d like (see Starting Proficiencies in Chapter 4). 
+This pre-generated template represents a silent killer with a penchant for poisons and potions. The template is ready for adventure. However, if your elven nightblade's INT is 13 or greater, you may pick one or more additional general proficiencies and starting spells before play if you'd like (see Starting Proficiencies in Chapter 4). 
 
 
 ### Nightblade Level Progression	       	 	       	      	       	   	      Nightblade Spell Progression
@@ -1074,7 +1074,7 @@ Neutrality: Neutral beings generally enjoy the benefits of law and civilization,
 
 Chaos: Chaotic beings actively seek to destroy civil society. Chaotic characters are often madmen or cultists of forgotten, chthonic gods. To the extent they have any order at all, societies of Chaotic characters are ruled by force and fear, and are often characterized by all manner of corruption and vice. Even decadent Lawful civilizations at least pay homage to civilizing virtue, but chaotic civilizations embrace their corruption. 
 
-Note that a character’s choice of Alignment doesn’t determine whether or not he takes care of his children, cheats on his wife, or steals from the merchant’s guild. It is concerned only with the weighty issue of where his allegiance lies in the grand struggles of existence. To have an alignment of Lawful or Chaotic is to have chosen a side in this perpetual struggle. Many people, choosing no side, are Neutral, although it is important to remember that most Neutrals still want the protection of Law even though they are not willing to die for it. (To paraphrase George Orwell, Neutral humans sleep peaceably in their beds at night only because Lawful heroes stand ready to do violence on their behalf.)  
+Note that a character's choice of Alignment doesn't determine whether or not he takes care of his children, cheats on his wife, or steals from the merchant's guild. It is concerned only with the weighty issue of where his allegiance lies in the grand struggles of existence. To have an alignment of Lawful or Chaotic is to have chosen a side in this perpetual struggle. Many people, choosing no side, are Neutral, although it is important to remember that most Neutrals still want the protection of Law even though they are not willing to die for it. (To paraphrase George Orwell, Neutral humans sleep peaceably in their beds at night only because Lawful heroes stand ready to do violence on their behalf.)  
 
 Human vices, such as greed, lust, and vanity, are widespread and common even in Lawful societies. But Chaotic societies are characterized by their monstrous vices: Genocide, human sacrifice, wanton destruction, cannibalism, necrophilia, and so on. Evil is all-too-human in every civilization, but Chaotic is something both less and more than human. 
 

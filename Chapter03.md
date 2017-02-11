@@ -3,7 +3,7 @@
 
 ### The Basics of Equipment
 
-All characters are assumed to begin with sturdy clothes suitable for adventuring. Any other equipment desired should be purchased using the character’s starting wealth of 3d6x10gp. 
+All characters are assumed to begin with sturdy clothes suitable for adventuring. Any other equipment desired should be purchased using the character's starting wealth of 3d6x10gp. 
 
 Each character should purchase equipment suitable for their class. For example, fighters should purchase arms and armor to fight monsters and survive blows, while thieves need rope, crowbars, lock picks, and other special tools to scale obstacles, find traps, and open locks. Clerics will require holy symbols to drive back undead and mages will need spellbooks to record their dweomers. 
 
@@ -13,9 +13,9 @@ Each character should purchase equipment suitable for their class. For example, 
 Equipment is purchased using money. Paper currency is non-existent in the world of Adventurer Conqueror King, so money takes the form of coins of precious metal, the most important of which is the gold piece (gp). A gold piece is worth 2 electrum pieces (ep) or 10 silver pieces (sp). Each silver piece is worth 10 copper pieces (cp). In addition to copper, silver, electrum, and gold coins, there are also platinum pieces (pp), which are each worth 5gp. 
 
 
-### What’s a Gold Piece Worth?
+### What's a Gold Piece Worth?
 
-To put the value of currency in perspective, the Standard of Living table, below, shows how far a gold piece will go towards cost of living at different standards of comfort. A single gold piece is enough for a peasant to subsist at a wretched quality of life. Early in their career, adventurers will typically live on a few dozen gold pieces per month, enough to eat and sleep at an inn. A dragon’s treasure hoard of 50,000gp might keep a village of peasants alive for decade, but merely cover a prince’s monthly budget. Wealth is assumed to be highly concentrated in ACKS campaign worlds.
+To put the value of currency in perspective, the Standard of Living table, below, shows how far a gold piece will go towards cost of living at different standards of comfort. A single gold piece is enough for a peasant to subsist at a wretched quality of life. Early in their career, adventurers will typically live on a few dozen gold pieces per month, enough to eat and sleep at an inn. A dragon's treasure hoard of 50,000gp might keep a village of peasants alive for decade, but merely cover a prince's monthly budget. Wealth is assumed to be highly concentrated in ACKS campaign worlds.
 
 
 ### Exchange Value
@@ -58,9 +58,9 @@ Lavishly Opulent	80,000gp+		Kings or emperors, 13th-14th level adventurers
 
 The arms, armor, and mundane gear available for purchase are listed on the Weapons and Equipment tables. These lists will also be handy when characters need to restock supplies between adventures. The equipment and other items listed on the Weapons and Equipment table are described in detail in the Equipment Descriptions section. 
 
-Should the players wish to purchase items not provided in the equipment lists, the Judge may use the items available as guidelines for determining new items’ characteristics and including prices.
+Should the players wish to purchase items not provided in the equipment lists, the Judge may use the items available as guidelines for determining new items' characteristics and including prices.
 
-All purchases should be recorded on the character sheet, noting how much money remains afterward. Most adventurers do not begin play with enough wealth to get everything they want – indeed, the quest for wealth is one of the primary motives for adventuring at all!
+All purchases should be recorded on the character sheet, noting how much money remains afterward. Most adventurers do not begin play with enough wealth to get everything they want - indeed, the quest for wealth is one of the primary motives for adventuring at all!
 
 Regardless of class limitations, characters of any class may purchase, carry, and use any weapons or armor desired. However, characters who equip themselves with weapons and armor unusable by their class will fight as 0th level characters while so equipped. They also will receive no bonus on their attack throws or armor class from ability scores or equipment, may not use any of their class powers, and do not gain XP. 
 
@@ -69,9 +69,9 @@ EXAMPLE: Quintus, a mage, dons plate armor. While so equipped, he fights as a 0t
 
 ### Equipment Availability
 
-Adventurers may sometimes wish to purchase equipment in greater volume than the town they are in can handle. This is not normally a concern when characters are just beginning their career. But if experienced adventurers decide they want to use a dragon’s hoard to equip all their followers with fur cloaks (15gp each) and purchase a dozen heavy warhorses (750gp each) with plate barding (600gp each), they may find such goods are simply unavailable in the quantities they desire! 
+Adventurers may sometimes wish to purchase equipment in greater volume than the town they are in can handle. This is not normally a concern when characters are just beginning their career. But if experienced adventurers decide they want to use a dragon's hoard to equip all their followers with fur cloaks (15gp each) and purchase a dozen heavy warhorses (750gp each) with plate barding (600gp each), they may find such goods are simply unavailable in the quantities they desire! 
 
-The amount of equipment available for purchase is determined by the price of the equipment relative to the size of the market the adventurers are in. A market can be anything from a village’s humble fair to a city-state’s outdoor bazaar to the ports of a major metropolis. Markets are rated by market class from I to VI, which rate their size and importance.
+The amount of equipment available for purchase is determined by the price of the equipment relative to the size of the market the adventurers are in. A market can be anything from a village's humble fair to a city-state's outdoor bazaar to the ports of a major metropolis. Markets are rated by market class from I to VI, which rate their size and importance.
 
 The vast mercantile hubs of empires, with urban populations of 100,000 or more, constitute Class I. Major ports, national capitals, and other large cities of 25,000 or more inhabitants constitute Class II. Provincial capitals and medium-sized cities of 8,750 to 25,000 inhabitants make up Class III. Small cities and large towns of 3,000 to 8,750 inhabitants make up Class IV. Small towns and large villages of 1,250 to 3,000 inhabitants are Class V. Any village of 1,250 inhabitants or less is Class VI. Market classes are also important for hiring henchmen, as discussed in the Hirelings, Henchmen, Mercenaries, and Specialists section below, and for trade and commerce, as discussed in the Mercantile Ventures section in the Campaigns chapter. 
 
@@ -104,7 +104,7 @@ Price	  	       Class I      Class II	       Class III	Class IV	Class V		Class V
 
 If equipment the adventurers desire to purchase is not available, they may commission it to be created. The advantage of commissioning equipment is that more equipment can be commissioned than is available as inventory; treat the equipment as if it were one price category less expensive to calculate the volume available. The disadvantage of commissioning equipment is that it is not immediately available. Buildings and vehicles, which can be built by large groups, are constructed at a rate of 1 day per 500gp value. Animals take 1 day per 1gp value to find and train. Other equipment takes 1 day per 5gp value. 
 
-EXAMPLE: Marcus decides he’d like to commission a shipwright to build a war galley. Since Marcus is commissioning the war galley, the Judge checks for availability as if the war galley were one price category less expensive, putting it in the 1,001-10,00gp row. There is a 25% chance that a war galley could be commissioned in a Class III city this month. The Judge rolls a 17 on 1d100, so a shipwright is available. It will take 120 days for the war galley to be finished (60,000gp / 500gp per day). 
+EXAMPLE: Marcus decides he'd like to commission a shipwright to build a war galley. Since Marcus is commissioning the war galley, the Judge checks for availability as if the war galley were one price category less expensive, putting it in the 1,001-10,00gp row. There is a 25% chance that a war galley could be commissioned in a Class III city this month. The Judge rolls a 17 on 1d100, so a shipwright is available. It will take 120 days for the war galley to be finished (60,000gp / 500gp per day). 
 
 
 ### Weapons and Equipment
@@ -189,15 +189,15 @@ Mirror (hand-sized, steel)	  5gp			|Other Weapons:
 
 Musical instrument  		  25-100gp		|   Bola			   5gp		1d2
 
-Pouch/Purse (holds ½ stone)	  5sp			|   Darts (5)			   2gp		1d4
+Pouch/Purse (holds  1/2  stone)	  5sp			|   Darts (5)			   2gp		1d4
 
-Pole, Wooden (10’ long)		  1sp			|   Net	  			   1gp		-
+Pole, Wooden (10' long)		  1sp			|   Net	  			   1gp		-
 
 Rations, Iron (one week)	  1- 6gp		|   Sling with 30 Sling Bullets	   2gp		1d4
 
 Rations, Standard (one week)	  3sp - 3gp		|   Sap	       	  		   1gp		1d4
 
-Rope (50’ length)      		  1gp 			|   Staff (two-handed)		   1gp		1d6
+Rope (50' length)      		  1gp 			|   Staff (two-handed)		   1gp		1d6
 
 Sack (small, holds 2 stone)	  3sp			|   Whip  			   5gp		1d2
 
@@ -209,7 +209,7 @@ Stakes (4) and Mallet		  3gp			| and the second is for two-handed use.
 
 Tent   	       			  20gp			|
 
-Thieves’ Tools			  25gp			|
+Thieves' Tools			  25gp			|
 
 Tinder Box (flint & steel)	  8sp			|
 
@@ -328,17 +328,17 @@ Wagon	 	    				200gp
 
 Arbalest: An arbalest is a heavy crossbow, pulled with the mechanical assistance of a rack and pinion or windlass. Historical examples include the late medieval arbalest and the Three Kingdoms era Chinese heavy crossbow.
 
-Axe, Battle: This is a single- or double-bitted axe with a 24” to 48” haft, designed for battle and useable with one or two hands. Historical examples include the Scythian sagaris, Viking bearded and skeg axe, Celtic war axe, medieval battle axe, and Persian tabarzin.
+Axe, Battle: This is a single- or double-bitted axe with a 24" to 48" haft, designed for battle and useable with one or two hands. Historical examples include the Scythian sagaris, Viking bearded and skeg axe, Celtic war axe, medieval battle axe, and Persian tabarzin.
 
-Axe, Great: This is a double-bitted axe or long-shafted single-bitted axe, with a 48” or longer haft, requiring two hands to use. Historical examples included the Greek double-bitted labrys, Viking long bearded axe, and the English longaxe. Great axes impose a -1 penalty on initiative rolls. 
+Axe, Great: This is a double-bitted axe or long-shafted single-bitted axe, with a 48" or longer haft, requiring two hands to use. Historical examples included the Greek double-bitted labrys, Viking long bearded axe, and the English longaxe. Great axes impose a -1 penalty on initiative rolls. 
 
-Axe, Hand: This is a single-bitted axe, with a 12” to 24” haft, balanced for throwing. Historical examples include the Frankish francisca, American tomahawk, and African mambele and kasuyu. 
+Axe, Hand: This is a single-bitted axe, with a 12" to 24" haft, balanced for throwing. Historical examples include the Frankish francisca, American tomahawk, and African mambele and kasuyu. 
 
 Backpack:  A backpack has two straps and can be worn on the back, keeping the hands free. It holds up to 4 stone (40lb).
 
 Ballista: A siege weapon, powered either by composite bow or torsion spring mechanisms, which hurls large bolts. Historical examples include the Greek oxybeles, Roman ballista, and medieval springald.  
 
-Barding: Barding is horse armor made from a variety of materials (see the descriptions of each type of Armor for details). Historical examples include Byzantine and Persian cataphract’s barding and medieval destrier’s barding. 
+Barding: Barding is horse armor made from a variety of materials (see the descriptions of each type of Armor for details). Historical examples include Byzantine and Persian cataphract's barding and medieval destrier's barding. 
 
 Banded Plate Armor: Banded plate armor is made of overlapping horizontal strips of laminated metal sewn over leather. It is comparable in protection to lamellar armor, and superior to chain mail. Banded plate is commonly worn as a cuirass with shoulder protection, with reinforced leather protecting the arms and legs. The chief historical examples are Sumerian overlapping plate armor and Roman lorica segmenta.
 
@@ -346,9 +346,9 @@ Belladonna: Belladonna, also known as deadly nightshade, is a poisonous flower. 
 
 Birthwort: Birthwort, also known as snakeroot, is a healing herb used as a remedy for snake bites and other poisons. Birthwort can be applied as a poultice to a poisoned wound by an adventurer with the Healing proficiency. Used in this manner, it provides a +2 bonus on the Healing proficiency throw to neutralize poison. 
 
-Boat, River:  This boat is 20’ to 30’ long, has a “beam” (width) of 10’ to 15’, and has a “draft,” or surface depth, of between 2-3’ when in the water. Riverboats are rowed, or poles are used to push it along. A river boat requires at least 1 rower as crew (see the Hirelings, Henchmen, Mercenaries, and Specialists section, later in this chapter). The cost of the boat increases by 1,000gp if it has a roof. A riverboat can carry 400 stone (4,000lb) plus crew. 
+Boat, River:  This boat is 20' to 30' long, has a "beam" (width) of 10' to 15', and has a "draft," or surface depth, of between 2-3' when in the water. Riverboats are rowed, or poles are used to push it along. A river boat requires at least 1 rower as crew (see the Hirelings, Henchmen, Mercenaries, and Specialists section, later in this chapter). The cost of the boat increases by 1,000gp if it has a roof. A riverboat can carry 400 stone (4,000lb) plus crew. 
 
-Boat, Sailing:  This small boat has a single mast, with a length of 20’ to 40’, a beam of 10’ to 15’, and a draft of 2’ to 3’. Sailing boats are primarily employed for fishing on lakes or coasts. A sailing boat requires at least 1 sailor as crew. A sailing boat can carry up to 600 stone (6,000lb) plus crew.
+Boat, Sailing:  This small boat has a single mast, with a length of 20' to 40', a beam of 10' to 15', and a draft of 2' to 3'. Sailing boats are primarily employed for fishing on lakes or coasts. A sailing boat requires at least 1 sailor as crew. A sailing boat can carry up to 600 stone (6,000lb) plus crew.
 
 Bola: These are throwing weapons made of weights on the ends of interconnected cords, designed to capture animals by entangling their legs. A character can use a bola to make a knock down or wrestling maneuver (as described in special maneuvers in Chapter 6) with a thrown attack.
 
@@ -358,17 +358,17 @@ Bow, Composite: A composite bow is a recurved bow made of laminated wood, horn, 
 
 Bow, Long: A long bow is made from a single piece of wood, as tall as the person who uses it. Equal in range and power to more expensive composite bows, longbows require substantial strength (STR 9 or more) and cannot be used by mounted troops. Historical examples include the ancient Indian longbow, the Nubian longbow, and the Welsh and English longbow. 
 
-Bow, Short: A short bow is made from a single piece of wood, usually around 4’ tall. Shortbows lack the range and power of either longbows or composite bows, but are cheap and fast to make. Historical examples include the Neolithic short bow and Comanche self bow. 
+Bow, Short: A short bow is made from a single piece of wood, usually around 4' tall. Shortbows lack the range and power of either longbows or composite bows, but are cheap and fast to make. Historical examples include the Neolithic short bow and Comanche self bow. 
 
-Candles: A candle dimly illuminates a 5’ radius and burns for 1 hour. Wax candles burn cleanly, but tallow candles produce a foul smelling smoke. Adventurers carrying tallow candles will never surprise creatures with keen olfactory senses.  
+Candles: A candle dimly illuminates a 5' radius and burns for 1 hour. Wax candles burn cleanly, but tallow candles produce a foul smelling smoke. Adventurers carrying tallow candles will never surprise creatures with keen olfactory senses.  
 
-Canoe:  A canoe consists of frame of light wood wrapped with bark, hides, canvas, or other waterproofed covering. Canoes are primarily used on rivers and in swamps. Canoes have a 15’ length, 5’ beam, ½’ draft, and can carry up to 60 stone (600lb) (plus crew). They can be carried overland by two people, at a cost of 5 stone of encumbrance. 
+Canoe:  A canoe consists of frame of light wood wrapped with bark, hides, canvas, or other waterproofed covering. Canoes are primarily used on rivers and in swamps. Canoes have a 15' length, 5' beam,  1/2 ' draft, and can carry up to 60 stone (600lb) (plus crew). They can be carried overland by two people, at a cost of 5 stone of encumbrance. 
 
-Cart, Small:  A small cart is an open, two-wheeled vehicle meant for personal transport. It may be pulled by one or two mules. If the cart is pulled by only one mule, it can transport up to 40 stone at 60’ per turn, or up to 60 stone at 30’ per turn. If pulled by two mules, it can transport up to 80 stone at 60’ per turn, or up to 120 stone at 30’ per turn. Carts may only move through deserts, mountains, forests, or swamps if a road is available. 
+Cart, Small:  A small cart is an open, two-wheeled vehicle meant for personal transport. It may be pulled by one or two mules. If the cart is pulled by only one mule, it can transport up to 40 stone at 60' per turn, or up to 60 stone at 30' per turn. If pulled by two mules, it can transport up to 80 stone at 60' per turn, or up to 120 stone at 30' per turn. Carts may only move through deserts, mountains, forests, or swamps if a road is available. 
 
-Cart, Large:  A large cart is an open, two-wheeled vehicle meant for shipment. It may be pulled by one or two heavy horses. 2 mules or medium horses can be substituted for 1 heavy horse. If the cart is pulled by only one heavy horse, it can transport up to 80 stone at 60’ per turn, or up to 120 stone at 30’ per turn. If pulled by 2 heavy horses, it can transport up to 160 stone at 60’ per turn, or up to 240 stone at 30’ per turn. Carts may only move through deserts, mountains, forests, or swamps if a road is available.
+Cart, Large:  A large cart is an open, two-wheeled vehicle meant for shipment. It may be pulled by one or two heavy horses. 2 mules or medium horses can be substituted for 1 heavy horse. If the cart is pulled by only one heavy horse, it can transport up to 80 stone at 60' per turn, or up to 120 stone at 30' per turn. If pulled by 2 heavy horses, it can transport up to 160 stone at 60' per turn, or up to 240 stone at 30' per turn. Carts may only move through deserts, mountains, forests, or swamps if a road is available.
 
-Catapult: A catapult is a siege weapon, powered by either torsion or fixed counter-weight mechanisms, which hurls rocks, burning pitch, or other projectiles. Light catapults inflict 3d6 damage in a 5’ radius, while heavy catapults inflict 4d6 damage in a 10’ radius. Historical examples include the Roman onager and medieval mangonel and couillard.  
+Catapult: A catapult is a siege weapon, powered by either torsion or fixed counter-weight mechanisms, which hurls rocks, burning pitch, or other projectiles. Light catapults inflict 3d6 damage in a 5' radius, while heavy catapults inflict 4d6 damage in a 10' radius. Historical examples include the Roman onager and medieval mangonel and couillard.  
 
 Chain Mail Armor: Chain mail is made of small metal rings linked together in a pattern to form a mesh. Chain mail is superior in protection to leather-based armors but inferior to metal scale or plate-reinforced armors. Chain mail is commonly worn as a shirt and coif, with lighter chain, ring mail, or hardened leather protecting the arms and legs. Historical examples include Viking byrnies, Norman mail, and Roman lorica hamata.  
 
@@ -378,27 +378,27 @@ Club: A club is any simple bludgeon used to batter opponents.
 
 Comfrey: Comfrey, also known as bruisewort and knitbone, is a powerful healing herb. An adventurer with Healing proficiency can use a poultice of comfrey to treat a wounded character immediately after a battle. This restores 1d3hp of damage. A character cannot be treated with comfrey more than once per day.
 
-Cottage: A cottage is a 20’ high, 30’ square wooden building with a thatched roof and earthen floor, suitable for a wealthy peasant family. 
+Cottage: A cottage is a 20' high, 30' square wooden building with a thatched roof and earthen floor, suitable for a wealthy peasant family. 
 
 Crossbow: A crossbow is a bow mounted cross-wise on a stock with a trigger. It fires squat projectiles called bolts. Crossbows are light enough to pull by hand or with a quick drawing lever and are much easier to use than bows. Historical examples are the Greek gastraphetes, Roman arcuballista, Chinese handheld crossbow, and medieval crossbow and cavalry cranequin.   
 
-Crowbar:  A crowbar is 2’ to 3’ long and made of solid iron. This object can be used for forcing doors and other objects open.
+Crowbar:  A crowbar is 2' to 3' long and made of solid iron. This object can be used for forcing doors and other objects open.
 
-Dagger: A dagger has a small 6” to 12” blade, either single-edged for cutting, or doubled edged for stabbing. Daggers may be used in melee or for throwing. Historical examples include the Asian kris, medieval poniard, Japanese tanto, Scottish dirk, and Renaissance stiletto. Some daggers have blades coated with silver for use against enchanted creatures.
+Dagger: A dagger has a small 6" to 12" blade, either single-edged for cutting, or doubled edged for stabbing. Daggers may be used in melee or for throwing. Historical examples include the Asian kris, medieval poniard, Japanese tanto, Scottish dirk, and Renaissance stiletto. Some daggers have blades coated with silver for use against enchanted creatures.
 
-Dart: A dart is any small projectile designed to be thrown.  Most darts are fletched wooden shafts, ranging in length from 6” to 2’ long, but they may also be metal spikes or stars. Historical examples include the Roman plumbata, Macedonian kestros, and Japanese shuriken.
+Dart: A dart is any small projectile designed to be thrown.  Most darts are fletched wooden shafts, ranging in length from 6" to 2' long, but they may also be metal spikes or stars. Historical examples include the Roman plumbata, Macedonian kestros, and Japanese shuriken.
 
 Dog: Hunting dogs are fast, lean hounds trained to track and bring down prey by working in packs. Most hunting dogs can scent prey, giving them the equivalent of Tracking proficiency. War dogs are heavy, fierce mastiffs trained to kill on command. While dangerous, they are capable of great loyalty to their masters when properly trained. See the Monsters chapter for game statistics.
 
-Donkey: A donkey can carry its normal load of 8 stone and move 120’ per turn. A donkey can carry its maximum load of 16 stone and move 60’ per turn. 
+Donkey: A donkey can carry its normal load of 8 stone and move 120' per turn. A donkey can carry its maximum load of 16 stone and move 60' per turn. 
 
 Flail: This is a bludgeoning weapon derived from the agricultural flail with a striking head connected to the haft by a flexible chain. Flails are useable with one or two hands. Historical examples include the medieval ball-and-chain, Japanese rentsuru and nunchaku, and Chinese meteor hammer.
 
-Galley, Large:  This is a large fully decked ship with a single mast, one large square sail, and multiple banks of oars. Large galleys are 120’ to 150’ length, 15’ to 20’ beam, and 3’ draft, and can carry up to 4,000 stone (40,000lb) cargo in addition to its crew. A large galley is generally crewed by a captain, 50 marines, 20 sailors, and 180 rowers. Large galleys may be equipped with up to 2 light catapults, one at the bow and one at the stern, and a naval ram. Catapults must be bought separately, while a naval ram increase the cost of the ship by 1/3. A heavy catapult can substitute for 2 light catapults. A historical example is the Mediterranean trireme. 
+Galley, Large:  This is a large fully decked ship with a single mast, one large square sail, and multiple banks of oars. Large galleys are 120' to 150' length, 15' to 20' beam, and 3' draft, and can carry up to 4,000 stone (40,000lb) cargo in addition to its crew. A large galley is generally crewed by a captain, 50 marines, 20 sailors, and 180 rowers. Large galleys may be equipped with up to 2 light catapults, one at the bow and one at the stern, and a naval ram. Catapults must be bought separately, while a naval ram increase the cost of the ship by 1/3. A heavy catapult can substitute for 2 light catapults. A historical example is the Mediterranean trireme. 
 
-Galley, Small:  The small galley is similar to the larger model, but smaller and lighter; length is 60’ to 100’, beam is 10’ to 15’, and draft is 2’ to 3’. A small galley is generally crewed with a captain, 20 marines, 10 sailors, and 60 rowers. Besides the crew, the ship can carry 2,000 stone (20,000lb) cargo. Small galleys may be equipped with up to 2 light catapults, one at the bow and one at the stern, and a naval ram (increase cost by 1/3). A historical example is the Mediterranean bireme or penteconter. 
+Galley, Small:  The small galley is similar to the larger model, but smaller and lighter; length is 60' to 100', beam is 10' to 15', and draft is 2' to 3'. A small galley is generally crewed with a captain, 20 marines, 10 sailors, and 60 rowers. Besides the crew, the ship can carry 2,000 stone (20,000lb) cargo. Small galleys may be equipped with up to 2 light catapults, one at the bow and one at the stern, and a naval ram (increase cost by 1/3). A historical example is the Mediterranean bireme or penteconter. 
 
-Galley, War:  War galleys are built to serve as the flagship of a fleet. These mighty ships have two masts, full decks, a length of 120’ to 150’, a beam 20’ to 30’, and draft of 4’ to 6’. Their crew consists of a captain, 75 marines, 30 sailors, and 300 rowers. All war galleys come with a naval ram, a full deck over the rowers, and light wooden towers rising over the bow and stern. These platforms are 10’ to 20’ square, rising 15’ to 20’ above the deck. A war galley can be fitted with up to 3 light catapults, and can carry 6,000 stone (60,000lb) in addition to its crew. A heavy catapult can substitute for 2 light catapults. A historical example is the Mediterranean quinquereme. 
+Galley, War:  War galleys are built to serve as the flagship of a fleet. These mighty ships have two masts, full decks, a length of 120' to 150', a beam 20' to 30', and draft of 4' to 6'. Their crew consists of a captain, 75 marines, 30 sailors, and 300 rowers. All war galleys come with a naval ram, a full deck over the rowers, and light wooden towers rising over the bow and stern. These platforms are 10' to 20' square, rising 15' to 20' above the deck. A war galley can be fitted with up to 3 light catapults, and can carry 6,000 stone (60,000lb) in addition to its crew. A heavy catapult can substitute for 2 light catapults. A historical example is the Mediterranean quinquereme. 
 
 Garlic: Garlic causes a vampire to cringe for 1d4 rounds if presented with confidence. 
 
@@ -416,37 +416,37 @@ Holy Symbol: A cleric is required to own a holy symbol. These symbols will be di
 
 Holy Water:  Holy water is water that has been blessed by a cleric of 7th level or higher. It is used in some church rituals, and is a formidable weapon against the undead, inflicting 1d8 points of damage for 2 rounds.  Holy water cannot retain its holy power if it is stored in any other container than the special vials it is placed in when blessed.
 
-Horse, Heavy: A heavy horse can carry its normal load of 40 stone and move 120’ per turn. A heavy horse can carry its maximum load of 80 stone and move 60’ per turn. Heavy horses are normally trained for draft. Only a small percentage of the otherwise placid heavy horses can be trained for war. A historical example is the medieval destrier (warhorse).
+Horse, Heavy: A heavy horse can carry its normal load of 40 stone and move 120' per turn. A heavy horse can carry its maximum load of 80 stone and move 60' per turn. Heavy horses are normally trained for draft. Only a small percentage of the otherwise placid heavy horses can be trained for war. A historical example is the medieval destrier (warhorse).
 
-Horse, Light: A light horse can carry its normal load of 20 stone and move at 240’ per turn. A light horse can carry its maximum load of 40 stone and move at 120’ per turn. Light horses are trained for riding or war. Historical examples include the medieval palfrey and jennet (riding horse), medieval rouncey (warhorse), and Mongolian and Turkoman horse. 
+Horse, Light: A light horse can carry its normal load of 20 stone and move at 240' per turn. A light horse can carry its maximum load of 40 stone and move at 120' per turn. Light horses are trained for riding or war. Historical examples include the medieval palfrey and jennet (riding horse), medieval rouncey (warhorse), and Mongolian and Turkoman horse. 
 
-Horse, Medium: A medium horse can carry its normal load of 30 stone and move at 180’ per turn. A medium horse can carry its maximum load of 60 stone and move at up to 90’ per turn. Medium horses are trained for draft, riding, or war. Historical examples include the medieval hackney (draft or riding horse), medieval courser (warhorse), and Sarmatian medium horse. 
+Horse, Medium: A medium horse can carry its normal load of 30 stone and move at 180' per turn. A medium horse can carry its maximum load of 60 stone and move at up to 90' per turn. Medium horses are trained for draft, riding, or war. Historical examples include the medieval hackney (draft or riding horse), medieval courser (warhorse), and Sarmatian medium horse. 
 
-Hut: A hut is a 10’ square building with an earthen floor and thatched roof. Serfs, unskilled laborers, and other working poor generally live in such homely dwellings. 
+Hut: A hut is a 10' square building with an earthen floor and thatched roof. Serfs, unskilled laborers, and other working poor generally live in such homely dwellings. 
 
 Ink: This is a small pot of black ink. Ink can be purchased in other colors, but it costs twice as much.
 
-Inn: An inn is an establishment that offers food, drink, lodging, and stabling. They are a common meeting place for adventurers. Slum inns are gambling dens, whorehouses, and flophouses, frequented by gamblers, harlots, and ruffians. Average inns include coaching inns, hostels, and traveler’s lodges designed for travelers and traders. Superb inns are the preserve of wealthy merchants and nobles.
+Inn: An inn is an establishment that offers food, drink, lodging, and stabling. They are a common meeting place for adventurers. Slum inns are gambling dens, whorehouses, and flophouses, frequented by gamblers, harlots, and ruffians. Average inns include coaching inns, hostels, and traveler's lodges designed for travelers and traders. Superb inns are the preserve of wealthy merchants and nobles.
 
 Iron Spikes: These sturdy pitons can be used to wedge doors open or spike them shut or to provide belaying points for ropes. 
 
-Javelin: Javelins are short spears, 3’ to 6’ long, designed for throwing. Historical examples include the Greek javelin, Roman pilum and verutum, early medieval angon, and Zulu assegai. 
+Javelin: Javelins are short spears, 3' to 6' long, designed for throwing. Historical examples include the Greek javelin, Roman pilum and verutum, early medieval angon, and Zulu assegai. 
 
 Lamellar Armor: Lamellar armor is made of small bronze, iron, or steel plates laced together in parallel rows with silk, leather thongs, or cotton. It is similar to scale armor, from which it evolved, and comparable in protection to banded armor. Lamellar is generally worn as a cuirass over light chain or leather, and sometimes sewn to the backing. Lamellar would also include leather lames worn over chain. Historical examples include Mongolian lamellar, medieval brigandine and splinted armor, Japanese o-yori armor, and Roman lorica squamata.  
 
-Lance: Lances are long spears, 12’ to 16’ in length, designed for mounted warriors. Despite their length, they are used one-handed. Historical examples include the Greek xyston, Persian and Byzantine kontos, and medieval lance. Lances do double damage when used to charge, but impose a -1 penalty on initiative rolls.
+Lance: Lances are long spears, 12' to 16' in length, designed for mounted warriors. Despite their length, they are used one-handed. Historical examples include the Greek xyston, Persian and Byzantine kontos, and medieval lance. Lances do double damage when used to charge, but impose a -1 penalty on initiative rolls.
 
-Lantern:  Lanterns are used in dungeon adventures to provide light. They burn one oil flask for each four hours, or 24 turns, and have an effective light radius of 30’. Lanterns can be closed to hide the light or protect it from wind. 
+Lantern:  Lanterns are used in dungeon adventures to provide light. They burn one oil flask for each four hours, or 24 turns, and have an effective light radius of 30'. Lanterns can be closed to hide the light or protect it from wind. 
 
 Leather Armor: Leather armor is made of hardened leather or laminated linen. Leather armor usually consists of spaulders (shoulder armor), cuirass, and tassets (flaps covering the groin and thighs). It is lighter but less protective then more reinforced leather armors such as ring mail. A historical example is Macedonian linothorax armor. 
 
-Lifeboat:  Lifeboats typically have a 20’ length, 4’ to 5’ beam, and 1’ to 2’ draft. They are equipped with rations to feed 10 human-sized beings for 1 week. The mast folds down for storage of the lifeboat on large ships galleys, where there are typically 2 to 3 lifeboats. There are 1 or 2 lifeboats on small ships or galleys. Lifeboats weigh 50 stone (500lb) and will take up this much weight, each, on a vessel. The lifeboat itself is capable of holding a weight of 150 stone (1,500lb) in addition to crew.
+Lifeboat:  Lifeboats typically have a 20' length, 4' to 5' beam, and 1' to 2' draft. They are equipped with rations to feed 10 human-sized beings for 1 week. The mast folds down for storage of the lifeboat on large ships galleys, where there are typically 2 to 3 lifeboats. There are 1 or 2 lifeboats on small ships or galleys. Lifeboats weigh 50 stone (500lb) and will take up this much weight, each, on a vessel. The lifeboat itself is capable of holding a weight of 150 stone (1,500lb) in addition to crew.
 
-Lock: This is a common iron lock with a key. More complex locks, made my highly skilled locksmiths, might be available (Judge’s discretion); these impose penalties on a thief’s proficiency throws to Open Locks. 
+Lock: This is a common iron lock with a key. More complex locks, made my highly skilled locksmiths, might be available (Judge's discretion); these impose penalties on a thief's proficiency throws to Open Locks. 
 
-Longship:  The longship is a graceful, light ship with a single square-sailed mast, a 60’ to 80’ length, 10’ to 15’ beam, and 2’ to 3’ draft. Longships can operate equally well on oceans, coasts, or rivers, making them ideal raiding vessels. The standard crew is a captain and 75 sailors, of which 60 may row when the wind is low. Longship sailors are generally also marines (fighters). In addition to crew, longships are capable of holding a weight of 2,000 stone (20,000lb). A historical example is the Viking drakkar.  
+Longship:  The longship is a graceful, light ship with a single square-sailed mast, a 60' to 80' length, 10' to 15' beam, and 2' to 3' draft. Longships can operate equally well on oceans, coasts, or rivers, making them ideal raiding vessels. The standard crew is a captain and 75 sailors, of which 60 may row when the wind is low. Longship sailors are generally also marines (fighters). In addition to crew, longships are capable of holding a weight of 2,000 stone (20,000lb). A historical example is the Viking drakkar.  
 
-Mace: A mace is a bludgeoning weapon consisting of a 2’ to 3’ wood or metal shaft and a heavy stone or metal head, useable with one or two hands. Historical examples include the Egyptian bronze-headed mace, medieval flanged mace, Persian horseman’s mace, Russian pernach, and Slavic bulawa.  
+Mace: A mace is a bludgeoning weapon consisting of a 2' to 3' wood or metal shaft and a heavy stone or metal head, useable with one or two hands. Historical examples include the Egyptian bronze-headed mace, medieval flanged mace, Persian horseman's mace, Russian pernach, and Slavic bulawa.  
 
 Manacles:  These are used to bind hands or feet. Characters bound with manacles can escape if they have the Contortionist proficiency (as described in Chapter 4), or by making a proficiency throw to Open Locks. 
 
@@ -454,7 +454,7 @@ Morning Star: This is any type of large mace-liked weapon with a spiked metal he
 
 Mirror: A mirror can be used to check around corners and defend against monstrous gaze attacks. A character using a mirror to see his target suffers a -2 penalty to attack throws, and cannot use a shield, second weapon, or two-handed weapon. 
 
-Mule: A mule is the infertile offspring of a horse and a donkey. It can carry its normal load of 20 stone and move 120’ per turn. A mule can carry its maximum load of 40 stone and move 60’ per turn.
+Mule: A mule is the infertile offspring of a horse and a donkey. It can carry its normal load of 20 stone and move 120' per turn. A mule can carry its maximum load of 40 stone and move 60' per turn.
 
 Musical Instrument: A wide variety of instruments are available to bards and performers, including stringed instruments, percussion instruments, brass instruments, and woodwind instruments. Historical examples of stringed instruments are the cithara, harp, lyre, lute, psaltery, and zither. Historical percussion instruments include the castanet, chimes, drum, gong, sistrum, tambourine, and tympani. Historical brass instruments include the buccina, carnyx, cornu, and salpinx. Historical woodwind instruments include the aulos, flute, horn, pan pipe, and shawm. A common instrument costs 25gp. A superior instrument costs 50gp and adds +1 to Performance proficiency throws made with it. A masterpiece instrument costs 100gp and adds +2 to Performance proficiency throws made with it.    
 
@@ -462,17 +462,17 @@ Net: This is a round, weighted cast net designed to entangle and entrap opponent
 
 Oil: Common oil is burned in a lantern to give light. Common oil is usually olive oil, castor oil, or animal extract. Military oil is a weapon made of naphtha, and cannot be easily doused with water. Military oil may be thrown at monsters, dealing 1d8 points of damage for 2 rounds to the creature struck, or poured on the floor and ignited to delay pursuit.  
 
-Ox: An ox is a castrated bull, used for cart driving. An ox can carry its normal load of 45 stone and move 60’ per turn. An ox can carry its maximum load of 90 stone and move 30’ per turn. 
+Ox: An ox is a castrated bull, used for cart driving. An ox can carry its normal load of 45 stone and move 60' per turn. An ox can carry its maximum load of 90 stone and move 30' per turn. 
 
 Plate Armor: Plate armor is made from large metal plates worn over the chest and vital areas. Chain mail or other protective covering may cover exposed joints. Plate armor provides superior protection over banded plate and lamellar, having larger plates sewn onto a stronger backing. Historical examples include classical panoply (if worn with arm and leg armor), medieval plate and mail armor, Middle Eastern mirror armor, Eastern European plated mail, and Japanese tatami-do. 
 
-Pole, Wooden: This pole is a shaft of wood 10’ long and 2” thick. Adventurers often carry 10’ poles to prod and poke areas that might be trapped, test the strength of ledges or floors, or measure the depth of pools. 
+Pole, Wooden: This pole is a shaft of wood 10' long and 2" thick. Adventurers often carry 10' poles to prod and poke areas that might be trapped, test the strength of ledges or floors, or measure the depth of pools. 
 
-Pole Arm: Pole arms are two-handed slashing and piercing weapons with a metal head and a long wooden shaft. Pole arms range in length from 6’ to 21’. Historical examples include the Thracian rhomphaia, Dacian falx, and Macedonian sarissa; the medieval bill, fauchard, glaive, guisarme, halberd, partisan, pike, ranseur, spetum, and voulge; the Chinese gun dao; and the Japanese bisento, nagamaki, and naginata. Pole arms can be used to attack from the second rank in melee, and inflict double damage when used in or against a charge, but impose a -1 penalty on initiative rolls.
+Pole Arm: Pole arms are two-handed slashing and piercing weapons with a metal head and a long wooden shaft. Pole arms range in length from 6' to 21'. Historical examples include the Thracian rhomphaia, Dacian falx, and Macedonian sarissa; the medieval bill, fauchard, glaive, guisarme, halberd, partisan, pike, ranseur, spetum, and voulge; the Chinese gun dao; and the Japanese bisento, nagamaki, and naginata. Pole arms can be used to attack from the second rank in melee, and inflict double damage when used in or against a charge, but impose a -1 penalty on initiative rolls.
 
-Pouch/purse: These are 6” x 1’ bags of cloth or leather that can contain half a stone (5lb). They can be carried on a shoulder strap or on a belt. 
+Pouch/purse: These are 6" x 1' bags of cloth or leather that can contain half a stone (5lb). They can be carried on a shoulder strap or on a belt. 
 
-Raft: A raft is a floating platform usually used for river cargo. Professionally built rafts are called barges, and have raised edges to keep out water, small wooden huts for shelter, and steering oars. Barges can be 30’ x 40’ in size, and can carry 500 stone (5,000 lb) for each 10’ square. Makeshift rafts are nothing more than crude platforms of up to 20’ x 30’. Each 10’ square section will only hold a weight of 250 stone (2,500lb). A makeshift raft can be built in 1 to 3 days for each 10’ x 10’ raft portion.
+Raft: A raft is a floating platform usually used for river cargo. Professionally built rafts are called barges, and have raised edges to keep out water, small wooden huts for shelter, and steering oars. Barges can be 30' x 40' in size, and can carry 500 stone (5,000 lb) for each 10' square. Makeshift rafts are nothing more than crude platforms of up to 20' x 30'. Each 10' square section will only hold a weight of 250 stone (2,500lb). A makeshift raft can be built in 1 to 3 days for each 10' x 10' raft portion.
 
 Rations, Iron:  This food is dried and preserved to be carried on long voyages when securing other food may be uncertain. It will last two months in the wilderness and a week in the foul conditions of a dungeon. The cost for iron rations will vary depending on quality. The cheapest iron rations consist of hard, dried salted biscuits. Better rations included salted or pickled meat and dried, pickled, or preserved fruit and vegetables.  
 
@@ -480,19 +480,19 @@ Rations, Standard:  This food is fresh but untreated. It will last for a week in
 
 Ring Mail Armor: Ring mail armor is leather or padded armor that has a large number of small rings sewn directly over the foundation garment. Unlike chain mail, the rings are not physically interlocked with each other, so protection is inferior. Ring mail is closely related to scale armor, which sews leather or horn scales onto the foundation garment, and provides comparable protection. Historical examples include Frankish ring mail, Asian ring armor on leather, and Renaissance eyelet doublets. 
 
-Rope, 50’: This strong rope, made of animal hair, hemp, or similar fibers, can bear 45 stone, the weight of approximately three human-sized beings.
+Rope, 50': This strong rope, made of animal hair, hemp, or similar fibers, can bear 45 stone, the weight of approximately three human-sized beings.
 
-Sack, Large: This is a 2’ x 4’ burlap, cloth, or leather bag that can contain 6 stone (60lb). It is normally carried over the shoulder and dropped when combat begins.
+Sack, Large: This is a 2' x 4' burlap, cloth, or leather bag that can contain 6 stone (60lb). It is normally carried over the shoulder and dropped when combat begins.
 
-Sack, Small:  This is a 1’ x 2’ burlap, cloth, or leather bag that can contain 2 stone (20lb). It is often tied to a belt or spearhead. 
+Sack, Small:  This is a 1' x 2' burlap, cloth, or leather bag that can contain 2 stone (20lb). It is often tied to a belt or spearhead. 
 
 Saddle Bag:  This is a long pocketed leather sack that can contain 3 stone (30lb). 
 
-Saddle & Tack: This includes a leather and wooden saddle with metal fastenings, a leather and metal bridle and bit, and stirrups.  Draft saddle and tack is used to harness to a cart or wagon or carry saddle bags; it cannot be used for riding. Riding saddle and tack is designed for the rider’s comfort. Military saddle and tack is designed for stability during combat. A character in combat without a military saddle must save versus Paralysis every time he is dealt damage or be knocked off the horse. 
+Saddle & Tack: This includes a leather and wooden saddle with metal fastenings, a leather and metal bridle and bit, and stirrups.  Draft saddle and tack is used to harness to a cart or wagon or carry saddle bags; it cannot be used for riding. Riding saddle and tack is designed for the rider's comfort. Military saddle and tack is designed for stability during combat. A character in combat without a military saddle must save versus Paralysis every time he is dealt damage or be knocked off the horse. 
 
-Sailing Ship, Large:  This large, seaworthy ship has as many as 3 square-sailed masts, with a 100’ to 150’ length, 25’ to 30’ beam, and 10’ to 12’ draft. It has at least one full deck and the bow and stern are raised “castles” that give archers a superior field of fire. The crew for a large sailing ship is a captain and 20 sailors. It can carry 30,000 stone (300,000lb) of cargo in addition to crew. Up to 2 light catapults can be mounted on a large sailing ship. Historical examples include the Roman cladivata and the medieval round ship.  
+Sailing Ship, Large:  This large, seaworthy ship has as many as 3 square-sailed masts, with a 100' to 150' length, 25' to 30' beam, and 10' to 12' draft. It has at least one full deck and the bow and stern are raised "castles" that give archers a superior field of fire. The crew for a large sailing ship is a captain and 20 sailors. It can carry 30,000 stone (300,000lb) of cargo in addition to crew. Up to 2 light catapults can be mounted on a large sailing ship. Historical examples include the Roman cladivata and the medieval round ship.  
 
-Sailing Ship, Small:  This ship is much like the larger version, but has one mast, a 60’ to 80’ length, 20’ to 30’ beam, and 5’ to 8’ draft. Crew consists of a captain and 12 sailors. In addition to the crew, it can carry 10,000 stone (100,000lb) of cargo. Historical examples include the Roman corbita, the Viking knarr, and the medieval cog. 
+Sailing Ship, Small:  This ship is much like the larger version, but has one mast, a 60' to 80' length, 20' to 30' beam, and 5' to 8' draft. Crew consists of a captain and 12 sailors. In addition to the crew, it can carry 10,000 stone (100,000lb) of cargo. Historical examples include the Roman corbita, the Viking knarr, and the medieval cog. 
 
 Sap: A sap consists of a heavyweight material wrapped inside a leather sack. Used as a weapon, it provides a +2 bonus to attack throws made to incapacitate opponents (as described in Special Maneuvers in Chapter 6).
 
@@ -502,37 +502,37 @@ Shield: A character with a shield equipped has his Armor Class increased by 1 po
 
 Shoes: Simple leather shoes or sandals are suitable for walking long distances.
 
-Sling: A sling is a projectile weapon, made of braided flax, hemp or wool cord, used to hurl small stones or lead bullets. Slings were used by all armies of the ancient world. Historical examples include the Hebrew shepherd’s sling and Greek peltast’s sling. 
+Sling: A sling is a projectile weapon, made of braided flax, hemp or wool cord, used to hurl small stones or lead bullets. Slings were used by all armies of the ancient world. Historical examples include the Hebrew shepherd's sling and Greek peltast's sling. 
 
-Spear: Wooden shafts, 6’ to 8’ in length, with metal heads designed for thrusting, spears are the main weapon of the common soldier. Spears can be used one- or two-handed. Historical examples include the Hoplite doru, the medieval winged spear, and the Japanese yari.  Characters armed with spears can attack from the second rank in melee and inflict double damage when used in or against a charge.
+Spear: Wooden shafts, 6' to 8' in length, with metal heads designed for thrusting, spears are the main weapon of the common soldier. Spears can be used one- or two-handed. Historical examples include the Hoplite doru, the medieval winged spear, and the Japanese yari.  Characters armed with spears can attack from the second rank in melee and inflict double damage when used in or against a charge.
 
 Spell Book (Blank):  A spell book has 100 pages of parchment, and each spell takes up one page per spell level (one page each for 1st level spells). These books are used by arcane spellcasters to record the spells in their repertoire.
 
-Staff: A staff is a common weapon made from a stick of hardwood 4’ to 6’ long, and used two-handed. (A one-handed staff is a club.) Historical examples include the English quarterstaff, Japanese bo stick, and Chinese gun. 
+Staff: A staff is a common weapon made from a stick of hardwood 4' to 6' long, and used two-handed. (A one-handed staff is a club.) Historical examples include the English quarterstaff, Japanese bo stick, and Chinese gun. 
 
-Stakes and Mallet: These 18” sharpened wood shafts are carried by adventures to destroy vampires. 
+Stakes and Mallet: These 18" sharpened wood shafts are carried by adventures to destroy vampires. 
 
-Sword: The classic weapon of knights and kings, the sword includes straight and curved slashing and thrusting blades of 30” to 40” in length useable with one or two hands. Historical examples include the Roman spatha, Viking sword, medieval knightly sword and falchion, Japanese katana, and Chinese jian and dao. 
+Sword: The classic weapon of knights and kings, the sword includes straight and curved slashing and thrusting blades of 30" to 40" in length useable with one or two hands. Historical examples include the Roman spatha, Viking sword, medieval knightly sword and falchion, Japanese katana, and Chinese jian and dao. 
 
-Sword, Short: The short sword includes straight and curved slashing and thrusting blades, generally less than 30” in length, meant to be used with one hand. Historical examples include the Egyptian khopesh, Greek xiphos, Roman gladius, Japanese wakizashi, Arab scimitar, Persian shamshir, Turkish yatagan, and Indian talwar. 
+Sword, Short: The short sword includes straight and curved slashing and thrusting blades, generally less than 30" in length, meant to be used with one hand. Historical examples include the Egyptian khopesh, Greek xiphos, Roman gladius, Japanese wakizashi, Arab scimitar, Persian shamshir, Turkish yatagan, and Indian talwar. 
 
-Sword, Two-Handed: The two-handed sword includes straight and curved slashing and thrusting blades, 40” or more in length, requiring two hands to use effectively. Historical examples include the medieval longsword, the Renaissance zweihänder, Scottish claymore, Japanese no-dachi, and Chinese zhanmadao. Two-handed swords impose a -1 penalty on initiative rolls.
+Sword, Two-Handed: The two-handed sword includes straight and curved slashing and thrusting blades, 40" or more in length, requiring two hands to use effectively. Historical examples include the medieval longsword, the Renaissance zweih"ander, Scottish claymore, Japanese no-dachi, and Chinese zhanmadao. Two-handed swords impose a -1 penalty on initiative rolls.
 
-Thieves’ Tools:  Thieves’ tools include long metal picks and probes, fine wires, tiny saws, miniature hammers, and an assortment of skeleton keys. Thieves’ tools are required to make proficiency throws to open locks and remove traps. 
+Thieves' Tools:  Thieves' tools include long metal picks and probes, fine wires, tiny saws, miniature hammers, and an assortment of skeleton keys. Thieves' tools are required to make proficiency throws to open locks and remove traps. 
 
 Tinderbox: This is a tinderbox used to start fires. Lighting a torch with flint and steel takes a full round, and lighting any other fire with them takes at least that long.
 
-Torch: Torches are 1’ to 2’ long pieces of wood tipped with pitch. A torch burns for six turns (1 hour), clearly illuminating a 30’ radius. If a torch is used in combat, it deals 1d4 points of damage.
+Torch: Torches are 1' to 2' long pieces of wood tipped with pitch. A torch burns for six turns (1 hour), clearly illuminating a 30' radius. If a torch is used in combat, it deals 1d4 points of damage.
 
-Townhouse: A townhouse is a 30’ square two-story building with a wooden floor and stairs and thatched roof. Wealthy yeomen, master craftsmen, merchants, and other professionals might live in such a dwelling.
+Townhouse: A townhouse is a 30' square two-story building with a wooden floor and stairs and thatched roof. Wealthy yeomen, master craftsmen, merchants, and other professionals might live in such a dwelling.
 
 Troop Transport, Large:  This is a large sailing ship reinforced for war and modified to carry additional troops. It can carry 50 marines in addition to its normal complement of 20 sailors.
 
 Troop Transport, Small: This is a small sailing ship reinforced for war and modified to carry additional troops. It can carry 25 marines in addition to its normal complement of 12 sailors. 
 
-Wagon: This is a four-wheeled, open vehicle for transporting heavy loads. Generally, two or four heavy horses draw a wagon. Two mules or medium horses can be substituted for one heavy horse. If the wagon is pulled by two heavy horses, it can transport up to 160 stone at 60’ per turn, or 320 stone at 30’ per turn. If the wagon is pulled by four heavy horses, it can transport up to 320 stone at 60’ per turn, or up to 640 stone at 30’ per turn. A wagon can move at a similar speed and conditions as a cart.
+Wagon: This is a four-wheeled, open vehicle for transporting heavy loads. Generally, two or four heavy horses draw a wagon. Two mules or medium horses can be substituted for one heavy horse. If the wagon is pulled by two heavy horses, it can transport up to 160 stone at 60' per turn, or 320 stone at 30' per turn. If the wagon is pulled by four heavy horses, it can transport up to 320 stone at 60' per turn, or up to 640 stone at 30' per turn. A wagon can move at a similar speed and conditions as a cart.
 
-Warhammer: A warhammer is a bludgeoning weapon with a 2’ to 3’ wooden or metal shaft and a broad metal head shaped like a hammer. It is designed for crushing armor, and useable with one or two hands. The chief historical example is the late medieval warhammer. 
+Warhammer: A warhammer is a bludgeoning weapon with a 2' to 3' wooden or metal shaft and a broad metal head shaped like a hammer. It is designed for crushing armor, and useable with one or two hands. The chief historical example is the late medieval warhammer. 
 
 Waterskin/Wineskin:  This container, made of hide or preserved animal bladder, will hold 2 pints (1 quart) of fluid.
 
@@ -540,7 +540,7 @@ Whip: This is a long, single-tailed whip of the sort used to herd cattle. Used a
 
 Wolfsbane: Wolfsbane (dried aconite flowers) may drive off werewolves and other lycanthropes if a character strikes the monster in hand-to-hand combat with the sprig. If the lycanthrope fails a saving throw versus Poison, it must flee as if turned. A character who eats wolfsbane must make a saving throw versus Poison or die after one turn.
 
-Woundwart: Woundwart, also known as heal-all or lamb’s ears, is a herbal medicine with curative properties. An adventurer with Healing proficiency can use a woundwart tincture to treat injured characters. Used in this manner, it provides a +2 bonus on proficiency throws to cure light wounds and cure serious wounds.
+Woundwart: Woundwart, also known as heal-all or lamb's ears, is a herbal medicine with curative properties. An adventurer with Healing proficiency can use a woundwart tincture to treat injured characters. Used in this manner, it provides a +2 bonus on proficiency throws to cure light wounds and cure serious wounds.
 
 
 ### Encumbrance
@@ -566,65 +566,65 @@ Treasure	     1 stone per 1,000 coins or gems
 *Magical armor and shields are lighter than mundane items. They reduce their encumbrance by 1 stone per point of magical bonus.
 
 
-### Heavy items include two-handed weapons (including bows, crossbows, and various large melee weapons); any item that is as tall as the carrying character (including spears, staffs, and 10’ poles); any item that weighs around 8-14lb; and any item that requires two hands to carry (such as chairs or chests). Items weighing more than 14lb will weigh more than 1 stone. 
+### Heavy items include two-handed weapons (including bows, crossbows, and various large melee weapons); any item that is as tall as the carrying character (including spears, staffs, and 10' poles); any item that weighs around 8-14lb; and any item that requires two hands to carry (such as chairs or chests). Items weighing more than 14lb will weigh more than 1 stone. 
 
 For purposes of encumbrance, 1,000 coins are considered 1 stone. When a carrying device, such as a backpack, lists the weight it can carry in stone, this weight can be converted at 1:1000 from stone to coins to determine how many coins it can carry.
 
-A character’s speed will be affected based on encumbrance, as shown on the Character Movement and Encumbrance table, below. For additional information on movement, see the Time and Movement section in the Adventures chapter. The maximum any character can carry is 20 stone, plus his Strength adjustment.
+A character's speed will be affected based on encumbrance, as shown on the Character Movement and Encumbrance table, below. For additional information on movement, see the Time and Movement section in the Adventures chapter. The maximum any character can carry is 20 stone, plus his Strength adjustment.
 
 
 ### Character Movement and Encumbrance 
 
 Encumbrance	   Exploration Movement		Combat Movement		Running Movement
 
-Up to 5 stone	   120’ per turn		40’ per round		120’ per round
+Up to 5 stone	   120' per turn		40' per round		120' per round
 
-Up to 7 stone	   90’ per turn			30’ per round		90’ per round
+Up to 7 stone	   90' per turn			30' per round		90' per round
 
-Up to 10 stone	   60’ per turn			20’ per round		60’ per round
+Up to 10 stone	   60' per turn			20' per round		60' per round
 
-Up to max capacity 30’ per turn			10’ per round		30’ per round
+Up to max capacity 30' per turn			10' per round		30' per round
 
 
-### EXAMPLE: Marcus is carrying a two-handed sword (1 heavy item), a crossbow (1 heavy item), a mace (1 item), 2 daggers (1 item each), 1 week’s iron rations (1 item), a tinderbox (1 item), 2 flasks of oil (1 item each), 3 stakes and mallet (1 item), a small mirror (1 item), a pound of wolfsbane (1 item), a pound of garlic (1 item), and a case with 20 bolts (1 item). He is carrying 12 items, which counts as 2 stone. His two-handed sword and crossbow count as 2 stone. Finally, he is wearing plate armor (AC6), which counts as 6 stone. His total encumbrance is 10 stone, so his exploration movement is 60’ per turn. Later, he picks up 8,000 silver pieces. This increases his encumbrance to 18 stone, and reduces his exploration movement to 30’ per turn.
+### EXAMPLE: Marcus is carrying a two-handed sword (1 heavy item), a crossbow (1 heavy item), a mace (1 item), 2 daggers (1 item each), 1 week's iron rations (1 item), a tinderbox (1 item), 2 flasks of oil (1 item each), 3 stakes and mallet (1 item), a small mirror (1 item), a pound of wolfsbane (1 item), a pound of garlic (1 item), and a case with 20 bolts (1 item). He is carrying 12 items, which counts as 2 stone. His two-handed sword and crossbow count as 2 stone. Finally, he is wearing plate armor (AC6), which counts as 6 stone. His total encumbrance is 10 stone, so his exploration movement is 60' per turn. Later, he picks up 8,000 silver pieces. This increases his encumbrance to 18 stone, and reduces his exploration movement to 30' per turn.
 
 
 ### In order to carry more equipment and treasure, characters may purchase beasts of burdens and ground vehicles. Each animal or vehicle has a normal and maximum load it can carry in stone, as shown on the Animal/Vehicle Movement and Encumbrance table.
 
-The figure to the left of the slash is the animal or vehicle’s movement rate per turn when not encumbered (carrying its normal load limit or less), and the figure to the right of the slash is its movement rate per turn when encumbered (carrying more than a normal load but not more than a maximum load).
+The figure to the left of the slash is the animal or vehicle's movement rate per turn when not encumbered (carrying its normal load limit or less), and the figure to the right of the slash is its movement rate per turn when encumbered (carrying more than a normal load but not more than a maximum load).
 
 
 ### Animal/Vehicle Movement and Encumbrance
 
 Animal/Vehicle 		Exploration Movement		Normal Load	Maximum Load	
 
-Camel			150’ / 75’  			30     		60
+Camel			150' / 75'  			30     		60
 
-Donkey			120’ / 60’			8		16
+Donkey			120' / 60'			8		16
 
-Elephant		120’ / 60’			120		240
+Elephant		120' / 60'			120		240
 
-Horse, Heavy		120’ / 60’			40		80
+Horse, Heavy		120' / 60'			40		80
 
-Horse, Light		240’ / 120’			20		40
+Horse, Light		240' / 120'			20		40
 
-Horse, Medium		180’ / 90’			30		60
+Horse, Medium		180' / 90'			30		60
 
-Mule   			120’ / 60’			20		40
+Mule   			120' / 60'			20		40
 
-Ox			60’ / 30’			45		90
+Ox			60' / 30'			45		90
 
-Cart, Small, 1 Mule	60’ / 30’			35		70
+Cart, Small, 1 Mule	60' / 30'			35		70
 
-Cart, Small, 2 Mules	60’ / 30’			80		160
+Cart, Small, 2 Mules	60' / 30'			80		160
 
-Cart, Large, 1 Horse	60’ / 30’			80		160
+Cart, Large, 1 Horse	60' / 30'			80		160
 
-Cart, Large, 2 Horses	60’ / 30’			120		240
+Cart, Large, 2 Horses	60' / 30'			120		240
 
-Wagon, 2 Horses		60’ / 30’			160		320
+Wagon, 2 Horses		60' / 30'			160		320
 
-Wagon, 4 Horses		60’ / 30’			320		640
+Wagon, 4 Horses		60' / 30'			320		640
 
 
 ### Hirelings, Henchmen, Mercenaries, and Specialists
@@ -633,7 +633,7 @@ In addition to buying equipment, adventurers may also spend their money to hire 
 
 While adventurers often wish to hire as many hirelings as they can afford, hirelings are not available in unlimited numbers. Indeed, in small villages or remote outposts, they may be not available at all. As with equipment, the amount available will be determined by the market class within which the adventurers are recruiting hirelings. The Hireling Availability by Market Class table shows how many of each type of henchman, mercenary or specialist is available in each type of market. Some values will indicate a percentage chance; this is chance of that type of hireling being present at all. One half of the hirelings (rounded up) become available within the first week the adventurers enter the market. One quarter (rounded down, minimum 1) become available during the second week. The remainder of the hirelings become available in the third week.  
 
-EXAMPLE: Marcus is in a city of 20,000, a Class III market. He wants to hire a sage to decipher a strange book, and a company of heavy infantry. There is a 65% chance of 1 sage being present; unfortunately, the Judge rolls a 98, and Marcus can’t find one available. His search for the heavy infantry goes better, as the Judge’s roll of 3d8 yields 22. Marcus finds 11 of these in his first week of searching, 5 more in his second week, and the remaining 6 in his third week. 
+EXAMPLE: Marcus is in a city of 20,000, a Class III market. He wants to hire a sage to decipher a strange book, and a company of heavy infantry. There is a 65% chance of 1 sage being present; unfortunately, the Judge rolls a 98, and Marcus can't find one available. His search for the heavy infantry goes better, as the Judge's roll of 3d8 yields 22. Marcus finds 11 of these in his first week of searching, 5 more in his second week, and the remaining 6 in his third week. 
 
 PCs may sometimes find potential hirelings while on adventures. Otherwise, in order to find hirelings, the PCs must carouse in pubs, post notices of help wanted, hand out fliers, and seek out adventuring companies, mercenary brotherhoods, or professional guilds. These activities cost money. Each week that the adventurers are in the market for hirelings, they must pay the fee listed on the table below. This fee is per type of hireling.  
 
@@ -674,9 +674,9 @@ Specialists
 
  Alchemist			1d10		1d3		1		1 (33%)		1 (15%)		1 (5%)
 
- Animal Trainer – Common	5d10		2d6		1d6		1d2		1 (65%)		1 (20%)
+ Animal Trainer - Common	5d10		2d6		1d6		1d2		1 (65%)		1 (20%)
 
- Animal Trainer – Exotic	1d10		1d3		1 		1 (33%)		1 (15%)		1 (5%)
+ Animal Trainer - Exotic	1d10		1d3		1 		1 (33%)		1 (15%)		1 (5%)
 
  Armorer	       		3d10 		2d4		1d4		1 		1 (40%)		1 (15%)
 
@@ -684,19 +684,19 @@ Specialists
 
  Healer				5d10		2d6		1d6		1d2		1 (65%)		1 (20%)
 
- Healer – Physicker		3d10 		2d4		1d4		1		1 (40%)		1 (15%)
+ Healer - Physicker		3d10 		2d4		1d4		1		1 (40%)		1 (15%)
 
- Healer – Chirugeon		1d10		1d3		1 		1 (33%)		1 (15%)		1 (5%)
+ Healer - Chirugeon		1d10		1d3		1 		1 (33%)		1 (15%)		1 (5%)
 
- Mariner – Captain		4d6		1d6		1d3		1 (80%)		1 (33%)		1 (10%)
+ Mariner - Captain		4d6		1d6		1d3		1 (80%)		1 (33%)		1 (10%)
 
- Mariner – Navigator		5d10		1d12		1d6		1d2		1 (60%)		1 (45%)
+ Mariner - Navigator		5d10		1d12		1d6		1d2		1 (60%)		1 (45%)
 
- Mariner – Sailor/Rower		4d100		5d20		5d10		3d4		1d6		1d2
+ Mariner - Sailor/Rower		4d100		5d20		5d10		3d4		1d6		1d2
 
- Ruffian – Carouser		4d100		5d20		5d10		3d4		1d6		1d2
+ Ruffian - Carouser		4d100		5d20		5d10		3d4		1d6		1d2
 
- Ruffian – Footpad		5d20		4d6		2d6		1d3		1d2		1 (40%)
+ Ruffian - Footpad		5d20		4d6		2d6		1d3		1d2		1 (40%)
 
  Ruffian - Reciter		5d20		4d6		2d6		1d3		1d2		1 (40%)
 
@@ -752,21 +752,21 @@ Adjusted Die Roll	Result
 
 9-11			Accept
 
-12+			Accept with élan
+12+			Accept with 'elan
 
 
-### After the offers are made, the Judge will make a reaction roll of 2d6 on the Reaction to Hiring Offer table to decide the potential hireling’s reactions, modified by the prospective employer’s Charisma bonus or penalty The Judge may apply any other adjustments he or she feels are appropriate (a bonus of +1 for higher-than-average pay, signing bonuses, or equipment; a -1 penalty if the adventurer offers poor terms or a very risky job).
+### After the offers are made, the Judge will make a reaction roll of 2d6 on the Reaction to Hiring Offer table to decide the potential hireling's reactions, modified by the prospective employer's Charisma bonus or penalty The Judge may apply any other adjustments he or she feels are appropriate (a bonus of +1 for higher-than-average pay, signing bonuses, or equipment; a -1 penalty if the adventurer offers poor terms or a very risky job).
 
 Refuse and slander means that all further reaction rolls made toward that adventurer in the given town or region will be at a penalty of -1 due to unkind words said by the NPC to his fellows.  If the adventurer tries again in a different town, the penalty does not apply. Refuse simply means the NPC declines the offer. 
 
-If a Try again result is rolled, the potential hireling is reluctant, and needs more convincing; the adventurer must “sweeten” the deal in order to get an additional roll, such as by offering more pay, a magic item, or other appealing suggestion.  If the adventurer makes no better offer, treat Try again as a Refusal result.
+If a Try again result is rolled, the potential hireling is reluctant, and needs more convincing; the adventurer must "sweeten" the deal in order to get an additional roll, such as by offering more pay, a magic item, or other appealing suggestion.  If the adventurer makes no better offer, treat Try again as a Refusal result.
 
-Accept means that the NPC has agreed to become the character’s hireling for the stated terms. Accept with élan means the offer is accepted with very good spirit, and the hireling’s morale rolls receive a bonus of +1.
+Accept means that the NPC has agreed to become the character's hireling for the stated terms. Accept with 'elan means the offer is accepted with very good spirit, and the hireling's morale rolls receive a bonus of +1.
 
 
 ### Henchmen
 
-Henchmen should be rolled up with ability scores, classes, hit points, and equipment, just like player characters. Henchmen are typically hired for a share of treasure (at least 15% of the employer's income) and a monthly fee for food, lodging and expenses. A henchmen’s monthly fee is based on his level, as noted on the Henchmen Monthly Fee table, below. 
+Henchmen should be rolled up with ability scores, classes, hit points, and equipment, just like player characters. Henchmen are typically hired for a share of treasure (at least 15% of the employer's income) and a monthly fee for food, lodging and expenses. A henchmen's monthly fee is based on his level, as noted on the Henchmen Monthly Fee table, below. 
 
 When they are hired, potential henchmen should be of lower level than their employer.  A first level character can only hire normal men as henchmen; second level characters can only hire first level characters; and so on. There is no way for the henchmen to directly know the level of the PC employer, but if a henchman ever concludes he is more powerful than his employer, it is cause for an immediate Henchman Loyalty roll (see below). Note that henchmen of greater than 4th level are not generally for hire on the market, though they can sometimes be found on adventures.   
 
@@ -806,9 +806,9 @@ Class Level	 Monthly Wage (gp)
 14		 350,000
 
 
-### Morale: All henchmen have a morale score, which is generally 0 plus the employer's Charisma bonus or penalty. This rating can be adjusted at the Judge’s discretion. It can be increased if the PC has been particularly good to the henchman, or reduced if the PC has been cruel or contrary to his word. 
+### Morale: All henchmen have a morale score, which is generally 0 plus the employer's Charisma bonus or penalty. This rating can be adjusted at the Judge's discretion. It can be increased if the PC has been particularly good to the henchman, or reduced if the PC has been cruel or contrary to his word. 
 
-Morale rolls are made each time the henchman suffers a calamity. A calamity includes suffering an energy drain, a curse, a magical disease, or being nearly killed (Judge’s discretion). In addition, the Judge should make a morale roll for each henchman at the end of each adventure whenever the henchman has leveled up, to determine if the henchman strikes off on his own or remains with the adventurer.  The Judge will roll 2d6 on the Henchman Loyalty table, adding the henchman’s morale, to decide how the henchman responds to the recent events.  The Judge may apply adjustments to this roll, probably no more than +/-2, if the henchman is particularly well or poorly paid. 
+Morale rolls are made each time the henchman suffers a calamity. A calamity includes suffering an energy drain, a curse, a magical disease, or being nearly killed (Judge's discretion). In addition, the Judge should make a morale roll for each henchman at the end of each adventure whenever the henchman has leveled up, to determine if the henchman strikes off on his own or remains with the adventurer.  The Judge will roll 2d6 on the Henchman Loyalty table, adding the henchman's morale, to decide how the henchman responds to the recent events.  The Judge may apply adjustments to this roll, probably no more than +/-2, if the henchman is particularly well or poorly paid. 
 
 
 ### Henchman Loyalty 
@@ -826,15 +826,15 @@ Adjusted Die Roll (2d6)		Result
 12+				Fanatic Loyalty
 
 
-### Hostility means that the henchman will leave the service of the character, and will consider him a rival and enemy in the future. The henchman can never be attracted to the character’s employ again. A result of Resignation means the henchman will leave the character’s employment, but he bears no ill will to his former master, and could be recruited to work for the character again in the future. 
+### Hostility means that the henchman will leave the service of the character, and will consider him a rival and enemy in the future. The henchman can never be attracted to the character's employ again. A result of Resignation means the henchman will leave the character's employment, but he bears no ill will to his former master, and could be recruited to work for the character again in the future. 
 
-Grudging Loyalty means the henchman is reluctant to continue in the character’s service, but sees no better options. If the character does not make any improvements to the terms of service, the henchman’s next loyalty roll will be at a -1 penalty. 
+Grudging Loyalty means the henchman is reluctant to continue in the character's service, but sees no better options. If the character does not make any improvements to the terms of service, the henchman's next loyalty roll will be at a -1 penalty. 
 
-Loyalty means that the NPC will continue in the character’s service with enthusiasm. Fanatic Loyalty means the henchman has become a dedicated and sworn servant of the character. All future morale rolls will be at +2. 
+Loyalty means that the NPC will continue in the character's service with enthusiasm. Fanatic Loyalty means the henchman has become a dedicated and sworn servant of the character. All future morale rolls will be at +2. 
 
-A henchman’s morale score is permanently decreased by 1 each time he suffers a calamity, and permanently increased by 1 each time he gains a level while in the adventurer’s service. 
+A henchman's morale score is permanently decreased by 1 each time he suffers a calamity, and permanently increased by 1 each time he gains a level while in the adventurer's service. 
 
-A player character may hire at most 4 henchmen, adjusted by the character's Charisma bonus or penalty.  Any attempts to hire more than this number of henchmen will cause the character to lose one of his existing henchmen. Mercenaries and specialists do not count toward a character’s maximum number of henchmen, since they do not require the same level of personal loyalty. 
+A player character may hire at most 4 henchmen, adjusted by the character's Charisma bonus or penalty.  Any attempts to hire more than this number of henchmen will cause the character to lose one of his existing henchmen. Mercenaries and specialists do not count toward a character's maximum number of henchmen, since they do not require the same level of personal loyalty. 
 
 Experience: Henchmen gain experience when they participate in an adventure; however, as they are under the command of a player character, only one-half of a share of XP is allocated to each henchman.  See Earning Experience from Adventures for more information.
 
@@ -843,7 +843,7 @@ Experience: Henchmen gain experience when they participate in an adventure; howe
 
 Mercenaries are generally hired to garrison a stronghold or wage war in military campaigns. Mercenaries will not accompany their employers on highly dangerous adventurers such as dungeon exploration unless they become henchmen. The Judge should determine what constitutes a military campaign and what constitutes an adventure depending on the overall circumstances.
 
-The Mercenary Troop Type table below list the typical wages of mercenary types based on type. The costs listed are the mercenaries’ wages only. The cost of armorers to make and repair troop armor and weapons, stablehands to groom horses, caravans to provide supplies while in the field, and other miscellaneous expenses are not included. Mercenaries in garrison need only be paid their wages, but mercenaries on campaign will expect a share of military plunder in addition to wages.
+The Mercenary Troop Type table below list the typical wages of mercenary types based on type. The costs listed are the mercenaries' wages only. The cost of armorers to make and repair troop armor and weapons, stablehands to groom horses, caravans to provide supplies while in the field, and other miscellaneous expenses are not included. Mercenaries in garrison need only be paid their wages, but mercenaries on campaign will expect a share of military plunder in addition to wages.
 
 
 ###     	      	    	       	     	      	      	       		       	     	      Gp Wage per Month
@@ -904,7 +904,7 @@ Below are several possible specialists and typical monthly pay rates. This list 
 
 ### Alchemist (250gp/month): Alchemists are valuable specialists because they dedicate their expertise to creating potions and other concoctions. They may work as assistants to mages to help them create potions. They may also research new potions as if they were 5th level mages, but at twice the base time and cost. See Magic Research in Chapter 7.
 
-Animal Trainer (25gp to 250gp/month): Characters wishing to ride hippogriffs or employ carnivorous apes as guards will need the assistance of an animal trainer.  The lowest cost above is for a standard animal trainer, able to train one type of “normal” animal such as warhorses; those able to train more than one sort of animal, or to train monsters such as hippogriffs, are more expensive to hire. The Judge decides how long an animal must be trained, based on the nature of the training. It will take a minimum of 1 month to tame a wild animal. Likewise it takes a minimum of one month to teach an already tame animal one behavior. After the first month, an animal has become accustomed to a trainer and can be taught additional behaviors at half the time per behavior. If training is interrupted, all time already spent on that particular behavior is lost. 
+Animal Trainer (25gp to 250gp/month): Characters wishing to ride hippogriffs or employ carnivorous apes as guards will need the assistance of an animal trainer.  The lowest cost above is for a standard animal trainer, able to train one type of "normal" animal such as warhorses; those able to train more than one sort of animal, or to train monsters such as hippogriffs, are more expensive to hire. The Judge decides how long an animal must be trained, based on the nature of the training. It will take a minimum of 1 month to tame a wild animal. Likewise it takes a minimum of one month to teach an already tame animal one behavior. After the first month, an animal has become accustomed to a trainer and can be taught additional behaviors at half the time per behavior. If training is interrupted, all time already spent on that particular behavior is lost. 
 
 If an animal is being tamed and the time is interrupted, the animal will rebel and cannot ever be tamed. In some cases, animal training may take years, a fact that adventurers may find inconvenient as well as expensive.  A single animal trainer can train and manage no more than 6 animals at a time. Once an animal is fully trained and put into service the animal trainer won't be needed to handle it any longer.
 
@@ -920,7 +920,7 @@ Ruffian (carousers, 6gp/month; footpads, 25gp/month; reciters, 25gp/month; spy 1
 
 Sage (500gp/month): Sages are rare; they usually specialize in a subject area, such as a sage specialist in dragons. Sages may be consulted for information. If the information is particularly difficult to obtain, it will cost the characters extra. Characters may have to pay the monthly rate in addition to any other supplies the sage needs to research their question. The Judge will decide these costs. Despite the special knowledge sages have, they are occasionally wrong when it comes to particularly obscure questions. The Judge will decide what questions are obscure and the probability of achieving a wrong answer. If the characters receive a wrong answer, they may not realize it!
 
-Spellcaster (Various): Spellcasters are arcane and divine casters retained to cast a spell for an adventuring party. Most often these are clerics asked to cast cure disease, remove curse, restore life and limb, and so on, but mages may be sought out from time to time as well. The Spell Availability by Market table shows how many divine and arcane spellcasters capable of casting a given spell level can be found in any given market. Each spellcaster will be able to cast a spell of the given level once per day. The cost per casting is listed for each spell level as well. Just because a spellcaster can be found does not mean he will cast a spell for the adventurer – he must still be recruited through negotiation. Clerics will never cast spells for adventurers of opposite alignment, and may charge double if the adventurers do not belong to their faith. 
+Spellcaster (Various): Spellcasters are arcane and divine casters retained to cast a spell for an adventuring party. Most often these are clerics asked to cast cure disease, remove curse, restore life and limb, and so on, but mages may be sought out from time to time as well. The Spell Availability by Market table shows how many divine and arcane spellcasters capable of casting a given spell level can be found in any given market. Each spellcaster will be able to cast a spell of the given level once per day. The cost per casting is listed for each spell level as well. Just because a spellcaster can be found does not mean he will cast a spell for the adventurer - he must still be recruited through negotiation. Clerics will never cast spells for adventurers of opposite alignment, and may charge double if the adventurers do not belong to their faith. 
 
 
 ### Spell Availability by Market

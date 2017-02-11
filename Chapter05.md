@@ -9,9 +9,9 @@ Spells may be cast only by characters of special classes, collectively called sp
 
 ### Casting Spells 
 
-During any single day, spellcasters can cast the number of spells of each level indicated on the Spells Progression table for their class. Unlike other fantasy games, in Adventurer Conqueror King, spellcasters do not have to “memorize” or “prepare” their spells in advance; they can choose which spells to cast at the time of casting from among any and all the spells in their repertoire (see below). Once spellcasters have cast all of their available spells for the day, they must have 8 hours of uninterrupted rest and one hour of concentrated study or prayer before they can cast again. 
+During any single day, spellcasters can cast the number of spells of each level indicated on the Spells Progression table for their class. Unlike other fantasy games, in Adventurer Conqueror King, spellcasters do not have to "memorize" or "prepare" their spells in advance; they can choose which spells to cast at the time of casting from among any and all the spells in their repertoire (see below). Once spellcasters have cast all of their available spells for the day, they must have 8 hours of uninterrupted rest and one hour of concentrated study or prayer before they can cast again. 
 
-All spellcasters need to be able to move their hands and speak in order to make the gestures and say the magical phrases that bring magic effects into being. As a result, a spellcaster cannot cast spells if he is gagged, his hands are tied, or he is in an area under the effects of a silence spell. Spellcasters may take no other actions during the same round they intend to cast a spell. As described in the Initiative section of Chapter 6, a PC must announce the intention to cast a spell prior to initiative being determined at the beginning of a round. Should an opponent successfully deal damage to the character or if the character is required to roll a saving throw and fails prior to casting a spell, the spell is disrupted and fails. The spell still counts against the character’s spells per day as if it had been cast. Finally, in most instances a spellcaster must have the intended target of a spell within visual range (unless otherwise noted), whether the target is a specific monster, character, or area of effect.
+All spellcasters need to be able to move their hands and speak in order to make the gestures and say the magical phrases that bring magic effects into being. As a result, a spellcaster cannot cast spells if he is gagged, his hands are tied, or he is in an area under the effects of a silence spell. Spellcasters may take no other actions during the same round they intend to cast a spell. As described in the Initiative section of Chapter 6, a PC must announce the intention to cast a spell prior to initiative being determined at the beginning of a round. Should an opponent successfully deal damage to the character or if the character is required to roll a saving throw and fails prior to casting a spell, the spell is disrupted and fails. The spell still counts against the character's spells per day as if it had been cast. Finally, in most instances a spellcaster must have the intended target of a spell within visual range (unless otherwise noted), whether the target is a specific monster, character, or area of effect.
 
 
 ### Spell Repertoire 
@@ -23,42 +23,42 @@ The spells available to a spellcaster are called his spell repertoire. Despite t
 
 Divine spellcasters receive their spells directly from the deity they serve. Their spell repertoire automatically includes each spell of each level they can cast from the spell list made available to them by their deity (but not necessarily every divine spell in existence). Each day, generally in the morning, a well-rested divine spellcaster simply needs to pray for at least one hour in order to be able to cast these spells. Of course, the divine spellcaster may be expected to pray more than this in order to remain in his deity's good graces!
 
-The Cleric Spell List, on p. 68, represents a general list of spells that might be provided to clerics of powerful gods with broad spheres of influence. Because clerics gain their spells from a specific deity, however, the exact spells available for any given cleric could instead include a variant selection from this list combined with spells drawn from other sources; for instance, a deity devoted to healing may refuse to grant their cleric’s reversed healing spells, but might offer special curative spells available only to her clerics. Just because a spell is listed below as a divine spell does not necessarily mean it is available to every cleric. The Judge will determine which spells are appropriate for any given cleric based on the power he serves.
+The Cleric Spell List, on p. 68, represents a general list of spells that might be provided to clerics of powerful gods with broad spheres of influence. Because clerics gain their spells from a specific deity, however, the exact spells available for any given cleric could instead include a variant selection from this list combined with spells drawn from other sources; for instance, a deity devoted to healing may refuse to grant their cleric's reversed healing spells, but might offer special curative spells available only to her clerics. Just because a spell is listed below as a divine spell does not necessarily mean it is available to every cleric. The Judge will determine which spells are appropriate for any given cleric based on the power he serves.
 
 The Bladedancer Spell List, on p. 68-69, is an example of a spell list for a divine spellcaster designed around a specific deity (the Goddess of Love and War).
 
 
 ### Arcane Spell Repertoire
 
-Arcane spellcasters have only a limited repertoire of spells. The base number and level of spells in an arcane spellcaster’s repertoire is equal to the number and level of spells he can cast per day. The number of spells of each level in the repertoire is increased by the caster’s Intelligence bonus. For instance, a 3rd level mage is able to cast two 1st and one 2nd level spell per day. His repertoire is two 1st and one 2nd level spells. If he has 16 INT (+2 modifier), then his spell repertoire is increased to four 1st level and three 2nd level spells. 
+Arcane spellcasters have only a limited repertoire of spells. The base number and level of spells in an arcane spellcaster's repertoire is equal to the number and level of spells he can cast per day. The number of spells of each level in the repertoire is increased by the caster's Intelligence bonus. For instance, a 3rd level mage is able to cast two 1st and one 2nd level spell per day. His repertoire is two 1st and one 2nd level spells. If he has 16 INT (+2 modifier), then his spell repertoire is increased to four 1st level and three 2nd level spells. 
 
-A formula for each spell in an arcane spellcaster’s repertoire is recorded in his spell books. Periodically the caster reviews his spell books to refresh himself on the various taboos, rituals, and star signs he must remember about each spell in his repertoire. A blank spell book costs 20gp and has 100 pages. Each spell formula in the repertoire takes up one page per spell level in a spell book. Spell formula are accumulated over time and are useful if the caster wishes to change his repertoire (see below).
+A formula for each spell in an arcane spellcaster's repertoire is recorded in his spell books. Periodically the caster reviews his spell books to refresh himself on the various taboos, rituals, and star signs he must remember about each spell in his repertoire. A blank spell book costs 20gp and has 100 pages. Each spell formula in the repertoire takes up one page per spell level in a spell book. Spell formula are accumulated over time and are useful if the caster wishes to change his repertoire (see below).
 
-While a mage generally has the formula for every spell in his repertoire, the reverse is not true; an arcane caster might have possession of a spell formula without having it in his repertoire. For an arcane spellcaster to have a spell in his repertoire, he must keep track of complex astrological movements and star signs that are constantly changing; he must daily appease various ghosts and spirits that power certain dweomers; he must remember and obey special taboos that each spell dictates. All of these strictures, and they are many, can vary with the season, the lunar cycle, the caster’s location, and more. Having a spell in the repertoire is thus an ongoing effort, like maintaining a friendship or remembering a song. Mages may collect spell formula from many sources, but only the most intelligent and learned arcane spellcasters can maintain a repertoire of more than a few spells at a time. 
+While a mage generally has the formula for every spell in his repertoire, the reverse is not true; an arcane caster might have possession of a spell formula without having it in his repertoire. For an arcane spellcaster to have a spell in his repertoire, he must keep track of complex astrological movements and star signs that are constantly changing; he must daily appease various ghosts and spirits that power certain dweomers; he must remember and obey special taboos that each spell dictates. All of these strictures, and they are many, can vary with the season, the lunar cycle, the caster's location, and more. Having a spell in the repertoire is thus an ongoing effort, like maintaining a friendship or remembering a song. Mages may collect spell formula from many sources, but only the most intelligent and learned arcane spellcasters can maintain a repertoire of more than a few spells at a time. 
 
 
 ### Starting Spell Repertoire
 
 A 1st level arcane spellcaster starts the game with a base of one 1st level spell in his repertoire. The Judge should select an appropriate spell for the arcane spellcaster to begin with. Charm person, light, magic missile, protection from evil, or sleep are good choices. If the mage has an INT of at least 13, he may start the game with additional 1st level spells in his repertoire, up to his Intelligence bonus. For each point of Intelligence bonus, the player should roll 1d12 to randomly select another other spell from the arcane spell list. If the character rolls any duplicates do not re-roll; he will begin play with less than the maximum permitted spells in his repertoire. 
 
-EXAMPLE: Quintus is a 1st level mage with INT 16. His spell repertoire can be up to three 1st level spells. For Quintus’ first spell, the Judge selects sleep. Quintus then rolls 1d12 on the arcane spell list and scores a “9”. He adds read languages to his spell repertoire. Quintus then rolls 1d12 again and scores an “11”, learning sleep. Quintus already knows sleep, but he doesn’t get to roll again. Instead, Quintus will begin play with just sleep and read languages in his repertoire. He can add the extra 1st level spell to his repertoire once play begins.
+EXAMPLE: Quintus is a 1st level mage with INT 16. His spell repertoire can be up to three 1st level spells. For Quintus' first spell, the Judge selects sleep. Quintus then rolls 1d12 on the arcane spell list and scores a "9". He adds read languages to his spell repertoire. Quintus then rolls 1d12 again and scores an "11", learning sleep. Quintus already knows sleep, but he doesn't get to roll again. Instead, Quintus will begin play with just sleep and read languages in his repertoire. He can add the extra 1st level spell to his repertoire once play begins.
 
 
 ### Adding New Spells to the Repertoire
 
-As they advance in level, arcane spellcasters can add new spells to their repertoire in a few different ways. All mages and elven spellswords are assumed to be members of the local mages’ guild, or apprenticed to a higher level NPC. When they gain a level of experience, they may return to their masters and be out of play for one game week per spell while they are adding new spells to their repertoire. Their masters will teach them spells equal to the number and level of spells the caster can use in a single day. Characters of 9th level or above do not have masters to teach them spells, so they must find or research them. When a master is not available, mages and elven spellswords depend entirely on finding spell scrolls, finding other spell books with new spells in them, or conducting spell research.
+As they advance in level, arcane spellcasters can add new spells to their repertoire in a few different ways. All mages and elven spellswords are assumed to be members of the local mages' guild, or apprenticed to a higher level NPC. When they gain a level of experience, they may return to their masters and be out of play for one game week per spell while they are adding new spells to their repertoire. Their masters will teach them spells equal to the number and level of spells the caster can use in a single day. Characters of 9th level or above do not have masters to teach them spells, so they must find or research them. When a master is not available, mages and elven spellswords depend entirely on finding spell scrolls, finding other spell books with new spells in them, or conducting spell research.
 
-If a new spell is found on a scroll, or another arcane spellcaster’s spell book, it may be added to the arcane spellcaster’s repertoire if the character can still learn new spells of that level. If the spell is of too high level to be cast, it cannot be put into the repertoire, but it may be saved to be put into the repertoire in the future. It takes one week of study to add a spell to the character’s repertoire. Scribing a spell from a scroll uses it up in the process, but copying spells from a spell book does not erase spells from the book.
+If a new spell is found on a scroll, or another arcane spellcaster's spell book, it may be added to the arcane spellcaster's repertoire if the character can still learn new spells of that level. If the spell is of too high level to be cast, it cannot be put into the repertoire, but it may be saved to be put into the repertoire in the future. It takes one week of study to add a spell to the character's repertoire. Scribing a spell from a scroll uses it up in the process, but copying spells from a spell book does not erase spells from the book.
 
 Scrolls and spell books are complex and esoteric, and usually written in obscure or dead languages. A scroll or spell book can be read only by the spellcaster who created it, or by an arcane spellcaster who can read the language the scroll or spell book is written in. An arcane spellcaster can use read languages to read a scroll or spell book in an unfamiliar language. 
 
 EXAMPLE: Quintus can understand the Common, Classical, and Archaic languages. While on an adventure, he finds two scrolls, one written in Draconic and one written in Archaic. Quintus can read the scroll written in Archaic, but he cannot read the scroll written in Draconic except through the read languages spell. Quintus gives the Draconic scroll to his friend Thord, a dwarven craftpriest who reads Draconic. Unfortunately, Thord cannot read the scroll either, because he is not an arcane caster. 
 
-Sometimes an arcane spellcaster’s spell book will either be lost or destroyed. Each week he goes without access to his spell books, an arcane spellcaster loses one spell level from his repertoire, until eventually he knows none at all. An arcane spellcaster can rewrite the spells through research and memory at a cost of 1 week of game time and 1,000gp for each spell level. For instance, if two 1st level spells and one 2nd level spell are replaced, it will take 4 weeks and 4,000gp. This activity requires complete concentration, and a character doing this work may not engage in any other activity for the time required.
+Sometimes an arcane spellcaster's spell book will either be lost or destroyed. Each week he goes without access to his spell books, an arcane spellcaster loses one spell level from his repertoire, until eventually he knows none at all. An arcane spellcaster can rewrite the spells through research and memory at a cost of 1 week of game time and 1,000gp for each spell level. For instance, if two 1st level spells and one 2nd level spell are replaced, it will take 4 weeks and 4,000gp. This activity requires complete concentration, and a character doing this work may not engage in any other activity for the time required.
 
 An arcane spellcaster who already has a full repertoire of spells may sometimes wish to replace one spell in his spell repertoire with another of equal level. It costs 1 week of game time and 1,000gp for each spell level to replace a spell in the repertoire with another. For instance, if one 3rd level spell is replaced, it will take 3 weeks and 3,000gp. This activity requires complete concentration, and a character doing this work may not engage in any other activity for the time required. The mage must have a copy of the spell formula for the new spell. Replacing a spell in the repertoire does not cause the character to lose the formula of the replaced spell.
 
-This practice commonly occurs when a spellcaster gets access to more useful spells than what he currently knows, or when a particular adventure requires a spell the caster doesn’t normally use. Powerful arcane spellcasters generally build large libraries of spell formula and scrolls so that they can replace the spells in their repertoire with new spells when the situation calls for it. For instance, an arcane spellcaster confronting a pack of gorgons might wish to learn stone to flesh in preparation for the encounter. Given enough time, an arcane spellcaster can prepare for almost any challenge.
+This practice commonly occurs when a spellcaster gets access to more useful spells than what he currently knows, or when a particular adventure requires a spell the caster doesn't normally use. Powerful arcane spellcasters generally build large libraries of spell formula and scrolls so that they can replace the spells in their repertoire with new spells when the situation calls for it. For instance, an arcane spellcaster confronting a pack of gorgons might wish to learn stone to flesh in preparation for the encounter. Given enough time, an arcane spellcaster can prepare for almost any challenge.
 
 EXAMPLE: Quintus is a 1st level mage with INT 16. He is eligible to have three 1st level spells in his spell repertoire. Over time, he has added read languages, shield, and sleep into his repertoire. He finds a grimoire holding magic missile and decides to replace shield with his new find. (That is, Quintus decides to stop actively monitoring the various stars, spirits, or taboos associated with shield so he can instead pay attention to those associated with magic missile). This costs 1 week of game time and 1,000gp. In game terms, he now has read languages, magic missile, and sleep in his repertoire, but no longer has shield in his repertoire, and therefore cannot cast it. However, he still possesses a copy of the formula for shield, so should it prove necessary he can replace one of his 1st level spells with shield at a later time following the same procedure by which he just replaced shield with magic missile.
 
@@ -69,14 +69,14 @@ The Arcane Spell List, below, is a sample of the more common spells known to the
 
 Some spells, marked with an asterisk (*) on the spell lists, can be cast reversed. A reversed spell results in an effect that is opposite to the effect the spell normally causes. For example, when a mage casts flesh to stone, he can turn a flesh-and-blood creature into stone. But when a mage casts the reverse spell, stone to flesh, he can restore a creature that has been petrified back to life. Where it is not self-evident, the spell descriptions below will explain what reversed spells do. If a spell name is not marked with an asterisk, the spell is not reversible. 
 
-Mages and other arcane spellcasters treat the normal and reversed version of a spell as separate spells. In general, divine spellcasters will know both the normal and reversed form of any spell on their spell list. However, Lawful divine spellcasters prefer to cast spells in their normal form, e.g. favoring bless over bane, and restore life and limb over finger of death, and will use the reversed forms only against Chaotic opponents. Conversely, Chaotic divine spellcasters will freely cast reversed spells such as finger of death, while using the normal version only to aid comrades and followers. Some divine spellcasters may be restricted entirely by their deity from using normal or reversed versions of particular spells (Judge’s discretion). 
+Mages and other arcane spellcasters treat the normal and reversed version of a spell as separate spells. In general, divine spellcasters will know both the normal and reversed form of any spell on their spell list. However, Lawful divine spellcasters prefer to cast spells in their normal form, e.g. favoring bless over bane, and restore life and limb over finger of death, and will use the reversed forms only against Chaotic opponents. Conversely, Chaotic divine spellcasters will freely cast reversed spells such as finger of death, while using the normal version only to aid comrades and followers. Some divine spellcasters may be restricted entirely by their deity from using normal or reversed versions of particular spells (Judge's discretion). 
 
 
 ### Spell Signatures
 
-While spells have general effects that are common to all who cast them, the specific sensory effects associated with the spell will vary from caster to caster. This specific sensory effect is known as the spell signature. A spellcaster should write a short description of the signature for each spell he can cast. For arcane spellcasters, the signature may be based on a particular school or style of magic, or simply be a reflection of the spellcaster’s personal taste. For divine spellcasters, the signature reflects the caster’s relationship with his deity. A character’s choice of proficiencies can be suggestive of appropriate spell signatures. 
+While spells have general effects that are common to all who cast them, the specific sensory effects associated with the spell will vary from caster to caster. This specific sensory effect is known as the spell signature. A spellcaster should write a short description of the signature for each spell he can cast. For arcane spellcasters, the signature may be based on a particular school or style of magic, or simply be a reflection of the spellcaster's personal taste. For divine spellcasters, the signature reflects the caster's relationship with his deity. A character's choice of proficiencies can be suggestive of appropriate spell signatures. 
 
-EXAMPLE: Sargon pursues necromantic magic and has the Black Lore proficiency. His player decides that all of Sargon’s spell signatures will revolve around death. His magic missiles appear as shards of bone. His sleep spell places targets into a nightmarish slumber where they dream of Hell. His lightning bolt is crackling blue-black energy. His wall of stone has the appearance of tombstones graven with the names of the dead.  
+EXAMPLE: Sargon pursues necromantic magic and has the Black Lore proficiency. His player decides that all of Sargon's spell signatures will revolve around death. His magic missiles appear as shards of bone. His sleep spell places targets into a nightmarish slumber where they dream of Hell. His lightning bolt is crackling blue-black energy. His wall of stone has the appearance of tombstones graven with the names of the dead.  
 
 Characters with the Sensing Power proficiency will sense the spell signature of arcane casters up to 24 hours after a spell has been cast. Characters with Collegiate Wizard or Theology proficiency may be able to identify particular schools or faiths by their spell signature (proficiency throw 11+).
 
@@ -153,7 +153,7 @@ First Level Arcane Spells
 
 7     Infravision
 
-8     Invisibility 10‘ radius
+8     Invisibility 10' radius
 
 9     Lightning Bolt
 
@@ -497,10 +497,10 @@ This spell turns the bones or bodies of dead creatures into undead skeletons or 
 
 Arcane 6	Duration:	12 turns
 
-This spell creates a personal barrier about the caster that stops any spell or spell-like effects (including the caster’s) from coming in or going out until the duration is up or until the caster decides to end the spell. Spell-like effects are all effects that duplicate a spell, or magical effects that are resisted with a saving throw versus Spells or Staffs & Wands (but excluding effects that do not duplicate a spell and are resisted with saving throws versus Poison, Breath, Paralysis, or Petrification). Spells with a range of “self,” or “touch” spells used on the caster himself, are not blocked by an anti-magic shell. If a creature or item with an ongoing spell or spell-like effect enters an anti-magic shell, the spell or effect is dispelled as if by a  dispel magic; effects which cannot be dispelled (such as magic weapon bonuses) are not affected. An anti-magic spell itself cannot be dispelled. 
+This spell creates a personal barrier about the caster that stops any spell or spell-like effects (including the caster's) from coming in or going out until the duration is up or until the caster decides to end the spell. Spell-like effects are all effects that duplicate a spell, or magical effects that are resisted with a saving throw versus Spells or Staffs & Wands (but excluding effects that do not duplicate a spell and are resisted with saving throws versus Poison, Breath, Paralysis, or Petrification). Spells with a range of "self," or "touch" spells used on the caster himself, are not blocked by an anti-magic shell. If a creature or item with an ongoing spell or spell-like effect enters an anti-magic shell, the spell or effect is dispelled as if by a  dispel magic; effects which cannot be dispelled (such as magic weapon bonuses) are not affected. An anti-magic spell itself cannot be dispelled. 
 
 
-### Atonement	Range:	0’
+### Atonement	Range:	0'
 
 Divine 5	Duration:	permanent
 
@@ -514,13 +514,13 @@ Divine 2	Duration:	see below
 An augury can tell the caster whether a particular action will bring good or bad results in the immediate future. The base chance for receiving a true reply is 70% + 1% per caster level; this roll is made secretly by the Judge. The augury can see into the future only 3 turns, so anything that might happen after that does not affect the result. Thus, the result will not take into account the long-term consequences of a contemplated action. 
 
 
-### Bless*	Range:	0’
+### Bless*	Range:	0'
 
 Divine 2	Duration:	6 turns
 
 When cast before battle, bless gives the caster and his allies (within a 50' radius of the caster) a bonus of +1 to attack throws, damage rolls, morale rolls (for monsters or NPCs allied with the caster), and saving throws against magical fear. It may not be cast on creatures who are already engaged in melee.
 
-Divine spellcasters of 7th level or higher may also use bless to create holy water. One casting of bless will transform 1 pint of ordinary water into holy water. Casting bless in this manner demands a sacrifice to the caster’s deity worth at least 10gp. Once created, holy water will retain its potency indefinitely so long as it is kept in the vial it was blessed in. See the Equipment Descriptions in Chapter 3 for information on holy water.
+Divine spellcasters of 7th level or higher may also use bless to create holy water. One casting of bless will transform 1 pint of ordinary water into holy water. Casting bless in this manner demands a sacrifice to the caster's deity worth at least 10gp. Once created, holy water will retain its potency indefinitely so long as it is kept in the vial it was blessed in. See the Equipment Descriptions in Chapter 3 for information on holy water.
 
 The reverse of bless is called bane. It fills the caster's enemies (within a 50' radius) with fear and doubt, causing each affected character or monster to suffer a -1 penalty on attack throws, damage rolls, morale rolls, and saving throws against magical fear. Bane may also be used by chaotic divine casters of 7th level or higher, in conjunction with a sacrifice of at least 10gp, to create a vial of unholy water. Unholy water has beneficial effects when used in the animation of the dead. See Animate Dead, above. 
 
@@ -536,14 +536,14 @@ This spell allows the caster to charm an animal (including normal and giant anim
 
 Arcane 4	Duration:	special
 
-This spell functions like charm person, except that the effect is not restricted by monster type or size. Undead monsters are unaffected. This spell can affect up to 3d6 Hit Dice of creatures of 4 or fewer Hit Dice, or one creature of more than 4 Hit Dice. Calculate creatures with less than 1 HD as having ½ HD, and creatures with a bonus to HD as having the flat amount. The caster may decide which individual creatures out of a mixed group are to be affected first; excess Hit Dice of effect are ignored. Any creatures that make a successful saving throw versus Spells resist the effect. Once in effect, the charm lasts until removed by a dispel magic spell or until the creature makes a successful save. The charmed creature receives a saving throw to break the spell each day if it has 7+1 HD or more, every week if it has 5-6 HD, and every month if it has 4 HD or fewer. If the creature is highly intelligent (INT 9 or more), it may save more frequently than its HD would otherwise warrant, using the frequencies listed for charm person, below. 
+This spell functions like charm person, except that the effect is not restricted by monster type or size. Undead monsters are unaffected. This spell can affect up to 3d6 Hit Dice of creatures of 4 or fewer Hit Dice, or one creature of more than 4 Hit Dice. Calculate creatures with less than 1 HD as having  1/2  HD, and creatures with a bonus to HD as having the flat amount. The caster may decide which individual creatures out of a mixed group are to be affected first; excess Hit Dice of effect are ignored. Any creatures that make a successful saving throw versus Spells resist the effect. Once in effect, the charm lasts until removed by a dispel magic spell or until the creature makes a successful save. The charmed creature receives a saving throw to break the spell each day if it has 7+1 HD or more, every week if it has 5-6 HD, and every month if it has 4 HD or fewer. If the creature is highly intelligent (INT 9 or more), it may save more frequently than its HD would otherwise warrant, using the frequencies listed for charm person, below. 
 
 
 ### Charm Person		  Range:	60'
 
 Arcane 1	Duration:	special
 
-This spell makes a humanoid creature regard the caster as its trusted friend and ally. Humanoid creatures include bugbears, dryads, dwarves, elves, gnolls, gnomes, goblins, hobgoblins, kobolds, lizardmen, men, mermen, morlocks, neanderthal, naiads, ogres, pixies, sprites, and troglodytes, and other man-like creatures no larger than an ogre and possessing 4 or fewer Hit Dice. Humans and demi-humans may be affected regardless of character level. A save versus Spells will negate the effect. If the target of the spell is currently being threatened or attacked by the caster or his or her allies, it receives a +5 bonus on its saving throw. The spell does not enable the caster to control the charmed creature as if it were an automaton; rather, it perceives his words and actions in the most favorable way. The caster can try to give the subject orders, but it will not do anything it wouldn’t ordinarily do, and further may receive an additional saving throw to overcome the magic (at the Judge's discretion). The caster must speak the charmed creature’s language to communicate any commands, or else be good at pantomiming; of course, if the caster is attacked, the charmed creature will act to protect its “friend” (though that could mean attacking the caster's enemies, or attempting to carry off the caster to a “safe” place). The charmed creature receives a new saving throw each day if it is has an Intelligence of 13 or greater, every week if its Intelligence is 9-12, or every month it its Intelligence is 8 or less. A charm may be removed by a dispel magic spell.
+This spell makes a humanoid creature regard the caster as its trusted friend and ally. Humanoid creatures include bugbears, dryads, dwarves, elves, gnolls, gnomes, goblins, hobgoblins, kobolds, lizardmen, men, mermen, morlocks, neanderthal, naiads, ogres, pixies, sprites, and troglodytes, and other man-like creatures no larger than an ogre and possessing 4 or fewer Hit Dice. Humans and demi-humans may be affected regardless of character level. A save versus Spells will negate the effect. If the target of the spell is currently being threatened or attacked by the caster or his or her allies, it receives a +5 bonus on its saving throw. The spell does not enable the caster to control the charmed creature as if it were an automaton; rather, it perceives his words and actions in the most favorable way. The caster can try to give the subject orders, but it will not do anything it wouldn't ordinarily do, and further may receive an additional saving throw to overcome the magic (at the Judge's discretion). The caster must speak the charmed creature's language to communicate any commands, or else be good at pantomiming; of course, if the caster is attacked, the charmed creature will act to protect its "friend" (though that could mean attacking the caster's enemies, or attempting to carry off the caster to a "safe" place). The charmed creature receives a new saving throw each day if it is has an Intelligence of 13 or greater, every week if its Intelligence is 9-12, or every month it its Intelligence is 8 or less. A charm may be removed by a dispel magic spell.
 
 
 ### Clairvoyance	Range:	60'
@@ -557,14 +557,14 @@ This spell enables the caster to see into another area through the eyes of a liv
 
 Arcane 5	Duration:	 6 turns
 
-This spell creates a cloud of poison gas 30’ in diameter that spreads out from the caster’s fingertips. The cloud moves at a rate of 20' per round away from the caster. The poison gas is heavier than air and will sink down holes or slide downhill; it is broken up by trees or thick vegetation. Each round they are within the cloud, creatures of fewer than 5 Hit Dice or levels must save versus Poison or die, taking 1 point of damage even if the save is successful. Creatures having 5 or more Hit Dice or levels take 1 point of damage each round they are within the cloud. The cloud persists for the entire duration even if the caster ceases to concentrate upon it.
+This spell creates a cloud of poison gas 30' in diameter that spreads out from the caster's fingertips. The cloud moves at a rate of 20' per round away from the caster. The poison gas is heavier than air and will sink down holes or slide downhill; it is broken up by trees or thick vegetation. Each round they are within the cloud, creatures of fewer than 5 Hit Dice or levels must save versus Poison or die, taking 1 point of damage even if the save is successful. Creatures having 5 or more Hit Dice or levels take 1 point of damage each round they are within the cloud. The cloud persists for the entire duration even if the caster ceases to concentrate upon it.
 
 
-### Command Word	Range:	10’
+### Command Word	Range:	10'
 
 Divine 1	Duration:	1 round
 
-When a cleric casts this spell, he may give the target a one word command, which it obeys to the best of its ability. The single word must make sense as a single command, such as approach, drop, fall, flee, halt, surrender, sleep, etc. Although a target could be instructed to “die,” this will only make the target faint for a single round. Note that the caster must be able to speak the language of the target. Any intended target with more than 5 HD or an INT of over 12 is entitled to a saving throw versus Spells. This spell is ineffective against undead.
+When a cleric casts this spell, he may give the target a one word command, which it obeys to the best of its ability. The single word must make sense as a single command, such as approach, drop, fall, flee, halt, surrender, sleep, etc. Although a target could be instructed to "die," this will only make the target faint for a single round. Note that the caster must be able to speak the language of the target. Any intended target with more than 5 HD or an INT of over 12 is entitled to a saving throw versus Spells. This spell is ineffective against undead.
 
 
 ### Commune	Range:	self
@@ -583,14 +583,14 @@ This spell causes up to 3d6 living creatures within a 30' radius circle around t
 
 ### 2d6  Behavior
 
-2–5  Attack the caster or allies with melee or ranged weapons (or move closer if attack is not possible).
+2-5  Attack the caster or allies with melee or ranged weapons (or move closer if attack is not possible).
 
-6–8  Do nothing but babble incoherently.
+6-8  Do nothing but babble incoherently.
 
-9–12 Attack the creature’s own party, if any.
+9-12 Attack the creature's own party, if any.
 
 
-### A confused creature which can’t carry out the indicated action does nothing but babble incoherently. Attackers are not at any special advantage when attacking a confused creature. Any confused creature who is attacked automatically retaliates on its next turn, as long as it is still confused when its turn comes.
+### A confused creature which can't carry out the indicated action does nothing but babble incoherently. Attackers are not at any special advantage when attacking a confused creature. Any confused creature who is attacked automatically retaliates on its next turn, as long as it is still confused when its turn comes.
 
 
 ### Conjure Elemental	Range:	240'
@@ -604,12 +604,12 @@ A portal to one of the Elemental Planes of Air, Earth, Fire, or Water is opened,
 
 Arcane 5			Duration: special
 
-The caster sends his mind to another plane of existence in order to receive advice and information from powers there. See the accompanying table for possible consequences and results of the attempt. The powers reply in a language the caster understands, but they resent such contact and give only brief answers to questions. All questions are answered with “yes,” “no,” “maybe,” “never,” “irrelevant,” or some other one-word answer. 
+The caster sends his mind to another plane of existence in order to receive advice and information from powers there. See the accompanying table for possible consequences and results of the attempt. The powers reply in a language the caster understands, but they resent such contact and give only brief answers to questions. All questions are answered with "yes," "no," "maybe," "never," "irrelevant," or some other one-word answer. 
 
 The caster must concentrate on maintaining the spell in order to ask questions at the rate of one per round. A question is answered by the power during the same round.  The caster must choose how many questions to ask before the spell is cast. The number of questions to be asked determines the power and proximity of the contacted being. The more questions asked, the further away the contacted plane is and the more powerful the being is. First, roll on the table below to see if the power knows the answer. Then roll to see if the power answers truthfully. There is a probability that the caster will go insane after casting the spell, and the probability is related to the number of questions asked.
 
 
-### Questions  	Don’t Know     True Answer     Insanity
+### Questions  	Don't Know     True Answer     Insanity
 
 3		75%   	       50%  	       5%
 
@@ -632,7 +632,7 @@ The caster must concentrate on maintaining the spell in order to ask questions a
 12		5%	       95%	       50%
 
 
-### Don’t Know: The entity may or may not know the answer, and may or may not tell the caster the truth of whether it knows or not.
+### Don't Know: The entity may or may not know the answer, and may or may not tell the caster the truth of whether it knows or not.
 
 True Answer: The caster gets a true, one-word answer.  Otherwise, the entity lies and the lie is undetectable.
 
@@ -652,7 +652,7 @@ The reversed spell, continual darkness, causes complete absence of light in the 
 Continual light and continual darkness are not permanent effects, but are instead effects that are indefinitely sustained by the caster without need for concentration. A caster may indefinitely sustain one continual light or continual darkness spell per level of experience. A truly permanent light requires a permanency ritual.
 
 
-### Control Weather 		Range: 0’
+### Control Weather 		Range: 0'
 
 Arcane 6		Duration: see below
 
@@ -667,17 +667,17 @@ Hot		  Will dry wet conditions, all movement divided by 2
 
 Cold		  Water and mud freezes instantaneously, all movement divided by 2
 
-Severe Winds	  All movement divided by 2, no flying or missile weapon use possible. Sandy conditions will reduce visibility to 20’. Ship speed increased or decreased depending on if sailing with or against the wind.
+Severe Winds	  All movement divided by 2, no flying or missile weapon use possible. Sandy conditions will reduce visibility to 20'. Ship speed increased or decreased depending on if sailing with or against the wind.
 
-Tornado		  The caster can direct the tornado, which moves at 120’ per round. The tornado can be directed to attack, using the characteristics of an air elemental with 12 HD. Sea vessels have a 75% chance of suffering 8+1d4 s
+Tornado		  The caster can direct the tornado, which moves at 120' per round. The tornado can be directed to attack, using the characteristics of an air elemental with 12 HD. Sea vessels have a 75% chance of suffering 8+1d4 s
 
 		  tructural hit points damage.
 
-Foggy		  Visibility drops to 20’, and all movement is divided by 2. 
+Foggy		  Visibility drops to 20', and all movement is divided by 2. 
 
 Rainy		  Missile attacks at -2. Mud forms in 3 turns, and movement divided by 2.
 
-Snowy		  Visibility drops to 20’, and all movement is divided by 2
+Snowy		  Visibility drops to 20', and all movement is divided by 2
 
 
 ### Create Food	Range:	10'
@@ -714,7 +714,7 @@ The reverse of this spell, cause disease, infects the target with a horrific was
 
 Divine 1	Duration:	instantaneous
 
-With this spell the caster heals 1d6+1 points of damage by laying his hand upon the injured creature. This spell may also be used to cure paralysis, but does not then cure any points of damage. The spell will never increase a creature’s hit points beyond the normal amount. 
+With this spell the caster heals 1d6+1 points of damage by laying his hand upon the injured creature. This spell may also be used to cure paralysis, but does not then cure any points of damage. The spell will never increase a creature's hit points beyond the normal amount. 
 
 The reverse form of this spell, cause light wounds, causes 1d6+1 damage to the creature affected by it. A successful attack throw is required in this case.
 
@@ -739,7 +739,7 @@ This spell will kill a total of 4d8 Hit Dice of creatures in a 30' radius sphere
 
 Divine 2	Duration:	1 turn per level
 
-The subject becomes temporarily immune to poison. Any poison in its system or any poison to which it is exposed during the spell’s duration does not affect the subject until the spell’s duration has expired. Unless cured, saving throws and damage as appropriate are rolled once the spell ends. Delay poison does not cure any damage that poison may have already done. However, if the spell is cast on a subject who has recently died from poison, within 1 turn per caster level, life is restored until the spell duration ends. A revived character will have 1 hp for the duration of the spell, but if the spell ends prior to the poison being cured, the subject dies again.
+The subject becomes temporarily immune to poison. Any poison in its system or any poison to which it is exposed during the spell's duration does not affect the subject until the spell's duration has expired. Unless cured, saving throws and damage as appropriate are rolled once the spell ends. Delay poison does not cure any damage that poison may have already done. However, if the spell is cast on a subject who has recently died from poison, within 1 turn per caster level, life is restored until the spell duration ends. A revived character will have 1 hp for the duration of the spell, but if the spell ends prior to the poison being cured, the subject dies again.
 
 
 ### Detect Evil*	Range:	60'
@@ -751,7 +751,7 @@ This spell allows the caster to detect evil; specifically, the caster can detect
 Reversed, this spell becomes detect good, which works just as described above with respect to detecting good enchantments, summoned creatures of Lawful alignment, and good intentions. 
 
 
-### Detect Invisible	Range:	60’
+### Detect Invisible	Range:	60'
 
 Arcane 2	Duration:	6 turns
 
@@ -769,23 +769,23 @@ The caster of this spell is able to detect enchanted or enspelled objects or cre
 
 Arcane 4	Duration:	instantaneous
 
-The caster of this spell instantly transfers himself, or any single target creature within range, to any spot within 360' of the caster’s or creature’s present location. The caster or target creature always arrives at exactly the spot desired, whether the caster visualizes the area or states direction and distance. An unwilling target may save versus Spells to avoid being transported. Anything worn or carried by the caster or target creature will be transported also, including another character or creature if the transportee can lift it. If the target area is within a solid object, the spell fails automatically.
+The caster of this spell instantly transfers himself, or any single target creature within range, to any spot within 360' of the caster's or creature's present location. The caster or target creature always arrives at exactly the spot desired, whether the caster visualizes the area or states direction and distance. An unwilling target may save versus Spells to avoid being transported. Anything worn or carried by the caster or target creature will be transported also, including another character or creature if the transportee can lift it. If the target area is within a solid object, the spell fails automatically.
 
 
 ### Disintegrate	Range:	60'
 
 Arcane 6	Duration:	instantaneous
 
-This spell causes a thin, green ray to spring from the caster's pointing finger. Any single creature or object (up to a 10’ x 10’ x 10’ cube of material) is entirely disintegrated, leaving behind only a trace of fine dust. A disintegrated creature’s equipment is unaffected.
+This spell causes a thin, green ray to spring from the caster's pointing finger. Any single creature or object (up to a 10' x 10' x 10' cube of material) is entirely disintegrated, leaving behind only a trace of fine dust. A disintegrated creature's equipment is unaffected.
 
 A creature that makes a successful save versus Death is unaffected. The ray can target only one creature per casting; if that target saves, the spell is wasted.
 
 
-### Dispel Evil	Range:	30’
+### Dispel Evil	Range:	30'
 
 Divine 5	Duration:	1 turn
 
-When this spell is cast, the caster can take no other action but concentrate on the spell for the entire duration. All undead or other enchanted creatures that come within 30’ of the caster must succeed in a saving throw versus Death or be destroyed. Any creature that makes this saving throw will instead flee from the affected area. Instead of casting the spell in a 30’ radius, the caster can direct the spell at one monster only, and that monster saves with a -2 penalty. Casting dispel evil upon an unholy place or shrine can sometimes rid the place of evil (Judge's discretion). In addition, dispel evil can be used to remove a cursed item from a being within the spell range; doing so discharges and ends the spell.
+When this spell is cast, the caster can take no other action but concentrate on the spell for the entire duration. All undead or other enchanted creatures that come within 30' of the caster must succeed in a saving throw versus Death or be destroyed. Any creature that makes this saving throw will instead flee from the affected area. Instead of casting the spell in a 30' radius, the caster can direct the spell at one monster only, and that monster saves with a -2 penalty. Casting dispel evil upon an unholy place or shrine can sometimes rid the place of evil (Judge's discretion). In addition, dispel evil can be used to remove a cursed item from a being within the spell range; doing so discharges and ends the spell.
 
 
 ### Dispel Magic	Range:	120'
@@ -803,14 +803,14 @@ Some spells cannot be ended by dispel magic; this specifically includes any magi
 
 Divine 4	Duration:	special
 
-Similar to augury but more powerful, a divination spell can provide the caster with a useful piece of advice in reply to a question concerning a specific goal, event, or activity that is to occur within one week. The advice can be as simple as a short phrase, or it might take the form of a cryptic rhyme or omen. If the caster doesn’t act on the information, the conditions may change so that the information is no longer useful.  The base chance for a correct divination is 60% + 1% per caster level. The Judge should roll this secretly. If the dice roll fails, false information is delivered.
+Similar to augury but more powerful, a divination spell can provide the caster with a useful piece of advice in reply to a question concerning a specific goal, event, or activity that is to occur within one week. The advice can be as simple as a short phrase, or it might take the form of a cryptic rhyme or omen. If the caster doesn't act on the information, the conditions may change so that the information is no longer useful.  The base chance for a correct divination is 60% + 1% per caster level. The Judge should roll this secretly. If the dice roll fails, false information is delivered.
 
 
 ### ESP	Range:	60'
 
 Arcane 2	Duration:	12 turns
 
-This spell permits the caster to detect the surface thoughts of one or more targets within range. The caster must designate a direction, and then concentrate for a turn in order to “hear” the thoughts. Each turn the caster may choose to “listen” in a different direction. The caster may stop listening, then resume again later, so long as the duration has not expired. A creature’s thoughts are understood regardless of the language. The target creature is not normally aware of being spied upon in this way. If it is aware, it may make a saving throw versus Spells to clear its thoughts and avoid detection.
+This spell permits the caster to detect the surface thoughts of one or more targets within range. The caster must designate a direction, and then concentrate for a turn in order to "hear" the thoughts. Each turn the caster may choose to "listen" in a different direction. The caster may stop listening, then resume again later, so long as the duration has not expired. A creature's thoughts are understood regardless of the language. The target creature is not normally aware of being spied upon in this way. If it is aware, it may make a saving throw versus Spells to clear its thoughts and avoid detection.
 
 Rock more than 2 inches thick or a thin coating of lead or gold will block the spell. All undead creatures are immune to this effect, as are mindless creatures such as golems.
 
@@ -819,7 +819,7 @@ Rock more than 2 inches thick or a thin coating of lead or gold will block the s
 
 Divine 1	Duration:	1 round per level
 
-With this spell, the divine spellcaster can outline one or more creatures or objects with a pale, flickering greenish fire. The fire does not inflict any damage. The objects or creatures need only be detected in some way (such as by detect magic) to be the object of this spell. All attacks against the outlined creature or object gain a +2 bonus to attack throws, as it is more easily seen. The caster can outline 1 man-sized creature (about 12’ of fire) for each 5 levels of experience, rounded up.
+With this spell, the divine spellcaster can outline one or more creatures or objects with a pale, flickering greenish fire. The fire does not inflict any damage. The objects or creatures need only be detected in some way (such as by detect magic) to be the object of this spell. All attacks against the outlined creature or object gain a +2 bonus to attack throws, as it is more easily seen. The caster can outline 1 man-sized creature (about 12' of fire) for each 5 levels of experience, rounded up.
 
 
 ### Feeblemind	Range:	180'
@@ -840,17 +840,17 @@ The caster of this spell causes a state of death-like paralytic arrest in himsel
 
 Divine 1	Duration:	1 turn per level
 
-This spell causes the divine spellcaster to increase the feelings of camaraderie in those he interacts with. All creatures that socially interact with the spellcaster must make a saving throw versus Spells. All those failing the saving throw are very impressed by the caster and greatly desire to be his friend and assist him in any way they can, treating him as if his Charisma was 2d4 points higher than actual. Those who do not fail the saving throw are uneasy in the caster’s presence and tend to find him irritating; they treat him as if his Charisma was 1d4 points lower. This spell has no effect on creatures of animal intelligence or lower. 
+This spell causes the divine spellcaster to increase the feelings of camaraderie in those he interacts with. All creatures that socially interact with the spellcaster must make a saving throw versus Spells. All those failing the saving throw are very impressed by the caster and greatly desire to be his friend and assist him in any way they can, treating him as if his Charisma was 2d4 points higher than actual. Those who do not fail the saving throw are uneasy in the caster's presence and tend to find him irritating; they treat him as if his Charisma was 1d4 points lower. This spell has no effect on creatures of animal intelligence or lower. 
 
 
 ### Find Traps	Range:	30'
 
 Divine 2	Duration:	3 turns
 
-This spell permits the caster to detect a variety of traps, both mechanical and magical. When the caster moves within 30’ of a trap, he will see it glow with a faint blue aura. The caster is not, however, able to detect certain natural hazards such as quicksand, a sinkhole, or unsafe walls of natural rock. The spell also does not bestow the caster with the knowledge needed to disarm the trap, nor any details about its type or nature.
+This spell permits the caster to detect a variety of traps, both mechanical and magical. When the caster moves within 30' of a trap, he will see it glow with a faint blue aura. The caster is not, however, able to detect certain natural hazards such as quicksand, a sinkhole, or unsafe walls of natural rock. The spell also does not bestow the caster with the knowledge needed to disarm the trap, nor any details about its type or nature.
 
 
-### Fireball	Range:	240’
+### Fireball	Range:	240'
 
 Arcane 3	Duration:	instantaneous
 
@@ -861,14 +861,14 @@ The caster points a finger and determines the range (distance and height) at whi
 The fireball sets fire to combustibles and damages objects in the area. It can melt metals with low melting points, such as lead, gold, copper, silver, and bronze. If the damage caused to an interposing barrier shatters or breaks through it, the fireball may continue beyond the barrier in order to attain its full volume.
 
 
-### Flame Strike		Range: 60’
+### Flame Strike		Range: 60'
 
 Divine 5			Duration: instantaneous
 
 
-### A flame strike produces a vertical column of divine fire 30’ high and 10’ in diameter that roars downward on a target. The spell deals 6d8 points of damage. A successful saving throw versus Spells reduces the damage to 3d8.
+### A flame strike produces a vertical column of divine fire 30' high and 10' in diameter that roars downward on a target. The spell deals 6d8 points of damage. A successful saving throw versus Spells reduces the damage to 3d8.
 
-Flesh to Stone*	Range:	120’
+Flesh to Stone*	Range:	120'
 
 Arcane 6	Duration:	permanent
 
@@ -877,11 +877,11 @@ This spell causes the target creature, along with all its carried gear, to turn 
 The reverse spell, stone to flesh, acts as a counterspell for flesh to stone, restoring the creature just as it was when it was petrified. If applied to stone that is not the result of flesh to stone or similar petrification effects (such as a medusa's gaze), it will merely transform a man-sized volume of stone into a gooey pile of organic matter. 
 
 
-### Floating Disc	Range:	10’
+### Floating Disc	Range:	10'
 
 Arcane 1	Duration:	6 turns
 
-This spell creates an invisible, slightly concave circular plane of force for carrying loads. It is about the size of a shield, being 3’ in diameter and 1” deep at its center. It can hold a maximum of 50 stone (500lb) of weight. (Note that water weighs about 1 stone or 8lb per gallon.)  The disc must be loaded so that the items placed upon it are properly supported, or they will (of course) fall off. For example, the disc can support just over 62 gallons of water, but the water must be in a barrel or other reasonable container that can be placed upon the disc. Similarly, a pile of loose coins will tend to slip and slide about, and some will fall off with every step the caster takes; but a large sack full of coins, properly tied, will remain stable.
+This spell creates an invisible, slightly concave circular plane of force for carrying loads. It is about the size of a shield, being 3' in diameter and 1" deep at its center. It can hold a maximum of 50 stone (500lb) of weight. (Note that water weighs about 1 stone or 8lb per gallon.)  The disc must be loaded so that the items placed upon it are properly supported, or they will (of course) fall off. For example, the disc can support just over 62 gallons of water, but the water must be in a barrel or other reasonable container that can be placed upon the disc. Similarly, a pile of loose coins will tend to slip and slide about, and some will fall off with every step the caster takes; but a large sack full of coins, properly tied, will remain stable.
 
 The disc floats level to the ground, at about the height of the caster's waist. It remains still when within 10' of the caster, and follows at the caster's movement rate if he moves away from it. The floating disc can be pushed as needed to position it but will be dispelled if somehow moved more than 10' from the caster. When the spell duration expires, the disc disappears from existence and drops whatever was supported to the surface beneath.
 
@@ -890,10 +890,10 @@ The disc floats level to the ground, at about the height of the caster's waist. 
 
 Arcane 3	Duration:	1 turn per level
 
-The subject of this spell can fly in any direction at a speed of up to 120’ per round (360’ per turn). Flying under the effect of this spell requires only as much concentration as walking, so the subject can attack or cast spells normally. The subject of a fly spell cannot carry aloft more weight than his maximum load. If a fly spell is dispelled, the subject will plummet from the air.
+The subject of this spell can fly in any direction at a speed of up to 120' per round (360' per turn). Flying under the effect of this spell requires only as much concentration as walking, so the subject can attack or cast spells normally. The subject of a fly spell cannot carry aloft more weight than his maximum load. If a fly spell is dispelled, the subject will plummet from the air.
 
 
-### Geas*	Range:	30’
+### Geas*	Range:	30'
 
 Arcane 6	Duration:	special
 
@@ -912,7 +912,7 @@ A geas (and all effects thereof) can be ended by a remove curse spell, or by a w
 
 Divine 3	Duration:	special
 
-This powerful inscription harms those who enter, pass, or open the warded area or object. A glyph of warding can guard a bridge or passage, ward a portal, trap a chest or box, and so on. The area of effect is up to 5’ squared per caster level, and a maximum of 10’ squared can be inscribed per round. A password is set when casting the spell, and any creature entering or touching the warded area or opening the warded object without speaking a password is subject to the magic it stores.
+This powerful inscription harms those who enter, pass, or open the warded area or object. A glyph of warding can guard a bridge or passage, ward a portal, trap a chest or box, and so on. The area of effect is up to 5' squared per caster level, and a maximum of 10' squared can be inscribed per round. A password is set when casting the spell, and any creature entering or touching the warded area or opening the warded object without speaking a password is subject to the magic it stores.
 
 When casting the spell, the cleric weaves a tracery of faintly glowing lines around the warding sigil. A glyph can be placed to conform to any shape up to the limitations of the total square footage. When the spell is completed, the glyph and tracery become nearly invisible.
 
@@ -923,13 +923,13 @@ Blast Glyph: A blast glyph deals 2 points of damage per caster level to intruder
 Spell Glyph: The caster can store a harmful spell to be triggered. Spells may include those that cause blindness, paralysis, and energy drain, or similar effects. The cleric must be of a high enough level to cast these spells. A saving throw of the appropriate category (based on the spell) is allowed to avoid the effects of this kind of glyph.
 
 
-### Growth of Animals	Range:	120’
+### Growth of Animals	Range:	120'
 
 Divine 3	Duration:	12 turns
 
 This spell causes an animal to grow to twice its normal size and eight times its normal weight. The affected creature will deal double normal damage with all physical attacks, and its existing natural Armor Class will increase by 2. The animal's carrying capacity is also doubled. Unfriendly animals may save versus Spells to resist this spell; normally, domesticated animals will not attempt to resist it, though they may become confused or panicked afterward (at the Judge's discretion).
 
-All equipment worn or carried by an animal is similarly enlarged by the spell, though this change has no effect on the magical properties of any such equipment. Any enlarged item that leaves the enlarged creature’s possession instantly returns to its normal size.
+All equipment worn or carried by an animal is similarly enlarged by the spell, though this change has no effect on the magical properties of any such equipment. Any enlarged item that leaves the enlarged creature's possession instantly returns to its normal size.
 
 The spell gives no means of command or influence over the enlarged animals.
 
@@ -938,14 +938,14 @@ The spell gives no means of command or influence over the enlarged animals.
 
 Arcane 4	Duration:	permanent
 
-This spell causes normal vegetation (grasses, briars, bushes, creepers, thistles, trees, vines, etc.) within range to become thick and overgrown. The dimensions of the growth are determined by the caster, but cannot exceed 3,000 square feet (a 30' x 100' area or equivalent). The plants entwine to form a thicket or jungle that is impassable to creatures of less than giant size. Such creatures may hack their way through the thicket at no more than 5’ per round. Giant sized creatures are reduced to half normal movement rate. The area must have brush and/or trees in it for this spell to take effect.
+This spell causes normal vegetation (grasses, briars, bushes, creepers, thistles, trees, vines, etc.) within range to become thick and overgrown. The dimensions of the growth are determined by the caster, but cannot exceed 3,000 square feet (a 30' x 100' area or equivalent). The plants entwine to form a thicket or jungle that is impassable to creatures of less than giant size. Such creatures may hack their way through the thicket at no more than 5' per round. Giant sized creatures are reduced to half normal movement rate. The area must have brush and/or trees in it for this spell to take effect.
 
 The reverse form, shrink plants, may be used to render overgrown areas passable. The area of effect is identical to the normal version.
 
 Growth of plants and its reverse are permanent until countered, either by the opposite form or by dispel magic. This spell has no effect on animated plant creatures of any sort.
 
 
-### Hallucinatory Terrain	Range:	240’
+### Hallucinatory Terrain	Range:	240'
 
 Arcane 4	Duration:	special
 
@@ -954,11 +954,11 @@ This spell makes an area of outdoor terrain appear as a different type (e.g. fie
 The affected terrain looks, sounds, and smells like another sort of natural terrain. A save versus Spells is allowed to see through the illusion, but only if the creatures or characters affected actively attempt to do so. The spell lasts until the illusion is touched by an intelligent creature moving into the hallucinatory terrain. 
 
 
-### Haste*	Range:	240’
+### Haste*	Range:	240'
 
 Arcane 3	Duration:	3 turns
 
-This spell accelerates the actions of 1 creature per caster level within range of the spell. The hasted creatures move and act twice as quickly as normal, having double their normal movement rates and making twice the normal attacks per round, for the duration of the spell. Spellcasting is not accelerated, nor is the use of magic items such as wands, which may still be used just once per round. Multiple haste or speed effects don’t combine; only apply the most powerful or longest lasting effect. 
+This spell accelerates the actions of 1 creature per caster level within range of the spell. The hasted creatures move and act twice as quickly as normal, having double their normal movement rates and making twice the normal attacks per round, for the duration of the spell. Spellcasting is not accelerated, nor is the use of magic items such as wands, which may still be used just once per round. Multiple haste or speed effects don't combine; only apply the most powerful or longest lasting effect. 
 
 Reversed, haste becomes slow; affected creatures move at half speed, attacking half as often (generally, every other round) and making half a normal move each round. Target creatures may save versus Spells to avoid the effect. Haste and slow dispel each other.
 
@@ -977,21 +977,21 @@ Divine 2, Arcane 3	Duration:	9 turns
 
 This spell will render any living, non-undead humanoid creature paralyzed. Humanoid creatures include bugbears, dryads, dwarves, elves, gnolls, gnomes, goblins, hobgoblins, kobolds, lizardmen, men, mermen, morlocks, neanderthal, naiads, ogres, pixies, sprites, and troglodytes, and other creatures no larger than an ogre and possessing 4 or fewer Hit Dice. Humans and demi-humans may be affected regardless of character level. Targets of the spell are aware, and breathe normally, but cannot take any actions, including speech. A successful save versus Paralysis will negate the effect. The spell may be cast at a single person, who makes his or her save at -2, or at a group, in which case 1d4 of the creatures in the group may be affected.
 
-A winged creature which is paralyzed cannot flap its wings and falls (if in flight at the time). A paralyzed swimmer can’t swim and may drown.
+A winged creature which is paralyzed cannot flap its wings and falls (if in flight at the time). A paralyzed swimmer can't swim and may drown.
 
 
-### Hold Portal	Range:	10’
+### Hold Portal	Range:	10'
 
 Arcane 1	Duration:	2d6 turns 
 
 This spell magically holds shut a door, gate, window, or shutter of wood, metal, or stone. The magic affects the portal just as if it were securely closed and normally locked, though a thief may not attempt to Pick Locks upon it. A knock spell or a successful dispel magic spell can negate a hold portal spell.
 
 
-### Holy Chant	Range:	0’
+### Holy Chant	Range:	0'
 
 Divine 2	Duration:	special
 
-This spell is intoned continuously, bringing about supernatural intervention centered on the divine spellcaster and affecting any party members within a 30’ radius of the caster. All attack throws, damage rolls, and saving throws are made with a +1 bonus. Likewise, all of the rolls attempted by enemies suffer a -1 penalty. This effect continues so long as the caster does not move and focuses only on chanting. However, if he is successfully attacked and dealt damage, or otherwise physically distracted, the spell ends. The spell silence 15’ radius also negates the spell.
+This spell is intoned continuously, bringing about supernatural intervention centered on the divine spellcaster and affecting any party members within a 30' radius of the caster. All attack throws, damage rolls, and saving throws are made with a +1 bonus. Likewise, all of the rolls attempted by enemies suffer a -1 penalty. This effect continues so long as the caster does not move and focuses only on chanting. However, if he is successfully attacked and dealt damage, or otherwise physically distracted, the spell ends. The spell silence 15' radius also negates the spell.
 
 
 ### Infravision	Range:	touch
@@ -1001,11 +1001,11 @@ Arcane 3	Duration:	1 day
 The subject is able to see in the dark to a distance of 60' for the duration of the spell. 
 
 
-### Insect Plague	Range:	480’
+### Insect Plague	Range:	480'
 
 Divine 5	Duration:	1 day
 
-This spell summons a vast cloud of swarming insects (usually locusts) consisting of 4 insect swarms (as described in the Monsters chapter). Each swarm is 30’ x 30’ in size and possesses 4 Hit Dice. The swarms must be summoned so that each one is adjacent to at least one other swarm (that is, the swarms must fill one contiguous area). The caster may summon the swarms so that they share the area of other creatures. Each swarm attacks any creatures occupying its area, and the whole plague will obscure vision and automatically drive off creatures of less than 3 Hit Dice. The caster must concentrate for the duration of the spell to maintain control over the insect plague.  The caster loses control of it if he is successfully attacked or if the insect plague leaves the range of the caster. While the caster has control over the insect plague, he can move its constituent swarms 20’ per round. The swarms are stationary once the caster loses control of the insect plague.
+This spell summons a vast cloud of swarming insects (usually locusts) consisting of 4 insect swarms (as described in the Monsters chapter). Each swarm is 30' x 30' in size and possesses 4 Hit Dice. The swarms must be summoned so that each one is adjacent to at least one other swarm (that is, the swarms must fill one contiguous area). The caster may summon the swarms so that they share the area of other creatures. Each swarm attacks any creatures occupying its area, and the whole plague will obscure vision and automatically drive off creatures of less than 3 Hit Dice. The caster must concentrate for the duration of the spell to maintain control over the insect plague.  The caster loses control of it if he is successfully attacked or if the insect plague leaves the range of the caster. While the caster has control over the insect plague, he can move its constituent swarms 20' per round. The swarms are stationary once the caster loses control of the insect plague.
 
 
 ### Invisibility	Range:	touch
@@ -1014,7 +1014,7 @@ Arcane 2	Duration:	special
 
 The creature or object touched becomes invisible, vanishing from sight, including Infravision. If the recipient is a creature carrying gear, that vanishes as well. If the spell is cast on someone else, neither the caster nor his allies can see the subject, unless they can normally see invisible things or employ magic to do so.
 
-Items dropped or put down by an invisible creature become visible; items picked up disappear if tucked into the clothing or pouches worn by the creature. Light, however, never becomes invisible, although a source of light can become so (thus, the effect is that of a light with no visible source). Any part of an item that the subject carries but that extends more than 10’ from it becomes visible. Of course, the subject is not magically silenced, and certain other conditions can render the recipient detectable (such as stepping in a puddle).
+Items dropped or put down by an invisible creature become visible; items picked up disappear if tucked into the clothing or pouches worn by the creature. Light, however, never becomes invisible, although a source of light can become so (thus, the effect is that of a light with no visible source). Any part of an item that the subject carries but that extends more than 10' from it becomes visible. Of course, the subject is not magically silenced, and certain other conditions can render the recipient detectable (such as stepping in a puddle).
 
 The spell ends if the subject attacks any creature or casts any spell. Actions (other than spellcasting) directed at unattended objects do not break the spell. Causing harm indirectly is not an attack. The spell lasts at most 24 hours.
 
@@ -1023,12 +1023,12 @@ The spell ends if the subject attacks any creature or casts any spell. Actions (
 
 Arcane 3	Duration:	special
 
-This spell functions like invisibility, except that this spell confers invisibility upon all creatures within 10’ of the recipient. The center of the effect is mobile with the recipient. 
+This spell functions like invisibility, except that this spell confers invisibility upon all creatures within 10' of the recipient. The center of the effect is mobile with the recipient. 
 
 Those affected by this spell can see each other and themselves as if unaffected by the spell. Any affected creature moving out of the area becomes visible, but creatures moving into the area after the spell is cast do not become invisible. Affected creatures (other than the recipient) who attack negate the invisibility only for themselves. If the spell recipient attacks, the invisibility sphere ends for all affected creatures.
 
 
-### Invisible Stalker	Range:	10’
+### Invisible Stalker	Range:	10'
 
 Arcane 6	Duration:	special
 
@@ -1046,7 +1046,7 @@ The knock spell opens stuck, barred, locked, held, or wizard locked doors. It op
 
 Arcane 2	Duration:	6 turns plus 1 turn per level
 
-Levitate allows the caster to move himself, another creature, or an object up and down as desired. A creature must be willing to be levitated, and an object must be unattended or possessed by a willing creature. The caster can mentally direct the subject to move up or down as much as 20’ each round, by concentration. The caster cannot move the subject horizontally, but the subject could clamber along the face of a cliff, for example, or push against a ceiling to move laterally (generally at half its normal land speed). A creature can carry its normal amount of weight when levitating (possibly including another creature).
+Levitate allows the caster to move himself, another creature, or an object up and down as desired. A creature must be willing to be levitated, and an object must be unattended or possessed by a willing creature. The caster can mentally direct the subject to move up or down as much as 20' each round, by concentration. The caster cannot move the subject horizontally, but the subject could clamber along the face of a cliff, for example, or push against a ceiling to move laterally (generally at half its normal land speed). A creature can carry its normal amount of weight when levitating (possibly including another creature).
 
 A levitating creature that attacks with a weapon finds itself increasingly unstable; the first attack throw has a -1 attack penalty, the second -2, and so on, to a maximum penalty of -5. A full round spent stabilizing allows the creature to begin again at -1.
 
@@ -1064,13 +1064,13 @@ A light spell may be cast to counter and dispel the darkness spell of an equal o
 Either version of this spell may be used to blind an opponent by means of casting it on the target's ocular organs. The target is allowed a saving throw versus Spells to avoid the effect, and if the save is made, the spell does not take effect at all. A light or darkness spell cast to blind does not have the given area of effect (that is, no light or darkness is shed around the victim).
 
 
-### Lightning Bolt	Range:	180’
+### Lightning Bolt	Range:	180'
 
 Arcane 3	Duration:	instantaneous
 
-The caster releases a powerful stroke of electrical energy that is 60’ long. The lightning bolt passes through an area 5' wide, arcing and jumping, so that, while it is not actually 5' wide, for game purposes treat it as if it is so. It deals 1d6 points of electricity damage per caster level to each creature within its area. Any creature caught in the area of effect receives a saving throw versus Blast. A successful save reduces damage by half.
+The caster releases a powerful stroke of electrical energy that is 60' long. The lightning bolt passes through an area 5' wide, arcing and jumping, so that, while it is not actually 5' wide, for game purposes treat it as if it is so. It deals 1d6 points of electricity damage per caster level to each creature within its area. Any creature caught in the area of effect receives a saving throw versus Blast. A successful save reduces damage by half.
 
-The lightning bolt sets fire to combustibles and damages objects in its path. It can melt metals with a low melting point, such as lead, gold, copper, silver, or bronze. If the damage caused to an interposing barrier shatters or breaks through it, the bolt may continue beyond the barrier if the spell’s range permits; otherwise, it may reflect from the barrier back toward the caster, or in a random direction at the Judge's option. Creatures already affected by the lightning bolt do not take additional damage if struck by the reflection of the same bolt. 
+The lightning bolt sets fire to combustibles and damages objects in its path. It can melt metals with a low melting point, such as lead, gold, copper, silver, or bronze. If the damage caused to an interposing barrier shatters or breaks through it, the bolt may continue beyond the barrier if the spell's range permits; otherwise, it may reflect from the barrier back toward the caster, or in a random direction at the Judge's option. Creatures already affected by the lightning bolt do not take additional damage if struck by the reflection of the same bolt. 
 
 
 ### Locate Object	Range:	120'
@@ -1084,37 +1084,37 @@ This spell allows the caster to sense the direction of a well-known or clearly v
 
 Arcane 6	Duration:	10 turns
 
-This spell causes water or similar liquid to reduce its depth by as much as 2’ per caster level (to a minimum depth of 1 inch). The water is lowered within a more or less square-shaped depression whose sides are up to 10’ long per caster level. In extremely large and deep bodies of water, such as a deep ocean, the spell creates a whirlpool that sweeps ships and similar craft downward, putting them at risk and rendering them unable to leave by normal movement for the duration of the spell. When cast on water elementals and other water-based creatures, this spell acts as a slow spell (the reverse of haste); a save versus Spells is allowed, with success negating the effect. The spell has no effect on other creatures.
+This spell causes water or similar liquid to reduce its depth by as much as 2' per caster level (to a minimum depth of 1 inch). The water is lowered within a more or less square-shaped depression whose sides are up to 10' long per caster level. In extremely large and deep bodies of water, such as a deep ocean, the spell creates a whirlpool that sweeps ships and similar craft downward, putting them at risk and rendering them unable to leave by normal movement for the duration of the spell. When cast on water elementals and other water-based creatures, this spell acts as a slow spell (the reverse of haste); a save versus Spells is allowed, with success negating the effect. The spell has no effect on other creatures.
 
 
 ### Magic Jar	Range:	30'
 
 Arcane 5	Duration:	special
 
-By casting magic jar, the caster places his soul into an inanimate object within spell range (known as the magic jar), leaving the body lifeless. The caster may then attempt to take control of a nearby living creature within 120’ of the magic jar, forcing its soul into the magic jar. The caster may move back to the jar (thereby returning the trapped soul to its body) and attempt to possess another body. The spell ends when the caster's soul returns to his own body, leaving the receptacle empty.
+By casting magic jar, the caster places his soul into an inanimate object within spell range (known as the magic jar), leaving the body lifeless. The caster may then attempt to take control of a nearby living creature within 120' of the magic jar, forcing its soul into the magic jar. The caster may move back to the jar (thereby returning the trapped soul to its body) and attempt to possess another body. The spell ends when the caster's soul returns to his own body, leaving the receptacle empty.
 
 To cast the spell, the magic jar must be within spell range and the caster must know where it is, though he does not need to be able to see it. When the caster transfers his soul upon casting, the caster's body is, as near as anyone can tell, dead, but does not undergo decay as a normal dead body would.
 
 Possession of a creature by means of this spell is blocked by protection from evil or a similar ward. The creature is allowed a save versus Death to resist. If the save is successful, the caster's life force remains in the magic jar, and that target creature is immune to further attempts for one game turn. 
 
-If the creature fails its saving throw, its body is possessed by the caster’s life force, and the creature’s life force is imprisoned in the magic jar. The caster keeps his or her Intelligence, Wisdom, Charisma, level, class, attack bonus, saving throws, and mental abilities (including spellcasting ability). The body retains its Strength, Dexterity, Constitution, hit points, and natural abilities. A body with extra limbs does not allow the caster to make more attacks than normal. The caster does not have access to any special abilities of the body.
+If the creature fails its saving throw, its body is possessed by the caster's life force, and the creature's life force is imprisoned in the magic jar. The caster keeps his or her Intelligence, Wisdom, Charisma, level, class, attack bonus, saving throws, and mental abilities (including spellcasting ability). The body retains its Strength, Dexterity, Constitution, hit points, and natural abilities. A body with extra limbs does not allow the caster to make more attacks than normal. The caster does not have access to any special abilities of the body.
 
-If the caster's spirit is in the magic jar, and the jar is broken (whether by dispel magic or physical damage) then there are two possible outcomes. If the jar is within 120’ of the caster's body, then the caster's spirit returns to its body. Otherwise, the caster's spirit departs, and the caster dies. In either case, the spell ends.
+If the caster's spirit is in the magic jar, and the jar is broken (whether by dispel magic or physical damage) then there are two possible outcomes. If the jar is within 120' of the caster's body, then the caster's spirit returns to its body. Otherwise, the caster's spirit departs, and the caster dies. In either case, the spell ends.
 
-If the caster's spirit is driven from the host body by dispel evil there are also two possibilities. If the magic jar is within 120’ of the host body, then the caster's spirit returns to the jar, and the host's spirit returns to its body. The caster will not be able to possess the same host again for one full turn. If the magic jar is not in range of the host body, then the host's spirit is freed from the jar, both the caster’s and the host’s spirits depart, and the host's body dies. In either case, the spell ends.
+If the caster's spirit is driven from the host body by dispel evil there are also two possibilities. If the magic jar is within 120' of the host body, then the caster's spirit returns to the jar, and the host's spirit returns to its body. The caster will not be able to possess the same host again for one full turn. If the magic jar is not in range of the host body, then the host's spirit is freed from the jar, both the caster's and the host's spirits depart, and the host's body dies. In either case, the spell ends.
 
 If the host's spirit is in the magic jar, and the jar is broken then one of the following may happen. If the jar is in range of the host's body, then the caster's spirit departs, the host's spirit returns to its body, and the spell ends. Otherwise, the host's spirit departs, and the caster's spirit is stranded in the host body. Note here that the spell has not ended. Dispel evil can still be used to drive the caster's spirit from the body, which departs as noted, ending the spell.
 
 In any case where the spell ends with the caster's body unoccupied by a spirit, that body does truly die.
 
 
-### Magic Missile	Range:	150’
+### Magic Missile	Range:	150'
 
 Arcane 1	Duration:	instantaneous
 
-This spell causes a missile of magical energy to dart forth from the caster's fingertip and strike its target, dealing 1d6+1 points of damage. The missile strikes unerringly, even if the target is in melee combat, so long as the target has less than total cover or total concealment. Specific parts of a creature can’t be singled out. Inanimate objects are not damaged by the spell.
+This spell causes a missile of magical energy to dart forth from the caster's fingertip and strike its target, dealing 1d6+1 points of damage. The missile strikes unerringly, even if the target is in melee combat, so long as the target has less than total cover or total concealment. Specific parts of a creature can't be singled out. Inanimate objects are not damaged by the spell.
 
-For every five caster levels beyond 1st, an additional two missiles are fired – three missiles at 6th and the maximum of five missiles at 13th level. If the caster fires multiple missiles, he can target a single creature or several creatures. A single missile can strike only one creature. Targets must be designated before damage is rolled.
+For every five caster levels beyond 1st, an additional two missiles are fired - three missiles at 6th and the maximum of five missiles at 13th level. If the caster fires multiple missiles, he can target a single creature or several creatures. A single missile can strike only one creature. Targets must be designated before damage is rolled.
 
 
 ### Magic Mouth	Range:	30'
@@ -1125,10 +1125,10 @@ This spell imbues the chosen non-living object with an enchanted mouth that sudd
 
 The spell functions when specific conditions are fulfilled according to the caster's command as set in the spell. Commands can be as general or as detailed as desired, although only visual and audible triggers can be used. Triggers react to what appears to be the case. Disguises and illusions can fool them. Normal darkness does not defeat a visual trigger, but magical darkness or invisibility does. Silent movement or magical silence defeats audible triggers. Audible triggers can be keyed to general types of noises or to a specific noise or spoken word. Actions can serve as triggers if they are visible or audible. A magic mouth cannot distinguish level, Hit Dice, or class except by external garb.
 
-The range limit of a trigger is 10’ per caster level, so a 6th level caster can command a magic mouth to respond to triggers as far as 60’ away. Regardless of range, the mouth can respond only to visible or audible triggers and actions in line of sight or within hearing distance.
+The range limit of a trigger is 10' per caster level, so a 6th level caster can command a magic mouth to respond to triggers as far as 60' away. Regardless of range, the mouth can respond only to visible or audible triggers and actions in line of sight or within hearing distance.
 
 
-### Massmorph	Range:	240’
+### Massmorph	Range:	240'
 
 Arcane 4	Duration:	special
 
@@ -1150,7 +1150,7 @@ Enemies attempting to attack or cast spells upon the caster will always hit a fi
 
 Arcane 6	Duration:	6 turns
 
-With this spell, the caster can move large volumes of soil, even to the point of altering the surface features of areas within range. Earth in the area can be moved at 60’ per turn, according to the spellcaster’s desires. The spell’s range will extend downwards through the earth until it reaches the limit (240’) or solid rock. Move earth cannot affect stone, only soil. 
+With this spell, the caster can move large volumes of soil, even to the point of altering the surface features of areas within range. Earth in the area can be moved at 60' per turn, according to the spellcaster's desires. The spell's range will extend downwards through the earth until it reaches the limit (240') or solid rock. Move earth cannot affect stone, only soil. 
 
 
 ### Neutralize Poison*	Range:	touch
@@ -1166,7 +1166,7 @@ Reversed, this spell becomes poison. The caster must make a successful attack th
 
 Arcane 5	Duration:	3 turns
 
-This spell creates a passage through wooden, plaster, or stone walls, but not through metal or other harder materials. The passage is up to 10’ deep. If the wall’s thickness is more than the depth of the passage created, then a single passwall simply makes a niche or short tunnel. Several passwall spells can then form a continuing passage to breach very thick walls. When passwall ends (due to duration, dispel magic, or caster's choice), the hole closes; creatures within the passage are ejected out the nearest exit.
+This spell creates a passage through wooden, plaster, or stone walls, but not through metal or other harder materials. The passage is up to 10' deep. If the wall's thickness is more than the depth of the passage created, then a single passwall simply makes a niche or short tunnel. Several passwall spells can then form a continuing passage to breach very thick walls. When passwall ends (due to duration, dispel magic, or caster's choice), the hole closes; creatures within the passage are ejected out the nearest exit.
 
 
 ### Phantasmal Force	Range:	240'
@@ -1175,25 +1175,25 @@ Arcane 2	Duration:	concentration
 
 This spell creates the visual illusion of an object, creature, or force, as visualized by the caster, up to a maximum size of 20'x20'x20'. The illusion does not create sound, smell, texture, or temperature. The caster can move the image within the limits of the size of the effect. The image persists so long as the caster concentrates upon it.
 
-If used to create the illusion of one or more creatures, they will have an Armor Class of 0 and will disappear if hit in combat. If used to simulate an attack spell or an attacking creature, the illusory damage done will be equivalent to the normal damage for any attack form simulated. A successful save versus Spells, however, will allow victims to avoid all damage. Illusory damage is not real. Those “killed” or injured will realize they are unharmed (at least from this spell) after 1d3 rounds. 
+If used to create the illusion of one or more creatures, they will have an Armor Class of 0 and will disappear if hit in combat. If used to simulate an attack spell or an attacking creature, the illusory damage done will be equivalent to the normal damage for any attack form simulated. A successful save versus Spells, however, will allow victims to avoid all damage. Illusory damage is not real. Those "killed" or injured will realize they are unharmed (at least from this spell) after 1d3 rounds. 
 
 
 ### Polymorph Other	Range:	60'
 
 Arcane 4	Duration:	permanent
 
-This spell allows the caster to change one target into another form of living creature. The assumed form can’t have more Hit Dice than caster’s level, and must have fewer than twice the Hit Dice of the old form. Incorporeal or gaseous forms cannot result from a polymorph other. Unlike polymorph self, the transformed target also gains the alignment, behavioral and mental traits, any physical attacks, and special, supernatural or spell-like abilities of the new form, in addition to the physical capabilities and statistics of such. If the new form is substantially less intelligent, the target may not remember its former life. The spell cannot create a duplicate of a specific individual. 
+This spell allows the caster to change one target into another form of living creature. The assumed form can't have more Hit Dice than caster's level, and must have fewer than twice the Hit Dice of the old form. Incorporeal or gaseous forms cannot result from a polymorph other. Unlike polymorph self, the transformed target also gains the alignment, behavioral and mental traits, any physical attacks, and special, supernatural or spell-like abilities of the new form, in addition to the physical capabilities and statistics of such. If the new form is substantially less intelligent, the target may not remember its former life. The spell cannot create a duplicate of a specific individual. 
 
 The target creature will have the same number of hit points it previously had, regardless of the Hit Dice of the form assumed. Incorporeal or gaseous creatures are immune to this spell, as noted above. A creature with shape changing abilities such as a doppleganger can revert to its natural form in one round.
 
-Unwilling targets that successfully make a saving throw versus Spells are not affected. The spell is permanent until dispelled by dispel magic or the creature is slain, at which time the target’s corpse reverts to its original form.
+Unwilling targets that successfully make a saving throw versus Spells are not affected. The spell is permanent until dispelled by dispel magic or the creature is slain, at which time the target's corpse reverts to its original form.
 
 
 ### Polymorph Self	Range:	self
 
 Arcane 4	Duration:	6 turns plus 1 turn per level
 
-This spell allows the caster to change into another form of living creature. The assumed form can’t have more Hit Dice than the caster's level. The caster can’t assume an incorporeal or gaseous form. If slain, the caster reverts to his original form.
+This spell allows the caster to change into another form of living creature. The assumed form can't have more Hit Dice than the caster's level. The caster can't assume an incorporeal or gaseous form. If slain, the caster reverts to his original form.
 
 The caster gains the physical capabilities and statistics of the new form but retains his own mental abilities. He also gains all physical attacks possessed by the form but does not gain any special, supernatural or spell-like abilities. Dragon breath is a special ability, for instance, so were the caster to assume the form of a dragon he could use the dragon's normal claw, bite, and tail swipe attacks, but not the dragon's breath.
 
@@ -1204,7 +1204,7 @@ The caster can remain transformed for the full duration of the spell, or may cho
 
 Divine 3	Duration:	1 round per level
 
-By means of a prayer spell, the divine spellcaster brings great favor upon himself and his party, and causes harm to his enemies. Once the prayer spell is cast, all attack throws, damage rolls, and saving throws made by those in range who are friendly to the caster are at +1, while those of the cleric’s enemies are at -1. The prayer spell does not require the caster to concentrate once cast.
+By means of a prayer spell, the divine spellcaster brings great favor upon himself and his party, and causes harm to his enemies. Once the prayer spell is cast, all attack throws, damage rolls, and saving throws made by those in range who are friendly to the caster are at +1, while those of the cleric's enemies are at -1. The prayer spell does not require the caster to concentrate once cast.
 
 
 ### Projected Image	Range:	240'
@@ -1214,43 +1214,43 @@ Arcane 6	Duration:	6 turns
 This spell creates a quasi-real, illusory version of the caster. The intangible projected image looks, sounds, and smells like the caster, in addition to mimicking gestures and actions, including speech. Any further spells cast seem to originate from the illusion, not the actual caster. A line of sight between the caster and his illusory self must be maintained or the spell ends.  Dimension door, teleport, or any similar spell that breaks the line of sight dispels the image, as does the illusionary caster being struck in combat. Note that this spell grants no special sensory powers to the caster; for example, if the illusory self is positioned so as to be able to see something the caster can't directly see, the caster does not see it. Also, all spell ranges are still figured from the caster's actual position, not the illusory self's position.
 
 
-### Protection from Evil*           Range:        self
+### Protection from Evil*           Range:        self
 
-Divine 1, Arcane 1                 Duration:	concentration
+Divine 1, Arcane 1                 Duration:	concentration
 
-This spell creates a magical barrier of protection around the caster with a 10’ radius. The barrier surrounds the caster for the duration of the spell and provides some protection from attacks by “evil” creatures. For purposes of this spell, evil creatures include hostile creatures of an alignment other than the caster’s alignment, and inherently evil creatures such as undead and summoned creatures of Chaotic alignment. All within the radius gain a +1 bonus to AC and a +1 bonus on saving throws against attacks made or effects created by evil creatures. Those who leave and then re-enter, or who enter after the spell is cast, receive the protection as well. 
+This spell creates a magical barrier of protection around the caster with a 10' radius. The barrier surrounds the caster for the duration of the spell and provides some protection from attacks by "evil" creatures. For purposes of this spell, evil creatures include hostile creatures of an alignment other than the caster's alignment, and inherently evil creatures such as undead and summoned creatures of Chaotic alignment. All within the radius gain a +1 bonus to AC and a +1 bonus on saving throws against attacks made or effects created by evil creatures. Those who leave and then re-enter, or who enter after the spell is cast, receive the protection as well. 
 
-In addition, the spell prevents bodily contact by enchanted (constructed, summoned, or undead) creatures, regardless of whether they are “evil” or not. This causes the natural weapon attacks of such creatures to fail and the creatures to recoil if such attacks require touching the warded creature. The spell’s protection against contact by enchanted creatures ends if the caster or any protected creature makes an attack against, casts a spell on, or tries to force the barrier against a blocked creature.
+In addition, the spell prevents bodily contact by enchanted (constructed, summoned, or undead) creatures, regardless of whether they are "evil" or not. This causes the natural weapon attacks of such creatures to fail and the creatures to recoil if such attacks require touching the warded creature. The spell's protection against contact by enchanted creatures ends if the caster or any protected creature makes an attack against, casts a spell on, or tries to force the barrier against a blocked creature.
 
 The protection lasts as long as the caster remains stationary and concentrates on it.
 
-Reversed, this spell becomes protection from good. Like its counterpart, protection from good protects the caster from attacks by hostile creatures of an alignment other than the caster’s and prevents bodily contact by enchanted creatures. However, instead of protecting the caster from inherently evil creatures (e.g. summoned creatures of Chaotic alignment), protection from good protects the caster from inherently good creatures (e.g. summoned creatures of Lawful alignment). 
+Reversed, this spell becomes protection from good. Like its counterpart, protection from good protects the caster from attacks by hostile creatures of an alignment other than the caster's and prevents bodily contact by enchanted creatures. However, instead of protecting the caster from inherently evil creatures (e.g. summoned creatures of Chaotic alignment), protection from good protects the caster from inherently good creatures (e.g. summoned creatures of Lawful alignment). 
 
 
-### Protection from Evil, Sustained*            Range:             0’ 
+### Protection from Evil, Sustained*            Range:             0' 
 
-Divine 4, Arcane 3                                     Duration:         12 turns
+Divine 4, Arcane 3                                     Duration:         12 turns
 
 This spell functions exactly as protection from evil, but with a duration of 12 turns. The barrier will move with the caster, who does not need to concentrate to maintain its protection. 
 
 Reversed, this spell becomes protection from good, sustained, and functions exactly as the reversed form of protection from evil, except with a duration of 12 turns without the need for concentration. 
 
 
-### Protection from Normal Missiles	Range:	30’ 
+### Protection from Normal Missiles	Range:	30' 
 
 Arcane 3		Duration:	12 turns
 
 The subject of this spell is completely protected from small sized, non-magical missile attacks. Therefore, magic arrows, hurled boulders, or other such are not blocked, but any number of normal arrows, sling bullets, crossbow bolts, thrown daggers, and the like will be fended off. Note that normal missiles projected by magic bows count as magical missiles for the purposes of this spell.
 
 
-### Purify Food and Water	Range: 10’
+### Purify Food and Water	Range: 10'
 
 Divine 1	Duration:	Instantaneous 
 
 This spell makes spoiled, rotten, poisonous, or otherwise contaminated food and water pure and suitable for eating and drinking.  This spell will purify one ration of food, 6 skins of water, or enough normal food to feed a dozen people. This spell does not prevent subsequent natural decay or spoilage. Unholy water and similar food and drink of significance is spoiled by purify food and water, but the spell has no effect on creatures of any type, nor upon magic potions.
 
 
-### Quest*	Range:	30’
+### Quest*	Range:	30'
 
 Divine 5	Duration:	special
 
@@ -1267,13 +1267,13 @@ A character who ignores a quest will suffer cumulative penalties (decided by the
 A quest (and all effects thereof) can be ended by a remove curse spell from a caster two or more levels higher than the caster of the quest, or by a wish, or by the reverse of this spell. Dispel magic does not affect a quest spell.
 
 
-### Restore Life and Limb*	Range:	touch (120’)
+### Restore Life and Limb*	Range:	touch (120')
 
 Divine 5	Duration:	instantaneous
 
 This spell restores life to a deceased creature (excluding creatures which are not truly alive, such as constructs, elementals, and undead). The caster can raise a creature that has been dead for no longer than two days at 7th level, and four days are added per level above 7. For example, a 9th level caster can bring a character back to life that has been dead for 10 days. However, this spell cannot bring back a creature that has died of old age, lost its head, or had its body cremated. 
 
-Because it repairs even lethal damage and regrows flesh and bone, this spell can also heal a character of any permanent wounds, such as lost limbs, disfiguring scars, or shattered spines (see the Mortal Wounds table in Chapter 6 for details on permanent wounds).Despite this spell’s beneficial results, tampering with the body and soul is never without risk. Each time a character benefits from restore life and limb, he must roll on the Tampering with Mortality table in Chapter 6 and apply these results.  
+Because it repairs even lethal damage and regrows flesh and bone, this spell can also heal a character of any permanent wounds, such as lost limbs, disfiguring scars, or shattered spines (see the Mortal Wounds table in Chapter 6 for details on permanent wounds).Despite this spell's beneficial results, tampering with the body and soul is never without risk. Each time a character benefits from restore life and limb, he must roll on the Tampering with Mortality table in Chapter 6 and apply these results.  
 
 If restore life and limb is ever cast on an undead monster, the monster must save versus Death or be instantly destroyed.
 
@@ -1291,9 +1291,9 @@ This spell grants the caster the ability to read almost any written language, in
 
 Arcane 6	Duration:	instantaneous
 
-With this spell, the caster returns life to a character by means of creating another body. Since the character is returning in a new body, all physical ills and afflictions are repaired. The condition of the remains is not a factor. So long as some small portion of the body still exists, it can be reincarnated. The magic of the spell creates an entirely new young adult body. Roll on the Reincarnation table to determine what sort of creature the character becomes. A reincarnated character recalls the majority of its former life and form. If the result on the table below indicates reincarnation as a human or demi-human, the character returns at the same class level with minimum experience. The character's Intelligence, Wisdom, and Charisma are set to the character’s original scores, but Strength, Dexterity, and Constitution scores should be rerolled. 
+With this spell, the caster returns life to a character by means of creating another body. Since the character is returning in a new body, all physical ills and afflictions are repaired. The condition of the remains is not a factor. So long as some small portion of the body still exists, it can be reincarnated. The magic of the spell creates an entirely new young adult body. Roll on the Reincarnation table to determine what sort of creature the character becomes. A reincarnated character recalls the majority of its former life and form. If the result on the table below indicates reincarnation as a human or demi-human, the character returns at the same class level with minimum experience. The character's Intelligence, Wisdom, and Charisma are set to the character's original scores, but Strength, Dexterity, and Constitution scores should be rerolled. 
 
-If the result on the table below indicates that the reincarnated character returns as a monster, roll on the column matching the original character’s alignment. Additional monsters may be used to extend the table, but no monster having more than 6 HD should be included, and each monster should be minimally semi-intelligent. The reincarnated monster gains all abilities associated with its new form, including forms of movement and speeds, natural armor, natural attacks, extraordinary abilities, and the like, but it doesn’t automatically speak the language of the new form. If the monster’s Hit Dice are below the character’s former class level, its Hit Dice are increased to the character’s former class level. A character brought back as a monster may increase in HD through adventuring. It requires 3,000 XP plus 500XP per special ability (*) for a 1 HD monster to advance to 2 HD. The amount of XP required doubles with each HD (round values greater than 20,000XP to the nearest 1,000).  See Transformations in Chapter 10 for more information about playing monsters as characters.
+If the result on the table below indicates that the reincarnated character returns as a monster, roll on the column matching the original character's alignment. Additional monsters may be used to extend the table, but no monster having more than 6 HD should be included, and each monster should be minimally semi-intelligent. The reincarnated monster gains all abilities associated with its new form, including forms of movement and speeds, natural armor, natural attacks, extraordinary abilities, and the like, but it doesn't automatically speak the language of the new form. If the monster's Hit Dice are below the character's former class level, its Hit Dice are increased to the character's former class level. A character brought back as a monster may increase in HD through adventuring. It requires 3,000 XP plus 500XP per special ability (*) for a 1 HD monster to advance to 2 HD. The amount of XP required doubles with each HD (round values greater than 20,000XP to the nearest 1,000).  See Transformations in Chapter 10 for more information about playing monsters as characters.
 
 EXAMPLE: Creven, a 5th level chaotic explorer, is reincarnated as a Wererat. Wererats are normally 3 HD monsters, but because Creven was 5th level, he reincarnates as a 5 HD Wererat. Wererats have one special ability (or *). It takes 3,500xp for a 1 HD monster with one special ability to advance to 2 HD; 7,000XP from 2 HD to 3 HD; 14,000XP from 3 HD to 4 HD; 28,000XP from 4 HD to 5 HD; 56,000XP from 5 HD to 6 HD; 112,000XP from 6 HD to 7 HD, and so on. Creven, at 5 HD, will need 56,000XP to increase to 6 HD in his new form. 
 
@@ -1325,7 +1325,7 @@ EXAMPLE: Creven, a 5th level chaotic explorer, is reincarnated as a Wererat. Wer
 
 Divine 3, Arcane 4	Duration:	instantaneous
 
-Remove curse instantaneously removes all curses on an object or a creature. If cast on a cursed item, remove curse does not remove the curse from the item, but it enables the creature afflicted with any such cursed item to remove and get rid of it. Any curse cast by a character of equal or lower level than remove curse caster's level is ended automatically. Those curses bestowed by higher level casters might not be removed; there is a 5% chance the remove curse will fail for each level the cursing character’s level exceeds the level of the caster removing the curse. Certain special curses may not be countered by this spell at all, or may be countered only by a caster of a certain level or higher. 
+Remove curse instantaneously removes all curses on an object or a creature. If cast on a cursed item, remove curse does not remove the curse from the item, but it enables the creature afflicted with any such cursed item to remove and get rid of it. Any curse cast by a character of equal or lower level than remove curse caster's level is ended automatically. Those curses bestowed by higher level casters might not be removed; there is a 5% chance the remove curse will fail for each level the cursing character's level exceeds the level of the caster removing the curse. Certain special curses may not be countered by this spell at all, or may be countered only by a caster of a certain level or higher. 
 
 The reverse of this spell, bestow curse, allows the caster to place a curse on a target creature or object. A saving throw versus Spells is allowed to resist. The caster must choose one of the following four effects:
 
@@ -1387,7 +1387,7 @@ Silence 15' Radius	Range:	180'
 
 Divine 2	Duration:	12 turns
 
-Upon the casting of this spell, complete silence prevails within a 15' radius around the target. All sound is stopped: Conversation is impossible, spells cannot be cast, and no noise whatsoever issues from, enters, or passes through the area. The spell can be cast on a point in space, making the effect stationary, or it may be cast on a mobile object. The spell can be centered on a creature, and the effect then radiates from the creature and moves as it moves. An unwilling creature receives a save versus Spells to negate the spell. If an item in another creature’s possession is targeted, that creature also receives a save versus Spells to negate. This spell provides a defense against sonic or language-based attacks or spells.
+Upon the casting of this spell, complete silence prevails within a 15' radius around the target. All sound is stopped: Conversation is impossible, spells cannot be cast, and no noise whatsoever issues from, enters, or passes through the area. The spell can be cast on a point in space, making the effect stationary, or it may be cast on a mobile object. The spell can be centered on a creature, and the effect then radiates from the creature and moves as it moves. An unwilling creature receives a save versus Spells to negate the spell. If an item in another creature's possession is targeted, that creature also receives a save versus Spells to negate. This spell provides a defense against sonic or language-based attacks or spells.
 
 
 ### Sleep	Range:	240'
@@ -1399,20 +1399,20 @@ With a sleep spell, the caster may attempt to put creatures into a magical slumb
 Sleeping creatures are helpless and can be killed in one round by unengaged opponents. Slapping or wounding awakens an affected creature, but normal noise does not. Sleep does not affect creatures that are already unconscious or undead, constructs, oozes, and other creatures that do not rest. 
 
 
-### Smite Undead*	Range: 	240’ (touch)
+### Smite Undead*	Range: 	240' (touch)
 
 Divine 4	Duration:	special
 
-This spell instantly destroys a number of Hit Dice of undead equal to the caster’s level. All the undead must be within a 60’ diameter sphere. Any excess levels of effectiveness are lost. Skeletons and zombies receive no saving throw against this spell; all other undead are allowed a saving throw versus Death to avoid the effect. Undead with 8 or more Hit Dice or levels are immune to the spell.
+This spell instantly destroys a number of Hit Dice of undead equal to the caster's level. All the undead must be within a 60' diameter sphere. Any excess levels of effectiveness are lost. Skeletons and zombies receive no saving throw against this spell; all other undead are allowed a saving throw versus Death to avoid the effect. Undead with 8 or more Hit Dice or levels are immune to the spell.
 
 The reverse of this spell, animate dead, functions exactly like the 5th level arcane spell of the same name. 
 
 
-### Snake Charm	Range:	60’
+### Snake Charm	Range:	60'
 
 Divine 2	Duration:	see below
 
-The divine spellcaster is able to affect the behavior of snakes, making them indifferent to the caster and others. A caster is able to affect snakes of a number of Hit Die equaling the caster’s level. A 7th level caster can affect 7 Hit Dice of snakes, which can equal seven 1 HD snakes, or two 3 HD snakes and one 1 HD snake, or any other combination. A snake that is attacked will defend itself against its attacker, but will continue to remain indifferent to others. Attacking one charmed snake does not break the charm on the others. 
+The divine spellcaster is able to affect the behavior of snakes, making them indifferent to the caster and others. A caster is able to affect snakes of a number of Hit Die equaling the caster's level. A 7th level caster can affect 7 Hit Dice of snakes, which can equal seven 1 HD snakes, or two 3 HD snakes and one 1 HD snake, or any other combination. A snake that is attacked will defend itself against its attacker, but will continue to remain indifferent to others. Attacking one charmed snake does not break the charm on the others. 
 
 Hostile snakes are more difficult to charm, and if this spell is cast on snakes that are engaged in melee combat with the caster, the snakes will only be affected by the spell for 1d4+1 rounds. If the spell is cast on snakes that are not hostile at the moment, the spell will last 1d4+1 turns. 
 
@@ -1421,25 +1421,25 @@ Hostile snakes are more difficult to charm, and if this spell is cast on snakes 
 
 Divine 2	Duration:	6 turns
 
-The caster can comprehend and communicate with any one normal or giant animal that is in sight of the caster and able to hear him. It will not affect intelligent animal races or fantastic creatures. The caster may change which animal he is speaking with at will, once per round. The spell doesn’t alter the animal’s reaction or attitude towards the caster; a standard reaction roll should be made to determine this. Furthermore, more intelligent animals are likely to be terse and evasive, while less intelligent ones make inane comments. However, if an animal is friendly toward the caster, it may be willing to grant some favor or service.
+The caster can comprehend and communicate with any one normal or giant animal that is in sight of the caster and able to hear him. It will not affect intelligent animal races or fantastic creatures. The caster may change which animal he is speaking with at will, once per round. The spell doesn't alter the animal's reaction or attitude towards the caster; a standard reaction roll should be made to determine this. Furthermore, more intelligent animals are likely to be terse and evasive, while less intelligent ones make inane comments. However, if an animal is friendly toward the caster, it may be willing to grant some favor or service.
 
 
 ### Speak with Plants	Range:	30'
 
 Divine 4	Duration:	3 turns
 
-The caster can comprehend and communicate with both normal plants and plant creatures. A normal plant’s sense of its surroundings is limited, so it won’t be able to give (or recognize) detailed descriptions of creatures or answer questions about events outside its immediate vicinity. The spell doesn’t alter the plant’s reaction or attitude towards the caster; however, normal plants will generally communicate freely with the caster, as they have nothing else of importance to do. Intelligent plant creatures are more likely to be terse and evasive, behaving in much the same fashion as any other monster. If a plant creature is friendly toward the caster, it may decide to do some favor or service for him. Normal plants are usually not animate, and thus cannot generally perform “services” other than to answer questions.
+The caster can comprehend and communicate with both normal plants and plant creatures. A normal plant's sense of its surroundings is limited, so it won't be able to give (or recognize) detailed descriptions of creatures or answer questions about events outside its immediate vicinity. The spell doesn't alter the plant's reaction or attitude towards the caster; however, normal plants will generally communicate freely with the caster, as they have nothing else of importance to do. Intelligent plant creatures are more likely to be terse and evasive, behaving in much the same fashion as any other monster. If a plant creature is friendly toward the caster, it may decide to do some favor or service for him. Normal plants are usually not animate, and thus cannot generally perform "services" other than to answer questions.
 
 
 ### Speak with Dead	Range:	10'
 
 Divine 3	Duration:	1 turn
 
-This spell grants the semblance of life and intellect to a corpse, allowing it to answer several questions that the caster puts to it. The caster may ask one question per two caster levels. Unasked questions are wasted if the duration expires. The corpse’s knowledge is limited to what the creature knew during life, including the languages it spoke (if any). Answers are often brief, cryptic, or repetitive.
+This spell grants the semblance of life and intellect to a corpse, allowing it to answer several questions that the caster puts to it. The caster may ask one question per two caster levels. Unasked questions are wasted if the duration expires. The corpse's knowledge is limited to what the creature knew during life, including the languages it spoke (if any). Answers are often brief, cryptic, or repetitive.
 
 If the corpse has been subject to speak with dead within the past week, the new spell fails. The caster can cast this spell on a corpse that has been deceased for any amount of time, but the body must be mostly intact to be able to respond. A damaged corpse may be able to give partial answers or partially correct answers, but it must at least have a mouth in order to speak at all.
 
-This spell does not let the caster actually speak to the creature’s soul. It instead draws on the imprinted knowledge “stored” in the corpse. The partially animated body retains the imprint of the soul that once inhabited it, and thus it can speak with all the knowledge that the creature had while alive. The corpse, however, cannot learn new information. Indeed, it won’t even remember being questioned.
+This spell does not let the caster actually speak to the creature's soul. It instead draws on the imprinted knowledge "stored" in the corpse. The partially animated body retains the imprint of the soul that once inhabited it, and thus it can speak with all the knowledge that the creature had while alive. The corpse, however, cannot learn new information. Indeed, it won't even remember being questioned.
 
 This spell does not affect a corpse that has been turned into an undead creature.
 
@@ -1448,85 +1448,85 @@ This spell does not affect a corpse that has been turned into an undead creature
 
 Divine 2	Duration:	1 round/level
 
-This spell causes a weapon made of pure force to spring into existence, attacking any foe chosen by the divine spellcaster within range once per round. It deals 1d6 points of damage per strike, +1 point per three caster levels (maximum of +4). It uses the caster’s normal attack throws, striking as a magical weapon, and thus can inflict damage upon creatures that are only hit by magic weapons. If the spiritual weapon goes beyond the spell range, the divine spellcaster loses sight of it, or the caster ceases to direct it, the weapon disappears. The weapon cannot be attacked or harmed by physical attacks, but dispel magic, disintegrate, or a rod of cancellation will dispel it. The spiritual weapon will be of a type appropriate to the cleric and his deity. 
+This spell causes a weapon made of pure force to spring into existence, attacking any foe chosen by the divine spellcaster within range once per round. It deals 1d6 points of damage per strike, +1 point per three caster levels (maximum of +4). It uses the caster's normal attack throws, striking as a magical weapon, and thus can inflict damage upon creatures that are only hit by magic weapons. If the spiritual weapon goes beyond the spell range, the divine spellcaster loses sight of it, or the caster ceases to direct it, the weapon disappears. The weapon cannot be attacked or harmed by physical attacks, but dispel magic, disintegrate, or a rod of cancellation will dispel it. The spiritual weapon will be of a type appropriate to the cleric and his deity. 
 
 
 ### Sticks to Snakes	Range:	120'
 
 Divine 4	Duration:	6 turns
 
-This spell transforms 2d8 normal wooden sticks into normal snakes per every four caster levels. (See the Monsters chapter for details on types of snakes.)  There is a 50% chance the snakes will be poisonous. The snakes follow the commands of the caster. When slain, dispelled, or the spell expires, the snakes return to their original stick form. Magical “sticks” such as enchanted staffs cannot be affected.
+This spell transforms 2d8 normal wooden sticks into normal snakes per every four caster levels. (See the Monsters chapter for details on types of snakes.)  There is a 50% chance the snakes will be poisonous. The snakes follow the commands of the caster. When slain, dispelled, or the spell expires, the snakes return to their original stick form. Magical "sticks" such as enchanted staffs cannot be affected.
 
 
 ### Strength of Mind*	Range:	touch
 
 Divine 5	Duration:	12 turns
 
-This spell gives a bonus of +4 to saving throws versus Death, Staffs, Wands, Paralysis, Petrification, and Spells to the creature touched. The reverse spell, weakness of mind, decreases the touched creature’s saving throws by -4; no saving throw is allowed against Weakness of Mind.
+This spell gives a bonus of +4 to saving throws versus Death, Staffs, Wands, Paralysis, Petrification, and Spells to the creature touched. The reverse spell, weakness of mind, decreases the touched creature's saving throws by -4; no saving throw is allowed against Weakness of Mind.
 
 
-### Striking	Range:	30’
+### Striking	Range:	30'
 
 Divine 3	Duration:	3 turns
 
 This spell bestows upon one weapon within range the ability to deal 1d6 points of additional damage. This extra damage is applied on each successful attack for the duration of the spell. It provides no bonus to attack throws, but if cast on a normal weapon, the spell allows monsters only hit by magical weapons to be affected; only the 1d6 points of magical damage applies to such a monster, however.
 
 
-### Sword of Fire	Range:	0’
+### Sword of Fire	Range:	0'
 
 Divine 5	Duration:	12 turns
 
-On casting this spell, a sword of fire appears in the divine spellcaster’s hand. The sword is magical and has bonuses to attack throws and damage rolls equal to the caster’s level divided by 3 (round up). The sword will set alight inflammable substances, and can harm undead and incorporeal creatures. The divine spellcaster can cause the sword to appear and disappear at will, enabling him to cast spells and carry out other activities.
+On casting this spell, a sword of fire appears in the divine spellcaster's hand. The sword is magical and has bonuses to attack throws and damage rolls equal to the caster's level divided by 3 (round up). The sword will set alight inflammable substances, and can harm undead and incorporeal creatures. The divine spellcaster can cause the sword to appear and disappear at will, enabling him to cast spells and carry out other activities.
 
 
-### Telekinesis	Range:	120’
+### Telekinesis	Range:	120'
 
 Arcane 5	Duration:	6 rounds
 
-This spell permits the caster to move objects or creatures within range by concentration alone. A creature or object weighing no more than 2 stone (20lb) per caster level can be moved up to 20’ per round. A creature can negate the effect on itself or an object it holds or has on its body with a successful save versus Spells. In order to use this power, the caster must maintain concentration, moving no more than half speed, making no attacks and casting no spells. If concentration is lost, whether intentional or not, the power may be used again on the next round, but the subject of the effect is allowed a new saving throw.
+This spell permits the caster to move objects or creatures within range by concentration alone. A creature or object weighing no more than 2 stone (20lb) per caster level can be moved up to 20' per round. A creature can negate the effect on itself or an object it holds or has on its body with a successful save versus Spells. In order to use this power, the caster must maintain concentration, moving no more than half speed, making no attacks and casting no spells. If concentration is lost, whether intentional or not, the power may be used again on the next round, but the subject of the effect is allowed a new saving throw.
 
 
 ### Teleport			Range:	touch
 
 Arcane 5			Duration: instantaneous
 
-This spell instantly transports the creature touched to a designated destination, which may be any distance. When the spell works properly, the transported creature, carrying up to its full encumbrance load, will arrive at “ground” level in a suitable open place. If transporting an unwilling target, it is entitled to resist with a saving throw versus Spells. The chance of the teleportation working correctly will depend on how familiar the caster is with the location and layout of the destination. The clearer the mental image, the more likely the teleportation works. To determine how well the teleportation works, roll d% and consult the table below. 
+This spell instantly transports the creature touched to a designated destination, which may be any distance. When the spell works properly, the transported creature, carrying up to its full encumbrance load, will arrive at "ground" level in a suitable open place. If transporting an unwilling target, it is entitled to resist with a saving throw versus Spells. The chance of the teleportation working correctly will depend on how familiar the caster is with the location and layout of the destination. The clearer the mental image, the more likely the teleportation works. To determine how well the teleportation works, roll d% and consult the table below. 
 
-A “very familiar” place is one the caster has been very often, such as his home or laboratory.  Places that are “studied carefully” include those known well, either because the caster can currently see it, he has been there often, or has used other means (such as scrying) to study the place for at least one hour.  Places that are “seen casually” are those that the caster has seen more than once but with which he is not very familiar. Places that are “’viewed once” include any that the caster has seen once.
+A "very familiar" place is one the caster has been very often, such as his home or laboratory.  Places that are "studied carefully" include those known well, either because the caster can currently see it, he has been there often, or has used other means (such as scrying) to study the place for at least one hour.  Places that are "seen casually" are those that the caster has seen more than once but with which he is not very familiar. Places that are "'viewed once" include any that the caster has seen once.
 
 
 ### Familiarity	    On Target	Off Target	Lost
 
-Very familiar	    01–95	96–99		00
+Very familiar	    01-95	96-99		00
 
-Studied carefully   01–80	81–90		91-00
+Studied carefully   01-80	81-90		91-00
 
-Seen casually	    01–50	51–75		76-00
+Seen casually	    01-50	51-75		76-00
 
-Viewed once	    01–30	31–65		66-00
-
-
-### A creature arriving “On Target” appears in the desired location. A creature arriving “Off Target” appears 1d10x10 feet away from the target in a random direction. Should this location already be occupied by solid matter, the creature is instantly killed; if this location is above the ground, the creature will take falling damage as it plummets to earth. A creature arriving “Lost” simply does not reappear at all. Whether such creatures are disintegrated, trapped forever in some unknown plane of existence, or transported to some distant time and place is a matter of debate among the wise. Note that the caster cannot intentionally teleport himself or another creature into thin air, off target, or into solid matter.
+Viewed once	    01-30	31-65		66-00
 
 
-### Tongues*	Range:	60’
+### A creature arriving "On Target" appears in the desired location. A creature arriving "Off Target" appears 1d10x10 feet away from the target in a random direction. Should this location already be occupied by solid matter, the creature is instantly killed; if this location is above the ground, the creature will take falling damage as it plummets to earth. A creature arriving "Lost" simply does not reappear at all. Whether such creatures are disintegrated, trapped forever in some unknown plane of existence, or transported to some distant time and place is a matter of debate among the wise. Note that the caster cannot intentionally teleport himself or another creature into thin air, off target, or into solid matter.
+
+
+### Tongues*	Range:	60'
 
 Divine 4	Duration:	1 turn
 
-This spell grants the divine spellcaster the ability to speak and understand the language of any intelligent creature within a 60’ radius around the caster.
+This spell grants the divine spellcaster the ability to speak and understand the language of any intelligent creature within a 60' radius around the caster.
 
-The reverse, garble, can be cast on any intelligent creature within 60’ of the caster. No saving throw is permitted. If the target is the beneficiary of a tongues spell, garble will negate the tongues spell; otherwise, garble will render the target unable to speak and understand the languages of other intelligent creatures. While unable to communicate with others, the target may still think clearly and understand his own words, so garble does not prevent the target from casting spells. Indeed, the target may not immediately realize he is under the effects of a garble – he may think something is wrong with the creatures around him who can’t understand what he’s saying. 
+The reverse, garble, can be cast on any intelligent creature within 60' of the caster. No saving throw is permitted. If the target is the beneficiary of a tongues spell, garble will negate the tongues spell; otherwise, garble will render the target unable to speak and understand the languages of other intelligent creatures. While unable to communicate with others, the target may still think clearly and understand his own words, so garble does not prevent the target from casting spells. Indeed, the target may not immediately realize he is under the effects of a garble - he may think something is wrong with the creatures around him who can't understand what he's saying. 
 
 
-### Transmute Rock to Mud*	Range:	120’
+### Transmute Rock to Mud*	Range:	120'
 
 Arcane 5	Duration:	3d6 days (permanent)
 
-This spell changes a volume of natural, uncut, unworked rock into an equal volume of mud. The volume transformed can be up to up to 3,000 square feet across and up to 10’ deep. Magical stone is not affected by the spell, nor are building, bridges, and other structures made of worked stone. 
+This spell changes a volume of natural, uncut, unworked rock into an equal volume of mud. The volume transformed can be up to up to 3,000 square feet across and up to 10' deep. Magical stone is not affected by the spell, nor are building, bridges, and other structures made of worked stone. 
 
 Transmute rock to mud is most commonly cast in preparation for a pitched battle to create fields of nearly impassable ground. Creatures entering the area of the mud become mired in the deep morass. Mired creatures are slowed to 1/10th their normal movement speed and suffer a -2 penalty to AC. 
 
-If the spell is cast underground on a cave’s rock ceiling, the mud immediately falls to the floor and spreads out in a pool, forming a mire (as above). The falling mud deals 8d6 points of damage to creatures in the area, half damage if they make a saving throw versus Blast. At the Judge’s discretion, transforming a large volume of ceiling rock in a cave can precipitate a wider cave-in as the area’s structural integrity becomes compromised. 
+If the spell is cast underground on a cave's rock ceiling, the mud immediately falls to the floor and spreads out in a pool, forming a mire (as above). The falling mud deals 8d6 points of damage to creatures in the area, half damage if they make a saving throw versus Blast. At the Judge's discretion, transforming a large volume of ceiling rock in a cave can precipitate a wider cave-in as the area's structural integrity becomes compromised. 
 
 Mud created by this spell remains such until the duration expires or the reverse of this spell (transmute mud to rock) restores the rock to its original substance. The volume transformed by the reversed version is identical, but the duration of the transmutation is permanent. When mud becomes rock, the shape of the area may be different, as the mud may have moved or shifted.
 
@@ -1535,9 +1535,9 @@ Mud created by this spell remains such until the duration expires or the reverse
 
 Divine 5	Duration:	1 turn plus 1 round per level
 
-This spell confers on the subject the ability to see all things as they actually are. The subject sees through normal and magical darkness, notices secret doors, sees the exact locations of displaced creatures or objects, sees through normal or magical disguises, sees invisible creatures or objects normally, sees through illusions, and sees the true form of polymorphed, changed, or transmuted things. The range of true seeing conferred is 120’.
+This spell confers on the subject the ability to see all things as they actually are. The subject sees through normal and magical darkness, notices secret doors, sees the exact locations of displaced creatures or objects, sees through normal or magical disguises, sees invisible creatures or objects normally, sees through illusions, and sees the true form of polymorphed, changed, or transmuted things. The range of true seeing conferred is 120'.
 
-True seeing, however, does not penetrate solid objects. It in no way confers X-ray vision or its equivalent. It does not negate concealment, including that caused by fog and the like. In addition, the spell’s effects cannot be further enhanced with known magic, so one cannot use true seeing through a crystal ball or in conjunction with clairvoyance.
+True seeing, however, does not penetrate solid objects. It in no way confers X-ray vision or its equivalent. It does not negate concealment, including that caused by fog and the like. In addition, the spell's effects cannot be further enhanced with known magic, so one cannot use true seeing through a crystal ball or in conjunction with clairvoyance.
 
 
 ### Ventriloquism	Range:	60'
@@ -1568,27 +1568,27 @@ Arcane 4	Duration:	2 turns
 An immobile, translucent, wall of ice springs into existence for the duration of the spell. The wall can be as large as 1,200 square feet, and may be shaped in any manner and to any dimensions the caster desires, so that it can be a straight wall or curved into a protective circle. This wall of ice is impenetrable to monsters with fewer than 4 HD. Monsters with more than 4 HD suffer 1d6 hit points of damage when they break through the wall. The wall deals double damage to creatures that use fire or are accustomed to hot conditions. The wall may not be evoked so that it appears where objects or creatures already are, and it must rest on a solid surface.
 
 
-### Wall of Iron	Range:	60’
+### Wall of Iron	Range:	60'
 
 Arcane 6	Duration:	permanent
 
-This spell causes a flat, vertical iron wall to spring into being. The wall is normally 1” thick and can be as large as 1,000 square feet. The wall can be made thicker than 1” with a proportionate reduction in area, but cannot be made less than 1” thick. If the caster so desires, the wall can bond itself to any surrounding nonliving material if its area is sufficient to do so. The wall cannot be conjured so that it appears where objects or creatures already are. The wall must always be a flat plane, though the edges can be shaped to fit the available space, and it must always be conjured in contact with the ground.
+This spell causes a flat, vertical iron wall to spring into being. The wall is normally 1" thick and can be as large as 1,000 square feet. The wall can be made thicker than 1" with a proportionate reduction in area, but cannot be made less than 1" thick. If the caster so desires, the wall can bond itself to any surrounding nonliving material if its area is sufficient to do so. The wall cannot be conjured so that it appears where objects or creatures already are. The wall must always be a flat plane, though the edges can be shaped to fit the available space, and it must always be conjured in contact with the ground.
 
 The caster can create the wall vertically resting on a flat surface but not attached to the surface, so that it can be tipped over to fall on and crush creatures beneath it. The wall is 50% likely to tip in either direction if left un-pushed. Creatures can push the wall in one direction rather than letting it fall randomly. Pushing the wall in one direction requires a successful Open Doors proficiency throw. Creatures with room to flee a falling wall can do so with a successful save versus Blast. Creatures of ogre size or smaller that fail the save take 10d6 points of damage. The wall cannot crush larger creatures.
 
 This wall is permanent unless otherwise destroyed or dispel magic spell is cast upon it. Like any iron wall, it is subject to rust, perforation, and other natural phenomena. 
 
 
-### Wall of Stone	Range:	60’
+### Wall of Stone	Range:	60'
 
 Arcane 5	Duration:	permanent
 
 The caster brings a stone wall into being that can be any form the caster desires, to a maximum of 1,000 cubic feet. This wall is permanent unless otherwise destroyed or dispelled with dispel magic. The wall may not be evoked so that it appears where objects or creatures already are, and it must rest on a solid surface.
 
-The caster can create a wall of stone in almost any shape he desires. The wall created need not be vertical, nor rest upon any firm foundation; however, it must merge with and be solidly supported by existing stone. It can be used to bridge a chasm, for instance, or as a ramp. For this use, if the span is more than 20’, the wall must be arched and buttressed. This requirement reduces the spell’s area by half. The wall can be crudely shaped to allow crenellations, battlements, and so forth by likewise reducing the area. 
+The caster can create a wall of stone in almost any shape he desires. The wall created need not be vertical, nor rest upon any firm foundation; however, it must merge with and be solidly supported by existing stone. It can be used to bridge a chasm, for instance, or as a ramp. For this use, if the span is more than 20', the wall must be arched and buttressed. This requirement reduces the spell's area by half. The wall can be crudely shaped to allow crenellations, battlements, and so forth by likewise reducing the area. 
 
 
-### Water Breathing	Range:	30’
+### Water Breathing	Range:	30'
 
 Arcane 3	Duration:	1 day
 
@@ -1599,9 +1599,9 @@ This spell allows the affected creature to breathe underwater, at any depth. It 
 
 Arcane 2	Duration:	48 turns
 
-This spell creates a many-layered mass of strong, sticky strands covering an area 10’ x 10’ x 10’. Creatures caught within a web become entangled among the gluey fibers. Attacking a creature in a web does not cause the attacker to become entangled, but moving through the affected area will.
+This spell creates a many-layered mass of strong, sticky strands covering an area 10' x 10' x 10'. Creatures caught within a web become entangled among the gluey fibers. Attacking a creature in a web does not cause the attacker to become entangled, but moving through the affected area will.
 
-Entangled creatures can’t move, but can break loose depending on their strength. Creatures of normal human strength or less will take 2d4 turns to break through the web. Strong humans (with ability scores 13-17) can break through the web in 1 turn. Creatures as strong as or stronger than ogres (18 Strength) can break free of a web in 4 rounds. Giants or creatures of similar great strength can break through the web in 2 rounds. 
+Entangled creatures can't move, but can break loose depending on their strength. Creatures of normal human strength or less will take 2d4 turns to break through the web. Strong humans (with ability scores 13-17) can break through the web in 1 turn. Creatures as strong as or stronger than ogres (18 Strength) can break free of a web in 4 rounds. Giants or creatures of similar great strength can break through the web in 2 rounds. 
 
 The strands of a web spell are flammable. All creatures within flaming webs take 1d6 points of fire damage from the flames for 2 rounds, after which surviving creatures become free.
 
@@ -1610,7 +1610,7 @@ The strands of a web spell are flammable. All creatures within flaming webs take
 
 Arcane 4	Duration:	6 turns
 
-With this spell the caster creates an invisible magical “eye” through which he can see. The eye has infravision, but otherwise sees exactly as the caster would (including being able to detect magic, see invisible or detect evil if those spells are in effect on the caster). It can be created in any place the caster can see, up to a range of 240' away, and thereafter can move at a rate of 40' per round as directed by the caster. The eye will not move more than 240' away from the caster under any circumstances. The eye cannot pass through solid objects, but as it is exactly the size of a normal human's eye, it can pass through holes as small as 1” in diameter. The caster must concentrate to use the eye.
+With this spell the caster creates an invisible magical "eye" through which he can see. The eye has infravision, but otherwise sees exactly as the caster would (including being able to detect magic, see invisible or detect evil if those spells are in effect on the caster). It can be created in any place the caster can see, up to a range of 240' away, and thereafter can move at a rate of 40' per round as directed by the caster. The eye will not move more than 240' away from the caster under any circumstances. The eye cannot pass through solid objects, but as it is exactly the size of a normal human's eye, it can pass through holes as small as 1" in diameter. The caster must concentrate to use the eye.
 
 
 ### Wizard Lock	Range:	10'

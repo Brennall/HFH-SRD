@@ -42,25 +42,25 @@
 
 Up until 4th level, spellcasters cannot engage in magic research except by serving as assistants for more powerful casters (as described later). Starting at 5th level, spellcasters may begin to independently research spells, scribe scrolls, and brew potions. When a spellcaster reaches 9th level, he is able to create more powerful magic items such as weapons, rings, and staffs. At 11th level, spellcasters may learn and cast ritual spells of great power and craft magical constructs such as golems and animated statues. If chaotic, the spellcaster will be able to create necromantic servants and even become undead himself. These options are described in detail below.
 
-All magical research requires a magic research throw to succeed. A result that is greater than or equal to the magical research target value listed for the spellcaster’s level indicates the task has been a success. The spellcaster adds his Intelligence bonus to the die roll, and if he has the Magical Engineering proficiency he may add his proficiency rank. An unmodified die roll of 1-3 is always a failure when conducting magical research, however.
+All magical research requires a magic research throw to succeed. A result that is greater than or equal to the magical research target value listed for the spellcaster's level indicates the task has been a success. The spellcaster adds his Intelligence bonus to the die roll, and if he has the Magical Engineering proficiency he may add his proficiency rank. An unmodified die roll of 1-3 is always a failure when conducting magical research, however.
 
 When a magic research throw fails, the time and money spent on the research is lost. In addition, any precious materials or special components (described below) are consumed. 
 
 
 ### Researching Spells
 
-A spellcaster of 5th level or higher may use spell research to gain access to spells that he does not have access to from scrolls,  spell books, or (if a divine spellcaster) his deity. Spell research costs 1,000gp, and takes two weeks of research, per level of the spell. Spell research requires a magic research throw. The target value for this throw is increased by ½ the level of the spell, rounded down, being researched. EXAMPLE: Quintus is an 11th level mage researching a 4th level spell. It will take 8 weeks and cost 4,000gp, and require a magic research throw of 8+ to succeed.
+A spellcaster of 5th level or higher may use spell research to gain access to spells that he does not have access to from scrolls,  spell books, or (if a divine spellcaster) his deity. Spell research costs 1,000gp, and takes two weeks of research, per level of the spell. Spell research requires a magic research throw. The target value for this throw is increased by  1/2  the level of the spell, rounded down, being researched. EXAMPLE: Quintus is an 11th level mage researching a 4th level spell. It will take 8 weeks and cost 4,000gp, and require a magic research throw of 8+ to succeed.
 
-A spellcaster may also use spell research to create a new spell. The spellcaster must describe in detail the kind of spell he wants to create, and the effects it will have. The Judge will then determine if the spell can be created, and if so what the spell level will be. The spellcaster must be capable of casting spells of the spell level the potential new spell will be; otherwise he must wait until he attains a high enough level to research and cast the spell. When throwing to create a new spell, the target value is increased by the level of the spell rather than ½ the level.  
+A spellcaster may also use spell research to create a new spell. The spellcaster must describe in detail the kind of spell he wants to create, and the effects it will have. The Judge will then determine if the spell can be created, and if so what the spell level will be. The spellcaster must be capable of casting spells of the spell level the potential new spell will be; otherwise he must wait until he attains a high enough level to research and cast the spell. When throwing to create a new spell, the target value is increased by the level of the spell rather than  1/2  the level.  
 
 Spell research can also identify the properties of a magic item. It takes 1,000gp and two weeks of research to identify a magic item, and a magic research throw is required. Note that potions and common magic items can be quickly identified with the Alchemy and Magical Engineering proficiencies, described in Chapter 4.
 
-A mage or other arcane caster can only research a spell if he can still learn spells of that level. A cleric or other divine caster can only research a spell with the permission of his deity (Judge’s discretion). The deity will usually remove a spell of the same level from the cleric’s spell list in exchange for granting the new spell. 
+A mage or other arcane caster can only research a spell if he can still learn spells of that level. A cleric or other divine caster can only research a spell with the permission of his deity (Judge's discretion). The deity will usually remove a spell of the same level from the cleric's spell list in exchange for granting the new spell. 
 
 
 ### Libraries
 
-To research a spell, a spellcaster must have access to a library. Wizard’s guilds and major temples often will provide their mages and clerics access to such a library.  If a spellcaster wishes to compile his own library, a minimum of 4,000gp must be invested to allow research on 1st level spells. For each subsequent spell level to be researched, another 2,000gp must be invested. Having an exceptionally large library aids research. For every 10,000gp of value above the minimum required for the spell, the spellcaster receives a +1 bonus on his magic research throw (up to a maximum +3 bonus).  
+To research a spell, a spellcaster must have access to a library. Wizard's guilds and major temples often will provide their mages and clerics access to such a library.  If a spellcaster wishes to compile his own library, a minimum of 4,000gp must be invested to allow research on 1st level spells. For each subsequent spell level to be researched, another 2,000gp must be invested. Having an exceptionally large library aids research. For every 10,000gp of value above the minimum required for the spell, the spellcaster receives a +1 bonus on his magic research throw (up to a maximum +3 bonus).  
 
 Every time a wizard successfully researches a spell, 10% of the gold spent for that effect is added to his library value, reflecting the value of notes and annotations made during research.  Authoritative tomes or rare books found as treasure might provide an additional bonus to research specific spells or types of spells.
 
@@ -69,7 +69,7 @@ Every time a wizard successfully researches a spell, 10% of the gold spent for t
 
 Starting at 5th level, spellcasters may begin to scribe scrolls and brew potions. At 9th level, they may begin to make other types of magic items, such as rods, rings, swords, and other items. An arcane spellcaster may never create magic items that are exclusive to divine spellcasters. A divine spellcaster may make any item his class is eligible to use. For instance, a 9th level bladedancer could create a sword +1, leather armor +1, or staff of healing, but not a bow +1 or wand of illusion.
 
-In order to create a magic item, the spellcaster must know the spell(s) that replicate the magic item’s effect, or must find a sample or formula of the item. If a magic item’s effect does not compare to any existing spell, the spellcaster must either research a new spell that will produce the desired effect, or he must find a sample or formula of the item.
+In order to create a magic item, the spellcaster must know the spell(s) that replicate the magic item's effect, or must find a sample or formula of the item. If a magic item's effect does not compare to any existing spell, the spellcaster must either research a new spell that will produce the desired effect, or he must find a sample or formula of the item.
 
 Cost and Time
 
@@ -121,7 +121,7 @@ Creating a magic item requires a magic research throw.  The target value for thi
 
 ### Formulas and Samples
 
-A formula is a magical “recipe” for the creation of an item. A spellcaster automatically has a formula for any magic item he has previously created. Formulas may also be found as treasure. A sample is simply an existing magic item that is available to the spellcaster while he is working.
+A formula is a magical "recipe" for the creation of an item. A spellcaster automatically has a formula for any magic item he has previously created. Formulas may also be found as treasure. A sample is simply an existing magic item that is available to the spellcaster while he is working.
 
 
 ### There are three advantages to having a formula or sample:
@@ -130,7 +130,7 @@ A formula is a magical “recipe” for the creation of an item. A spellcaster a
 
       It reduces the cost and time to make the item by 50%.
 
-      The target value for the magic research throw is only increased by ½ the level of the spell being imbued in the item, rather than the full level.
+      The target value for the magic research throw is only increased by  1/2  the level of the spell being imbued in the item, rather than the full level.
 
 
 ### Precious Materials
@@ -145,12 +145,12 @@ Creating magic items requires special components for each spell effect in the it
 
 ### Workshops
 
-Just as a spellcaster needs a library to research spells, he needs a workshop in order to create magic items. Wizard’s guilds and major temples often will provide their mages and clerics access to a workshop.  If a spellcaster wishes to build his own workshop, a minimum of 4,000gp must be invested to allow creation of 1st level spell effects or item bonuses. For each subsequent spell level or bonus, another 2,000gp must be invested. Having an exceptionally valuable workshop aids item creation. For every 10,000gp of value above the minimum required for the spell, the spellcaster receives a +1 bonus on his magic research throw (up to a maximum +3 bonus). 
+Just as a spellcaster needs a library to research spells, he needs a workshop in order to create magic items. Wizard's guilds and major temples often will provide their mages and clerics access to a workshop.  If a spellcaster wishes to build his own workshop, a minimum of 4,000gp must be invested to allow creation of 1st level spell effects or item bonuses. For each subsequent spell level or bonus, another 2,000gp must be invested. Having an exceptionally valuable workshop aids item creation. For every 10,000gp of value above the minimum required for the spell, the spellcaster receives a +1 bonus on his magic research throw (up to a maximum +3 bonus). 
 
 
 ### Assistants
 
-An assistant is a mage or other arcane spellcaster of at least 1st level that is under the employ of a 9th level or higher arcane spellcaster. 0th level characters with two ranks in Alchemy may function as assistants in the creation of potions. A spellcaster of 9th level or higher may supervise one assistant, plus an additional assistant for each point of his Intelligence bonus. Whenever the spellcaster works on item creation, each assistant can be assigned an additional magical item creation task. The assistant must have a formula or sample to work from. The assistant’s chance of successfully creating the item is based on the assistant’s level. Assistants enable a spellcaster to focus his attention on the most challenging magic item creation tasks, leaving less critical tasks to his apprentices and minions.
+An assistant is a mage or other arcane spellcaster of at least 1st level that is under the employ of a 9th level or higher arcane spellcaster. 0th level characters with two ranks in Alchemy may function as assistants in the creation of potions. A spellcaster of 9th level or higher may supervise one assistant, plus an additional assistant for each point of his Intelligence bonus. Whenever the spellcaster works on item creation, each assistant can be assigned an additional magical item creation task. The assistant must have a formula or sample to work from. The assistant's chance of successfully creating the item is based on the assistant's level. Assistants enable a spellcaster to focus his attention on the most challenging magic item creation tasks, leaving less critical tasks to his apprentices and minions.
 
 
 ### Sample Magic Item Time, Cost, and Components
@@ -184,7 +184,7 @@ Learning a ritual spell costs 1,000gp, and takes two weeks of research, per spel
 
 Casting a ritual spell costs 500gp, and takes one week, per spell level. Casting a ritual requires another magic research throw, with the target value for this throw increased by the level of the spell being cast. Casting a ritual requires a workshop, as described under Magic Item Creation, and the spellcaster can gain a bonus on his throw from using a valuable workshop. Casting a ritual spell also requires special components, as with magic items. The spellcaster learns the special components required when he learns to cast the ritual. By using precious materials, the spellcaster can gain a bonus on his magic research throw, as described above. 
 
-When a ritual spell is cast, the spellcaster may choose to have the ritual take effect immediately, or he may store the spell effect on a scroll or as a charge in a ring (like a ring of wishes). Storing the spell effect does not have an additional cost – the act of casting a ritual spell is identical to that of creating a single charge of a magic item with the spell effect.
+When a ritual spell is cast, the spellcaster may choose to have the ritual take effect immediately, or he may store the spell effect on a scroll or as a charge in a ring (like a ring of wishes). Storing the spell effect does not have an additional cost - the act of casting a ritual spell is identical to that of creating a single charge of a magic item with the spell effect.
 
 A short list of ritual spells is included below. The Judge could make available additional rituals spells from a variety of other compatible fantasy games or develop a list of ritual spells unique to his campaign.
 
@@ -210,7 +210,7 @@ Range:	      touch
 
 Duration:     permanent
 
-This spell functions like restore life and limb, except that upon completion of the spell, the creature is immediately restored to full hit points, vigor, and health, with no side effects or lingering exhaustion. The condition of the creature’s remains is not a factor. So long as some small portion of the creature’s body still exists, it can be resurrected. The creature can have been dead no longer than 10 years per caster level.
+This spell functions like restore life and limb, except that upon completion of the spell, the creature is immediately restored to full hit points, vigor, and health, with no side effects or lingering exhaustion. The condition of the creature's remains is not a factor. So long as some small portion of the creature's body still exists, it can be resurrected. The creature can have been dead no longer than 10 years per caster level.
 
 Destruction, the reverse of resurrection, causes the victim touched by the caster to die immediately and fall to dust with no saving throw. 
 
@@ -223,20 +223,20 @@ Range:	      touch
 
 Duration:     1 passage per 2 levels
 
-This spell creates an ethereal passage through wooden, plaster, or stone walls, but not other materials. This passage is 10’ deep with a 5’ diameter. The phase door is invisible and inaccessible to all creatures except the caster, and only the caster can use the passage. The caster disappears when entering the phase door and reappears when exiting. If the caster desires, he can take one other creature (human-sized or smaller) through the door. This counts as two uses of the door. The door does not allow light, sound, or spell effects through it, nor can it be seen through. A phase door is subject to dispel magic. If anyone is within the passage when it is dispelled, he is harmlessly ejected just as if he were inside a passwall effect.
+This spell creates an ethereal passage through wooden, plaster, or stone walls, but not other materials. This passage is 10' deep with a 5' diameter. The phase door is invisible and inaccessible to all creatures except the caster, and only the caster can use the passage. The caster disappears when entering the phase door and reappears when exiting. If the caster desires, he can take one other creature (human-sized or smaller) through the door. This counts as two uses of the door. The door does not allow light, sound, or spell effects through it, nor can it be seen through. A phase door is subject to dispel magic. If anyone is within the passage when it is dispelled, he is harmlessly ejected just as if he were inside a passwall effect.
 
 
 ### Permanency	
 
 Arcane Ritual 8	
 
-Range:	      10’
+Range:	      10'
 
 Duration:     permanent
 
 Using a permanency spell, the spellcaster can make permanent another arcane spell effect of lower level. Spells can be made permanent on creatures, items, or areas. Some spells commonly made permanent on creatures are detect magic, protection from evil, read languages, detect invisible, and fly. Some spells commonly made permanent on areas are light, magic mouth, phantasmal force, hallucinatory terrain, confusion, and cloudkill. 
 
-This is not an exclusive list, and other spells can also be made permanent. However, permanency cannot not make permanent any spell which has an "instantaneous" or "permanent" duration (such as dispel magic, fireball, or lightning bolt) and divine spells can only be made permanent with the permission of the deity (Judge’s discretion). The Judge can also declare that the permanency will not work with any other specific spell that may damage game balance. 
+This is not an exclusive list, and other spells can also be made permanent. However, permanency cannot not make permanent any spell which has an "instantaneous" or "permanent" duration (such as dispel magic, fireball, or lightning bolt) and divine spells can only be made permanent with the permission of the deity (Judge's discretion). The Judge can also declare that the permanency will not work with any other specific spell that may damage game balance. 
 
 An area can receive any number of permanency spells. An item can receive up to five permanency spells, at increasing risk. There is a cumulative 20% chance of failure for each permanency after the first, and if the permanence fails, it destroys the item completely. A creature can receive one permanency without risk. If the creature receives further permanency spells, it will begin to suffer side effects (roll on the Tampering with Mortality table). 
 
@@ -251,7 +251,7 @@ Range: 	      unlimited
 
 Duration:     see below
 
-Wish is the mightiest spell that can be cast. By simply speaking aloud, the caster can alter reality. This spell can accomplish any the effects of any other spell, or create comparable effects. Events can be reversed; the dead can be brought back to life; or an entire army might be healed of damage. An entire group could be teleported to any location with no chance of error. Unique powers or ability bonuses may be wished for at the Judge’s discretion, and these might be permanent or temporary depending on the scope of the request. Although another character may be wished dead, such an act disrupts balance and the wish may be fulfilled in a way that the character wished dead is unaffected. For instance, if a character is wished dead, the caster may be transported through time to a point where the victim has already died of natural causes. Wishes will be fulfilled according to the letter of the request, and the Judge can exercise some regulation of wishes based on this strict enforcement. Ultimately, the Judge will have to decide the limits of a wish spell.
+Wish is the mightiest spell that can be cast. By simply speaking aloud, the caster can alter reality. This spell can accomplish any the effects of any other spell, or create comparable effects. Events can be reversed; the dead can be brought back to life; or an entire army might be healed of damage. An entire group could be teleported to any location with no chance of error. Unique powers or ability bonuses may be wished for at the Judge's discretion, and these might be permanent or temporary depending on the scope of the request. Although another character may be wished dead, such an act disrupts balance and the wish may be fulfilled in a way that the character wished dead is unaffected. For instance, if a character is wished dead, the caster may be transported through time to a point where the victim has already died of natural causes. Wishes will be fulfilled according to the letter of the request, and the Judge can exercise some regulation of wishes based on this strict enforcement. Ultimately, the Judge will have to decide the limits of a wish spell.
 
 
 ### Constructs
@@ -272,7 +272,7 @@ To build a construct, the spellcaster must have access to a workshop (as above) 
 
 Spellcasters may design new, previously unknown constructs. Constructs must have a minimum of 1 HD. The spellcaster is limited to designing constructs with HD no more than twice his class level. 
 
-Constructs have a default Armor Class equal to ½ their Hit Dice. Most constructs are immune to poison, gas, charm, hold, and sleep spells. These collectively count as one special ability. The construct can be given additional immunities, such as immunity to non-magical weapons, with each extra immunity counting as another special ability. 
+Constructs have a default Armor Class equal to  1/2  their Hit Dice. Most constructs are immune to poison, gas, charm, hold, and sleep spells. These collectively count as one special ability. The construct can be given additional immunities, such as immunity to non-magical weapons, with each extra immunity counting as another special ability. 
 
 Constructs may have from one to four attacks per round. Their attacks may inflict up to three times their HD in maximum damage per round. This damage may be divided among all their attacks as desired. Any special attacks or powers count as special abilities. 
 
@@ -287,7 +287,7 @@ EXAMPLE: Quintus, an 11th level mage with 16 INT, is designing a golem.  He choo
 
 Arcane spellcasters who reach 11th level or higher may create crossbreeds by magically blending different progenitor creatures together. 
 
-The progenitor creatures must not have HD greater than the arcane spellcaster’s class level, and may not have more than one special ability plus one special ability per point of the spellcaster’s ability score bonus from Intelligence.  EXAMPLE: Quintus, an 11th level mage with 16 INT, can crossbreed from 11 HD progenitors with 3 special abilities each. 
+The progenitor creatures must not have HD greater than the arcane spellcaster's class level, and may not have more than one special ability plus one special ability per point of the spellcaster's ability score bonus from Intelligence.  EXAMPLE: Quintus, an 11th level mage with 16 INT, can crossbreed from 11 HD progenitors with 3 special abilities each. 
 
 The creator of a magical crossbreed will imbue it with various features and abilities drawn from their progenitors, as explained below.
 
@@ -305,7 +305,7 @@ Morale: A crossbreed has the better morale of the two progenitors.
 
 Special Abilities: A crossbreed may have the special abilities of one, both, or none of its progenitors. Each special ability makes the crossbreed more expensive and difficult to create, so the spellcaster may opt to drop some abilities. 
 
-Type: All crossbreeds are fantastic creatures. They may also be beastmen, enchanted creatures, giant humanoids, humanoids, oozes, or vermin, depending on their progenitors (Judge’s discretion). Whatever their type, crossbreeds heal naturally, and may reproduce with others of their breed. If they still closely resemble one of their progenitors, they may breed with them as well.
+Type: All crossbreeds are fantastic creatures. They may also be beastmen, enchanted creatures, giant humanoids, humanoids, oozes, or vermin, depending on their progenitors (Judge's discretion). Whatever their type, crossbreeds heal naturally, and may reproduce with others of their breed. If they still closely resemble one of their progenitors, they may breed with them as well.
 
 The spellcaster must decide on the form his crossbreed will take before beginning the actual process of creating the crossbreed.
 
@@ -316,12 +316,12 @@ The actual process of creating the crossbreed costs 2,000gp per Hit Die of the c
 
 Creating a crossbreed does not require any special components beyond the progenitor creatures themselves (which are killed in the process). However, the spellcaster must have access to a special crossbreeding laboratory at least equal in value to the cost of the crossbreed. For every 10,000gp of value above the minimum required for the crossbreed, the spellcaster receives a +1 bonus on his magic research throw. By using precious materials, the spellcaster can gain a bonus on his magic research throw, as described above. 
 
-A magical crossbreed is not automatically under the control of the caster. If the more intelligent progenitor was an intelligent and willing participant in the crossbreeding, the magical crossbreed will have the same relationship with the caster as the progenitor did. Otherwise, the Judge should make a reaction roll to determine the crossbreed’s reaction to the caster. If the crossbreed is unfriendly or hostile, the caster could try to tame, train, or charm it using specialists or spells; imprison it in his dungeon; or just unleash it onto the world.
+A magical crossbreed is not automatically under the control of the caster. If the more intelligent progenitor was an intelligent and willing participant in the crossbreeding, the magical crossbreed will have the same relationship with the caster as the progenitor did. Otherwise, the Judge should make a reaction roll to determine the crossbreed's reaction to the caster. If the crossbreed is unfriendly or hostile, the caster could try to tame, train, or charm it using specialists or spells; imprison it in his dungeon; or just unleash it onto the world.
 
 
 ### Necromancy
 
-Chaotic spellcasters who reach 11th level or higher may transform creatures into intelligent undead through the black arts of necromancy. The undead must not have HD greater than the spellcaster’s class level, and may not have more than one special ability plus one special ability per point of the spellcaster’s ability score bonus from Intelligence.  EXAMPLE: Quintus, an 11th level mage with 16 INT, can transform creatures into undead with up to 11 HD with 3 special abilities each. 
+Chaotic spellcasters who reach 11th level or higher may transform creatures into intelligent undead through the black arts of necromancy. The undead must not have HD greater than the spellcaster's class level, and may not have more than one special ability plus one special ability per point of the spellcaster's ability score bonus from Intelligence.  EXAMPLE: Quintus, an 11th level mage with 16 INT, can transform creatures into undead with up to 11 HD with 3 special abilities each. 
 
 
 ### Granting Unlife
@@ -332,9 +332,9 @@ Granting unlife requires a magic research throw. If the creature is willing, the
 
 To perform necromancy, a necromancer must have access to a private mortuary and embalming chamber at least equal in value to the cost of the necromancy. For every 10,000gp of value above the minimum required for the necromancy, the spellcaster receives a +1 bonus on his magic research throw. By using precious materials, the spellcaster can gain a bonus on his magic research throw, as described above. 
 
-Transforming a creature into an undead monster also requires special components. Components are usually organs or blood from one or more monsters with a total XP value equal to the cost of the research. If the undead has special abilities the creature providing the components must have at least as many special abilities. The Judge will determine the specific components based on the necromancy involved. If the undead has particular needs (a phylactery, coffin, etc.) these must also be provided. If a character doesn’t know the components at the outset of the necromancy, he learns them when the necromancy is 50% complete. 
+Transforming a creature into an undead monster also requires special components. Components are usually organs or blood from one or more monsters with a total XP value equal to the cost of the research. If the undead has special abilities the creature providing the components must have at least as many special abilities. The Judge will determine the specific components based on the necromancy involved. If the undead has particular needs (a phylactery, coffin, etc.) these must also be provided. If a character doesn't know the components at the outset of the necromancy, he learns them when the necromancy is 50% complete. 
 
-An undead monster created through necromancy is not automatically under the control of the caster. If the subject creature was a willing participant in the necromancy, it will retain its relationship with the caster when it becomes undead. Otherwise, the Judge should make a reaction roll to determine the undead monster’s reaction to the caster. If the undead monster is unfriendly or hostile, the caster could try to control it using spells, or imprison it in his dungeon, or simply unleash it onto the world.
+An undead monster created through necromancy is not automatically under the control of the caster. If the subject creature was a willing participant in the necromancy, it will retain its relationship with the caster when it becomes undead. Otherwise, the Judge should make a reaction roll to determine the undead monster's reaction to the caster. If the undead monster is unfriendly or hostile, the caster could try to control it using spells, or imprison it in his dungeon, or simply unleash it onto the world.
 
 
 ### Divine Power
@@ -347,14 +347,14 @@ Divine spellcasters such as clerics, bladedancers, and craftpriests, can draw on
    The gp value of divine power can be substituted for an equivalent value of precious materials used to create a magic item, perform a ritual spell, create a construct, or grant undeath.
 
 
-### Divine power can only be applied to magical research projects that are in furtherance of the goals of the divine spellcaster’s patron deity (Judge’s discretion). Divine power is ephemeral and cannot be stored. It is only accumulated while the divine spellcaster is actively working on an eligible magical research project, and must be spent during the project. Any divine power remaining when the magical research is finished is lost.
+### Divine power can only be applied to magical research projects that are in furtherance of the goals of the divine spellcaster's patron deity (Judge's discretion). Divine power is ephemeral and cannot be stored. It is only accumulated while the divine spellcaster is actively working on an eligible magical research project, and must be spent during the project. Any divine power remaining when the magical research is finished is lost.
 
 
 ### Congregations
 
 Lawful divine spellcasters earn divine power drawn by building congregations of faithful worshippers. Every fifty congregants earns the caster 10gp worth of divine power per week of faithful worship. 
 
-To qualify as congregants, characters must be of the same alignment as the divine spellcaster, worship his deity, and consider the divine spellcaster to be their spiritual advisor. A divine spellcaster’s party members, henchmen and followers may form the core of his congregants. Divine spellcasters can recruit additional congregants by performing charitable deeds, sending out missionaries, and constructing temples. Each month, calculate the value of the spellcaster’s proselytizing:
+To qualify as congregants, characters must be of the same alignment as the divine spellcaster, worship his deity, and consider the divine spellcaster to be their spiritual advisor. A divine spellcaster's party members, henchmen and followers may form the core of his congregants. Divine spellcasters can recruit additional congregants by performing charitable deeds, sending out missionaries, and constructing temples. Each month, calculate the value of the spellcaster's proselytizing:
 
 
 ###    The gp value of all spells charitably cast on behalf of peasants by the spellcaster or his henchmen or followers (using the costs for spells from the Spell Availability by Market table in the Hirelings, Henchmen, Mercenaries, and Specialists section);
@@ -370,9 +370,9 @@ EXAMPLE: Balbus, a 4th level cleric, seeks congregants in the village he and his
 
 Once acquired, the divine spellcaster must maintain the congregation or they will begin to lose faith. The monthly cost of maintaining a congregation is 1gp per congregant. If this amount is not paid, the divine spellcaster loses 1d10 congregants per 1,000. On a die roll of 10, roll again and add the result to total lost (repeating the process if a subsequent 10 is rolled.) This represents counter-missionary work, abandonment of faith, or other spiritual challenges. 
 
-More powerful divine spellcasters can amass congregants by assuming rulership of a domain, or becoming the spiritual advisor of a domain ruler. A ruler can simply command his subjects to worship his god, creating vast congregations within his domain. Of course, not every subject in a domain will faithfully worship on command – the domain’s morale will make a large difference. The Domain Worship table lists the value of spiritual essence a ruler can extract from the peasant families in his domain. This amount is always less than the full 10gp per fifty congregants, as no domain will be 100% faithful to the character’s god. 
+More powerful divine spellcasters can amass congregants by assuming rulership of a domain, or becoming the spiritual advisor of a domain ruler. A ruler can simply command his subjects to worship his god, creating vast congregations within his domain. Of course, not every subject in a domain will faithfully worship on command - the domain's morale will make a large difference. The Domain Worship table lists the value of spiritual essence a ruler can extract from the peasant families in his domain. This amount is always less than the full 10gp per fifty congregants, as no domain will be 100% faithful to the character's god. 
 
-EXAMPLE: Balbus, now a 9th level Cleric, rules Ammantavus, a domain of 2,500 peasant families (12,500 people) with a domain morale score of 0. Each week, Balbus gains 4gp worth of spiritual essence per 10 families (50 people), or 1,000gp value total, from his domain. If Balbus’s subjects were more loyal to him, he could gain much more spiritual essence from his domain. 
+EXAMPLE: Balbus, now a 9th level Cleric, rules Ammantavus, a domain of 2,500 peasant families (12,500 people) with a domain morale score of 0. Each week, Balbus gains 4gp worth of spiritual essence per 10 families (50 people), or 1,000gp value total, from his domain. If Balbus's subjects were more loyal to him, he could gain much more spiritual essence from his domain. 
 
 To become the spiritual advisor of a domain ruler, the divine spellcaster will generally have to be the highest level divine spellcaster with whom the ruler has Friendly relations (as per the Monster Reaction table). 
 
@@ -408,12 +408,12 @@ While chaotic divine spellcasters may earn divine power from gaining congregants
 
 A spellcaster can conduct no more than one blood sacrifice per class level per day. Conducting a blood sacrifice must be performed in a chaotic temple, graveyard, or other sinkhole of evil (see Chapter 10, Secrets, for additional rules on sinkholes of evil). Each blood sacrifice takes one turn and requires a magical research throw. If the magical research throw succeeds, the chaotic divine spellcaster earns divine power equal to the XP value of the creature sacrificed. Sacrificing unwilling chaotic creatures provides no divine power, as the dark gods see little merit in the slaughter of their own worshippers. The sacrifice of a willing chaotic creature does earn divine power, however.
 
-EXAMPLE: Mentu the Death Priest, a 12th level chaotic cleric, is sacrificing a beautiful white unicorn to his patron deity, the Doombringer. If Mentu succeeds on his magical research throw of 5+, he will earn divine power equal to the unicorn’s XP value (135xp). Unfortunately, he rolls a 2 and the unicorn’s spirit escapes to a holier place. In a rage, Mentu sacrifices the 8 orcs who had captured the unicorn. As these are unwilling chaotic sacrifices, he gains no value from doing so (apart from sating his blood lust!).  
+EXAMPLE: Mentu the Death Priest, a 12th level chaotic cleric, is sacrificing a beautiful white unicorn to his patron deity, the Doombringer. If Mentu succeeds on his magical research throw of 5+, he will earn divine power equal to the unicorn's XP value (135xp). Unfortunately, he rolls a 2 and the unicorn's spirit escapes to a holier place. In a rage, Mentu sacrifices the 8 orcs who had captured the unicorn. As these are unwilling chaotic sacrifices, he gains no value from doing so (apart from sating his blood lust!).  
 
 
 ### Strongholds and Domains
 
-At particular milestones in their career, adventurers can begin to attract followers by establishing a stronghold. The type of stronghold, the level required, and the number and type of followers attracted is defined by the character’s class. The Strongholds by Class table summarizes the different possibilities.
+At particular milestones in their career, adventurers can begin to attract followers by establishing a stronghold. The type of stronghold, the level required, and the number and type of followers attracted is defined by the character's class. The Strongholds by Class table summarizes the different possibilities.
 
 
 ### Strongholds by Class
@@ -451,14 +451,14 @@ To establish a stronghold, the adventurer must first secure an area of land, kno
 
 Domains of land are classified as either civilized, borderlands, or wilderness areas. A newly secured domain will be civilized if it is with 50 miles (8 6-mile hexes) of a city or large town. A newly secured domain will be borderlands if it is within 25 miles (4 6-mile hexes) of civilized areas. All other newly secured domains are wilderness. Explorers must have borderlands or wilderness domains. Fastnesses and vaults may only be built in wilderness areas, or civilized or borderlands areas of their race.
 
-If the adventurer is securing a civilized domain, the adventurer will need to get a land grant from the local ruler (usually in exchange for a pledge of fealty or the performance of some great quest). If the character simply wishes to buy civilized land, he will find it very expensive; an acre of good land costs about 50gp, so a 1-mile domain containing 640 acres would cost 32,000gp and a 32-square mile hex containing 19,200 acres would cost 1,216,000gp. (There’s a reason land was synonymous with wealth throughout human history). For this reason, most adventurers will secure unclaimed borderland or wilderness domains. This requires entering the area with other adventurers or mercenaries, and dealing with any lairs and wandering monsters present there. The larger the domain, the more challenging to clear it.
+If the adventurer is securing a civilized domain, the adventurer will need to get a land grant from the local ruler (usually in exchange for a pledge of fealty or the performance of some great quest). If the character simply wishes to buy civilized land, he will find it very expensive; an acre of good land costs about 50gp, so a 1-mile domain containing 640 acres would cost 32,000gp and a 32-square mile hex containing 19,200 acres would cost 1,216,000gp. (There's a reason land was synonymous with wealth throughout human history). For this reason, most adventurers will secure unclaimed borderland or wilderness domains. This requires entering the area with other adventurers or mercenaries, and dealing with any lairs and wandering monsters present there. The larger the domain, the more challenging to clear it.
 
-When the domain is first secured, roll 3d3. The total rolled should be noted as the domain’s land revenue in gp per peasant family per month. Not all land is equally valuable. High land revenue means the domain is rich in farm produce, timber, furs, stone, or even minerals. Low land revenue represents barren, infertile soil with limited natural resources. The Judge and player can determine the exact reason for the land’s value (or lack thereof) based on the roll. 
+When the domain is first secured, roll 3d3. The total rolled should be noted as the domain's land revenue in gp per peasant family per month. Not all land is equally valuable. High land revenue means the domain is rich in farm produce, timber, furs, stone, or even minerals. Low land revenue represents barren, infertile soil with limited natural resources. The Judge and player can determine the exact reason for the land's value (or lack thereof) based on the roll. 
 
 
 ### Establishing the Stronghold
 
-The adventurer must now decide whether or not he wishes to establish a stronghold on the domain he has secured. If the domain’s land revenue is very low, the adventurer may decide not to proceed, and instead work to secure a different domain. If the adventurer does wish to establish a stronghold, he can do so by claiming an existing stronghold or by constructing a new one. If there is an existing structure that’s suitable for use as a stronghold on the domain, this structure can be claimed. This structure might be a castle granted with the land, or a tunnel complex cleared of its prior inhabitants in the process of securing the domain, and so on. Normally, however, the adventurer will need to construct his own stronghold on his newly secured land. The player should design a plan for the stronghold and calculate the costs based on the prices listed in the next section. 
+The adventurer must now decide whether or not he wishes to establish a stronghold on the domain he has secured. If the domain's land revenue is very low, the adventurer may decide not to proceed, and instead work to secure a different domain. If the adventurer does wish to establish a stronghold, he can do so by claiming an existing stronghold or by constructing a new one. If there is an existing structure that's suitable for use as a stronghold on the domain, this structure can be claimed. This structure might be a castle granted with the land, or a tunnel complex cleared of its prior inhabitants in the process of securing the domain, and so on. Normally, however, the adventurer will need to construct his own stronghold on his newly secured land. The player should design a plan for the stronghold and calculate the costs based on the prices listed in the next section. 
 
 The stronghold and any freestanding buildings in or around the stronghold can be built using the following tables. 
 
@@ -467,63 +467,63 @@ The stronghold and any freestanding buildings in or around the stronghold can be
 
 Barbican (gatehouse, 2 small towers, and a drawbridge)					38,000gp
 
-Battlement (100’ long, crenellated parapets) 						500gp
+Battlement (100' long, crenellated parapets) 						500gp
 
-Building, stone (20’ high, 30’ square, wood doors, floors, roof, stairs)*		3,000gp
+Building, stone (20' high, 30' square, wood doors, floors, roof, stairs)*		3,000gp
 
-Building, wood (20’ high, 30’ square, wood doors, floors, roof, stairs)*		1,500gp
+Building, wood (20' high, 30' square, wood doors, floors, roof, stairs)*		1,500gp
 
-Corridor, dungeon (10’x10’x10’, hewn stone walls, flagstone floor)			500gp
+Corridor, dungeon (10'x10'x10', hewn stone walls, flagstone floor)			500gp
 
-Drawbridge, wood (10’ x 20’)								250gp
+Drawbridge, wood (10' x 20')								250gp
 
-Gatehouse (20’ high, 30’ x 20’, metal portcullis, wood doors, floors, stairs)		6,500gp
+Gatehouse (20' high, 30' x 20', metal portcullis, wood doors, floors, stairs)		6,500gp
 
-Keep, square (80’ high, 60’ square, wood doors, floors, stairs)*			75,000gp
+Keep, square (80' high, 60' square, wood doors, floors, stairs)*			75,000gp
 
-Moat, unfilled (100’ x 20’ x 10’ deep)*							400gp
+Moat, unfilled (100' x 20' x 10' deep)*							400gp
 
-Moat, filled (100’ x 20’ x 10’ deep)*							800gp
+Moat, filled (100' x 20' x 10' deep)*							800gp
 
-Palisade, wood (10’ high, 100’ long, 1’ thick)						125gp
+Palisade, wood (10' high, 100' long, 1' thick)						125gp
 
-Rampart, earthen (10’ high, 100’ long, 15’ thick)					2,500gp
+Rampart, earthen (10' high, 100' long, 15' thick)					2,500gp
 
-Tower, small round (30’ high, 20’ diameter, wood doors, floors, stairs)			15,000gp
+Tower, small round (30' high, 20' diameter, wood doors, floors, stairs)			15,000gp
 
-Tower, medium round (40’ high, 20’ diameter, wood doors, floors, stairs)		22,500gp
+Tower, medium round (40' high, 20' diameter, wood doors, floors, stairs)		22,500gp
 
-Tower, large round (40’ high, 30’ diameter, wood doors, floors, roof, stairs)		30,000gp
+Tower, large round (40' high, 30' diameter, wood doors, floors, roof, stairs)		30,000gp
 
-Tower, huge round (60’ high, 30’ diameter, wood doors, floors, roof, stairs)		54,000gp
+Tower, huge round (60' high, 30' diameter, wood doors, floors, roof, stairs)		54,000gp
 
-Wall, stone castle (20’ high, 100’ long, 10’ thick)    	       	     			5,000gp
+Wall, stone castle (20' high, 100' long, 10' thick)    	       	     			5,000gp
 
-Wall, stone castle (30’ high, 100’ long, 10’ thick)					7,500gp
+Wall, stone castle (30' high, 100' long, 10' thick)					7,500gp
 
-Wall, stone castle (40’ high, 100’ long, 10’ thick)					12,500gp
+Wall, stone castle (40' high, 100' long, 10' thick)					12,500gp
 
-Wall, stone castle (50’ high, 100’ long, 10’ thick)					17,500gp
+Wall, stone castle (50' high, 100' long, 10' thick)					17,500gp
 
-Wall, stone castle (60’ high, 100’ long, 10’ thick)					22,500gp
+Wall, stone castle (60' high, 100' long, 10' thick)					22,500gp
 *The dimensions of these constructions can be altered as long as the square footage remains the same.
 
 
 ### Civilian Structure Costs
 
-Cottage, wood (20’ high, 30’ square, thatched roof, wood stairs, earthen floor)*	300gp
+Cottage, wood (20' high, 30' square, thatched roof, wood stairs, earthen floor)*	300gp
 
-Hut, pit  (8’ high, 8’ square, thatched roof, sunken earthen floor)*	 		15gp
+Hut, pit  (8' high, 8' square, thatched roof, sunken earthen floor)*	 		15gp
 
-Hut, sod or wattle (10’ high, 10’ square, thatched roof, earthen floor)*		25gp
+Hut, sod or wattle (10' high, 10' square, thatched roof, earthen floor)*		25gp
 
-Hut, mudbrick or wood (10’ high, 10’ square, thatched roof, earthen floor)*		50gp
+Hut, mudbrick or wood (10' high, 10' square, thatched roof, earthen floor)*		50gp
 
-Longhouse, wood (15’ high, 30’ long, 15’ wide, thatched roof, earthen floor)*		300gp
+Longhouse, wood (15' high, 30' long, 15' wide, thatched roof, earthen floor)*		300gp
 
-Roundhouse, wood (15’ high, 15’ diameter, thatched roof, earthen floor)*		125gp
+Roundhouse, wood (15' high, 15' diameter, thatched roof, earthen floor)*		125gp
 
-Townhouse, stone (20’ high, 30’ square, thatched roof, wood floor and stairs)*		1,200gp
+Townhouse, stone (20' high, 30' square, thatched roof, wood floor and stairs)*		1,200gp
 *The dimensions of these constructions can be altered as long as the square footage remains the same.
 
 
@@ -531,29 +531,29 @@ Townhouse, stone (20’ high, 30’ square, thatched roof, wood floor and stairs
 
 Arrow Slit/Window**				10gp
 
-Door, wood (3’ x 7’)**				10gp
+Door, wood (3' x 7')**				10gp
 
-Door, reinforced wood (3’ x 7’)**		20gp
+Door, reinforced wood (3' x 7')**		20gp
 
-Door, iron/stone (3’ x 7’)**			50gp
+Door, iron/stone (3' x 7')**			50gp
 
-Door, secret (3’ x 7’)**			By material x5
+Door, secret (3' x 7')**			By material x5
 
-Floor/Roof, flagstone or tile (10’ x 10’)**	40gp
+Floor/Roof, flagstone or tile (10' x 10')**	40gp
 
-Floor/Roof, wood (10’ x 10’)**	     		10gp
+Floor/Roof, wood (10' x 10')**	     		10gp
 
 Shutters (window)**   				5gp
 
-Shifting Wall (10’ x 10’)**			1000gp
+Shifting Wall (10' x 10')**			1000gp
 
-Stairs, wood (one flight, 3’ x 10’)**		20gp
+Stairs, wood (one flight, 3' x 10')**		20gp
 
-Stairs, stone (one flight, 3’ x 10’)**		60gp
-**Upgrade a structure to include these at time of construction for 25% of the accessories’ base cost
+Stairs, stone (one flight, 3' x 10')**		60gp
+**Upgrade a structure to include these at time of construction for 25% of the accessories' base cost
 
 
-### When drawing up plans for a stronghold, note that different kinds of structures will have different thicknesses of stone. Most buildings have walls 1-2’ feet thick, while towers and similar outposts have 5’ thick walls. Keeps have the thickest walls of all, at 10’ thick.
+### When drawing up plans for a stronghold, note that different kinds of structures will have different thicknesses of stone. Most buildings have walls 1-2' feet thick, while towers and similar outposts have 5' thick walls. Keeps have the thickest walls of all, at 10' thick.
 
 In addition to the building costs, the adventurer will need to hire at least one engineer (250gp/month) per 100,000gp cost of the stronghold.  The time required to construct a stronghold depends entirely on its total price. For every 500gp it will take one day of game time. The construction time can be reduced by 25% by paying 50% additional construction costs, or reduced by 50% by paying 100% additional construction costs. The construct time cannot be reduced by more than 50%. 
 
@@ -562,9 +562,9 @@ Strongholds have a minimum cost, based on the size and classification of the dom
 
 ### Attracting Peasants and Followers
 
-While the adventurer’s stronghold is under construction, the domain around his stronghold will slowly become settled by the workers and their families. In addition, peasants and laborers seeking the adventurer’s protection will settle near the stronghold. These peasant families become permanent inhabitants of the adventurer’s domain. The number of peasant families that will inhabit the domain when the stronghold is complete is determined on the Domain Population table. Each peasant family is assumed to have an average of 5 peasants. Families will be of the same race as the adventurer, e.g. elven fastnesses are settled by elven peasants. Once the stronghold is of sufficient value to control the domain in which it is located, the peasant families will begin generating income for the character, and begin to incur costs (see Collecting Revenue and Paying Expenses below). Until then, the domain will not generate money, nor grow.
+While the adventurer's stronghold is under construction, the domain around his stronghold will slowly become settled by the workers and their families. In addition, peasants and laborers seeking the adventurer's protection will settle near the stronghold. These peasant families become permanent inhabitants of the adventurer's domain. The number of peasant families that will inhabit the domain when the stronghold is complete is determined on the Domain Population table. Each peasant family is assumed to have an average of 5 peasants. Families will be of the same race as the adventurer, e.g. elven fastnesses are settled by elven peasants. Once the stronghold is of sufficient value to control the domain in which it is located, the peasant families will begin generating income for the character, and begin to incur costs (see Collecting Revenue and Paying Expenses below). Until then, the domain will not generate money, nor grow.
 
-The character’s followers will also begin arriving during stronghold construction. One half of the character’s followers (rounded up) will arrive when the stronghold is halfway completed. An additional one quarter of the character’s followers (rounded up) will have arrived by the time the stronghold is finished. The remainder of the followers will arrive within the first month following the completion of the stronghold. 
+The character's followers will also begin arriving during stronghold construction. One half of the character's followers (rounded up) will arrive when the stronghold is halfway completed. An additional one quarter of the character's followers (rounded up) will have arrived by the time the stronghold is finished. The remainder of the followers will arrive within the first month following the completion of the stronghold. 
 
 Use the Followers Type and Equipment by Class table, below, to determine the arms and equipment of the arriving followers. Roll once for every 10 followers.
 
@@ -672,15 +672,15 @@ Bards & Bladedancers
 
 ### Growing the Domain
 
-If the adventurer is fortunate, birth and immigration may increase the population of a domain. If he is unlucky, fire, disease, and emigration will decrease it. Each month, the adventurer will make two die rolls of 1d10 per 1,000 families in the domain (rounded up). These rolls will determine the change in his domain’s population. The first roll determines the increase in the domain’s number of families, and the second roll determines the decrease in the domain’s number of families.  Any die that rolls a 10 should be rolled again, with the new result added to the total (repeating the process if a subsequent 10 is rolled). 
+If the adventurer is fortunate, birth and immigration may increase the population of a domain. If he is unlucky, fire, disease, and emigration will decrease it. Each month, the adventurer will make two die rolls of 1d10 per 1,000 families in the domain (rounded up). These rolls will determine the change in his domain's population. The first roll determines the increase in the domain's number of families, and the second roll determines the decrease in the domain's number of families.  Any die that rolls a 10 should be rolled again, with the new result added to the total (repeating the process if a subsequent 10 is rolled). 
 
-EXAMPLE: Marcus’s domain has a population of 1,200 families. He will make two die rolls of 2d10. Marcus first rolls 2d10 for increase and gets a 3 and an 8. His domain gains 11 families. He then rolls 2d10 for decrease and gets a 10 and a 7. Since one of the dice rolled a “10”, he must roll that die again and add it to the total. This roll results in another 10! Marcus has to roll yet again, this time getting a 4. His total is 10+7+10+4, or 31. Marcus’s domain loses 31 families. Having gained 11 and lost 31, Marcus’s domain ends up down 20 families.
+EXAMPLE: Marcus's domain has a population of 1,200 families. He will make two die rolls of 2d10. Marcus first rolls 2d10 for increase and gets a 3 and an 8. His domain gains 11 families. He then rolls 2d10 for decrease and gets a 10 and a 7. Since one of the dice rolled a "10", he must roll that die again and add it to the total. This roll results in another 10! Marcus has to roll yet again, this time getting a 4. His total is 10+7+10+4, or 31. Marcus's domain loses 31 families. Having gained 11 and lost 31, Marcus's domain ends up down 20 families.
 
 When rolling for small domains of under 100 families, ignore results of 9 or less. Any roll of 10 results in the domain gaining or losing one family, and rolling again. 
 
 An adventurer can increase the population of his domain by making agricultural investments into the area. For every 1,000gp spent on investments in a month, the domain will attract 1d10 new peasant families. 
 
-Adventurers who are rising in power and fame will attract additional peasants to move to their domains. Provided a character actively adventures at least once per month and keeps his domain secure from threats, his domain’s population will grow by an additional amount each month, determined by the number of families already present. 
+Adventurers who are rising in power and fame will attract additional peasants to move to their domains. Provided a character actively adventures at least once per month and keeps his domain secure from threats, his domain's population will grow by an additional amount each month, determined by the number of families already present. 
 
 
 ### Population (Families)	Increase
@@ -707,17 +707,17 @@ Note that if a domain ruler is not actively adventuring, does not make agricultu
 
 The classification and size of a domain determine its maximum population. A wilderness domain cannot exceed 4 families per square mile, or 125 families per 6-mile hex. A borderlands domain cannot exceed 8 families per square mile, or 250 families per 6-mile hex. A civilized domain cannot exceed 25 families per square mile, or 780 families per 6-mile hex. For the domain to grow past this limit, the adventurer must secure an additional area of land (such as an adjacent 6-mile hex) to permit the population to grow. No domain can be larger than its stronghold can secure. The maximum domain size is 1 24-mile hex, consisting of 16 contiguous 6-mile hexes. If a wilderness domain ever reaches the maximum of 125 families x 16 6-mile hexes (2,000 families), it becomes a borderlands domain. If a borderlands domain ever reaches the maximum of 250 families x 16 6-mile hexes (4,000 families), it becomes a civilized domain. No domain can normally have more than 12,500 families (780 families x 16 6-mile hexes), as this is the upper limit the land can support (roughly 120 people per square mile).
 
-An adventurer can exceed his domain’s limits of growth by establishing an urban settlement within the domain. See the Villages, Towns, and Cities rules below. 
+An adventurer can exceed his domain's limits of growth by establishing an urban settlement within the domain. See the Villages, Towns, and Cities rules below. 
 
 
 ### Collecting Revenue
 
-Each month, the adventurer collects revenue from each peasant family in his domain. There are four sources of income: land revenue, service revenue, tax revenue, and vassal revenue.  The first three types of revenue are generated by the domain’s peasant families, while the last is only generated if the adventurer has one or more vassal domains (described below).
+Each month, the adventurer collects revenue from each peasant family in his domain. There are four sources of income: land revenue, service revenue, tax revenue, and vassal revenue.  The first three types of revenue are generated by the domain's peasant families, while the last is only generated if the adventurer has one or more vassal domains (described below).
 
 
 ### Source	    Monthly Revenue
 
-Land	    3–9gp / family
+Land	    3-9gp / family
 
 Services    4gp/ family
 
@@ -726,13 +726,13 @@ Taxes	    2gp/ family
 Vassals	    Varies
 
 
-### As noted under Securing the Domain (above), land revenue derives from labor on the domain’s lands. It includes wheat, barley, and other grains; cheese, milk, meat, bee honey, and other animal products; and clay, stone, coal, and metals. The average domain produces 6gp of land revenue per peasant, but not all land is equally valuable. The domain’s land revenue will have been determined with a roll of 3d3 when the domain was first secured – this value is the monthly land revenue per peasant family. 
+### As noted under Securing the Domain (above), land revenue derives from labor on the domain's lands. It includes wheat, barley, and other grains; cheese, milk, meat, bee honey, and other animal products; and clay, stone, coal, and metals. The average domain produces 6gp of land revenue per peasant, but not all land is equally valuable. The domain's land revenue will have been determined with a roll of 3d3 when the domain was first secured - this value is the monthly land revenue per peasant family. 
 
 EXAMPLE: Marcus has secured a domain in the wilderness across the Mirmen River. He rolls 3d3 to determine what his land revenue will be. He rolled a 3, 2, 3, for a total of 8. Each peasant family that settles there will generate 8gp of land revenue per month. The Judge determines the land is so valuable because of an abundance of timber and fur.
 
 Services revenue derives from the services of skilled tradesmen, such as baking, carpentry, lumbering, milling, and smithing. Most of these services are provided by freemen who offer a portion of their labor to the adventurer in exchange for the right to practice their trade on his domain. Monthly service revenue is 4gp per family.
 
-Tax revenue is coin paid directly to the adventurer by his peasants. As ruler of the domain, the adventurer has the right to collect fees upon marriage, inheritance, birth and death, harvest, and other occasions; to levy fines and fees for administering justice; to charge tolls for the roads; to charge a duty on merchants in his markets; and to levy a rent and tax on those working the land. The sum of these constitutes the domain’s monthly tax revenue of 2gp per family.  Tax revenue can be increased above this amount, but doing so damages the peasant’s loyalty. Lower taxes, on the other hand, can improve the domain’s morale. 
+Tax revenue is coin paid directly to the adventurer by his peasants. As ruler of the domain, the adventurer has the right to collect fees upon marriage, inheritance, birth and death, harvest, and other occasions; to levy fines and fees for administering justice; to charge tolls for the roads; to charge a duty on merchants in his markets; and to levy a rent and tax on those working the land. The sum of these constitutes the domain's monthly tax revenue of 2gp per family.  Tax revenue can be increased above this amount, but doing so damages the peasant's loyalty. Lower taxes, on the other hand, can improve the domain's morale. 
 
 Vassal revenue is income received from vassal domains controlled by the adventurer but managed on his behalf by henchmen. Vassal revenue is generally 20% of the monthly income of the vassal domain. See Realms and Vassals, below.
 
@@ -751,30 +751,30 @@ Borderlands	   3gp/ family
 Wilderness	   4gp/ family
 
 
-### The gold piece value of a cleric’s or bladedancer’s followers can be applied against the garrison cost of their domain, even though the cleric or bladedancer does not actually have to pay their faithful followers for their services.
+### The gold piece value of a cleric's or bladedancer's followers can be applied against the garrison cost of their domain, even though the cleric or bladedancer does not actually have to pay their faithful followers for their services.
 
 Stronghold Upkeep: In addition to maintaining a garrison, the adventurer must pay for the upkeep of his stronghold. Strongholds cost 0.5% of their total value in upkeep each month. For example, a 75,000gp keep costs 375gp per month to maintain.
 
-Taxes: If the adventurer has established his stronghold in a civilized realm, he will owe a tax of 20% of his domain’s gross monthly income to the lord who granted him the domain. In borderlands, this tax might be reduced if the adventurer is spending money to defend the borders of the realm. Adventurers who have established their stronghold in the wilderness owe no taxes unless they have chosen to become vassals to the ruler of a civilized realm. 
+Taxes: If the adventurer has established his stronghold in a civilized realm, he will owe a tax of 20% of his domain's gross monthly income to the lord who granted him the domain. In borderlands, this tax might be reduced if the adventurer is spending money to defend the borders of the realm. Adventurers who have established their stronghold in the wilderness owe no taxes unless they have chosen to become vassals to the ruler of a civilized realm. 
 
-Tithes: The adventurer will owe a tithe of 10% of his domain’s gross monthly income to the church of the domain’s dominant religion. If the domain ruler is a bladedancer or cleric, the domain’s dominant religion is the ruler’s. Otherwise, the domain’s dominant religion is the prevailing religion of the region (Judge’s discretion). If the tithe is not paid, the loyalty of the population to the adventurer will be reduced, and the adventurer may be declared a heretic or excommunicated by the church. The domain ruler may change the domain’s religion, but doing so causes substantial penalties to domain morale. 
+Tithes: The adventurer will owe a tithe of 10% of his domain's gross monthly income to the church of the domain's dominant religion. If the domain ruler is a bladedancer or cleric, the domain's dominant religion is the ruler's. Otherwise, the domain's dominant religion is the prevailing religion of the region (Judge's discretion). If the tithe is not paid, the loyalty of the population to the adventurer will be reduced, and the adventurer may be declared a heretic or excommunicated by the church. The domain ruler may change the domain's religion, but doing so causes substantial penalties to domain morale. 
 
-Festivals: At least four times per year (the date will vary based on the culture, but one per season is common), the adventurer will be expected to hold a festival for the domain’s peasant families. The cost of a festival is 5gp per peasant family. If this tradition is not honored, the loyalty of the population to the adventurer will be reduced. If more than the requisite number of holidays is held, the population’s loyalty will increase.
+Festivals: At least four times per year (the date will vary based on the culture, but one per season is common), the adventurer will be expected to hold a festival for the domain's peasant families. The cost of a festival is 5gp per peasant family. If this tradition is not honored, the loyalty of the population to the adventurer will be reduced. If more than the requisite number of holidays is held, the population's loyalty will increase.
 
 
 ### Realms and Vassals
 
-An adventurer may control more than one domain. Multiple domains under the control of one ruler are called a realm. The additional domains of a realm may be established by securing land and constructing additional strongholds, or they may be conquered, or granted in a treaty. However, an adventurer can only directly manage one domain, known as his personal domain. Other domains in the realm are considered vassal domains, and must be assigned to a henchman, called a vassal, to manage. The henchman is responsible for collecting the revenue and paying the expenses of the vassal domain, and will pay 20% of the vassal domain’s monthly income to the adventurer. 
+An adventurer may control more than one domain. Multiple domains under the control of one ruler are called a realm. The additional domains of a realm may be established by securing land and constructing additional strongholds, or they may be conquered, or granted in a treaty. However, an adventurer can only directly manage one domain, known as his personal domain. Other domains in the realm are considered vassal domains, and must be assigned to a henchman, called a vassal, to manage. The henchman is responsible for collecting the revenue and paying the expenses of the vassal domain, and will pay 20% of the vassal domain's monthly income to the adventurer. 
 
 Since the number of henchmen any character may employ is limited to between 1 and 7 (depending on his Charisma), very powerful characters may find that they have more domains under their control than can be managed even with all of their henchmen. In this case, multiple vassal domains will be assigned to trusted henchmen, who will themselves have to sub-assign vassal domains to their own henchmen. A group of domains ruled by a vassal is called a vassal realm. An adventurer may himself be a sub-vassal, either to another adventurer, or to an NPC that he has sworn fealty to (usually the lord who granted him the land to build his domain).
 
 EXAMPLE: Quintus rules a realm of thirteen domains. He has six henchmen. He manages one domain directly, and assigns two vassal domains to each of his six henchmen. Each of his six henchmen thus has a vassal realm of two domains. Each manages one of their domains directly, and sub-assigns the other as a vassal domain to one of their own henchmen
 
-Detailed rules for developing the complete structure of all of a campaign’s realms and vassals can be found under Constructing the Campaign Setting in Chapter 10.
+Detailed rules for developing the complete structure of all of a campaign's realms and vassals can be found under Constructing the Campaign Setting in Chapter 10.
 
 In addition to owing taxes to his lord (as described above), a vassal ruler must roll once per month on the Favors and Duties table to see what favors are granted or asked by his lord. These events can serve the Judge as the basis for adventures for the player character. Adventurers with vassals may choose to offer favors and demand duties to their own vassals, either in response to favors and duties they receive, or independently.
 
-During any month, each vassal can be safely asked to perform one ongoing duty, plus an additional ongoing duty for each ongoing favor given. If an adventurer demands duties in excess of this total, the vassal’s loyalty must be checked on the Henchman Loyalty table for each extra duty. An irrevocable favor only offsets a duty during the month it is first given (such gifts are quickly taken for granted…) Charters of monopoly count as one favor, even if granted to cover multiple types of merchandise.
+During any month, each vassal can be safely asked to perform one ongoing duty, plus an additional ongoing duty for each ongoing favor given. If an adventurer demands duties in excess of this total, the vassal's loyalty must be checked on the Henchman Loyalty table for each extra duty. An irrevocable favor only offsets a duty during the month it is first given (such gifts are quickly taken for granted...) Charters of monopoly count as one favor, even if granted to cover multiple types of merchandise.
 
 EXAMPLE: Marcus demands that his henchman Cadom Wynn pay a special tax of 1gp per each of his 500 peasant families (one duty). No roll on the Henchman Loyalty table is required. The next month, Marcus maintains the tax (one duty), and calls Cadom to arms (a second duty). To avoid a roll on the Henchman Loyalty table, he offers Cadom his niece in marriage (an irrevocable favor). The next month he maintains both the tax and the call to arms, but offers no favors. Cadom must roll on the Henchman Loyalty table.
 
@@ -783,23 +783,23 @@ EXAMPLE: Marcus demands that his henchman Cadom Wynn pay a special tax of 1gp pe
 
 2    	    Build Additional Stronghold: The adventurer is ordered to construct a stronghold somewhere within his realm. The stronghold must have a minimum value of 15,000gp per 6-mile hex the adventurer controls. 
 
-3	    Call to Arms: The adventurer is called to provide military service to his lord. He must muster a force at least equal to ½ the garrison of his realm and go on campaign for a duration of 1d4 months (or until the duty is revoked). On a roll of 4 months duration, roll again and add the subsequent roll to the total. Repeated rolls of 4 can yield very long campaigns.
+3	    Call to Arms: The adventurer is called to provide military service to his lord. He must muster a force at least equal to  1/2  the garrison of his realm and go on campaign for a duration of 1d4 months (or until the duty is revoked). On a roll of 4 months duration, roll again and add the subsequent roll to the total. Repeated rolls of 4 can yield very long campaigns.
 
-4	    Call to Council: The adventure is called to provide judicial and managerial council to his lord. He must travel to his lord’s domain to provide this service.  Duration of service is the same as for a Call to Arms. 
+4	    Call to Council: The adventure is called to provide judicial and managerial council to his lord. He must travel to his lord's domain to provide this service.  Duration of service is the same as for a Call to Arms. 
 
-5	    Tax Demanded: The lord demands the adventure pay 1gp monthly per peasant family in the adventurer’s realm as a special tax. The special tax continues until the duty is revoked. 
+5	    Tax Demanded: The lord demands the adventure pay 1gp monthly per peasant family in the adventurer's realm as a special tax. The special tax continues until the duty is revoked. 
 
-6	    Loan Demanded: The lord demands a loan of 1gp per peasant family in the adventurer’s realm. The loan is repaid when the duty is revoked. Otherwise, the probability of repayment is equal to the adventurer’s CHA stated as a percentage, rolled monthly. No interest will be paid in either case.
+6	    Loan Demanded: The lord demands a loan of 1gp per peasant family in the adventurer's realm. The loan is repaid when the duty is revoked. Otherwise, the probability of repayment is equal to the adventurer's CHA stated as a percentage, rolled monthly. No interest will be paid in either case.
 
 7	    Previous duty/favor revoked: The adventurer loses his most recently granted favor (1) or duty (2-6). 
 
-8	    Festival: The lord celebrates a wedding, birth, military victory, or other event by holding a festival in all of the adventurer’s domains.  (This favor cannot be revoked).
+8	    Festival: The lord celebrates a wedding, birth, military victory, or other event by holding a festival in all of the adventurer's domains.  (This favor cannot be revoked).
 
-9	    Gift: The lord gives the adventurer a gift with a value of 1gp per peasant family in the adventurer’s realm.  The gift may be treasure, warhorses, slaves, merchandise, magical items, etc. (Judge’s discretion). (This favor cannot be revoked.)
+9	    Gift: The lord gives the adventurer a gift with a value of 1gp per peasant family in the adventurer's realm.  The gift may be treasure, warhorses, slaves, merchandise, magical items, etc. (Judge's discretion). (This favor cannot be revoked.)
 
 10	    Charter of Monopoly:  The adventurer is granted a monopoly on a randomly determined type of merchandise on the Common Merchandise table. He gains a +4 on the die roll to find buyers or sellers of that merchandise, merchants will buy or sell twice the normal number of loads of that type from him, and prices are adjusted by 1 point (10%) in his favor. See Arbitrage Trading, below.
 
-11	    Grant of Title: The adventurer is formally granted a noble title appropriate to his land holdings. If this would make the character equal in title to his lord, then the lord offers a family member in marriage to the character or character’s heirs instead. (A marriage cannot be revoked, but a title can be.)
+11	    Grant of Title: The adventurer is formally granted a noble title appropriate to his land holdings. If this would make the character equal in title to his lord, then the lord offers a family member in marriage to the character or character's heirs instead. (A marriage cannot be revoked, but a title can be.)
 
 12	    Grant of Land: The adventurer is granted a new domain consisting of 1 6-mile hex on the border of one of his existing domains. Generate the new domain normally, as per the rules above. 
 
@@ -808,31 +808,31 @@ EXAMPLE: Marcus demands that his henchman Cadom Wynn pay a special tax of 1gp pe
 
 Adventurers and other domain rulers may claim or be awarded a title of nobility. If the adventurer secures his domain within an existing realm, his title will be awarded based on the heraldry of that realm. The more domains the adventurer controls (including assigned and sub-assigned vassal domains), the higher the title he will hold. An adventurer who establishes a new realm can claim any title he wishes, of course, but other realms will not necessarily treat him as such.   
 
-Three factors determine a ruler’s title – the size of his personal domain, the number of vassal domains he has, and the overall size of the realm he rules. The Titles of Nobility table shows the common titles of nobility used based on these criteria. A common title is provided for each tier, plus examples for titles that might be used by various empires. 
+Three factors determine a ruler's title - the size of his personal domain, the number of vassal domains he has, and the overall size of the realm he rules. The Titles of Nobility table shows the common titles of nobility used based on these criteria. A common title is provided for each tier, plus examples for titles that might be used by various empires. 
 
 
 ### Titles of Nobility
 
 Personal Domain (families)	Number of Domains Ruled		Overall Realm (families)	Common		Southern           Elven        Eastern         Northern
 
-12,500	 			5,461-55,987	  		1.5M – 11.6M+ 			Emperor		Tarkaun		   Ard-rí	Maharaja	High King
+12,500	 			5,461-55,987	  		1.5M - 11.6M+ 			Emperor		Tarkaun		   Ard-r'i	Maharaja	High King
 
-12,500				1,365-9,331			364K – 2,000K			King		Exarch		   Rí-ruirech	Raja		King
+12,500				1,365-9,331			364K - 2,000K			King		Exarch		   R'i-ruirech	Raja		King
 
-7,500				341-1,555			87K – 322K			Prince		Prefect		   Rí		Deshmukh	Prince
+7,500				341-1,555			87K - 322K			Prince		Prefect		   R'i		Deshmukh	Prince
 
-1,500				85-259				20,000 – 52,000			Duke		Palatine	   Diuc		Zammin		Duke
+1,500				85-259				20,000 - 52,000			Duke		Palatine	   Diuc		Zammin		Duke
 
-780				21-43				4,600 – 8,500			Count		Legate		   Iarla	Mansab		Jarl 
+780				21-43				4,600 - 8,500			Count		Legate		   Iarla	Mansab		Jarl 
 
-320				5-7				960 – 1,280			Marquis		Tribune		   Ard-tiarna	Sardar		Reeve
+320				5-7				960 - 1,280			Marquis		Tribune		   Ard-tiarna	Sardar		Reeve
 
 160				1				160   				Baron		Castellan	   Tiarna	Jagir		Thane
 
 
 ### Keeping the Peace
 
-All domains have a morale score which represent their populations’ trust and faith in their ruler. Morale scores vary from -4 to +4. Domains begin with a morale score of 0 plus or minus their ruler’s Charisma adjustment, known as their base morale score. Morale scores affect the functioning of the domain, as described below.
+All domains have a morale score which represent their populations' trust and faith in their ruler. Morale scores vary from -4 to +4. Domains begin with a morale score of 0 plus or minus their ruler's Charisma adjustment, known as their base morale score. Morale scores affect the functioning of the domain, as described below.
 
 
 ### Morale Score	 Morale Level
@@ -856,25 +856,25 @@ All domains have a morale score which represent their populations’ trust and f
 +4		 Stalwart
 
 
-### Rebellious means that the domain is revolting against their ruler. There is no population growth, and an extra 4d10 families per thousand are lost to illness, casualties, and emigration each month. Tax, land, and service income drop to zero. The able-bodied men (one per peasant family) become bandits, and begin to attack officials, trade caravans, troops, and travelers in the domain. If these bandits are slain, the population of the domain is reduced accordingly. For every 200 peasant families in the domain, there is a cumulative 10% chance of a village hero (4th - 7th level fighter) emerging to challenge the character’s rule. 
+### Rebellious means that the domain is revolting against their ruler. There is no population growth, and an extra 4d10 families per thousand are lost to illness, casualties, and emigration each month. Tax, land, and service income drop to zero. The able-bodied men (one per peasant family) become bandits, and begin to attack officials, trade caravans, troops, and travelers in the domain. If these bandits are slain, the population of the domain is reduced accordingly. For every 200 peasant families in the domain, there is a cumulative 10% chance of a village hero (4th - 7th level fighter) emerging to challenge the character's rule. 
 
-Defiant means that the domain’s inhabitants have become violently unhappy with their ruler. This unhappiness manifests in banditry, tax evasion, and disloyalty.  An extra 3d10 families per thousand are lost to illness, casualties, and emigration each month. Tax, land and service income is reduced to half. One able-bodied man per two peasant families becomes a bandit, as above. 
+Defiant means that the domain's inhabitants have become violently unhappy with their ruler. This unhappiness manifests in banditry, tax evasion, and disloyalty.  An extra 3d10 families per thousand are lost to illness, casualties, and emigration each month. Tax, land and service income is reduced to half. One able-bodied man per two peasant families becomes a bandit, as above. 
 
 Turbulent means that the domain is in a state of dissatisfaction and unrest. An extra 2d10 families per thousand are lost to illness, casualties, and emigration each month. Tax, land, and service income is reduced by one quarter (rounded down). One able-bodied man per five peasant families becomes as a bandit, as above. 
 
-Demoralized means that the domain’s populace sees their ruler as worse than average. An extra 1d10 families per thousand are lost to illness, casualties, and immigration each month. 
+Demoralized means that the domain's populace sees their ruler as worse than average. An extra 1d10 families per thousand are lost to illness, casualties, and immigration each month. 
 
-Apathetic means that the domain’s populace sees their ruler as just another petty noble. They work the land, pay their taxes, and do their duty, but have no special love for their ruler. 
+Apathetic means that the domain's populace sees their ruler as just another petty noble. They work the land, pay their taxes, and do their duty, but have no special love for their ruler. 
 
-Loyal means that the domain’s ruler is respected and popular with his subjects. Spies and thieves operating against the domain suffer a -1 penalty to their proficiency throws (see Hijinks, below).  The population grows by an extra 1d10 families per thousand each month. 
+Loyal means that the domain's ruler is respected and popular with his subjects. Spies and thieves operating against the domain suffer a -1 penalty to their proficiency throws (see Hijinks, below).  The population grows by an extra 1d10 families per thousand each month. 
 
-Dedicated means that the domain’s populace has been inspired to strong loyalist sentiment by their ruler. Spies and thieves operating against the domain suffer a -2 penalty to their proficiency throws.  The population grows by an extra 2d10 families per thousand each month.
+Dedicated means that the domain's populace has been inspired to strong loyalist sentiment by their ruler. Spies and thieves operating against the domain suffer a -2 penalty to their proficiency throws.  The population grows by an extra 2d10 families per thousand each month.
 
-Steadfast means that the domain’s inhabitants hail their ruler as great leader deserving of strident support. The population grows by an extra 3d10 families per thousand each month. Spies and thieves operating against the domain suffer a -3 penalty to their proficiency throws. Service income is increased by 1gp per peasant family. 
+Steadfast means that the domain's inhabitants hail their ruler as great leader deserving of strident support. The population grows by an extra 3d10 families per thousand each month. Spies and thieves operating against the domain suffer a -3 penalty to their proficiency throws. Service income is increased by 1gp per peasant family. 
 
-Stalwart means that the domain’s populace acclaims their ruler as a beloved and righteous sovereign. The population grows by an extra 4d10 families per thousand each month. Spies and thieves operating against the domain suffer a -4 penalty to their proficiency throws. Land and service income are increased by 1gp per peasant family each. 
+Stalwart means that the domain's populace acclaims their ruler as a beloved and righteous sovereign. The population grows by an extra 4d10 families per thousand each month. Spies and thieves operating against the domain suffer a -4 penalty to their proficiency throws. Land and service income are increased by 1gp per peasant family each. 
 
-Every season (three month interval), the Judge will roll 2d6 on the Domain Morale table, applying any relevant adjustments to the roll, to determine whether the domain’s morale has changed as a result of recent events.  
+Every season (three month interval), the Judge will roll 2d6 on the Domain Morale table, applying any relevant adjustments to the roll, to determine whether the domain's morale has changed as a result of recent events.  
 
 
 ### Domain Morale
@@ -917,16 +917,16 @@ Tithes not paid last season		 -2
 New religion introduced last season	 -4
 
 
-### EXAMPLE: Marcus, a 9th level fighter, is ruler of a borderlands domain with a morale score of +1 (Loyal). But after accidentally donning a helm of alignment change, Marcus becomes chaotic (-2) and starts running his domain with an iron fist. He offers no festivals (-1), and raises taxes from 2gp to 4gp per peasant (-2), while increasing his garrison troops from 3gp/family to 4gp/family (+1). The dominion’s population grows only 2.5% (no modifier). At the end of the season, he rolls 2d6-5+1 for his domain’s loyalty and scores a 2. That means his domain morale drops by 2 point, from +1 to -1. His domain has become Demoralized, as his peasants lose their confidence in their ruler. If he continues in his tyrannical ways, Marcus may find that the tighter he grips, the more peasants slip away…
+### EXAMPLE: Marcus, a 9th level fighter, is ruler of a borderlands domain with a morale score of +1 (Loyal). But after accidentally donning a helm of alignment change, Marcus becomes chaotic (-2) and starts running his domain with an iron fist. He offers no festivals (-1), and raises taxes from 2gp to 4gp per peasant (-2), while increasing his garrison troops from 3gp/family to 4gp/family (+1). The dominion's population grows only 2.5% (no modifier). At the end of the season, he rolls 2d6-5+1 for his domain's loyalty and scores a 2. That means his domain morale drops by 2 point, from +1 to -1. His domain has become Demoralized, as his peasants lose their confidence in their ruler. If he continues in his tyrannical ways, Marcus may find that the tighter he grips, the more peasants slip away...
 
 
 ### Garrisons and Morale
 
-As indicated on the Domain Morale Roll Adjustments above, the size of a domain’s garrison has a dramatic effect on the domain’s morale. Normally the mere existence of the garrison is enough to count for morale purposes. The garrison does not need to be physically in the domain. A ruler who takes his entire 2gp/family garrison on raid into an enemy’s domain still counts as having a 2gp/family garrison for purposes of his domain’s morale. From the peasants’ perspective, it’s better to have the war waged somewhere else!
+As indicated on the Domain Morale Roll Adjustments above, the size of a domain's garrison has a dramatic effect on the domain's morale. Normally the mere existence of the garrison is enough to count for morale purposes. The garrison does not need to be physically in the domain. A ruler who takes his entire 2gp/family garrison on raid into an enemy's domain still counts as having a 2gp/family garrison for purposes of his domain's morale. From the peasants' perspective, it's better to have the war waged somewhere else!
 
-However, this benefit only lasts while the ruler’s domain is actually safe. If the domain is attacked while part of the garrison is absent, then only that portion of the garrison that is physically present in the domain counts for morale purposes. 
+However, this benefit only lasts while the ruler's domain is actually safe. If the domain is attacked while part of the garrison is absent, then only that portion of the garrison that is physically present in the domain counts for morale purposes. 
 
-EXAMPLE: Marcus’ domain has 1,200 families with a garrison cost of 2,400gp per month. Marcus’ garrison consists of 40 heavy cavalry (60gp/month x 60 = 2,400gp). When Marcus receives a call to arms from his lord, he sends 20 heavy cavalry to join his lord in fighting in a distant realm. This does not have any immediate morale implications. The next month, however, beastmen begin raiding his domain. Because the domain is being attacked, only that portion of its garrison which is physically present counts for morale purposes. 20 heavy cavalry are worth 1,200gp, so Marcus will suffer the -1gp/family decrease adjustment on his next morale roll. To avoid this, Marcus petitions his lord to allow him to bring his forces force.
+EXAMPLE: Marcus' domain has 1,200 families with a garrison cost of 2,400gp per month. Marcus' garrison consists of 40 heavy cavalry (60gp/month x 60 = 2,400gp). When Marcus receives a call to arms from his lord, he sends 20 heavy cavalry to join his lord in fighting in a distant realm. This does not have any immediate morale implications. The next month, however, beastmen begin raiding his domain. Because the domain is being attacked, only that portion of its garrison which is physically present counts for morale purposes. 20 heavy cavalry are worth 1,200gp, so Marcus will suffer the -1gp/family decrease adjustment on his next morale roll. To avoid this, Marcus petitions his lord to allow him to bring his forces force.
 
 
 ### Villages, Towns, and Cities
@@ -938,9 +938,9 @@ Once established, an urban settlement functions much like a separate domain, exc
 
 ### Growing the Settlement
 
-As with a domain, the adventurer will make two die rolls of 1d10 per 1,000 families in the urban settlement each month to determine the change in the settlement’s population. So long as the character actively adventures at least once per month and keeps his urban settlement secure from threats, the settlement’s population will grow by an additional amount each month from immigration, using the Domain Population Growth table. 
+As with a domain, the adventurer will make two die rolls of 1d10 per 1,000 families in the urban settlement each month to determine the change in the settlement's population. So long as the character actively adventures at least once per month and keeps his urban settlement secure from threats, the settlement's population will grow by an additional amount each month from immigration, using the Domain Population Growth table. 
 
-Unlike domains, the limits of an urban settlement’s growth are not based the available land. Instead, the limits are based on the extent of urban investment. Initially, the urban settlement is limited to less than 250 families. When the Total Investment shown on the table below is reached, the urban settlement expands to accommodate a greater maximum. 
+Unlike domains, the limits of an urban settlement's growth are not based the available land. Instead, the limits are based on the extent of urban investment. Initially, the urban settlement is limited to less than 250 families. When the Total Investment shown on the table below is reached, the urban settlement expands to accommodate a greater maximum. 
 
 By spending more gold pieces on roads, aqueducts, sewers, marketplaces, walls, and other infrastructure, the adventurer can increase the maximum population size of the urban settlement. In addition to increasing the maximum population, urban investment also attracts new residents. For every 1,000gp spent on investments in a month, the settlement will attract 1d10 new urban families. 
 
@@ -967,26 +967,26 @@ Each month, the adventurer will collect revenue from each urban family in his do
 
 ### Settlement Population (families)   Urban Revenue (gp/family)   Market Class
 
-75–249	   	      		   7	 	 	       Class VI
+75-249	   	      		   7	 	 	       Class VI
 
-250–624				   7.5			       Class V
+250-624				   7.5			       Class V
 
-626–2,499			   7.5			       Class IV
+626-2,499			   7.5			       Class IV
 
-2,500–4,999			   7.5			       Class III
+2,500-4,999			   7.5			       Class III
 
-5,000–19,999			   8			       Class II
+5,000-19,999			   8			       Class II
 
-20,000–100,000			   8.5			       Class I
+20,000-100,000			   8.5			       Class I
 
 
 ### Paying Expenses
 
 Settlement expenses are similar to domain expenses. Each month, an urban settlement must pay a garrison cost of 2gp/family. In addition to maintaining the garrison, the adventurer must pay for the upkeep of the urban communities. Upkeep of urban settlements cost 1.5gp/family each month. 
 
-If the adventurer has established his urban settlement in a civilized realm, he will owe the usual 20% tax on his settlement’s gross monthly income. He will also owe a tithe of 10% of the settlement’s gross monthly income to the church of the domain’s dominant religion. And, as with a domain, four times per year (the date will vary based on the culture, but one per season is common), the adventurer will be expected to hold a festival for the settlement’s urban families, costing 5gp per family. 
+If the adventurer has established his urban settlement in a civilized realm, he will owe the usual 20% tax on his settlement's gross monthly income. He will also owe a tithe of 10% of the settlement's gross monthly income to the church of the domain's dominant religion. And, as with a domain, four times per year (the date will vary based on the culture, but one per season is common), the adventurer will be expected to hold a festival for the settlement's urban families, costing 5gp per family. 
 
-The Villages, Towns, and Cities table, below, shows the average monthly income, after expenses, of urban settlements of various sizes. This table can be used to quickly determine the value of an urban settlement located within a domain. Detailed rules for developing the complete urban demographics of all of a campaign’s realms can be found under Constructing the Campaign Setting in Chapter 10.
+The Villages, Towns, and Cities table, below, shows the average monthly income, after expenses, of urban settlements of various sizes. This table can be used to quickly determine the value of an urban settlement located within a domain. Detailed rules for developing the complete urban demographics of all of a campaign's realms can be found under Constructing the Campaign Setting in Chapter 10.
 
 
 ### Expense	      Monthly Cost
@@ -1006,39 +1006,39 @@ Festival      5gp/family/season
 
 Urban Settlement (families)	Monthly Income	Market Class
 
-Hamlets (74–)	 		0gp		Class VI*
+Hamlets (74-)	 		0gp		Class VI*
 
-Small Village (75–99)		18–24gp		Class VI
+Small Village (75-99)		18-24gp		Class VI
 
-Village (100–159)		25–39gp		Class VI
+Village (100-159)		25-39gp		Class VI
 
-Village (160–249)		40–60gp		Class VI
+Village (160-249)		40-60gp		Class VI
 
-Large village (250–449)		150–264gp	Class V
+Large village (250-449)		150-264gp	Class V
 
-Small town (450–624)		265–369gp	Class V
+Small town (450-624)		265-369gp	Class V
 
-Large town (625–1,249)		370–739gp	Class IV
+Large town (625-1,249)		370-739gp	Class IV
 
-Small city (1,250–2,499)	740–1,474gp	Class IV
+Small city (1,250-2,499)	740-1,474gp	Class IV
 
-City (2,500–4,999)		1,475–2,950gp	Class III
+City (2,500-4,999)		1,475-2,950gp	Class III
 
-Large city (5,000–9,999)	4,700–9,399gp	Class II
+Large city (5,000-9,999)	4,700-9,399gp	Class II
 
-Large city (10,000–14,999)	9,400–14,099gp	Class II
+Large city (10,000-14,999)	9,400-14,099gp	Class II
 
-Large city (15,000–19,999)	14,100–18,799gp	Class II
+Large city (15,000-19,999)	14,100-18,799gp	Class II
 
-Metropolis (20,000–39,999)	25,800–51,599gp	Class I
+Metropolis (20,000-39,999)	25,800-51,599gp	Class I
 
 Metropolis (40,000+)		51,600gp+	Class I
-*Class VI market at domain’s stronghold only
+*Class VI market at domain's stronghold only
 
 
 ### Keeping the Peace
 
-Like domains, all settlements have a morale score which represent its population’s trust and faith in their ruler. A newly-established urban settlement begins with the morale score of the domain within which it was founded. Settlement morale is checked every season on the Domain Morale table. It may vary over time from the morale of the domain it is within. 
+Like domains, all settlements have a morale score which represent its population's trust and faith in their ruler. A newly-established urban settlement begins with the morale score of the domain within which it was founded. Settlement morale is checked every season on the Domain Morale table. It may vary over time from the morale of the domain it is within. 
 
 For purposes of applying morale effects to settlements, treat all modifications to revenue as if they applied to urban revenue. For example, land and service income are increased by 1gp per peasant family each in a Stalwart domain. This translates to a 2gp increase to urban revenue in a Stalwart settlement (e.g., 1gp from land and 1gp from service, applied to urban income as a total of 2gp per family).
 
@@ -1063,9 +1063,9 @@ Chaotic adventurers may establish chaotic domains of beastmen rather than humans
 
 	Beastmen domains always increase in population as if they were two population categories smaller. 
 
-	Beastmen provide only ½ the land revenue of normal men as they are poor farmers and herders. The population limits per hex are reduced to ½ their standard values for the same reason.
+	Beastmen provide only  1/2  the land revenue of normal men as they are poor farmers and herders. The population limits per hex are reduced to  1/2  their standard values for the same reason.
 
-	Beastmen in urban settlements produce only ½ the urban revenue of normal men.
+	Beastmen in urban settlements produce only  1/2  the urban revenue of normal men.
 
 	The domain morale modifiers for garrisons and festivals are doubled. 
 
@@ -1076,7 +1076,7 @@ Chaotic adventurers may establish chaotic domains of beastmen rather than humans
 
 A dwarven vault may not be built in the civilized or borderland area of a human or elven realm, only in a dwarven realm, or wilderness area. Additionally, a dwarven vault must be an underground structure. While it may include above-ground gates, walls, or structures as necessary for defense or commerce, these cannot constitute more than 25% of the gp value of the stronghold. Any above-ground structures must be of earth or stone.
 
-Dwarves usually live in clans, so dwarves of the vault builder’s clan will be the first to live under his roof, but dwarves from other clans will also come and live nearby to be ruled by the character. A total of 3d6x10 1st level NPCs of the same race will move in to help maintain and defend the vault at no cost to the character. If additional defenders are needed, a dwarven ruler is expected to employ only soldiers of dwarven descent. He may hire members of other races for other tasks.  
+Dwarves usually live in clans, so dwarves of the vault builder's clan will be the first to live under his roof, but dwarves from other clans will also come and live nearby to be ruled by the character. A total of 3d6x10 1st level NPCs of the same race will move in to help maintain and defend the vault at no cost to the character. If additional defenders are needed, a dwarven ruler is expected to employ only soldiers of dwarven descent. He may hire members of other races for other tasks.  
 
 Dwarven vaults are otherwise maintained like human domains.
 
@@ -1114,14 +1114,14 @@ Class II	 750				150,000
 Class I		 3,000				600,000
 
 
-### Hideouts must be built within 6 miles of an urban settlement, which becomes the syndicate’s base of operations. The market class of the urban settlement determines the maximum size of the syndicate. Large ports and cosmopolitan cities can sustain much larger criminal gangs than small towns and agrarian villages. However, in order to reach its maximum size, a syndicate’s boss must construct a sufficiently large hideout. The Hideout Size and Cost table shows the maximum syndicate membership by settlement class, as well as the required hideout cost to reach that size of membership. 
+### Hideouts must be built within 6 miles of an urban settlement, which becomes the syndicate's base of operations. The market class of the urban settlement determines the maximum size of the syndicate. Large ports and cosmopolitan cities can sustain much larger criminal gangs than small towns and agrarian villages. However, in order to reach its maximum size, a syndicate's boss must construct a sufficiently large hideout. The Hideout Size and Cost table shows the maximum syndicate membership by settlement class, as well as the required hideout cost to reach that size of membership. 
 
 EXAMPLE: Joanna establishes a hideout in a class IV market. Initially, she spends 10,000gp on her hideout. Based on the value of her hideout, the maximum membership of her syndicate is 50. Later, she spends another 10,000gp on her hideout, increasing its value to 20,000gp. The maximum membership of her syndicate rises to 100. The year following, she expands her hideout to a 75,000gp mansion. However, the maximum membership of her syndicate does not increase, because a Class IV market can only sustain a 100-member syndicate. 
 
 
 ### Hijinks
 
-Once an adventurer has established a syndicate, its members can be deployed on various hijinks within its base of operations. If an adventurer has henchmen of an appropriate class (assassin, elven nightblade, or thief) these may also be assigned hijinks. Each month, each member of the syndicate (whether a follower, henchman or ruffian) on the boss’s payroll can be assigned a hijink from one of six available options. The boss who controls the syndicate gets the benefit of any successful hijinks he orders. The available hijinks, required rolls, and outcome of a successful hijink are summarized below.
+Once an adventurer has established a syndicate, its members can be deployed on various hijinks within its base of operations. If an adventurer has henchmen of an appropriate class (assassin, elven nightblade, or thief) these may also be assigned hijinks. Each month, each member of the syndicate (whether a follower, henchman or ruffian) on the boss's payroll can be assigned a hijink from one of six available options. The boss who controls the syndicate gets the benefit of any successful hijinks he orders. The available hijinks, required rolls, and outcome of a successful hijink are summarized below.
 
 
 ### Hijink		   Requirement	     		Successful Outcome
@@ -1141,9 +1141,9 @@ Treasure Hunting   Find Traps			Find treasure map to hoard worth 1d6x1,000gp per
 
 ### Assassinating
 
-Assassination is the murder of unsuspecting NPC targets for pay. (Assassinating a PC or suspicious NPC victim is an adventure, not a hijink.) Only assassins and elven nightblades can be assigned assassination hijinks. An adventurer may assign an assassination against a particular target for personal reasons if desired. Otherwise, an assassination hijink is murder-for-hire on a victim within 1d2 levels of the perpetrator’s level. 
+Assassination is the murder of unsuspecting NPC targets for pay. (Assassinating a PC or suspicious NPC victim is an adventure, not a hijink.) Only assassins and elven nightblades can be assigned assassination hijinks. An adventurer may assign an assassination against a particular target for personal reasons if desired. Otherwise, an assassination hijink is murder-for-hire on a victim within 1d2 levels of the perpetrator's level. 
 
-For an assassination to succeed, the perpetrator must first make a successful Hide in Shadows throw. There is a -1 penalty on the proficiency throw per each level the perpetrator is lower than the victim. If the victim is slain, the boss collects a bounty equal to 1,000gp per level of the victim from whomever hired the guild. A victim assassinated for the boss’s personal reasons does not generate a bounty for the boss. 0th level victims count as ½ level for purposes of bounties (500gp).
+For an assassination to succeed, the perpetrator must first make a successful Hide in Shadows throw. There is a -1 penalty on the proficiency throw per each level the perpetrator is lower than the victim. If the victim is slain, the boss collects a bounty equal to 1,000gp per level of the victim from whomever hired the guild. A victim assassinated for the boss's personal reasons does not generate a bounty for the boss. 0th level victims count as  1/2  level for purposes of bounties (500gp).
 
 If the proficiency throw fails, the assassination attempt failed. If the proficiency throw fails by 14 or more or is an unmodified 1, the perpetrator has been caught. If caught, determine the charges with a 1d6 roll: assault (1-3), mayhem (4-5), or murder (6).
 
@@ -1152,7 +1152,7 @@ If the proficiency throw fails, the assassination attempt failed. If the profici
 
 Carousing includes all manner of consortium with harlots, gossips, and other unsavory characters in unseemly inns and taverns. Any character (including 0th level characters) can be assigned to a carousing hijink, but thieves and characters with Eavesdropping proficiency make the best carousers. 
 
-For carousing to succeed, the perpetrator must make a successful Hear Noise throw. If the throw is successful, the perpetrator learns one valuable rumor appropriate to the perpetrator’s location. The boss earns 3d12x5gp per level of the perpetrator exploiting the rumor through blackmail, insider trading, etc. (Alternatively, the Judge may provide a specific rumor valuable within the ongoing campaign in lieu of money.) 
+For carousing to succeed, the perpetrator must make a successful Hear Noise throw. If the throw is successful, the perpetrator learns one valuable rumor appropriate to the perpetrator's location. The boss earns 3d12x5gp per level of the perpetrator exploiting the rumor through blackmail, insider trading, etc. (Alternatively, the Judge may provide a specific rumor valuable within the ongoing campaign in lieu of money.) 
 
 If the proficiency throw fails, the perpetrator learns nothing. If the proficiency throw fails by 14 or more or is an unmodified 1, the perpetrator has been caught. If caught, determine the charges with a 1d6 roll: drunkenness (1-3), gambling (4-5), or vandalism (6). 
 
@@ -1168,7 +1168,7 @@ If the proficiency throw fails, the perpetrator was not able to move the merchan
 
 Spying is the clandestine retrieval of secrets from powerful and influential figures. Assassins, nightblades, and thieves can be assigned a spying hijink.
 
-For spying to succeed, the perpetrator must make a successful Hide in Shadows throw. If the throw is successful, the perpetrator learns advance intelligence, secret facts, or other highly valuable information from the perpetrator’s area of operation. The boss earns 2d12x100gp per level of the perpetrator exploiting the valuable secret. (If desired, the Judge can provide specific secrets valuable within the ongoing campaign in lieu of money).  
+For spying to succeed, the perpetrator must make a successful Hide in Shadows throw. If the throw is successful, the perpetrator learns advance intelligence, secret facts, or other highly valuable information from the perpetrator's area of operation. The boss earns 2d12x100gp per level of the perpetrator exploiting the valuable secret. (If desired, the Judge can provide specific secrets valuable within the ongoing campaign in lieu of money).  
 
 If the proficiency throw fails, the perpetrator learns nothing. If the proficiency throw fails by 14 or more or is an unmodified 1, the perpetrator has been caught. If caught, determine charges with a 1d6 roll: eavesdropping (1-3), sedition (4-5), or treason (6). 
 
@@ -1182,7 +1182,7 @@ If the proficiency throw fails, the perpetrator was not able to steal anything. 
 
 ### Treasure-Hunting
 
-Treasure-hunting covers all manner of skulking and scavenging for treasure maps and rumors of hidden wealth. Only thieves can be assigned a treasure-hunting hijink. For treasure-hunting to succeed, the perpetrator must make a successful Find Traps throw. If the throw is successful, the perpetrator finds a treasure map to a random hoard worth 1d6 x 1,000gp per level of the perpetrator.  The Judge determines the exact location of the hoard; hoards will generally be 6 miles away from the boss’s hideout for each 1,000gp value. 
+Treasure-hunting covers all manner of skulking and scavenging for treasure maps and rumors of hidden wealth. Only thieves can be assigned a treasure-hunting hijink. For treasure-hunting to succeed, the perpetrator must make a successful Find Traps throw. If the throw is successful, the perpetrator finds a treasure map to a random hoard worth 1d6 x 1,000gp per level of the perpetrator.  The Judge determines the exact location of the hoard; hoards will generally be 6 miles away from the boss's hideout for each 1,000gp value. 
 
 If the proficiency throw fails, the perpetrator finds nothing. If the proficiency throw fails by 14 or more or is an unmodified 1, the perpetrator has been caught. If caught, determine charges with a 1d6 roll: trespassing (1-3), theft (4-5), or burglary (6). 
 
@@ -1196,26 +1196,26 @@ Whenever the proficiency throw fails by 14 or more or is an unmodified 1, the pe
 
 Adjusted Die Roll	Result
 
-2–	     		Punitive Conviction
+2-	     		Punitive Conviction
 
-3–5			Conviction
+3-5			Conviction
 
-6–8			Conviction on Lesser Charge
+6-8			Conviction on Lesser Charge
 
-9–11			Acquittal
+9-11			Acquittal
 
 12+			Acquittal with Damages
 
 
-### To roll on the Crime and Punishment table, roll 2d6. Adjust the die roll by the perpetrator’s Charisma modifier and any appropriate proficiency modifiers (from Diplomacy, Mystic Aura, or Seduction). Other circumstances that will apply are listed below.
+### To roll on the Crime and Punishment table, roll 2d6. Adjust the die roll by the perpetrator's Charisma modifier and any appropriate proficiency modifiers (from Diplomacy, Mystic Aura, or Seduction). Other circumstances that will apply are listed below.
 
-Attorney: Add the perpetrator’s rank in Profession (attorney), if any. Otherwise, an attorney can be hired by the syndicate. A rank 1 attorney costs 25gp, a rank 2 attorney costs 50gp, and a rank 3 attorney costs 100gp.
+Attorney: Add the perpetrator's rank in Profession (attorney), if any. Otherwise, an attorney can be hired by the syndicate. A rank 1 attorney costs 25gp, a rank 2 attorney costs 50gp, and a rank 3 attorney costs 100gp.
 
 Bribery: If the syndicate has a member with the Bribery proficiency, it can attempt to corrupt the courts. A +1 bonus costs 50gp, a +2 bonus costs 350gp and a +3 bonus costs 1,500gp.
 
 Evidence: Roll 1d4 to represent evidence favorable to the perpetrator (alibis, good character, etc.). Roll 1d8 to determine the penalty from unfavorable evidence (witnesses to the crime, caught with stolen goods, etc.) 
 
-Interpleader: If the syndicate has ties with a domain ruler, the ruler could plead on the perpetrator’s behalf. Add the Charisma modifier of the domain ruler, plus an additional +2 if the interpleader has Diplomacy, Intimidation, or Mystic Aura. Note that if the domain ruler controls the domain where the crime happened, he may free the perpetrator without resorting to trial at all.
+Interpleader: If the syndicate has ties with a domain ruler, the ruler could plead on the perpetrator's behalf. Add the Charisma modifier of the domain ruler, plus an additional +2 if the interpleader has Diplomacy, Intimidation, or Mystic Aura. Note that if the domain ruler controls the domain where the crime happened, he may free the perpetrator without resorting to trial at all.
 
 Prior Crimes: -1 if perpetrator is branded; -2 if perpetrator has been maimed (loss of tongue or hands); -3 if perpetrator has been proscribed.
 
@@ -1225,7 +1225,7 @@ The result of the table indicates the fate of the perpetrator. A punitive convic
 
 The Retribution by Crime table can be used to find an appropriate punishment for various charges. Punishments can include various forms of fines, humiliation, torture, mutilation, enslavement, exile, and execution. A perpetrator who cannot pay a fine is indentured to work off the fine. Perpetrators work off fines at a rate of 3gp per month. A perpetrator who can pay three times the amount of a fine can avoid other associated punishments. 
 
-EXAMPLE: Reingo the Ruthless, a 1st level thief, is caught stealing a bundle of rare furs (500gp) and charged with theft (-2). Reingo is quite uncharismatic (-2) and the evidence looks bad (the 1d4 roll scores +1, while the 1d8 roll scores -5, for a -4 penalty). Since Reingo has been a loyal follower, his boss Joanna hires the best available attorney (+3) for 100gp and spends 350gp on bribes (+2). Reingo’s will roll on the Crime and Punishment table with a -3 on the die roll. He rolls an 8, reduced by 3, for a score of 5, resulting in a Conviction. Reingo will be whipped and fined 500gp. 
+EXAMPLE: Reingo the Ruthless, a 1st level thief, is caught stealing a bundle of rare furs (500gp) and charged with theft (-2). Reingo is quite uncharismatic (-2) and the evidence looks bad (the 1d4 roll scores +1, while the 1d8 roll scores -5, for a -4 penalty). Since Reingo has been a loyal follower, his boss Joanna hires the best available attorney (+3) for 100gp and spends 350gp on bribes (+2). Reingo's will roll on the Crime and Punishment table with a -3 on the die roll. He rolls an 8, reduced by 3, for a score of 5, resulting in a Conviction. Reingo will be whipped and fined 500gp. 
 
 
 ### Retribution by Crime Table
@@ -1260,51 +1260,51 @@ Heresy, High Treason, Regicide	       Fate worse than death (cross-bred into mon
 
 ### Creating a Criminal Guild
 
-A criminal guild is a group of multiple syndicates under the control of one boss. Criminal guilds are commonly named for the class of their boss, e.g. a thieves’ guild or assassin’s guild. There are four general ways an adventurer may create a criminal guild: 
+A criminal guild is a group of multiple syndicates under the control of one boss. Criminal guilds are commonly named for the class of their boss, e.g. a thieves' guild or assassin's guild. There are four general ways an adventurer may create a criminal guild: 
 
 
 ### New Base of Operations
 
-An adventurer whose syndicate has reached its maximum size in its current base of operations may decide to establish a new syndicate in a new base of operations by building a hideout there and relocating some of his membership. The new syndicate in the new base of operations becomes part of the adventurer’s criminal guild.
+An adventurer whose syndicate has reached its maximum size in its current base of operations may decide to establish a new syndicate in a new base of operations by building a hideout there and relocating some of his membership. The new syndicate in the new base of operations becomes part of the adventurer's criminal guild.
 
-EXAMPLE: Joanna’s syndicate, based in a Class IV settlement, has reached its maximum size of 100 members. In order to keep her criminal enterprise growing, Joanna builds a new hideout in a Class III settlement and moves 20 of her members there. 
+EXAMPLE: Joanna's syndicate, based in a Class IV settlement, has reached its maximum size of 100 members. In order to keep her criminal enterprise growing, Joanna builds a new hideout in a Class III settlement and moves 20 of her members there. 
 
 
 ### Henchman Advancement
 
-If one of the adventurer’s assassin, thief, or nightblade henchmen reaches 9th level, the adventurer may fund a hideout for the henchman. The henchman will attract followers into a syndicate as per the rules above, and the henchman’s syndicate becomes part of the adventurer’s criminal guild. 
+If one of the adventurer's assassin, thief, or nightblade henchmen reaches 9th level, the adventurer may fund a hideout for the henchman. The henchman will attract followers into a syndicate as per the rules above, and the henchman's syndicate becomes part of the adventurer's criminal guild. 
 
 
 ### Henchman Acquisition
 
-An adventurer may recruit an NPC who already controls a syndicate to be a henchman. The new henchman’s syndicate becomes part of the adventurer’s criminal guild. 
+An adventurer may recruit an NPC who already controls a syndicate to be a henchman. The new henchman's syndicate becomes part of the adventurer's criminal guild. 
 
 
 ### Change in Management
 
-An adventurer may exile, imprison, or kill an NPC who already controls a syndicate. He may then claim the syndicate and its members as his own. The Judge should roll on the Change in Management table for each of the NPC’s former henchmen and followers to see if they are successfully recruited by the adventurer. For very large syndicates, the Judge may roll in batches of 5, 10, 25, or even 100 where appropriate. 
+An adventurer may exile, imprison, or kill an NPC who already controls a syndicate. He may then claim the syndicate and its members as his own. The Judge should roll on the Change in Management table for each of the NPC's former henchmen and followers to see if they are successfully recruited by the adventurer. For very large syndicates, the Judge may roll in batches of 5, 10, 25, or even 100 where appropriate. 
 
-The adventurer’s CHA modifier is applied as a die roll modifier, along with any bonuses for Diplomacy, Intimidation, or other proficiencies. If the adventurer is higher level than the previous leader, add a +1 bonus per level difference; apply a -1 penalty per level difference if the converse is true. Apply the previous leader’s CHA bonus (if any) as a penalty to the recruitment roll. The Judge may apply an additional modifier between -2 to +2 reflecting the adventurer’s reputation, gifts, and other attributes.
+The adventurer's CHA modifier is applied as a die roll modifier, along with any bonuses for Diplomacy, Intimidation, or other proficiencies. If the adventurer is higher level than the previous leader, add a +1 bonus per level difference; apply a -1 penalty per level difference if the converse is true. Apply the previous leader's CHA bonus (if any) as a penalty to the recruitment roll. The Judge may apply an additional modifier between -2 to +2 reflecting the adventurer's reputation, gifts, and other attributes.
 
 
 ### Change in Management
 
 Adjusted Die Roll	Result
 
-2–	     		Immediate Attack
+2-	     		Immediate Attack
 
-3–5			Betray
+3-5			Betray
 
-6–8			Hesitate
+6-8			Hesitate
 
-9–11			Accept
+9-11			Accept
 
-12+			Accept with élan
+12+			Accept with elan
 
 
-### Immediate attack means that the follower seeks immediate revenge against the adventurer and will attack him at the first available opportunity. Betray means that the follower will pretend to be loyal to adventurer, but will betray him if an opportunity to do so presents itself. Hesitate means that the follower feels conflicting loyalties. He will betray the adventurer if a plurality of his fellows do so, but remain loyal if not. Accept means that the follower becomes loyal to the character. Accept with élan means the offer is accepted with very good spirit, and the follower’s morale rolls receive a bonus of +1.
+### Immediate attack means that the follower seeks immediate revenge against the adventurer and will attack him at the first available opportunity. Betray means that the follower will pretend to be loyal to adventurer, but will betray him if an opportunity to do so presents itself. Hesitate means that the follower feels conflicting loyalties. He will betray the adventurer if a plurality of his fellows do so, but remain loyal if not. Accept means that the follower becomes loyal to the character. Accept with 'elan means the offer is accepted with very good spirit, and the follower's morale rolls receive a bonus of +1.
 
-EXAMPLE: Joanna, a 14th level thief with CHA 13, assassinates Rollio, a 12th level thief with CHA 16 and four followers. Joanna claims Rollio’s four followers for herself, so the Judge secretly rolls to see how Rollio’s followers respond to the change in management. Each die roll will be at +2 (because Joanna is two levels higher than Rollio) +1 (from Joanna’s CHA) -2 (from Rollio’s CHA), for a total of +1. The Judge rolls incredibly badly - an adjusted 3, 5, 8, and 9. Only one follower is loyal to Joanna. One is hesitant, and two plan to betray Joanna. Since the two betrayers are a plurality, the hesitant follower will join their attempt.
+EXAMPLE: Joanna, a 14th level thief with CHA 13, assassinates Rollio, a 12th level thief with CHA 16 and four followers. Joanna claims Rollio's four followers for herself, so the Judge secretly rolls to see how Rollio's followers respond to the change in management. Each die roll will be at +2 (because Joanna is two levels higher than Rollio) +1 (from Joanna's CHA) -2 (from Rollio's CHA), for a total of +1. The Judge rolls incredibly badly - an adjusted 3, 5, 8, and 9. Only one follower is loyal to Joanna. One is hesitant, and two plan to betray Joanna. Since the two betrayers are a plurality, the hesitant follower will join their attempt.
 
 
 ### Managing a Criminal Guild
@@ -1315,7 +1315,7 @@ An adventurer may assign hijinks to his own syndicate members, and to the member
 
 Underbosses may themselves have underbosses beneath them. In this way very large criminal guilds spread across multiple bases of operation can be formed. For purposes of assigning hijinks, each underboss can be assumed to have direct control over 20% of the followers one rank below him on the chain. 
 
-EXAMPLE: Joanna manages a syndicate with 80 followers in her hometown. Her underboss, Anzio, manages a syndicate with 20 followers in a nearby city. Anzio himself has an underboss with 10 followers in a small villiage. Anzio directly manages his own 20 followers plus 20% of his underboss’s 10, for a total of 22 followers. Joanna directly manages her own 80 followers plus 20% of Anzio’s 22, for a total of 84 followers. If Joanna assigns hijinks to greater than 20% of Anzio’s followers, this will cause Anzio to roll on the Henchman Loyalty table. 
+EXAMPLE: Joanna manages a syndicate with 80 followers in her hometown. Her underboss, Anzio, manages a syndicate with 20 followers in a nearby city. Anzio himself has an underboss with 10 followers in a small villiage. Anzio directly manages his own 20 followers plus 20% of his underboss's 10, for a total of 22 followers. Joanna directly manages her own 80 followers plus 20% of Anzio's 22, for a total of 84 followers. If Joanna assigns hijinks to greater than 20% of Anzio's followers, this will cause Anzio to roll on the Henchman Loyalty table. 
 
 
 ### Monthly Hijink Income
@@ -1351,42 +1351,42 @@ A mage who builds a sanctum attracts 1d6 apprentices of 1st-3rd level each, plus
 
 ### Constructing a Dungeon
 
-Many mages devote their later careers to magical research. This vocation demands a constant supply of rare components, generally monster parts, such as the fangs of 20 hellhounds or skulls of 50 ogres. Rather than squander their time hunting beasts for these components, many mages build dungeons within their domain with the aim of luring monsters to lair within. There they can be harvested at the mage’s leisure. The following rules govern the creation of such dungeons. 
+Many mages devote their later careers to magical research. This vocation demands a constant supply of rare components, generally monster parts, such as the fangs of 20 hellhounds or skulls of 50 ogres. Rather than squander their time hunting beasts for these components, many mages build dungeons within their domain with the aim of luring monsters to lair within. There they can be harvested at the mage's leisure. The following rules govern the creation of such dungeons. 
 
-A dungeon is constructed using the Stronghold Structure Costs listed under Establishing the Stronghold. There are no restrictions on the dungeon’s size (other than what the mage can afford) or location, but dungeons do best when they are in wilderness domains with terrain favorable to monsters, such as forests, swamps, and mountains. 
+A dungeon is constructed using the Stronghold Structure Costs listed under Establishing the Stronghold. There are no restrictions on the dungeon's size (other than what the mage can afford) or location, but dungeons do best when they are in wilderness domains with terrain favorable to monsters, such as forests, swamps, and mountains. 
 
-A mage may construct multiple dungeons within their domain if desired. A mage’s dungeon(s) need not be in the same hex as his stronghold. The value of a dungeon does not count towards Minimum Stronghold Value unless it is used to secure a chaotic domain. 
+A mage may construct multiple dungeons within their domain if desired. A mage's dungeon(s) need not be in the same hex as his stronghold. The value of a dungeon does not count towards Minimum Stronghold Value unless it is used to secure a chaotic domain. 
 
 
 ### Populating a Dungeon
 
 After the dungeon is completed, the Judge will begin checking to determine whether any wandering monsters have arrived at the dungeon, using the Wandering Monster tables in the Secrets chapter. The Judge will make an encounter throw daily if the dungeon is in a wilderness domain, weekly if in a borderlands domain, and monthly if in a civilized domain. Any wandering monsters that arrive have a percentage chance of establishing a lair in the dungeon equal to their % In Lair entry. 
 
-If desired, the mage may seed the dungeon with treasure to help entice the monsters to stay. If a monster finds unclaimed treasure equal to or greater than the average for its Treasure Type (as explained in the Treasure chapter), the monster’s chance of making its lair within the dungeon is doubled. Monsters without a Treasure Type simply do not care about treasure, so it has no effect on them. Wandering monsters do not normally have any treasure of their own. 
+If desired, the mage may seed the dungeon with treasure to help entice the monsters to stay. If a monster finds unclaimed treasure equal to or greater than the average for its Treasure Type (as explained in the Treasure chapter), the monster's chance of making its lair within the dungeon is doubled. Monsters without a Treasure Type simply do not care about treasure, so it has no effect on them. Wandering monsters do not normally have any treasure of their own. 
 
 Wandering monsters who establish a lair will choose the best available room or area within the dungeon appropriate for their size, displacing any less powerful monsters already in that area (and taking their excess treasure, if any). Monsters generally prefer to be deeper in dungeons where possible, as the depth gives added security. As a result, the more powerful monsters with the most treasure will generally be deep within the dungeon, with progressively weaker monsters closer to the entrance. 
 
-When 1/3 of the areas in the dungeon have monsters lairing within them, the dungeon becomes full. The remaining rooms will be buffer zones between the different creatures. Any future monsters that arrive will displace weaker creatures out of the dungeon entirely, unless they are the sort of creature which would prefer to subjugate the current denizens (Judge’s discretion). For instance, a dragon might enslave kobolds rather than displace them. 
+When 1/3 of the areas in the dungeon have monsters lairing within them, the dungeon becomes full. The remaining rooms will be buffer zones between the different creatures. Any future monsters that arrive will displace weaker creatures out of the dungeon entirely, unless they are the sort of creature which would prefer to subjugate the current denizens (Judge's discretion). For instance, a dragon might enslave kobolds rather than displace them. 
 
 Some results on the Wandering Monster table will indicate that NPC men, dwarves, or elves have arrived. These results mean that adventuring parties have come to clear the dungeon! Such encounters are best resolved by having the player whose mage owns the dungeon run a one-off session with the rest of the group playing as the wandering adventurers. The dungeon-owning mage may, of course, intervene personally when his dungeon is invaded. 
 
 
 ### Harvesting a Dungeon for Monster Parts
 
-It is up to the mage how he harvests the monsters within his dungeon. Some mages prefer to hire low-level adventurers to enter their dungeons to gather particular components. For instance, a mage might offer 140gp per ogre skull to adventurers exploring the maze he has created. Other mages may charm the monsters, stage gladiatorial battles among them, or simply kill the old and weak. Some Chaotic mages harvest adventurers…
+It is up to the mage how he harvests the monsters within his dungeon. Some mages prefer to hire low-level adventurers to enter their dungeons to gather particular components. For instance, a mage might offer 140gp per ogre skull to adventurers exploring the maze he has created. Other mages may charm the monsters, stage gladiatorial battles among them, or simply kill the old and weak. Some Chaotic mages harvest adventurers...
 
-Note that a mage receives no experience for seizing his own treasure back from monsters, but wandering adventurers who seize treasure from the mage’s dungeon receive experience points normally.
+Note that a mage receives no experience for seizing his own treasure back from monsters, but wandering adventurers who seize treasure from the mage's dungeon receive experience points normally.
 
 
 ### Peasants and Dungeons
 
-Like fighters, clerics, and most other classes (but unlike thieves), the domain around the mage’s stronghold may become settled by peasant families seeking his protection and leadership. These families can be demoralized if the mage builds a dungeon and does not protect the peasants from the monsters therein. 
+Like fighters, clerics, and most other classes (but unlike thieves), the domain around the mage's stronghold may become settled by peasant families seeking his protection and leadership. These families can be demoralized if the mage builds a dungeon and does not protect the peasants from the monsters therein. 
 
 If maintaining a secure peasant population is important to him, the mage may increase his monthly garrison expenditure of gold pieces. Total the experience point value of the monsters in the dungeon and divide that total by the number of peasant families (round to the nearest whole number). The quotient represents the required increase in monthly garrison. If the mage fails to pay this, his domain morale will decrease by 1 per gp/family. 
 
-EXAMPLE: Quintus’ domain has 1,100 peasant families. It also is home to a sinister dungeon with a cyclops (2,400xp), 6 ogres (1,290xp), and 60 orcs (600xp), for 4,290xp total. 4,290xp/1,100 families is 3.9, rounded to 4, so Quintus’ garrison cost is increased by 4gp per peasant. Being a stingy archmage, Quintus opts to only spend an extra 3gp per peasant (3,300gp). His domain morale decreases by 1.
+EXAMPLE: Quintus' domain has 1,100 peasant families. It also is home to a sinister dungeon with a cyclops (2,400xp), 6 ogres (1,290xp), and 60 orcs (600xp), for 4,290xp total. 4,290xp/1,100 families is 3.9, rounded to 4, so Quintus' garrison cost is increased by 4gp per peasant. Being a stingy archmage, Quintus opts to only spend an extra 3gp per peasant (3,300gp). His domain morale decreases by 1.
 
-If desired, mages may actually hire the monsters in their dungeon to serve as the garrison. This will cause a -2 domain morale penalty if the monsters are Chaotic and the peasants are not. Mages with beastmen peasant families (see Chaotic Domains) do not need to increase their garrison because of dungeons, unless the dungeon’s inhabitants are Lawful. 
+If desired, mages may actually hire the monsters in their dungeon to serve as the garrison. This will cause a -2 domain morale penalty if the monsters are Chaotic and the peasants are not. Mages with beastmen peasant families (see Chaotic Domains) do not need to increase their garrison because of dungeons, unless the dungeon's inhabitants are Lawful. 
 
 
 ### Mercantile Ventures
@@ -1400,7 +1400,7 @@ The riskiest, but most lucrative, form of mercantile trade is arbitrage: The mov
 
 1. Determine market characteristics.  
 
-In order to buy and sell goods, the adventurer must first travel to a market. A market can be anything from a humble county fair to a city-state’s outdoor bazaar to the ports of a major metropolis, but each has different characteristics. Each domain (as described under Strongholds and Domains) generally has its own separate market. Markets are rated by market class from I to VI, which rate their size and importance. The vast mercantile hubs of empires, with urban populations of 20,000 families or more, constitute Class I. Major ports, national capitals, and other large cities of 5,000 or more families constitute Class II. Provincial capitals and medium-sized cities of 1,750 to 5,000 families make up Class III. Small cities and large towns of 600 to 1,750 families make up Class IV. Small towns and large villages of 250 to 600 families are Class V. Any village of 250 families or less is Class VI. 
+In order to buy and sell goods, the adventurer must first travel to a market. A market can be anything from a humble county fair to a city-state's outdoor bazaar to the ports of a major metropolis, but each has different characteristics. Each domain (as described under Strongholds and Domains) generally has its own separate market. Markets are rated by market class from I to VI, which rate their size and importance. The vast mercantile hubs of empires, with urban populations of 20,000 families or more, constitute Class I. Major ports, national capitals, and other large cities of 5,000 or more families constitute Class II. Provincial capitals and medium-sized cities of 1,750 to 5,000 families make up Class III. Small cities and large towns of 600 to 1,750 families make up Class IV. Small towns and large villages of 250 to 600 families are Class V. Any village of 250 families or less is Class VI. 
 
 Each market will have a unique set of demand modifiers, determined by the Judge, for different types of merchandise. The demand modifier modifies the availability and price for merchandise in the market. A low demand modifier indicates that there is a surplus of that type of merchandise available, usually because the market is a producer of that merchandise. A high demand modifier indicates that the merchandise is hard to get and very expensive. (See Generating Demand Modifiers, below, if the demand modifiers are unknown).
 
@@ -1410,7 +1410,7 @@ Each time adventurers enter a market to buy or sell goods, they must pay a toll 
 
 2. Determine the number of merchants and loads of merchandise in the market. 
 
-Once a market is selected, roll on the Merchants column of the Market and Merchant table below to find the number of merchants interested in transactions with the adventurers. For each merchant, roll on the Loads of Merchandise column to determine the volume of goods each merchant can handle. A “load” is a generic unit – the exact nature of a load varies depending on the merchandise (see the Common Merchandise and Precious Merchandise Tables, below).
+Once a market is selected, roll on the Merchants column of the Market and Merchant table below to find the number of merchants interested in transactions with the adventurers. For each merchant, roll on the Loads of Merchandise column to determine the volume of goods each merchant can handle. A "load" is a generic unit - the exact nature of a load varies depending on the merchandise (see the Common Merchandise and Precious Merchandise Tables, below).
 
 
 ### Market and Merchants 
@@ -1442,11 +1442,11 @@ An adventurer buying and selling in a domain he controls (see Strongholds and Do
 
 3. Determine merchandise of interest to each merchant. 
 
-Each merchant will buy and sell only one type of merchandise. Roll on the Common Merchandise table to see the merchandise each merchant is interested in buying and selling.  The specific results can be customized where appropriate. For instance, “hides, furs” might be bear and wolf furs in a northern Viking town or camel hide in a trading outpost on the steppes. 
+Each merchant will buy and sell only one type of merchandise. Roll on the Common Merchandise table to see the merchandise each merchant is interested in buying and selling.  The specific results can be customized where appropriate. For instance, "hides, furs" might be bear and wolf furs in a northern Viking town or camel hide in a trading outpost on the steppes. 
 
 If the adventurers are trying to buy or sell a particular type of merchandise, a reaction roll of 9+ is required to persuade a merchant to transact in a particular type of Common Merchandise, or 12+ for Precious Merchandise. Add the demand modifier to the die roll when trying to find buyers of goods, and subtract it from the die roll when trying to find sellers of goods. If an adventurer has a monopoly over a particular type of merchandise, he gains a +3 on the die roll, and merchants will buy or sell twice the normal number of loads of that type from him. Only one roll per merchant is permitted, and on a failed roll, the merchant will not transact with the adventurer at all; another trader has met his needs. 
 
-EXAMPLE: Farlaghn’s caravan is carrying 20 loads of dyes and pigments when it arrives in the city. Farlaghn wants to see if any of the 7 available merchants will buy this specific merchandise from him. Dyes and pigments are common merchandise, for which the city has a demand modifier of +2. For each merchant, he makes a reaction roll of 9+. Since he is trying to find buyers, he will add the demand modifier of +2 to his roll, so he will only need a natural die roll of 7 or more. He rolls 9, 3, 7, 3, 4, 8, and 2; 3 of the 7 merchants are persuaded to buy dyes and pigments. Rolling 3d4 for each merchant, Farlaghn discovers they will buy 8, 8, and 9 loads of dyes and pigments respectively, for a total of 25. Farlaghn will be able to unload all the dyes and pigments in his caravan!
+EXAMPLE: Farlaghn's caravan is carrying 20 loads of dyes and pigments when it arrives in the city. Farlaghn wants to see if any of the 7 available merchants will buy this specific merchandise from him. Dyes and pigments are common merchandise, for which the city has a demand modifier of +2. For each merchant, he makes a reaction roll of 9+. Since he is trying to find buyers, he will add the demand modifier of +2 to his roll, so he will only need a natural die roll of 7 or more. He rolls 9, 3, 7, 3, 4, 8, and 2; 3 of the 7 merchants are persuaded to buy dyes and pigments. Rolling 3d4 for each merchant, Farlaghn discovers they will buy 8, 8, and 9 loads of dyes and pigments respectively, for a total of 25. Farlaghn will be able to unload all the dyes and pigments in his caravan!
 
 4. Determine market price of merchandise.
 
@@ -1458,11 +1458,11 @@ To determine market price:
 
 Find the merchandise's base price on the Common or Precious Merchandise Table. 
 
-Roll 4d4. Add the demand modifier, if any, for this type of merchandise in this market. Add 1 if the market is a Class I or Class II. Subtract 1 if the market is Class V or VI. Modify by 1 in the adventurer’s favor if he has a monopoly in that type of merchandise. The Judge may apply any special modifiers (from war, calamity, etc.) he deems appropriate.
+Roll 4d4. Add the demand modifier, if any, for this type of merchandise in this market. Add 1 if the market is a Class I or Class II. Subtract 1 if the market is Class V or VI. Modify by 1 in the adventurer's favor if he has a monopoly in that type of merchandise. The Judge may apply any special modifiers (from war, calamity, etc.) he deems appropriate.
 
 Multiply the result by 10 and apply it as a percentage of the base price. This is the market price for the merchandise.
 
-EXAMPLE: Having lined up some interested merchants, Farlaghn sells his dyes and pigments. The base price for dyes and pigments is 250gp. Rolling 4d4, Farlaghn scores a 9. The city is a major consumer of dyes and pigments, so the demand modifier is +2, increasing the result to 11. Dyes and pigments in the city have a market price of (11x10) 110% of the base price, or 275gp per load. Farlaghn’s 20 loads of dyes and pigments are worth 5,500gp.
+EXAMPLE: Having lined up some interested merchants, Farlaghn sells his dyes and pigments. The base price for dyes and pigments is 250gp. Rolling 4d4, Farlaghn scores a 9. The city is a major consumer of dyes and pigments, so the demand modifier is +2, increasing the result to 11. Dyes and pigments in the city have a market price of (11x10) 110% of the base price, or 275gp per load. Farlaghn's 20 loads of dyes and pigments are worth 5,500gp.
 
 The market price is calculated once when merchandise is bought, and again when it is sold in a different market. If the adventurers wait in the same market hoping for the price to change, there will be a 10% cumulative chance of a price change (re-roll) for each type of merchandise each month.
 
@@ -1472,7 +1472,7 @@ If the adventurers find a merchant buying or selling merchandise at a market pri
 
 When adventurers buy goods, they must pay a labor fee to cover the cost of loading the goods onto their ship or caravan. When they sell goods at their destination, they must pay another labor fee to unload the goods. The labor fee is 1gp per 200 stone of merchandise. Adventurers selling goods will also have to pay a customs duty equal to 2d10% of their market price. Player characters disinclined to pay such fees can, of course, attempt to smuggle goods into the market. 
 
-EXAMPLE: 20 loads of dyes and pigments weigh 500 stone, so Farlaghn’s labor fees will be 3gp. The city has an 11% customs duty, so Farlaghn will have to pay a fee of 605gp when he sells his goods for 5,500gp. 
+EXAMPLE: 20 loads of dyes and pigments weigh 500 stone, so Farlaghn's labor fees will be 3gp. The city has an 11% customs duty, so Farlaghn will have to pay a fee of 605gp when he sells his goods for 5,500gp. 
 
 6. Transport goods.
 
@@ -1481,7 +1481,7 @@ If the adventurers have purchased merchandise, they will need to transport their
 
 ### Passenger and Cargo Transport 
 
-If an adventurer is operating a vessel or caravan, he may transport passengers between markets. The number of passengers available is determined on the Passengers and Shipping Contracts table. Roll on a 1d20 to determine the destination of each passenger. On 19+, the passenger wants to hire a caravan or vessel to travel to a distant market of his choice, 2d20 x 100 miles away. Otherwise, the passenger simply wants to be transported to the closest market within one size class along the way towards the adventurer’s destination. 
+If an adventurer is operating a vessel or caravan, he may transport passengers between markets. The number of passengers available is determined on the Passengers and Shipping Contracts table. Roll on a 1d20 to determine the destination of each passenger. On 19+, the passenger wants to hire a caravan or vessel to travel to a distant market of his choice, 2d20 x 100 miles away. Otherwise, the passenger simply wants to be transported to the closest market within one size class along the way towards the adventurer's destination. 
 
 
 ### Passengers and Shipping Contracts
@@ -1588,28 +1588,28 @@ Roll   Merchandise		1 Load			Enc. per Load (stone)	Base Price
 
 Roll     Merchandise            1 Load          Enc. per Load (stone)   Base Price
 
-01–10    Monster parts*         1 crate         5                       300gp
+01-10    Monster parts*         1 crate         5                       300gp
 
-11–25    Wood, rare             1 cord          16                      500gp
+11-25    Wood, rare             1 cord          16                      500gp
 
-26–35    Furs, rare             1 bundle        5                       500gp
+26-35    Furs, rare             1 bundle        5                       500gp
 
-36–45    Metals, precious       2 ingots        4                       600gp
+36-45    Metals, precious       2 ingots        4                       600gp
 
-46–60    Ivory                  1 tusk          8                       800gp
+46-60    Ivory                  1 tusk          8                       800gp
 
-61–65    Spices                 1 jar           1                       800gp
+61-65    Spices                 1 jar           1                       800gp
 
-66–70    Porcelain, fine        2 crates        10                      1,000gp
+66-70    Porcelain, fine        2 crates        10                      1,000gp
 
-71–75    Books, rare            1 box           3                       1,000gp
+71-75    Books, rare            1 box           3                       1,000gp
 
-76–90    Silk                   5 rolls         20                      2,000gp
+76-90    Silk                   5 rolls         20                      2,000gp
 
-91–95    Semiprecious stones    1 box           1                       1,000gp
+91-95    Semiprecious stones    1 box           1                       1,000gp
 
-96–100   Gems                   1 box           1                       3,000gp
-*Roll on the wandering monster table for the region to determine specific monster. Each monster’s parts have a gp value equal to the monster’s XP value$
+96-100   Gems                   1 box           1                       3,000gp
+*Roll on the wandering monster table for the region to determine specific monster. Each monster's parts have a gp value equal to the monster's XP value$
 
 
 ### Animals
@@ -1648,11 +1648,11 @@ Mages do not gain XP from gp spent to construct dungeons, but do gain XP for har
 
 ### Experience from Domain and Mercantile Income
 
-A character may earn XP from his domain and mercantile income. In order to earn XP, the character’s activities must meet two criteria. First, the activity must have been managed by the character personally. The character does not earn XP from domains managed by vassals, or from mercantile expeditions risked by others. Second, the income earned in any month must exceed the character’s monthly gold piece threshold. The gp threshold is based on the character’s level, and represents the monthly income that a character of that stature should be able to earn with little risk or effort. 
+A character may earn XP from his domain and mercantile income. In order to earn XP, the character's activities must meet two criteria. First, the activity must have been managed by the character personally. The character does not earn XP from domains managed by vassals, or from mercantile expeditions risked by others. Second, the income earned in any month must exceed the character's monthly gold piece threshold. The gp threshold is based on the character's level, and represents the monthly income that a character of that stature should be able to earn with little risk or effort. 
 
-Domain income is the total of the ruler’s land, service, tax, and vassal revenue, less his garrison cost, stronghold upkeep, taxes, and tithes. If domain income exceeds the character’s gp threshold, he earns XP equal to the difference. Domain income is earned monthly. A follower or henchman managing a domain earns 50% of the normal domain XP.
+Domain income is the total of the ruler's land, service, tax, and vassal revenue, less his garrison cost, stronghold upkeep, taxes, and tithes. If domain income exceeds the character's gp threshold, he earns XP equal to the difference. Domain income is earned monthly. A follower or henchman managing a domain earns 50% of the normal domain XP.
 
-EXAMPLE: Marcus is a 9th level fighter who has become a Palatine of the Empire. His domain of 1,500 families generates 9,000gp of land income, 6,000gp of service income, and 2,000gp of tax income. His 5 vassals pay him an additional 8,000gp each month in total, making his domain revenue 25,000gp. However, his garrison costs 4,500gp; stronghold upkeep costs 1,000gp; taxes cost 5,000gp; and tithes cost 2,500gp each month. His domain income is 12,000gp per month. Marcus earns no domain XP, as his gp threshold is 12,000gp. Marcus contemplates raising taxes… or conquering a larger domain.
+EXAMPLE: Marcus is a 9th level fighter who has become a Palatine of the Empire. His domain of 1,500 families generates 9,000gp of land income, 6,000gp of service income, and 2,000gp of tax income. His 5 vassals pay him an additional 8,000gp each month in total, making his domain revenue 25,000gp. However, his garrison costs 4,500gp; stronghold upkeep costs 1,000gp; taxes cost 5,000gp; and tithes cost 2,500gp each month. His domain income is 12,000gp per month. Marcus earns no domain XP, as his gp threshold is 12,000gp. Marcus contemplates raising taxes... or conquering a larger domain.
 
 
 ### XP from Domain and Mercantile Income
@@ -1688,42 +1688,42 @@ Class Level    Gp Threshold
 14	       425,000
 
 
-### Mercantile income is the total of gp earned from selling goods and transporting cargo and passengers, less the cost of goods sold, wages, rations, tolls, custom duties, moorage and stabling, and labor fees. Mercantile income from arbitrage and transport expeditions is calculated when the character reaches his final destination (usually by returning to his point of origin). Divide the total revenue from the expedition by the number of months that have elapsed since the expedition began to determine monthly income. If monthly mercantile income exceeds the character’s gp threshold, he earns XP equal to the difference per month of the expedition. 
+### Mercantile income is the total of gp earned from selling goods and transporting cargo and passengers, less the cost of goods sold, wages, rations, tolls, custom duties, moorage and stabling, and labor fees. Mercantile income from arbitrage and transport expeditions is calculated when the character reaches his final destination (usually by returning to his point of origin). Divide the total revenue from the expedition by the number of months that have elapsed since the expedition began to determine monthly income. If monthly mercantile income exceeds the character's gp threshold, he earns XP equal to the difference per month of the expedition. 
 
 EXAMPLE: Farlaghn, a 7th level elven spellsword, leads a fleet of six small sailing ships from his home port to an exotic island port and back, a two-month expedition. At the conclusion of the expedition, his mercantile income (after all expenses) is 7,200gp. Since the expedition took two months, his monthly mercantile income is 3,600gp. His gp threshold is 3,000gp, so he earns 600XP for each month, or 1,200XP total.
 
-A follower or henchman earns 50% of the normal XP from mercantile activities. If multiple characters join a mercantile expedition, the total gp value should be divided among all surviving player characters and henchmen evenly, with henchmen receiving a ½ share each.
+A follower or henchman earns 50% of the normal XP from mercantile activities. If multiple characters join a mercantile expedition, the total gp value should be divided among all surviving player characters and henchmen evenly, with henchmen receiving a  1/2  share each.
 
 In cases where a character has both domain and mercantile income, the totals should be calculated separately. 
 
 
 ### Experience from Magical Research
 
-A character may earn XP from magical research he conducts personally, if its cost exceeds his gp threshold. The XP is earned when the research is completed. Divide the cost of the research by the number of months required to complete it (always divide by at least one). If this monthly cost exceeds the character’s gp threshold, the character earns XP equal to the difference per month of research. Both the base cost of the magical research and any precious materials apply, but the cost for libraries, workshops, or special components is excluded. Failing at magical research does not earn XP.
+A character may earn XP from magical research he conducts personally, if its cost exceeds his gp threshold. The XP is earned when the research is completed. Divide the cost of the research by the number of months required to complete it (always divide by at least one). If this monthly cost exceeds the character's gp threshold, the character earns XP equal to the difference per month of research. Both the base cost of the magical research and any precious materials apply, but the cost for libraries, workshops, or special components is excluded. Failing at magical research does not earn XP.
 
-EXAMPLE: Quintus, a 5th level mage, creates a scroll of sleep. This takes one week and 500gp. 500gp divided by one (the minimum) is 500gp, which is less than his gp threshold of 800gp, so he earns no XP. He then creates a scroll of fireball. This takes three weeks and 1,500gp. 1,500gp divided by one (the minimum) is 1,500gp, which is greater than his gp threshold of 800gp, so he earns the difference. Quintus has earned 700XP. Years later, at 9th level, Quintus creates a sword +2, which takes two months and 15,000gp. He also uses 15,000gp in precious materials, so the cost is 30,000gp. 30,000gp divided by two months is 15,000gp. Quintus’ gp threshold is 9,000gp, so he earns 6,000XP for each month, or 12,000XP total.
+EXAMPLE: Quintus, a 5th level mage, creates a scroll of sleep. This takes one week and 500gp. 500gp divided by one (the minimum) is 500gp, which is less than his gp threshold of 800gp, so he earns no XP. He then creates a scroll of fireball. This takes three weeks and 1,500gp. 1,500gp divided by one (the minimum) is 1,500gp, which is greater than his gp threshold of 800gp, so he earns the difference. Quintus has earned 700XP. Years later, at 9th level, Quintus creates a sword +2, which takes two months and 15,000gp. He also uses 15,000gp in precious materials, so the cost is 30,000gp. 30,000gp divided by two months is 15,000gp. Quintus' gp threshold is 9,000gp, so he earns 6,000XP for each month, or 12,000XP total.
 
 Followers or henchmen conducting magical research earn 50% of the normal XP from magical research. An assistant gains 50% of the magical research XP he would earn if he conducted the research independently. (A follower or henchman acting as an assistant thus gains 25% of the normal XP.) Characters do not receive XP for magical research conducted by their assistants.
 
-EXAMPLE: Quintus, a 5th level mage, decides to focus on creating scrolls of fireball. He gives his assistant, Rigan, a 1st level mage henchman, a sample scroll of sleep and supervises him in the creation of more. With a sample, Rigan can make one scroll every half-week at a cost of 250gp. Each time Rigan succeeds, he will earn 56XP (250gp less his gp threshold of 25gp, multiplied by 25%). With a magic research throw of 16+, Rigan will succeed about twice per month. Should Rigan be so fortunate as to have Quintus’ close supervision (and resources) for about two years, he’ll earn around 2,700XP, enough to reach 2nd level.  
+EXAMPLE: Quintus, a 5th level mage, decides to focus on creating scrolls of fireball. He gives his assistant, Rigan, a 1st level mage henchman, a sample scroll of sleep and supervises him in the creation of more. With a sample, Rigan can make one scroll every half-week at a cost of 250gp. Each time Rigan succeeds, he will earn 56XP (250gp less his gp threshold of 25gp, multiplied by 25%). With a magic research throw of 16+, Rigan will succeed about twice per month. Should Rigan be so fortunate as to have Quintus' close supervision (and resources) for about two years, he'll earn around 2,700XP, enough to reach 2nd level.  
 
 
 ### Experience from Hijinks
 
-A syndicate boss may earn XP from his monthly hijink income. Monthly hijink income is the total gp value earned from hijinks by the boss, less the cost of wages, attorneys, bribes, fines, and magical healing for his members. (Income can be rolled and calculated manually, or the Monthly Hijink Income table in the Managing Criminal Guilds section can be used for faster calculation.) If monthly hijink income exceeds the character’s gp threshold, he earns XP equal to the difference. 
+A syndicate boss may earn XP from his monthly hijink income. Monthly hijink income is the total gp value earned from hijinks by the boss, less the cost of wages, attorneys, bribes, fines, and magical healing for his members. (Income can be rolled and calculated manually, or the Monthly Hijink Income table in the Managing Criminal Guilds section can be used for faster calculation.) If monthly hijink income exceeds the character's gp threshold, he earns XP equal to the difference. 
 
 Syndicate members earn XP equal to 50% of the gp value of hijinks they perpetrate successfully. On average, 1st level followers will earn 50XP per month from hijinks. Assuming that their leader manages to bail them out of trouble every time they get caught, followers will reach 2nd level in about 25 months (two years). Most ruffians do not, in practice, live that long. 
 
 
 ### 0th Level Characters and Experience from Campaigns
 
-A 0th level character may earn experience points from campaign activities. If the 0th level character earns 100 XP from campaign activities, he may advance to become a 1st level character. 0th level characters are always considered to be followers or henchmen and earn ½ XP. 
+A 0th level character may earn experience points from campaign activities. If the 0th level character earns 100 XP from campaign activities, he may advance to become a 1st level character. 0th level characters are always considered to be followers or henchmen and earn  1/2  XP. 
 
-Magical Research: 0th level characters who study under an arcane spellcaster of 9th level or higher may become 1st level mages. To qualify they must first possess the Alchemy, Collegiate Wizardry, Magical Engineering, or related proficiency (Judge’s discretion). They must then study for 1d6 months and make a proficiency throw of 14+, modified by their INT bonus or penalty. Success means the character advances to 1st level. Failure means the character has no gift for magic. 
+Magical Research: 0th level characters who study under an arcane spellcaster of 9th level or higher may become 1st level mages. To qualify they must first possess the Alchemy, Collegiate Wizardry, Magical Engineering, or related proficiency (Judge's discretion). They must then study for 1d6 months and make a proficiency throw of 14+, modified by their INT bonus or penalty. Success means the character advances to 1st level. Failure means the character has no gift for magic. 
 
-Domain and Mercantile Income: A 0th level character may earn XP from domain and mercantile income. They are treated as if they had a Gp Threshold of 25gp. The character will advance into a type of class appropriate to the domain managed. For instance, a petty noble’s son (0th level character) who inherits his father’s small domain (125gp per month) will earn 50 XP per month [(125gp – 25gp) x ½], advancing to become a 1st level fighter after 2 months as serving as baron (if bandits don’t kill him first). 
+Domain and Mercantile Income: A 0th level character may earn XP from domain and mercantile income. They are treated as if they had a Gp Threshold of 25gp. The character will advance into a type of class appropriate to the domain managed. For instance, a petty noble's son (0th level character) who inherits his father's small domain (125gp per month) will earn 50 XP per month [(125gp - 25gp) x  1/2 ], advancing to become a 1st level fighter after 2 months as serving as baron (if bandits don't kill him first). 
 
 Hijinks: A 0th level character may earn XP from perpetrating hijinks. In most cases, the only hijink available to 0th level characters is carousing (Hear Noises 18+). When the 0th level character earns 100xp from carousing, he may become a 1st level assassin, nightblade, or thief. Which class will depend on his race (only elves may be nightblades) and the sort of company the character is keeping. On average, it takes 0th level characters 6 months of consorting with unsavory sorts in dimly-lit taverns to advance.
 
-When a 0th level character advances to 1st level, he gains the Adventuring proficiency and his new class’s proficiency, powers, attack throws, and saving throws. The character re-rolls his hit points using his new class’s Hit Die, keeping either his new hp total or his prior hp total if it was higher. The new 1st level character retains any general proficiencies he already knew. Each time he becomes eligible to learn a new general proficiency by advancing in class level, he may replace one of these existing general proficiencies with a new general proficiency better suited to his new class.
+When a 0th level character advances to 1st level, he gains the Adventuring proficiency and his new class's proficiency, powers, attack throws, and saving throws. The character re-rolls his hit points using his new class's Hit Die, keeping either his new hp total or his prior hp total if it was higher. The new 1st level character retains any general proficiencies he already knew. Each time he becomes eligible to learn a new general proficiency by advancing in class level, he may replace one of these existing general proficiencies with a new general proficiency better suited to his new class.
 

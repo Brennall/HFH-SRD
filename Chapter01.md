@@ -2,7 +2,7 @@
 
 ### Rules for Roleplaying in a World of Swords, Sorcery, and Strongholds
 
-It is an age when empires totter on the brink of war, and terrible monsters tear at the fragile borderlands of men; when decaying cities teem with chaos and corruption, where nubile maidens are sacrificed to chthonic cults and nobles live in decadent pleasure on the toil of slaves; when heroes, wizards, and rogues risk everything in pursuit of glory, fortune, and power. These are days when adventurers can become conquerors… and conquerors can become kings!
+It is an age when empires totter on the brink of war, and terrible monsters tear at the fragile borderlands of men; when decaying cities teem with chaos and corruption, where nubile maidens are sacrificed to chthonic cults and nobles live in decadent pleasure on the toil of slaves; when heroes, wizards, and rogues risk everything in pursuit of glory, fortune, and power. These are days when adventurers can become conquerors... and conquerors can become kings!
 
 
 ## Chapter 1: Introduction
@@ -14,7 +14,7 @@ The Adventurer Conqueror King System (ACKS) is a set of rules for role-playing i
 
 The Adventurer Conqueror King System provides a complete toolkit for enjoying a wide variety of heroic fantasy settings. It covers character creation, spells and magic, encounters and combat, monsters and treasure, and all the associated game mechanics necessary for swords-and-sorcery adventure. 
 
-Whatever setting your adventures inhabit, with the Adventurer Conqueror King System, you can seek fame, wealth, and power by conquering foes, gathering treasure, and accumulating land and followers. If you are skilled and lucky, you may rise to become a mighty overlord, a wizard-king, or theocrat, holding the destiny of thousands in your hands. If not, the wages of your adventures will be merely death…
+Whatever setting your adventures inhabit, with the Adventurer Conqueror King System, you can seek fame, wealth, and power by conquering foes, gathering treasure, and accumulating land and followers. If you are skilled and lucky, you may rise to become a mighty overlord, a wizard-king, or theocrat, holding the destiny of thousands in your hands. If not, the wages of your adventures will be merely death...
 
 
 ### How to Use This Book
@@ -29,7 +29,7 @@ Chapter 3, Equipment, provides prices and statistics for the various weapons, ar
 
 Chapter 4, Proficiencies, details the various proficiencies that characters may acquire, along with information on the game mechanics of all proficiencies. 
 
-Chapter 5, Spells, lists the various spells that different characters may learn and cast, along with a detailed description of each spell’s effect in the game. 
+Chapter 5, Spells, lists the various spells that different characters may learn and cast, along with a detailed description of each spell's effect in the game. 
 
 Chapter 6, Adventures, provides rules for exploration, encounters, and combat in the dangerous and violent world that the player characters will adventure within.
 
@@ -46,7 +46,7 @@ Chapter 10, Secrets, provides guidelines for the Judge on constructing campaign 
 
 Read this section carefully! These terms will be used through the rules of the Adventurer Conqueror King System.
 
-When a group of people sit down to play using ACKS, the participants are called players, and they take on the role of a character (or, sometimes, more than one character). Characters played by players are referred to as player characters (PCs) or adventurers. The players act in the role of their characters in the world designed and presented by a special game participant referred to as the Game Judge (or Judge for short). It’s the Judge’s responsibility to prepare ahead of time to give the players opportunities for adventure, and to judge the results of their choices during adventurers fairly and wisely. The Judge is the referee of the game, and the final arbitrator of rules and rules decisions. He also narrates the action of the game, and plays the roles of all the various monsters in the world. A special type of monster is the non-player character (NPC). NPCs share many similarities with the characters played by the players, but the Judge determines their actions, personalities, and motivations. PCs, NPCs, and other monsters are collectively called creatures. 
+When a group of people sit down to play using ACKS, the participants are called players, and they take on the role of a character (or, sometimes, more than one character). Characters played by players are referred to as player characters (PCs) or adventurers. The players act in the role of their characters in the world designed and presented by a special game participant referred to as the Game Judge (or Judge for short). It's the Judge's responsibility to prepare ahead of time to give the players opportunities for adventure, and to judge the results of their choices during adventurers fairly and wisely. The Judge is the referee of the game, and the final arbitrator of rules and rules decisions. He also narrates the action of the game, and plays the roles of all the various monsters in the world. A special type of monster is the non-player character (NPC). NPCs share many similarities with the characters played by the players, but the Judge determines their actions, personalities, and motivations. PCs, NPCs, and other monsters are collectively called creatures. 
 
 Characters have ability scores, which determine how strong, smart, and otherwise talented they are. Based on their ability scores, characters each will select a class, such as fighter or mage, which might be thought of as a profession, and which dictates what sorts of training and capabilities characters can develop. Characters have levels of experience, or class levels, which measure how well-developed and powerful they are. Player characters begin at 1st level in a particular class. Normal people, lacking the call to adventure, are generally 0th level characters.
 
@@ -65,7 +65,7 @@ After many adventures, high-level characters will begin to construct strongholds
 
 ### Winning and Losing the Game
 
-No one “loses” when playing the Adventurer Conqueror King System. In the course of adventure, your adventurers will frequently die; this is a fact of the game, but it does not indicate failure or “losing” in the sense that someone loses at, say, a card game. One can measure “success” under the Adventurer Conqueror King System in many ways, such as acquiring treasure, levels of experience, or castles and followers. In some cases, a glorious death may be the greatest success! 
+No one "loses" when playing the Adventurer Conqueror King System. In the course of adventure, your adventurers will frequently die; this is a fact of the game, but it does not indicate failure or "losing" in the sense that someone loses at, say, a card game. One can measure "success" under the Adventurer Conqueror King System in many ways, such as acquiring treasure, levels of experience, or castles and followers. In some cases, a glorious death may be the greatest success! 
 
 However, the one common measure of success that everyone should strive for is to have fun. Everyone can win at this game, because everyone can have fun playing it. So while a character may die, or riches may be lost, it is the game play itself that matters. Winning is in being able to suspend disbelief long enough to be immersed in the fantasy world you create with your party. 
 
@@ -78,11 +78,11 @@ The 20 sided die, or d20, is one of the most important dice in the game: it is u
 
 The 10 sided die, or d10, is used to generate numbers from 1 to 10; it is numbered 0 to 9, but a roll of 0 is counted as 10.  A pair of d10s are also used together to generate numbers from 1 to 100, where a roll of 00 is counted as 100.  The two dice should be different colors, and the player must declare which die is the tens digit and which die is the ones digit before rolling them!    Rolling two d10s this way is called a percentile roll, or d100.  
 
-The 4 sided die, or d4, is a special case.  It is not so much rolled as “flipped,” and the number which is upright is the result of the roll.  
+The 4 sided die, or d4, is a special case.  It is not so much rolled as "flipped," and the number which is upright is the result of the roll.  
 
 The other dice normally used have 6, 8, and 12 sides, and are called d6, d8, and d12.  d6s may be made with either numbers or pips; it makes no difference which sort you choose.
 
-When multiple dice are to be rolled and added together, it is noted in the text like this: 2d6 (roll two d6 dice and add them together), or 3d4 (roll three d4 dice and add them together).  A modifier may be noted as a “plus” value, such as 2d8+2 (roll two d8 dice and add them together, then add two to the total).
+When multiple dice are to be rolled and added together, it is noted in the text like this: 2d6 (roll two d6 dice and add them together), or 3d4 (roll three d4 dice and add them together).  A modifier may be noted as a "plus" value, such as 2d8+2 (roll two d8 dice and add them together, then add two to the total).
 
 
 ### Notation - Meaning
@@ -91,7 +91,7 @@ When multiple dice are to be rolled and added together, it is noted in the text 
 * d4 - Four sided die
 * d6 - Six sided die
 * d8 - Eight sided die
-* d10 - Ten sided die, a “0” indicates a result of 10
+* d10 - Ten sided die, a "0" indicates a result of 10
 * d12 - Twelve sided die
 * d20 - Twenty sided die
 * d100 - Percentile dice (a number between 1 and 100 is generated by rolling two different ten-sided dice. One, designated before rolling, is the tens digit. The other is the ones digit. Two 0s represent 100.
@@ -116,7 +116,7 @@ To make a roll of the dice, you follow these steps:
 
 3. Apply the total as required by the given situation. 
 
-Sometimes a roll will be applied for an absolute result. For example, a damage roll is applied directly against the hit points of the target hit. Other rolls are relative to each other. For example, a character’s initiative roll is compared against the initiative rolls of other characters to determine who goes first during combat. An initiative roll of 6 has no absolute meaning other than being faster than an initiative roll of 5.  Other rolls are compared to a table. 
+Sometimes a roll will be applied for an absolute result. For example, a damage roll is applied directly against the hit points of the target hit. Other rolls are relative to each other. For example, a character's initiative roll is compared against the initiative rolls of other characters to determine who goes first during combat. An initiative roll of 6 has no absolute meaning other than being faster than an initiative roll of 5.  Other rolls are compared to a table. 
 
 
 ### Throwing the Dice
@@ -133,7 +133,7 @@ To make a throw of the dice, you follow these steps:
 3. Compare the total to a target value for the action, usually expressed as #+ (such as 12+).
 
 
-If the total equals or exceeds the target value, the outcome is favorable to the character. If the result is lower than the target value, the outcome is unfavorable to the character. The value required to succeed at different throws is usually based on the character’s class and level. For instance, fighters have easier attack throws than other than characters, while thieves have easier proficiency throws to sneak around.
+If the total equals or exceeds the target value, the outcome is favorable to the character. If the result is lower than the target value, the outcome is unfavorable to the character. The value required to succeed at different throws is usually based on the character's class and level. For instance, fighters have easier attack throws than other than characters, while thieves have easier proficiency throws to sneak around.
 
 *Example*: Marcus has an attack throw value of 6+. When he makes an attack throw, he will roll 1d20, add any relevant modifiers to the die, and compare the total to his attack throw value. If it equals or exceeds 6, he will hit. 
 
