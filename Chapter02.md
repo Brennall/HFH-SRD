@@ -509,6 +509,8 @@ Starting Equipment: | Crossbow, quiver with 20 bolts, short sword, dagger, well-
 This pre-generated template represents a wandering minstrel with magic in his song. The template is ready for adventure. However, if your bard's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4).
 
 
+### Bard Level Progression
+
 | Experience | Title            | Level | Hit Dice | Arcane Dabbling | Loremastery |
 | ---------: | :--------------- | ----: | :------- | --------------: | ----------: |
 |          0 | Reciter          |     1 | 1d6      |             18+ |         18+ |
