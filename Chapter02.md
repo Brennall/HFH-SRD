@@ -474,13 +474,13 @@ This pre-generated template represents a swaggering killer-for-hire. The templat
 
 ### Bard
 
-Prime Requisite:	DEX and CHA
+Prime Requisite:        DEX and CHA
 
-Requirements:		None
+Requirements:           None
 
-Hit Dice:		1d6
+Hit Dice:               1d6
 
-Maximum Level:		14
+Maximum Level:          14
 
 Successful adventurers live forever in the sagas and songs about their deeds. Remembering and recounting these sagas is the profession of bards. Most bards are content to recite the deeds of others, but some bold few participate in the dangers themselves and become inspiring heroes in their own right. A bard might be an adventuring minstrel with a sword in his hand and a song at his lips, a warrior-skald, or haughty aristocrat. 
 
@@ -503,75 +503,75 @@ Upon reaching 9th level (Bard), a bard can build a hall and become a ruler. When
 At 10th level, the bard can read and cast magic from arcane scrolls with a proficiency throw of 3+ on 1d20. However, a failed throw means the spell does not function as expected, and can create a horrible effect at the Judge's discretion.
 
 
-### Template:      	     Wandering Minstrel
+### Template:                Wandering Minstrel
 
-Proficiencies:	     Magical Music, Diplomacy
+Proficiencies:       Magical Music, Diplomacy
 
 Starting Equipment:  Crossbow, quiver with 20 bolts, short sword, dagger, well-maintained leather armor, traveler's tunic and sturdy boots, backpack, musical instrument, 2 week's iron rations
 
 This pre-generated template represents a wandering minstrel with magic in his song. The template is ready for adventure. However, if your bard's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4). 
 
 
-### Experience	   Title    	       Level	   Hit Dice 	 Arcane Dabbling    Loremastery 
+### Experience     Title               Level       Hit Dice      Arcane Dabbling    Loremastery 
 
-0		   Reciter	       1	   1d6 		 18+		    18+
+0                  Reciter             1           1d6           18+                18+
 
-1,400		   Versifier	       2	   2d6		 16+		    17+
+1,400              Versifier           2           2d6           16+                17+
 
-2,800		   Archivist	       3	   3d6		 14+		    16+
+2,800              Archivist           3           3d6           14+                16+
 
-5,600		   Annalist	       4	   4d6		 12+		    15+
+5,600              Annalist            4           4d6           12+                15+
 
-11,200		   Chronicler	       5	   5d6		 10+		    14+
+11,200             Chronicler          5           5d6           10+                14+
 
-22,400		   Panegyrist	       6	   6d6		 8+		    13+
+22,400             Panegyrist          6           6d6           8+                 13+
 
-45,000		   Skald	       7	   7d6		 6+		    12+
+45,000             Skald               7           7d6           6+                 12+
 
-90,000		   Rhapsodist	       8	   8d6		 4+		    11+
+90,000             Rhapsodist          8           8d6           4+                 11+
 
-190,000		   Bard		       9	   9d6		 3+		    10+
+190,000            Bard                9           9d6           3+                 10+
 
-290,000		   Bard, 10th level    10	   9d6+2*	 3+		    9+
+290,000            Bard, 10th level    10          9d6+2*        3+                 9+
 
-390,000		   Bard, 11th level    11	   9d6+4*	 3+		    8+
+390,000            Bard, 11th level    11          9d6+4*        3+                 8+
 
-490,000		   Bard, 12th level    12	   9d6+6*	 3+		    7+
+490,000            Bard, 12th level    12          9d6+6*        3+                 7+
 
-590,000		   Bard, 13th level    13	   9d6+8*	 3+		    6+
+590,000            Bard, 13th level    13          9d6+8*        3+                 6+
 
-690,000		   Master Bard	       14	   9d6+10*	 3+		    5+
+690,000            Master Bard         14          9d6+10*       3+                 5+
 *Hit point modifiers from constitution are ignored
 
 
 ### Bard (Thief) Attack and Saving Throws
 
-Level	     Petrification & Paralysis	Poison & Death	Blast & Breath	Staffs & Wands	Spells	Attack Throw
+Level        Petrification & Paralysis  Poison & Death  Blast & Breath  Staffs & Wands  Spells  Attack Throw
 
-1-2	     13+	     		13+    	 	16+   		14+    	 	15+	10+
+1-2          13+                        13+             16+             14+             15+     10+
 
-3-4	     12+			12+		15+		13+		14+	9+
+3-4          12+                        12+             15+             13+             14+     9+
 
-5-6	     11+			11+		14+		12+		13+	8+
+5-6          11+                        11+             14+             12+             13+     8+
 
-7-8	     10+			10+		13+		11+		12+	7+
+7-8          10+                        10+             13+             11+             12+     7+
 
-9-10	     9+				9+		12+		10+		11+	6+
+9-10         9+                         9+              12+             10+             11+     6+
 
-11-12	     8+				8+		11+		9+		10+	5+
+11-12        8+                         8+              11+             9+              10+     5+
 
-13-14+	     7+				7+		10+		8+		9+	4+
+13-14+       7+                         7+              10+             8+              9+      4+
 
 
 ### Bladedancer
 
-Prime Requisite:	WIS and DEX
+Prime Requisite:        WIS and DEX
 
-Requirements: 		None
+Requirements:           None
 
-Hit Dice: 		1d6
+Hit Dice:               1d6
 
-Maximum Level: 		14
+Maximum Level:          14
 
 Bladedancers are human women who have dedicated themselves to the service of a goddess of war. They belong to military clerical orders, where they are trained in fighting and casting spells. Most bladedancers are trained to the art from a young age at the Temples of the Goddess of Love and War. A fully trained bladedancer is highly coveted as a bodyguard and escort by the great noble houses. 
 
@@ -586,77 +586,77 @@ When a bladedancer reaches 5th level (Blade-Sister), she may begin to research s
 When a bladedancer reaches 9th level (Blade-Mistress), she may choose to construct a temple as a stronghold. If she has not lost the favor of her deity, the cost of building the temple will be half the normal amount due to miraculous assistance from the bladedancer's honored deity. Once the temple is completed, fanatically loyal bladedancers called the "faithful," who need never check morale, will come to defend the Blade-Mistress. There will be 5d6x10 0th level soldiers armed with various weapons, plus another 1d6 bladedancers of 1st-3rd level to serve the order. While in the bladedancer's service, her followers must be provided food and lodging, but need not be paid wages. Additional rules for temples are detailed in the Campaign chapter.
 
 
-### Template:	     Temple Bladedancer
+### Template:        Temple Bladedancer
 
-Proficiencies:	     Swashbuckler, Performance (Dance)
+Proficiencies:       Swashbuckler, Performance (Dance)
 
 Starting Equipment:  Pair of gracefully curved swords, polished leather armor, golden silk cloak, bladedancer's head dress (20gp value), holy symbol, backpack, 2 week's iron rations
 
 This pre-generated template represents a temple-trained bladedancer. The template is ready for adventure. However, if your bladedancer's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4). 
 
 
-### Bladedancer Level Progression	       	 			       	        Bladedancer Spell Progression
+### Bladedancer Level Progression                                                       Bladedancer Spell Progression
 
-Experience  Title 		       Level	   Hit Dice	AC Bonus	1	2	3	4	5	
+Experience  Title                      Level       Hit Dice     AC Bonus        1       2       3       4       5       
 
-0	    Blade-Initiate	       1	   1d6 		+1 		0	0	0	0	0
+0           Blade-Initiate             1           1d6          +1              0       0       0       0       0
 
-1,500	    Blade-Daughter	       2	   2d6		+1		1	0	0	0	0
+1,500       Blade-Daughter             2           2d6          +1              1       0       0       0       0
 
-3,000	    Blade-Singer	       3	   3d6		+1		2	0	0	0	0
+3,000       Blade-Singer               3           3d6          +1              2       0       0       0       0
 
-6,000	    Blade-Weaver	       4	   4d6		+1		2	1	0	0	0
+6,000       Blade-Weaver               4           4d6          +1              2       1       0       0       0
 
-12,000	    Blade-Sister	       5	   5d6		+1		2	2	0	0	0
+12,000      Blade-Sister               5           5d6          +1              2       2       0       0       0
 
-24,000	    Blade-Adept		       6	   6d6		+1		2	2	1	1	0
+24,000      Blade-Adept                6           6d6          +1              2       2       1       1       0
 
-50,000	    Blade-Dancer	       7	   7d6		+2		2	2	2	1	1	
+50,000      Blade-Dancer               7           7d6          +2              2       2       2       1       1       
 
-100,000	    Blade-Priestess	       8	   8d6		+2		3	3	2	2	1
+100,000     Blade-Priestess            8           8d6          +2              3       3       2       2       1
 
-200,000	    Blade-Mistress	       9	   9d6		+2		3	3	3	2	2
+200,000     Blade-Mistress             9           9d6          +2              3       3       3       2       2
 
-300,000	    Blade-Mistress, 10th level 10	   9d6+1*	+2		4	4	3	3	2
+300,000     Blade-Mistress, 10th level 10          9d6+1*       +2              4       4       3       3       2
 
-400,000	    Blade-Mistress, 11th level 11	   9d6+2*	+2		4	4	4	3	3
+400,000     Blade-Mistress, 11th level 11          9d6+2*       +2              4       4       4       3       3
 
-500,000	    Blade-Mistress, 12th level 12	   9d6+3*	+2		5	5	4	4	3
+500,000     Blade-Mistress, 12th level 12          9d6+3*       +2              5       5       4       4       3
 
-600,000	    Blade-Mistress, 13th level 13	   9d6+4*	+3		5	5	5	4	3
+600,000     Blade-Mistress, 13th level 13          9d6+4*       +3              5       5       5       4       3
 
-700,000	    Mistress of All Blades     14	   9d6+5*	+3		6	5	5	5	4
+700,000     Mistress of All Blades     14          9d6+5*       +3              6       5       5       5       4
 *Hit point modifiers from constitution are ignored
 
 
 ### Bladedancer (Cleric) Attack and Saving Throws
 
-Level	    Petrification & Paralysis  Poison & Death	Blast & Breath	Staffs & Wands	Spells	Attack Throw
+Level       Petrification & Paralysis  Poison & Death   Blast & Breath  Staffs & Wands  Spells  Attack Throw
 
-1-2	    13+		    	       10+    		16+   		13+    	 	15+	10+
+1-2         13+                        10+              16+             13+             15+     10+
 
-3-4	    12+			       9+		15+		12+		14+	9+
+3-4         12+                        9+               15+             12+             14+     9+
 
-5-6	    11+			       8+		14+		11+		13+	8+
+5-6         11+                        8+               14+             11+             13+     8+
 
-7-8	    10+			       7+		13+		10+		12+	7+
+7-8         10+                        7+               13+             10+             12+     7+
 
-9-10	    9+			       6+		12+		9+		11+	6+
+9-10        9+                         6+               12+             9+              11+     6+
 
-11-12	    8+			       5+		11+		8+		10+	5+
+11-12       8+                         5+               11+             8+              10+     5+
 
-13- 14+	    7+			       4+		10+		7+		9+	4+
+13- 14+     7+                         4+               10+             7+              9+      4+
 
 
 ### Explorer
 
-Prime Requisite:	STR and DEX
+Prime Requisite:        STR and DEX
 
-Requirements:		None
+Requirements:           None
 
-Hit Dice:		1d6
+Hit Dice:               1d6
 
-Maximum Level:		14
+Maximum Level:          14
 
 Explorers are scouts and trackers, adept at both woodcraft and archery. Few adventuring parties would dare the wilderness without an experienced explorer to guide them. An explorer might be a long range scout, a barbarian hunter from the northern forests, or a settler pushing past the borders civilization.
 
@@ -673,9 +673,9 @@ When an explorer reaches 5th level (Guide), his experience and hardiness reassur
 When an explorer reaches 9th level (Warden), he may decide to build a border fort in the borderlands or wilderness. When he does so, up to 1d4+1 x10 0th level mercenaries and 1d6 explorers of 1st - 3rd level will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries. The character becomes the warden of any nearby settlers, and will attract more settlers over time. These people will look to the Warden as their leader, responsible for the growth and safety of their settlement. Additional rules for border forts are detailed in the Campaign chapter.
 
 
-### Template:	    Pathfinder
+### Template:       Pathfinder
 
-Proficiencies:	    Precise Shot, Tracking
+Proficiencies:      Precise Shot, Tracking
 
 Starting Equipment: Sturdy longbow, quiver with 20 arrows, spear, short sword, dagger, chainmail armor, wind-battered fur cloak, boots, backpack, 2 week's iron rations, wineskin, lantern, tinderbox, 2 flasks of common oil, blanket, 50' rope, 12 iron spikes, small hammer and 20sp
 
@@ -684,61 +684,61 @@ This pre-generated template represents a keen-eyed archer and tracker. The templ
 
 ### Explorer Level Progression
 
-Experience     Title			Level	Hit Dice	Damage Bonus
+Experience     Title                    Level   Hit Dice        Damage Bonus
 
-0	       Scout			1	1d6 		+1
+0              Scout                    1       1d6             +1
 
-2,000	       Outrider			2	2d6		+1	
+2,000          Outrider                 2       2d6             +1      
 
-4,000	       Forester			3	3d6		+2
+4,000          Forester                 3       3d6             +2
 
-8,000	       Explorer			4	4d6		+2
+8,000          Explorer                 4       4d6             +2
 
-16,000	       Guide			5	5d6		+2
+16,000         Guide                    5       5d6             +2
 
-32,000	       Tracker			6	6d6		+3
+32,000         Tracker                  6       6d6             +3
 
-65,000	       Pathfinder		7	7d6		+3
+65,000         Pathfinder               7       7d6             +3
 
-130,000	       Ranger			8	8d6		+3
+130,000        Ranger                   8       8d6             +3
 
-250,000	       Warden			9	9d6		+4
+250,000        Warden                   9       9d6             +4
 
-370,000	       Warden, 10th level	10	9d6+2*		+4
+370,000        Warden, 10th level       10      9d6+2*          +4
 
-490,000	       Warden, 11th level	11	9d6+4*		+4
+490,000        Warden, 11th level       11      9d6+4*          +4
 
-610,000	       Warden, 12th level 	12	9d6+6*		+5
+610,000        Warden, 12th level       12      9d6+6*          +5
 
-730,000	       Warden, 13th level	13	9d6+8*		+5
+730,000        Warden, 13th level       13      9d6+8*          +5
 
-850,000	       Lord Warden  		14	9d6+10*		+5
+850,000        Lord Warden              14      9d6+10*         +5
 *Hit point modifiers from constitution are ignored
 
 
 ### Explorer (Fighter) Attack and Saving Throws
 
-Level	 	   Petrification & Paralysis	Poison & Death	Blast & Breath	Staffs & Wands	Spells	Attack Throw
+Level              Petrification & Paralysis    Poison & Death  Blast & Breath  Staffs & Wands  Spells  Attack Throw
 
-1		   15+		   		14+    	 	16+   		16+    	 	17+	10+
+1                  15+                          14+             16+             16+             17+     10+
 
-2-3		   14+				13+		15+		15+		16+	9+
+2-3                14+                          13+             15+             15+             16+     9+
 
-4		   13+				12+		14+		14+		15+	8+
+4                  13+                          12+             14+             14+             15+     8+
 
-5-6		   12+				11+		13+		13+		14+	7+
+5-6                12+                          11+             13+             13+             14+     7+
 
-7		   11+				10+		12+		12+		13+	6+
+7                  11+                          10+             12+             12+             13+     6+
 
-8-9		   10+				9+		11+		11+		12+	5+
+8-9                10+                          9+              11+             11+             12+     5+
 
-10		   9+				8+		10+		10+		11+	4+
+10                 9+                           8+              10+             10+             11+     4+
 
-11-12		   8+				7+		9+		9+		10+	3+
+11-12              8+                           7+              9+              9+              10+     3+
 
-13		   7+				6+		8+		8+		9+	2+
+13                 7+                           6+              8+              8+              9+      2+
 
-14+		   6+				5+		7+		7+		8+	1+
+14+                6+                           5+              7+              7+              8+      1+
 
 
 ### Demi-Human Classes
@@ -746,13 +746,13 @@ Level	 	   Petrification & Paralysis	Poison & Death	Blast & Breath	Staffs & Wand
 
 ### Dwarven Vaultguard
 
-Prime Requisite:	STR
+Prime Requisite:        STR
 
-Requirements:		CON 9
+Requirements:           CON 9
 
-Hit Dice:		1d8
+Hit Dice:               1d8
 
-Maximum Level:		13
+Maximum Level:          13
 
 Dwarves are stout, short, bearded demi-humans who average a height of approximately 4' and weigh about 150lb. Perhaps not surprisingly, they have skin, hair and eye colors in earth tones. Dwarves have a reputation for having surly attitudes, and are particularly gruff with elves. They value precious metals and stones, and live in deep underground vaults, where they endure constant raids from the orcs, trolls, and even worse denizens of the darkness below.
 
@@ -767,9 +767,9 @@ In addition to these abilities, dwarves are particularly hardy people. The targe
 When a dwarven vaultguard reaches 9th level (Vaultlord), he can attract dwarves from far and wide by constructing his own underground vault. Dwarves usually live in clans, so dwarves of the character's clan will be the first to live under his roof, but dwarves from other clans will also come and live nearby to be ruled by the character. A total of 3d6x10 1st level NPCs of the same race will move in to help maintain and defend the vault at no cost to the character. A dwarven vaultguard is expected to employ only soldiers of dwarven descent, but may hire members of other races for other tasks. Additional rules for dwarven vaults are detailed in the Campaign chapter.
 
 
-### Template:      	     Goblin Slayer
+### Template:                Goblin Slayer
 
-Proficiencies: 	     Goblin-Slaying, Caving
+Proficiencies:       Goblin-Slaying, Caving
 
 Starting Equipment:  Dwarven battle axe, brace of 3 hand axes, rust-free banded plate armor, large steel shield with painted vault insignia, backpack, 2 week's iron rations, lantern, 2 flasks of military oil, 3 flasks of common oil, tinder box
 
@@ -778,68 +778,68 @@ This pre-generated template represents a dwarven vaultguard specializing in figh
 
 ### Dwarven Vaultguard Level Progression
 
-Experience	   Title			Level		Hit Dice	Damage Bonus
+Experience         Title                        Level           Hit Dice        Damage Bonus
 
-0		   Sentry	    		1		1d8 		+1
+0                  Sentry                       1               1d8             +1
 
-2,200		   Warden	    		2		2d8		+1
+2,200              Warden                       2               2d8             +1
 
-4,400		   Shieldbearer	    		3		3d8		+2
+4,400              Shieldbearer                 3               3d8             +2
 
-8,800		   Defender	    		4		4d8		+2
+8,800              Defender                     4               4d8             +2
 
-17,500		   Sentinel	    		5		5d8		+2
+17,500             Sentinel                     5               5d8             +2
 
-35,000		   Guardian	    		6		6d8		+3
+35,000             Guardian                     6               6d8             +3
 
-70,000		   Champion	    		7		7d8		+3
+70,000             Champion                     7               7d8             +3
 
-140,000		   Vaultguard	    		8		8d8		+3	
+140,000            Vaultguard                   8               8d8             +3      
 
-270,000		   Vaultlord	         	9		9d8		+4
+270,000            Vaultlord                    9               9d8             +4
 
-400,000		   Vaultlord, 10th lvl		10		9d8+3*		+4
+400,000            Vaultlord, 10th lvl          10              9d8+3*          +4
 
-530,000		   Vaultlord, 11th lvl		11		9d8+6*		+4
+530,000            Vaultlord, 11th lvl          11              9d8+6*          +4
 
-660,000		   Vaultlord, 12th lvl		12		9d8+9*		+5
+660,000            Vaultlord, 12th lvl          12              9d8+9*          +5
 
-790,000		   Vaultlord, 13th lvl		13		9d8+12*		+5
+790,000            Vaultlord, 13th lvl          13              9d8+12*         +5
 *Hit point modifiers from constitution are ignored
 
 
 ### Dwarven Vaultguard (Fighter) Attack and Saving Throws
 
-Level	Petrification & Paralysis   Poison & Death	Blast & Breath		Staffs & Wands		Spells		Attack Throw
+Level   Petrification & Paralysis   Poison & Death      Blast & Breath          Staffs & Wands          Spells          Attack Throw
 
-1	11+	      		    10+	     		13+   			12+    	 		13+		10+
+1       11+                         10+                 13+                     12+                     13+             10+
 
-2-3	10+			    9+			12+			11+			12+		9+
+2-3     10+                         9+                  12+                     11+                     12+             9+
 
-4	9+			    8+			11+			10+			11+		8+
+4       9+                          8+                  11+                     10+                     11+             8+
 
-5-6	8+			    7+			10+			9+			10+		7+
+5-6     8+                          7+                  10+                     9+                      10+             7+
 
-7	7+			    6+			9+			8+			9+		6+
+7       7+                          6+                  9+                      8+                      9+              6+
 
-8-9	6+			    5+			8+			7+			8+		5+
+8-9     6+                          5+                  8+                      7+                      8+              5+
 
-10	5+			    4+			7+			6+			7+		4+
+10      5+                          4+                  7+                      6+                      7+              4+
 
-11-12	4+			    3+			6+			5+			6+		3+
+11-12   4+                          3+                  6+                      5+                      6+              3+
 
-13	3+			    2+			5+			4+			5+		2+
+13      3+                          2+                  5+                      4+                      5+              2+
 
 
 ### Dwarven Craftpriest
 
-Prime Requisite:	WIS
+Prime Requisite:        WIS
 
-Requirements:		CON 9
+Requirements:           CON 9
 
-Hit Dice:		1d6
+Hit Dice:               1d6
 
-Maximum Level:		10
+Maximum Level:          10
 
 Nothing is so revered among the dwarven people as craftsmanship. A dwarf's work is his life, and the spirits of great dwarven artisans are believed to live on forever in their masterpieces. The veneration of these relics falls to the care of a caste of dwarves known as craftpriests. While most craftpriests attend to the shrines and monuments of their clan, young craftpriests are sometimes sent forth to recover monuments to the glorious past from the ancient ruins and wastelands of the world. This class represents such a craftpriest. 
 
@@ -855,68 +855,67 @@ Starting at 5th level (Craft-Vicar), a craftpriest may begin to research spells,
 
  
 
-Template:		Reclaimer
+Template:               Reclaimer
 
-Proficiencies:		Magical Engineering, Knowledge (History)
+Proficiencies:          Magical Engineering, Knowledge (History)
 
-Starting Equipment:	Warhammer with carved head, engraved banded plate armor, steel shield with craft insignia, steel holy symbol (craft insignia), backpack, 2 week's iron rations, craftsman's tools
+Starting Equipment:     Warhammer with carved head, engraved banded plate armor, steel shield with craft insignia, steel holy symbol (craft insignia), backpack, 2 week's iron rations, craftsman's tools
 
 This pre-generated template represents a craftpriest focused on reclaiming lost artifacts from evil forces. The template is ready for adventure. However, if your dwarven craftpriest's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see Starting Proficiencies in Chapter 4). 
 
 
-### Craftpriest Level Progression	       	 	     	     		   	Craftpriest Spell Progression
+### Craftpriest Level Progression                                                       Craftpriest Spell Progression
 
-Experience  	  Title		                 Level		Hit Dice	1      2      3      4      5
+Experience        Title                          Level          Hit Dice        1      2      3      4      5
 
-0		  Dwarven Craft-Catechist        1		1d6 		0      0      0	     0	    0
+0                 Dwarven Craft-Catechist        1              1d6             0      0      0      0      0
 
-2,650		  Dwarven Craft-Acolyte	         2		2d6		1      0      0	     0	    0
+2,650             Dwarven Craft-Acolyte          2              2d6             1      0      0      0      0
 
-5,300		  Dwarven Craftpriest	         3		3d6		2      0      0	     0	    0
+5,300             Dwarven Craftpriest            3              3d6             2      0      0      0      0
 
-10,600		  Dwarven Craft-Curate	         4		4d6		2      1      0	     0	    0
+10,600            Dwarven Craft-Curate           4              4d6             2      1      0      0      0
 
-21,200		  Dwarven Craft-Vicar	         5		5d6		2      2      0	     0	    0
+21,200            Dwarven Craft-Vicar            5              5d6             2      2      0      0      0
 
-42,500		  Dwarven Craft-Rector	         6		6d6		2      2      1	     1	    0
+42,500            Dwarven Craft-Rector           6              6d6             2      2      1      1      0
 
-85,000		  Dwarven Craft-Prelate	         7		7d6		2      2      2	     1	    1
+85,000            Dwarven Craft-Prelate          7              7d6             2      2      2      1      1
 
-170,000		  Dwarven Craft-Bishop	         8		8d6		3      3      2	     2	    1
+170,000           Dwarven Craft-Bishop           8              8d6             3      3      2      2      1
 
-300,000		  Dwarven Craft-Lord	         9		9d6		3      3      3	     2	    2
+300,000           Dwarven Craft-Lord             9              9d6             3      3      3      2      2
 
-430,000		  Dwarven Craft-Lord, 10th lvl   10		9d6+2*		4      4      3	     3	    2
+430,000           Dwarven Craft-Lord, 10th lvl   10             9d6+2*          4      4      3      3      2
 *Hit point modifiers from constitution are ignored
 
 
 ### Dwarven Craftpriest (Cleric) Attack and Saving Throws
 
-Level	Petrification & Paralysis   Poison & Death	Blast & Breath	Staffs & Wands	Spells	Attack Throw
+Level   Petrification & Paralysis   Poison & Death      Blast & Breath  Staffs & Wands  Spells  Attack Throw
 
-1-2	9+	      		    6+	     		13+   		9+     	 	11+	10+
+1-2     9+                          6+                  13+             9+              11+     10+
 
-3-4	8+			    5+			12+		8+		10+	9+
+3-4     8+                          5+                  12+             8+              10+     9+
 
-5-6	7+			    4+			11+		7+		9+	8+
+5-6     7+                          4+                  11+             7+              9+      8+
 
-7-8	6+			    3+			10+		6+		8+	7+
+7-8     6+                          3+                  10+             6+              8+      7+
 
-9-10	5+			    2+			9+		5+		7+	6+
+9-10    5+                          2+                  9+              5+              7+      6+
 
 
 ### Elven Spellsword
 
-Prime Requisite:	STR and INT
+Prime Requisite:        STR and INT
 
-Requirements:		None
+Requirements:           None
 
-Hit Dice:		1d6
+Hit Dice:               1d6
 
-Maximum Level:		10
+Maximum Level:          10
 
-
-### Elves are lithe, fey beings with pointed ears, delicate features, and graceful movement. They typically weigh about 130lb and stand between 5  1/2 ' and 6' tall. Humans envy their long lifespans and seeming agelessness. Though elves are a peaceful people that enjoy poetry and art, they are also very talented fighters and skilled mages. The elven spellsword class represents one such remarkable elf, trained in the arts of both fighters and mages. 
+Elves are lithe, fey beings with pointed ears, delicate features, and graceful movement. They typically weigh about 130lb and stand between 5  1/2 ' and 6' tall. Humans envy their long lifespans and seeming agelessness. Though elves are a peaceful people that enjoy poetry and art, they are also very talented fighters and skilled mages. The elven spellsword class represents one such remarkable elf, trained in the arts of both fighters and mages. 
 
 Elven spellswords learn an elegant, deadly style of fighting. At first level, elven spellswords hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws and saving throws as fighters, by two points every three levels of experience. They increase their base damage roll from successful missile and melee attacks by +1 at 1st level, and by an additional +1 at 3rd, 6th, and 9th level. Elven spellswords can wield any weapon and wear any armor. They are trained to fight wielding a weapon and shield, wielding a two-handed weapon, and wielding a weapon in each hand. 
 
@@ -929,9 +928,9 @@ Starting at 5th level (Thaumaturge-Exemplar), elven spellswords may begin to res
 At 9th level (Wizard-Lord), elven spellswords can also establish a fastness in a natural setting, such as a forest or glen. Rather than impose upon nature, this keep must blend seamlessly with it. A total of 3d6x10 1st level elven NPCs will move in to help with it and defend the fastness at no cost to the character. Additional rules for elven fastnesses are detailed in the Campaign chapter.
 
 
-### Template:    	       Fighter-Mage
+### Template:                  Fighter-Mage
 
-Proficiencies:	       Battle Magic, Military Strategy
+Proficiencies:         Battle Magic, Military Strategy
 
 Starting Equipment:    Gracefully curved sword and dagger, elven composite bow, quiver with 20 arrows, chainmail armor, embroidered cloak, boots, backpack, 2 week's iron rations, spell book with magic missile 
 
@@ -940,58 +939,58 @@ This pre-generated template represents a traditional fighter-mage of elven herit
 
 ### Spellsword Level ProgressionSpellsword Spell Progression
 
-Experience 	 Title		           Level	Hit Dice	1	2	3	4	
+Experience       Title                     Level        Hit Dice        1       2       3       4       
 
-0		 Arcanist-Guardian     	   1		1d6 		1	-	-	-
+0                Arcanist-Guardian         1            1d6             1       -       -       -
 
-4,000		 Warrior-Seer	       	   2		2d6		2	-	-	-
+4,000            Warrior-Seer              2            2d6             2       -       -       -
 
-8,000		 Theurgist-Swordmaster 	   3		3d6		2	1	-	-
+8,000            Theurgist-Swordmaster     3            3d6             2       1       -       -
 
-16,000		 Magician-Hero	       	   4		4d6		2	2	-	-
+16,000           Magician-Hero             4            4d6             2       2       -       -
 
-32,000		 Thaumaturge-Exemplar  	   5		5d6		2	2	1	-
+32,000           Thaumaturge-Exemplar      5            5d6             2       2       1       -
 
-64,000		 Myrmidon-Enchanter    	   6		6d6		2	2	2	-
+64,000           Myrmidon-Enchanter        6            6d6             2       2       2       -
 
-130,000		 Sorcerer-Champion     	   7		7d6		3	2	2	1
+130,000          Sorcerer-Champion         7            7d6             3       2       2       1
 
-260,000		 Epic Hero-Mage	       	   8		8d6		3	3	2	2
+260,000          Epic Hero-Mage            8            8d6             3       3       2       2
 
-430,000		 Wizard-Lord	           9		9d6		3	3	3	2
+430,000          Wizard-Lord               9            9d6             3       3       3       2
 
-600,000		 Wizard-Lord, 10th level   10		9d6+2*		3	3	3	3
+600,000          Wizard-Lord, 10th level   10           9d6+2*          3       3       3       3
 *Hit point modifiers from constitution are ignored
 
 
 ### Elven Spellsword (Fighter) Attack and Saving Throws
 
-Level   Petrification & Paralysis     Poison & Death	Blast & Breath	Staffs & Wands	Spells	Attack Throw
+Level   Petrification & Paralysis     Poison & Death    Blast & Breath  Staffs & Wands  Spells  Attack Throw
 
-1	14+	      		      14+      		16+   		16+    	 	16+	10+    
+1       14+                           14+               16+             16+             16+     10+    
 
-2-3	13+			      13+		15+		15+		15+	9+
+2-3     13+                           13+               15+             15+             15+     9+
 
-4	12+			      12+		14+		14+		14+	8+
+4       12+                           12+               14+             14+             14+     8+
 
-5-6	11+			      11+		13+		13+		13+	7+
+5-6     11+                           11+               13+             13+             13+     7+
 
-7	10+			      10+		12+		12+		12+	6+
+7       10+                           10+               12+             12+             12+     6+
 
-8-9	9+			      9+		11+		11+		11+	5+
+8-9     9+                            9+                11+             11+             11+     5+
 
-10	8+			      8+		10+		10+		10+	4+
+10      8+                            8+                10+             10+             10+     4+
 
 
 ### Elven Nightblade
 
-Prime Requisite:	DEX and INT
+Prime Requisite:        DEX and INT
 
-Requirements:		None
+Requirements:           None
 
-Hit Dice:		1d6
+Hit Dice:               1d6
 
-Maximum Level:		11
+Maximum Level:          11
 
 Elves are a subtle race, and never does their gift for finesse and subtlety so reveal itself as in the practice of death-dealing. Cunning, deadly, and rarely seen, the elven nightblade is an assassin and sorcerer whose art is murder. Most nightblades practice their work in the courts of elven nobility.
 
@@ -1008,63 +1007,61 @@ When they reach 9th level (Nightblade), elven nightblades may construct a hideou
 When they reach 10th level, elven nightblades may begin to research spells, scribe magical scrolls, and brew potions, as if they were 5th level mages.
 
 
-### Template: 	     	Silent Slayer
+### Template:           Silent Slayer
 
-Proficiencies:		Skulking, Alchemy
+Proficiencies:          Skulking, Alchemy
 
-Starting Equipment:	Crossbow, case with 20 quarrels, sword, dagger, leather armor, dark hooded cloak, backpack, 2 week's iron rations, grappling hook, 50' rope, crowbar, flask of military oil, tinder box
+Starting Equipment:     Crossbow, case with 20 quarrels, sword, dagger, leather armor, dark hooded cloak, backpack, 2 week's iron rations, grappling hook, 50' rope, crowbar, flask of military oil, tinder box
 
 This pre-generated template represents a silent killer with a penchant for poisons and potions. The template is ready for adventure. However, if your elven nightblade's INT is 13 or greater, you may pick one or more additional general proficiencies and starting spells before play if you'd like (see Starting Proficiencies in Chapter 4). 
 
 
-### Nightblade Level Progression	       	 	       	      	       	   	      Nightblade Spell Progression
+### Nightblade Level Progression                                                              Nightblade Spell Progression
 
-Experience 	 Title		       	          Level	  Hit Dice	Acrobatics	   1    2    3	
+Experience       Title                            Level   Hit Dice      Acrobatics         1    2    3  
 
-0		 Arcanist-Avenger      		  1	  1d6 		20+		   -	-    -
+0                Arcanist-Avenger                 1       1d6           20+                -    -    -
 
-2,775		 Seer-Enforcer	       		  2	  2d6		19+		   1	-    -
+2,775            Seer-Enforcer                    2       2d6           19+                1    -    -
 
-5,550		 Theurgist-Torturer    		  3	  3d6		18+		   2	-    -
+5,550            Theurgist-Torturer               3       3d6           18+                2    -    -
 
-11,100		 Magician-Slayer       		  4	  4d6		17+		   2	-    -
+11,100           Magician-Slayer                  4       4d6           17+                2    -    -
 
-22,200		 Thaumaturge-Destroyer 		  5	  5d6		16+		   2	1    -
+22,200           Thaumaturge-Destroyer            5       5d6           16+                2    1    -
 
-45,000		 Enchanter-Executioner 		  6	  6d6		15+		   2	1    -
+45,000           Enchanter-Executioner            6       6d6           15+                2    1    -
 
-90,000		 Sorcerer-Blackguard   		  7	  7d6		14+		   2	2    -
+90,000           Sorcerer-Blackguard              7       7d6           14+                2    2    -
 
-180,000		 Mage-Assassin	       		  8	  8d6		13+		   2	2    -
+180,000          Mage-Assassin                    8       8d6           13+                2    2    -
 
-330,000		 Nightblade	       		  9	  9d6		12+		   2	2    1
+330,000          Nightblade                       9       9d6           12+                2    2    1
 
-480,000		 Nightblade, 10th level		  10	  9d6+2*	11+		   2	2    1
+480,000          Nightblade, 10th level           10      9d6+2*        11+                2    2    1
 
-630,000		 Nightblade, 11th level		  11	  9d6+4*	10+		   2	2    2
+630,000          Nightblade, 11th level           11      9d6+4*        10+                2    2    2
 *Hit point modifiers from constitution are ignored
 
 
 ### Elven Nightblade (Thief) Attack and Saving Throws
 
-Level    Petrification & Paralysis	Poison & Death	Blast & Breath	Staffs & Wands	Spells	Attack Throw
+Level    Petrification & Paralysis      Poison & Death  Blast & Breath  Staffs & Wands  Spells  Attack Throw
 
-1-2	 12+	       	 		13+    	 	16+   		14+    	 	14+	10+
+1-2      12+                            13+             16+             14+             14+     10+
 
-3-4	 11+				12+		15+		13+		13+	9+
+3-4      11+                            12+             15+             13+             13+     9+
 
-5-6	 10+				11+		14+		12+		12+	8+
+5-6      10+                            11+             14+             12+             12+     8+
 
-7-8	 9+				10+		13+		11+		11+	7+
+7-8      9+                             10+             13+             11+             11+     7+
 
-9-10	 8+				9+		12+		10+		10+	6+
+9-10     8+                             9+              12+             10+             10+     6+
 
-11	 7+				8+		11+		9+		9+	5+
+11       7+                             8+              11+             9+              9+      5+
 
 
-### 
-
-Alignment
+### Alignment
 
 In the Adventurer Conqueror King System, your character will enter a world of ceaseless violent struggle, where civilization is ever-assailed by forces intent on its destruction. In this perilous realm, he will be called to choose a side: Will he pledge to defend civilization and its allies against those who seek to destroy it? Will he sell his sword to any who can offer fame or fortune? Or will he become an agent of entropy and destruction undermining peace and order? This choice is called Alignment, and the three choices are Lawful, Neutral, and Chaotic.
 
@@ -1078,7 +1075,7 @@ Note that a character's choice of Alignment doesn't determine whether or not he 
 
 Human vices, such as greed, lust, and vanity, are widespread and common even in Lawful societies. But Chaotic societies are characterized by their monstrous vices: Genocide, human sacrifice, wanton destruction, cannibalism, necrophilia, and so on. Evil is all-too-human in every civilization, but Chaotic is something both less and more than human. 
 
-Adventuring Parties
+### Adventuring Parties
 
 The worlds of Adventurer Conqueror King are dangerous and hostile. For the sake of survival, characters team up to undertake adventures because any number or type of monsters could lie in wait. Such groups, known as adventuring parties, are generally composed of a diverse array of classes, so that different characters are able to contribute their specific talents for any given situation. A thief can check for traps, for instance, and fighters are good for muscle. Clerics have spells for healing and divination, while mages are capable of powerful offensive and defensive magic.
 
