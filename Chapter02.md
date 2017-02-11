@@ -87,6 +87,7 @@ Selecting equipment and proficiencies can be time-consuming, especially for new 
 ### Fighter
 
 Prime Requisite: | STR
+:--------------- | :---
 Requirements:    | None
 Hit Dice:        | 1d8
 Maximum Level:   | 14
@@ -149,6 +150,7 @@ This pre-generated template represents a wary sellsword. The template is ready f
 ### Mage
 
 Prime Requisite: | INT
+:--------------- | :---
 Requirements:    | None
 Hit Dice:        | 1d4
 Maximum Level:   | 14
@@ -208,6 +210,7 @@ This pre-generated template represents a curious magical scholar from an organiz
 ### Cleric
 
 Prime Requisite: | WIS
+:--------------- | :---
 Requirements:    | None
 Hit Dice:        | 1d6
 Maximum Level:   | 14
@@ -302,6 +305,7 @@ This pre-generated template represents a devout priest from an organized religio
 ### Thief
 
 Prime Requisite: | DEX
+:--------------- | :---
 Requirements:    | None
 Hit Dice:        | 1d4
 Maximum Level:   | 14
@@ -406,6 +410,7 @@ This pre-generated template represents a bold tomb raider. The template is ready
 ### Assassin
 
 Prime Requisite: | STR and DEX
+:--------------- | :----------
 Requirements:    | None
 Hit Dice:        | 1d6
 Maximum Level:   | 14
@@ -470,6 +475,7 @@ This pre-generated template represents a swaggering killer-for-hire. The templat
 ### Bard
 
 Prime Requisite: | DEX and CHA
+:--------------- | :----------
 Requirements:    | None
 Hit Dice:        | 1d6
 Maximum Level:   | 14
@@ -539,6 +545,7 @@ This pre-generated template represents a wandering minstrel with magic in his so
 ### Bladedancer
 
 Prime Requisite: | WIS and DEX
+:--------------- | :----------
 Requirements:    | None
 Hit Dice:        | 1d6
 Maximum Level:   | 14
@@ -601,10 +608,11 @@ This pre-generated template represents a temple-trained bladedancer. The templat
 
 ### Explorer
 
-Prime Requisite:       | STR and DEX
-Requirements:          | None
-Hit Dice:              | 1d6
-Maximum Level:         | 14
+Prime Requisite: | STR and DEX
+:--------------- | :----------
+Requirements:    | None
+Hit Dice:        | 1d6
+Maximum Level:   | 14
 
 Explorers are scouts and trackers, adept at both woodcraft and archery. Few adventuring parties would dare the wilderness without an experienced explorer to guide them. An explorer might be a long range scout, a barbarian hunter from the northern forests, or a settler pushing past the borders civilization.
 
@@ -672,11 +680,11 @@ This pre-generated template represents a keen-eyed archer and tracker. The templ
 
 ### Dwarven Vaultguard
 
-Prime Requisite:       | STR
-:--------------------- | :----
-Requirements:          | CON 9
-Hit Dice:              | 1d8
-Maximum Level:         | 13
+Prime Requisite: | STR
+:--------------- | :----
+Requirements:    | CON 9
+Hit Dice:        | 1d8
+Maximum Level:   | 13
 
 Dwarves are stout, short, bearded demi-humans who average a height of approximately 4' and weigh about 150lb. Perhaps not surprisingly, they have skin, hair and eye colors in earth tones. Dwarves have a reputation for having surly attitudes, and are particularly gruff with elves. They value precious metals and stones, and live in deep underground vaults, where they endure constant raids from the orcs, trolls, and even worse denizens of the darkness below.
 
@@ -737,10 +745,11 @@ This pre-generated template represents a dwarven vaultguard specializing in figh
 
 ### Dwarven Craftpriest
 
-Prime Requisite:       | WIS
-Requirements:          | CON 9
-Hit Dice:              | 1d6
-Maximum Level:         | 10
+Prime Requisite: | WIS
+:--------------- | :----
+Requirements:    | CON 9
+Hit Dice:        | 1d6
+Maximum Level:   | 10
 
 Nothing is so revered among the dwarven people as craftsmanship. A dwarf's work is his life, and the spirits of great dwarven artisans are believed to live on forever in their masterpieces. The veneration of these relics falls to the care of a caste of dwarves known as craftpriests. While most craftpriests attend to the shrines and monuments of their clan, young craftpriests are sometimes sent forth to recover monuments to the glorious past from the ancient ruins and wastelands of the world. This class represents such a craftpriest.
 
@@ -795,10 +804,11 @@ This pre-generated template represents a craftpriest focused on reclaiming lost 
 
 ### Elven Spellsword
 
-Prime Requisite:       | STR and INT
-Requirements:          | None
-Hit Dice:              | 1d6
-Maximum Level:         | 10
+Prime Requisite: | STR and INT
+:--------------- | :----------
+Requirements:    | None
+Hit Dice:        | 1d6
+Maximum Level:   | 10
 
 Elves are lithe, fey beings with pointed ears, delicate features, and graceful movement. They typically weigh about 130lb and stand between 5  1/2 ' and 6' tall. Humans envy their long lifespans and seeming agelessness. Though elves are a peaceful people that enjoy poetry and art, they are also very talented fighters and skilled mages. The elven spellsword class represents one such remarkable elf, trained in the arts of both fighters and mages.
 
@@ -854,10 +864,11 @@ This pre-generated template represents a traditional fighter-mage of elven herit
 
 ### Elven Nightblade
 
-Prime Requisite:       | DEX and INT
-Requirements:          | None
-Hit Dice:              | 1d6
-Maximum Level:         | 11
+Prime Requisite: | DEX and INT
+:--------------- | :----------
+Requirements:    | None
+Hit Dice:        | 1d6
+Maximum Level:   | 11
 
 Elves are a subtle race, and never does their gift for finesse and subtlety so reveal itself as in the practice of death-dealing. Cunning, deadly, and rarely seen, the elven nightblade is an assassin and sorcerer whose art is murder. Most nightblades practice their work in the courts of elven nobility.
 
