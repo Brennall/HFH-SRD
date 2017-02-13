@@ -28,7 +28,7 @@ Electrum Piece (ep) | = | 50    | 5     | 1     | 1/2   | 1/10
 Gold Piece (gp)     | = | 100   | 10    | 2     | 1     | 1/5
 Platinum Piece (pp) | = | 500   | 50    | 10    | 5     | 1
 
--
+
 
 Standard of Living     | Monthly Cost           | Common Professions
 :--------------------- | :--------------------- | :--------------------
@@ -109,7 +109,7 @@ Chain Barding                  | 150gp  | 3
 Lamellar Barding               | 300gp  | 4
 Plate Barding                  | 600gp  | 5
 
--
+
 
 Weapons                            | Cost        | Damage*
 :--------------------------------- | ----------: | :--------
@@ -205,7 +205,7 @@ Water/Wine Skin                   | 6sp
 Wolfsbane (1lb)                   | 10gp
 Woundwart (1lb)                   | 10gp
 
--
+
 
 Foodstuffs                                     | Cost
 :--------------------------------------------- | ---------:
@@ -225,7 +225,7 @@ Wine (cheap, 1 pint)                           | 2cp
 Wine (good, 1 pint)                            | 1sp
 Wine (rare, 1 pint)                            | 5sp
 
--
+
 
 Livestock                                      | Cost
 :--------------------------------------------- | ---------:
@@ -238,7 +238,7 @@ Hawk (trained)                                 | 20gp
 Pig (125lb)                                    | 3gp
 Sheep (80lb)                                   | 2gp
 
--
+
 
 Clothing                                      | Cost
 :-------------------------------------------- | ----------:
@@ -266,7 +266,7 @@ Tunic and Pants (noble)                       | 100gp
 Wool (cheap, 1 yard)                          | 6sp
 Wool (fine, 1 yard)                           | 6gp
 
--
+
 
 Land Transport                                 | Cost
 :--------------------------------------------- | ---------:
@@ -275,7 +275,6 @@ Caparison (warhorse)                           | 20gp
 Cart (small)                                   | 25gp
 Cart (large)                                   | 50gp
 Donkey                                         | 8gp
-**Horses**:                                    |
     Heavy Draft Horse                          | 40gp
     Heavy Warhorse                             | 700gp
     Medium Draft Horse                         | 30gp
@@ -293,7 +292,7 @@ Stabling (draft/riding horse, one night)       | 2sp-5sp
 Stabling (warhorse, one night)                 | 5sp-1gp
 Wagon                                          | 200gp
 
--
+
 
 Maritime Transport                    | Cost
 :------------------------------------ | ----------:
@@ -310,7 +309,7 @@ Sailing Ship (small)                  | 10,000gp
 Troop Transport (large)               | 30,000gp
 Troop Transport (small)               | 15,000gp
 
--
+
 
 Lodging                               | Cost
 :------------------------------------ | ----------:
@@ -781,7 +780,7 @@ Heavy Cavalry (lance, sword, shield, plate armor, chain barded medium warhorse) 
 Cataphract Cavalry (composite bow, sword, shield, plate, chain barded medium warhorse)       | 75     | -        | 140    | -      | -
 Beast Riders (spear, short sword, shield, leather or scale armor, dire wolf or giant boar)   | -      | -        | -      | 15     | 35
 
--
+
 
 Mercenary Type                                   | Base Morale
 :----------------------------------------------- | ------------:
