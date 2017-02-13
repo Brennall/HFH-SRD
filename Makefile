@@ -7,4 +7,4 @@ body.html: *.md
 	kramdown *.md > body.html
 
 clean:
-	rm acks.html
+	rm acks.html body.html
