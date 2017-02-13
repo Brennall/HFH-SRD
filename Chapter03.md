@@ -20,7 +20,7 @@ To put the value of currency in perspective, the Standard of Living table, below
 
 ### Exchange Value
 
-Coins               |   | cp    | sp    | ep    | gp    | pp
+Coins               | = | cp    | sp    | ep    | gp    | pp
 :------------------ |:-:| ----: | ----: | ----: | ----: | ----:
 Copper Piece (cp)   | = | 1     | 1/10  | 1/50  | 1/100 | 1/500
 Silver Piece (sp)   | = | 10    | 1     | 1/5   | 1/10  | 1/50
@@ -113,11 +113,11 @@ Plate Barding                  | 600gp  | 5
 
 Weapons                            | Cost        | Damage*
 :--------------------------------- | ----------: | :--------
-**Axes**:                          |             |
+**Axes**:                          | -           | -
     Battle Axe                     | 7gp         | 1d6/1d8
     Great Axe (two-handed)         | 10gp        | 1d10
     Hand Axe                       | 4gp         | 1d6
-**Bows and Crossbows**:            |             |
+**Bows and Crossbows**:            | -           | -
     Arbalest                       | 50gp        | 1d8
     Crossbow                       | 30gp        | 1d6
        Case with 20 Bolts          | 2gp         | -
@@ -126,31 +126,31 @@ Weapons                            | Cost        | Damage*
     Shortbow                       | 3gp         | 1d6
        Quiver with 20 Arrows       | 1gp         | -
        1 Silver-Tipped Arrow       | 5gp         | -
-**Catapults and Ballista**:        |             |
+**Catapults and Ballista**:        | -           | -
     Ballista (800lb)               | 80gp        | 3d6
        Ballista Shot               | 4gp         | -
     Heavy Catapult (1,800lb)       | 200gp       | 4d6
     Light Catapult (1,200lb)       | 100gp       | 3d6
-       Catapult Shot (25lb)        | 5gp
-       Catapult Shot, Pitch (25lb) | 25gp
-**Flails, Hammers, and Maces**:    |             |
+       Catapult Shot (25lb)        | 5gp         | -
+       Catapult Shot, Pitch (25lb) | 25gp        | -
+**Flails, Hammers, and Maces**:    | -           | -
     Club                           | 1gp         | 1d4
     Flail                          | 5gp         | 1d6/1d8
     Mace                           | 5gp         | 1d6/1d8
     Morning Star (two-handed)      | 10gp        | 1d10
     War Hammer                     | 5gp         | 1d6/1d8
-**Spears and Pole Arms**:          |             |
+**Spears and Pole Arms**:          | -           | -
     Lance (mounted)                | 1gp         | 1d10
     Javelin                        | 1gp         | 1d6
     Pole Arm (two-handed)          | 7gp         | 1d10
     Spear                          | 3gp         | 1d6/1d8
-**Swords and Daggers**:            |             |
+**Swords and Daggers**:            | -           | -
     Dagger                         | 3gp         | 1d4
     Silver Dagger                  | 30gp        | 1d4
     Short Sword                    | 7gp         | 1d6
     Sword                          | 10gp        | 1d6/1d8
     Two-Handed Sword               | 15gp        | 1d10
-**Other Weapons**:                 |             |
+**Other Weapons**:                 | -           | -
     Bola                           | 5gp         | 1d2
     Darts (5)                      | 2gp         | 1d4
     Net                            | 1gp         | -
@@ -621,7 +621,7 @@ PCs may sometimes find potential hirelings while on adventures. Otherwise, in or
 
 Hireling                       | Class I        | Class II       | Class III      | Class IV       | Class V        | Class VI
 :------------------------------| :------------- | :------------- | :------------- | :------------- | :------------- | :------------- 
-**Mercenaries**                |                |                |                |                |                |
+**Mercenaries**                | -              | -              | -              | -              | -              | -
  Light Infantry                | 4d100          | 5d20           | 5d10           | 3d4            | 1d6            | 1d2
  Heavy Infantry                | 2d100          | 5d10           | 3d8            | 1d8            | 1d3            | 1 (85%)
  Slinger                       | 8d20           | 4d10           | 2d10           | 1d6            | 1d2            | 1 (70%)
@@ -635,7 +635,7 @@ Hireling                       | Class I        | Class II       | Class III    
  Heavy Cavalry                 | 4d10           | 1d10           | 1d6            | 1d2 (50%)      | 1 (50%)        | 1 (15%)
  Cataphract Cavalry            | 3d10           | 1d8            | 1d4            | 1d2 (33%)      | 1 (40%)        | 1 (10%)
  Wolf Riders*                  | 3d10           | 1d8            | 1d4            | 1d2 (33%)      | 1 (40%)        | 1 (10%)
-**Specialists**                |                |                |                |                |                |
+**Specialists**                | -              | -              | -              | -              | -              | -
  Alchemist                     | 1d10           | 1d3            | 1              | 1 (33%)        | 1 (15%)        | 1 (5%)
  Animal Trainer - Common       | 5d10           | 2d6            | 1d6            | 1d2            | 1 (65%)        | 1 (20%)
  Animal Trainer - Exotic       | 1d10           | 1d3            | 1              | 1 (33%)        | 1 (15%)        | 1 (5%)
@@ -653,8 +653,8 @@ Hireling                       | Class I        | Class II       | Class III    
  Ruffian - Spy                 | 2d10           | 1d6            | 1d3            | 1 (65%)        | 1 (25%)        | 1 (10%)
  Ruffian - Thug                | 5d20           | 4d6            | 2d6            | 1d3            | 1d2            | 1 (40%)
  Sage                          | 1d6            | 1d2            | 1 (65%)        | 1 (15%)        | 1 (5%)         | None
- Spellcaster                   | *Varies*       | *by*           | *Spell*        | *Level*        |                |
-**Henchmen**                   |                |                |                |                |                |
+ Spellcaster                   | *Varies*       | *by*           | *Spell*        | *Level*        | -              | -
+**Henchmen**                   | -              | -              | -              | -              | -              | -
  Normal Men                    | 4d100          | 5d20           | 4d8            | 3d4            | 1d6            | 1d2
  Level 1                       | 5d10           | 2d6            | 1d4            | 1d2            | 1 (65%)        | 1 (20%)
  Level 2                       | 3d10           | 2d4            | 1d3            | 1              | 1 (40%)        | 1 (15%)
