@@ -147,33 +147,33 @@ Alignment is abbreviated as follows: C, chaotic; N, neutral; L, lawful.
 
 ### Ankheg
 
-% In Lair:	15%
+% In Lair:      15%
 
-Dungeon Enc:	Cluster (1d6) / Nest (1d8)
+Dungeon Enc:    Cluster (1d6) / Nest (1d8)
 
-Wilderness Enc:	Cluster (1d6) / Nest (1d8)
+Wilderness Enc: Cluster (1d6) / Nest (1d8)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-      Burrow:	60' (20')
+      Burrow:   60' (20')
 
-Armor Class:	8
+Armor Class:    8
 
-Hit Dice:		5**
+Hit Dice:               5**
 
-Attacks:		1
+Attacks:                1
 
-Damage:	3d6 (+ 1d4)
+Damage: 3d6 (+ 1d4)
 
-Save:		F5
+Save:           F5
 
-Morale:		-1
+Morale:         -1
 
-Treasure Type:	M
+Treasure Type:  M
 
-XP:		500
+XP:             500
 
 The ankheg is a burrowing monster with a taste for fresh meat. An ankheg has six legs, and varies in shade from yellow to brown. It is about 10' long and weighs about 800 pounds.
 
@@ -186,159 +186,159 @@ If desperate or frustrated, an ankheg can spit a 30-ft. line of acid for 4d8 poi
 
 ### Ant, Giant
 
-% In Lair:	10%
+% In Lair:      10%
 
-Dungeon Enc:	Scourge (2d4) / Nest (4d6)
+Dungeon Enc:    Scourge (2d4) / Nest (4d6)
 
-Wilderness Enc:	Swarm (4d6) / Nest (4d6)
+Wilderness Enc: Swarm (4d6) / Nest (4d6)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	180' (60')
+Movement:       180' (60')
 
-Armor Class:	6
+Armor Class:    6
 
-Hit Dice:		4
+Hit Dice:               4
 
-Attacks:		1
+Attacks:                1
 
-Damage:	2d6
+Damage: 2d6
 
-Save:		F2
+Save:           F2
 
-Morale:		-1
+Morale:         -1
 
-Treasure Type:	I plus special
+Treasure Type:  I plus special
 
-XP:		80
+XP:             80
 
 Giant ants are hardy and adaptable insects. Workers are about 6' long, while the queen may be immense. Giant ants eat almost anything, since they are omnivores, and will never retreat if defending the nest (Morale +4). They tend to have incidental treasure around their nests, left over from past opponents, but in some rare instances giant ants will inexplicably mine precious metals. This occurs in about 30% of nests, where there will be as much as 1d10x1000 gold pieces worth of raw gold nuggets.
 
 
 ### Ape, White
 
-% In Lair:	10%
+% In Lair:      10%
 
-Dungeon Enc:	Troop (1d6) / Den (2d4) 
+Dungeon Enc:    Troop (1d6) / Den (2d4) 
 
-Wilderness Enc:	Band (2d4) / Den (2d4)
+Wilderness Enc: Band (2d4) / Den (2d4)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class: 	3
+Armor Class:    3
 
-Hit Dice: 	4
+Hit Dice:       4
 
-Attacks: 		2 (claw, claw) or 1 (rock)
+Attacks:                2 (claw, claw) or 1 (rock)
 
-Damage: 	1d4/1d4 or 1d6
+Damage:         1d4/1d4 or 1d6
 
-Save: 		F2
+Save:           F2
 
-Morale: 		-1
+Morale:                 -1
 
-Treasure Type: 	None
+Treasure Type:  None
 
-XP:		80
+XP:             80
 
 White apes are adapted to living in a subterranean environment, only venturing to the surface to forage for food at night. As such, they have lost all pigment. White apes will vocalize and act aggressive if other creatures come near their lair, and may attack. When not engaged in melee, white apes can throw rocks for 1d6 points of damage per round. White apes may occasional be found as pets to neanderthals or morlocks.
 
 
 ### Baboon, Rock
 
-% In Lair:	10%
+% In Lair:      10%
 
-Dungeon Enc:	Troop (2d6) / Den (5d6) 
+Dungeon Enc:    Troop (2d6) / Den (5d6) 
 
-No. Enc (W):	Band (5d6) / Den (5d6)
+No. Enc (W):    Band (5d6) / Den (5d6)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	3
+Armor Class:    3
 
-Hit Dice:		2
+Hit Dice:               2
 
-Attacks:		2 (bite, club)
+Attacks:                2 (bite, club)
 
-Damage:	1d3/1d6
+Damage: 1d3/1d6
 
-Save:		F2
+Save:           F2
 
-Morale:		0
+Morale:         0
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		20
+XP:             20
 
 These larger, more intelligent baboons are omnivores that often hunt for meat. They both bite and use sticks as clubs. Like its smaller cousin, the rock baboon lives in packs led by the biggest, strongest male. Rock baboons are aggressive, and are easily stimulated to fight. While they do not have a true language, they can communicate threats and warnings with simple screams.
 
 
 ### Basilisk
 
-% In Lair:	40%
+% In Lair:      40%
 
-Dungeon Enc:	Bask (1d6) / Nest (1d6) 
+Dungeon Enc:    Bask (1d6) / Nest (1d6) 
 
-Wilderness Enc: 	Bask (1d6) / Nest (1d6)
+Wilderness Enc:         Bask (1d6) / Nest (1d6)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	60' (20')
+Movement:       60' (20')
 
-Armor Class:	5
+Armor Class:    5
 
-Hit Dice:		6 + 1**
+Hit Dice:               6 + 1**
 
-Attacks:		2 (bite, gaze)
+Attacks:                2 (bite, gaze)
 
-Damage:	1d10/petrify
+Damage: 1d10/petrify
 
-Save:		F6
+Save:           F6
 
-Morale:		+1
+Morale:         +1
 
-Treasure Type:	K
+Treasure Type:  K
 
-XP:		980
+XP:             980
 
 A basilisk is a reptilian monster that petrifies living creatures with its gaze. A basilisk usually has a dull brown body with a yellowish underbelly. Some specimens sport a short, curved horn atop the nose. An adult basilisk's body grows to about 10' long. Basilisks often live in dense woods or dungeons. Any victim that meets the basilisk's petrifying gaze or is bitten by the basilisk is required to make a saving throw versus Petrification or he turns to stone. Any treasure in a basilisk's nest will be on petrified victims, and will only be accessible if the victims are restored to flesh. 
 
 
 ### Bat
 
-		  Ordinary				Giant
+                  Ordinary                              Giant
 
-% In Lair:	  35%					35%
+% In Lair:        35%                                   35%
 
-Dungeon Enc:	  Flock (1d10) / Nest (1 bat swarm)	Flock (1d10) / Nest (1d10)
+Dungeon Enc:      Flock (1d10) / Nest (1 bat swarm)     Flock (1d10) / Nest (1d10)
 
-Wilderness Enc:	  Flock (1d10) / Nest (1 bat swarm)	Flock (1d10) / Nest (1d10)
+Wilderness Enc:   Flock (1d10) / Nest (1 bat swarm)     Flock (1d10) / Nest (1d10)
 
-Alignment: 	  Neutral      	      	     		Neutral
+Alignment:        Neutral                               Neutral
 
-Movement:	  9' (3')				30' (10')
+Movement:         9' (3')                               30' (10')
 
-Fly:		  120' (40')				180' (60')
+Fly:              120' (40')                            180' (60')
 
-Armor Class:	  3    					3
+Armor Class:      3                                     3
 
-Hit Dice:	  1hp					2
+Hit Dice:         1hp                                   2
 
-Attacks:	  1 (bite)				1 (bite)
+Attacks:          1 (bite)                              1 (bite)
 
-Damage:		  1 					1d4
+Damage:           1                                     1d4
 
-Save:		  0 Human				F1
+Save:             0 Human                               F1
 
-Morale:		  -2					0
+Morale:           -2                                    0
 
-Treasure Type:	  None					None
+Treasure Type:    None                                  None
 
-XP:	 	  5					20 (29)
+XP:               5                                     20 (29)
 
 Bats live in sheltered caverns or abandoned buildings, and are nocturnal mammals with leathery wings. Their nocturnal lifestyle has made typical eyesight useless to them, but they are able to navigate with a refined use of sound, or echolocation. For this reason, no spells or other influence that would normally blind an opponent will affect bats, but the spell silence 15' radius negates their ability to echolocate.
 
@@ -349,62 +349,62 @@ Bats, Giant: These bats are larger than normal bats and are fierce carnivores. A
 
 ### Bear
 
-		  Black					Grizzly
+                  Black                                 Grizzly
 
-% In Lair:	  25%					25%
+% In Lair:        25%                                   25%
 
-Dungeon Enc:	  Sloth (1d4) / Den (1d4)		Solitary (1) / Den (1d4)
+Dungeon Enc:      Sloth (1d4) / Den (1d4)               Solitary (1) / Den (1d4)
 
-Wilderness Enc:	  Sloth (1d4) / Den (1d4)		Sloth (1d4) / Den (1d4)
+Wilderness Enc:   Sloth (1d4) / Den (1d4)               Sloth (1d4) / Den (1d4)
 
-Alignment: 	  Neutral     	    			Neutral
+Alignment:        Neutral                               Neutral
 
-Movement:	  120' (40')				120' (40')
+Movement:         120' (40')                            120' (40')
 
-Armor Class:	  3    					3
+Armor Class:      3                                     3
 
-Hit Dice:	  4					5
+Hit Dice:         4                                     5
 
-Attacks:	  3 (2 claws, bite)			3 (2 claws, bite)
+Attacks:          3 (2 claws, bite)                     3 (2 claws, bite)
 
-Damage:		  1d3/1d3/1d6 				1d4/1d4/1d8
+Damage:           1d3/1d3/1d6                           1d4/1d4/1d8
 
-Save:		  F2					F2
+Save:             F2                                    F2
 
-Morale:		  -1					0
+Morale:           -1                                    0
 
-Treasure Type:	  None					None
+Treasure Type:    None                                  None
 
-XP:	 	  80					200
+XP:               80                                    200
 
 
-### 		  Cave					Polar
+###               Cave                                  Polar
 
-% In Lair:	  25%					35%
+% In Lair:        25%                                   35%
 
-Dungeon Enc:	  Solitary (1) / Den (1d2)		Sloth (1d2) / Den (1d2)
+Dungeon Enc:      Solitary (1) / Den (1d2)              Sloth (1d2) / Den (1d2)
 
-Wilderness Enc:	  Sloth (1d2) / Den (1d2)		Sloth (1d2) / Den (1d2)
+Wilderness Enc:   Sloth (1d2) / Den (1d2)               Sloth (1d2) / Den (1d2)
 
-Alignment: 	  Neutral     	    			Neutral
+Alignment:        Neutral                               Neutral
 
-Movement:	  120' (40')				120' (40')
+Movement:         120' (40')                            120' (40')
 
-Armor Class:	  3    					4
+Armor Class:      3                                     4
 
-Hit Dice:	  6					7
+Hit Dice:         6                                     7
 
-Attacks:	  3 (2 claws, bite)			3 (2 claws, bite)
+Attacks:          3 (2 claws, bite)                     3 (2 claws, bite)
 
-Damage:		  1d6/1d6/1d10				1d8/1d8/2d6
+Damage:           1d6/1d6/1d10                          1d8/1d8/2d6
 
-Save:		  F3					F3
+Save:             F3                                    F3
 
-Morale:		  0					+1
+Morale:           0                                     +1
 
-Treasure Type:	  None					None
+Treasure Type:    None                                  None
 
-XP:	 	  320					440
+XP:               320                                   440
 
 Bears can live in many different climates, and are dangerous predators. They attack with both claws and a bite, and if both claws successfully strike in one round, the bear also squeezes the character in a powerful hug that does an additional 2d8 points of damage. All bears are omnivorous, but some kinds of bears prefer flesh more than other kinds.
 
@@ -419,31 +419,31 @@ Polar Bear: These bears live in very cold climates, usually by the sea. They ave
 
 ### Bee, Giant Killer
 
-% In Lair:	35%
+% In Lair:      35%
 
-Dungeon Enc:	Flight (1d6) / Hive (5d6)
+Dungeon Enc:    Flight (1d6) / Hive (5d6)
 
-Wilderness Enc:	Swarm (5d6) / Hive (5d6)
+Wilderness Enc: Swarm (5d6) / Hive (5d6)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	150' (50')
+Movement:       150' (50')
 
-Armor Class:	2
+Armor Class:    2
 
-Hit Dice:		1d4 hit points*
+Hit Dice:               1d4 hit points*
 
-Attacks:		1 (sting)
+Attacks:                1 (sting)
 
-Damage:	1d3, see below
+Damage: 1d3, see below
 
-Save:		F1
+Save:           F1
 
-Morale:		+1
+Morale:         +1
 
-Treasure Type:	Special
+Treasure Type:  Special
 
-XP:		6
+XP:             6
 
 Although many times larger than normal killer bees, growing to a length of about 1', giant killer bees behave similarly to their smaller cousins. Generally, the giant killer bees will attack any creature they encounter, especially if it is near their hive, which is an underground labyrinth of tunnels. They attack with a poisonous sting that requires a successful saving throw versus Poison. Failure results in death. A stinger always breaks off inside the victim, and if the victim survives the poison he suffers an additional 1 point of damage per round until the stinger is removed. A bee that successfully strikes dies the following round from the trauma of losing its stinger. A character must spend 1 round to remove a stinger. 
 
@@ -452,33 +452,33 @@ A giant killer bee hive will be ruled by a queen bee with 2 Hit Dice. A queen be
 
 ### Beetle, Giant
 
-		Fire			     Bombardier			   Tiger		
+                Fire                         Bombardier                    Tiger                
 
-% In Lair:	40%			     40%			   40%
+% In Lair:      40%                          40%                           40%
 
-Dungeon Enc:	Cluster (1d8) / Nest (2d6)   Cluster (1d8) / Nest (2d6)	   Cluster (1d6) / Nest (2d4)
+Dungeon Enc:    Cluster (1d8) / Nest (2d6)   Cluster (1d8) / Nest (2d6)    Cluster (1d6) / Nest (2d4)
 
-Wilderness Enc:	Scourge (2d6) / Nest (2d6)   Scourge (2d6) / Nest (2d6)	   Scourge (2d4) / Nest (2d4)
+Wilderness Enc: Scourge (2d6) / Nest (2d6)   Scourge (2d6) / Nest (2d6)    Scourge (2d4) / Nest (2d4)
 
-Alignment: 	Neutral	      	     	     Neutral 	     	  	   Neutral
+Alignment:      Neutral                      Neutral                       Neutral
 
-Movement:	120' (40')		     120' (40')			   150' (50')
+Movement:       120' (40')                   120' (40')                    150' (50')
 
-Armor Class:	5    			     5	  			   6
+Armor Class:    5                            5                             6
 
-Hit Dice:	1 + 2			     2				   3 + 1
+Hit Dice:       1 + 2                        2                             3 + 1
 
-Attacks:	1 (bite)		     1 (bite)			   1 (bite)
+Attacks:        1 (bite)                     1 (bite)                      1 (bite)
 
-Damage:		2d4			     1d6, see below		   2d6
+Damage:         2d4                          1d6, see below                2d6
 
-Save:		F1			     F1	      			   F1
+Save:           F1                           F1                            F1
 
-Morale:		-1			     0				   +1
+Morale:         -1                           0                             +1
 
-Treasure Type:	None			     None			   None
+Treasure Type:  None                         None                          None
 
-XP:	 	15			     20				   65
+XP:             15                           20                            65
 
 Giant Fire Beetle: These subterranean, nocturnal beetles are about 2  1/2 ' long. The fire beetle is so named for the light-producing organs it exhibits on its head and abdomen. They produce light within a 10' radius. Two of these organs are on the head, and one is on the abdomen. If removed from the corpse of the beetle they will continue to illuminate an area for 1d6 days.
 
@@ -489,31 +489,31 @@ Giant Tiger Beetle: These fierce carnivorous beetles, measuring up to 5' long, h
 
 ### Black Pudding
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	Solitary (1) 
+Dungeon Enc:    Solitary (1) 
 
-Wilderness Enc:	None
+Wilderness Enc: None
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	60' (20')
+Movement:       60' (20')
 
-Armor Class:	3
+Armor Class:    3
 
-Hit Dice:		10*
+Hit Dice:               10*
 
-Attacks:		1
+Attacks:                1
 
-Damage:	3d8
+Damage: 3d8
 
-Save:		F5
+Save:           F5
 
-Morale:		N/A
+Morale:         N/A
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		1,550 
+XP:             1,550 
 
 This black gooey mass slithers about in dungeon corridors, eating anything in its path. It is typically 10' to 30' in diameter. It is capable of moving not just on the floor, but also on the wall and ceiling, and may compress itself through small fissures and under the cracks of doors. It digests through both metal and wood, but not stone. A black pudding can be damaged only by fire, and takes full damage from torches, magical flame, or a flame tongue sword. If attacked with cold-based attacks, it will take no damage, but the black pudding will be paralyzed for one round per die of damage the attack would normally deal. 
 
@@ -522,64 +522,64 @@ If attacked with normal or magical weapons, or with lightning or electricity, a 
 
 ### Blink Dog
 
-% In Lair:	20%
+% In Lair:      20%
 
-Dungeon Enc:	Pack (1d6) / Den (2d6)
+Dungeon Enc:    Pack (1d6) / Den (2d6)
 
-Wilderness Enc:	Route (2d6) / Den (2d6)
+Wilderness Enc: Route (2d6) / Den (2d6)
 
-Alignment:	Lawful
+Alignment:      Lawful
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		4*
+Hit Dice:               4*
 
-Attacks:		1 (bite)
+Attacks:                1 (bite)
 
-Damage:	1d6
+Damage: 1d6
 
-Save:		F4
+Save:           F4
 
-Morale:		-2
+Morale:         -2
 
-Treasure Type:	I
+Treasure Type:  I
 
-XP:		135
+XP:             135
 
 The blink dog is an intelligent canine that has a limited teleportation ability. Blink dogs have their own language, a mixture of barks, yaps, whines, and growls that can transmit complex information. Blink dogs hunt in packs, teleporting, or "blinking" out of one location and "blinking" in close to prey for their attack. They blink again immediately after their attack, appearing 1d4x10 feet away from the opponent. Blink dogs never blink into the same space occupied by another object. When blink dogs flee, they simply blink away and fail to appear again.
 
 
 ### Boar
 
-			Ordinary		Giant
+                        Ordinary                Giant
 
-% In Lair:		None			None
+% In Lair:              None                    None
 
-Dungeon Enc:		Sounder (1d4)		Sounder (1d4)
+Dungeon Enc:            Sounder (1d4)           Sounder (1d4)
 
-Wilderness Enc:		Sounder (1d6)		Sounder (1d4+1)
+Wilderness Enc:         Sounder (1d6)           Sounder (1d4+1)
 
-Alignment: 		Neutral			Neutral
+Alignment:              Neutral                 Neutral
 
-Movement:		150' (50')		120' (40')
+Movement:               150' (50')              120' (40')
 
-Armor Class:		2    			3
+Armor Class:            2                       3
 
-Hit Dice:		3			5	
+Hit Dice:               3                       5       
 
-Attacks:		1 (tusk)		1 (tusk)
+Attacks:                1 (tusk)                1 (tusk)
 
-Damage:			2d4			3d4
+Damage:                 2d4                     3d4
 
-Save:			F2			F5
+Save:                   F2                      F5
 
-Morale:			+2			+2
+Morale:                 +2                      +2
 
-Treasure Type:		None			None
+Treasure Type:          None                    None
 
-XP:	 		50			200
+XP:                     50                      200
 
 Ordinary: These cantankerous omnivores are generally encountered in wooded locations, but exist in many different geographic locations and climates. They do not generally initiate combat, but may do so to defend young, or if threatened.
 
@@ -588,31 +588,31 @@ Giant: These 15' long giant cousins to ordinary boars are much more aggressive. 
 
 ### Bugbear
 
-% In Lair:	25%
+% In Lair:      25%
 
-Dungeon Enc:	Gang (2d4) / Lair (1 warband)
+Dungeon Enc:    Gang (2d4) / Lair (1 warband)
 
-Wilderness Enc:	Warband (1d4 gangs) / Village (1d10 warbands)
+Wilderness Enc: Warband (1d4 gangs) / Village (1d10 warbands)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		3 + 1
+Hit Dice:               3 + 1
 
-Attacks:		1 (weapon)
+Attacks:                1 (weapon)
 
-Damage:	2d4 or weapon + 1
+Damage: 2d4 or weapon + 1
 
-Save:		F3
+Save:           F3
 
-Morale:		+2
+Morale:         +2
 
-Treasure Type:	L (per warband)
+Treasure Type:  L (per warband)
 
-XP:		65
+XP:             65
 
 These large, hairy beastmen were magically bred from hobgoblins and bears by the ancient Zaharans. They are quite strong, and receive a +1 to damage when they employ weapons. Despite their bulk, they are deceptively stealthy, so characters encountering bugbears suffer a -1 penalty to surprise rolls. Bugbears prefer to fight with morning stars, swords, and axes in melee combat, but will usually hurl spears, hammers, and other throwing weapons before closing. They carry shields but otherwise rely on their shaggy hides for armor. 
 
@@ -623,155 +623,155 @@ When bugbears are encountered in a village, certain additional creatures may be 
 
 ### Caecilian
 
-% In Lair:	25%
+% In Lair:      25%
 
-Dungeon Enc:	Clew (1d3) / Nest (1d3)
+Dungeon Enc:    Clew (1d3) / Nest (1d3)
 
-Wilderness Enc:	Clew (1d3) / Nest (1d3)
+Wilderness Enc: Clew (1d3) / Nest (1d3)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	60' (20')
+Movement:       60' (20')
 
-Armor Class:	3
+Armor Class:    3
 
-Hit Dice:		6*
+Hit Dice:               6*
 
-Attacks:		1 (bite)
+Attacks:                1 (bite)
 
-Damage:	1d8
+Damage: 1d8
 
-Save:		F3
+Save:           F3
 
-Morale:		+1
+Morale:         +1
 
-Treasure Type:	K
+Treasure Type:  K
 
-XP:		570
+XP:             570
 
 These 30' long gray worms attack with wide tooth-rimmed mouths. Caecilians are able to swallow whole creatures of up to man size on an unmodified attack throw of 19 or 20. A creature that is swallowed whole suffers 1d8 points of damage every round, and this continues until either the caecilian is killed or until the swallowed creature dies. The cramped quarters inside the belly of the worm prevent attack from the inside by any weapon except a dagger. Attacking a caecilian from inside its belly is difficult, so the swallowed creature suffers a -4 penalty to its attack throw. Should a swallowed creature die and remain in the caecilian's belly for 6 turns, it is irrecoverably digested. Because of their propensity to swallow creatures whole, any encounter with caecilians may yield treasure, whether wandering or in lair. The treasure (if any) is always found inside the creature's belly.
 
 
 ### Camel
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	None
+Dungeon Enc:    None
 
-Wilderness Enc:	Caravan (2d4)
+Wilderness Enc: Caravan (2d4)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	150' (50')
+Movement:       150' (50')
 
-Armor Class:	2
+Armor Class:    2
 
-Hit Dice:		2
+Hit Dice:               2
 
-Attacks:		2 (bite, hoof)
+Attacks:                2 (bite, hoof)
 
-Damage:	1/1d4
+Damage: 1/1d4
 
-Save:		F1
+Save:           F1
 
-Morale:		-1
+Morale:         -1
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		20
+XP:             20
 
 Camels are known for their ability to travel long distances without food or water, and they may travel for a period of 2 weeks without water if they are well hydrated to begin with. They are efficient at traveling in the desert, and will not suffer movement penalties in this terrain. Camels are temperamental, and are known to often kick or bite those who handle them. Camels can carry 30 stone (300lb) and move at their regular movement rate, and can carry up to 60 stone (600 lb) at half movement. A mounted camel rider may not use a lance for a charge attack.
 
 
 ### Carcass Scavenger
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	Clew (1d3) 
+Dungeon Enc:    Clew (1d3) 
 
-Wilderness Enc:	Clew (1d3)
+Wilderness Enc: Clew (1d3)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	2
+Armor Class:    2
 
-Hit Dice:		3 + 1**
+Hit Dice:               3 + 1**
 
-Attacks:		8 (stingers)
+Attacks:                8 (stingers)
 
-Damage:	Paralysis
+Damage: Paralysis
 
-Save:		F2
+Save:           F2
 
-Morale:		+2
+Morale:         +2
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		135
+XP:             135
 
 The dreaded carcass scavenger is 4' tall and 9' long, and resembles a giant fat grub with multifaceted eyes, small legs, and with a head bearing 2' long insect-like feelers tipped with a poisonous stinger. This creature is rumored to be a magical abomination created from a giant maggot. When the stingers strike an opponent, he must succeed in a saving throw versus Paralysis or become paralyzed for 2d4 turns. If not faced with more opponents, the carcass scavenger will swallow the paralyzed character on the subsequent round, killing him. Paralysis may be cured with cure light wounds, but when used in this way it does not heal damage.
 
 
 ### Cat, Large
 
-			Mountain Lion			Panther			    Lion
+                        Mountain Lion                   Panther                     Lion
 
-% In Lair:		10%	 			10%			    25%
+% In Lair:              10%                             10%                         25%
 
-Dungeon Enc:		Litter (1d4) / Den (1d4)	Litter (1d2) / Den (1d6)    Pride (1d4) / Den (1d8)
+Dungeon Enc:            Litter (1d4) / Den (1d4)        Litter (1d2) / Den (1d6)    Pride (1d4) / Den (1d8)
 
-Wilderness Enc:		Litter (1d4) / Den (1d4)	Pride (1d6) / Den (1d6)	    Pride (1d4) / Den (1d8)
+Wilderness Enc:         Litter (1d4) / Den (1d4)        Pride (1d6) / Den (1d6)     Pride (1d4) / Den (1d8)
 
-Alignment: 		Neutral	       	   		Neutral	      	  	    Neutral
+Alignment:              Neutral                         Neutral                     Neutral
 
-Movement:		150' (50')			210' (70')		    150' (50')
+Movement:               150' (50')                      210' (70')                  150' (50')
 
-Armor Class:		3    				5    			    3
+Armor Class:            3                               5                           3
 
-Hit Dice:		3 + 2				4			    5
+Hit Dice:               3 + 2                           4                           5
 
-Attacks:		3 (2 claws, 1 bite)		3 (2 claws, 1 bite)	    3 (2 claws, 1 bite)
+Attacks:                3 (2 claws, 1 bite)             3 (2 claws, 1 bite)         3 (2 claws, 1 bite)
 
-Damage:			1d3/1d3/1d6   			1d4/1d4/1d8   		    1d4+1/1d4+1/1d10
+Damage:                 1d3/1d3/1d6                     1d4/1d4/1d8                 1d4+1/1d4+1/1d10
 
-Save:			F2				F2			    F3
+Save:                   F2                              F2                          F3
 
-Morale:			0				0			    +1
+Morale:                 0                               0                           +1
 
-Treasure Type:		None				None			    None
+Treasure Type:          None                            None                        None
 
-XP:	 		65				80			    200
+XP:                     65                              80                          200
 
 
-### 			Tiger				Sabre-tooth Tiger
+###                     Tiger                           Sabre-tooth Tiger
 
-% In Lair:		5%				10%     
+% In Lair:              5%                              10%     
 
-Dungeon Enc:		Solitary (1) / Den (1d3)	Troop (1d4) / Den (1d4)
+Dungeon Enc:            Solitary (1) / Den (1d3)        Troop (1d4) / Den (1d4)
 
-Wilderness Enc:		Solitary (1) / Den (1d3)	Troop (1d4) / Den (1d4)
+Wilderness Enc:         Solitary (1) / Den (1d3)        Troop (1d4) / Den (1d4)
 
-Alignment: 		Neutral	       	   		Neutral
+Alignment:              Neutral                         Neutral
 
-Movement:		150' (50')			150' (50')
+Movement:               150' (50')                      150' (50')
 
-Armor Class:		3    				3
+Armor Class:            3                               3
 
-Hit Dice:		6				8
+Hit Dice:               6                               8
 
-Attacks:		3 (2 claws, 1 bite)		3 (2 claws, 1 bite)
+Attacks:                3 (2 claws, 1 bite)             3 (2 claws, 1 bite)
 
-Damage:			1d6/1d6/2d6   			1d8/1d8/2d8
+Damage:                 1d6/1d6/2d6                     1d8/1d8/2d8
 
-Save:			F3				F4
+Save:                   F3                              F4
 
-Morale:			+1				+2
+Morale:                 +1                              +2
 
-Treasure Type:		None				None
+Treasure Type:          None                            None
 
-XP:	 		320				600
+XP:                     320                             600
 
 Large cats are some of the most efficient hunters. They kill only for food or in defense, and generally remain above ground in wilderness settings. Sometimes a large cat will taste the blood of humans and become a man-killer, preferring to hunt humans over any other prey. Large cats will always give chase if an opponent runs away. 
 
@@ -788,31 +788,31 @@ Sabre-tooth Tiger: These prehistoric hunters are fearsome and immense. They have
 
 ### Centaur
 
-% In Lair:	5%
+% In Lair:      5%
 
-Dungeon Enc:	None
+Dungeon Enc:    None
 
-Wilderness Enc:	Troop (2d10) / Lair (1 troop)
+Wilderness Enc: Troop (2d10) / Lair (1 troop)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	180' (60')
+Movement:       180' (60')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		4
+Hit Dice:               4
 
-Attacks:		3 (2 hooves, weapon)
+Attacks:                3 (2 hooves, weapon)
 
-Damage:	1d6/1d6, weapon
+Damage: 1d6/1d6, weapon
 
-Save:		F4
+Save:           F4
 
-Morale:		0
+Morale:         0
 
-Treasure Type:	L
+Treasure Type:  L
 
-XP:		80
+XP:             80
 
 Centaurs have the body and legs of horses, but the upper body of humans. They are reclusive beings, and live far from other humanoids in densely wooded sylvan settings. They are able to attack by kicking with two legs at a time, as well as attacking with a weapon. Centaurs typically wear leather armor and carry oaken clubs and composite bows. 
 
@@ -821,64 +821,64 @@ Each centaur troop will be led by a chieftain with AC6, 5 Hit Dice, 29 hit point
 
 ### Centipede, Giant
 
-% In Lair:	10%
+% In Lair:      10%
 
-Dungeon Enc:	Scourge (2d4) / Nest (2d12)
+Dungeon Enc:    Scourge (2d4) / Nest (2d12)
 
-Wilderness Enc:	Swarm (2d12) / Nest (2d12)
+Wilderness Enc: Swarm (2d12) / Nest (2d12)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	60' (20')
+Movement:       60' (20')
 
-Armor Class:	0
+Armor Class:    0
 
-Hit Dice:		1d4 hp*
+Hit Dice:               1d4 hp*
 
-Attacks:		1 (bite)
+Attacks:                1 (bite)
 
-Damage:	Poison
+Damage: Poison
 
-Save:		0 level Human
+Save:           0 level Human
 
-Morale:		-1
+Morale:         -1
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		6
+XP:             6
 
 These 1' long centipedes prefer dark, wet locations. Giant centipedes attack with a poisonous bite. No damage is inflicted by the bite, but anyone bitten must make a saving throw versus Poison. Failure indicates that the victim is horribly sick for a period of 10 days.  While sick, poisoned characters can only move at  1/2  speed, and no other physical activity is possible. 
 
 
 ### Chimera
 
-% In Lair:	40%
+% In Lair:      40%
 
-Dungeon Enc:	Brood (1d2) / Den (1d4)
+Dungeon Enc:    Brood (1d2) / Den (1d4)
 
-Wilderness Enc:	Flock (1d4) / Den (1d4)
+Wilderness Enc: Flock (1d4) / Den (1d4)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-	Fly:	180' (60')
+        Fly:    180' (60')
 
-Armor Class:	5
+Armor Class:    5
 
-Hit Dice:		9*
+Hit Dice:               9*
 
-Attacks:		5 (2 claws, 3 heads, see below)
+Attacks:                5 (2 claws, 3 heads, see below)
 
-Damage:	1d3/1d3/2d4/2d4/3d4, see below
+Damage: 1d3/1d3/2d4/2d4/3d4, see below
 
-Save:		F9
+Save:           F9
 
-Morale:		+1
+Morale:         +1
 
-Treasure Type:	K x2
+Treasure Type:  K x2
 
-XP:		1,300
+XP:             1,300
 
 The chimera is a magical hybrid of lion, goat, and red dragon. It has a head of each of these creature types, including the wings of a dragon, the front portion of the body from a lion, and the rear portion from a goat. The lion head may attack with a bite, the goat head may gore with horns, and the dragon head can both bite and use a fiery breath weapon that is a cone 50' long and 10' wide at its terminal end. 
 
@@ -887,196 +887,196 @@ This fire breath deals 3d6 points of damage, with a saving throw versus Breath a
 
 ### Cockatrice
 
-% In Lair:	30%
+% In Lair:      30%
 
-Dungeon Enc:	Brood (1d4) / Nest (1d8)
+Dungeon Enc:    Brood (1d4) / Nest (1d8)
 
-Wilderness Enc:	Flock (1d8) / Nest (1d8)
+Wilderness Enc: Flock (1d8) / Nest (1d8)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-	Fly:	180' (60')
+        Fly:    180' (60')
 
-Armor Class:	3
+Armor Class:    3
 
-Hit Dice:		5*
+Hit Dice:               5*
 
-Attacks:		2 (beak, petrify)
+Attacks:                2 (beak, petrify)
 
-Damage:	1d6, petrify
+Damage: 1d6, petrify
 
-Save:		F5
+Save:           F5
 
-Morale:		-1
+Morale:         -1
 
-Treasure Type:	I
+Treasure Type:  I
 
-XP:		350
+XP:             350
 
 The cockatrice is a magical creature that has the body of a rooster and the tail of a reptile. It is a small creature, about the size of a natural rooster, but has a powerful beak that inflicts 1d6 points of damage. If the cockatrice successfully attacks an opponent, the opponent must succeed in a saving throw versus Petrification or turn to stone. Opponents foolish enough to lay bare hands on a cockatrice must also save or be turned to stone, but attacks with a weapon, prods with a 10' pole, or other maneuvers do not risk petrification. Cockatrices are ill-tempered creatures, and though they primarily eat small insects or rodents, they will engage larger animals and characters in combat with little provocation. They live in any climate, including dungeons. Any treasure found in a cockatrice nest will be on petrified victims, and will only be accessible if the victims are restored to flesh. 
 
 
 ### Crab, Giant
 
-% In Lair:	90%
+% In Lair:      90%
 
-Dungeon Enc:	Clutter (1d2) / Nest (1d6)
+Dungeon Enc:    Clutter (1d2) / Nest (1d6)
 
-Wilderness Enc:	Cluster (1d6) / Colony (2d6)
+Wilderness Enc: Cluster (1d6) / Colony (2d6)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	60' (20')
+Movement:       60' (20')
 
-Armor Class:	7
+Armor Class:    7
 
-Hit Dice:		3
+Hit Dice:               3
 
-Attacks:		2 (pinchers)
+Attacks:                2 (pinchers)
 
-Damage:	2d6/2d6
+Damage: 2d6/2d6
 
-Save:		F2
+Save:           F2
 
-Morale:		-1
+Morale:         -1
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		50
+XP:             50
 
 These giant cousins to ordinary crabs are unintelligent, and merely exist to eat. They are found in any watery environment, and do not have to remain fully submerged. They can be found prowling along fresh or saltwater shores, marshes, and watery subterranean caves.
 
 
 ### Crocodile  
 
-			Ordinary		Large			Giant
+                        Ordinary                Large                   Giant
 
-% In Lair:		None			None			None
+% In Lair:              None                    None                    None
 
-Dungeon Enc:		None			None			None
+Dungeon Enc:            None                    None                    None
 
-Wilderness Enc:		Bask (1d8)		Bask (1d4)		Bask (1d3)
+Wilderness Enc:         Bask (1d8)              Bask (1d4)              Bask (1d3)
 
-Alignment: 		Neutral         	Neutral			Neutral
+Alignment:              Neutral                 Neutral                 Neutral
 
-Movement:		90' (30')       	90' (30')		90' (30')
+Movement:               90' (30')               90' (30')               90' (30')
 
-Swim:			90' (30')       	90' (30')		90' (30')
+Swim:                   90' (30')               90' (30')               90' (30')
 
-Armor Class:		4      			6   			8
+Armor Class:            4                       6                       8
 
-Hit Dice:		2			6			15
+Hit Dice:               2                       6                       15
 
-Attacks:		1			1			1
+Attacks:                1                       1                       1
 
-Damage:			1d8      		2d8			3d8
+Damage:                 1d8                     2d8                     3d8
 
-Save:			F1			F3			F8
+Save:                   F1                      F3                      F8
 
-Morale:			-1			-1			+1
+Morale:                 -1                      -1                      +1
 
-Treasure Type:		None    		None			None
+Treasure Type:          None                    None                    None
 
-XP:	 		20			320			1,800
+XP:                     20                      320                     1,800
 
 Crocodiles are aggressive reptiles with fearsome bites. They breathe air, but are aquatic and usually remain submerged or within shallow water, waiting for prey to come within reach. Characters encountering submerged crocodiles suffer a -2 penalty to throws versus surprise. Ordinary crocodiles are about 12' long. Large crocodiles, on average, grow to a length of 20'. Giant crocodiles are big, prehistoric beasts that can reach a length of 25' - 50'. 
 
 
 ### Cyclops
 
-% In Lair:	20%
+% In Lair:      20%
 
-Dungeon Enc:	Solitary (1) / Lair (1d4)
+Dungeon Enc:    Solitary (1) / Lair (1d4)
 
-Wilderness Enc:	Gang (1d4) / Lair (1d4)
+Wilderness Enc: Gang (1d4) / Lair (1d4)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		13
+Hit Dice:               13
 
-Attacks:		1
+Attacks:                1
 
-Damage:	3d10
+Damage: 3d10
 
-Save:		F13
+Save:           F13
 
-Morale:		+1
+Morale:         +1
 
-Treasure Type:	N
+Treasure Type:  N
 
-XP:		1,400
+XP:             1,400
 
 Cyclops are 20' tall relatives to giants with but one large eye centered on their face. They employ large clubs as weapons, but also throw rocks up to 200' for 3d6 points of damage. They have reduced depth perception and suffer a -2 penalty to attack throws. A few cyclops have the ability to issue a curse one time per week (reverse of remove curse). Cyclops are loners, and live together in small numbers only on occasion. They typically keep flocks of sheep, and often cultivate grapes. They live in caves.
 
 
 ### Demon Boar
 
-% In Lair:	20%
+% In Lair:      20%
 
-Dungeon Enc:	Sounder (1d4) / Lair (1d4)
+Dungeon Enc:    Sounder (1d4) / Lair (1d4)
 
-Wilderness Enc:	Sounder (1d4) / Lair (1d4)
+Wilderness Enc: Sounder (1d4) / Lair (1d4)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-	Boar:	180' (60')
+        Boar:   180' (60')
 
-Armor Class:	6 (0)
+Armor Class:    6 (0)
 
-Hit Dice:		9**
+Hit Dice:               9**
 
-Attacks:		1 (gore or weapon)
+Attacks:                1 (gore or weapon)
 
-Damage:	2d6 or weapon
+Damage: 2d6 or weapon
 
-Save:		F9
+Save:           F9
 
-Morale:		+2
+Morale:         +2
 
-Treasure Type:	O, L 
+Treasure Type:  O, L 
 
-XP:		2,000
+XP:             2,000
 
 The demon boar is a more powerful and much more malicious variation of the wereboar. It delights in the taste of human flesh, and will take residence and hunt near areas occupied by man. In human form they are fat and grotesque; while in boar form they are immense. Like other lycanthropes, they can pass on their form of lycanthropy (refer to the lycanthrope monster listing), and are only damaged by magical or silver weapons. Demon boars have the innate ability to charm others 3 times per day. Victims are allowed a saving throw versus Spells with a -2 penalty, but if they are fail they are utterly enslaved to the creature's will. Demon boars, though powerful, will usually attempt to catch opponents by surprise and dominate them before they can fight back. When encountered in their lair, demon boars have a 75% probability of having 1d3 charmed human thralls. Thralls should be rolled up as NPC adventurers, but are unable to cast spells or use magical items due to being under mental domination. 
 
 
 ### Djinni
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	Solitary (1)
+Dungeon Enc:    Solitary (1)
 
-Wilderness Enc:	Solitary (1)
+Wilderness Enc: Solitary (1)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-	Fly:	240' (80')
+        Fly:    240' (80')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		7 + 1**
+Hit Dice:               7 + 1**
 
-Attacks:		1 (fist), see below
+Attacks:                1 (fist), see below
 
-Damage:	2d8 or 2d6
+Damage: 2d8 or 2d6
 
-Save:		F14
+Save:           F14
 
-Morale:		+4
+Morale:         +4
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		1,300
+XP:             1,300
 
 Although they look like taller, majestic humans, djinn are actually an intelligent kind of air elemental. Djinn may only be affected by magic and magical weapons. Djinn have several spell-like abilities, and they can use each of them 3 times a day. They have four creation abilities, including create food and water (cast as a cleric of 7th level), create temporary objects of metal (the softer the metal the longer it lasts, gold lasts 24 hours while iron lasts 1 round, 10 stone maximum), create permanent goods (items made of wood, rope, and other kinds of softer goods of 10 stone maximum), and create illusions (as the spell phantasmal force but affecting both sight and sound, with an effect that is permanent until touched or dispelled). Djinn can also take on a gaseous form or make themselves invisible. 
 
@@ -1085,33 +1085,33 @@ Finally, djinn can assume the form of a whirlwind after 5 rounds of preparation.
 
 ### Dog
 
-			Hunting			War
+                        Hunting                 War
 
-% In Lair:		10%			10%
+% In Lair:              10%                     10%
 
-Dungeon Enc:		Pack (2d6) / Den (3d6)  Pack (1d4) / Den (2d4)
+Dungeon Enc:            Pack (2d6) / Den (3d6)  Pack (1d4) / Den (2d4)
 
-Wilderness Enc:		Route (3d6) / Den (3d6)	Route (2d4) / Den (2d4)
+Wilderness Enc:         Route (3d6) / Den (3d6) Route (2d4) / Den (2d4)
 
-Alignment: 		Neutral           	Neutral
+Alignment:              Neutral                 Neutral
 
-Movement:		180' (60')     		150' (50')
+Movement:               180' (60')              150' (50')
 
-Armor Class:		2    			3    
+Armor Class:            2                       3    
 
-Hit Dice:		1+1			2+2
+Hit Dice:               1+1                     2+2
 
-Attacks:		1			1
+Attacks:                1                       1
 
-Damage:			1d4			1d6
+Damage:                 1d4                     1d6
 
-Save:			F1			F1
+Save:                   F1                      F1
 
-Morale:			0			+2
+Morale:                 0                       +2
 
-Treasure Type:		None           		None
+Treasure Type:          None                    None
 
-XP:	 		15			35
+XP:                     15                      35
 
 Hunting Dogs: Hunting dogs are fast, lean hounds trained to track and bring down prey by working in packs. Most hunting dogs can scent prey, giving them the equivalent of Tracking proficiency. Sight hounds are faster (210') but without tracking proficiency.
 
@@ -1120,64 +1120,64 @@ War Dogs: War dogs are heavy, fierce mastiffs trained to kill on command. While 
 
 ### Doppelganger
 
-% In Lair:	20%
+% In Lair:      20%
 
-Dungeon Enc:	Throng (1d6) / Lair (1d6) 
+Dungeon Enc:    Throng (1d6) / Lair (1d6) 
 
-Wilderness Enc: 	Throng (1d6) / Lair (1d6)
+Wilderness Enc:         Throng (1d6) / Lair (1d6)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		4*
+Hit Dice:               4*
 
-Attacks:		1
+Attacks:                1
 
-Damage:	1d12
+Damage: 1d12
 
-Save:		F10
+Save:           F10
 
-Morale:		+2
+Morale:         +2
 
-Treasure Type:	I
+Treasure Type:  I
 
-XP:		135
+XP:             135
 
 Doppelgangers are strange beings that are able to take on the shapes of any humanoid creature they encounter. Doppelgangers make excellent use of their natural mimicry to stage ambushes, bait traps, and infiltrate humanoid society. They will often try to kill the person they imitate, to then attack a group by surprise. Doppelgangers revert to their natural forms when slain. In this shape, a doppelganger is 5  1/2 ' tall, with large, bulging yellow eyes with slitted pupils. Its body resembles that of a sickly humanoid, with pale, hairless flesh, gangly limbs and half-formed features. A doppelganger's appearance is deceiving even when it's in its true form, for it is a hardy creature with a natural agility not in keeping with its frail appearance. Regardless of their present form, doppelgangers are immune to the effects of charm and sleep spells.
 
 
 ### Dragon
 
-% In Lair:	Varies
+% In Lair:      Varies
 
-Dungeon Enc:	Varies
+Dungeon Enc:    Varies
 
-Wilderness Enc:	Varies
+Wilderness Enc: Varies
 
-Alignment:	Any
+Alignment:      Any
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-Fly:	240' (80')
+Fly:    240' (80')
 
-Armor Class:	Varies
+Armor Class:    Varies
 
-Hit Dice:		Varies
+Hit Dice:               Varies
 
-Attacks:		3 or breath weapon
+Attacks:                3 or breath weapon
 
-Damage:	Varies
+Damage: Varies
 
-Save:		Varies
+Save:           Varies
 
-Morale:		Varies
+Morale:         Varies
 
-Treasure Type:	Varies
+Treasure Type:  Varies
 
-XP:		Varies
+XP:             Varies
 
 
 ### Ancient, avaricious, and dangerous, dragons are a powerful race of intelligent reptiles that are deeply connected to the elemental powers of the world. This innate elemental power makes dragons the longest lived of all beasts. Dragons can live for over a thousand years, growing in size and power with every passing century. But whatever their age, all dragons are completely carnivorous, egg-laying monsters forever inscrutable to the minds of men. 
@@ -1192,75 +1192,75 @@ A dragon's Armor Class, Hit Dice, breath weapon, and other abilities depend on a
 
 ### Primary Dragon Attributes
 
-Category       Age		% In Lair	AC	HD	Damage		Save	Morale	Treasure Type	XP
+Category       Age              % In Lair       AC      HD      Damage          Save    Morale  Treasure Type   XP
 
-Spawn	       1-5 years	90%  		3	2*	1d2/1d2/2d3	F2	0	B	 	29
+Spawn          1-5 years        90%             3       2*      1d2/1d2/2d3     F2      0       B               29
 
-Very Young     6-15 years	70%		4	4**	1d3/1d3/2d4	F4	0	H		190
+Very Young     6-15 years       70%             4       4**     1d3/1d3/2d4     F4      0       H               190
 
-Young	       16-25 years	50%		5	6**	1d4/1d4/2d6	F6	0	N		820
+Young          16-25 years      50%             5       6**     1d4/1d4/2d6     F6      0       N               820
 
-Juvenile       26-50 years	40%		6	8**	1d6/1d6/2d8	F8	0	Q		1,600
+Juvenile       26-50 years      40%             6       8**     1d6/1d6/2d8     F8      0       Q               1,600
 
-Adult	       51-75 years	40%		7	10***	2d3/2d3/2d10	F10	+1	Q, N		2,950
+Adult          51-75 years      40%             7       10***   2d3/2d3/2d10    F10     +1      Q, N            2,950
 
-Mature Adult   75-100 years	30%		8	12***	1d8/1d8/3d8	F12	+1	Q, N		3,900
+Mature Adult   75-100 years     30%             8       12***   1d8/1d8/3d8     F12     +1      Q, N            3,900
 
-Old    	       101-200 years	40%		9	14***	2d4/2d4/3d10	F14	+1	R  		4,900
+Old            101-200 years    40%             9       14***   2d4/2d4/3d10    F14     +1      R               4,900
 
-Very Old       201-400 years	50%		10	16****	1d10/1d10/4d8	F16	+2	R		7,200
+Very Old       201-400 years    50%             10      16****  1d10/1d10/4d8   F16     +2      R               7,200
 
-Ancient	       401-700 years	70%		11	18****	1d12/1d12/4d10	F18	+2	R		8,400
+Ancient        401-700 years    70%             11      18****  1d12/1d12/4d10  F18     +2      R               8,400
 
-Venerable      701+ years	90%		12	20*****	3d4/3d4/5d8	F20	+3	R, N		12,800
+Venerable      701+ years       90%             12      20***** 3d4/3d4/5d8     F20     +3      R, N            12,800
 
 
-### Secondary Dragon Attributes												Spells Per Day
+### Secondary Dragon Attributes                                                                                         Spells Per Day
 
-Category  	 Dungeon Encounter	Wilderness Encounter	Chance Aspleep	Chance Speech	Special Abilities	1  2  3  4  5
+Category         Dungeon Encounter      Wilderness Encounter    Chance Aspleep  Chance Speech   Special Abilities       1  2  3  4  5
 
-Spawn		 1d4	 		1d4	   		80%    		1%     		None			1  -  -	 -  -
+Spawn            1d4                    1d4                     80%             1%              None                    1  -  -  -  -
 
-Very Young	 1d4			1d4			70%		2%		None			2  -  -	 -  -
+Very Young       1d4                    1d4                     70%             2%              None                    2  -  -  -  -
 
-Young		 1d4			1d4			60%		5%		None			2  1  -	 -  -
+Young            1d4                    1d4                     60%             5%              None                    2  1  -  -  -
 
-Juvenile	 1d4			1d4			50%		10%		None			2  2  -	 -  -
+Juvenile         1d4                    1d4                     50%             10%             None                    2  2  -  -  -
 
-Adult		 1d4			1d4			40%		20%		1 ability		2  2  1	 -  -
+Adult            1d4                    1d4                     40%             20%             1 ability               2  2  1  -  -
 
-Mature Adult	 1d4			1d4			30%		35%		1 ability		2  2  2	 -  -
+Mature Adult     1d4                    1d4                     30%             35%             1 ability               2  2  2  -  -
 
-Old    		 1d2			1d2			20%		50%		1 ability		3  2  2	 1  -
+Old              1d2                    1d2                     20%             50%             1 ability               3  2  2  1  -
 
-Very Old	 1d2			1d2			10%		75%		2 abilities		3  3  2	 2  -
+Very Old         1d2                    1d2                     10%             75%             2 abilities             3  3  2  2  -
 
-Ancient		 1d2			1d2			5%		100%		2 abilities		3  3  3	 2  -
+Ancient          1d2                    1d2                     5%              100%            2 abilities             3  3  3  2  -
 
-Venerable	 1			1			0%		100%		3 abilities		3  3  3	 3  2
+Venerable        1                      1                       0%              100%            3 abilities             3  3  3  3  2
 
 
 ### Dragon Attributes by Habitat
 
-Habitat				Common Name		Hide Color					Breath Weapon
+Habitat                         Common Name             Hide Color                                      Breath Weapon
 
-Any sinkhole of evil		Wyrm   			Purple taupe, liver, charcoal, or black		40' long, 40' wide, cloud, fetid gas
+Any sinkhole of evil            Wyrm                    Purple taupe, liver, charcoal, or black         40' long, 40' wide, cloud, fetid gas
 
-Any pinnacle of good		Metallic dragon		Bronze, silver, electrum, or gold 		90' long, 30' wide, cone, fire
+Any pinnacle of good            Metallic dragon         Bronze, silver, electrum, or gold               90' long, 30' wide, cone, fire
 
-Clouds, mountain peaks		Blue dragon		Sky blue, slate grey, cloud white		100' long, 5' wide, line, lightning bolt
+Clouds, mountain peaks          Blue dragon             Sky blue, slate grey, cloud white               100' long, 5' wide, line, lightning bolt
 
-Deserts, wastelands		Brown dragon		Burnt orange, copper, or sandy brown		90' long, 30' wide, cone, scouring wind
+Deserts, wastelands             Brown dragon            Burnt orange, copper, or sandy brown            90' long, 30' wide, cone, scouring wind
 
-Oceans, lakes			Sea dragon		Sea green, teal, or cerulean blue		90' long, 30' wide, cloud, blistering steam
+Oceans, lakes                   Sea dragon              Sea green, teal, or cerulean blue               90' long, 30' wide, cloud, blistering steam
 
-Glaciers, icy caves		White dragon		Ivory, pearl, or snow white  			90' long, 30' wide, cloud, freezing vapor
+Glaciers, icy caves             White dragon            Ivory, pearl, or snow white                     90' long, 30' wide, cloud, freezing vapor
 
-Volcanoes, badlands		Red dragon		Flaming red, burnt orange, or charcoal		90' long, 30' wide, cone, fire
+Volcanoes, badlands             Red dragon              Flaming red, burnt orange, or charcoal          90' long, 30' wide, cone, fire
 
-Woods, jungles			Green dragon		Moss green, olive, or forest green		40' long, 40' wide, cloud, poison vapor 
+Woods, jungles                  Green dragon            Moss green, olive, or forest green              40' long, 40' wide, cloud, poison vapor 
 
-Swamps, marshes			Black dragon		Green-grey, midnight green, or black		100' long, 5' wide, line, acid
+Swamps, marshes                 Black dragon            Green-grey, midnight green, or black            100' long, 5' wide, line, acid
 
 
 ### Dragon Breath Weapons
@@ -1347,64 +1347,64 @@ Dragons that lair in oceans or lakes may lose the ability to fly but gain the ab
 
 ### Dragon Turtle
 
-% In Lair:	5%
+% In Lair:      5%
 
-Dungeon Enc:	None
+Dungeon Enc:    None
 
-Wilderness Enc:	Solitary (1) / Lair (1)
+Wilderness Enc: Solitary (1) / Lair (1)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	30' (10')
+Movement:       30' (10')
 
-Swim:		90' (30')
+Swim:           90' (30')
 
-Armor Class:	11
+Armor Class:    11
 
-Hit Dice:		30*
+Hit Dice:               30*
 
-Attacks:		3 (2 claws, bite)
+Attacks:                3 (2 claws, bite)
 
-Damage:	1d8/1d8/1d6x10
+Damage: 1d8/1d8/1d6x10
 
-Save:		F15
+Save:           F15
 
-Morale:		+2
+Morale:         +2
 
-Treasure Type:	R, N
+Treasure Type:  R, N
 
-XP:		9,500
+XP:             9,500
 
 This fearsome, massive beast is a magical hybrid of dragon and giant turtle. It has the large shell of a turtle, but the arms, legs, head, and tail of a dragon. A dragon turtle's rough, deep green shell is much the same color as the deep water the monster favors, and the silver highlights that line the shell resemble light dancing on open water. The turtle's legs, tail, and head are a lighter green, flecked with golden highlights. The lair of these creatures will always be below water in submerged caverns, where they hoard wealth from ships that have sunk to the bottom of the sea. Dragon turtles have powerful claw and bite attacks, and also have a breath weapon that is usable 3 times per day. The breath weapon is a hot blistering steam cloud 90' long and 30' wide that inflicts 30d6 points of damage. A victim may save versus Breath for half damage.
 
 
 ### Dwarf
 
-% In Lair:	50%
+% In Lair:      50%
 
-Dungeon Enc:	Squad (1d6) / Redoubt (1 company)
+Dungeon Enc:    Squad (1d6) / Redoubt (1 company)
 
-Wilderness Enc:	Company (1d12 squads) / Vault (1d10 companies)	
+Wilderness Enc: Company (1d12 squads) / Vault (1d10 companies)  
 
-Alignment:	Lawful, Neutral
+Alignment:      Lawful, Neutral
 
-Movement:	60' (20')
+Movement:       60' (20')
 
-Armor Class:	5
+Armor Class:    5
 
-Hit Dice:		1
+Hit Dice:               1
 
-Attacks:		1 (weapon)
+Attacks:                1 (weapon)
 
-Damage:	1d8 or weapon
+Damage: 1d8 or weapon
 
-Save:		D1
+Save:           D1
 
-Morale:		0
+Morale:         0
 
-Treasure Type:	D (per company)
+Treasure Type:  D (per company)
 
-XP:		10
+XP:             10
 
 Dwarves are short, stout demi-humans that average 4' tall but weigh as much as adult humans. Their skin can be very dark, but it is always some shade of tan or brown. Hair color can be black, gray, or brown. Dwarves favor earth tones in their clothing and prefer simple and functional garb. They typically wear chainmail armor with half helms and favor battle axes, warhammers, and crossbows. Goblins are the most reviled creatures to dwarves; dwarves will attack goblins first and ask questions later.
 
@@ -1415,33 +1415,33 @@ Dwarven vaults will be ruled by a vaultlord (dwarven vaultguard of 9th level). T
 
 ### Efreeti
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	Solitary (1)
+Dungeon Enc:    Solitary (1)
 
-Wilderness Enc:	Solitary (1)
+Wilderness Enc: Solitary (1)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-	Fly:	240' (80')
+        Fly:    240' (80')
 
-Armor Class:	6
+Armor Class:    6
 
-Hit Dice:		10***
+Hit Dice:               10***
 
-Attacks:		1
+Attacks:                1
 
-Damage:	2d8
+Damage: 2d8
 
-Save:		F15
+Save:           F15
 
-Morale:		+4
+Morale:         +4
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		2,950
+XP:             2,950
 
 Although they look like giant, demonic beings, efreet are actually an intelligent kind of fire elemental. They may only be affected by magic and magical weapons. Efreet have several spell-like abilities, each useable 3 times per day. They have four creation abilities, including create food and water (cast as a cleric of 7th level), create temporary objects of metal (the softer the metal the longer it lasts, gold lasts 24 hours while iron lasts 1 round, 10 stone maximum), create permanent goods (items made of wood, rope, and other kinds of softer goods of 10 stone maximum), and create illusion (as the spell phantasmal force but including both sight and sound, with an the effect that is permanent until touched or dispelled). Efreet can also make themselves invisible and make a wall of fire. They can become a flame pillar that inflicts 1d8 points of damage each round to characters within 5', and ignites combustible materials. The efreeti may still attack and use its other powers when taking the form of a flame pillar, but this form may only be maintained by an efreeti for 3 rounds. Efreet may grant up to 3 wishes every 101 days, but always loathe doing so because they are held accountable for the deed when they return to their home plane.  
 
@@ -1450,65 +1450,65 @@ Whether asked to grant wishes or perform other services, efreet resent being sum
 
 ### Elemental
 
-		Air		Earth
+                Air             Earth
 
-% In Lair:	None		None
+% In Lair:      None            None
 
-Dungeon Enc:	Solitary (1)	Solitary (1)
+Dungeon Enc:    Solitary (1)    Solitary (1)
 
-Wilderness Enc:	Solitary (1)	Solitary (1)
+Wilderness Enc: Solitary (1)    Solitary (1)
 
-Alignment:	Neutral		Neutral
+Alignment:      Neutral         Neutral
 
-Movement:	- 		60' (20)'
+Movement:       -               60' (20)'
 
-	Fly:	360' (120')	-
+        Fly:    360' (120')     -
 
-Armor Class:	7/9/11		7/9/11
+Armor Class:    7/9/11          7/9/11
 
-Hit Dice:	8/12/16*	8/12/16*
+Hit Dice:       8/12/16*        8/12/16*
 
-Attacks:	See below	See below
+Attacks:        See below       See below
 
-Damage:	     	1d8 or 2d8 or 3d8
+Damage:         1d8 or 2d8 or 3d8
 
-Save:		F8 or F12 or F16
+Save:           F8 or F12 or F16
 
-Morale:		+4		+4
+Morale:         +4              +4
 
-Treasure Type:	None		None
+Treasure Type:  None            None
 
-XP:		1,100/2,100/3,300
+XP:             1,100/2,100/3,300
 
-		Fire		Water
+                Fire            Water
 
-% In Lair:	None		None
+% In Lair:      None            None
 
-Dungeon Enc:	Solitary (1)	Solitary (1)
+Dungeon Enc:    Solitary (1)    Solitary (1)
 
-Wilderness Enc:	Solitary (1)	Solitary (1)
+Wilderness Enc: Solitary (1)    Solitary (1)
 
-Alignment:	Neutral		Neutral
+Alignment:      Neutral         Neutral
 
-Movement:	120' (40)'	60' (20')
+Movement:       120' (40)'      60' (20')
 
-	Swim:	-		180' (60')
+        Swim:   -               180' (60')
 
-Armor Class:	7/9/11		7/9/11
+Armor Class:    7/9/11          7/9/11
 
-Hit Dice:	8/12/16*	8/12/16*
+Hit Dice:       8/12/16*        8/12/16*
 
-Attacks:	See below	See below
+Attacks:        See below       See below
 
-Damage:	     	1d8 or 2d8 or 3d8
+Damage:         1d8 or 2d8 or 3d8
 
-Save:		F8 or F12 or F16
+Save:           F8 or F12 or F16
 
-Morale:		+4		+4
+Morale:         +4              +4
 
-Treasure Type:	None		None
+Treasure Type:  None            None
 
-XP:		1,100/2,100/3,300
+XP:             1,100/2,100/3,300
 
 Elementals are living beings made up of one of the four primary elements. They may be summoned in three different ways, either by staff, miscellaneous magic item, or spell. Once summoned, elementals will leave when dispelled, destroyed, or ordered to depart by the summoner. However an elemental is summoned, the summoner must completely concentrate on directing the elemental or lose control. If the summoner stops concentrating or loses concentration due to being struck or taking other actions, the elemental will attack him and anyone in-between it and the summoner. Once the summoner has lost control of an elemental, he can no longer order it to depart. 
 
@@ -1525,62 +1525,62 @@ Water Elementals: Water elementals appear as a large mass of watery waves. For e
 
 ### Elephant
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	None 
+Dungeon Enc:    None 
 
-Wilderness Enc:	Herd (1d20)
+Wilderness Enc: Herd (1d20)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		9
+Hit Dice:               9
 
-Attacks:		2 or 1 (2 tusks or trample)
+Attacks:                2 or 1 (2 tusks or trample)
 
-Damage:	2d4/2d4 or 4d8
+Damage: 2d4/2d4 or 4d8
 
-Save:		F5
+Save:           F5
 
-Morale:		0
+Morale:         0
 
-Treasure Type:	Special
+Treasure Type:  Special
 
-XP:		700
+XP:             700
 
 Massive herbivores of tropical lands, elephants are unpredictable creatures, but nevertheless are sometimes used as mounts or beasts of burden. When in close combat, they may attempt to attack with tusks or attempt to trample. Elephants have a +4 to their attack throw when attempting to trample an opponent that is man-sized or smaller. When distance permits, elephants may charge with their tusk attacks to deal double damage. Although elephants do not keep treasure, the ivory from tusks is valuable. Each tusk is worth 1d6x100gp.
 
 
 ### Elf
 
-% In Lair:	10%
+% In Lair:      10%
 
-Dungeon Enc:	Fellowship (1d4) / Haven (1 company)
+Dungeon Enc:    Fellowship (1d4) / Haven (1 company)
 
-Wilderness Enc:	Company (1d10 fellowships) / Fastness (1d10 companies)
+Wilderness Enc: Company (1d10 fellowships) / Fastness (1d10 companies)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		1 + 1
+Hit Dice:               1 + 1
 
-Attacks:		1 (weapon)
+Attacks:                1 (weapon)
 
-Damage:	1d8 or weapon
+Damage: 1d8 or weapon
 
-Save:		E1
+Save:           E1
 
-Morale:		0
+Morale:         0
 
-Treasure Type:	E (per company)
+Treasure Type:  E (per company)
 
-XP:		15
+XP:             15
 
 Elves are beautiful demi-humans that average 5  1/2 ' tall, with lithe builds and graceful features. Elves are ageless, always appearing in the prime of life, and can live for upwards of two centuries if not slain in battle. Their skin is always fair, while their hair color ranges from blue-black to platinum, and their eyes are amber, blue, golden, hazel, or violet. Elves prefer colorful clothes, usually with a green-and-gray cloak that blends well with the colors of the forest. They typically arm themselves with lightweight chainmail, shields, delicately curved swords, and composite bows. 
 
@@ -1591,66 +1591,66 @@ Elven fastnesses (wilderness lairs) will be ruled by a wizard-lord (elven spells
 
 ### Ettin
 
-% In Lair:	20%
+% In Lair:      20%
 
-Dungeon Enc:	Gang (1d2) / Lair (1d4)
+Dungeon Enc:    Gang (1d2) / Lair (1d4)
 
-Wilderness Enc:	Warband (1d4) / Lair (1d4)
+Wilderness Enc: Warband (1d4) / Lair (1d4)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	6
+Armor Class:    6
 
-Hit Dice:		10
+Hit Dice:               10
 
-Attacks:		2 (club, club)
+Attacks:                2 (club, club)
 
-Damage:	2d8/3d6
+Damage: 2d8/3d6
 
-Save:		F10
+Save:           F10
 
-Morale:		+1
+Morale:         +1
 
-Treasure Type:	N, H
+Treasure Type:  N, H
 
-XP:		850
+XP:             850
 
 Ettins are large, nocturnal creatures that live below ground. They share some affinity to orcs, witnessed in their pig-like faces, but possess a pair of grotesque heads, each of which controls one arm. The right side is slightly dominant, and can cause 3d6 points of damage whereas the left can inflict 2d8. Ettins gain a +1 bonus to surprise rolls because one head or the other is usually keeping watch. Ettins are dirty creatures that wear tattered skins and often use wicked weapons, such as barbed clubs.
 
 
 ### Faerie
 
-		Pixie				Sprite
+                Pixie                           Sprite
 
-% In Lair:	5%				30%
+% In Lair:      5%                              30%
 
-Dungeon Enc:	Flight (2d4) / Lair (1d4x10)	None
+Dungeon Enc:    Flight (2d4) / Lair (1d4x10)    None
 
-Wilderness Enc:	Wing (1d4x10) / Lair (1d4x10)	Wing (3d6) / Lair (3d6)
+Wilderness Enc: Wing (1d4x10) / Lair (1d4x10)   Wing (3d6) / Lair (3d6)
 
-Alignment: 	Neutral	      	     		Neutral
+Alignment:      Neutral                         Neutral
 
-Movement:	90' (30')			60'
+Movement:       90' (30')                       60'
 
-           Fly: 180' (60')			180' (60')
+           Fly: 180' (60')                      180' (60')
 
-Armor Class:	6    				4*
+Armor Class:    6                               4*
 
-Hit Dice:	1*				1d4 hit points
+Hit Dice:       1*                              1d4 hit points
 
-Attacks:	1 (dagger)			1 (spell)
+Attacks:        1 (dagger)                      1 (spell)
 
-Damage:		1d4				See below
+Damage:         1d4                             See below
 
-Save:		E1				E1
+Save:           E1                              E1
 
-Morale:		-1				-1
+Morale:         -1                              -1
 
-Treasure Type:	B				B
+Treasure Type:  B                               B
 
-XP:	 	13				6
+XP:             13                              6
 
 Pixie: These 2' tall creatures resemble elves, save for their insect-like wings. These wings are relatively weak, and a pixie must spend 1 turn on its feet for each 3 turns spent flying. Pixies are naturally invisible, but may choose to become visible at will. The spell detect invisibility will reveal their presence. Pixie invisibility is unlike the spell of the same name in that a pixie may act freely, including attacking, without becoming visible. Because of this advantage, a pixie will always get surprise on its opponent. An opponent cannot attack a pixie during the first round they are engaged in combat, but in the second round an opponent may strike due to hearing the pixie and otherwise having some idea where it might be as it moves. 
 
@@ -1659,65 +1659,65 @@ Sprite: Sprites are reclusive fey creatures that are cousins to elves and pixies
 
 ### Fish, Giant
 
-		Catfish			Piranha
+                Catfish                 Piranha
 
-% In Lair:	None			None
+% In Lair:      None                    None
 
-Dungeon Enc:	None			None
+Dungeon Enc:    None                    None
 
-Wilderness Enc:	School (1d2)		Pack (2d4)
+Wilderness Enc: School (1d2)            Pack (2d4)
 
-Alignment:	Neutral			Neutral
+Alignment:      Neutral                 Neutral
 
-Movement:	
+Movement:       
 
-	Swim:	90' (30')		150' (50')
+        Swim:   90' (30')               150' (50')
 
-Armor Class:	5			3
+Armor Class:    5                       3
 
-Hit Dice:	8			3 + 3
+Hit Dice:       8                       3 + 3
 
-Attacks:	5 (bite, 4 feelers)	1 (bite)
+Attacks:        5 (bite, 4 feelers)     1 (bite)
 
-Damage:		2d8/1d4 (each 1d8 feeler)
+Damage:         2d8/1d4 (each 1d8 feeler)
 
-Save:		F4			F2
+Save:           F4                      F2
 
-Morale:		0			-1
+Morale:         0                       -1
 
-Treasure Type:	None			None
+Treasure Type:  None                    None
 
-XP:		600			65
+XP:             600                     65
 
-		Rockfish		Sturgeon
+                Rockfish                Sturgeon
 
-% In Lair:	None			None
+% In Lair:      None                    None
 
-Dungeon Enc:	None			None
+Dungeon Enc:    None                    None
 
-Wilderness Enc:	School (2d4)		Solitary (1)
+Wilderness Enc: School (2d4)            Solitary (1)
 
-Alignment:	Neutral			Neutral
+Alignment:      Neutral                 Neutral
 
-Movement:	
+Movement:       
 
-	Swim:	180' (60')		180' (60')
+        Swim:   180' (60')              180' (60')
 
-Armor Class:	2			9
+Armor Class:    2                       9
 
-Hit Dice:	5 + 5*			10*
+Hit Dice:       5 + 5*                  10*
 
-Attacks:	4 (spines)		1 (bite)
+Attacks:        4 (spines)              1 (bite)
 
-Damage:		1d4x4 (each 2d10 spine), poison
+Damage:         1d4x4 (each 2d10 spine), poison
 
-Save:		F3		 	 F5
+Save:           F3                       F5
 
-Morale:		0			 +1
+Morale:         0                        +1
 
-Treasure Type:	None			 I
+Treasure Type:  None                     I
 
-XP:		460			 1,550
+XP:             460                      1,550
 
 Giant Catfish: These scaleless, ash-colored fish are both predators and scavengers. They can attack with their whisker-like feelers and a bite. The giant catfish reaches a length of about 15'.
 
@@ -1730,97 +1730,97 @@ Giant Sturgeon: These immense gray scaly fish can reach a length of 30'. Giant s
 
 ### Fly, Giant Carnivorous
 
-% In Lair:	35%
+% In Lair:      35%
 
-Dungeon Enc:	Scourge (1d6) / Nest (2d6)
+Dungeon Enc:    Scourge (1d6) / Nest (2d6)
 
-Wilderness Enc:	Swarm (2d6) / Nest (2d6)
+Wilderness Enc: Swarm (2d6) / Nest (2d6)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-	Fly:	180' (60')
+        Fly:    180' (60')
 
-Armor Class:	3
+Armor Class:    3
 
-Hit Dice:		2
+Hit Dice:               2
 
-Attacks:		1 (bite)
+Attacks:                1 (bite)
 
-Damage:	1d8
+Damage: 1d8
 
-Save:		F1
+Save:           F1
 
-Morale:		0
+Morale:         0
 
-Treasure Type:	C
+Treasure Type:  C
 
-XP:		20
+XP:             20
 
 The dreaded giant carnivorous fly is 3' long. They have markings that make them appear similar to giant killer bees. The giant carnivorous fly preys upon these bees and is immune to their poisonous sting. However, they also prey upon animals and humanoids. These giant flies skulk in shadows, waiting for victims. Characters encountering carnivorous flies suffer a -2 penalty to surprise rolls. These carnivorous flies sometimes jump to a distance of 30' to attack. They attack by biting victims with their formidable mandibles. 
 
 
 ### Gargoyle
 
-% In Lair:	20%
+% In Lair:      20%
 
-Dungeon Enc:	Flight (1d6) / Lair (2d4)
+Dungeon Enc:    Flight (1d6) / Lair (2d4)
 
-Wilderness Enc:	Wing (2d4) / Lair (2d4)
+Wilderness Enc: Wing (2d4) / Lair (2d4)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-	Fly:	150' (50')
+        Fly:    150' (50')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		4*
+Hit Dice:               4*
 
-Attacks:		4 (2 claws, bite, horn)
+Attacks:                4 (2 claws, bite, horn)
 
-Damage:	1d3/1d3/1d6/1d4
+Damage: 1d3/1d3/1d6/1d4
 
-Save:		F8
+Save:           F8
 
-Morale:		+3
+Morale:         +3
 
-Treasure Type:	H
+Treasure Type:  H
 
-XP:		135
+XP:             135
 
 Gargoyles are demonic-appearing magical constructs. They are immune to poison and sleep, charm, and hold spells, and may only be harmed by enchanted weapons or magic. They have large bat-like wings, horns, fangs, fearsome claws, and skin the color of gray stone. Although they are not highly intelligent, they make up for this with the sly nature of efficient predators.
 
 
 ### Gelatinous Cube
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	Solitary (1)
+Dungeon Enc:    Solitary (1)
 
-Wilderness Enc:	None
+Wilderness Enc: None
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	60' (20')
+Movement:       60' (20')
 
-Armor Class:	1
+Armor Class:    1
 
-Hit Dice:		4*
+Hit Dice:               4*
 
-Attacks:		1
+Attacks:                1
 
-Damage:	2d4 + see below
+Damage: 2d4 + see below
 
-Save:		F2
+Save:           F2
 
-Morale:		N/A
+Morale:         N/A
 
-Treasure Type:	C
+Treasure Type:  C
 
-XP:		135
+XP:             135
 
 The nearly transparent gelatinous cube travels slowly along dungeon corridors and cave floors, absorbing carrion, creatures, and trash. A typical gelatinous cube is 10' on a side and weighs 15,000lb, though much larger specimens are not unknown. The translucent appearance of the gelatinous cube means characters suffer a -2 penalty to avoid being surprised by them. 
 
@@ -1831,93 +1831,93 @@ Inorganic material remains trapped and visible inside the cube's body. As a resu
 
 ### Ghoul
 
-% In Lair:	20%
+% In Lair:      20%
 
-Dungeon Enc:	Pack (1d6) / Lair (2d8)
+Dungeon Enc:    Pack (1d6) / Lair (2d8)
 
-Wilderness Enc:	Horde (2d8) / Lair (2d8)
+Wilderness Enc: Horde (2d8) / Lair (2d8)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-Armor Class:	3
+Armor Class:    3
 
-Hit Dice:		2*
+Hit Dice:               2*
 
-Attacks:		3 (2 claws, bite)
+Attacks:                3 (2 claws, bite)
 
-Damage:	1d3/1d3/1d3 + see below
+Damage: 1d3/1d3/1d3 + see below
 
-Save:		F2
+Save:           F2
 
-Morale:		+1
+Morale:         +1
 
-Treasure Type:	D
+Treasure Type:  D
 
-XP:		29
+XP:             29
 
 Formerly human, but now flesh-eating undead mockeries of their former existence, ghouls are fearsome enemies of all things living. Ghouls attack with claws and a vile bite. Any successful attack requires the opponent to attempt a saving throw versus Paralysis, or become paralyzed for 2d4 turns. This paralysis may be cured with cure light wounds. Elves are immune to the paralysis of ghouls, and the paralysis cannot take effect on humanoids larger than ogres. Ghouls will attempt to paralyze all members of a group, so that they can feast on their helpless bodies at leisure. All humans slain by ghouls rise again in 24 hours as ghouls, unless the spell bless is cast upon their bodies. Like all undead, ghouls are immune to sleep, charm, and hold spells and poison.
 
 
 ### Giant
 
-			Hill				Stone				Frost
+                        Hill                            Stone                           Frost
 
-% In Lair:		25%				25%				30%
+% In Lair:              25%                             25%                             30%
 
-Dungeon Enc:		Gang (1d4), Lair (2d4)		Gang (1d2) / Lair (1d6)		Gang (1d2) / Lair (1d4)
+Dungeon Enc:            Gang (1d4), Lair (2d4)          Gang (1d2) / Lair (1d6)         Gang (1d2) / Lair (1d4)
 
-Wilderness Enc:		Warband (2d4), Lair (2d4)    	Warband (1d6) / Lair (1d6)	Warband (1d4) / Lair (1d6)
+Wilderness Enc:         Warband (2d4), Lair (2d4)       Warband (1d6) / Lair (1d6)      Warband (1d4) / Lair (1d6)
 
-Alignment: 		Chaotic	       	    		Neutral	      	     		Chaotic
+Alignment:              Chaotic                         Neutral                         Chaotic
 
-Movement:		120' (40')			120' (40')			120' (40')
+Movement:               120' (40')                      120' (40')                      120' (40')
 
-Armor Class:		5    				5    				5
+Armor Class:            5                               5                               5
 
-Hit Dice:		8				9				10
+Hit Dice:               8                               9                               10
 
-Attacks:		1				1				1
+Attacks:                1                               1                               1
 
-Damage:			2d8				3d6				4d6
+Damage:                 2d8                             3d6                             4d6
 
-Save:			F8				F9				F10
+Save:                   F8                              F9                              F10
 
-Morale:			0				+1				+1
+Morale:                 0                               +1                              +1
 
-Treasure Type:		N				N				N
+Treasure Type:          N                               N                               N
 
-XP:	 		600				700				850
+XP:                     600                             700                             850
 
 
-### 			Fire				Cloud				Storm
+###                     Fire                            Cloud                           Storm
 
-% In Lair:		35%				40%				45%
+% In Lair:              35%                             40%                             45%
 
-Dungeon Enc:		Gang (1d2) / Lair (1d3)		Gang (1d2) / Lair (1d3)		Solitary (1) / Lair (1d3)
+Dungeon Enc:            Gang (1d2) / Lair (1d3)         Gang (1d2) / Lair (1d3)         Solitary (1) / Lair (1d3)
 
-Wilderness Enc:		Warband (1d3) / Lair (1d3)	Warband (1d3) / Lair (1d3)	Warband (1d3) / Lair (1d3)
+Wilderness Enc:         Warband (1d3) / Lair (1d3)      Warband (1d3) / Lair (1d3)      Warband (1d3) / Lair (1d3)
 
-Alignment: 		Chaotic	      	     		Neutral	      	     		Lawful
+Alignment:              Chaotic                         Neutral                         Lawful
 
-Movement:		120' (40')			120' (40')			150' (50')
+Movement:               120' (40')                      120' (40')                      150' (50')
 
-Armor Class:		5    				5    				7
+Armor Class:            5                               5                               7
 
-Hit Dice:		11				12				15
+Hit Dice:               11                              12                              15
 
-Attacks:		1				1				1 + see below
+Attacks:                1                               1                               1 + see below
 
-Damage:			5d6				6d6				8d6
+Damage:                 5d6                             6d6                             8d6
 
-Save:			F11				F12				F15
+Save:                   F11                             F12                             F15
 
-Morale:			+1				+2				+2
+Morale:                 +1                              +2                              +2
 
-Treasure Type:		N				N				N, H
+Treasure Type:          N                               N                               N, H
 
-XP:	 		1,000				1,200				1,800
+XP:                     1,000                           1,200                           1,800
 
 Hill Giant: In many ways hill giants resemble larger ogres, including having eyes rimmed with red and often wielding some bludgeoning weapon or a spear. Like others of their kind, hill giants can throw rocks dealing 3d6 points of damage to a range of 200'. They have skin of rust brown or tan, with similarly colored rust or black hair, and dress in the skins of animals. They stand 12' tall and weigh about 1,100lb. Hill giants enjoy pillaging human villages.
 
@@ -1934,31 +1934,31 @@ Storm Giant: Storm giants are the most formidable of all giants. They live in re
 
 ### Gnoll
 
-% In Lair:	20%
+% In Lair:      20%
 
-Dungeon Enc:	Gang (1d6) / Lair (1 warband)
+Dungeon Enc:    Gang (1d6) / Lair (1 warband)
 
-Wilderness Enc:	Warband (1d6 gangs) / Village (1d10 warbands)
+Wilderness Enc: Warband (1d6 gangs) / Village (1d10 warbands)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		2
+Hit Dice:               2
 
-Attacks:		1 (weapon)
+Attacks:                1 (weapon)
 
-Damage:	2d4 or weapon +1
+Damage: 2d4 or weapon +1
 
-Save:		F2
+Save:           F2
 
-Morale:		0
+Morale:         0
 
-Treasure Type:	G (per warband)
+Treasure Type:  G (per warband)
 
-XP:		20
+XP:             20
 
 Gnolls are wandering chaotic beastmen bred from gnome and troll stock by the ancient Zaharans during the Empyrean War. An adult gnoll is about 7-1/2' tall and 300lb. Most gnolls have dirty yellow or reddish-brown fur. A gnoll is a nocturnal carnivore, preferring intelligent creatures for food because they scream more, though gnolls themselves are not particularly intelligent. Gnolls wear leather or piecemeal armors, and favor polearms, two-handed swords, battle axes, and morning stars for melee. They are savvy archers, preferring long bows for ranged fire. They receive a +1 bonus to damage rolls due to their high strength. 
 
@@ -1969,31 +1969,31 @@ When gnolls are encountered in a village, certain additional creatures will be p
 
 ### Gnome
 
-% In Lair:	50%
+% In Lair:      50%
 
-Dungeon Enc:	Squad (1d8) / Redoubt (1 company) 
+Dungeon Enc:    Squad (1d8) / Redoubt (1 company) 
 
-Wilderness Enc:	Company (1d10 squads) / Vault (1d10 companies)
+Wilderness Enc: Company (1d10 squads) / Vault (1d10 companies)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	60' (20')
+Movement:       60' (20')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		1
+Hit Dice:               1
 
-Attacks:		1 (weapon)
+Attacks:                1 (weapon)
 
-Damage:	1d6 or weapon
+Damage: 1d6 or weapon
 
-Save:		D1
+Save:           D1
 
-Morale:		0
+Morale:         0
 
-Treasure Type:	D (per company)
+Treasure Type:  D (per company)
 
-XP:		10
+XP:             10
 
 Gnomes are rare humanoids that stand 3' to 3  1/2 ' tall and are slighter of build than dwarves. They are believed to be the outcome of dwarven and elven crossbreeding in the distant past. Their skin color ranges from dark tan to woody brown, while their hair is fair, noses large, and eyes any shade of blue. Gnome males prefer long beards. Gnomes generally wear leather or earth tones, though they decorate their clothes with intricate stitching or fine jewelry. These cousins to dwarves share many of their likes, and often live in vast mines looking for precious metals and gems. Their tendency to underground life has granted them extended infravision to 90'. They have a fondness for contraptions, and often employ crossbows and fight hand-to-hand with war hammers. Gnomes have a particular hatred for kobolds, but are none too fond of goblins. Dwarves, however, are treated as welcome relatives. Elves see gnomes as something of an embarrassment, while gnomes frequently attempt to impress their aristocratic cousins. 
 
@@ -2004,31 +2004,31 @@ When gnomes are encountered in a vault, the grand chief will be accompanied by a
 
 ### Goblin
 
-% In Lair:	40%
+% In Lair:      40%
 
-Dungeon Enc:	Gang (2d4) / Lair (1 warband)
+Dungeon Enc:    Gang (2d4) / Lair (1 warband)
 
-Wilderness Enc:	Warband (2d6 gangs) / Village (1d10 warbands)
+Wilderness Enc: Warband (2d6 gangs) / Village (1d10 warbands)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	60' (20')
+Movement:       60' (20')
 
-Armor Class:	3
+Armor Class:    3
 
-Hit Dice:		1 - 1
+Hit Dice:               1 - 1
 
-Attacks:		1 (weapon)
+Attacks:                1 (weapon)
 
-Damage:	1d6 or weapon
+Damage: 1d6 or weapon
 
-Save:		0 level human
+Save:           0 level human
 
-Morale:		-1
+Morale:         -1
 
-Treasure Type:	E (per warband)
+Treasure Type:  E (per warband)
 
-XP:		5
+XP:             5
 
 Goblins are repellent beastmen bred from dwarves and gnolls by the ancient Zaharans. Goblins stand 3' to 3  1/2 ' tall, with surprisingly strong, wiry builds.  Their eyes are usually dull and glazed, varying in color from red to yellow, and sometimes flicker red in the dark. Goblins' skin color ranges from yellow through any shade of orange to a deep red; usually all members of a single tribe are about the same color. They spend most of their days underground, and as such suffer a -1 penalty to all attack throws when in full sunlight, but have a longer range of infravision, to 90'. Goblins are archenemies of dwarves, who they hate above all other humanoids, followed closely by their distaste for gnomes. Goblins typically wear drab, patchy leather armor and fight with spears, short swords, and slings. 
 
@@ -2041,61 +2041,61 @@ When goblins are encountered in a village, certain additional creatures may be p
 
 ### Golem
 
-		Amber			Bone		
+                Amber                   Bone            
 
-% In Lair:	None			None
+% In Lair:      None                    None
 
-Dungeon Enc:	Solitary (1)		Solitary (1)
+Dungeon Enc:    Solitary (1)            Solitary (1)
 
-Wilderness Enc:	Solitary (1)		Solitary (1)
+Wilderness Enc: Solitary (1)            Solitary (1)
 
-Alignment:	Neutral			Neutral
+Alignment:      Neutral                 Neutral
 
-Movement:	180' (60')		120' (40')
+Movement:       180' (60')              120' (40')
 
-Armor Class:	3		     	7
+Armor Class:    3                       7
 
-Hit Dice:	10*			8*
+Hit Dice:       10*                     8*
 
-Attacks:	3 (2 claws, bite)	4 (weapons)
+Attacks:        3 (2 claws, bite)       4 (weapons)
 
-Damage:		2d6/2d6/2d10		weapon type
+Damage:         2d6/2d6/2d10            weapon type
 
-Save:		F5			F4
+Save:           F5                      F4
 
-Morale:		N/A			N/A
+Morale:         N/A                     N/A
 
-Treasure Type:	None			None
+Treasure Type:  None                    None
 
-XP:		1,550			1,100
+XP:             1,550                   1,100
 
-		Bronze			Wood
+                Bronze                  Wood
 
-% In Lair:	None			None
+% In Lair:      None                    None
 
-Dungeon Enc:	Solitary (1)		Solitary (1)
+Dungeon Enc:    Solitary (1)            Solitary (1)
 
-Wilderness Enc:	Solitary (1)		Solitary (1)
+Wilderness Enc: Solitary (1)            Solitary (1)
 
-Alignment:	Neutral			Neutral
+Alignment:      Neutral                 Neutral
 
-Movement:	240' (80')		120' (40')
+Movement:       240' (80')              120' (40')
 
-Armor Class:	9			2
+Armor Class:    9                       2
 
-Hit Dice:	20*			2 + 2*
+Hit Dice:       20*                     2 + 2*
 
-Attacks:	1 (fist)		1 (fist)
+Attacks:        1 (fist)                1 (fist)
 
-Damage:		3d10			1d8
+Damage:         3d10                    1d8
 
-Save:		F10			F1
+Save:           F10                     F1
 
-Morale:		N/A			N/A
+Morale:         N/A                     N/A
 
-Treasure Type:	None			None
+Treasure Type:  None                    None
 
-XP:		4,600			47
+XP:             4,600                   47
 
 Golems are magically created automatons of great power. Constructing one involves the employment of mighty magic. As such, they are created by exceptionally powerful clerics and mages. The examples provided here are just a few of the possible kinds. The Judge may design new forms using the examples as guidelines. All golems are unaffected by ordinary weapons. In addition, golems have no true intelligence, and are thus unaffected by hold, charm, or sleep spells. Since they are not truly alive, they are unaffected by poison or gases.
 
@@ -2110,95 +2110,95 @@ Wood Golem: Wood golems are about the size of dwarves and are shaped from wood. 
 
 ### Gorgon
 
-% In Lair:	40%
+% In Lair:      40%
 
-Dungeon Enc:	Group (1d2) / Den (1d4)
+Dungeon Enc:    Group (1d2) / Den (1d4)
 
-Wilderness Enc:	Gang (1d4) / Den (1d4)
+Wilderness Enc: Gang (1d4) / Den (1d4)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	7
+Armor Class:    7
 
-Hit Dice:		8**
+Hit Dice:               8**
 
-Attacks:		1 (gore or breath)
+Attacks:                1 (gore or breath)
 
-Damage:	2d6 or petrify
+Damage: 2d6 or petrify
 
-Save:		F8
+Save:           F8
 
-Morale:		0
+Morale:         0
 
-Treasure Type:	K
+Treasure Type:  K
 
-XP:		1, 600
+XP:             1, 600
 
 The gorgon resembles a large bull with metallic scales. A typical gorgon stands over 6' tall at the shoulder and measures 8' from snout to tail. It weighs about 4,000lb. Gorgons are exceptionally aggressive. They attack opponents on sight, attempting to gore or petrify them. When distance permits, gorgons may charge with their gore attack to deal double damage. Gorgons have a breath weapon that is a gas cloud 10' wide and 60' long. Any creature caught in this cloud must succeed in a saving throw versus Petrification or be turned to stone. A gorgon is unaffected by its own breath weapon. Gorgons live on hills and prairies, making their dens in caves or hidden dells. Any treasure in a gorgon den will be on petrified victims, and will only be accessible if the victims are restored to flesh. 
 
 
 ### Gray Ooze
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	Solitary (1)
+Dungeon Enc:    Solitary (1)
 
-Wilderness Enc:	Solitary (1)
+Wilderness Enc: Solitary (1)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	10' (3')
+Movement:       10' (3')
 
-       Burrow: 	10' (3')
+       Burrow:  10' (3')
 
-Armor Class:	2
+Armor Class:    2
 
-Hit Dice:		3*
+Hit Dice:               3*
 
-Attacks:		1
+Attacks:                1
 
-Damage:	2d8
+Damage: 2d8
 
-Save:		F2
+Save:           F2
 
-Morale:		N/A
+Morale:         N/A
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		65
+XP:             65
 
 Gray ooze can grow to a diameter of up to 10', and a thickness of about 6 inches. It resembles damp stone so closely that it can be mistaken for that easily. A gray ooze strikes like a snake, slamming opponents with its body. A successful strike to an unarmored being deals 2d8 points of damage from the acidic slime that covers it. Any non-magical armor or clothing is destroyed immediately after a successful hit from the ooze, as the acid eats through it viciously. A non-magical metal or wooden weapon that strikes gray ooze also dissolves immediately after dealing damage. Magical weapons, armor, and clothing are allowed a saving throw using the wearer's save versus Death, adding any magical bonus to the roll if applicable. Once it has hit, the ooze clings to an opponent and deals 2d8 points of damage every round until it can be neutralized.  Gray ooze is immune to the effects of fire-based and cold-based attacks, but takes normal damage from lightning-based attacks and weapons.
 
 
 ### Green Slime
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	Solitary (1)
+Dungeon Enc:    Solitary (1)
 
-Wilderness Enc:	None
+Wilderness Enc: None
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	3' (1')
+Movement:       3' (1')
 
-Armor Class:	NA (always hit) 
+Armor Class:    NA (always hit) 
 
-Hit Dice:		2**
+Hit Dice:               2**
 
-Attacks:		1
+Attacks:                1
 
-Damage:	See below
+Damage: See below
 
-Save:		F1
+Save:           F1
 
-Morale:		N/A
+Morale:         N/A
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		38
+XP:             38
 
 This animate, viscous green slime feeds on plants, animals, and metals, including weapons and armor, but does not digest stone. Green slime senses movements through subtle vibrations, and will drop from high places onto victims to feed, or will cling to an opponent who steps on it. Once covering a victim, green slime will digest all clothing and armor in 6 rounds.
 
@@ -2207,33 +2207,33 @@ This animate, viscous green slime feeds on plants, animals, and metals, includin
 
 ### Griffon
 
-% In Lair:	25%
+% In Lair:      25%
 
-Dungeon Enc:	None
+Dungeon Enc:    None
 
-Wilderness Enc:	Pride (2d8) / Aerie (2d8)
+Wilderness Enc: Pride (2d8) / Aerie (2d8)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-	Fly:	360' (120')
+        Fly:    360' (120')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		7
+Hit Dice:               7
 
-Attacks:		3 (2 talons, bite)
+Attacks:                3 (2 talons, bite)
 
-Damage:	1d4/1d4/2d8
+Damage: 1d4/1d4/2d8
 
-Save:		F4
+Save:           F4
 
-Morale:		+1
+Morale:         +1
 
-Treasure Type:	P
+Treasure Type:  P
 
-XP:		440
+XP:             440
 
 Griffons are powerful, majestic creatures with the characteristics of both lions and eagles. Their rear body is that of a lion, while their front legs, head, and wings are from a giant eagle. Broad, golden wings emerge from the creature's back and span 25' or more. From nose to tail, an adult griffon can measure as much as 8' and weigh 500lb. Griffons are fierce hunters with a taste for horse flesh. If a horse is within 120' of a griffon, the griffon will automatically attack if it fails a morale roll. 
 
@@ -2244,31 +2244,31 @@ When a griffon aerie is encountered, there is a 50% probability that 1d6 eggs or
 
 ### Halfling
 
-% In Lair:	90%
+% In Lair:      90%
 
-Dungeon Enc:	Band (3d6) / Delving (1 meet)
+Dungeon Enc:    Band (3d6) / Delving (1 meet)
 
-Wilderness Enc:	Meet (1d4 bands) / Shire (1d10 meets)
+Wilderness Enc: Meet (1d4 bands) / Shire (1d10 meets)
 
-Alignment:	Lawful
+Alignment:      Lawful
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-Armor Class:	2
+Armor Class:    2
 
-Hit Dice:		1 - 1
+Hit Dice:               1 - 1
 
-Attacks:		1 (weapon)
+Attacks:                1 (weapon)
 
-Damage:	1d6 or weapon
+Damage: 1d6 or weapon
 
-Save:		E1
+Save:           E1
 
-Morale:		-1
+Morale:         -1
 
-Treasure Type:	D (per meet)
+Treasure Type:  D (per meet)
 
-XP:		5
+XP:             5
 
 Halflings are a race of diminutive and insular humanoids noted for their love of food, wealth, and comfort and their dislike of big people, strangers, and travel. Descending from human and dwarven stock, they stand about 3' tall, with ruddy skin, dark hair, and brown or black eyes.  Among the most hirsute of the humanoid races, halflings cultivate their body hair the way dwarves cultivate their beards. Well-groomed foot hair is the mark of a halfling of fine breeding. Halflings live in small, close-knit communities of hill burrows with big, round windows. These "halfling holes" are a compromise between a dwarven heritage that craves the security of thick earth overhead and a human bloodline clamoring for sun and space. 
 
@@ -2277,68 +2277,68 @@ Each halfling band will be led by a reeve with 2 Hit Dice. A halfling delving or
 
 ### Harpy
 
-% In Lair:	25%
+% In Lair:      25%
 
-Dungeon Enc:	Flight (1d6) / Nest (2d4)
+Dungeon Enc:    Flight (1d6) / Nest (2d4)
 
-Wilderness Enc:	Wing (2d4) / Nest (2d4)
+Wilderness Enc: Wing (2d4) / Nest (2d4)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	60' (20')
+Movement:       60' (20')
 
-	Fly:	150' (50')
+        Fly:    150' (50')
 
-Armor Class:	2
+Armor Class:    2
 
-Hit Dice:		3*
+Hit Dice:               3*
 
-Attacks:		3 (2 claws, weapon, see below)
+Attacks:                3 (2 claws, weapon, see below)
 
-Damage:	1d4/1d4/1d6, see below
+Damage: 1d4/1d4/1d6, see below
 
-Save:		F6
+Save:           F6
 
-Morale:		-1
+Morale:         -1
 
-Treasure Type:	E 
+Treasure Type:  E 
 
-XP:		65
+XP:             65
 
 From the waist up these monsters resemble unsightly women, but they have the legs and wings of giant eagles. Harpies like to entrance hapless travelers with their magical songs and lead them to unspeakable torments. If a character hears this magical song, a saving throw versus Spells may be attempted, and failure indicates the victim has been charmed. A successful saving throw grants the character immunity to the effects of the song for the rest of the encounter. Any being under the charm of a harpy will attempt to move close to them, and will not make any attacks. Only when a harpy has finished playing with its new "toys" will it release them from suffering by killing and consuming them. 
 
 
 ### Hawk
 
-			Ordinary			Giant
+                        Ordinary                        Giant
 
-% Lair:			20%				20%
+% Lair:                 20%                             20%
 
-Dungeon Enc:		None				None
+Dungeon Enc:            None                            None
 
-Wilderness Enc.:	Flock (1d6) / Aerie (1d6)	Flock (1d3) / Aerie (1d3)
+Wilderness Enc.:        Flock (1d6) / Aerie (1d6)       Flock (1d3) / Aerie (1d3)
 
-Alignment: 		Neutral	      	    		Neutral	    
+Alignment:              Neutral                         Neutral     
 
-Movement:		-				-
+Movement:               -                               -
 
-               Fly:	480' (160')			450' (150')
+               Fly:     480' (160')                     450' (150')
 
-Armor Class:   		1    				3
+Armor Class:            1                               3
 
-Hit Dice:		1d4 hit points			3 + 3
+Hit Dice:               1d4 hit points                  3 + 3
 
-Attacks:		2 (talons)			2 (talons)
+Attacks:                2 (talons)                      2 (talons)
 
-Damage:			1d2/1d2				1d4/1d4
+Damage:                 1d2/1d2                         1d4/1d4
 
-Save:			0 level human			F2
+Save:                   0 level human                   F2
 
-Morale:			-1				0
+Morale:                 -1                              0
 
-Treasure Type:		None				None
+Treasure Type:          None                            None
 
-XP:	 		5				65
+XP:                     5                               65
 
 These predatory birds often glide through the air watching for prey. When a hawk aerie is encountered, there is a 50% chance that 1d6 eggs or 1d4 young are present. If eggs or young are captured, they can be raised and trained as hunters (if ordinary) or mounts (if giant).
 
@@ -2349,97 +2349,97 @@ Giant Hawks: Giant hawks range from 3' to 5' long and are capable of attacking l
 
 ### Hell Hound
 
-			Lesser				Greater
+                        Lesser                          Greater
 
-% In Lair:		30%				30%
+% In Lair:              30%                             30%
 
-Dungeon Enc:		Pack (2d4) / Den (2d4)		Pack (2d4) / Den (2d4)
+Dungeon Enc:            Pack (2d4) / Den (2d4)          Pack (2d4) / Den (2d4)
 
-Wilderness Enc:		Pack (2d4) / Den (2d4)		Pack (2d4) / Den (2d4)
+Wilderness Enc:         Pack (2d4) / Den (2d4)          Pack (2d4) / Den (2d4)
 
-Alignment: 		Chaotic	     	 		Chaotic
+Alignment:              Chaotic                         Chaotic
 
-Movement:		120'				120'
+Movement:               120'                            120'
 
-Armor Class:		5				5
+Armor Class:            5                               5
 
-Hit Dice:		3*				7*	
+Hit Dice:               3*                              7*      
 
-Attacks:		1 (bite or breath)		1 (bite or breath)
+Attacks:                1 (bite or breath)              1 (bite or breath)
 
-Damage:			1d6 or see below		1d6 or see below
+Damage:                 1d6 or see below                1d6 or see below
 
-Save:			F3     	   			F7
+Save:                   F3                              F7
 
-Morale:			+1				+1
+Morale:                 +1                              +1
 
-Treasure Type:		F				P
+Treasure Type:          F                               P
 
-XP:	 		65				790
+XP:                     65                              790
 
 Hell hounds are cunning and intelligent creatures roughly the size of dire wolves, with red to red-brown fur. These demonic hounds favor hot environments and may be found around volcanic activity or with other creatures that prefer hot environments, though they also commonly take up residence in dungeons. They are immune to the effects of all non-magical fire. Hellhounds will bite 70% of the time for 1d6 hit points damage, and breathe fire the other 30% of the time. Their fiery breath affects one target and deals 1d6 points of damage per Hit Die the attacking hell hound possesses. A successful saving throw versus Breath reduces the damage by half. Hell hounds have an imperfect ability to detect invisibility to a range of 60', with a 75% probability of detection.
 
 
 ### Herd Animals
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	None
+Dungeon Enc:    None
 
-Wilderness Enc:	Herd (3d10)
+Wilderness Enc: Herd (3d10)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	240' (80')
+Movement:       240' (80')
 
-Armor Class:	2
+Armor Class:    2
 
-Hit Dice:		1 to 4
+Hit Dice:               1 to 4
 
-Attacks:		None or 1 (butt)
+Attacks:                None or 1 (butt)
 
-Damage:	1d4, 1d6, or 1d8
+Damage: 1d4, 1d6, or 1d8
 
-Save:		F1 or F2
+Save:           F1 or F2
 
-Morale:		-3
+Morale:         -3
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		10/20/50/80
+XP:             10/20/50/80
 
 Herd animals include any of several kinds of grazing animals that live in herds. Region and climate will determine which specific kind of grazing herd animal is encountered. The following are some typical kinds and their relative toughness: antelope, deer, and goats (1 or 2 HD, 1d4 butt); caribou, cattle, and oxen (3 HD, 1d6 butt); buffalo, elk and moose (4 HD, 1d8 butt). In any large group of herd animals there are 4 females or young for every 1 male. Adult males have 1d4 additional hit points, and their horns or antlers enable them to attack by butting an opponent. Young have half the standard adult hit points. In most cases herd animals will flee from predators. Males of the larger species will occasionally fight to protect the females and young.
 
 
 ### Hippogriff
 
-% In Lair:	10%
+% In Lair:      10%
 
-Dungeon Enc:	None
+Dungeon Enc:    None
 
-Wilderness Enc:	Herd (2d8) / Aerie (2d8)
+Wilderness Enc: Herd (2d8) / Aerie (2d8)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	180' (60')
+Movement:       180' (60')
 
-	Fly:	360' (120')
+        Fly:    360' (120')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		3 + 1
+Hit Dice:               3 + 1
 
-Attacks:		3 (2 talons, bite)
+Attacks:                3 (2 talons, bite)
 
-Damage:	1d6/1d6/1d10
+Damage: 1d6/1d6/1d10
 
-Save:		F2
+Save:           F2
 
-Morale:		0
+Morale:         0
 
-Treasure Type:	F
+Treasure Type:  F
 
-XP:		65
+XP:             65
 
 Hippogriffs are aggressive flying creatures that combine features of horses and giant eagles. They have the forebody and heads of giant eagles and the hindquarters of horses. A typical hippogriff is 9' long, has a wingspan of 20', and weighs 1,000lb. Voracious omnivores, hippogriffs will hunt humanoids as readily as any other meal. They have a particular taste for pegasi meat.
 
@@ -2450,31 +2450,31 @@ Hippogriffs typically nest high in the mountains. When a hippogriff aerie is enc
 
 ### Hobgoblin
 
-% In Lair:	25%
+% In Lair:      25%
 
-Dungeon Enc:	Gang (1d6) / Lair (1 warband)
+Dungeon Enc:    Gang (1d6) / Lair (1 warband)
 
-Wilderness Enc:	Warband (1d8 gangs) / Village (1d10 warbands)
+Wilderness Enc: Warband (1d8 gangs) / Village (1d10 warbands)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-Armor Class:	3
+Armor Class:    3
 
-Hit Dice:		1 + 1
+Hit Dice:               1 + 1
 
-Attacks:		1 (weapon)
+Attacks:                1 (weapon)
 
-Damage:	1d8 or weapon
+Damage: 1d8 or weapon
 
-Save:		F1
+Save:           F1
 
-Morale:		0
+Morale:         0
 
-Treasure Type:	E (per warband)
+Treasure Type:  E (per warband)
 
-XP:		15
+XP:             15
 
 Hobgoblins were cross-bred from goblins and men by the ancient Zaharans as elite shock troops during the Empyrean War. They are larger, stronger, and smarter than their diminutive cousins.  Hobgoblins have dark orange or red-orange skin, with hair ranging from dark reddish-brown to dark gray. Hobgoblins' eyes are yellowish or dark brown, while their teeth are yellow. Their garments tend to be brightly colored, often blood red with black-dyed leather. When armed for battle, hobgoblins generally wear scale armor and favor swords, spears, polearms, and composite bows, which they keep in good repair. Hobgoblins may reside below ground, but often live or venture to the surface, and suffer no penalties to daylight like their smaller cousins.
 
@@ -2485,33 +2485,33 @@ When hobgoblins are encountered in a village, certain additional creatures may b
 
 ### Horse
 
-			Light				Medium				Heavy
+                        Light                           Medium                          Heavy
 
-% In Lair:		None				None				None
+% In Lair:              None                            None                            None
 
-Dungeon Enc:		None				None				None
+Dungeon Enc:            None                            None                            None
 
-Wilderness Enc:		Herd (1d10x10)			Herd (1d10x10)			Herd (1d10x10)
+Wilderness Enc:         Herd (1d10x10)                  Herd (1d10x10)                  Herd (1d10x10)
 
-Alignment: 		Neutral				Neutral				Neutral
+Alignment:              Neutral                         Neutral                         Neutral
 
-Movement:		240' (80')			180' (60')  			120' (40')
+Movement:               240' (80')                      180' (60')                      120' (40')
 
-Armor Class:		2    				2    				2
+Armor Class:            2                               2                               2
 
-Hit Dice:		2				3				3+3
+Hit Dice:               2                               3                               3+3
 
-Attacks:		1  or 2 hooves			1 or 2 hooves			1 or 2 hooves
+Attacks:                1  or 2 hooves                  1 or 2 hooves                   1 or 2 hooves
 
-Damage:			1d4/1d4				1d6/1d6				1d8/1d8
+Damage:                 1d4/1d4                         1d6/1d6                         1d8/1d8
 
-Save:			F1				F2				F2
+Save:                   F1                              F2                              F2
 
-Morale:			-2 or 0				-1 or +1			-2 or 0
+Morale:                 -2 or 0                         -1 or +1                        -2 or 0
 
-Treasure Type:		None  				None  				None
+Treasure Type:          None                            None                            None
 
-XP:	 		20				50				65
+XP:                     20                              50                              65
 
 Light Horse: Light horses are built for speed and long-distance travel. Light horses can carry up to 20 stone (200lb) and move at full movement, or they can carry a maximum of 40 stone (400lb) and have movement halved. Light horses can be trained for war, gaining +2 to morale and one extra hoof attack. The rider of a war horse may attack with a charge, dealing double damage with a lance. The war horse may attack with its hooves during the charge as well. Most wild horses are light horses.
 
@@ -2522,31 +2522,31 @@ Heavy Horse: These horse breeds are the largest of all, bred to be big, strong l
 
 ### Hydra
 
-% In Lair:	20%
+% In Lair:      20%
 
-Dungeon Enc:	Solitary (1) / Lair (1)
+Dungeon Enc:    Solitary (1) / Lair (1)
 
-Wilderness Enc:	Solitary / Lair (1)
+Wilderness Enc: Solitary / Lair (1)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		5 to 12*
+Hit Dice:               5 to 12*
 
-Attacks:		As head number
+Attacks:                As head number
 
-Damage:	1d10 per head
+Damage: 1d10 per head
 
-Save:		F5 to F12	
+Save:           F5 to F12       
 
-Morale:		+2
+Morale:         +2
 
-Treasure Type:	I (5-7 HD, K (8-9 HD) or M (10-12 HD) 
+Treasure Type:  I (5-7 HD, K (8-9 HD) or M (10-12 HD) 
 
-XP:		350-2,100
+XP:             350-2,100
 
 Hydras are reptile-like monsters with 5-12 (1d8+4) heads. The creatures have skin shaded gray-brown to dark brown, with a light yellow or tan underbelly, eyes of amber, and yellow-white teeth. An average hydra is 20' long and weighs about 4,000lb. Hydras have a number of Hit Die equal to their number of heads, with maximum hit points on each Hit Die. Each head attempts to bite an opponent in a round, so the number of attacks a hydra has each round is equal to the number of heads it has. When a hydra has suffered 8 points of damage, 1 head becomes useless. For each additional 8 hp damage, another head becomes useless. When all heads have been destroyed, the hydra dies. A hydra saves as a Fighter equal in level to the hydra's Hit Dice.
 
@@ -2559,62 +2559,62 @@ The Judge may create other variations of hydra. Some possibilities include hydra
 
 ### Invisible Stalker
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	Solitary (1)
+Dungeon Enc:    Solitary (1)
 
-Wilderness Enc:	Solitary (1)
+Wilderness Enc: Solitary (1)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	6
+Armor Class:    6
 
-Hit Dice:		8*
+Hit Dice:               8*
 
-Attacks:		1
+Attacks:                1
 
-Damage:	4d4
+Damage: 4d4
 
-Save:		F8
+Save:           F8
 
-Morale:		+4
+Morale:         +4
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		1,100
+XP:             1,100
 
 Invisible stalkers are creatures of magic from another plane of existence. They sometimes serve mages, who summon them with the spell invisible stalker to perform specific tasks. A summoned invisible stalker undertakes whatever task the summoner commands, even if the task sends it hundreds or thousands of miles away. The creature follows a command until the task is completed and obeys only the summoner. However, it resents protracted missions or complex tasks and seeks to pervert its instructions accordingly. Invisible stalkers may be dispelled, and return to their home plane. Creatures that cannot detect invisible suffer a -3 penalty to avoid being surprised by invisible stalkers. 
 
 
 ### Kobold
 
-% In Lair:	40%
+% In Lair:      40%
 
-Dungeon Enc:	Gang (4d4) / Lair (1 warband) 
+Dungeon Enc:    Gang (4d4) / Lair (1 warband) 
 
-Wilderness Enc:	Warband (1d6 gangs) / Village (1d10 warbands)
+Wilderness Enc: Warband (1d6 gangs) / Village (1d10 warbands)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	60' (20')
+Movement:       60' (20')
 
-Armor Class:	2
+Armor Class:    2
 
-Hit Dice:		1d4 hit points
+Hit Dice:               1d4 hit points
 
-Attacks:		1 (weapon)
+Attacks:                1 (weapon)
 
-Damage:	1d4 or weapon -1
+Damage: 1d4 or weapon -1
 
-Save:		0 level human
+Save:           0 level human
 
-Morale:		-2
+Morale:         -2
 
-Treasure Type:	E (per warband)
+Treasure Type:  E (per warband)
 
-XP:		5
+XP:             5
 
 Kobolds are short, cowardly, and sadistic beastmen bred from lizard men and dogs by the ancient Zaharans. Standing 2' to 2  1/2 ' tall, kobold have scaly lizard-like skin ranging from dark rusty brown to a rusty black color, but an overall conformation that is vaguely dog-like. All have glowing red eyes with reptilian pupils. Kobolds wear ragged hides and scraps of leather armor, favoring red and orange colors. Their weapons are a mix of ill-kept javelins, short swords, spiked clubs, and hand axes. Kobolds live exclusively underground, and have an extended infravision to 90'. 
 
@@ -2625,159 +2625,159 @@ When kobolds are encountered in a village, certain additional creatures will be 
 
 ### Lamia
 
-% In Lair:	40%
+% In Lair:      40%
 
-Dungeon Enc:	Solitary (1) / Lair (1)
+Dungeon Enc:    Solitary (1) / Lair (1)
 
-Wilderness Enc:	Solitary (1) / Lair (1)
+Wilderness Enc: Solitary (1) / Lair (1)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	240' (80')
+Movement:       240' (80')
 
-Armor Class:	7
+Armor Class:    7
 
-Hit Dice:		9***
+Hit Dice:               9***
 
-Attacks:		1 (hoof or weapon)
+Attacks:                1 (hoof or weapon)
 
-Damage:	1d6 + WIS drain or by weapon
+Damage: 1d6 + WIS drain or by weapon
 
-Save:		F9
+Save:           F9
 
-Morale:		+1
+Morale:         +1
 
-Treasure Type:	N
+Treasure Type:  N
 
-XP:		2,500	
+XP:             2,500   
 
 These highly dangerous creatures resemble women from the torso up, but have a centaur-like lower body that may resemble any beast, or even a combination of beasts. They are often found in ruins or labyrinths, waiting for unsuspecting adventurers. Though a lamia is powerful and dangerous in close combat, it has no stomach for a fair fight. Instead it uses its illusion ability (as the spell phantasmal force but affecting both sight and sound, with an effect that is permanent until touched or dispelled) to lure adventurers into perilous situations where it can destroy them. In addition, lamias have the following spell-like abilities: charm person (once per day), mirror image (once per day), and command word (at will). Finally, lamias can drain 1 point of WIS permanently merely by touching an opponent. When an opponent reaches WIS 3 he becomes completely obedient to the lamia. Lamias feast on the blood and flesh of humanoids. They speak the common tongue, and frequently speak ancient, evil languages such as Archaic.
 
 
 ### Lammasu
 
-% In Lair:	30%
+% In Lair:      30%
 
-Dungeon Enc:	Flight (2d4) / Lair (2d4)
+Dungeon Enc:    Flight (2d4) / Lair (2d4)
 
-Wilderness Enc:	Flight (2d4) / Lair (2d4)
+Wilderness Enc: Flight (2d4) / Lair (2d4)
 
-Alignment:	Lawful
+Alignment:      Lawful
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-	Fly:	240' (80')
+        Fly:    240' (80')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		7+7***
+Hit Dice:               7+7***
 
-Attacks:		2 (claws)
+Attacks:                2 (claws)
 
-Damage:	1d6/1d6
+Damage: 1d6/1d6
 
-Save:		F7
+Save:           F7
 
-Morale:		+1
+Morale:         +1
 
-Treasure Type:	R
+Treasure Type:  R
 
-XP:		1,900	
+XP:             1,900   
 
 Lammasu are benevolent creatures with the bodies of lions, the wings of eagles, and the faces of men. They are not by nature aggressive or violent, and may aid good beings in times of need. A lammasu almost always enters combat if it observes a good creature assailed by evil. When attacking, a lammasu may fight with its razor sharp claws or with spells. A lammasu casts divine spells as a 7th level Cleric. When casting any cure spell, a lammasu may heal twice the normal amount. All lammasu constantly radiate sustained protection from evil, with twice the effect of the normal spell. Finally, a lammasu can ignore any spell or spell-like effect with a Magic Resistance throw of 7+. 
 
 
 ### Leech, Giant
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	None
+Dungeon Enc:    None
 
-Wilderness Enc:	Brood (1d4)
+Wilderness Enc: Brood (1d4)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	2
+Armor Class:    2
 
-Hit Dice:		6*
+Hit Dice:               6*
 
-Attacks:		1 (drain blood)
+Attacks:                1 (drain blood)
 
-Damage:	1d6
+Damage: 1d6
 
-Save:		F3
+Save:           F3
 
-Morale:		+2
+Morale:         +2
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		570	
+XP:             570     
 
 Giant leeches are 4' long, brown, and slimy. They live in marshy terrain and other bodies of stagnant water. When a giant leech hits in combat, it latches on to a victim with its round barbed mouth and drinks 1d6 hit points of blood from the victim each round. Once attached, a giant leech will only release a victim if the victim dies or the leech itself is killed.
 
 
 ### Lizard, Giant
 
-			Draco				Gecko
+                        Draco                           Gecko
 
-% In Lair:		25%				25%
+% In Lair:              25%                             25%
 
-Dungeon Enc:		Lounge (1d3) / Lair (1d6)	Lounge (1d6) / Lair (1d10)
+Dungeon Enc:            Lounge (1d3) / Lair (1d6)       Lounge (1d6) / Lair (1d10)
 
-Wilderness Enc:		Lounge (1d3) / Lair (1d6)	Lounge (1d6) / Lair (1d10)
+Wilderness Enc:         Lounge (1d3) / Lair (1d6)       Lounge (1d6) / Lair (1d10)
 
-Alignment: 		Neutral	       	    		Neutral
+Alignment:              Neutral                         Neutral
 
-Movement:		120' (40')			120' (40')
+Movement:               120' (40')                      120' (40')
 
-              Fly:	210' (70')			-
+              Fly:      210' (70')                      -
 
-Armor Class:  		4    				4
+Armor Class:            4                               4
 
-Hit Dice:		4 + 2				3 + 1
+Hit Dice:               4 + 2                           3 + 1
 
-Attacks:		1 (bite)			1 (bite)
+Attacks:                1 (bite)                        1 (bite)
 
-Damage:			1d10				1d8
+Damage:                 1d10                            1d8
 
-Save:			F3				F2
+Save:                   F3                              F2
 
-Morale:			-1				-1
+Morale:                 -1                              -1
 
-Treasure Type:		None				None
+Treasure Type:          None                            None
 
-XP:	 		140				65
+XP:                     140                             65
 
 
-### 			Horned Chameleon		Tuatara
+###                     Horned Chameleon                Tuatara
 
-% In Lair:		25%    				25%
+% In Lair:              25%                             25%
 
-Dungeon Enc:		Lounge (1d3) / Lair (1d6)	Lounge (1d2) / Lair (1d4)
+Dungeon Enc:            Lounge (1d3) / Lair (1d6)       Lounge (1d2) / Lair (1d4)
 
-Wilderness Enc:		Lounge (1d3) / Lair (1d6)	Lounge (1d2) / Lair (1d4)
+Wilderness Enc:         Lounge (1d3) / Lair (1d6)       Lounge (1d2) / Lair (1d4)
 
-Alignment: 		Neutral	       	    		Neutral
+Alignment:              Neutral                         Neutral
 
-Movement:		120' (40')			90' (30')
+Movement:               120' (40')                      90' (30')
 
-Armor Class:		7    				5
+Armor Class:            7                               5
 
-Hit Dice:		5*				6
+Hit Dice:               5*                              6
 
-Attacks:		2 (bite, horn)			3 (2 claws, bite)
+Attacks:                2 (bite, horn)                  3 (2 claws, bite)
 
-Damage:			2d4/1d6	 			1d4/1d4/2d6
+Damage:                 2d4/1d6                         1d4/1d4/2d6
 
-Save:			F3				F4
+Save:                   F3                              F4
 
-Morale:			-1				-2
+Morale:                 -1                              -2
 
-Treasure Type:		None				None
+Treasure Type:          None                            None
 
-XP:	 		350				320
+XP:                     350                             320
 
 Giant Draco Lizard: The giant draco has a length of 6', and is capable of gliding in the air due to large skin flaps below its limbs. Although they live primarily above ground, they do occasionally venture underground to seek shelter or look for a meal.
 
@@ -2790,33 +2790,33 @@ Giant Tuatara Lizard: This giant leathery skinned 8' carnivorous lizard has form
 
 ### Lizardman
 
-% In Lair:	30%
+% In Lair:      30%
 
-Dungeon Enc:	Gang (2d4) / Lair (1 warband)
+Dungeon Enc:    Gang (2d4) / Lair (1 warband)
 
-Wilderness Enc:	Warband (1d8 gangs) / Village (1d10 warbands)
+Wilderness Enc: Warband (1d8 gangs) / Village (1d10 warbands)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	60' (20')
+Movement:       60' (20')
 
-	Swim:	120' (40')
+        Swim:   120' (40')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		2 + 1
+Hit Dice:               2 + 1
 
-Attacks:		3 or 1 (2 claws and 1 bite, or weapon)
+Attacks:                3 or 1 (2 claws and 1 bite, or weapon)
 
-Damage:	1d3/1d3/1d8 or by weapon + 1
+Damage: 1d3/1d3/1d8 or by weapon + 1
 
-Save:		F2
+Save:           F2
 
-Morale:		+2
+Morale:         +2
 
-Treasure Type:	L (per warband)
+Treasure Type:  L (per warband)
 
-XP:		35
+XP:             35
 
 These scaly beastmen were magically bred from a cross of men and giant lizards long ago. Lizardmen once ruled a powerful Kingdom, but over time they have degenerated to a state of primitive savagery. They stand 6' to 7' tall, with the heads and tails of lizards. Primitive and vicious, they delight in feasting upon the flesh of other humanoids. They often venture into dungeons, especially if there is an aquatic entrance. They otherwise dwell in marshes and along the banks of bodies of water. They have tough, scaly hides but often carry shields for additional protection. Lizardmen can attack with bites and claws, or may wield spiked clubs, javelins, and barbed darts (treat as daggers when thrown). Their immense strength grants them a +1 bonus to damage with weapons. 
 
@@ -2827,33 +2827,33 @@ When lizardmen are encountered in a village, certain additional creatures may be
 
 ### Locust, Cavern
 
-% In Lair:	30%
+% In Lair:      30%
 
-Dungeon Enc:	Plague (1d10) / Nest (2d10) 
+Dungeon Enc:    Plague (1d10) / Nest (2d10) 
 
-Wilderness Enc:	None
+Wilderness Enc: None
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	60' (20')
+Movement:       60' (20')
 
-	Fly:	180' (60')
+        Fly:    180' (60')
 
-Armor Class:	5
+Armor Class:    5
 
-Hit Dice:		2*
+Hit Dice:               2*
 
-Attacks:		1 (bite, slam, spit)
+Attacks:                1 (bite, slam, spit)
 
-Damage:	1d2/1d4/see below
+Damage: 1d2/1d4/see below
 
-Save:		F2
+Save:           F2
 
-Morale:		-3
+Morale:         -3
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		29
+XP:             29
 
 Cavern locusts resemble giant 2' or 3' long grasshoppers, and are the color of stone. They primarily eat plants and all kinds of fungus that grows underground. They are immune to the effects of yellow mold and other poisons. 
 
@@ -2864,62 +2864,62 @@ If forced into combat, the locusts may produce a brown, sticky spit that they pr
 
 ### Lycanthrope
 
-			Werebear			Wereboar			Wererat
+                        Werebear                        Wereboar                        Wererat
 
-% In Lair:		10%				20%				30%
+% In Lair:              10%                             20%                             30%
 
-Dungeon Enc:		Sloth (1d4) / Lair (1d4)	Sounder (1d4) / Lair (2d4)	Pack (1d8) / Lair (2d6)
+Dungeon Enc:            Sloth (1d4) / Lair (1d4)        Sounder (1d4) / Lair (2d4)      Pack (1d8) / Lair (2d6)
 
-Wilderness Enc:		Sloth (1d4) / Lair (1d4)	Herd (2d4) / Lair (2d4)		Plague (2d6) / Lair (2d6)
+Wilderness Enc:         Sloth (1d4) / Lair (1d4)        Herd (2d4) / Lair (2d4)         Plague (2d6) / Lair (2d6)
 
-Alignment: 		Neutral	      	   		Neutral	     	  		Chaotic
+Alignment:              Neutral                         Neutral                         Chaotic
 
-Movement:		120' (40')			150' (50')			120' (40')
+Movement:               120' (40')                      150' (50')                      120' (40')
 
-Armor Class:		7 (1)				5 (0)				2 (0)
+Armor Class:            7 (1)                           5 (0)                           2 (0)
 
-Hit Dice:		6*				4 + 1*				3*
+Hit Dice:               6*                              4 + 1*                          3*
 
-Attacks:		3 (2 claws, bite)		1 (tusk bite)			1 (bite or weapon)
+Attacks:                3 (2 claws, bite)               1 (tusk bite)                   1 (bite or weapon)
 
-Damage:			2d4/2d4/ 2d8			2d6				1d4 or weapon
+Damage:                 2d4/2d4/ 2d8                    2d6                             1d4 or weapon
 
-Save:			F6	 			F4				F3
+Save:                   F6                              F4                              F3
 
-Morale:			+2				+1				0
+Morale:                 +2                              +1                              0
 
-Treasure Type:		L				J				G
+Treasure Type:          L                               J                               G
 
-XP:	 		570				215				65
+XP:                     570                             215                             65
 
 
-### 			Weretiger			Werewolf
+###                     Weretiger                       Werewolf
 
-% In Lair:		15%				25%
+% In Lair:              15%                             25%
 
-Dungeon Enc:		Troop (1d4) / Lair (1d4)	Pack (1d6) / Lair (2d6)
+Dungeon Enc:            Troop (1d4) / Lair (1d4)        Pack (1d6) / Lair (2d6)
 
-Wilderness Enc:		Troop (1d4) / Lair (1d4)	Route (2d6) / Lair (2d6)
+Wilderness Enc:         Troop (1d4) / Lair (1d4)        Route (2d6) / Lair (2d6)
 
-Alignment: 		Neutral	      	   		Chaotic
+Alignment:              Neutral                         Chaotic
 
-Movement:		150' (50')			180' (60')
+Movement:               150' (50')                      180' (60')
 
-Armor Class:		6 (0)				4 (0)
+Armor Class:            6 (0)                           4 (0)
 
-Hit Dice:		5*				4*
+Hit Dice:               5*                              4*
 
-Attacks:		3 (2 claws, bite)  		1 (bite)
+Attacks:                3 (2 claws, bite)               1 (bite)
 
-Damage:			1d6/1d6/2d6 			2d4
+Damage:                 1d6/1d6/2d6                     2d4
 
-Save:			F5				F4
+Save:                   F5                              F4
 
-Morale:			+1				0
+Morale:                 +1                              0
 
-Treasure Type:		J				J
+Treasure Type:          J                               J
 
-XP:	 		350				135
+XP:                     350                             135
 
 All lycanthropes are humans cursed with the disease lycanthropy. They are able to take the form of one kind of animal, and are able to summon the aid of 1d2 of this same kind of animal, which will appear in 1d4 rounds. Lycanthropes never wear armor, since this would hinder the shape-changing process. Wolfsbane is an effective ward against all lycanthropes, and if one is touched with it (whether thrown at it or otherwise hit with it), the lycanthrope must succeed in a saving throw versus Poison or flee out of fear. When killed, a lycanthrope takes his human form. Horses and other domestic animals can sense lycanthropes when they are near, and will act restless or bolt.
 
@@ -2940,158 +2940,158 @@ Werewolf: Werewolves are not extremely intelligent in animal form, but they make
 
 ### Manticore
 
-% In Lair:	20%
+% In Lair:      20%
 
-Dungeon Enc:	Flight (1d2) / Lair (1d4)
+Dungeon Enc:    Flight (1d2) / Lair (1d4)
 
-Wilderness Enc:	Wing (1d4) / Lair (1d4)
+Wilderness Enc: Wing (1d4) / Lair (1d4)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-	Fly:	180' (60')
+        Fly:    180' (60')
 
-Armor Class:	5
+Armor Class:    5
 
-Hit Dice:		6 + 1*
+Hit Dice:               6 + 1*
 
-Attacks:		3 (2 claws, bite) or 1 (spikes)
+Attacks:                3 (2 claws, bite) or 1 (spikes)
 
-Damage:	1d4/1d4/2d4 or see below
+Damage: 1d4/1d4/2d4 or see below
 
-Save:		F6
+Save:           F6
 
-Morale:		+1
+Morale:         +1
 
-Treasure Type:	K
+Treasure Type:  K
 
-XP:		680
+XP:             680
 
 This foul monster delights in feasting on human flesh. It has the face of a human, but there the similarities end. The manticore has giant bat wings, a lion's body, and a long reptilian tail that has 24 barbed spikes growing from its end. The manticore can throw 6 spikes per round, and can do so when airborne. Spikes can hit targets up to 180' away and deal 1d6 points of damage each. The spikes grow back at a rate of 2 every day. Manticores usually live in the mountains, but have been known to venture into dungeons.
 
 
 ### Mastodon
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	None
+Dungeon Enc:    None
 
-Wilderness Enc:	Herd (2d8)
+Wilderness Enc: Herd (2d8)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	6
+Armor Class:    6
 
-Hit Dice:		15
+Hit Dice:               15
 
-Attacks:		2 (tusks) or 1 (trample)
+Attacks:                2 (tusks) or 1 (trample)
 
-Damage:	2d6/2d6 or 4d8
+Damage: 2d6/2d6 or 4d8
 
-Save:		F8
+Save:           F8
 
-Morale:		0
+Morale:         0
 
-Treasure Type:	Special
+Treasure Type:  Special
 
-XP:		1,800
+XP:             1,800
 
 Mastodons are prehistoric cousins to elephants, but are adapted to colder climates and have a thick coat of shaggy hair. When in close combat, they may attempt to attack with tusks or attempt to trample. Mastodons have a +4 to their attack throw when attempting to trample an opponent that is man-sized or smaller. When distance permits, mastodons may charge with their tusk attacks to deal double damage. Although mastodons do not keep treasure, the ivory from their tusks is valuable. Each tusk is worth 2d4x100gp.
 
 
 ### Medusa
 
-% In Lair:	50%
+% In Lair:      50%
 
-Dungeon Enc:	Coterie (1d3) / Lair (1d4)
+Dungeon Enc:    Coterie (1d3) / Lair (1d4)
 
-Wilderness Enc:	Coven (1d4) / Lair (1d4)
+Wilderness Enc: Coven (1d4) / Lair (1d4)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-Armor Class:	1
+Armor Class:    1
 
-Hit Dice:		4***
+Hit Dice:               4***
 
-Attacks:		1 (snakebite or special)
+Attacks:                1 (snakebite or special)
 
-Damage:	1d6, poison
+Damage: 1d6, poison
 
-Save:		F7
+Save:           F7
 
-Morale:		0
+Morale:         0
 
-Treasure Type:	H
+Treasure Type:  H
 
-XP:		245
+XP:             245
 
 Medusa are indistinguishable from human women, except that they have vicious snakes on their heads rather than hair. They may attempt to disguise themselves with a hooded robe, only to suddenly reveal their true nature. Any character that meets a medusa's petrifying gaze is required to make a saving throw versus Petrification or he turns to stone. Due to their inherently magical nature, medusas save as 7 Hit Dice monsters despite only having 4 Hit Dice. Half of the treasure in a medusa's lair is likely to be on petrified victims, and will only be accessible if the victims are restored to flesh. 
 
 
 ### Men
 
-		Berserker				Brigand					Pirate
+                Berserker                               Brigand                                 Pirate
 
-% In Lair:	20%					20%					10%
+% In Lair:      20%                                     20%                                     10%
 
-Dungeon Enc:	Gang (1d6) / Lair (1 warband)   	Gang (2d4) / Outpost (1 band)		None
+Dungeon Enc:    Gang (1d6) / Lair (1 warband)           Gang (2d4) / Outpost (1 band)           None
 
-Wilderness Enc:	Warband (1d8 gangs) / Lair (1 warband)  Band (1d10 gangs)/ Camp (2d6 bands)	Fleet (by vessel type)/ Island (1 fleet)
+Wilderness Enc: Warband (1d8 gangs) / Lair (1 warband)  Band (1d10 gangs)/ Camp (2d6 bands)     Fleet (by vessel type)/ Island (1 fleet)
 
-Alignment: 	Neutral	     	      	      		Chaotic	   	   	     		Neutral or Chaotic
+Alignment:      Neutral                                 Chaotic                                 Neutral or Chaotic
 
-Movement:	120' (40')				120' (40')				120' (40')
+Movement:       120' (40')                              120' (40')                              120' (40')
 
-Armor Class:	2    					Armor type				Armor type
+Armor Class:    2                                       Armor type                              Armor type
 
-Hit Dice:	1+1*					1     					1
+Hit Dice:       1+1*                                    1                                       1
 
-Attacks:	1					1					1
+Attacks:        1                                       1                                       1
 
-Damage:		1d6 or weapon type			1d6 or weapon type			1d6 or weapon type
+Damage:         1d6 or weapon type                      1d6 or weapon type                      1d6 or weapon type
 
-Save:		F1     	      				F1     	      				F1
+Save:           F1                                      F1                                      F1
 
-Morale:		+4					0					-2
+Morale:         +4                                      0                                       -2
 
-Treasure Type:	J (per warband)				H (per band)				Varies (per fleet)
+Treasure Type:  J (per warband)                         H (per band)                            Varies (per fleet)
 
-XP:	 	21     					10     					10
+XP:             21                                      10                                      10
 
-		
+                
 
-		Merchant				Nomad
+                Merchant                                Nomad
 
-% In Lair:	None					10%
+% In Lair:      None                                    10%
 
-Dungeon Enc:	None					None  
+Dungeon Enc:    None                                    None  
 
-Wilderness Enc:	Caravan (1d4x10 wagons)			Caravan (1d4x10)  / Camp (2d6 caravans)
+Wilderness Enc: Caravan (1d4x10 wagons)                 Caravan (1d4x10)  / Camp (2d6 caravans)
 
-Alignment: 	Neutral					Neutral        
+Alignment:      Neutral                                 Neutral        
 
-Movement:	90' (30')				120' (40')   
+Movement:       90' (30')                               120' (40')   
 
-Armor Class:	4   					Armor type  
+Armor Class:    4                                       Armor type  
 
-Hit Dice:	1					1                
+Hit Dice:       1                                       1                
 
-Attacks:	1					1
+Attacks:        1                                       1
 
-Damage:		1d6 or weapon type			1d6 or weapon type
+Damage:         1d6 or weapon type                      1d6 or weapon type
 
-Save:		F1     	      				F1     
+Save:           F1                                      F1     
 
-Morale:		Varies					0
+Morale:         Varies                                  0
 
-Treasure Type:	J (per 10 wagons) 			E (per caravan)
+Treasure Type:  J (per 10 wagons)                       E (per caravan)
 
-XP:	 	10     	  				10
+XP:             10                                      10
 
 The men here are all considered 1st level fighters. Individuals of greater level will typically lead them. The Treasure Types provided indicate treasure found in lairs, except for the case of merchants and pirates.  However, any leaders or other leveled characters present may possess magic items in addition to those indicated by the treasure type. For each category of item (potion, sword, etc.), there is a 5% chance per level of the leader that he possesses an item of that category. 
 
@@ -3124,33 +3124,33 @@ Nomad camps (wilderness lairs) will be ruled by a chieftain (fighter of 8th leve
 
 ### Mermen
 
-% In Lair:	25%
+% In Lair:      25%
 
-Dungeon Enc:	None
+Dungeon Enc:    None
 
-Wilderness Enc:	Band (1d20) / Village (2d20 bands)
+Wilderness Enc: Band (1d20) / Village (2d20 bands)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	-
+Movement:       -
 
-	Swim:	120' (40')
+        Swim:   120' (40')
 
-Armor Class:	3
+Armor Class:    3
 
-Hit Dice:		1
+Hit Dice:               1
 
-Attacks:		1
+Attacks:                1
 
-Damage:	1d6 or weapon type
+Damage: 1d6 or weapon type
 
-Save:		F1
+Save:           F1
 
-Morale:		0
+Morale:         0
 
-Treasure Type:	B (per band)
+Treasure Type:  B (per band)
 
-XP:		10
+XP:             10
 
 These legendary beings have human-like bodies from the waist up and fish tails from the waist down. They use weapons that are convenient in water, including daggers, spears, and tridents. These creatures live exclusively in large bodies of water. They may occasionally trade fish and other sea bounty to human villages, but generally they keep to themselves. 
 
@@ -3159,62 +3159,62 @@ Each band of mermen will be led by a leader with 2 Hit Dice. Mermen villages (un
 
 ### Minotaur
 
-% In Lair:	20%
+% In Lair:      20%
 
-Dungeon Enc:	Gang (1d6) / Lair (1d8)
+Dungeon Enc:    Gang (1d6) / Lair (1d8)
 
-Wilderness Enc:	Warband (1d8) / Lair (1d8)
+Wilderness Enc: Warband (1d8) / Lair (1d8)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	3
+Armor Class:    3
 
-Hit Dice:		6
+Hit Dice:               6
 
-Attacks:		2 or 1 (gore, 1 bite or weapon)
+Attacks:                2 or 1 (gore, 1 bite or weapon)
 
-Damage:	1d6/1d6 or by weapon +2
+Damage: 1d6/1d6 or by weapon +2
 
-Save:		F6
+Save:           F6
 
-Morale:		+4
+Morale:         +4
 
-Treasure Type:	L, G
+Treasure Type:  L, G
 
-XP:		320
+XP:             320
 
 These monstrous humanoids have the bodies of huge, muscled male humans but the heads of a horned bull. They usually live in dungeons, where they prey upon anyone who ventures. Minotaurs are relentless, and will attempt to chase fleeing prey, tracking enemies that they lose sight of with a proficiency throw of 18+. They delight in the taste of human flesh and will feast on any slain characters. In combat, minotaurs will either attack with a weapon or bite and gore with their horns.  Due to their great strength they receive a +2 bonus to damage rolls when using weapons.
 
 
 ### Morlock
 
-% In Lair:	35%
+% In Lair:      35%
 
-Dungeon Enc:	Gang (1d12) / Lair (1 warband)
+Dungeon Enc:    Gang (1d12) / Lair (1 warband)
 
-Wilderness Enc:	Warband (1d8 gangs) / Lair (1 warband)
+Wilderness Enc: Warband (1d8 gangs) / Lair (1 warband)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	1
+Armor Class:    1
 
-Hit Dice:		1
+Hit Dice:               1
 
-Attacks:		1 (weapon)
+Attacks:                1 (weapon)
 
-Damage:	As weapon
+Damage: As weapon
 
-Save:		F1
+Save:           F1
 
-Morale:		+1
+Morale:         +1
 
-Treasure Type:	E (per warband)
+Treasure Type:  E (per warband)
 
-XP:		10
+XP:             10
 
 Morlocks are a degenerate race of subterranean humans that lair deep within caverns or dungeons. They are all albinos, and have developed a carnivorous diet that favors the meat of other humanoids. They only venture to the surface at night, and if caught in the daylight they suffer an attack penalty of -2. Their subterranean existence has given them 90' infravision. These foul degenerate people wield any sort of weapon, but favor spears and swords. Morlocks are enemies of neanderthals, dwarves, and gnomes, but they sometimes join groups of orcs and goblins.
 
@@ -3223,62 +3223,62 @@ Each morlock gang will be led by a champion with AC2, 1+1 Hit Die, and 8 hit poi
 
 ### Mule
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	Rake (1d8)
+Dungeon Enc:    Rake (1d8)
 
-Wilderness Enc:	Herd (2d6)
+Wilderness Enc: Herd (2d6)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	2
+Armor Class:    2
 
-Hit Dice:		2
+Hit Dice:               2
 
-Attacks:		1 (kick or bite)
+Attacks:                1 (kick or bite)
 
-Damage:	1d4 or 1d3
+Damage: 1d4 or 1d3
 
-Save:		0 level human
+Save:           0 level human
 
-Morale:		0
+Morale:         0
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		20
+XP:             20
 
 Mules are a hybrid of a donkey and a horse. Mules are notoriously ornery, and may attack if particularly provoked. They can carry 20 stone (200lb) comfortably, and may carry a maximum of 40 stone (400lb). In the latter case, movement rate is reduced to 60' per turn. At the Judge's discretion, a mule may be taken into the depths of a dungeon to aid in transporting equipment or treasure, so long as conditions allow.
 
 
 ### Mummy
 
-% In Lair:	20%
+% In Lair:      20%
 
-Dungeon Enc:	Throng (1d4) / Tomb (1d12)
+Dungeon Enc:    Throng (1d4) / Tomb (1d12)
 
-Wilderness Enc:	Horde (1d12) / Tomb (1d12)
+Wilderness Enc: Horde (1d12) / Tomb (1d12)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	60' (20')
+Movement:       60' (20')
 
-Armor Class:	6
+Armor Class:    6
 
-Hit Dice:		5 + 1*
+Hit Dice:               5 + 1*
 
-Attacks:		1
+Attacks:                1
 
-Damage:	1d12, mummy rot
+Damage: 1d12, mummy rot
 
-Save:		F5
+Save:           F5
 
-Morale:		+4
+Morale:         +4
 
-Treasure Type:	N x2
+Treasure Type:  N x2
 
-XP:		460
+XP:             460
 
 Mummies are preserved undead corpses animated by the dark arts, and commonly guard the old tombs and lost ruins of that fell kingdom. These undead are so fearsome that any being seeing one must succeed in a saving throw versus Paralysis or become paralyzed with dread. This affect passes if the mummy leaves the victims range of vision, or if the mummy engages in combat. When a mummy successfully strikes a victim, the victim suffers 1d12 points of damage and contracts mummy rot. 
 
@@ -3287,31 +3287,31 @@ Mummy rot is a powerful curse, not a natural disease. When under the effects of 
 
 ### Neanderthal
 
-% In Lair:	40%
+% In Lair:      40%
 
-Dungeon Enc:	Band (1d10) / Lair (1d6 bands)
+Dungeon Enc:    Band (1d10) / Lair (1d6 bands)
 
-Wilderness Enc:	Band (1d10) / Lair (1d6 bands)
+Wilderness Enc: Band (1d10) / Lair (1d6 bands)
 
-Alignment:	Lawful
+Alignment:      Lawful
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	1
+Armor Class:    1
 
-Hit Dice:		2
+Hit Dice:               2
 
-Attacks:		1 (weapon)
+Attacks:                1 (weapon)
 
-Damage:	2d4 or weapon
+Damage: 2d4 or weapon
 
-Save:		F2
+Save:           F2
 
-Morale:		-1
+Morale:         -1
 
-Treasure Type:	E
+Treasure Type:  E
 
-XP:		20
+XP:             20
 
 These humanoids are cousins to humans. They often are assumed to be brutish, due to their large brow ridges, receding chins, and slightly shorter, denser bodies. However, though they live a primitive lifestyle, they are as intelligent as humans. Neanderthals typically attack with spears and weapons with stone blades. Neanderthals revere cave bears, and will hunt them for rites of passage and religious purposes. They despise kobolds, goblins, and morlocks, but enjoy the company of gnomes and dwarves.
 
@@ -3320,35 +3320,35 @@ Each neanderthal band will be led by a champion with AC2, 3 Hit Dice, and 15 hit
 
 ### Nymph
 
-			Dryad				Naiad		
+                        Dryad                           Naiad           
 
-% In Lair:		10%				95%
+% In Lair:              10%                             95%
 
-Dungeon Enc:		None				None
+Dungeon Enc:            None                            None
 
-Wilderness Enc:		Solitary (1) / Grove (1d6)	Solitary (1) / Watery lair (2d20)
+Wilderness Enc:         Solitary (1) / Grove (1d6)      Solitary (1) / Watery lair (2d20)
 
-Alignment: 		Neutral	       	     		Neutral        
+Alignment:              Neutral                         Neutral        
 
-Movement:		120' (40')			-
+Movement:               120' (40')                      -
 
-Swim:			-    				120' (40')   
+Swim:                   -                               120' (40')   
 
-Armor Class:		4				2 
+Armor Class:            4                               2 
 
-Hit Dice:		2*				1*
+Hit Dice:               2*                              1*
 
-Attacks:		Charm				1
+Attacks:                Charm                           1
 
-Damage:			-				1d4 
+Damage:                 -                               1d4 
 
-Save:			E4				E1
+Save:                   E4                              E1
 
-Morale:			-2				-2
+Morale:                 -2                              -2
 
-Treasure Type:		D				D
+Treasure Type:          D                               D
 
-XP:	 		29				13
+XP:                     29                              13
 
 Dryad: Shy, intelligent, and resolute, dryads are as elusive as they are alluring. A dryad's delicate features are much like a female elf's, though her flesh is the color of bark, and her hair is the color of a canopy of leaves that changes color with the seasons. Although they are generally solitary, up to six dryads may be encountered in one place on rare occasions. A dryad is united by spirit to a particular tree, and if this tree is ever killed, the dryad will be killed as well. Dryads may physically join with their trees, effectively disappearing. A dryad may not venture more than 240' from her tree, or she will die after 1 turn. 
 
@@ -3359,95 +3359,95 @@ Naiad: Naiads are related to dryads, but are water beings that are 5' tall and a
 
 ### Ochre Jelly
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	Solitary (1)
+Dungeon Enc:    Solitary (1)
 
-Wilderness Enc:	None
+Wilderness Enc: None
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	30' (10')
+Movement:       30' (10')
 
-Armor Class:	1
+Armor Class:    1
 
-Hit Dice:		5*
+Hit Dice:               5*
 
-Attacks:		1
+Attacks:                1
 
-Damage:	2d6
+Damage: 2d6
 
-Save:		F3
+Save:           F3
 
-Morale:		N/A
+Morale:         N/A
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		350
+XP:             350
 
 The ochre jelly is a slimy, giant amoeba with a distinct golden yellow hue. An ochre jelly constantly oozes an acidic slime that can eat through cloth, wood, and leather after 1 round, but cannot affect stone or metal. The acid inflicts 2d6 points of damage to bare flesh. An ochre jelly has no fixed form, and is able to squeeze under doors and into other small spaces with ease. When attacked with lightning or weapons, an ochre jelly will divide into 1d3+2 littler amoebas with 2 Hit Dice each. These smaller jellies deal 1d6 points of damage to flesh, and suffer no further effects from lightning or weapons. Fire and cold will damage an ochre jelly normally.
 
 
 ### Octopus, Giant
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	None
+Dungeon Enc:    None
 
-Wilderness Enc:	Pod (1d2)
+Wilderness Enc: Pod (1d2)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	-
+Movement:       -
 
-	Swim:	90' (30')
+        Swim:   90' (30')
 
-Armor Class:	2
+Armor Class:    2
 
-Hit Dice:		8**
+Hit Dice:               8**
 
-Attacks:		8 (tentacles) or 1 (bite)
+Attacks:                8 (tentacles) or 1 (bite)
 
-Damage:	1d3 (per tentacle)/1d6
+Damage: 1d3 (per tentacle)/1d6
 
-Save:		F4
+Save:           F4
 
-Morale:		-1
+Morale:         -1
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		1,600
+XP:             1,600
 
 These creatures are aggressive and territorial hunters that live in temperate or tropical ocean waters. The tentacles of the giant octopus reach 10' or more in length, and are studded with barbs and sharp-edged suckers. The tentacles constrict victims when they successfully attack, dealing 1d3 points of damage each on every successive round. For each tentacle that is constricting a victim, the victim suffers a cumulative attack penalty of -1. For instance, if four tentacles are constricting a character, he takes 4d3 points of damage per round and suffers -4 to attack throws. A tentacle can be cut off if a total of 6 or more points of damage is dealt with one blow. A giant octopus that is losing an encounter will seek to escape by spraying a 40' radius cloud of black ink to obscure its retreat. A giant octopus is able to move at triple speed (270' per round) when fleeing.
 
 
 ### Ogre
 
-% In Lair:	20%
+% In Lair:      20%
 
-Dungeon Enc:	Gang (1d6) / Lair (1 warband) 
+Dungeon Enc:    Gang (1d6) / Lair (1 warband) 
 
-Wilderness Enc:	Warband (1d3 gangs) / Village (1d10 warbands)
+Wilderness Enc: Warband (1d3 gangs) / Village (1d10 warbands)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		4 + 1
+Hit Dice:               4 + 1
 
-Attacks:		1 (large club or weapon)
+Attacks:                1 (large club or weapon)
 
-Damage:	1d10 or weapon +3
+Damage: 1d10 or weapon +3
 
-Save:		F4
+Save:           F4
 
-Morale:		+2
+Morale:         +2
 
-Treasure Type:	L (per warband) and special
+Treasure Type:  L (per warband) and special
 
-XP:		140
+XP:             140
 
 Ogres are 9' to 10' tall beastmen that resemble big brutish humans. They are thought to have been bred from men and carnivorous apes for use as heavy infantry during the Empyrean War that toppled the Archaic Kingdom. Their skin ranges from dull yellow to dull brown and is very hairy. Their clothing consists of poorly cured furs and hides, which add to their naturally repellent odor. Ogres despise Neanderthals and will attempt to destroy them when encountered. Ogres normally fight with large clubs or axes and enjoy a +3 bonus to damage rolls due to their great strength. Ogres usually live under rock shelters, or in caves, but often will venture into dungeons. When ogres are found away from their lair they will carry sacks containing 1d6x100gp each.
 
@@ -3458,31 +3458,31 @@ When ogres are encountered in a village, certain additional creatures may be pre
 
 ### Orc
 
-% In Lair:	35%
+% In Lair:      35%
 
-Dungeon Enc:	Gang (2d4) / Lair (1 warband) 
+Dungeon Enc:    Gang (2d4) / Lair (1 warband) 
 
-Wilderness Enc:	Warband (2d6 gangs) / Village (1d10 warbands)
+Wilderness Enc: Warband (2d6 gangs) / Village (1d10 warbands)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	3
+Armor Class:    3
 
-Hit Dice:		1
+Hit Dice:               1
 
-Attacks:		1 (weapon)
+Attacks:                1 (weapon)
 
-Damage:	1d6 or weapon
+Damage: 1d6 or weapon
 
-Save:		F1
+Save:           F1
 
-Morale:		0
+Morale:         0
 
-Treasure Type:	G (per warband)
+Treasure Type:  G (per warband)
 
-XP:		10
+XP:             10
 
 Orcs are grotesque beastmen bred as warriors from men and wild boars by the ancient Zaharans. They stand just over 6' tall, with pig-like faces, reddish eyes, and black hair. Orcs prefer wearing vivid colors that many humans would consider unpleasant, such as blood red, mustard yellow, yellow-green, and deep purple. Their equipment is dirty and unkempt, though serviceable. Orcs are primarily subterranean, but they are also nocturnal and may be found on the surface at night. They suffer a penalty of -1 to attack throws when in sunlight. 
 
@@ -3495,130 +3495,130 @@ When orcs are encountered in a village, certain additional creatures will be pre
 
 ### Owl Bear
 
-% In Lair:	30%
+% In Lair:      30%
 
-Dungeon Enc:	Sloth (1d4) / Den (1d4)
+Dungeon Enc:    Sloth (1d4) / Den (1d4)
 
-Wilderness Enc:	Sloth (1d4) / Den (1d4)
+Wilderness Enc: Sloth (1d4) / Den (1d4)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		5
+Hit Dice:               5
 
-Attacks:		3 (2claws, bite)
+Attacks:                3 (2claws, bite)
 
-Damage:	1d8/1d8/1d8
+Damage: 1d8/1d8/1d8
 
-Save:		F3
+Save:           F3
 
-Morale:		+1
+Morale:         +1
 
-Treasure Type:	I
+Treasure Type:  I
 
-XP:		200
+XP:             200
 
 Having the head of a giant owl and the body of a bear, owl bears are rumored to be a magical hybrid created for an unfathomably chaotic purpose. Their coats range in color from brown-black to yellowish brown; their beaks are a dull ivory color. A full-grown male can stand as tall as 8' and weigh up to 1,500lb. Adventurers who have survived encounters with the creature often speak of the bestial madness they glimpsed in its red-rimmed eyes. They are mean spirited carnivores. Just like bears, an owl bear may hug an opponent for 2d8 points of damage if it successfully hits with both paws in the same round. Owl bears are known to live in wooded areas, and are equally likely to take residence in caves or dungeons.
 
 
 ### Pegasus
 
-% In Lair:	15%
+% In Lair:      15%
 
-Dungeon Enc:	None
+Dungeon Enc:    None
 
-Wilderness Enc:	Flock (1d12) / Nest (1d12)
+Wilderness Enc: Flock (1d12) / Nest (1d12)
 
-Alignment:	Lawful
+Alignment:      Lawful
 
-Movement:	240' (80')
+Movement:       240' (80')
 
-	Fly:	480' (160')
+        Fly:    480' (160')
 
-Armor Class:	3
+Armor Class:    3
 
-Hit Dice:		2 + 2
+Hit Dice:               2 + 2
 
-Attacks:		2 (hooves)
+Attacks:                2 (hooves)
 
-Damage:	1d6/1d6
+Damage: 1d6/1d6
 
-Save:		F2
+Save:           F2
 
-Morale:		0
+Morale:         0
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		35
+XP:             35
 
 Pegasi are magnificent winged horses that sometimes serve the cause of good. Though highly prized as aerial steeds, pegasi are wild and shy creatures not easily tamed. When a pegasi aerie is encountered, there is a 50% chance that 1d6 eggs or 1d4 young are present. Pegasi eggs and young can be raised and trained as mounts by lawful characters. Pegasi avoid hippogriffs, which are their natural predators. Pegasi can carry up to 30 stone (300lb) and move at full movement, and they can carry a maximum of 60 stone (600lb) and have movement halved.
 
 
 ### Phase Tiger
 
-% In Lair:	25%
+% In Lair:      25%
 
-Dungeon Enc:	Clowder(1d4) / Den (1d4)
+Dungeon Enc:    Clowder(1d4) / Den (1d4)
 
-Wilderness Enc:	Clowder (1d4) / Den (1d4)
+Wilderness Enc: Clowder (1d4) / Den (1d4)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	150' (50')
+Movement:       150' (50')
 
-Armor Class:	5
+Armor Class:    5
 
-Hit Dice:		6
+Hit Dice:               6
 
-Attacks:		2 (tentacles)
+Attacks:                2 (tentacles)
 
-Damage:	2d4/2d4
+Damage: 2d4/2d4
 
-Save:		F6
+Save:           F6
 
-Morale:		0
+Morale:         0
 
-Treasure Type:	K
+Treasure Type:  K
 
-XP:		320
+XP:             320
 
 The phase tiger is an intelligent monster that resembles a six-legged tiger with a long, scaly reptilian spiked whip on each shoulder. The whips have sharp barbs, which inflict 2d4 points of damage each. Phase tigers are named for their ability to project an illusion of themselves 3' from where they actually stand. Because of this magical ability, all opponents of a phase tiger receive a penalty of -2 to attack throws, and phase tigers have a bonus of +2 on saving throws. Blink dogs are the hated enemies of phase tigers, and phase tigers will seek to kill any blink dogs encountered.
 
 
 ### Pterodactyl
 
-		Pterodactyl	Pteranodon
+                Pterodactyl     Pteranodon
 
-% In Lair:	None		None
+% In Lair:      None            None
 
-Dungeon Enc:	None		None
+Dungeon Enc:    None            None
 
-Wilderness Enc:	Flight (2d4)	Flight (1d4)
+Wilderness Enc: Flight (2d4)    Flight (1d4)
 
-Alignment:	Neutral		Neutral
+Alignment:      Neutral         Neutral
 
-Movement:	
+Movement:       
 
-	Fly:	180' (60')	240' (120')
+        Fly:    180' (60')      240' (120')
 
-Armor Class:	2		3
+Armor Class:    2               3
 
-Hit Dice:	1		5
+Hit Dice:       1               5
 
-Attacks:	1 (bite)	1 (bite)
+Attacks:        1 (bite)        1 (bite)
 
-Damage:		1d3		1d12
+Damage:         1d3             1d12
 
-Save:		F1		F3
+Save:           F1              F3
 
-Morale:		-1		0
+Morale:         -1              0
 
-Treasure Type:	None		None
+Treasure Type:  None            None
 
-XP:		10		200
+XP:             10              200
 
 These prehistoric winged reptiles are usually found in warm or tropical environments.
 
@@ -3629,31 +3629,31 @@ Pteranodon: This winged reptile, a giant version of the pterodactyl, has wings t
 
 ### Purple Worm
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	Clew (1d2)
+Dungeon Enc:    Clew (1d2)
 
-Wilderness Enc:	Herd (1d4)
+Wilderness Enc: Herd (1d4)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	60' (20')
+Movement:       60' (20')
 
-Armor Class:	3
+Armor Class:    3
 
-Hit Dice:		15**
+Hit Dice:               15**
 
-Attacks:		2 (bite, sting)
+Attacks:                2 (bite, sting)
 
-Damage:	2d8/1d8, poison
+Damage: 2d8/1d8, poison
 
-Save:		F8
+Save:           F8
 
-Morale:		+2
+Morale:         +2
 
-Treasure Type:	P x2
+Treasure Type:  P x2
 
-XP:		4,200
+XP:             4,200
 
 These dreaded purple monstrosities grow to lengths of 100' or more. They burrow deep underground, only surfacing to consume unsuspecting prey. They attack by stinging with their poison tail, or biting with their gaping maw. When a purple worm is found below the earth, it is usually from inside one of its tunnels. In this case, the tunnel may only be as wide as the worm, preventing it from attacking with both attacks in the same round.
 
@@ -3662,33 +3662,33 @@ If a purple worm's sting attack hits, the victim must succeed in a saving throw 
 
 ### Remorhaz
 
-% In Lair:	25%
+% In Lair:      25%
 
-Dungeon Enc:	Solitary (1) / Nest (1d6)
+Dungeon Enc:    Solitary (1) / Nest (1d6)
 
-Wilderness Enc:	Herd (1d6) / Colony (3d6)
+Wilderness Enc: Herd (1d6) / Colony (3d6)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-      Burrow:	60' (20')
+      Burrow:   60' (20')
 
-Armor Class:	10
+Armor Class:    10
 
-Hit Dice:		10 - 15**
+Hit Dice:               10 - 15**
 
-Attacks:		1 
+Attacks:                1 
 
-Damage:	2d8
+Damage: 2d8
 
-Save:		F16
+Save:           F16
 
-Morale:		+4
+Morale:         +4
 
-Treasure Type:	P (10-12 HD); K, P (13 HD); M, P (14-15 HD) (per remorhaz)
+Treasure Type:  P (10-12 HD); K, P (13 HD); M, P (14-15 HD) (per remorhaz)
 
-XP:		2,250- 4,200
+XP:             2,250- 4,200
 
 A remorhaz is a horrific myriapod, 20 to 40' long or more, with multi-faceted eyes, vestigial wings and twelve pairs of segmented legs ending in tarsal claws. The creature's hide is a whitish-blue chitin, but when it attacks, it pulses with a reddish glow from the incinerating heat its body produces. Remorhaz hide under snow and ice until they hear movement above them, then attack from below and surprise prey.
 
@@ -3699,64 +3699,64 @@ Remorhaz are able to swallow whole creatures of up to man size on an unmodified 
 
 ### Rhagodessa, Giant
 
-% In Lair:	35%
+% In Lair:      35%
 
-Dungeon Enc:	Clutter (1d4) / Den (1d6)
+Dungeon Enc:    Clutter (1d4) / Den (1d6)
 
-Wilderness Enc:	Cluster (1d6) / Den (1d6)
+Wilderness Enc: Cluster (1d6) / Den (1d6)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	150' (50')
+Movement:       150' (50')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		4 + 2*
+Hit Dice:               4 + 2*
 
-Attacks:		1 (leg or bite)
+Attacks:                1 (leg or bite)
 
-Damage:	0 or 2d8
+Damage: 0 or 2d8
 
-Save:		F2
+Save:           F2
 
-Morale:		+1
+Morale:         +1
 
-Treasure Type:	I
+Treasure Type:  I
 
-XP:		215
+XP:             215
 
 The giant rhagodessa is a nocturnal carnivorous arachnid that closely resembles a spider, but has immense crushing mandibles. They have a chestnut colored thorax and are tan or mustard colored on their remaining bodies. These 6' long monsters have shorter legs than spiders, but are able to climb walls. The rhagodessa's front legs have suction pits that do not deal damage, but on a successful hit they can pull an opponent to the mandibles that deal 2d8 points of damage on the second round, with no extra attack throw needed.
 
 
 ### Rhinoceros
 
-			Ordinary			Woolly
+                        Ordinary                        Woolly
 
-% In Lair:		None				None
+% In Lair:              None                            None
 
-Dungeon Enc:		None				None
+Dungeon Enc:            None                            None
 
-Wilderness Enc:		Herd (1d12)			Herd (1d8)
+Wilderness Enc:         Herd (1d12)                     Herd (1d8)
 
-Alignment: 		Neutral				Neutral
+Alignment:              Neutral                         Neutral
 
-Movement:		120' (40')			120' (40')
+Movement:               120' (40')                      120' (40')
 
-Armor Class:		4    				5
+Armor Class:            4                               5
 
-Hit Dice:		6				8
+Hit Dice:               6                               8
 
-Attacks:		1 (gore or  trample)		1 (gore or  trample)
+Attacks:                1 (gore or  trample)            1 (gore or  trample)
 
-Damage:			2d4 or 2d8  			2d6 or 2d12
+Damage:                 2d4 or 2d8                      2d6 or 2d12
 
-Save:			F3     				F4
+Save:                   F3                              F4
 
-Morale:			-2				-2
+Morale:                 -2                              -2
 
-Treasure Type:		None				None
+Treasure Type:          None                            None
 
-XP:	 		320				600
+XP:                     320                             600
 
 The rhinoceros is infamous for its bad temper and willingness to charge intruders. When in close combat, they may attack with their gore or trample. A rhinoceros has a +4 to its attack throw when attempting to trample an opponent that is man-sized or smaller. When distance permits, rhinos may charge with their gore attack to deal double damage. A herd of these beasts will stampede if threatened, in any direction to be determined randomly.
 
@@ -3765,35 +3765,35 @@ Woolly Rhinoceros: The woolly rhino is a prehistoric rhino that is larger and co
 
 ### Roc
 
-			Small				Large				Giant
+                        Small                           Large                           Giant
 
-% In Lair:		10%				10%			 	10%
+% In Lair:              10%                             10%                             10%
 
-Dungeon Enc:		None				None			 	None
+Dungeon Enc:            None                            None                            None
 
-Wilderness Enc:		Flight (1d12) / Aerie (1d12)	Flight (1d8) / Aerie (1d8)	Solitary (1) / Aerie (1d2)
+Wilderness Enc:         Flight (1d12) / Aerie (1d12)    Flight (1d8) / Aerie (1d8)      Solitary (1) / Aerie (1d2)
 
-Alignment: 		Lawful 	      	      		Lawful 	       	     		Lawful
+Alignment:              Lawful                          Lawful                          Lawful
 
-Movement:		60' (20')			60' (20')			60' (20')
+Movement:               60' (20')                       60' (20')                       60' (20')
 
-              Fly:	480' (160')			480' (160')			480' (160')
+              Fly:      480' (160')                     480' (160')                     480' (160')
 
-Armor Class:  		5    				7    				9
+Armor Class:            5                               7                               9
 
-Hit Dice:		6*				12*				36*
+Hit Dice:               6*                              12*                             36*
 
-Attacks:		3 (2 talons, bite)		3 (2 talons, bite)		3 (2 talons, bite)
+Attacks:                3 (2 talons, bite)              3 (2 talons, bite)              3 (2 talons, bite)
 
-Damage:			1d4+1/1d4+1/2d6			1d8/1d8/2d10 			3d6/3d6/8d6
+Damage:                 1d4+1/1d4+1/2d6                 1d8/1d8/2d10                    3d6/3d6/8d6
 
-Save:			F3				F6				F9
+Save:                   F3                              F6                              F9
 
-Morale:			0				+1				+2
+Morale:                 0                               +1                              +2
 
-Treasure Type:		I, M				K, P				M, P
+Treasure Type:          I, M                            K, P                            M, P
 
-XP:	 		570				2,100				12,500
+XP:                     570                             2,100                           12,500
 
 Rocs are powerful creatures living in high elevations and warm environments. They look somewhat like huge eagles. Immense appetites accompany their great size, as rocs will frequently consume large mammals including horses and cattle. 
 
@@ -3806,95 +3806,95 @@ Normal rocs can carry up to 15 stone (150lb) and move at full movement, or can c
 
 ### Rot Grub
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	Brood (5d4)
+Dungeon Enc:    Brood (5d4)
 
-Wilderness Enc:	Brood (5d4)
+Wilderness Enc: Brood (5d4)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	10' (2')
+Movement:       10' (2')
 
-Armor Class:	0
+Armor Class:    0
 
-Hit Dice:		1 hit point
+Hit Dice:               1 hit point
 
-Attacks:		See below
+Attacks:                See below
 
-Damage:	See below
+Damage: See below
 
-Save:		0 level human
+Save:           0 level human
 
-Morale:		N/A
+Morale:         N/A
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		5
+XP:             5
 
 Although rot grubs can be found in animal waste and other foul refuse, they prefer to consume tissue that is still alive. Upon contact with a living being, rot grubs will begin to vigorously burrow deep into the body. Fire must be applied to the site of contact at once in order to prevent the rot grubs from burrowing further. Burning a grub inflicts 1d6 points of damage to the character. If not stopped immediately, within 1d3 turns the rot grubs will find the heart and kill their victim. The spell cure disease will destroy the rot grubs in a victim's body.
 
 
 ### Rust Monster
 
-% In Lair:	10%
+% In Lair:      10%
 
-Dungeon Enc:	Pack (1d4) / Den (1d4)
+Dungeon Enc:    Pack (1d4) / Den (1d4)
 
-Wilderness Enc: 	Pack (1d4) / Den (1d4)
+Wilderness Enc:         Pack (1d4) / Den (1d4)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	7
+Armor Class:    7
 
-Hit Dice:		5
+Hit Dice:               5
 
-Attacks:		1
+Attacks:                1
 
-Damage:	See below
+Damage: See below
 
-Save:		F3
+Save:           F3
 
-Morale:		-1
+Morale:         -1
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		200
+XP:             200
 
 The body of this monster resembles a giant armadillo with a long scaly tail. The hide of these creatures varies in color from a yellowish tan underside to a rust-red upper back. A rust monster's prehensile antennae can rust metals on contact, as can their hide when struck with metal weapons.  All ordinary metal armor and weapons either struck by antennae or contacting a rust monster's hide (when it is attacked with a sword, for instance) instantly becomes utterly and permanently useless from severe rusting. Due to this effect, ordinary metal weapons do not harm rust monsters. Magic items will first lose their magical bonuses, 1 at a time, until they are ordinary items of their type. Any subsequent contact will then rust the item. Each "plus" grants the item a 10% probability of surviving contact unscathed. For instance, if a character strikes a rust monster with a dagger +2, it has an 80% chance of becoming a dagger +1. If it does, any subsequent hit has a 90% chance of making the dagger an ordinary dagger. If it becomes an ordinary dagger, a hit after that renders the dagger useless. A rust monster feeds upon the rust it creates in this manner.
 
 
 ### Salamander
 
-			Flame				Frost
+                        Flame                           Frost
 
-% In Lair:		25%				25%
+% In Lair:              25%                             25%
 
-Dungeon Enc:		Band (1d4+1) / Nest (2d4)	Band (1d3) / Nest (1d3)
+Dungeon Enc:            Band (1d4+1) / Nest (2d4)       Band (1d3) / Nest (1d3)
 
-Wilderness Enc:		Swarm (2d4) / Nest (2d4)	Band (1d3) / Nest (1d3)
+Wilderness Enc:         Swarm (2d4) / Nest (2d4)        Band (1d3) / Nest (1d3)
 
-Alignment: 		Neutral	      	   		Chaotic
+Alignment:              Neutral                         Chaotic
 
-Movement:		120' (40')			120' (40')
+Movement:               120' (40')                      120' (40')
 
-Armor Class:		7    				6
+Armor Class:            7                               6
 
-Hit Dice:		8*				12*
+Hit Dice:               8*                              12*
 
-Attacks:		3 (2 claws, bite)		5 (4 claws, bite)
+Attacks:                3 (2 claws, bite)               5 (4 claws, bite)
 
-Damage:			1d4/1d4/1d8 			1d6 (each claw)/2d6
+Damage:                 1d4/1d4/1d8                     1d6 (each claw)/2d6
 
-Save:			F8				F12
+Save:                   F8                              F12
 
-Morale:			0				0
+Morale:                 0                               0
 
-Treasure Type:		Q				Q
+Treasure Type:          Q                               Q
 
-XP:	 		1,100				2,100
+XP:                     1,100                           2,100
 
 Flame Salamander: The flame salamander is a kind of intelligent fire elemental. It has a lizard-like appearance, with red scales and four limbs. It reaches a length of 12' to 16'. Scorching heat emanates from the flame salamander, and all creatures within 20' who are susceptible to fire damage receive 1d8 points of damage per round. Flame salamanders are unharmed by all fire-based damage and non-magical weapons. They are unaffected by sleep or charm spells. These creatures often live in the molten lava of volcanoes, or otherwise in very hot and arid regions.
 
@@ -3905,130 +3905,130 @@ These two forms of salamander are natural enemies. They despise one another and 
 
 ### Scorpion, Giant
 
-% In Lair:	50%
+% In Lair:      50%
 
-Dungeon Enc:	Scourge (1d6) / Nest (1d6)
+Dungeon Enc:    Scourge (1d6) / Nest (1d6)
 
-Wilderness Enc:	Scourge (1d6) / Nest (1d6)
+Wilderness Enc: Scourge (1d6) / Nest (1d6)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	150' (50')
+Movement:       150' (50')
 
-Armor Class:	7
+Armor Class:    7
 
-Hit Dice:		4*
+Hit Dice:               4*
 
-Attacks:		3 (2 claws, sting)
+Attacks:                3 (2 claws, sting)
 
-Damage:	1d10/1d10/1d4, poison
+Damage: 1d10/1d10/1d4, poison
 
-Save:		F2
+Save:           F2
 
-Morale:		+3
+Morale:         +3
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		135
+XP:             135
 
 These aggressive giant cousins to scorpions are about 6' long. Any time that a claw successfully strikes, the sting attack receives a bonus of +2 to attack. If stung, a victim needs to succeed at a saving throw versus Poison or die. Giant scorpions can be found in dungeons, rock shelters, ruins, and hot environments.
 
 
 ### Sea Serpent
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	None
+Dungeon Enc:    None
 
-Wilderness Enc:	Swarm (2d6)
+Wilderness Enc: Swarm (2d6)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	
+Movement:       
 
-	Swim:	150' (50')
+        Swim:   150' (50')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		6
+Hit Dice:               6
 
-Attacks:		1 (bite or constrict)
+Attacks:                1 (bite or constrict)
 
-Damage:	2d6 or see below
+Damage: 2d6 or see below
 
-Save:		F3
+Save:           F3
 
-Morale:		0
+Morale:         0
 
-Treasure Type:	M, I
+Treasure Type:  M, I
 
-XP:		320
+XP:             320
 
 Much dreaded by sailors, sea serpents are immense, 30' long snake-like beasts that will attack ships as large as themselves. A serpent can wrap its serpentine body around ships to constrict for 1d10 structural points of damage each round. When attacking creatures or characters, it attacks with a bite that deals 2d6 points of damage. Although sea serpents have no lairs, their propensity for eating the cargo of sunken ships means they may have treasure inside their bellies. 
 
 
 ### Shadow
 
-% In Lair:	40%
+% In Lair:      40%
 
-Dungeon Enc:	Throng (1d8) / Haunt (1d12)
+Dungeon Enc:    Throng (1d8) / Haunt (1d12)
 
-Wilderness Enc:	Horde (1d12) / Haunt (1d12)
+Wilderness Enc: Horde (1d12) / Haunt (1d12)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-Armor Class:	2
+Armor Class:    2
 
-Hit Dice:		2 + 2**
+Hit Dice:               2 + 2**
 
-Attacks:		1
+Attacks:                1
 
-Damage:	1d4, special
+Damage: 1d4, special
 
-Save:		F2
+Save:           F2
 
-Morale:		+4
+Morale:         +4
 
-Treasure Type:	B
+Treasure Type:  B
 
-XP:		59
+XP:             59
 
 Although shadows seem to resemble ghosts, since they have no corporeal body and resemble shadows, they are not truly undead creatures. As a consequence, shadows are not susceptible to the cleric ability to turn undead. However, like undead, shadows are immune to poison and unaffected by charm, hold, or sleep spells. Shadows may only be struck with magical weapons. Shadows are very silent and difficult to observe, so characters encountering shadows suffer a -3 penalty to surprise rolls. When a shadow successfully attacks an opponent, the victim suffers 1d4 points of damage, and 1 point of STR is drained for 8 turns. Should a being be drained to STR 2, it collapses and becomes unable to move. At 0, it permanently transforms into a shadow.
 
 
 ### Shark
 
-			Bull				 Mako				Great White
+                        Bull                             Mako                           Great White
 
-% In Lair:		None				 None				None
+% In Lair:              None                             None                           None
 
-Dungeon Enc:		None				 None				None
+Dungeon Enc:            None                             None                           None
 
-Wilderness Enc:		Shiver (3d6)			 Shiver (2d6)			Shiver (1d4)
+Wilderness Enc:         Shiver (3d6)                     Shiver (2d6)                   Shiver (1d4)
 
-Alignment: 		Neutral 			 Neutral			Neutral
+Alignment:              Neutral                          Neutral                        Neutral
 
-Movement:						 				
+Movement:                                                                               
 
-          Swim:		180' (60')			 180' (60')			180' (60')
+          Swim:         180' (60')                       180' (60')                     180' (60')
 
-Armor Class:		5    				 5    				5
+Armor Class:            5                                5                              5
 
-Hit Dice:		2*				 4*				8*
+Hit Dice:               2*                               4*                             8*
 
-Attacks:		1 (bite)  			 1 (bite)			1 (bite)
+Attacks:                1 (bite)                         1 (bite)                       1 (bite)
 
-Damage:			2d4				 2d6				2d10
+Damage:                 2d4                              2d6                            2d10
 
-Save:			F1				 F2				F4
+Save:                   F1                               F2                             F4
 
-Morale:			-1				 -1				-1
+Morale:                 -1                               -1                             -1
 
-Treasure Type:		None				 None				None
+Treasure Type:          None                             None                           None
 
-XP:	 		29				 135				1,100
+XP:                     29                               135                            1,100
 
 Sharks are some of the most efficient hunters of the sea. Although they are not very intelligent, they are cunning. As soon as sharks sense blood in the water (to a range of 300') they become furious feeders and will fight to the death with no check for morale.
 
@@ -4041,157 +4041,157 @@ Great White Shark: This immense shark can reach lengths exceeding 30'. They are 
 
 ### Shrieker
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	Troop (1d8)
+Dungeon Enc:    Troop (1d8)
 
-Wilderness Enc:	None
+Wilderness Enc: None
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	9' (3')
+Movement:       9' (3')
 
-Armor Class:	2
+Armor Class:    2
 
-Hit Dice:		3
+Hit Dice:               3
 
-Attacks:		See below
+Attacks:                See below
 
-Damage:	See below
+Damage: See below
 
-Save:		F1
+Save:           F1
 
-Morale:		N/A
+Morale:         N/A
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		50
+XP:             50
 
 A shrieker is a stationary fungus resembling a large, purple mushroom that grows in dark, subterranean places. Shriekers are named for their notorious propensity for making a loud noise when disturbed. A shrieker will emit its scream whenever it senses movement within 30', or whenever light comes within 60'. The scream persists for 1d3 rounds. For every round a shrieker is screaming, there is a 50% probability that it catches the attention of a nearby wandering monster. Wandering monsters attracted by a shrieker will arrive on the scene within 2d6 rounds. 
 
 
 ### Skeleton
 
-% In Lair:	35%
+% In Lair:      35%
 
-Dungeon Enc:	Throng (3d4) / Boneyard (3d10)
+Dungeon Enc:    Throng (3d4) / Boneyard (3d10)
 
-Wilderness Enc:	Horde (3d10) / Boneyard (3d10)
+Wilderness Enc: Horde (3d10) / Boneyard (3d10)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	2
+Armor Class:    2
 
-Hit Dice:		1*
+Hit Dice:               1*
 
-Attacks:		1
+Attacks:                1
 
-Damage:	1d6 or weapon
+Damage: 1d6 or weapon
 
-Save:		F1
+Save:           F1
 
-Morale:		N/A
+Morale:         N/A
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		13
+XP:             13
 
 Skeletons are the animated bones of the dead. A skeleton is seldom garbed in anything more than the rotting remnants of any clothing or armor it was wearing when slain. Mindless automatons, they obey the orders of their evil masters. A skeleton does only what it is ordered to do. It can draw no conclusions of its own and takes no initiative. Because of this limitation, its instructions must always be simple. A skeleton attacks until destroyed. Skeletons are undead, and a cleric may turn them. Like other undead, skeletons are unaffected by charm or sleep spells. 
 
 
 ### Skittering Maw
 
-% In Lair:	10%
+% In Lair:      10%
 
-Dungeon Enc:	Solitary (1) / Den (1d4)
+Dungeon Enc:    Solitary (1) / Den (1d4)
 
-Wilderness Enc:	Shiver (1d4) / Den (1d4)
+Wilderness Enc: Shiver (1d4) / Den (1d4)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	60' (20')
+Movement:       60' (20')
 
-	Swim:	180' (60')
+        Swim:   180' (60')
 
-Armor Class:	5
+Armor Class:    5
 
-Hit Dice:		8**
+Hit Dice:               8**
 
-Attacks:		1 (bite)
+Attacks:                1 (bite)
 
-Damage:	2d10, poison
+Damage: 2d10, poison
 
-Save:		F4
+Save:           F4
 
-Morale:		+4
+Morale:         +4
 
-Treasure Type:	M
+Treasure Type:  M
 
-XP:		1,600
+XP:             1,600
 
 A hideous creation of the malignant mage Vermeren, the skittering maw has the body of a giant centipede and the head of a great white shark. Reaching lengths of over 30', the skittering maw prefers dark, wet locations and stagnant waters. Due to their great size, skittering maws are even more poisonous than their centipede progenitors. Anyone bitten by a skittering maw must make a saving throw versus Poison or die in 1 turn. Skittering maws always fight to the death.
 
 
 ### Snake
 
-			Spitting Cobra				Pit Viper				Sea Snake
+                        Spitting Cobra                          Pit Viper                               Sea Snake
 
-% In Lair:		None	 				None					None
+% In Lair:              None                                    None                                    None
 
-Dungeon Enc:		Quiver (1d6)				Nest (1d8)				Den (1d8)
+Dungeon Enc:            Quiver (1d6)                            Nest (1d8)                              Den (1d8)
 
-Wilderness Enc:		Quiver (1d6)				Nest (1d6)				Den (1d8)
+Wilderness Enc:         Quiver (1d6)                            Nest (1d6)                              Den (1d8)
 
-Alignment: 		Neutral					Neutral					Neutral
+Alignment:              Neutral                                 Neutral                                 Neutral
 
-Movement:		90' (30')      				90' (30')          			90' (30')          
+Movement:               90' (30')                               90' (30')                               90' (30')          
 
-Armor Class:		2   					3   					3
+Armor Class:            2                                       3                                       3
 
-Hit Dice:		1*					2**					3*
+Hit Dice:               1*                                      2**                                     3*
 
-Attacks:		1 (bite or spit)			1 (bite)				1 (bite)
+Attacks:                1 (bite or spit)                        1 (bite)                                1 (bite)
 
-Damage:			1d3, poison				1d4, poison				1, poison
+Damage:                 1d3, poison                             1d4, poison                             1, poison
 
-Save:			F1   					F1   					F2
+Save:                   F1                                      F1                                      F2
 
-Morale:			-1					-1					-1
+Morale:                 -1                                      -1                                      -1
 
-Treasure Type:		None					None					None
+Treasure Type:          None                                    None                                    None
 
-XP:	 		13					38					65
+XP:                     13                                      38                                      65
 
 
-### 			Giant Python				Giant Rattler
+###                     Giant Python                            Giant Rattler
 
-% In Lair:		None  					None
+% In Lair:              None                                    None
 
-Dungeon Enc:		Den (1d3)				Den (1d4)
+Dungeon Enc:            Den (1d3)                               Den (1d4)
 
-Wilderness Enc:		Den (1d3)				Den (1d4)
+Wilderness Enc:         Den (1d3)                               Den (1d4)
 
-Alignment:		Neutral					Neutral
+Alignment:              Neutral                                 Neutral
 
-Movement:		90' (30')				120' (40')
+Movement:               90' (30')                               120' (40')
 
-Armor Class:		3					4
+Armor Class:            3                                       4
 
-Hit Dice:		5*					4*
+Hit Dice:               5*                                      4*
 
-Attacks:		2 (bite, constrict)			2 (bite)
+Attacks:                2 (bite, constrict)                     2 (bite)
 
-Damage:			1d4/2d8					1d4, poison
+Damage:                 1d4/2d8                                 1d4, poison
 
-Save:			F3					F2
+Save:                   F3                                      F2
 
-Morale:			-1					-1
+Morale:                 -1                                      -1
 
-Treasure Type:		None					None
+Treasure Type:          None                                    None
 
-XP:			350					135
+XP:                     350                                     135
 
 Snakes are legless reptiles, and often have venomous bites. Snakes usually are not aggressive and flee when confronted. They live in many different climates, but especially avoid severely cold environments.
 
@@ -4208,68 +4208,68 @@ Giant Rattlesnake: These snakes are extremely quick, and bite twice per round. O
 
 ### Spectre
 
-% In Lair:	20%
+% In Lair:      20%
 
-Dungeon Enc:	Throng (1d4), Haunt (1d8)
+Dungeon Enc:    Throng (1d4), Haunt (1d8)
 
-Wilderness Enc:	Horde (1d8) / Haunt (1d8)
+Wilderness Enc: Horde (1d8) / Haunt (1d8)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	150' (50')
+Movement:       150' (50')
 
-	Fly:	300' (100')
+        Fly:    300' (100')
 
-Armor Class:	7
+Armor Class:    7
 
-Hit Dice:		6**
+Hit Dice:               6**
 
-Attacks:		1 (touch)
+Attacks:                1 (touch)
 
-Damage:	1d8, drain level
+Damage: 1d8, drain level
 
-Save:		F6
+Save:           F6
 
-Morale:		+3
+Morale:         +3
 
-Treasure Type:	N
+Treasure Type:  N
 
-XP:		820
+XP:             820
 
 A spectre is an incorporeal undead creature of great power. Roughly human sized, and weightless, a spectre looks much as it did in life and can be easily recognized by those who knew the individual or have seen the individual's face in a painting or a drawing. In many cases, the evidence of a violent death is visible on its body. These powerful undead are unharmed by ordinary weapons, including weapons made of silver. Like all undead, they are immune to poison and charm, hold, and sleep spells. What makes the spectre so dreadful is its enervative touch. Whenever a spectre strikes a victim, it deals 1d8 points of damage and energy drains two levels of experience. Should a character be slain by a spectre, he will become a spectre 24 hours after his death. The new spectre will be under the command of the spectre that killed him.
 
 
 ### Spider, Giant
 
-			Black Widow				Crab Spider				Tarantula
+                        Black Widow                             Crab Spider                             Tarantula
 
-% In Lair:		90%   					70%  					50%
+% In Lair:              90%                                     70%                                     50%
 
-Dungeon Enc:		Clutter (1d3) / Den (1d3)    		Clutter (1d4) / Den (1d4)		Clutter (1d3) / Den (1d3)
+Dungeon Enc:            Clutter (1d3) / Den (1d3)               Clutter (1d4) / Den (1d4)               Clutter (1d3) / Den (1d3)
 
-Wilderness Enc:		Clutter (1d3) / Den (1d3)    		Clutter (1d4) / Den (1d4)		Clutter (1d3) / Den (1d3)
+Wilderness Enc:         Clutter (1d3) / Den (1d3)               Clutter (1d4) / Den (1d4)               Clutter (1d3) / Den (1d3)
 
-Alignment: 		Neutral       	    			Neutral	      	    			Neutral
+Alignment:              Neutral                                 Neutral                                 Neutral
 
-Movement:		60' (20') 				120' (40')				120' (40')
+Movement:               60' (20')                               120' (40')                              120' (40')
 
-Web:			120' (40') 				None 					None
+Web:                    120' (40')                              None                                    None
 
-Armor Class:		3      					2					4
+Armor Class:            3                                       2                                       4
 
-Hit Dice:		3**					2**					4**
+Hit Dice:               3**                                     2**                                     4**
 
-Attacks:		1 (bite)				1 (bite)				1 (bite or barbs)
+Attacks:                1 (bite)                                1 (bite)                                1 (bite or barbs)
 
-Damage:			2d6, poison				1d8, poison				1d8, poison or see below
+Damage:                 2d6, poison                             1d8, poison                             1d8, poison or see below
 
-Save:			F2   					F1   					F2
+Save:                   F2                                      F1                                      F2
 
-Morale:			0					-1					0
+Morale:                 0                                       -1                                      0
 
-Treasure Type:		C					C					F
+Treasure Type:          C                                       C                                       F
 
-XP:	 		80					38					190
+XP:                     80                                      38                                      190
 
 Giant Black Widow: The giant black widow is 6' long, of a shiny black color, with a red design resembling an hourglass on its ventral abdomen.  Giant black widows are very aggressive, and prefer to trap prey in their sticky web. The web has the same properties as that of the web produced by the spell of the same name. Any opponent bitten by the giant black widow must make a saving throw versus Poison; failure indicates death after 1 turn.
 
@@ -4280,33 +4280,33 @@ Giant Tarantula: The giant tarantula is 8' long, with oily barbed hair all over 
 
 ### Squid, Giant
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	None
+Dungeon Enc:    None
 
-Wilderness Enc:	Pod (1d4)
+Wilderness Enc: Pod (1d4)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	
+Movement:       
 
-	Swim:	120' (40')
+        Swim:   120' (40')
 
-Armor Class:	2
+Armor Class:    2
 
-Hit Dice:		6*
+Hit Dice:               6*
 
-Attacks:		9 (8 tentacles, bite)
+Attacks:                9 (8 tentacles, bite)
 
-Damage:	1d4 (all tentacles)/1d10
+Damage: 1d4 (all tentacles)/1d10
 
-Save:		F3
+Save:           F3
 
-Morale:		-1 
+Morale:         -1 
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		570
+XP:             570
 
 These voracious free-swimming mollusks are fairly aggressive creatures, and attack almost anything they meet. Giant squids have bodies more than 20' long, with two large tentacles and eight small tentacles. The large tentacles are used to wrap around entire ships, dealing 1d10 structural hit points of constriction damage. When constricting a ship, the squid will also attack with its great beak for an extra 2 points of structural hit point damage for each round. 
 
@@ -4315,33 +4315,33 @@ The squid's smaller tentacles are used to grab smaller creatures on ships or nea
 
 ### Statue, Animated
 
-			Crystal				Stone				 Iron
+                        Crystal                         Stone                            Iron
 
-% In Lair:		None				None				 None
+% In Lair:              None                            None                             None
 
-Dungeon Enc:		Parade (1d6)			Parade (1d3)			 Parade (1d4)
+Dungeon Enc:            Parade (1d6)                    Parade (1d3)                     Parade (1d4)
 
-Wilderness Enc:		Parade (1d6)			Parade (1d3)			 Parade (1d4)
+Wilderness Enc:         Parade (1d6)                    Parade (1d3)                     Parade (1d4)
 
-Alignment: 		Lawful 				Chaotic				 Neutral
+Alignment:              Lawful                          Chaotic                          Neutral
 
-Movement:		90' (30')			60' (20')			 30' (10')
+Movement:               90' (30')                       60' (20')                        30' (10')
 
-Armor Class:		5   				5         			 5
+Armor Class:            5                               5                                5
 
-Hit Dice:		3*				5*				 4**
+Hit Dice:               3*                              5*                               4**
 
-Attacks:		2 (fists)			2 (fists)			 2 (fists)
+Attacks:                2 (fists)                       2 (fists)                        2 (fists)
 
-Damage:			1d6/1d6				2d6/2d6         		 1d8/1d8
+Damage:                 1d6/1d6                         2d6/2d6                          1d8/1d8
 
-Save:			F3				F5				 F4
+Save:                   F3                              F5                               F4
 
-Morale:			N/A				N/A				 N/A
+Morale:                 N/A                             N/A                              N/A
 
-Treasure Type:		None				None				 None
+Treasure Type:          None                            None                             None
 
-XP:	 		65				350				 190
+XP:                     65                              350                              190
 
 Animated statues are statues of ordinarily inorganic, inanimate material given life by powerful mages to guard their sanctums or perform other duties. Animated statues may be created in any form and size, but are most commonly humanoid.  Unless they engage in some form of movement, animated statues will appear to be normal statues even upon close inspection. The Judge may create animate statues composed of additional materials, using the above three examples as guidelines. Animated statues of any material are immune to the effects of poison, charm, sleep, and hold spells.
 
@@ -4354,101 +4354,101 @@ Iron: When ordinary, metal, non-magical weapons strike an animate iron statue th
 
 ### Stegosaurus
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	None
+Dungeon Enc:    None
 
-Wilderness Enc:	Herd (1d4)
+Wilderness Enc: Herd (1d4)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	60' (20')
+Movement:       60' (20')
 
-Armor Class:	6
+Armor Class:    6
 
-Hit Dice:		11
+Hit Dice:               11
 
-Attacks:		1 (tail or trample)
+Attacks:                1 (tail or trample)
 
-Damage:	2d8 or 2d6
+Damage: 2d8 or 2d6
 
-Save:		F6
+Save:           F6
 
-Morale:		-1
+Morale:         -1
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		1,000
+XP:             1,000
 
 These prehistoric herbivore reptiles are 30' long and 14' high at the shoulder, with a strip of hard plates that runs along their spine. Their club-like tails have four large spikes on their ends, making them powerful weapons. This creature will most often be encountered in warm, tropical, or sub-tropical environments. While not carnivorous, they are easily provoked. When in close combat, they may attack with their tail or attempt to trample. Stegosauruses have a +4 to their attack throw when attempting to trample an opponent that is man-sized or smaller.
 
 
 ### Stirge
 
-% In Lair:	40%
+% In Lair:      40%
 
-Dungeon Enc:	Flock (1d10) / Nest (3d12)
+Dungeon Enc:    Flock (1d10) / Nest (3d12)
 
-Wilderness Enc:	Storm (3d12) / Nest (3d12) 
+Wilderness Enc: Storm (3d12) / Nest (3d12) 
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	30' (10')
+Movement:       30' (10')
 
-	Fly:	180' (60')
+        Fly:    180' (60')
 
-Armor Class:	2
+Armor Class:    2
 
-Hit Dice:		1*
+Hit Dice:               1*
 
-Attacks:		1 (proboscis) 
+Attacks:                1 (proboscis) 
 
-Damage:	1d3
+Damage: 1d3
 
-Save:		F2
+Save:           F2
 
-Morale:		+1
+Morale:         +1
 
-Treasure Type:	F
+Treasure Type:  F
 
-XP:		13
+XP:             13
 
 The stirge most closely resembles an anteater with feathers. A stirge's body is about 1 foot long, with a wingspan of about 2', and a weight of 1 pound. Its coloration ranges from rust-red to reddish-brown, with a dirty yellow underside. Its long proboscis is pink at the tip, fading to gray at its base. A stirge uses this long proboscis to penetrate a victim, latch on, and drain its blood. When a stirge attacks an opponent for the first time, its quick speed grants it a bonus of +2 to attack throws. A successful attack means the stirge has latched onto its opponent. It deals 1d3 points of damage from blood sucking immediately, and sucks 1d3 points of damage worth of blood every subsequent round. A stirge will remain attached to a victim until the victim dies, or until the stirge is killed.
 
 
 ### Swarm
 
-			Bat				Insect				Rat
+                        Bat                             Insect                          Rat
 
-% In Lair:		50%				25%				10%
+% In Lair:              50%                             25%                             10%
 
-Dungeon Enc:		Swarm (1) / Roost  (1d3) 	Swarm (1) / Nest (1d3)		Swarm (1d4) / Den (2d4)
+Dungeon Enc:            Swarm (1) / Roost  (1d3)        Swarm (1) / Nest (1d3)          Swarm (1d4) / Den (2d4)
 
-Wilderness Enc:		Cloud (1d3) / Roost (1d3)	Plague (1d3) / Nest (1d3)	Horde (2d4) / Den (2d4)
+Wilderness Enc:         Cloud (1d3) / Roost (1d3)       Plague (1d3) / Nest (1d3)       Horde (2d4) / Den (2d4)
 
-Alignment: 		Neutral	      	    		Neutral	       	    		Neutral
+Alignment:              Neutral                         Neutral                         Neutral
 
-Movement:		9' (3')				30' (10')  			60' (20')
+Movement:               9' (3')                         30' (10')                       60' (20')
 
-          Fly:		120' (40')			60' (20')			-
+          Fly:          120' (40')                      60' (20')                       -
 
-          Swim:		-    				-   				30' (10')
+          Swim:         -                               -                               30' (10')
 
-Armor Class:		2				2				0
+Armor Class:            2                               2                               0
 
-Hit Dice:		2 to 4*				2 to 4*				2 to 4*
+Hit Dice:               2 to 4*                         2 to 4*                         2 to 4*
 
-Attacks:		1    				1    				1
+Attacks:                1                               1                               1
 
-Damage:			Confusion			2 points			1d6, disease
+Damage:                 Confusion                       2 points                        1d6, disease
 
-Save:			0 level human			0 level human			0 level human
+Save:                   0 level human                   0 level human                   0 level human
 
-Morale:			-2 or 0				+3				-3
+Morale:                 -2 or 0                         +3                              -3
 
-Treasure Type:		None  				None				None
+Treasure Type:          None                            None                            None
 
-XP:	 		29/65/135			29/65/135			29/65/135
+XP:                     29/65/135                       29/65/135                       29/65/135
 
 Swarms are a special type of monster that represents a mass of tiny creatures acting as one. A swarm may be roused if its nest is invaded, or if it is presented with strange smells or bright lights. A swarm normally occupies a 10' x 30' area, but may be expand or shrink as conditions merit. 
 
@@ -4465,186 +4465,186 @@ Rat Swarm: A rat swarm consists of hundreds of ordinary rats. Any character with
 
 ### Throghrin
 
-% In Lair:	35%
+% In Lair:      35%
 
-Dungeon Enc:	Gang (1d6) / Lair (1d10)
+Dungeon Enc:    Gang (1d6) / Lair (1d10)
 
-Wilderness Enc:	Pack (1d10) / Lair (1d10)
+Wilderness Enc: Pack (1d10) / Lair (1d10)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	3
+Armor Class:    3
 
-Hit Dice:		3**
+Hit Dice:               3**
 
-Attacks:		2 or 1 (2 claws or weapon)
+Attacks:                2 or 1 (2 claws or weapon)
 
-Damage:	1d3/1d3 or weapon
+Damage: 1d3/1d3 or weapon
 
-Save:		F3
+Save:           F3
 
-Morale:		+2
+Morale:         +2
 
-Treasure Type:	G
+Treasure Type:  G
 
-XP:		80
+XP:             80
 
 A throghrin may appear to be a hobgoblin at first glance, but these monsters are a actually a wicked, unholy magical hybrid of troll, hobgoblin, and ghoul. They have an affinity for the company of hobgoblins, and are occasionally employed as bodyguards to a hobgoblin king. Throghrin have the same paralyzing touch as a ghoul, and can regenerate as a troll for 1 hp per round. Hit points are gained at the start of each combat round. Despite their ghoulish bloodline, throghrin are not undead.
 
 
 ### Titanothere
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	None
+Dungeon Enc:    None
 
-Wilderness Enc:	Herd (1d6)
+Wilderness Enc: Herd (1d6)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		12
+Hit Dice:               12
 
-Attacks:		1 (gore or trample)
+Attacks:                1 (gore or trample)
 
-Damage:	2d6 or 2d8
+Damage: 2d6 or 2d8
 
-Save:		F6
+Save:           F6
 
-Morale:		-1
+Morale:         -1
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		1,200
+XP:             1,200
 
 These creatures are prehistoric relatives of the rhinoceros. They have large, blunt-tipped horns rather than the sharp horns of rhinos, and can reach a height of 10' to 12'. Few creatures threaten these large beasts, and they are relatively peaceful herbivores. When in close combat, they may attack with their gore or trample. A titanothere has a +4 to its attack throw when attempting to trample an opponent that is man-sized or smaller. When distance permits, a titanothere may charge with its gore attack to deal double damage.
 
 
 ### Toad, Giant
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	Knot (1d4)
+Dungeon Enc:    Knot (1d4)
 
-Wilderness Enc:	Knot (1d4)
+Wilderness Enc: Knot (1d4)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-Armor Class:	2
+Armor Class:    2
 
-Hit Dice:		2 + 2*
+Hit Dice:               2 + 2*
 
-Attacks:		1 (bite)
+Attacks:                1 (bite)
 
-Damage:	1d4 + 1
+Damage: 1d4 + 1
 
-Save:		F1
+Save:           F1
 
-Morale:		-2
+Morale:         -2
 
-Treasure Type:	C
+Treasure Type:  C
 
-XP:		47
+XP:             47
 
 These immense toads can grow to be as large as a wolf and weigh up to 250lb. They have the ability to alter the color of their warty hides to match that of the dim dungeon corridors or dark forests they frequent, so characters encountering giant toads suffer a -1 penalty to surprise rolls. Giant toads have 15' long tongues, and on a successful hit they are able to yank any creature dwarf sized or smaller toward their mouths for a bite attack. Giant toads are able to swallow whole creatures of up to dwarf size on an unmodified attack throw of 20. A creature that is swallowed will suffer 1d6 points of damage per round until they die or until the toad is killed. If the swallowed creature has a sharp weapon, it may attack the toad from inside its belly with an attack penalty of -4. Should the swallowed creature die and remain in the toad's belly for 6 turns, it is irrecoverably digested. Because of their propensity to swallow creatures whole, any encounter with giant toads may yield treasure, whether wandering or in lair. The treasure (if any) is always found inside the creature's belly.
 
 
 ### Treant
 
-% In Lair:	10%
+% In Lair:      10%
 
-Dungeon Enc:	None
+Dungeon Enc:    None
 
-Wilderness Enc:	Shepherds (1d4) / Grove (1d8)
+Wilderness Enc: Shepherds (1d4) / Grove (1d8)
 
-Alignment:	Lawful
+Alignment:      Lawful
 
-Movement:	60' (20')
+Movement:       60' (20')
 
-Armor Class:	7
+Armor Class:    7
 
-Hit Dice:		8*
+Hit Dice:               8*
 
-Attacks:		2
+Attacks:                2
 
-Damage:	2d6/2d6
+Damage: 2d6/2d6
 
-Save:		F8
+Save:           F8
 
-Morale:		-2
+Morale:         -2
 
-Treasure Type:	P
+Treasure Type:  P
 
-XP:		1,100
+XP:             1,100
 
 A treant is a mobile, intelligent tree-like creature. A treant is about 18' tall. Its leaves are deep green in the spring and summer. In the fall and winter the leaves change to yellow, orange, or red, but they rarely fall out. A treant's legs fit together when closed to look like the trunk of a tree. A motionless treant cannot be distinguished from a normal tree at any distance of 30 yards or more. Because of treants' inconspicuous nature, characters encountering treants suffer a -1 penalty to surprise rolls. Treants are very long lived, and as such they take few actions with any haste. Even speaking with treants can take a long, long time. They fear fire, and will be cautious if it is nearby. Treants have the ability to control 2 normal trees with a range of 60'. These animated trees will engage in combat with the same characteristics of a treant, and have movement of 30' (10'). Treants may stop or start animating new trees on any given round.
 
 
 ### Triceratops
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	None
+Dungeon Enc:    None
 
-Wilderness Enc:	Herd (1d4)
+Wilderness Enc: Herd (1d4)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-Armor Class:	7
+Armor Class:    7
 
-Hit Dice:		11
+Hit Dice:               11
 
-Attacks:		1 (gore or trample)
+Attacks:                1 (gore or trample)
 
-Damage:	3d6
+Damage: 3d6
 
-Save:		F6
+Save:           F6
 
-Morale:		0
+Morale:         0
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		1,200
+XP:             1,200
 
 These large, 12' high and 40' long prehistoric dinosaurs live in grassy environments in sub-tropical and temperate regions. Though they are herbivores, they are very aggressive with those who come near. Triceratops have three very large horns and a big bony plate on their skulls. If a triceratops has enough distance between it and its foe, it will commit to a charge to score double damage with its gore attack. When in close combat, it may attempt to gore its opponent or attempt to trample.  A triceratops gains a +4 to its attack throw when attempting to trample an opponent that is smaller or approximately equal in the size of a human. When distance permits, a triceratops may charge with its gore attack to deal double damage.
 
 
 ### Troglodyte
 
-% In Lair:	15%
+% In Lair:      15%
 
-Dungeon Enc:	Gang (1d8) / Lair (1 warband)
+Dungeon Enc:    Gang (1d8) / Lair (1 warband)
 
-Wilderness Enc:	Warband (1d10 gangs) / Warren (1d10 warbands)
+Wilderness Enc: Warband (1d10 gangs) / Warren (1d10 warbands)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		2
+Hit Dice:               2
 
-Attacks:		3 or 1 (2 claws, bite or weapon)
+Attacks:                3 or 1 (2 claws, bite or weapon)
 
-Damage:	1d4/1d4/1d4 or by weapon
+Damage: 1d4/1d4/1d4 or by weapon
 
-Save:		F2
+Save:           F2
 
-Morale:		+1
+Morale:         +1
 
-Treasure Type:	J (per warband)
+Treasure Type:  J (per warband)
 
-XP:		20
+XP:             20
 
 These humanoid reptiles are green, scaly, and have a bony spine along the center of the top of their heads, backs, and backs of their arms. They may be a magical hybrid of lizardmen and chameleons. Whatever the case, troglodytes are malicious and warlike, and will attempt to slay any creatures that cross their paths. They have the ability to blend into their environment like a chameleon, so characters encountering troglodytes have a -2 penalty to surprise rolls. Their bodies are covered in small glands that produce a stinky, slimy coating on their scaly hide. All demi-humans and humans that come near a troglodyte are required to make a saving throw versus Poison, or suffer -2 to attack throws due to the disgusting, horrid stench. When using weapons, troglodytes favor stone axes or clubs, and great barbed darts (treat as javelins with +3 to attack throws). 
 
@@ -4655,31 +4655,31 @@ When troglodytes are encountered in their warren, certain additional creatures w
 
 ### Troll
 
-% In Lair:	40%
+% In Lair:      40%
 
-Dungeon Enc:	Gang (1d8) / Lair (1 gang) 
+Dungeon Enc:    Gang (1d8) / Lair (1 gang) 
 
-Wilderness Enc:	Gang (1d8) / Village (1d10 gangs)
+Wilderness Enc: Gang (1d8) / Village (1d10 gangs)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	5
+Armor Class:    5
 
-Hit Dice:		6 + 3*
+Hit Dice:               6 + 3*
 
-Attacks:		3 (2 claws, bite)
+Attacks:                3 (2 claws, bite)
 
-Damage:	1d6/1d6/1d10
+Damage: 1d6/1d6/1d10
 
-Save:		F6
+Save:           F6
 
-Morale:		+2 (0)
+Morale:         +2 (0)
 
-Treasure Type:	O (per gang)
+Treasure Type:  O (per gang)
 
-XP:		680
+XP:             680
 
 A troll's rubbery hide is moss green, mottled green and gray, or putrid gray, with hair of greenish black or iron gray hue. A typical adult troll stands 8' tall. These monsters enjoy eating other intelligent humanoids. Trolls tend to lurk in dungeons, caverns, ruins, and swamps. They are very wiry and lanky, but excessively strong and have menacing, dirty claws and sharp teeth. 
 
@@ -4692,95 +4692,95 @@ When trolls are encountered in a village, certain additional creatures will be p
 
 ### Tyrannosaurus Rex
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	None
+Dungeon Enc:    None
 
-Wilderness Enc:	Solitary (1)
+Wilderness Enc: Solitary (1)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-Armor Class:	6
+Armor Class:    6
 
-Hit Dice:		20
+Hit Dice:               20
 
-Attacks:		1 (bite)
+Attacks:                1 (bite)
 
-Damage:	6d6
+Damage: 6d6
 
-Save:		F10
+Save:           F10
 
-Morale:		+3
+Morale:         +3
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		2,800
+XP:             2,800
 
 This large prehistoric carnivorous dinosaur is a fearsome predator. It is bipedal and can reach heights of 20'. It will hunt any creature that moves, but generally does not bother with prey smaller than a dwarf.
 
 
 ### Unicorn
 
-% In Lair:	5%
+% In Lair:      5%
 
-Dungeon Enc:	Grace (1d6) / Sanctum (1d8)
+Dungeon Enc:    Grace (1d6) / Sanctum (1d8)
 
-Wilderness Enc:	Blessing (1d8) / Sanctum (1d8)
+Wilderness Enc: Blessing (1d8) / Sanctum (1d8)
 
-Alignment:	Lawful
+Alignment:      Lawful
 
-Movement:	240' (80')
+Movement:       240' (80')
 
-Armor Class:	7
+Armor Class:    7
 
-Hit Dice:		4*
+Hit Dice:               4*
 
-Attacks:		3 (2 hooves, horn)
+Attacks:                3 (2 hooves, horn)
 
-Damage:	1d8/1d8/1d8
+Damage: 1d8/1d8/1d8
 
-Save:		F8
+Save:           F8
 
-Morale:		-1
+Morale:         -1
 
-Treasure Type:	D
+Treasure Type:  D
 
-XP:		135
+XP:             135
 
 All unicorns are characterized by their snow white coat and long, straight horns growing from the center of their foreheads. Their bright, intelligent eyes are deep sea-blue, violet, brown, or fiery gold. Males sport a short, white beard. A typical adult unicorn is the size of a wild horse. Three times per day a unicorn can cast cure light wounds by a touch of its horn. Once per day a unicorn can transport itself and its rider, as per the spell dimension door, up to 360'. Only lawful, virtuous maidens may approach these shy creatures.  Unicorns can carry up to 30 stone (300lb) and move at full movement, or can carry a maximum of 60 stone (600lb) at half movement.
 
 
 ### Vampire
 
-% In Lair:	25%
+% In Lair:      25%
 
-Dungeon Enc:	Coterie (1d4) / Sanctum (1d6)
+Dungeon Enc:    Coterie (1d4) / Sanctum (1d6)
 
-Wilderness Enc:	Coven (1d6) / Sanctum (1d6)
+Wilderness Enc: Coven (1d6) / Sanctum (1d6)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-	Fly:	180' (60')
+        Fly:    180' (60')
 
-Armor Class:	7
+Armor Class:    7
 
-Hit Dice:		7 to 9****
+Hit Dice:               7 to 9****
 
-Attacks:		1 (touch, see below)
+Attacks:                1 (touch, see below)
 
-Damage:	1d10, energy drain
+Damage: 1d10, energy drain
 
-Save:		F7 to F9
+Save:           F7 to F9
 
-Morale:		+3
+Morale:         +3
 
-Treasure Type:	Q
+Treasure Type:  Q
 
-XP:		1,840/2,600/3,100
+XP:             1,840/2,600/3,100
 
 The vampire is one of the most dreaded undead monsters. Like all undead, they are immune to poison and charm, hold, and sleep spells. Further, electricity and cold do only half damage, they are unaffected by normal weapons, and they regenerate 3 hit points per round. However, vampires must take refuge in a coffin or other sanctum during the daylight hours, and must slumber on soil from their own grave once per month to maintain their powers' vitality.
 
@@ -4799,66 +4799,66 @@ Vampires create others of their kind by draining humans or other humanoids of al
 
 ### Varmint, Giant
 
-			Ferret				Rat
+                        Ferret                          Rat
 
-% In Lair:		25%				10%
+% In Lair:              25%                             10%
 
-Dungeon Enc:		Pack (1d8) / Den (1d12)		Pack (3d6) / Den (3d10)
+Dungeon Enc:            Pack (1d8) / Den (1d12)         Pack (3d6) / Den (3d10)
 
-Wilderness Enc:		Fesnying (1d8) / Den (1d12)	Horde (3d10) / Den (3d10)
+Wilderness Enc:         Fesnying (1d8) / Den (1d12)     Horde (3d10) / Den (3d10)
 
-Alignment: 		Neutral	       	     		Neutral
+Alignment:              Neutral                         Neutral
 
-Movement:		150' (50')			120' (40')
+Movement:               150' (50')                      120' (40')
 
-Swim:			-    				60' (20')
+Swim:                   -                               60' (20')
 
-Armor Class:		4				2
+Armor Class:            4                               2
 
-Hit Dice:		1+1				1d4 hit points
+Hit Dice:               1+1                             1d4 hit points
 
-Attacks:		1 (bite)			1 (bite)
+Attacks:                1 (bite)                        1 (bite)
 
-Damage:			1d8				1d3, disease
+Damage:                 1d8                             1d3, disease
 
-Save:			F1				F1
+Save:                   F1                              F1
 
-Morale:			0				0
+Morale:                 0                               0
 
-Treasure Type:		A				A
+Treasure Type:          A                               A
 
-XP:	 		15				5
+XP:                     15                              5
 
 
-### 			Shrew				Weasel
+###                     Shrew                           Weasel
 
-% In Lair:		40%				25%	
+% In Lair:              40%                             25%     
 
-Dungeon Enc:		Pack (1d4), Den (1d8)		Pack (1d4) / Den (1d6)
+Dungeon Enc:            Pack (1d4), Den (1d8)           Pack (1d4) / Den (1d6)
 
-Wilderness Enc:		Drove (1d8) / Den (1d8)		Sneak (1d6) / Den (1d6)
+Wilderness Enc:         Drove (1d8) / Den (1d8)         Sneak (1d6) / Den (1d6)
 
-Alignment: 		Neutral	      	  		Neutral
+Alignment:              Neutral                         Neutral
 
-Movement:		180' (60')			150' (50')
+Movement:               180' (60')                      150' (50')
 
-Swim:			-    				-
+Swim:                   -                               -
 
-Armor Class:		5				2
+Armor Class:            5                               2
 
-Hit Dice:		1				4+4*
+Hit Dice:               1                               4+4*
 
-Attacks:		2 (bite)			1 (bite)
+Attacks:                2 (bite)                        1 (bite)
 
-Damage:			1d6/1d6				2d4	
+Damage:                 1d6/1d6                         2d4     
 
-Save:			F1				F3
+Save:                   F1                              F3
 
-Morale:			+2				0
+Morale:                 +2                              0
 
-Treasure Type:		A				I
+Treasure Type:          A                               I
 
-XP:	 		10				215
+XP:                     10                              215
 
 Giant Ferrets: These nasty-tempered creatures are much like their smaller kin, but average 4' long. They are often trained to hunt giant vermin, but their temperamental personalities make them dangerous, and they occasionally turn on their masters.
 
@@ -4871,33 +4871,33 @@ Giant Weasels: These 9' long creatures are brown, tan, or white. They are fierce
 
 ### Whale
 
-			Killer				Narwhal				Sperm
+                        Killer                          Narwhal                         Sperm
 
-% In Lair:		None				None				None
+% In Lair:              None                            None                            None
 
-Dungeon Enc:		None				None				None
+Dungeon Enc:            None                            None                            None
 
-Wilderness Enc:		Pod (1d6)			Pod (1d4)			Pod (1d3)
+Wilderness Enc:         Pod (1d6)                       Pod (1d4)                       Pod (1d3)
 
-Alignment: 		Neutral				Lawful				Neutral
+Alignment:              Neutral                         Lawful                          Neutral
 
-Movement:		240' (80')			180' (60')			180' (60')
+Movement:               240' (80')                      180' (60')                      180' (60')
 
-Armor Class:		3    				2    				3
+Armor Class:            3                               2                               3
 
-Hit Dice:		6*				12 				36*
+Hit Dice:               6*                              12                              36*
 
-Attacks:		1 (bite)			2 (bite, horn)			1 (bite)
+Attacks:                1 (bite)                        2 (bite, horn)                  1 (bite)
 
-Damage:			1d20				2d6/1d8	 			3d20
+Damage:                 1d20                            2d6/1d8                         3d20
 
-Save:			F3				F12				F15
+Save:                   F3                              F12                             F15
 
-Morale:			+2				0				-1
+Morale:                 +2                              0                               -1
 
-Treasure Type:		M				Special				P
+Treasure Type:          M                               Special                         P
 
-XP:	 		570				1,200				12,500
+XP:                     570                             1,200                           12,500
 
 Killer Whale: These immense whales typically reach a length of 25'. They prefer colder waters of the north or extreme south. They prey on many different animals of the sea. Killer whales are able to swallow whole creatures of man size or smaller on an unmodified attack throw of 20. A creature that is swallowed suffers 1d6 points of damage each round, and drowns after 10 rounds. The damage stops when either the creature dies or the whale is killed. If the swallowed creature has a sharp weapon, it may attack the whale from inside its belly with an attack penalty of -4. Should a swallowed creature die and and remain the whale's belly for 6 turns, it is irrecoverably digested. Because of their propensity to swallow creatures whole, an encounter with killer whales may yield treasure even though the creature has no lair.  The treasure (if any) is always found inside the creatures' bellies.
 
@@ -4908,64 +4908,64 @@ Sperm Whale: These gigantic whales typically reach a length of 60'. Sperm whales
 
 ### Wight
 
-% In Lair:	70%
+% In Lair:      70%
 
-Dungeon Enc:	Throng (1d6) / Barrow (1d8)
+Dungeon Enc:    Throng (1d6) / Barrow (1d8)
 
-Wilderness Enc:	Horde (1d8) / Barrow (1d8)
+Wilderness Enc: Horde (1d8) / Barrow (1d8)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-Armor Class:	4
+Armor Class:    4
 
-Hit Dice:		3**
+Hit Dice:               3**
 
-Attacks:		1
+Attacks:                1
 
-Damage:	Energy drain
+Damage: Energy drain
 
-Save:		F3
+Save:           F3
 
-Morale:		+4
+Morale:         +4
 
-Treasure Type:	H
+Treasure Type:  H
 
-XP:		80
+XP:             80
 
 Wights are undead creatures who were formerly humans or demi-humans in life. A wight's appearance is a weird and twisted reflection of the form it had in life. Wights attack by touching a victim and energy draining one level from the victim. Any human or demi-human slain by a wight becomes a wight in 1d4 days. Wights may only be harmed by magical weapons, spells, and weapons made of silver. Like other undead, they are immune to the effects of sleep, charm, and hold spells.
 
 
 ### Wolf
 
-			Ordinary Wolf				Dire Wolf
+                        Ordinary Wolf                           Dire Wolf
 
-% In Lair:		10%	 				10%  
+% In Lair:              10%                                     10%  
 
-Dungeon Enc:		Pack (2d6) / Den (3d6)			Pack (1d4) / Den (2d4)
+Dungeon Enc:            Pack (2d6) / Den (3d6)                  Pack (1d4) / Den (2d4)
 
-Wilderness Enc:		Route (3d6) / Den (3d6)			Route (2d4) / Den (2d4)
+Wilderness Enc:         Route (3d6) / Den (3d6)                 Route (2d4) / Den (2d4)
 
-Alignment: 		Neutral	      	  			Neutral
+Alignment:              Neutral                                 Neutral
 
-Movement:		180' (60')				150' (50')
+Movement:               180' (60')                              150' (50')
 
-Armor Class:		2    					3
+Armor Class:            2                                       3
 
-Hit Dice:		2 + 2					4 + 1
+Hit Dice:               2 + 2                                   4 + 1
 
-Attacks:		1 (bite)				1 (bite)
+Attacks:                1 (bite)                                1 (bite)
 
-Damage:			1d6					2d4
+Damage:                 1d6                                     2d4
 
-Save:			F1					F2
+Save:                   F1                                      F2
 
-Morale:			0					0
+Morale:                 0                                       0
 
-Treasure Type:		None					None
+Treasure Type:          None                                    None
 
-XP:	 		35					140
+XP:                     35                                      140
 
 Ordinary Wolves: Wolves are carnivorous pack hunters known for their persistence and cunning. Wolves primarily hunt and live in wilderness settings, but occasionally venture into caverns and dungeons. Wolves are social, and when their numbers are greater they are more confident. In a group of 3 or fewer, or if 50% of their number has been lost, their morale drops to -1.  When a wolf den is encountered, there is a 50% chance that 1d4 cubs are present. Wolf cubs may be kept and trained in the same manner as dogs.
 
@@ -4974,66 +4974,66 @@ Dire Wolves: These large cousins of ordinary wolves are both more intelligent an
 
 ### Wraith
 
-% In Lair:	25%
+% In Lair:      25%
 
-Dungeon Enc:	Throng (1d4) / Haunt (1d6)
+Dungeon Enc:    Throng (1d4) / Haunt (1d6)
 
-Wilderness Enc:	Horde (1d6) / Haunt (1d6)
+Wilderness Enc: Horde (1d6) / Haunt (1d6)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	120' (40')
+Movement:       120' (40')
 
-	Fly:	240' (80')
+        Fly:    240' (80')
 
-Armor Class:	6
+Armor Class:    6
 
-Hit Dice:		4**
+Hit Dice:               4**
 
-Attacks:		1 (touch)
+Attacks:                1 (touch)
 
-Damage:	1d6, energy drain
+Damage: 1d6, energy drain
 
-Save:		F4
+Save:           F4
 
-Morale:		+4
+Morale:         +4
 
-Treasure Type:	H
+Treasure Type:  H
 
-XP:		190
+XP:             190
 
 Wraiths are incorporeal undead creatures born of evil and darkness. In some cases, the grim silhouette of a wraith might appear armored or outfitted with weapons. This appearance does not affect the creature's AC or combat abilities, but only reflects the shape it had in life. Like other undead, wraiths are unaffected by sleep, hold, or charm spells. They take no damage from non-magical weapons of wood, bronze, or iron, but take half damage from silver weapons and full damage from magical weapons. When a wraith touches a victim it inflicts 1d6 points of damage and energy drains one level. Characters reduced to level 0 are slain. Characters slain by a wraith become a wraith in 24 hours. The new wraith is under the command of the wraith that killed him.
 
 
 ### Wyvern
 
-% In Lair:	30%
+% In Lair:      30%
 
-Dungeon Enc:	Flight (1d2) / Aerie (1d6)
+Dungeon Enc:    Flight (1d2) / Aerie (1d6)
 
-Wilderness Enc:	Wing (1d6) / Aerie (1d6)
+Wilderness Enc: Wing (1d6) / Aerie (1d6)
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	90' (30')
+Movement:       90' (30')
 
-	Fly:	240' (80')
+        Fly:    240' (80')
 
-Armor Class:	6
+Armor Class:    6
 
-Hit Dice:		7**
+Hit Dice:               7**
 
-Attacks:		2 (bite, sting or 2 talons)
+Attacks:                2 (bite, sting or 2 talons)
 
-Damage:	2d8/2d8, poison or 2d8/2d8
+Damage: 2d8/2d8, poison or 2d8/2d8
 
-Save:		F4
+Save:           F4
 
-Morale:		+1
+Morale:         +1
 
-Treasure Type:	M
+Treasure Type:  M
 
-XP:		1,140
+XP:             1,140
 
 A distant cousin to the dragons, the wyvern is a huge flying lizard with a pair of a talons and a poisonous stinger in its tail. A wyvern's body is 15' long, and its scaly body is dark brown to gray. A wyvern on the ground attacks with a bite, and it is able to sting with its flexible, long tail at the same time. Any creature struck with the stinger will instantly die unless a successful saving throw versus Poison is made.
 
@@ -5044,62 +5044,62 @@ When a wyvern aerie is encountered, there is a 50% probability that 1d6 eggs or 
 
 ### Yellow Mold
 
-% In Lair:	None
+% In Lair:      None
 
-Dungeon Enc:	Culture (1d4)
+Dungeon Enc:    Culture (1d4)
 
-Wilderness Enc:	Colony (1d8)
+Wilderness Enc: Colony (1d8)
 
-Alignment:	Neutral
+Alignment:      Neutral
 
-Movement:	0
+Movement:       0
 
-Armor Class:	N/A (always hit)
+Armor Class:    N/A (always hit)
 
-Hit Dice:		2**
+Hit Dice:               2**
 
-Attacks:		Spores
+Attacks:                Spores
 
-Damage:	1d6, special
+Damage: 1d6, special
 
-Save:		F2
+Save:           F2
 
-Morale:		N/A
+Morale:         N/A
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		38
+XP:             38
 
 Yellow mold typically covers an area of 10 square feet. It does not move or attack, but if it is touched, it is acidic and destroys leather and wood. It deals 1d6 points of damage to bare flesh. There is a 50% probability that any time yellow mold is contacted, it ejects spores into a 10' cube area. Any creature inside the area is required to roll a saving throw versus Poison, and failure indicates suffocation and death in 6 rounds from the inhaled spores. Yellow mold is impervious to all attacks but fire. A torch can burn mold for 1d4 points of damage per strike, while burning oil and magical fire do normal damage. Sunlight renders yellow mold dormant.
 
 
 ### Zombie
 
-% In Lair:	35%
+% In Lair:      35%
 
-Dungeon Enc:	Throng (2d4) / Abattoir (4d6)
+Dungeon Enc:    Throng (2d4) / Abattoir (4d6)
 
-Wilderness Enc:	Horde (4d6) / Abattoir (4d6) 
+Wilderness Enc: Horde (4d6) / Abattoir (4d6) 
 
-Alignment:	Chaotic
+Alignment:      Chaotic
 
-Movement:	60' (20')
+Movement:       60' (20')
 
-Armor Class:	1
+Armor Class:    1
 
-Hit Dice:		2*
+Hit Dice:               2*
 
-Attacks:		1 (weapon)
+Attacks:                1 (weapon)
 
-Damage:	1d8 or weapon
+Damage: 1d8 or weapon
 
-Save:		F1
+Save:           F1
 
-Morale:		N/A
+Morale:         N/A
 
-Treasure Type:	None
+Treasure Type:  None
 
-XP:		29
+XP:             29
 
 Zombies are undead corpses reanimated through dark and sinister magic. Because of their utter lack of intelligence, the instructions given to a zombie by its creator must be very simple. The chaotic mages and clerics that create zombies use them to guard locations or valuable treasure. Zombies are susceptible to ordinary weapons, but like other undead they are immune to poison, and charm, hold, and sleep spells. Zombies' somewhat clumsy, decomposing limbs force them to attack last each round.
 

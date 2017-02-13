@@ -22,17 +22,17 @@ Unless its description says otherwise, a proficiency may only be selected once. 
 The Judge may impose limitations on the selection of certain proficiencies depending on his campaign or setting. Otherwise, characters may take any proficiency on the appropriate list.  
 
 
-### Classes	      	     Proficiencies Gained per Level (C=class prof., G=general prof.)
+### Classes                  Proficiencies Gained per Level (C=class prof., G=general prof.)
 
-		     1     2     3     4     5     6     7     8     9     10    11    12    13    14
+                     1     2     3     4     5     6     7     8     9     10    11    12    13    14
 
-Assassin	     C+G   	 C     	     G	   C	       	     C+G   	       C     G	   
+Assassin             C+G         C           G     C                 C+G               C     G     
 
-Bard		     C+G   	       C     G                 C     G     	       C     G
+Bard                 C+G               C     G                 C     G                 C     G
 
-Blade Dancer	     C+G               C     G                 C     G                 C     G     
+Blade Dancer         C+G               C     G                 C     G                 C     G     
 
-Cleric  	     C+G               C     G                 C     G                 C     G     
+Cleric               C+G               C     G                 C     G                 C     G     
 
 Dwarven Craftpriest  C+G               C     G                 C     G           -     -     -     -
 
@@ -42,13 +42,13 @@ Elven Nightblade     C+G               C     G                 C     G          
 
 Elven Spellsword     C+G         C           G     C                 C+G         -     -     -     -
 
-Explorer	     C+G         C           G     C                 C+G               C     G     
+Explorer             C+G         C           G     C                 C+G               C     G     
 
 Fighter              C+G         C           G     C                 C+G               C     G     
 
-Mage		     C+G                     G     C                 G                 C     G     
+Mage                 C+G                     G     C                 G                 C     G     
 
-Thief		     C+G               C     G                 C     G                 C     G       
+Thief                C+G               C     G                 C     G                 C     G       
 
 
 ### Proficiency Lists
@@ -107,13 +107,13 @@ Art (G): The character can create a particular type of art (e.g., painting, scul
 
 ### Art Proficiency Progression
 
-Title			Rank (# of times taken)		Gp Earned/Month		Number of Workers Allowed
+Title                   Rank (# of times taken)         Gp Earned/Month         Number of Workers Allowed
 
-Apprentice		1    	   	 		10gp			N.A.
+Apprentice              1                               10gp                    N.A.
 
-Journeyman		2				20gp			3 Apprentices
+Journeyman              2                               20gp                    3 Apprentices
 
-Master Artist		3				40gp			2 Journeymen, 4 Apprentices
+Master Artist           3                               40gp                    2 Journeymen, 4 Apprentices
 
 
 ### Bargaining (G): The character gets the best deals available for goods, services, and information. Any items the character purchases costs 10% less than the listed price and any items he sells go for 10% more than the listed price. If both the buyer and seller have the Bargaining proficiency, the opposed Bargainers should make reaction rolls. Whichever character scores the higher result gets the discount. A character may select Bargaining multiple times if desired. Each time the proficiency is selected, the character receives a +2 bonus on his reaction roll when negotiating with other bargainers. 
@@ -153,13 +153,13 @@ Craft (G): The character has studied under a guild craftsman, such as an armorer
 
 ### Craft Proficiency Progression
 
-Title 		  Rank (# of times taken)	Gp Earned/Month		Number of Workers Allowed
+Title             Rank (# of times taken)       Gp Earned/Month         Number of Workers Allowed
 
-Apprentice	  1    	     	   		10gp			N.A.
+Apprentice        1                             10gp                    N.A.
 
-Journeyman	  2				20gp			3 Apprentices
+Journeyman        2                             20gp                    3 Apprentices
 
-Master Craftsman  3				40gp			2 Journeymen, 4 Apprentices
+Master Craftsman  3                             40gp                    2 Journeymen, 4 Apprentices
 
 
 ### Diplomacy (G): The character is smooth tongued and familiar with protocol. He receives a +2 bonus on all reaction rolls when he attempts to parley.
@@ -191,15 +191,15 @@ Fighting Style: The character chooses to become proficient in a particular fight
 
 ### Fighting Styles
 
-Style		   Bonus
+Style              Bonus
 
-Pole weapon	   +1 to initiative rolls
+Pole weapon        +1 to initiative rolls
 
-Missile weapon	   +1 to attack throws
+Missile weapon     +1 to attack throws
 
-Single weapon	   +1 to attack throws
+Single weapon      +1 to attack throws
 
-Two weapons	   +1 to attack throws
+Two weapons        +1 to attack throws
 
 Two-handed weapon  +1 to damage rolls
 
@@ -217,13 +217,13 @@ Healing (G): The character is especially skilled at treating wounds and diagnosi
 
 ### Healing Proficiency Progression
 
-Title		    Rank (# of times taken)	Gp Earned/Month		Patients/Day	Skills
+Title               Rank (# of times taken)     Gp Earned/Month         Patients/Day    Skills
 
-Healer		    1	       	     		25gp			3		Identify 11+, extra 1d3 hit points per day
+Healer              1                           25gp                    3               Identify 11+, extra 1d3 hit points per day
 
-Physicker	    2				50gp			4		Identify 7+, neutralize poison, cure disease, cure light 18+
+Physicker           2                           50gp                    4               Identify 7+, neutralize poison, cure disease, cure light 18+
 
-Chirugeon	    3				100gp			5		Identify 3+, neutralize poison, cure disease, cure serious 14+
+Chirugeon           3                           100gp                   5               Identify 3+, neutralize poison, cure disease, cure serious 14+
 
 
 ### Illusion Resistance: The character is as hard to fool as the most cynical dwarf. The character receives +4 bonus on saving throws to disbelieve magical illusions.
@@ -277,13 +277,13 @@ Performance (G): The character can act, dance, sing, recite poetry, tell stories
 
 ### Performance Proficiency Progression
 
-Title	    		Rank (# of times taken)		Gp Earned/Month		Number of Workers Allowed
+Title                   Rank (# of times taken)         Gp Earned/Month         Number of Workers Allowed
 
-Apprentice  		1	       	     		10gp			N.A.
+Apprentice              1                               10gp                    N.A.
 
-Journeyman  		2				20gp			3 Apprentices
+Journeyman              2                               20gp                    3 Apprentices
 
-Master Performer	3				40gp			2 Journeymen, 4 Apprentices
+Master Performer        3                               40gp                    2 Journeymen, 4 Apprentices
 
 
 ### Precise Shooting: The character may conduct missile attacks against opponents engaged in melee at a -4 penalty to his attack throw. A character may take this proficiency multiple times. Each time the proficiency is taken, the penalty to attack opponents in melee is reduced by 2. Characters without this proficiency cannot attack opponents engaged in melee with missile attacks.
@@ -295,13 +295,13 @@ Profession (G): The character is highly skilled at a civil profession, such as a
 
 ### Profession Proficiency Progression
 
-Title	   	       Rank (# of times taken)		Gp Earned/Month		Number of Workers Allowed
+Title                  Rank (# of times taken)          Gp Earned/Month         Number of Workers Allowed
 
-Apprentice	       1       	  			25gp			N.A.
+Apprentice             1                                25gp                    N.A.
 
-Licensed Practitioner  2				50gp			3 Apprentices
+Licensed Practitioner  2                                50gp                    3 Apprentices
 
-Master of Profession   3				100gp			2 Journeymen, 4 Apprentices
+Master of Profession   3                                100gp                   2 Journeymen, 4 Apprentices
 
 
 ### Prophecy: The character is subject to premonitions and dreams of the past and future. The Judge will make these visions both cryptic and useful. Once per week, the character can commune (as the spell). 

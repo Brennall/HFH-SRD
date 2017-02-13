@@ -20,41 +20,41 @@ To put the value of currency in perspective, the Standard of Living table, below
 
 ### Exchange Value
 
-Coins			Cp	Sp	Ep	Gp	Pp
+Coins                   Cp      Sp      Ep      Gp      Pp
 
-Copper Piece (cp) =	1	1/10	1/50	1/100	1/500
+Copper Piece (cp) =     1       1/10    1/50    1/100   1/500
 
-Silver Piece (sp) =	10	1	1/5	1/10	1/50	
+Silver Piece (sp) =     10      1       1/5     1/10    1/50    
 
-Electrum Piece (ep) =	50	5	1	1/2	1/10
+Electrum Piece (ep) =   50      5       1       1/2     1/10
 
-Gold Piece (gp) =   	100	10	2	1	1/5
+Gold Piece (gp) =       100     10      2       1       1/5
 
-Platinum Piece (pp) =	500	50	10	5	1
-
-
-### Standard of Living  	Monthly Cost		Common Professions
-
-Wretched    		1gp			Serfs and peasants
-
-Meager			3gp-12gp		Unskilled manual laborers
-
-Adequate		12gp-40gp		Skilled laborers or journeyman crafters, 1st level adventurers
-
-Comfortable		40gp-100gp		Master craftsmen or yeomen farmer (85 acres), 2nd level adventurers
-
-Prosperous		100gp-450gp		Master professionals or landed patrician (200 acres), 3rd-4th level adventurers
-
-Affluent		450gp-2,000gp		Barons or wealthy patricians, 5th-7th level adventurers
-
-Sumptuous		2,000-12,000gp		Marquis or counts, 8th-9th level adventurers
-
-Luxuriant		12,000-80,000gp 	Dukes or princes, 10th-12th level adventurers
-
-Lavishly Opulent	80,000gp+		Kings or emperors, 13th-14th level adventurers
+Platinum Piece (pp) =   500     50      10      5       1
 
 
-### Purchasing Equipment	
+### Standard of Living          Monthly Cost            Common Professions
+
+Wretched                1gp                     Serfs and peasants
+
+Meager                  3gp-12gp                Unskilled manual laborers
+
+Adequate                12gp-40gp               Skilled laborers or journeyman crafters, 1st level adventurers
+
+Comfortable             40gp-100gp              Master craftsmen or yeomen farmer (85 acres), 2nd level adventurers
+
+Prosperous              100gp-450gp             Master professionals or landed patrician (200 acres), 3rd-4th level adventurers
+
+Affluent                450gp-2,000gp           Barons or wealthy patricians, 5th-7th level adventurers
+
+Sumptuous               2,000-12,000gp          Marquis or counts, 8th-9th level adventurers
+
+Luxuriant               12,000-80,000gp         Dukes or princes, 10th-12th level adventurers
+
+Lavishly Opulent        80,000gp+               Kings or emperors, 13th-14th level adventurers
+
+
+### Purchasing Equipment        
 
 The arms, armor, and mundane gear available for purchase are listed on the Weapons and Equipment tables. These lists will also be handy when characters need to restock supplies between adventures. The equipment and other items listed on the Weapons and Equipment table are described in detail in the Equipment Descriptions section. 
 
@@ -82,19 +82,19 @@ Note that the values given are the number of each specific item, not the total n
 
 ### Equipment Availability by Market Class 
 
-Price	  	       Class I      Class II	       Class III	Class IV	Class V		Class VI
+Price                  Class I      Class II           Class III        Class IV        Class V         Class VI
 
-1gp or less	       1,700 	    585	  	       260   		65    		30    		10
+1gp or less            1,700        585                260              65              30              10
 
-2gp-10gp	       100	    30		       15		5		1		1
+2gp-10gp               100          30                 15               5               1               1
 
-11-100gp	       15	    5		       2		1		25%		10%
+11-100gp               15           5                  2                1               25%             10%
 
-101-1,000gp	       7	    2		       1		25%		10%		5%
+101-1,000gp            7            2                  1                25%             10%             5%
 
-1,001-10,000gp	       2	    1		       25%		10%		5%		1%
+1,001-10,000gp         2            1                  25%              10%             5%              1%
 
-10,001gp or more       10%	    5%		       2%		NA		NA		NA
+10,001gp or more       10%          5%                 2%               NA              NA              NA
 
 
 ### EXAMPLE: Marcus is in a city of 20,000, a Class III market. He wants to buy a war galley (60,000gp), medium warhorse (250gp), 2 suits of plate armor (60gp each), 20 swords (10gp each), 100 bundles of 6 torches (1sp each) and 200 flasks of oil (3sp each). A Class III market has 260 units of any equipment priced 1gp or less, so he finds the 100 bundles of 6 torches and 200 flasks of oil without problem. A Class III market has only 15 units of any equipment priced 10gp or less, so only 15 swords are available. Since he needs the weapons to equip his men, he settles on 15 swords and 5 battle-axes. A Class III market has 2 units of equipment priced at 11-100gp and 1 unit at 101-1,000gp, so he is able to buy the 2 suits of plate armor and medium warhorse. There is only a 2% chance of a war galley being available, and the Judge rolls a 42; Marcus cannot find that type of ship in the city this month.
@@ -109,219 +109,219 @@ EXAMPLE: Marcus decides he'd like to commission a shipwright to build a war gall
 
 ### Weapons and Equipment
 
-Armor				Cost	AC		|Weapons		           Cost		Damage*
+Armor                           Cost    AC              |Weapons                           Cost         Damage*
 
-Clothing Only			-	0		|Axes:			
+Clothing Only                   -       0               |Axes:                  
 
-Hide and Fur Armor		10gp	1		|   Battle Axe		           7gp		1d6/1d8
+Hide and Fur Armor              10gp    1               |   Battle Axe                     7gp          1d6/1d8
 
-Leather Armor			20gp	2		|   Great Axe (two-handed)     	   10gp		1d10
+Leather Armor                   20gp    2               |   Great Axe (two-handed)         10gp         1d10
 
-Ring Mail or Scale Armor	30gp	3		|   Hand Axe  		       	   4gp		1d6
+Ring Mail or Scale Armor        30gp    3               |   Hand Axe                       4gp          1d6
 
-Chain Mail Armor   		40gp	4		|Bows and Crossbows:
+Chain Mail Armor                40gp    4               |Bows and Crossbows:
 
-Banded Plate or Lamellar Armor	50gp	5		|   Arbalest		           50gp		1d8
+Banded Plate or Lamellar Armor  50gp    5               |   Arbalest                       50gp         1d8
 
-Plate Armor  		 	60gp	6		|   Crossbow		       	   30gp		1d6
+Plate Armor                     60gp    6               |   Crossbow                       30gp         1d6
 
-Shield 				10gp	+1		|      Case with 20 Bolts      	   2gp		
+Shield                          10gp    +1              |      Case with 20 Bolts          2gp          
 
-Leather Barding			40gp	1		|   Composite Bow   	       	   40gp		1d6
+Leather Barding                 40gp    1               |   Composite Bow                  40gp         1d6
 
-Scale Barding			75gp	2		|   Longbow   		       	   7gp		1d6
+Scale Barding                   75gp    2               |   Longbow                        7gp          1d6
 
-Chain Barding			150gp	3		|   Shortbow		       	   3gp		1d6
+Chain Barding                   150gp   3               |   Shortbow                       3gp          1d6
 
-Lamellar Barding		300gp	4		|      Quiver with 20 Arrows   	   1gp
+Lamellar Barding                300gp   4               |      Quiver with 20 Arrows       1gp
 
-Plate Barding			600gp	5		|      1 Silver-Tipped Arrow   	   5gp
+Plate Barding                   600gp   5               |      1 Silver-Tipped Arrow       5gp
 
-      							|Catapults and Ballista:
+                                                        |Catapults and Ballista:
 
-Adventuring Equipment		  Cost			|   Ballista (800lb)		   80gp	        3d6
+Adventuring Equipment             Cost                  |   Ballista (800lb)               80gp         3d6
 
-Backpack (holds 4 stone)	  2gp			|      Ballista Shot 	       	   4gp
+Backpack (holds 4 stone)          2gp                   |      Ballista Shot               4gp
 
-Barrel (20 gallon)		  3sp			|   Heavy Catapult (1,800lb)   	   200gp	4d6
+Barrel (20 gallon)                3sp                   |   Heavy Catapult (1,800lb)       200gp        4d6
 
-Belladonna (1lb)		  10gp			|   Light Catapult (1,200lb)   	   100gp	3d6
+Belladonna (1lb)                  10gp                  |   Light Catapult (1,200lb)       100gp        3d6
 
-Blanket (wool, thick)		  2gp			|      Catapult Shot (25lb)    	   5gp		
+Blanket (wool, thick)             2gp                   |      Catapult Shot (25lb)        5gp          
 
-Birthwort (1lb)			  10gp			|      Catapult Shot, Pitch (25lb) 25gp
+Birthwort (1lb)                   10gp                  |      Catapult Shot, Pitch (25lb) 25gp
 
-Candle (tallow, 1lb)		  2sp			|Flails, Hammers, and Maces:	   
+Candle (tallow, 1lb)              2sp                   |Flails, Hammers, and Maces:       
 
-Candle (wax, 1lb)		  6sp			|   Club 	      		   1gp		1d4
+Candle (wax, 1lb)                 6sp                   |   Club                           1gp          1d4
 
-Chest (ironbound, holds 20 stone) 22gp			|   Flail			   5gp		1d6/1d8
+Chest (ironbound, holds 20 stone) 22gp                  |   Flail                          5gp          1d6/1d8
 
-Comfrey (1lb)	  	   	  10gp			|   Mace			   5gp		1d6/1d8
+Comfrey (1lb)                     10gp                  |   Mace                           5gp          1d6/1d8
 
-Crowbar				  1gp			|   Morning Star (two-handed)	   10gp		1d10
+Crowbar                           1gp                   |   Morning Star (two-handed)      10gp         1d10
 
-Flask of Oil (common, 1 pint)	  3sp			|   War Hammer 	 		   5gp		1d6/1d8
+Flask of Oil (common, 1 pint)     3sp                   |   War Hammer                     5gp          1d6/1d8
 
-Flask of Oil (military, 1 pint)	  2gp			|Spears and Pole Arms
+Flask of Oil (military, 1 pint)   2gp                   |Spears and Pole Arms
 
-Garlic (1lb) 		  	  5gp			|   Lance (mounted)		   1gp		1d10
+Garlic (1lb)                      5gp                   |   Lance (mounted)                1gp          1d10
 
-Goldenrod (1lb)			  10gp			|   Javelin			   1gp		1d6
+Goldenrod (1lb)                   10gp                  |   Javelin                        1gp          1d6
 
-Grappling Hook			  25gp			|   Pole Arm (two-handed)	   7gp		1d10
+Grappling Hook                    25gp                  |   Pole Arm (two-handed)          7gp          1d10
 
-Hammer (small)			  2gp			|   Spear    			   3gp		1d6/1d8
+Hammer (small)                    2gp                   |   Spear                          3gp          1d6/1d8
 
-Holy Symbol			  25gp			|Swords and Daggers:
+Holy Symbol                       25gp                  |Swords and Daggers:
 
-Holy Water (1 pint)		  25gp			|   Dagger			   3gp		1d4
+Holy Water (1 pint)               25gp                  |   Dagger                         3gp          1d4
 
-Ink (1 oz.)   			  8gp			|   Silver Dagger		   30gp		1d4
+Ink (1 oz.)                       8gp                   |   Silver Dagger                  30gp         1d4
 
-Iron Spikes (12)		  1gp			|   Short Sword			   7gp		1d6
+Iron Spikes (12)                  1gp                   |   Short Sword                    7gp          1d6
 
-Lantern	    			  10gp			|   Sword 			   10gp		1d6/1d8
+Lantern                           10gp                  |   Sword                          10gp         1d6/1d8
 
-Lock				  20gp			|   Two-Handed Sword		   15gp		1d10
+Lock                              20gp                  |   Two-Handed Sword               15gp         1d10
 
-Mirror (hand-sized, steel)	  5gp			|Other Weapons:
+Mirror (hand-sized, steel)        5gp                   |Other Weapons:
 
-Musical instrument  		  25-100gp		|   Bola			   5gp		1d2
+Musical instrument                25-100gp              |   Bola                           5gp          1d2
 
-Pouch/Purse (holds  1/2  stone)	  5sp			|   Darts (5)			   2gp		1d4
+Pouch/Purse (holds  1/2  stone)   5sp                   |   Darts (5)                      2gp          1d4
 
-Pole, Wooden (10' long)		  1sp			|   Net	  			   1gp		-
+Pole, Wooden (10' long)           1sp                   |   Net                            1gp          -
 
-Rations, Iron (one week)	  1- 6gp		|   Sling with 30 Sling Bullets	   2gp		1d4
+Rations, Iron (one week)          1- 6gp                |   Sling with 30 Sling Bullets    2gp          1d4
 
-Rations, Standard (one week)	  3sp - 3gp		|   Sap	       	  		   1gp		1d4
+Rations, Standard (one week)      3sp - 3gp             |   Sap                            1gp          1d4
 
-Rope (50' length)      		  1gp 			|   Staff (two-handed)		   1gp		1d6
+Rope (50' length)                 1gp                   |   Staff (two-handed)             1gp          1d6
 
-Sack (small, holds 2 stone)	  3sp			|   Whip  			   5gp		1d2
+Sack (small, holds 2 stone)       3sp                   |   Whip                           5gp          1d2
 
-Sack (large, holds 6 stone) 	  8sp			|
+Sack (large, holds 6 stone)       8sp                   |
 
-Spell Book (blank)   		  20gp			|*Where two damage values are listed, the first  is for one-handed
+Spell Book (blank)                20gp                  |*Where two damage values are listed, the first  is for one-handed
 
-Stakes (4) and Mallet		  3gp			| and the second is for two-handed use.
+Stakes (4) and Mallet             3gp                   | and the second is for two-handed use.
 
-Tent   	       			  20gp			|
+Tent                              20gp                  |
 
-Thieves' Tools			  25gp			|
+Thieves' Tools                    25gp                  |
 
-Tinder Box (flint & steel)	  8sp			|
+Tinder Box (flint & steel)        8sp                   |
 
-Torches (6)	    		  1sp			|
+Torches (6)                       1sp                   |
 
-Water/Wine Skin			  6sp			|
+Water/Wine Skin                   6sp                   |
 
-Wolfsbane (1lb)			  10gp			|
+Wolfsbane (1lb)                   10gp                  |
 
-Woundwart (1lb)			  10gp			|
+Woundwart (1lb)                   10gp                  |
 
 
 ### 
 
-Foodstuffs			  		Cost			|Clothing					Cost
+Foodstuffs                                      Cost                    |Clothing                                       Cost
 
-Ale/Beer (cheap, 3 pints)	  		1cp			|Belt / Sash (leather)		    		4sp
+Ale/Beer (cheap, 3 pints)                       1cp                     |Belt / Sash (leather)                          4sp
 
-Ale/Beer (good, 1 pint)		  		2cp			|Boots (leather, low)		    		6sp
+Ale/Beer (good, 1 pint)                         2cp                     |Boots (leather, low)                           6sp
 
-Bread (white, 4lb)		  		1sp			|Boots (leather, high)		    		3gp
+Bread (white, 4lb)                              1sp                     |Boots (leather, high)                          3gp
 
-Bread (wheat, 8lb)		  		1sp			|Cassock (cleric / mage)	    		7gp
+Bread (wheat, 8lb)                              1sp                     |Cassock (cleric / mage)                        7gp
 
-Bread (coarse, 12lb)		  		1sp			|Cloak (fur-lined, winter)	    		15gp
+Bread (coarse, 12lb)                            1sp                     |Cloak (fur-lined, winter)                      15gp
 
-Cheese (1lb)   			  		5cp			|Cloak (long, hooded)		    		1gp
+Cheese (1lb)                                    5cp                     |Cloak (long, hooded)                           1gp
 
-Cinnamon (clover, pepper, sugar) (1lb)		3gp			|Dress (crafter / freeholder)	    		4gp
+Cinnamon (clover, pepper, sugar) (1lb)          3gp                     |Dress (crafter / freeholder)                   4gp
 
-Dried Fruit (1lb) 	  	 		1sp			|Dress (armiger)  		    		20gp
+Dried Fruit (1lb)                               1sp                     |Dress (armiger)                                20gp
 
-Eggs (1 dozen)					5cp			|Gown (lady-in-waiting / noble)	    		100gp
+Eggs (1 dozen)                                  5cp                     |Gown (lady-in-waiting / noble)                 100gp
 
-Meal (1 person, poor to feast)			1cp-10gp		|Gown (duchess)	       	 	    		1000gp
+Meal (1 person, poor to feast)                  1cp-10gp                |Gown (duchess)                                 1000gp
 
-Meat (beef, chicken, mutton, or pork, 1lb)	1sp			|Gloves				    		4sp
+Meat (beef, chicken, mutton, or pork, 1lb)      1sp                     |Gloves                                         4sp
 
-Saffron (1lb)	     	     	      		15gp			|Hat (armiger)			    		10sp
+Saffron (1lb)                                   15gp                    |Hat (armiger)                                  10sp
 
-Wine (cheap, 1 pint)				2cp			|Linen (cheap, 1 yard)		   		1gp
+Wine (cheap, 1 pint)                            2cp                     |Linen (cheap, 1 yard)                          1gp
 
-Wine (good, 1 pint)				1sp			|Linen (fine, 1 yard)		   	        7gp
+Wine (good, 1 pint)                             1sp                     |Linen (fine, 1 yard)                           7gp
 
-Wine (rare, 1 pint)				5sp			|Robe (cleric / mage)		    		6gp
+Wine (rare, 1 pint)                             5sp                     |Robe (cleric / mage)                           6gp
 
-     	      								|Silk (1 yard)			    		15gp
+                                                                        |Silk (1 yard)                                  15gp
 
-Livestock				        Cost			|Sandals / Shoes (leather)	    		4sp
+Livestock                                       Cost                    |Sandals / Shoes (leather)                      4sp
 
-Chicken (3lb)					1sp			|Tunic and Pants (serf)		    		2gp
+Chicken (3lb)                                   1sp                     |Tunic and Pants (serf)                         2gp
 
-Cow (550lb)					10gp			|Tunic and Pants (crafter / freeholder)		4gp
+Cow (550lb)                                     10gp                    |Tunic and Pants (crafter / freeholder)         4gp
 
-Dog (hunting)					10gp			|Tunic and Pants (armiger)  			20gp
+Dog (hunting)                                   10gp                    |Tunic and Pants (armiger)                      20gp
 
-Dog (war)					75gp			|Tunic and Pants (noble)			100gp
+Dog (war)                                       75gp                    |Tunic and Pants (noble)                        100gp
 
-Goat (125lb)					3gp			|Wool (cheap, 1 yard)				6sp
+Goat (125lb)                                    3gp                     |Wool (cheap, 1 yard)                           6sp
 
-Hawk (trained)					20gp			|Wool (fine, 1 yard)				6gp
+Hawk (trained)                                  20gp                    |Wool (fine, 1 yard)                            6gp
 
-Pig (125lb)					3gp			|
+Pig (125lb)                                     3gp                     |
 
-Sheep (80lb)					2gp			|
+Sheep (80lb)                                    2gp                     |
 
 
-### Land Transport					Cost			|Maritime Transport			Cost
+### Land Transport                                      Cost                    |Maritime Transport                     Cost
 
-Camel						100gp			|Barge/raft				1gp/sq ft
+Camel                                           100gp                   |Barge/raft                             1gp/sq ft
 
-Caparison (warhorse)				20gp			|Boat (river)				4000gp
+Caparison (warhorse)                            20gp                    |Boat (river)                           4000gp
 
-Cart (small)					25gp			|Boat (sailing)				2000gp
+Cart (small)                                    25gp                    |Boat (sailing)                         2000gp
 
-Cart (large)					50gp			|Canoe					40gp
+Cart (large)                                    50gp                    |Canoe                                  40gp
 
-Donkey						8gp			|Galley (large)				30,000gp
+Donkey                                          8gp                     |Galley (large)                         30,000gp
 
-Horses:									|Galley (small)				10,000gp
+Horses:                                                                 |Galley (small)                         10,000gp
 
-   Heavy Draft Horse			        40gp			|Galley (war)				60,000gp
+   Heavy Draft Horse                            40gp                    |Galley (war)                           60,000gp
 
-   Heavy Warhorse				700gp			|Longship				15,000gp
+   Heavy Warhorse                               700gp                   |Longship                               15,000gp
 
-   Medium Draft Horse				30gp			|Sailing Ship (large)			20,000gp
+   Medium Draft Horse                           30gp                    |Sailing Ship (large)                   20,000gp
 
-   Medium Riding Horse				40gp			|Sailing Ship (small)			10,000gp
+   Medium Riding Horse                          40gp                    |Sailing Ship (small)                   10,000gp
 
-   Medium Warhorse				250gp			|Troop Transport (large)		30,000gp
+   Medium Warhorse                              250gp                   |Troop Transport (large)                30,000gp
 
-   Light Riding Horse				75gp			|Troop Transport (small)		15,000gp
+   Light Riding Horse                           75gp                    |Troop Transport (small)                15,000gp
 
-   Light Warhorse				150gp			|
+   Light Warhorse                               150gp                   |
 
-Mule	 					20gp			|Lodging				Cost
+Mule                                            20gp                    |Lodging                                Cost
 
-Ox (2,000lb)					40gp			|Cottage (wood)				300gp
+Ox (2,000lb)                                    40gp                    |Cottage (wood)                         300gp
 
-Saddle and Tack (draft)				5gp			|Inn (one person, one night, slum)	1sp
+Saddle and Tack (draft)                         5gp                     |Inn (one person, one night, slum)      1sp
 
-Saddle and Tack (riding)			10gp			|Inn, one person, one night, average)	5sp
+Saddle and Tack (riding)                        10gp                    |Inn, one person, one night, average)   5sp
 
-Saddle and Tack (war)				25gp			|Inn (one person, one night, superb)	2gp
+Saddle and Tack (war)                           25gp                    |Inn (one person, one night, superb)    2gp
 
-Saddlebags (leather)				5gp			|Hut (wattle)	      	     		25gp
+Saddlebags (leather)                            5gp                     |Hut (wattle)                           25gp
 
-Stabling (draft/riding horse, one night)	2sp-5sp			|Hut (wooden)				50gp
+Stabling (draft/riding horse, one night)        2sp-5sp                 |Hut (wooden)                           50gp
 
-Stabling (warhorse, one night) 	  		5sp-1gp			|Townhouse (stone)			1,200gp
+Stabling (warhorse, one night)                  5sp-1gp                 |Townhouse (stone)                      1,200gp
 
-Wagon	 	    				200gp			
+Wagon                                           200gp                   
 
 
 ### Equipment Descriptions
@@ -552,17 +552,17 @@ After characters purchase their equipment, they should calculate their encumbran
 When counting items, each weapon, scroll, potion, vial, wand, magic item, or other object counts as an item. Multiple small items sold as a bundle (such as 12 spikes, 6 torches, 20 arrows, etc.) count as one item for this purpose. Very small single items (such as 1 silver arrow) can be ignored for encumbrance purposes. 
 
 
-### Item 	      	     Encumbrance in Stone
+### Item                     Encumbrance in Stone
 
-Worn clothing	     0 stone
+Worn clothing        0 stone
 
-Armor & Shield	     1 stone per point of Armor Class*
+Armor & Shield       1 stone per point of Armor Class*
 
-Items 		     1 stone per 6 items
+Items                1 stone per 6 items
 
-Heavy Item	     1 stone per heavy item (8-14lb)
+Heavy Item           1 stone per heavy item (8-14lb)
 
-Treasure	     1 stone per 1,000 coins or gems
+Treasure             1 stone per 1,000 coins or gems
 *Magical armor and shields are lighter than mundane items. They reduce their encumbrance by 1 stone per point of magical bonus.
 
 
@@ -575,15 +575,15 @@ A character's speed will be affected based on encumbrance, as shown on the Chara
 
 ### Character Movement and Encumbrance 
 
-Encumbrance	   Exploration Movement		Combat Movement		Running Movement
+Encumbrance        Exploration Movement         Combat Movement         Running Movement
 
-Up to 5 stone	   120' per turn		40' per round		120' per round
+Up to 5 stone      120' per turn                40' per round           120' per round
 
-Up to 7 stone	   90' per turn			30' per round		90' per round
+Up to 7 stone      90' per turn                 30' per round           90' per round
 
-Up to 10 stone	   60' per turn			20' per round		60' per round
+Up to 10 stone     60' per turn                 20' per round           60' per round
 
-Up to max capacity 30' per turn			10' per round		30' per round
+Up to max capacity 30' per turn                 10' per round           30' per round
 
 
 ### EXAMPLE: Marcus is carrying a two-handed sword (1 heavy item), a crossbow (1 heavy item), a mace (1 item), 2 daggers (1 item each), 1 week's iron rations (1 item), a tinderbox (1 item), 2 flasks of oil (1 item each), 3 stakes and mallet (1 item), a small mirror (1 item), a pound of wolfsbane (1 item), a pound of garlic (1 item), and a case with 20 bolts (1 item). He is carrying 12 items, which counts as 2 stone. His two-handed sword and crossbow count as 2 stone. Finally, he is wearing plate armor (AC6), which counts as 6 stone. His total encumbrance is 10 stone, so his exploration movement is 60' per turn. Later, he picks up 8,000 silver pieces. This increases his encumbrance to 18 stone, and reduces his exploration movement to 30' per turn.
@@ -596,35 +596,35 @@ The figure to the left of the slash is the animal or vehicle's movement rate per
 
 ### Animal/Vehicle Movement and Encumbrance
 
-Animal/Vehicle 		Exploration Movement		Normal Load	Maximum Load	
+Animal/Vehicle          Exploration Movement            Normal Load     Maximum Load    
 
-Camel			150' / 75'  			30     		60
+Camel                   150' / 75'                      30              60
 
-Donkey			120' / 60'			8		16
+Donkey                  120' / 60'                      8               16
 
-Elephant		120' / 60'			120		240
+Elephant                120' / 60'                      120             240
 
-Horse, Heavy		120' / 60'			40		80
+Horse, Heavy            120' / 60'                      40              80
 
-Horse, Light		240' / 120'			20		40
+Horse, Light            240' / 120'                     20              40
 
-Horse, Medium		180' / 90'			30		60
+Horse, Medium           180' / 90'                      30              60
 
-Mule   			120' / 60'			20		40
+Mule                    120' / 60'                      20              40
 
-Ox			60' / 30'			45		90
+Ox                      60' / 30'                       45              90
 
-Cart, Small, 1 Mule	60' / 30'			35		70
+Cart, Small, 1 Mule     60' / 30'                       35              70
 
-Cart, Small, 2 Mules	60' / 30'			80		160
+Cart, Small, 2 Mules    60' / 30'                       80              160
 
-Cart, Large, 1 Horse	60' / 30'			80		160
+Cart, Large, 1 Horse    60' / 30'                       80              160
 
-Cart, Large, 2 Horses	60' / 30'			120		240
+Cart, Large, 2 Horses   60' / 30'                       120             240
 
-Wagon, 2 Horses		60' / 30'			160		320
+Wagon, 2 Horses         60' / 30'                       160             320
 
-Wagon, 4 Horses		60' / 30'			320		640
+Wagon, 4 Horses         60' / 30'                       320             640
 
 
 ### Hirelings, Henchmen, Mercenaries, and Specialists
@@ -640,101 +640,101 @@ PCs may sometimes find potential hirelings while on adventures. Otherwise, in or
 
 ### Hiring Availability by Market Class
 
-       		       	        Class I		Class II	Class III	Class IV	Class V		Class VI
+                                Class I         Class II        Class III       Class IV        Class V         Class VI
 
-Mercenaries	    
+Mercenaries         
 
- Light Infantry			4d100		5d20		5d10		3d4		1d6		1d2
+ Light Infantry                 4d100           5d20            5d10            3d4             1d6             1d2
 
- Heavy Infantry	    		2d100		5d10		3d8		1d8		1d3		1 (85%)
+ Heavy Infantry                 2d100           5d10            3d8             1d8             1d3             1 (85%)
 
- Slinger	    		8d20		4d10		2d10		1d6		1d2		1 (70%)  
+ Slinger                        8d20            4d10            2d10            1d6             1d2             1 (70%)  
 
- Bowman		    		8d20		4d10		2d10		1d6		1d2		1 (70%) 
+ Bowman                         8d20            4d10            2d10            1d6             1d2             1 (70%) 
 
- Crossbowman	    		8d20		4d10		2d10		1d6		1d2		1 (70%) 
+ Crossbowman                    8d20            4d10            2d10            1d6             1d2             1 (70%) 
 
- Longbowman 	    		4d20		2d10		1d10		1d3		1		1 (33%)
+ Longbowman                     4d20            2d10            1d10            1d3             1               1 (33%)
 
- Light Cavalry 	    		4d20		2d10		1d10		1d3		1		1 (33%) 
+ Light Cavalry                  4d20            2d10            1d10            1d3             1               1 (33%) 
 
- Mounted Crossbowman*		3d20		4d4		2d4		1d2		1 (75%)		1 (25%)
+ Mounted Crossbowman*           3d20            4d4             2d4             1d2             1 (75%)         1 (25%)
 
- Horse Archers 			3d20		4d4		2d4		1d3		1 (70%)		1 (23%)
+ Horse Archers                  3d20            4d4             2d4             1d3             1 (70%)         1 (23%)
 
- Medium Cavalry			3d20		4d4		2d4		1d2		1 (70%)		1 (23%)
+ Medium Cavalry                 3d20            4d4             2d4             1d2             1 (70%)         1 (23%)
 
- Heavy Cavalry 			4d10		1d10		1d6		1d2 (50%)	1 (50%)		1 (15%)
+ Heavy Cavalry                  4d10            1d10            1d6             1d2 (50%)       1 (50%)         1 (15%)
 
- Cataphract Cavalry 		3d10 		1d8		1d4		1d2 (33%)	1 (40%)		1 (10%)
+ Cataphract Cavalry             3d10            1d8             1d4             1d2 (33%)       1 (40%)         1 (10%)
 
- Wolf Riders* 			3d10 		1d8		1d4		1d2 (33%)	1 (40%)		1 (10%)
+ Wolf Riders*                   3d10            1d8             1d4             1d2 (33%)       1 (40%)         1 (10%)
 
-Specialists			
+Specialists                     
 
- Alchemist			1d10		1d3		1		1 (33%)		1 (15%)		1 (5%)
+ Alchemist                      1d10            1d3             1               1 (33%)         1 (15%)         1 (5%)
 
- Animal Trainer - Common	5d10		2d6		1d6		1d2		1 (65%)		1 (20%)
+ Animal Trainer - Common        5d10            2d6             1d6             1d2             1 (65%)         1 (20%)
 
- Animal Trainer - Exotic	1d10		1d3		1 		1 (33%)		1 (15%)		1 (5%)
+ Animal Trainer - Exotic        1d10            1d3             1               1 (33%)         1 (15%)         1 (5%)
 
- Armorer	       		3d10 		2d4		1d4		1 		1 (40%)		1 (15%)
+ Armorer                        3d10            2d4             1d4             1               1 (40%)         1 (15%)
 
- Engineer			1d10		1d3		1 		1 (33%)		1 (15%)		1 (5%)
+ Engineer                       1d10            1d3             1               1 (33%)         1 (15%)         1 (5%)
 
- Healer				5d10		2d6		1d6		1d2		1 (65%)		1 (20%)
+ Healer                         5d10            2d6             1d6             1d2             1 (65%)         1 (20%)
 
- Healer - Physicker		3d10 		2d4		1d4		1		1 (40%)		1 (15%)
+ Healer - Physicker             3d10            2d4             1d4             1               1 (40%)         1 (15%)
 
- Healer - Chirugeon		1d10		1d3		1 		1 (33%)		1 (15%)		1 (5%)
+ Healer - Chirugeon             1d10            1d3             1               1 (33%)         1 (15%)         1 (5%)
 
- Mariner - Captain		4d6		1d6		1d3		1 (80%)		1 (33%)		1 (10%)
+ Mariner - Captain              4d6             1d6             1d3             1 (80%)         1 (33%)         1 (10%)
 
- Mariner - Navigator		5d10		1d12		1d6		1d2		1 (60%)		1 (45%)
+ Mariner - Navigator            5d10            1d12            1d6             1d2             1 (60%)         1 (45%)
 
- Mariner - Sailor/Rower		4d100		5d20		5d10		3d4		1d6		1d2
+ Mariner - Sailor/Rower         4d100           5d20            5d10            3d4             1d6             1d2
 
- Ruffian - Carouser		4d100		5d20		5d10		3d4		1d6		1d2
+ Ruffian - Carouser             4d100           5d20            5d10            3d4             1d6             1d2
 
- Ruffian - Footpad		5d20		4d6		2d6		1d3		1d2		1 (40%)
+ Ruffian - Footpad              5d20            4d6             2d6             1d3             1d2             1 (40%)
 
- Ruffian - Reciter		5d20		4d6		2d6		1d3		1d2		1 (40%)
+ Ruffian - Reciter              5d20            4d6             2d6             1d3             1d2             1 (40%)
 
- Ruffian - Spy			2d10		1d6		1d3		1 (65%)		1 (25%)		1 (10%)
+ Ruffian - Spy                  2d10            1d6             1d3             1 (65%)         1 (25%)         1 (10%)
 
- Ruffian - Thug			5d20		4d6		2d6		1d3		1d2		1 (40%)
+ Ruffian - Thug                 5d20            4d6             2d6             1d3             1d2             1 (40%)
 
- Sage	  			1d6		1d2		1 (65%)		1 (15%)		1 (5%)		None
+ Sage                           1d6             1d2             1 (65%)         1 (15%)         1 (5%)          None
 
- Spellcaster			-----  Varies by Spell Level ---- 
+ Spellcaster                    -----  Varies by Spell Level ---- 
 
 Henchmen
 
- Normal Men			4d100		5d20		4d8		3d4		1d6		1d2
+ Normal Men                     4d100           5d20            4d8             3d4             1d6             1d2
 
- Level 1			5d10		2d6		1d4		1d2		1 (65%)		1 (20%)
+ Level 1                        5d10            2d6             1d4             1d2             1 (65%)         1 (20%)
 
- Level 2			3d10 		2d4		1d3		1		1 (40%)		1 (15%)
+ Level 2                        3d10            2d4             1d3             1               1 (40%)         1 (15%)
 
- Level 3			1d10		1d3		1 (85%)		1 (33%)		1 (15%)		1 (5%)
+ Level 3                        1d10            1d3             1 (85%)         1 (33%)         1 (15%)         1 (5%)
 
- Level 4			1d6		1d2		1 (45%)		1 (15%)		1 (5%)		None
+ Level 4                        1d6             1d2             1 (45%)         1 (15%)         1 (5%)          None
 *Mounted crossbowmen are only found in Dwarven settlements. Wolf Riders are only found in Chaotic-aligned settlements.
 
 
-### Market Class	     Cost Per Week Per Hireling Type
+### Market Class             Cost Per Week Per Hireling Type
 
-I      		     1d6+15gp
+I                    1d6+15gp
 
-II		     1d10+10gp
+II                   1d10+10gp
 
-III		     1d8+5gp
+III                  1d8+5gp
 
-IV		     1d6+3gp
+IV                   1d6+3gp
 
-V		     1d6gp
+V                    1d6gp
 
-VI		     1d3gp
+VI                   1d3gp
 
 
 ### Hirelings are recruited through negotiation. The Judge plays the roles of the NPCs the PCs attempt to hire. The PCs will have to explain what the job entails and the rates of pay. Henchmen are typically hired for a share of treasure (at least 15% of the employer's income) and monthly fee for food, lodging and expenses (based on level, see below). Mercenaries and specialists are typically hired for a flat monthly fee, which varies depending on the type of specialist or mercenary (see below). Henchmen, mercenaries, and specialists will have equipment appropriate to their profession, class, or level. Adventurers may provide additional equipment to their hirelings. 
@@ -742,17 +742,17 @@ VI		     1d3gp
 
 ### Reaction to Hiring Offer
 
-Adjusted Die Roll	Result
+Adjusted Die Roll       Result
 
-2-	     		Refuse and slander
+2-                      Refuse and slander
 
-3-5			Refuse
+3-5                     Refuse
 
-6-8			Try Again
+6-8                     Try Again
 
-9-11			Accept
+9-11                    Accept
 
-12+			Accept with 'elan
+12+                     Accept with 'elan
 
 
 ### After the offers are made, the Judge will make a reaction roll of 2d6 on the Reaction to Hiring Offer table to decide the potential hireling's reactions, modified by the prospective employer's Charisma bonus or penalty The Judge may apply any other adjustments he or she feels are appropriate (a bonus of +1 for higher-than-average pay, signing bonuses, or equipment; a -1 penalty if the adventurer offers poor terms or a very risky job).
@@ -773,37 +773,37 @@ When they are hired, potential henchmen should be of lower level than their empl
 
 ### Henchmen Monthly Fee
 
-Class Level	 Monthly Wage (gp)
+Class Level      Monthly Wage (gp)
 
-0     		 12
+0                12
 
-1		 25			
+1                25                     
 
-2		 50			
+2                50                     
 
-3		 100			
+3                100                    
 
-4		 200			
+4                200                    
 
-5		 400			
+5                400                    
 
-6		 800			
+6                800                    
 
-7		 1,600
+7                1,600
 
-8		 3,000
+8                3,000
 
-9		 7,250
+9                7,250
 
-10		 12,000
+10               12,000
 
-11		 32,000
+11               32,000
 
-12		 50,000
+12               50,000
 
-13		 135,000
+13               135,000
 
-14		 350,000
+14               350,000
 
 
 ### Morale: All henchmen have a morale score, which is generally 0 plus the employer's Charisma bonus or penalty. This rating can be adjusted at the Judge's discretion. It can be increased if the PC has been particularly good to the henchman, or reduced if the PC has been cruel or contrary to his word. 
@@ -813,17 +813,17 @@ Morale rolls are made each time the henchman suffers a calamity. A calamity incl
 
 ### Henchman Loyalty 
 
-Adjusted Die Roll (2d6)		Result
+Adjusted Die Roll (2d6)         Result
 
-2-	     	  		Hostility
+2-                              Hostility
 
-3-5				Resignation
+3-5                             Resignation
 
-6-8				Grudging Loyalty
+6-8                             Grudging Loyalty
 
-9-11				Loyalty
+9-11                            Loyalty
 
-12+				Fanatic Loyalty
+12+                             Fanatic Loyalty
 
 
 ### Hostility means that the henchman will leave the service of the character, and will consider him a rival and enemy in the future. The henchman can never be attracted to the character's employ again. A result of Resignation means the henchman will leave the character's employment, but he bears no ill will to his former master, and could be recruited to work for the character again in the future. 
@@ -846,52 +846,52 @@ Mercenaries are generally hired to garrison a stronghold or wage war in military
 The Mercenary Troop Type table below list the typical wages of mercenary types based on type. The costs listed are the mercenaries' wages only. The cost of armorers to make and repair troop armor and weapons, stablehands to groom horses, caravans to provide supplies while in the field, and other miscellaneous expenses are not included. Mercenaries in garrison need only be paid their wages, but mercenaries on campaign will expect a share of military plunder in addition to wages.
 
 
-###     	      	    	       	     	      	      	       		       	     	      Gp Wage per Month
+###                                                                                                   Gp Wage per Month
 
-Mercenary Troop Type				      	       		 		      Man     Dwarf	Elf	Goblin	Orc
+Mercenary Troop Type                                                                          Man     Dwarf     Elf     Goblin  Orc
 
-Peasants (spear)				      	       		 		      3       -		-	-	-
+Peasants (spear)                                                                              3       -         -       -       -
 
-Light Infantry (spear, short sword, shield, leather armor)     		 		      6       -		10	3	6
+Light Infantry (spear, short sword, shield, leather armor)                                    6       -         10      3       6
 
-Heavy Infantry (spear, sword, shield, banded plate armor)      		 		      12      18	24	-	9
+Heavy Infantry (spear, sword, shield, banded plate armor)                                     12      18        24      -       9
 
-Slingers (sling, short sword, shield, leather armor)	       		 		      6       -		-	3	-
+Slingers (sling, short sword, shield, leather armor)                                          6       -         -       3       -
 
-Bowmen (short bow, short sword, leather armor)		       		 		      9       -		21	3	6
+Bowmen (short bow, short sword, leather armor)                                                9       -         21      3       6
 
-Crossbowmen (arbalest, short sword, chainmail)		       		 		      18      21	-	-	12
+Crossbowmen (arbalest, short sword, chainmail)                                                18      21        -       -       12
 
-Longbowmen (long bow, sword, chainmail)			       		 		      18      -		42	-	-
+Longbowmen (long bow, sword, chainmail)                                                       18      -         42      -       -
 
-Light Cavalry (lance, sword, shield, leather armor, light warhorse)	 		      30      -		60	-	-
+Light Cavalry (lance, sword, shield, leather armor, light warhorse)                           30      -         60      -       -
 
-Mounted Crossbowmen (crossbow, short sword, chainmail, mule)		 		      -	      45	-	-	-
+Mounted Crossbowmen (crossbow, short sword, chainmail, mule)                                  -       45        -       -       -
 
-Horse Archers (composite bow, scimitar, leather armor, light warhorse)	 		      45      -		90	-	-
+Horse Archers (composite bow, scimitar, leather armor, light warhorse)                        45      -         90      -       -
 
-Medium Cavalry (lance, sword, shield, lamellar, medium warhorse)	 		      45      -		-	-	-
+Medium Cavalry (lance, sword, shield, lamellar, medium warhorse)                              45      -         -       -       -
 
-Heavy Cavalry (lance, sword, shield, plate armor, chain barded medium warhorse)		      60      -		-	-	-
+Heavy Cavalry (lance, sword, shield, plate armor, chain barded medium warhorse)               60      -         -       -       -
 
-Cataphract Cavalry (composite bow, sword, shield, plate, chain barded medium warhorse)	      75      - 	140	-	-
+Cataphract Cavalry (composite bow, sword, shield, plate, chain barded medium warhorse)        75      -         140     -       -
 
-Beast Riders (spear, short sword, shield, leather or scale armor, dire wolf or giant boar)    -	      -		-	15	35
+Beast Riders (spear, short sword, shield, leather or scale armor, dire wolf or giant boar)    -       -         -       15      35
 
 
-### Mercenary Type	     	   	  	  	  Base Morale
+### Mercenary Type                                        Base Morale
 
-Peasants, Conscripts/Militia			  -2
+Peasants, Conscripts/Militia                      -2
 
-Barbarians, Light Infantry, Bowmen, Slingers	  -1
+Barbarians, Light Infantry, Bowmen, Slingers      -1
 
-Heavy Infantry, Longbowmen, Crossbowmen		  0
+Heavy Infantry, Longbowmen, Crossbowmen           0
 
-Light Cavalry, Medium cavalry, Horse Archers	  +1
+Light Cavalry, Medium cavalry, Horse Archers      +1
 
-Heavy Cavalry, Cataphract Cavalry    		  +2
+Heavy Cavalry, Cataphract Cavalry                 +2
 
-Fanatics, Berserkers	  			  +4
+Fanatics, Berserkers                              +4
 
 
 ### Mercenaries have morale like henchmen, but mercenary morale is based on their training and equipment rather than the personal magnetism of their employers. Mercenaries may have additional bonuses or penalties to morale based on working conditions. If the mercenaries are being killed frequently or subjected to other abuses, morale will be low. If the mercenaries are enjoying riches and excitement, it might be higher. All of these factors are considered by the Judge.
@@ -925,29 +925,29 @@ Spellcaster (Various): Spellcasters are arcane and divine casters retained to ca
 
 ### Spell Availability by Market
 
-Spell Type and Level	Cost	Class I   Class II   Class III   Class IV   Class V   Class VI  
+Spell Type and Level    Cost    Class I   Class II   Class III   Class IV   Class V   Class VI  
 
-Divine-1st level	10gp	2d3x100	  4d4x10     5d10  	 4d6   	    2d6	      1d6
+Divine-1st level        10gp    2d3x100   4d4x10     5d10        4d6        2d6       1d6
 
-Divine-2nd level	40gp	8d10	  4d6	     2d6	 2d3	    1d3	      1d2
+Divine-2nd level        40gp    8d10      4d6        2d6         2d3        1d3       1d2
 
-Divine-3rd level	150gp	2d6	  2d3	     2d3	 1d2	    1d2-1     -
+Divine-3rd level        150gp   2d6       2d3        2d3         1d2        1d2-1     -
 
-Divine-4th level	325gp	2d6	  2d3	     2d3	 1d2	    1d2-1     -
+Divine-4th level        325gp   2d6       2d3        2d3         1d2        1d2-1     -
 
-Divine-5th level	500gp	1d6	  1d4	     1d4	 1d2-1	    -	      -
+Divine-5th level        500gp   1d6       1d4        1d4         1d2-1      -         -
 
-Arcane-1st level	5gp	2d4x100	  2d10x10    2d4x10	 3d10	    2d6	      1d4
+Arcane-1st level        5gp     2d4x100   2d10x10    2d4x10      3d10       2d6       1d4
 
-Arcane-2nd level	20gp	2d6x10	  6d6	     2d6	 2d4	    1d4	      1d2
+Arcane-2nd level        20gp    2d6x10    6d6        2d6         2d4        1d4       1d2
 
-Arcane-3rd level	75gp	4d6	  2d6	     2d3	 1d4	    1d2	      -
+Arcane-3rd level        75gp    4d6       2d6        2d3         1d4        1d2       -
 
-Arcane-4th level	325gp	2d4	  2d3	     1d4	 1d2	    1d2-1     -
+Arcane-4th level        325gp   2d4       2d3        1d4         1d2        1d2-1     -
 
-Arcane-5th level	1,250gp	1d4	  1d4	     1d2	 -	    -	      -
+Arcane-5th level        1,250gp 1d4       1d4        1d2         -          -         -
 
-Arcane-6th level	4,500gp	1d3	  1d3	     1d2-1	 -	    -	      -
+Arcane-6th level        4,500gp 1d3       1d3        1d2-1       -          -         -
 
 
 ### EXAMPLE: Quintus has been slain, while his companions (Balbus, Creven, and Marcus) have been infected with lycanthropy in a battle with wererats. The adventurers travel to a Class III market to seek restore life and limb for Quintus and cure disease for the rest of the party. The Judge rolls on the Spell Availability by Market table to determine the availability of these spells. 

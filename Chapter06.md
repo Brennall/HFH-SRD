@@ -79,43 +79,43 @@ The wilderness is not cramped like in a dungeon, and characters can usually see 
 
 Long-distance movement rates when traveling in the wilderness are related directly to exploration movement rates, as shown on the table below:
 
-Exploration Movement(Feet per Turn)	    Wilderness Movement(Miles per Day)
+Exploration Movement(Feet per Turn)         Wilderness Movement(Miles per Day)
 
-30'	    		      		    6
+30'                                         6
 
-60'					    12
+60'                                         12
 
-90'					    18
+90'                                         18
 
-120'					    24
+120'                                        24
 
-150'					    30
+150'                                        30
 
-180'					    36
+180'                                        36
 
-210'					    42
+210'                                        42
 
-240'					    48
+240'                                        48
 
-270'					    54
+270'                                        54
 
-300'					    60
+300'                                        60
 
-330'					    66
+330'                                        66
 
-360'					    72
+360'                                        72
 
 
 ### Naturally, any party traveling together moves at the rate of the slowest member. The movement rates shown on the table above are figured based on an 8 hour day of travel through open, clear terrain.  The terrain type will alter the rate somewhat, as shown on this table:
 
 
-### Terrain	       	     	       		Movement Multiplier
+### Terrain                                     Movement Multiplier
 
-Desert, hills, wooded areas		x2/3
+Desert, hills, wooded areas             x2/3
 
-Thick jungle, swamps, mountains		x1/2
+Thick jungle, swamps, mountains         x1/2
 
-Road travel, clear wide trails		x3/2
+Road travel, clear wide trails          x3/2
 
 
 ### For example, if characters can travel 24 miles normally, but are following roads, they can travel 36 miles a day (24 x 3/2). If they are traveling through swampy land, they travel 12 miles (24 x 1/2) per day. Furthermore, certain kinds of terrain can slow travel at the Judge's discretion, such as if the characters have to cross canyons, large rivers, or other formations. 
@@ -129,19 +129,19 @@ Unless there is an encounter, the Judge will direct players through time in incr
 
 Characters can confidently follow trails, roads, and other well-known landmarks without fear of becoming lost. However, when traveling across the wilderness it is easy to lose direction. At the start of each day of travel, the Judge will make a proficiency throw against the appropriate value from the table below to determine if the adventuring party gets lost. If any member of the party has the Navigation proficiency (as described in the Proficiencies chapter), the party should receive a +4 bonus on the proficiency throw. 
 
-Terrain	       		   Navigation
+Terrain                    Navigation
 
-Plains	       		   4+
+Plains                     4+
 
-Mountains or Hills	   7+
+Mountains or Hills         7+
 
-Forest or Coast		   7+
+Forest or Coast            7+
 
-Open Sea  		   11+
+Open Sea                   11+
 
-Desert			   11+
+Desert                     11+
 
-Jungle or Swamp		   11+
+Jungle or Swamp            11+
 
 
 ### If the roll indicates that the group is lost, they likely will not realize it immediately. They will set out for their travels, and may not understand they are off course for days. The Judge determines which direction the group is traveling. One option is to pick a direction only slightly off of course. For example, if the adventurers intended to go south, they could actually be heading southwest or west. If using a hex map, the Judge can randomly determine the direction that the adventures travel by assigning each hex face a value from 1 to 6, and then rolling 1d6 to determine which hex face the adventurers head towards. 
@@ -181,35 +181,35 @@ Structural hit points operate in the same manner as hit points do for monsters a
 Sea Vessel
 
 
-### 			Crew			      Feet per Round	 Miles per Day		Cargo (stone)	    Armor Class	  Structural Hit Points
+###                     Crew                          Feet per Round     Miles per Day          Cargo (stone)       Armor Class   Structural Hit Points
 
-	     		Sailors   Rowers   Marines    Sailing   Rowing   Sailing   Rowing  
+                        Sailors   Rowers   Marines    Sailing   Rowing   Sailing   Rowing  
 
-Boat, river	 	-	   1	    1	      -		60'	 -	   36		400		    1		  20 - 45
+Boat, river             -          1        1         -         60'      -         36           400                 1             20 - 45
 
-Boat, sailing	 	1	   -	    -	      45'	-	 72	   -		600		    1		  20 - 45
+Boat, sailing           1          -        -         45'       -        72        -            600                 1             20 - 45
 
-Canoe 		 	-	   1	    -	      -		60'	 -	   18		60		    0		  5 - 10
+Canoe                   -          1        -         -         60'      -         18           60                  0             5 - 10
 
-Galley, large	 	20	   180	    50	      60'	120'	 90	   50		4000		    2		  95 - 120
+Galley, large           20         180      50        60'       120'     90        50           4000                2             95 - 120
 
-Galley, small	 	10	   60	    20	      60'	150'	 90	   60		2000		    1		  75 - 100
+Galley, small           10         60       20        60'       150'     90        60           2000                1             75 - 100
 
-Galley, war	 	30	   300	    75	      45'	120'	 72	   50		6000		    2		  125 - 150
+Galley, war             30         300      75        45'       120'     72        50           6000                2             125 - 150
 
-Lifeboat	 	-	   1	    -	      -		30'	 -	   18		150		    0		  12 - 18
+Lifeboat                -          1        -         -         30'      -         18           150                 0             12 - 18
 
-Longship	 	75	   (60)	    (75)      60'	150'	 90	   60		2000		    1		  65 - 80
+Longship                75         (60)     (75)      60'       150'     90        60           2000                1             65 - 80
 
-Raft		 	1	   -	    -	      -		30'	 -	   12		2.5 per sq. foot    0		  5 per sq. foot
+Raft                    1          -        -         -         30'      -         12           2.5 per sq. foot    0             5 per sq. foot
 
-Sailing Ship, large	20	   -	    -	      45'	-	 72	   -		30000	    	    2		  125 - 180
+Sailing Ship, large     20         -        -         45'       -        72        -            30000               2             125 - 180
 
-Sailing Ship, small	12	   -	    -	      60'	-	 90	   -		10000		    1		  65 - 90
+Sailing Ship, small     12         -        -         60'       -        90        -            10000               1             65 - 90
 
-Troop Transport, large	20	   -	    50	      45'	-	 72	   -		30000		    2		  150 - 200
+Troop Transport, large  20         -        50        45'       -        72        -            30000               2             150 - 200
 
-Troop Transport, small	12	   -	    25	      60'	-	 90	   -		10000		    1		  90 - 110
+Troop Transport, small  12         -        25        60'       -        90        -            10000               1             90 - 110
 
 
 ### Sea Movement
@@ -219,42 +219,42 @@ Long-distance movement rates when traveling at sea are based on the type of vess
 Movement of sailed ships varies depending on weather conditions, as shown on the following table.  Sailing movement modifiers shown apply when sailing with the wind; sailing against the wind involves tacking (called "zigzagging" by landlubbers) which reduces movement rates two rows on the table (from Average Winds to Light Breeze, for instance).
 
 
-### d12	 Wind Direction
+### d12  Wind Direction
 
-1	 Northerly
+1        Northerly
 
-2	 Northeasterly
+2        Northeasterly
 
-3	 Easterly
+3        Easterly
 
-4	 Southeasterly
+4        Southeasterly
 
-5	 Southerly
+5        Southerly
 
-6	 Southwesterly
+6        Southwesterly
 
-7	 Westerly
+7        Westerly
 
-8	 Northwesterly
+8        Northwesterly
 
-9-12	 Prevailing wind direction for this locale
+9-12     Prevailing wind direction for this locale
 
 
-### d20	 Wind Conditions 	   Sailing
+### d20  Wind Conditions           Sailing
 
-1	 Becalmed 		   x0
+1        Becalmed                  x0
 
-2-4	 Light Breeze		   x1/3
+2-4      Light Breeze              x1/3
 
-5-8	 Moderate Breeze	   x2/3
+5-8      Moderate Breeze           x2/3
 
-9-12	 Average Winds		   x1
+9-12     Average Winds             x1
 
-13-16	 Strong Winds		   x1 1/3
+13-16    Strong Winds              x1 1/3
 
-17-19	 Very Strong Winds	   x1 2/3
+17-19    Very Strong Winds         x1 2/3
 
-20	 Gale 	     		   x2
+20       Gale                      x2
 
 
 ### Becalmed:  Sailing ships cannot move. Oared ships may move at the given rowing movement rate.
@@ -269,13 +269,13 @@ Gale:  Sailing against the wind is not possible, and ships exposed to a gale may
 Getting lost is easy to do in the trackless expanse of endless ocean. At the start of each day of travel, the Judge will make a proficiency throw against the appropriate value from the table below to determine if the party's ships get lost. If any member of the party has the Navigation proficiency (as described in the Proficiencies chapter), the party should receive a +4 bonus on the proficiency throw. 
 
 
-### Terrain	     	Navigation
+### Terrain             Navigation
 
-River or lake	4+
+River or lake   4+
 
-Coast 	 	7+
+Coast           7+
 
-Open Sea	11+
+Open Sea        11+
 
 
 ### If the adventuring party becomes lost, the Judge will decide which direction the group is traveling, and how far off it is from their intended direction. He should adjust his description of the wind direction to reflect the direction the group believes it is traveling until they figure out their mistake.
@@ -335,11 +335,11 @@ In such circumstances, the Judge makes a surprise roll for the monsters and/or t
 
 ### Surprise
 
-Adjusted Die Roll	Result
+Adjusted Die Roll       Result
 
-2-	     		Surprised
+2-                      Surprised
 
-3-6+			Ready
+3-6+                    Ready
 
 
 ### Surprised monsters or characters are caught off guard for one round.  Surprised opponents can be attacked with a +2 bonus to the attack throw, and gain no benefit from their shields (if any). Thieves can backstab surprised opponents. If all characters and monsters in an encounter are surprised, no one acts for the entire first round, but the second round initiative is rolled normally. Ready characters or monsters are on their guard and may act in the first round. 
@@ -375,17 +375,17 @@ In cases where the reaction of the monsters to the party is not obvious, a react
 
 ### Monster Reaction
 
-Adjusted Die Roll	Result
+Adjusted Die Roll       Result
 
-2-	     		Hostile, attacks
+2-                      Hostile, attacks
 
-3-5			Unfriendly, may attack
+3-5                     Unfriendly, may attack
 
-6-8			Neutral, uncertain
+6-8                     Neutral, uncertain
 
-9-11			Indifferent, uninterested
+9-11                    Indifferent, uninterested
 
-12+			Friendly, helpful
+12+                     Friendly, helpful
 
 
 ### A result of Hostile means that the adventurers have so offended the monsters that they attack immediately. An Unfriendly result means that the monsters do not like the adventurers, and will attack if they may reasonably do so.  A Neutral result simply means that the monsters will consider letting the adventurers live if they choose to parley; it does not necessarily mean that the monsters like the adventurers. An Indifferent result means that monsters will ignore the adventurers if possible and negotiate if not. A Friendly result means that the monsters (or perhaps only the monster leader) do, in fact, like the adventurers; this does not mean that the monsters will just hand over their treasure, but it does indicate that they may choose to cooperate with the adventurers in mutually beneficial ways. Friendly monsters can be recruited as hirelings (see Hirelings, Henchmen, Mercenaries, and Specialists) with a successful roll on the Reaction to Hiring Offer table.
@@ -414,17 +414,17 @@ Encounters will generally occur at much longer ranges in the wilderness, and adv
 
 ### Wilderness Evasion 
 
-Evading Party Size	Evasion Throw		Pursuing Group Size Modifier
+Evading Party Size      Evasion Throw           Pursuing Group Size Modifier
 
-	      					Up to 25%      26-75%	76%+
+                                                Up to 25%      26-75%   76%+
 
-Up to 4			11+			0     	       +4	+8
+Up to 4                 11+                     0              +4       +8
 
-5 to 12			14+			0	       +3	+5
+5 to 12                 14+                     0              +3       +5
 
-13 to 24		16+			0	       +3	+5
+13 to 24                16+                     0              +3       +5
 
-25+   			19+			0	       +3	+5
+25+                     19+                     0              +3       +5
 
 
 ### EXAMPLE: If a party of four is fleeing 1 pursuer, they must throw an 11+ to escape because the number of pursuers equals 25% of the fleeing party's number, which applies no modifier to the base chance of escape. If they are fleeing two pursuers, they escape on a 7+ because the number of pursuers equals 50% of the fleeing group, which applies a +4 bonus to the chance of escape.
@@ -441,19 +441,19 @@ When two sea vessels, or a sea vessel and a monster, encounter one another, one 
 
 ### Sea Evasion
 
-Evading vessel is	Evasion Throw
+Evading vessel is       Evasion Throw
 
-Faster than pursuer	5+
+Faster than pursuer     5+
 
-0'-30'/round slower	11+
+0'-30'/round slower     11+
 
-31'-60'/round slower	13+
+31'-60'/round slower    13+
 
-61'-91'/round slower	15+
+61'-91'/round slower    15+
 
-91'-120''/round slower	17+
+91'-120''/round slower  17+
 
-121'+/round slower	19+
+121'+/round slower      19+
 
 
 ### If the evading party is successful, the pursuers cannot try to catch up with the evading party for 24 hours, and then only if a random encounter roll indicates an encounter. If the evading party fails their roll to evade, the pursuer starts at the distance it was spotted and begins to gain on the evading party. If the pursuer is slower than the other party or if the pursuer's speed is no greater than 30' more than the fleeing party, it will gain on the evading party at a rate of 30' (10 yards) per round. If the pursuer's speed is more than 30' faster than the fleeing party, the pursuer will gain on the fleeing party at a rate equal to the difference in speed each round.
@@ -519,31 +519,31 @@ Helpless Targets: Regardless of attack throw and AC, all attacks on sleeping, pa
 
 ### Character Attack Throws
 
-Attacking Character Level			Attack Throw Value
+Attacking Character Level                       Attack Throw Value
 
 Fighters    Clerics/Thieves    Mages
 
-0*	    0		       0		11+
+0*          0                  0                11+
 
-1	    1-2		       1-3		10+
+1           1-2                1-3              10+
 
-2-3	    3-4		       4-6		9+
+2-3         3-4                4-6              9+
 
-4	    5-6		       7-9		8+
+4           5-6                7-9              8+
 
-5-6	    7-8		       10-12		7+
+5-6         7-8                10-12            7+
 
-7	    9-10	       13-15		6+
+7           9-10               13-15            6+
 
-8-9	    11-12	       -		5+
+8-9         11-12              -                5+
 
-10	    13-14	       -		4+
+10          13-14              -                4+
 
-11-12	    -		       -		3+
+11-12       -                  -                3+
 
-13	    -		       -		2+
+13          -                  -                2+
 
-14-15	    -		       -		1+
+14-15       -                  -                1+
 *Includes all 0th level humans. 
 
 
@@ -576,37 +576,37 @@ The attack throw with missile weapons is affected by Dexterity adjustments, whic
 All missile weapons have ranges, which must be taken into account when trying to strike an opponent at a distance. There are no bonuses or penalties for striking an opponent at short range. There is a penalty of -2 on the attack throw against an opponent that is at medium range, and a -5 penalty on the attack throw against an opponent at long range. If an opponent is further away than the long range listed, the missile weapon cannot hit that opponent at all. The Missile Weapon Ranges table shows the short, medium, and long range of various missile weapons. 
 
 
-###     	    	    Missile Weapon Ranges
+###                         Missile Weapon Ranges
 
-		    Short Range   Medium Range   Long Range
+                    Short Range   Medium Range   Long Range
 
-Weapon		    0	  	  -2	 	 -5
+Weapon              0             -2             -5
 
-Arbalest	    Up to 90'	  ...to 180'	 ...to 360'
+Arbalest            Up to 90'     ...to 180'     ...to 360'
 
-Axe (thrown)	    Up to 10'	  ...to 20'	 ...to 30'
+Axe (thrown)        Up to 10'     ...to 20'      ...to 30'
 
-Bow, Composite	    Up to 70'	  ... to 140'	 ...to 210'
+Bow, Composite      Up to 70'     ... to 140'    ...to 210'
 
-Bow, Long	    Up to 70'	  ...to 140'	 ...to 210'
+Bow, Long           Up to 70'     ...to 140'     ...to 210'
 
-Bow, Short	    Up to 50'	  ...to 100'	 ...to 150'
+Bow, Short          Up to 50'     ...to 100'     ...to 150'
 
-Crossbow	    Up to 80'	  ...to 160'	 ...to 240'
+Crossbow            Up to 80'     ...to 160'     ...to 240'
 
-Dagger (thrown)	    Up to 10'	  ...to 20'	 ...to 30'
+Dagger (thrown)     Up to 10'     ...to 20'      ...to 30'
 
-Dart   		    Up to 15'	  ...to 30'	 ...to 45'
+Dart                Up to 15'     ...to 30'      ...to 45'
 
-Holy water	    Up to 10'	  ...to 30'	 ...to 50'
+Holy water          Up to 10'     ...to 30'      ...to 50'
 
-Javelin		    Up to 20'	  ...to 40'	 ...to 60'
+Javelin             Up to 20'     ...to 40'      ...to 60'
 
-Oil		    Up to 10'	  ...to 30'	 ...to 50'
+Oil                 Up to 10'     ...to 30'      ...to 50'
 
-Sling		    Up to 45'	  ...to 90'	 ...to 180'
+Sling               Up to 45'     ...to 90'      ...to 180'
 
-Spear		    Up to 20'	  ...to 40'	 ...to 60'
+Spear               Up to 20'     ...to 40'      ...to 60'
 
 
 ### All missile attacks are subject to the ordinary combat rules of initiative and surprise. In addition, cover is a factor that can influence missile attacks. An attacker cannot hit any opponent that is entirely behind a barrier. However, the Judge may allow an attack throw with a -1 to -4 penalty if the target is only partly under cover. For example, if a character were attempting to strike an opponent through a small window, the Judge might call for a penalty of -4. If the opponent were only partly covered, such as by small furniture, the penalty might only be -2. 
@@ -750,83 +750,83 @@ Spells covers any magical effect from a cast spell not covered by one of the ear
 
 ### Fighter Saving Throws
 
-Level	Petrification & Paralysis	Poison & Death	Blast & Breath	Staffs & Wands	Spells 
+Level   Petrification & Paralysis       Poison & Death  Blast & Breath  Staffs & Wands  Spells 
 
-0*	16+	      			15+    	 	17+   		17+    	 	18+
+0*      16+                             15+             17+             17+             18+
 
-1	15+				14+		16+		16+		17+
+1       15+                             14+             16+             16+             17+
 
-2-3	14+				13+		15+		15+		16+
+2-3     14+                             13+             15+             15+             16+
 
-4	13+				12+		14+		14+		15+
+4       13+                             12+             14+             14+             15+
 
-5-6	12+				11+		13+		13+		14+
+5-6     12+                             11+             13+             13+             14+
 
-7	11+				10+		12+		12+		13+
+7       11+                             10+             12+             12+             13+
 
-8-9	10+				9+		11+		11+		12+
+8-9     10+                             9+              11+             11+             12+
 
-10	9+				8+		10+		10+		11+
+10      9+                              8+              10+             10+             11+
 
-11-12	8+				7+		9+		9+		10+
+11-12   8+                              7+              9+              9+              10+
 
-13	7+				6+		8+		8+		9+
+13      7+                              6+              8+              8+              9+
 
-14+	6+				5+		7+		7+		8+
+14+     6+                              5+              7+              7+              8+
 *Includes all 0th level humans.
 
 
 ### Cleric Saving Throws
 
-Level    Petrification & Paralysis	Poison & Death	Blast & Breath	Staffs & Wands	Spells
+Level    Petrification & Paralysis      Poison & Death  Blast & Breath  Staffs & Wands  Spells
 
-1-2	 13+	       	 		10+    	 	16+   		13+    	 	15+
+1-2      13+                            10+             16+             13+             15+
 
-3-4	 12+				9+		15+		12+		14+
+3-4      12+                            9+              15+             12+             14+
 
-5-6	 11+				8+		14+		11+		13+
+5-6      11+                            8+              14+             11+             13+
 
-7-8	 10+				7+		13+		10+		12+
+7-8      10+                            7+              13+             10+             12+
 
-9-10	 9+				6+		12+		9+		11+
+9-10     9+                             6+              12+             9+              11+
 
-11-12	 8+				5+		11+		8+		10+
+11-12    8+                             5+              11+             8+              10+
 
-13- 14+	 7+				4+		10+		7+		9+
+13- 14+  7+                             4+              10+             7+              9+
 
 
 ### Mage Saving Throws
 
-Level	    Petrification & Paralysis	Poison & Death	Blast & Breath	Staffs & Wands	Spells
+Level       Petrification & Paralysis   Poison & Death  Blast & Breath  Staffs & Wands  Spells
 
-1-3	    13+		    		13+		15+   		11+    	 	12+
+1-3         13+                         13+             15+             11+             12+
 
-4-6	    12+				12+		14+		10+		11+
+4-6         12+                         12+             14+             10+             11+
 
-7-9	    11+				11+		13+		9+		10+
+7-9         11+                         11+             13+             9+              10+
 
-10-12	    10+				10+		12+		8+		9+
+10-12       10+                         10+             12+             8+              9+
 
-13-14+	    9+				9+		11+		7+		8+
+13-14+      9+                          9+              11+             7+              8+
 
 
 ### Thief Saving Throws
 
-Level 	     Petrification & Paralysis	Poison & Death	Blast & Breath	Staffs & Wands	Spells
+Level        Petrification & Paralysis  Poison & Death  Blast & Breath  Staffs & Wands  Spells
 
-1-2	     13+	     		13+    	 	16+   		14+    	 	15+
+1-2          13+                        13+             16+             14+             15+
 
-3-4	     12+			12+		15+		13+		14+
+3-4          12+                        12+             15+             13+             14+
 
-5-6	     11+			11+		14+		12+		13+
+5-6          11+                        11+             14+             12+             13+
 
-7-8	     10+			10+		13+		11+		12+
+7-8          10+                        10+             13+             11+             12+
 
-9-10	     9+				9+		12+		10+		11+
+9-10         9+                         9+              12+             10+             11+
 
-11-12	     8+				8+		11+		9+		10+
+11-12        8+                         8+              11+             9+              10+
 
-13-14+	     7+				7+		10+		8+		9+
+13-14+       7+                         7+              10+             8+              9+
 
 
 ### Special Maneuvers
@@ -894,17 +894,17 @@ The Judge usually makes morale rolls under two conditions: when one side of an e
 
 ### Monster Morale
 
-Adjusted Die Roll	Result
+Adjusted Die Roll       Result
 
-2-	     		Retreat
+2-                      Retreat
 
-3-5			Fighting Withdrawal
+3-5                     Fighting Withdrawal
 
-6-8			Fight On
+6-8                     Fight On
 
-9-11			Advance and Pursue
+9-11                    Advance and Pursue
 
-12+			Victory or Death
+12+                     Victory or Death
 
 
 ### Retreat means that the monsters will make a full retreat (as explained under Defensive Movement) on their next action. Fighting Withdrawal means the monsters will make a fighting withdrawal (as per Defensive Movement) on their next action. The monsters will continue to retreat/withdraw until they are no longer pursued by any enemies, or until a minimum of 1d10 rounds have elapsed. If there is no possibility of escape, the monsters will attempt to surrender, fighting only as a last resort.  A result of Fight On means that the monsters will continue the battle without retreating, but they will not pursue if their opponents flee. Advance and Pursue means the monsters will continue the battle without retreating, going on the offensive where possible, and pursuing should the characters retreat. On a Victory or Death result, the monsters will fight on without retreating or needing to roll morale for the remainder of the battle. They will pursue any retreating opponents, and fight with ferocity and grim determination. 
@@ -971,26 +971,26 @@ Combat between ships (or ships and sea monsters) is fought in combat rounds foll
 
 Ballista
 
-Rate of fire:	1/5 rounds with 4 crew; 1/8 rounds with 3 crew; 1/10 rounds with 2 crew
+Rate of fire:   1/5 rounds with 4 crew; 1/8 rounds with 3 crew; 1/10 rounds with 2 crew
 
-Range:		0-200 yards
+Range:          0-200 yards
 
-Attacks as: 	As the lowest level member of the crew
+Attacks as:     As the lowest level member of the crew
 
-Damage: 	3d6 shp or 3d6 hp
+Damage:         3d6 shp or 3d6 hp
 
 Ballistae can be operated by a variable number of crew, which will affect rate of fire and attack throws as indicated above. Ballistae fire solid missiles that deal 3d6 shp of damage. If ballistae are used against characters or monsters, they do 3d6 hp of damage to all creatures in a 5' line. 
 
 
 ### Catapult
 
-Rate of fire:	1/5 rounds with 4 crew; 1/8 rounds with 3 crew; 1/10 rounds with 2 crew
+Rate of fire:   1/5 rounds with 4 crew; 1/8 rounds with 3 crew; 1/10 rounds with 2 crew
 
-Range:		150-300 yards (light) /200-400 yards (heavy)
+Range:          150-300 yards (light) /200-400 yards (heavy)
 
-Attacks as:	As the lowest level member of the crew
+Attacks as:     As the lowest level member of the crew
 
-Damage:		boulder 3d6/4d6 shp or 3d6/4d6 hp; combustible pitch 1d6/2d6 shp fire per turn or 1d6/2d6 hp fire per round
+Damage:         boulder 3d6/4d6 shp or 3d6/4d6 hp; combustible pitch 1d6/2d6 shp fire per turn or 1d6/2d6 hp fire per round
 
 Catapults can be operated by a variable number of crew, which will affect rate of fire and attack throws as indicated above. When firing boulders, light catapults deal 3d6 shp of damage while heavy catapults deal 4d6 shp of damage. When firing combustible pitch, light catapults deal 1d6 shp of fire damage per turn while heavy catapults deal 2d6 shp of fire damage per turn. It takes a minimum of 5 crewmembers 3 turns to extinguish flames caused by a shot of pitch. For every five additional crewmembers, this time can be reduced by 1 turn to a minimum of 1 turn. 
 
@@ -999,20 +999,20 @@ When catapults firing boulders are used against characters or monsters, light ca
 
 ### Ram
 
-Range:		Touch
+Range:          Touch
 
-Attacks as: 	Monster of under 1 HD
+Attacks as:     Monster of under 1 HD
 
-Damage: 	small vessel (1d4+4) x10 shp or 3d8 hp; large vessel (1d6+5) x10 shp or 6d6 hp
+Damage:         small vessel (1d4+4) x10 shp or 3d8 hp; large vessel (1d6+5) x10 shp or 6d6 hp
 
 In order to ram a monster or enemy vessel, the ramming vessel must reduce the range to 0' and then make a successful attack throw against the target's AC. The different damages listed for a ram apply as follows. The first shp value listed applies to small vessels ramming another vessel, while the first hp value listed applies to small ships ramming large aquatic monsters. Similarly, the second damage values apply to rams on larger ships to other ships or large aquatic monsters, respectively.
 
 
 ### Boarding Actions
 
-Range:		Touch
+Range:          Touch
 
-Attacks as: 	See below
+Attacks as:     See below
 
 In order to board an enemy vessel, the boarding vessel must reduce the range to 0'.  If the occupants of both side-by-side vessels wish to board one another, their mutual intent makes the action succeed with no chance of failure. If only one side wishes to board the other, then the side that wishes to board must throw 13+ on 1d20 to successfully maneuver the two ships to a boarding position and clamp them together with grappling hooks. Grappling may be attempted each round the ships are adjacent. The Judge can apply a bonus or penalty to the die roll based on the experience and skill of the opposing ship's captains. Once crewmembers come into contact with one another, combat ensues following the standard combat rules. On the round that characters are in the act of boarding another ship, they suffer a penalty of -2 to attack throws and Armor Class. Boarding actions continue until the crew of one ship or the other is killed or surrenders.
 
@@ -1049,65 +1049,65 @@ To calculate a monster's XP, begin with the base XP value for its Hit Dice. Add 
 
 ### Monster Experience Points
 
-Monster HD	   Base XP	Bonus XP/Ability
+Monster HD         Base XP      Bonus XP/Ability
 
-Less than 1	   5		1
+Less than 1        5            1
 
-1    	  	   10		3
+1                  10           3
 
-1+		   15		6
+1+                 15           6
 
-2		   20		9
+2                  20           9
 
-2+		   35		12
+2+                 35           12
 
-3		   50		15
+3                  50           15
 
-3+		   65		35
+3+                 65           35
 
-4		   80		55
+4                  80           55
 
-4+		   140		75
+4+                 140          75
 
-5		   200		150
+5                  200          150
 
-5+		   260		200
+5+                 260          200
 
-6		   320		250
+6                  320          250
 
-6+		   380		300
+6+                 380          300
 
-7		   440		350
+7                  440          350
 
-7+		   500		400
+7+                 500          400
 
-8		   600		500
+8                  600          500
 
-9		   700		600
+9                  700          600
 
-10		   850		700
+10                 850          700
 
-11		   1,000	800
+11                 1,000        800
 
-12		   1,200	900
+12                 1,200        900
 
-13		   1,400	1,000
+13                 1,400        1,000
 
-14		   1,600	1,100
+14                 1,600        1,100
 
-15		   1,800	1,200
+15                 1,800        1,200
 
-16		   2,000	1,300
+16                 2,000        1,300
 
-17		   2,200	1,400
+17                 2,200        1,400
 
-18		   2,400	1,500
+18                 2,400        1,500
 
-19		   2,600	1,600
+19                 2,600        1,600
 
-20		   2,800	1,800
+20                 2,800        1,800
 
-21*		   3,000	2,000
+21*                3,000        2,000
 *For monsters of HD 22 and higher, add a cumulative 250 XP for the Base and Bonus categories.
 
 
