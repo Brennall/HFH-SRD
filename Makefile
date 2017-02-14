@@ -1,4 +1,4 @@
-.SUFFIXES: .md .html
+.SUFFIXES: .md .htm .html
 
 .PHONY: all clean
 
@@ -16,17 +16,19 @@ MD= \
     Chapter09.md \
     Chapter10.md
 
-HTML= $(patsubst %.md,%.html,$(MD))
+HTM= $(patsubst %.md,%.htm,$(MD))
 
 all: acks.html
 
 clean:
-	-rm $(HTML)
+	-rm $(HTM)
 	-rm acks.html
 
-acks.html: head.htm $(HTML) foot.htm
-	cat head.htm $(HTML) foot.htm > acks.html
+acks.html: head.htm $(HTM) foot.htm
+	cat head.htm $(HTM) foot.htm > acks.html
 
-.md.html:
+.md.htm:
 	kramdown $< > $@
 
+.htm.html:
+	cat head.htm $< foot.htm > $@
