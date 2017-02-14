@@ -10,7 +10,7 @@ The following terms are used to define the characteristics of monsters.
 
 % In Lair: This indicates the percentage chance of encountering the monster in its lair. Monsters are usually present in greater numbers when encountered in their lair, and may have treasure appropriate to the type. 
 
-Dungeon Encounter: This category details the typical encounter that will occur with this monster in a dungeon setting. Each entry will be listed as: [Collective Noun] (Number Encountered) / [Collective Noun] (Number Encountered)
+Dungeon Encounter: This category details the typical encounter that will occur with this monster in a dungeon setting. Each entry will be listed as: \[Collective Noun\] (Number Encountered) / \[Collective Noun\] (Number Encountered)
 
 EXAMPLE: The Dungeon Encounter listing for Orcs reads "Gang (2d4) / Lair (1 warband)". 
 
@@ -177,7 +177,7 @@ XP:             500
 
 The ankheg is a burrowing monster with a taste for fresh meat. An ankheg has six legs, and varies in shade from yellow to brown. It is about 10' long and weighs about 800 pounds.
 
-An ankheg burrows with legs and mandibles. A burrowing ankheg usually does not make a usable tunnel, but can construct one when necessary; it burrows at half speed when it does so. It often digs a winding tunnel up to 40 feet below the surface in the rich soil of forests or farmlands. The tunnel is a tube, 5' in diameter, from 60' to 150' long ([1d10 + 5] x 10). An ankheg usually lies in its tunnel, 5' to 10' below the surface, until its antennae detect the approach of prey. It then burrows up to attack. Clusters of ankhegs share the same territory but do not cooperate.
+An ankheg burrows with legs and mandibles. A burrowing ankheg usually does not make a usable tunnel, but can construct one when necessary; it burrows at half speed when it does so. It often digs a winding tunnel up to 40 feet below the surface in the rich soil of forests or farmlands. The tunnel is a tube, 5' in diameter, from 60' to 150' long (\[1d10 + 5\] x 10). An ankheg usually lies in its tunnel, 5' to 10' below the surface, until its antennae detect the approach of prey. It then burrows up to attack. Clusters of ankhegs share the same territory but do not cooperate.
 
 If an ankheg hits an opponent, it inflicts 3d6 points of damage plus an additional 1d4 points of damage from digestive acid excreted by its mandibles. The target must also save versus Paralysis or be grabbed. Grabbed victims are helpless until they escape by making a successful saving throw versus Paralysis on their turn. Once an ankheg has grabbed its prey, it will retreat down its tunnel at its burrow speed, dragging the victim with it. If the ankheg is damaged after grabbing its prey, it will retreat backward down its tunnel at its land speed (not its burrow speed). 
 

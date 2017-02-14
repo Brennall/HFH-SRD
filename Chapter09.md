@@ -597,21 +597,21 @@ Roll d00        Type
 
 01-06           Rod of Cancellation
 
-07-08           Rod of Resurrection [D]
+07-08           Rod of Resurrection \[D\]
 
-09-10           Staff of Commanding [D]
+09-10           Staff of Commanding \[D\]
 
-11-20           Staff of Healing [D]
+11-20           Staff of Healing \[D\]
 
-21-22           Staff of Power [A]
+21-22           Staff of Power \[A\]
 
-23-26           Staff of Striking [D]
+23-26           Staff of Striking \[D\]
 
-27-28           Staff of Withering [D]
+27-28           Staff of Withering \[D\]
 
-29              Staff of Wizardry [A]
+29              Staff of Wizardry \[A\]
 
-30-36           Staff of the Serpent [D]
+30-36           Staff of the Serpent \[D\]
 
 37-40           Wand of Cold 
 
@@ -1209,7 +1209,7 @@ Each of these magic items generally uses a "charge" when its effect is triggered
 ### Rod of Cancellation: This item is highly feared by those who value their magic items, for with but one touch of this rod, a magic item permanently loses all of its power and becomes an ordinary item. When attempting to strike an item on an opponent, treat the attack as if it needs to hit an AC of 0. The Judge, depending on the circumstances, may adjust this value. This rod is usable once and may not be recharged.
 
 
-### Rod of Resurrection [D]: A cleric or other divine spellcaster of any level may use this rod one time per day to raise beings from the dead as the resurrection ritual spell. The caster using this rod does not need to rest after expending charges from the rod. Different kinds of characters may be resurrected, and each type requires a different number of charges. When all charges from the rod are used, it crumbles into dust.
+### Rod of Resurrection \[D\]: A cleric or other divine spellcaster of any level may use this rod one time per day to raise beings from the dead as the resurrection ritual spell. The caster using this rod does not need to rest after expending charges from the rod. Different kinds of characters may be resurrected, and each type requires a different number of charges. When all charges from the rod are used, it crumbles into dust.
 
 
 ### Charges                 Character Type
@@ -1227,25 +1227,25 @@ Each of these magic items generally uses a "charge" when its effect is triggered
 4                   Thief or Assassin
 
 
-### Staff of Commanding [D]: This staff may be used to command plants, animals, and humans in the same manner as the rings command animal, command human, and command plant. Each use requires one charge.
+### Staff of Commanding \[D\]: This staff may be used to command plants, animals, and humans in the same manner as the rings command animal, command human, and command plant. Each use requires one charge.
 
 
-### Staff of Healing [D]: This staff does not employ charges. It heals any creature touched 1d6+1 hit points. The staff can only be used one time per creature per day, but may heal an unlimited number of creatures in a day.
+### Staff of Healing \[D\]: This staff does not employ charges. It heals any creature touched 1d6+1 hit points. The staff can only be used one time per creature per day, but may heal an unlimited number of creatures in a day.
 
 
-### Staff of Power [A]: This powerful staff has several abilities. First, it can be used to cast the spells cone of cold, lightning bolt, and fireball (each dealing 8d6 points of damage). In addition, the staff may be used to cast continual light and telekinesis (with a weight limit of 25 stone). Finally, this staff can also be used with the same effect as a staff of striking.
+### Staff of Power \[A\]: This powerful staff has several abilities. First, it can be used to cast the spells cone of cold, lightning bolt, and fireball (each dealing 8d6 points of damage). In addition, the staff may be used to cast continual light and telekinesis (with a weight limit of 25 stone). Finally, this staff can also be used with the same effect as a staff of striking.
 
 
-### Staff of Striking [D]: This staff strikes as a staff +1. With the expenditure of one charge and a successful attack roll, this staff can be used to strike an opponent for 2d6+1 points of damage.
+### Staff of Striking \[D\]: This staff strikes as a staff +1. With the expenditure of one charge and a successful attack roll, this staff can be used to strike an opponent for 2d6+1 points of damage.
 
 
-### Staff of Withering [D]: This staff functions as a staff +1 that deals 2d6+1 points of damage when a charge is used. By using 2 charges and successfully striking an opponent, the staff ages a victim by 10 years. If three charges are spent in this attack, one of the victim's limbs will shrivel into a mummified, useless member (saving throw versus Staffs is allowed). The aging effect will automatically kill most creatures that have a short lifespan. Also note that effects of spent charges are cumulative, such that if 3 charges are used, the victim will not only receive damage, but he will be aged and have a withered limb.
+### Staff of Withering \[D\]: This staff functions as a staff +1 that deals 2d6+1 points of damage when a charge is used. By using 2 charges and successfully striking an opponent, the staff ages a victim by 10 years. If three charges are spent in this attack, one of the victim's limbs will shrivel into a mummified, useless member (saving throw versus Staffs is allowed). The aging effect will automatically kill most creatures that have a short lifespan. Also note that effects of spent charges are cumulative, such that if 3 charges are used, the victim will not only receive damage, but he will be aged and have a withered limb.
 
 
-### Staff of Wizardry [A]: This staff has all the powers of a staff of power. In addition, the staff may be used to cast the spells conjure elementals, invisibility, passwall, and web. The staff can also be used to create a whirlwind (identical to that created by a djinni) and can be used as a wand of paralyzation. Each of these abilities requires one charge. The staff may also be broken for a final blow. The results of a final blow depend on the number of charges in the staff. For each charge, 8 points of damage are dealt in a grand fireball to all monsters and characters (even the owner of the staff) within 30'. The staff is then broken and useless.
+### Staff of Wizardry \[A\]: This staff has all the powers of a staff of power. In addition, the staff may be used to cast the spells conjure elementals, invisibility, passwall, and web. The staff can also be used to create a whirlwind (identical to that created by a djinni) and can be used as a wand of paralyzation. Each of these abilities requires one charge. The staff may also be broken for a final blow. The results of a final blow depend on the number of charges in the staff. For each charge, 8 points of damage are dealt in a grand fireball to all monsters and characters (even the owner of the staff) within 30'. The staff is then broken and useless.
 
 
-### Staff of the Serpent [D]: This staff does not employ charges. It strikes as a staff +1. The user can command the staff to grow to become a giant constrictor snake and constrict around a victim (AC 4, HD 3, hp 20, MV 20'). The command for the staff to become a snake is uttered as it strikes a victim. The victim must succeed in a saving throw versus Paralysis or be held immobile by the constricting snake for 1d4 turns, or until the owner commands the snake to release him. The serpent returns to the owner and returns to staff form after it has constricted around an opponent. If the snake form is slain, it will not return to staff form and the staff is destroyed. When the snake returns to staff form, all damage it has sustained in combat is automatically healed.
+### Staff of the Serpent \[D\]: This staff does not employ charges. It strikes as a staff +1. The user can command the staff to grow to become a giant constrictor snake and constrict around a victim (AC 4, HD 3, hp 20, MV 20'). The command for the staff to become a snake is uttered as it strikes a victim. The victim must succeed in a saving throw versus Paralysis or be held immobile by the constricting snake for 1d4 turns, or until the owner commands the snake to release him. The serpent returns to the owner and returns to staff form after it has constricted around an opponent. If the snake form is slain, it will not return to staff form and the staff is destroyed. When the snake returns to staff form, all damage it has sustained in combat is automatically healed.
 
 
 ### Wand of Cold: A chilling cone 60' long and 30' wide at the terminal end is discharged from this wand. Any beings within the cone of cold will suffer 6d6 points of damage unless they succeed in a saving throw versus Blast, which reduces damage to half. One charge is expended per usage.
