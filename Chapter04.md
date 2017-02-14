@@ -15,14 +15,14 @@ Note that some proficiencies appear on both the general list and the class lists
 
 ### Gaining Proficiencies
 
-All characters may choose one additional proficiency from the general list at levels 5, 9, and (if maximum level permits) 13. Characters may choose one additional proficiency chosen from their class list each time they complete a full (2-point) saving throw progression. Thus, fighters get a new proficiency from their class list at level 3, 6, 9, and 12; clerics and thieves get a new proficiency from their class list at 4, 8, and 12; and mages get a new proficiency from their class list at 6 and 12. This is summarized on the Proficiencies Gained per Level table, below. Levels exceeding a class's maximum level are marked with a "-".
+All characters may choose one additional proficiency from the general list at levels 5, 9, and (if maximum level permits) 13. Characters may choose one additional proficiency chosen from their class list each time they complete a full (2-point) saving throw progression. Thus, fighters get a new proficiency from their class list at level 3, 6, 9, and 12; clerics and thieves get a new proficiency from their class list at 4, 8, and 12; and mages get a new proficiency from their class list at 6 and 12. This is summarized on the Proficiencies Gained per Level table, below. Levels exceeding a class's maximum level are marked with a "*".
 
 Unless its description says otherwise, a proficiency may only be selected once. If a proficiency can be selected more than once, then the proficiency throw value required for success is reduced by 4 each time the proficiency is selected. Unless otherwise noted, all proficiency throws use 1d20.
 
 The Judge may impose limitations on the selection of certain proficiencies depending on his campaign or setting. Otherwise, characters may take any proficiency on the appropriate list.
 
 
-### Proficiencies Gained per Level (C=class prof., G=general prof.)
+### Proficiencies Gained per Level (C=class proficiency, G=general proficiency)
 
 Class               | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   | 11   | 12   | 13   | 14
 :------------------ | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- 
