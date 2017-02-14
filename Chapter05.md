@@ -85,23 +85,25 @@ Characters with the Sensing Power proficiency will sense the spell signature of 
 
 #### First Level Arcane Spells
 
----: | :--------------------------
-1    | Charm Person
-2    | Detect Magic
-3    | Floating Disc
-4    | Hold Portal
-5    | Light*
-6    | Magic Missile
-7    | Magic Mouth
-8    | Protection from Evil*
-9    | Read Languages
-10   | Shield
-11   | Sleep
-12   | Ventriloquism
+d12   | Spell
+----: | :--------------------------
+1     | Charm Person
+2     | Detect Magic
+3     | Floating Disc
+4     | Hold Portal
+5     | Light*
+6     | Magic Missile
+7     | Magic Mouth
+8     | Protection from Evil*
+9     | Read Languages
+10    | Shield
+11    | Sleep
+12    | Ventriloquism
 
 
 #### Second Level Arcane Spells
 
+d12   | Spell
 ----: | :--------------------------
 1     | Continual Light*
 2     | Detect Evil*
@@ -119,23 +121,25 @@ Characters with the Sensing Power proficiency will sense the spell signature of 
 
 #### Third Level Arcane Spells
 
----: | :--------------------------
-1    | Clairvoyance
-2    | Dispel Magic
-3    | Fireball
-4    | Fly
-5    | Haste*
-6    | Hold Person
-7    | Infravision
-8    | Invisibility 10' radius
-9    | Lightning Bolt
-10   | Protection from Evil, Sustained*
-11   | Protection from Normal Missiles
-12   | Water Breathing
+d12   | Spell
+----: | :--------------------------
+1     | Clairvoyance
+2     | Dispel Magic
+3     | Fireball
+4     | Fly
+5     | Haste*
+6     | Hold Person
+7     | Infravision
+8     | Invisibility 10' radius
+9     | Lightning Bolt
+10    | Protection from Evil, Sustained*
+11    | Protection from Normal Missiles
+12    | Water Breathing
 
 
 #### Fourth Level Arcane Spells
 
+d12   | Spell
 ----: | :--------------------------
 1     | Charm Monster
 2     | Confusion
@@ -153,36 +157,38 @@ Characters with the Sensing Power proficiency will sense the spell signature of 
 
 #### Fifth Level Arcane Spells
 
----: | :--------------------------
-1    | Animate Dead
-2    | Cloudkill
-3    | Conjure Elemental
-4    | Contact Other Plane
-5    | Feeblemind
-6    | Hold Monster
-7    | Magic Jar
-8    | Passwall
-9    | Telekinesis
-10   | Teleport
-11   | Transmute Rock to Mud*
-12   | Wall of Stone
+d12   | Spell
+----: | :--------------------------
+1     | Animate Dead
+2     | Cloudkill
+3     | Conjure Elemental
+4     | Contact Other Plane
+5     | Feeblemind
+6     | Hold Monster
+7     | Magic Jar
+8     | Passwall
+9     | Telekinesis
+10    | Teleport
+11    | Transmute Rock to Mud*
+12    | Wall of Stone
 
 
 #### Sixth Level Arcane Spells
 
----: | :--------------------------
-1    | Anti-Magic Shell
-2    | Control Weather
-3    | Death Spell
-4    | Disintegrate
-5    | Flesh to Stone*
-6    | Geas*
-7    | Invisible Stalker
-8    | Lower Water
-9    | Move Earth
-10   | Projected Image
-11   | Reincarnate
-12   | Wall of Iron
+d12   | Spell
+----: | :--------------------------
+1     | Anti-Magic Shell
+2     | Control Weather
+3     | Death Spell
+4     | Disintegrate
+5     | Flesh to Stone*
+6     | Geas*
+7     | Invisible Stalker
+8     | Lower Water
+9     | Move Earth
+10    | Projected Image
+11    | Reincarnate
+12    | Wall of Iron
 
 
 
@@ -191,21 +197,23 @@ Characters with the Sensing Power proficiency will sense the spell signature of 
 
 #### First Level Divine Spells
 
----: | :--------------------------
-1    | Command Word
-2    | Cure Light Wounds*
-3    | Detect Evil*
-4    | Detect Magic
-5    | Light*
-6    | Protection from Evil*
-7    | Purify Food and Water
-8    | Remove Fear*
-9    | Resist Cold
-10   | Sanctuary
+d10   | Spell
+----: | :--------------------------
+1     | Command Word
+2     | Cure Light Wounds*
+3     | Detect Evil*
+4     | Detect Magic
+5     | Light*
+6     | Protection from Evil*
+7     | Purify Food and Water
+8     | Remove Fear*
+9     | Resist Cold
+10    | Sanctuary
 
 
 #### Second Level Divine Spells
 
+d10   | Spell
 ----: | :--------------------------
 1     | Augury
 2     | Bless*
@@ -221,21 +229,23 @@ Characters with the Sensing Power proficiency will sense the spell signature of 
 
 #### Third Level Divine Spells
 
----: | :--------------------------
-1    | Continual Light*
-2    | Cure Blindness
-3    | Cure Disease*
-4    | Feign Death
-5    | Glyph of Warding
-6    | Growth of Animals
-7    | Locate Object
-8    | Remove Curse*
-9    | Speak with Dead
-10   | Striking
+d10   | Spell
+----: | :--------------------------
+1     | Continual Light*
+2     | Cure Blindness
+3     | Cure Disease*
+4     | Feign Death
+5     | Glyph of Warding
+6     | Growth of Animals
+7     | Locate Object
+8     | Remove Curse*
+9     | Speak with Dead
+10    | Striking
 
 
 #### Fourth Level Divine Spells
 
+d10   | Spell
 ----: | :--------------------------
 1     | Create Water
 2     | Cure Serious Wounds*
@@ -251,38 +261,41 @@ Characters with the Sensing Power proficiency will sense the spell signature of 
 
 #### Fifth Level Divine Spells
 
----: | :--------------------------
-1    | Atonement
-2    | Commune
-3    | Create Food
-4    | Dispel Evil
-5    | Flame Strike
-6    | Insect Plague
-7    | Quest*
-8    | Restore Life and Limb*
-9    | Strength of Mind*
-10   | True Seeing
+d10   | Spell
+----: | :--------------------------
+1     | Atonement
+2     | Commune
+3     | Create Food
+4     | Dispel Evil
+5     | Flame Strike
+6     | Insect Plague
+7     | Quest*
+8     | Restore Life and Limb*
+9     | Strength of Mind*
+10    | True Seeing
 
 
 ### Divine Spell List (Bladedancer)
 
 #### First Level Divine Spells
 
----: | :--------------------------
-1    | Command Word
-2    | Cure Light Wounds*
-3    | Detect Evil*
-4    | Detect Magic
-5    | Faerie Fire
-6    | Fellowship
-7    | Light*
-8    | Protection from Evil*
-9    | Remove Fear*
-10   | Resist Cold
+d10   | Spell
+----: | :--------------------------
+1     | Command Word
+2     | Cure Light Wounds*
+3     | Detect Evil*
+4     | Detect Magic
+5     | Faerie Fire
+6     | Fellowship
+7     | Light*
+8     | Protection from Evil*
+9     | Remove Fear*
+10    | Resist Cold
 
 
 #### Second Level Divine Spells
 
+d10   | Spell
 ----: | :--------------------------
 1     | Bless*
 2     | Charm Animal
@@ -298,21 +311,23 @@ Characters with the Sensing Power proficiency will sense the spell signature of 
 
 #### Third Level Divine Spells
 
----: | :--------------------------
-1    | Continual Light*
-2    | Cure Blindness
-3    | Cure Disease*
-4    | Glyph of Warding
-5    | Growth of Animals
-6    | Locate Object
-7    | Prayer
-8    | Remove Curse*
-9    | Speak with Dead
-10   | Striking
+d10   | Spell
+----: | :--------------------------
+1     | Continual Light*
+2     | Cure Blindness
+3     | Cure Disease*
+4     | Glyph of Warding
+5     | Growth of Animals
+6     | Locate Object
+7     | Prayer
+8     | Remove Curse*
+9     | Speak with Dead
+10    | Striking
 
 
 #### Fourth Level Divine Spells
 
+d10   | Spell
 ----: | :--------------------------
 1     | Create Water
 2     | Cure Serious Wounds*
@@ -328,17 +343,18 @@ Characters with the Sensing Power proficiency will sense the spell signature of 
 
 #### Fifth Level Divine Spells
 
----: | :--------------------------
-1    | Atonement
-2    | Commune
-3    | Create Food
-4    | Dispel Evil
-5    | Flame Strike
-6    | Insect Plague
-7    | Quest*
-8    | Restore Life and Limb*
-9    | Sword of Fire
-10   | True Seeing
+d10   | Spell
+----: | :--------------------------
+1     | Atonement
+2     | Commune
+3     | Create Food
+4     | Dispel Evil
+5     | Flame Strike
+6     | Insect Plague
+7     | Quest*
+8     | Restore Life and Limb*
+9     | Sword of Fire
+10    | True Seeing
 
 
 ### Spell Index
