@@ -525,7 +525,7 @@ Die Roll (1d100)           | Type and Equipment
 91-100                     | Slingers (sling, short sword, shield, leather armor)
 
 
-### Dwarven Craftpriests & Vaultguards
+#### Dwarven Craftpriests & Vaultguards
 
 Die Roll (1d100)           | Type and Equipment
 :------------------------- | :----------------------------------------------------------------------------------------------
@@ -536,7 +536,7 @@ Die Roll (1d100)           | Type and Equipment
 81-100                     | Dwarven Mounted Crossbowmen (crossbow, chainmail, mule)
 
 
-### Elven Spellswords
+#### Elven Spellswords
 
 Die Roll (1d100)           | Type and Equipment
 :------------------------- | :----------------------------------------------------------------------------------------------
@@ -548,7 +548,7 @@ Die Roll (1d100)           | Type and Equipment
 76-100                     | Elven Longbowmen (long bow, sword, chainmail)
 
 
-### Explorers
+#### Explorers
 
 Die Roll (1d100)           | Type and Equipment
 :------------------------- | :----------------------------------------------------------------------------------------------
@@ -835,7 +835,7 @@ Tithes       | 10% of urban revenue
 Festival     | 5gp/family/season
 
 
-### Villages, Towns, and Cities
+#### Villages, Towns, and Cities
 
 Urban Settlement (families)    | Monthly Income  | Market Class
 :----------------------------- | --------------: | :------------
@@ -1038,7 +1038,7 @@ The Retribution by Crime table can be used to find an appropriate punishment for
 #### Retribution by Crime Table
 
 Crime                              | Punitive Punishment                                                                                                               | Standard Punishment                                                                                   | Lesser Punishment
-:--------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------- : -----------------------------------------------------------------------------------------------
+:--------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------- : -----------------------------------------------------------------------------------
 Drunkenness, Outrage               | Fined 5gp                                                                                                                         | Fined 2gp                                                                                             | Fined 1gp
 Eavesdropping                      | Ear cut off (-1 to reaction rolls, -1 to hear noise, -1 to surprise rolls) and fined 25gp                                         | Fined 10gp                                                                                            | Fined 5gp
 Trespassing, Gambling              | Placed in stocks 2d6 days(save v. Death or lose 1d6 teeth, -2 to reaction rolls) and fined 50gp                                   | Fined 25gp                                                                                            | Fined 10gp
@@ -1331,7 +1331,7 @@ Roll   | Merchandise             | 1 Load                  | Enc. per Load (ston
 74-75  | Dye & pigments          | 5 jars                  | 25                     | 250gp
 76-80  | Glassware               | 2 crates                | 10                     | 400gp
 81-85  | Mounts                  | (Roll 1d4+4 on Animals) | By Animal              | By Animal
-86-100 | Roll on                 | Precious Merchandise    | -                      | -
+86-100 | *Roll on*               | *Precious Merchandise*  | -                      | -
 
 
 #### Precious Merchandise
