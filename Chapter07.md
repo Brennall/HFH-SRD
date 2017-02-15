@@ -376,18 +376,18 @@ At particular milestones in their career, adventurers can begin to attract follo
 
 Class                 | Stronghold              | Followers                                                      | Special Rules
 :-------------------- | :---------------------- | :------------------------------------------------------------- | :--------------------------------------------------------------------------------
-Assassin              | Hideout                 | 2d6 1st level assassins                                        | see Hideouts and Hijinks section (p. 133)
+Assassin              | Hideout                 | 2d6 1st level assassins                                        | see [Hideouts and Hijinks](#hideouts-and-hijinks) section
 Bard                  | Hall                    | 1d4+1x10 0th level mercenaries, 1d6 1st-3rd level bards        | -
 Bladedancer           | Temple                  | 5d6x10 0th level mercenaries, 1d6 1st-3rd level bl. dancers    | cost of building stronghold reduced by 50%, followers never need to check morale
 Cleric                | Fortified Church        | 5d6x10 0th level mercenaries, 1d6 1st-3rd level clerics        | cost of building stronghold reduced by 50%, followers never need to check morale
 Dwarven Craftpriest   | Vault                   | 3d6x10 1st level dwarves                                       | must be underground, may not be in human or elven civilized or borderlands area
 Dwarven Vaultguard    | Vault                   | 3d6x10 1st level dwarves                                       | must be underground, may not be in human or elven, civilized or borderland area
-Elf Nightblade        | Hideout                 | 2d6 1st level nightblades                                      | see Hideouts and Hijinks section (p. 133)
+Elf Nightblade        | Hideout                 | 2d6 1st level nightblades                                      | see [Hideouts and Hijinks](#hideouts-and-hijinks) section
 Elf Spellsword        | Fastness                | 3d6x10 1st level elves                                         | may not be in human or dwarven civilized or borderland area, all animals within 3 miles of fastness become friendly
 Explorer              | Border Fort             | 1d4+1x10 0th level mercenaries, 1d6 1st-3rd level explorers    | must be in borderlands or wilderness
 Fighter               | Castle                  | 1d4+1x10 0th level mercenaries, 1d6 1st-3rd level fighters     | -
-Mage                  | Sanctum                 | 2d6 0th level apprentices, 1d6 1st level mages                 | see Sanctums and Dungeons section (p. 139)
-Thief                 | Hideout                 | 2d6 1st level thieves                                          | see Hideouts and Hijinks section (p. 133)
+Mage                  | Sanctum                 | 2d6 0th level apprentices, 1d6 1st level mages                 | see [Sanctums and Dungeons](#sanctums-and-dungeons) section
+Thief                 | Hideout                 | 2d6 1st level thieves                                          | see [Hideouts and Hijinks](#hideouts-and-hijinks) section
 
 
 ### Securing the Domain
