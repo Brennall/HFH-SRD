@@ -73,12 +73,9 @@ Gems appearing in a treasure hoard may be specified to be ornamentals or brillia
 
 Roll           | Value (gp)     | Type
 :------------- | :------------- | :------------
-*2d20          | *avg. 30       | *Ornamental
-*d100          | *avg. 200      | *Gem
-*d100+80       | *avg. 4,000    | *Brilliant
-
-Roll           | Value (gp)     | Type
-:------------- | -------------: | :-----------------------------------------------------------------------
+*2d20*         | *avg. 30*      | *Ornamental*
+*d100*         | *avg. 200*     | *Gem*
+*d100+80*      | *avg. 4,000*   | *Brilliant*
 01-10          | 10             | Azurite, hematite, malachite, obsidian, quartz
 11-25          | 25             | Agate, lapis lazuli, tiger eye, turquoise
 26-40          | 50             | Bloodstone, crystal, citrine, jasper, moonstone, onyx
@@ -87,7 +84,7 @@ Roll           | Value (gp)     | Type
 71-80          | 250            | Garnet, pearl, spinel
 81-90          | 500            | Aquamarine, alexandrite, topaz
 91-95          | 750            | Opal, star ruby, star sapphire, sunset amethyst, imperial topaz
-96-00          | 1,000          | Black sapphire, diamond, emerald, jacinth, ruby
+96-100         | 1,000          | Black sapphire, diamond, emerald, jacinth, ruby
 101-110        | 1,500          | Amber with preserved extinct creatures, whorled nephrite jade
 111-125        | 2,000          | Black pearl, baroque pearl, crystal geode
 126-145        | 4,000          | Facet cut imperial topaz, flawless diamond
@@ -107,12 +104,9 @@ Jewelry appearing in a treasure hoard may be specified to be trinkets or regalia
 
 Roll           | Value (gp)     | Type
 :------------- | :------------- | :------------
-*2d20          | *avg. 225      | *Trinkets
-*d100          | *avg. 1,000    | *Jewelry
-*d100+80       | *avg. 11,000   | *Regalia
-
-Roll           | Value (gp)     | Type
-:------------- | -------------: | :-----------------------------------------------------------------------
+*2d20*         | *avg. 225*     | *Trinkets*
+*d100*         | *avg. 1,000*   | *Jewelry*
+*d100+80*      | *avg. 11,000*  | *Regalia*
 01-10          | 2d20           | Bone, scrimshaw, beast parts
 11-25          | 2d10x10        | Glass, shells, or wrought copper, brass, or bronze
 26-40          | 2d4x100        | Fine wood, porcelain, or wrought silver
@@ -655,15 +649,13 @@ Drinking a potion takes one round. Potions take effect in the same round as thei
 **Heroism**: Only an assassin, dwarven vaultguard, elven spellsword, explorer, or fighter may use this potion. Extra levels and their accompanied benefits to combat are temporarily granted to the imbiber, determined by his experience level as shown in the table below. Note that extra hit points granted due to the level increase are subtracted first when the character is wounded.
 
 
-#### Imbiber Level
-
-Level | Levels Granted
-:---- | :-------------
-0     | 4 (Fighter)
-1-3   | 3
-4-7   | 2
-8-10  | 1
-11+   | 0
+Imbiber Level | Levels Granted
+------------: | :-------------
+0             | 4 (Fighter)
+1-3           | 3
+4-7           | 2
+8-10          | 1
+11+           | 0
 
 
 **Human Control**: Once this potion is quaffed, the drinker is able to control up to 3d6 Hit Dice of humans, demi-humans, and humanoids within 60' as if using a charm monster spell (normal men count as 1/2 Hit Die each). The targets may resist the effect with a successful saving throw versus Staffs. The controlled creatures will do whatever is commanded of them, subject to the normal limits of charm monster. and the controlled creatures will be hostile when the control ends.
@@ -705,15 +697,13 @@ Level | Levels Granted
 **Super-Heroism**: Only assassins, dwarven vaultguards, elven spellswords, explorers, and fighters may use this potion. Extra levels and their accompanied benefits to combat are temporarily granted to the imbiber, determined by his or her experience level as shown in the table below. In all other respects this potion is identical to heroism.
 
 
-#### Imbiber Level
-
-Level | Levels Granted
-:---- | :-------------
-0     | 6 (Fighter)
-1-3   | 5
-4-7   | 4
-8-10  | 3
-11-12 | 2
+Imbiber Level | Levels Granted
+------------: | :-------------
+0             | 6 (Fighter)
+1-3           | 5
+4-7           | 4
+8-10          | 3
+11-12         | 2
 
 
 **Sweet Water**: This sweet-tasting liquid can be used to cleanse water (including turning saltwater into fresh water) or otherwise transform poisons, acid, and other non-potables into drinkable liquid. Further, sweet water will destroy other potions. For most liquids, this potion will affect up to 100,000 feet cubed. However, only 1,000 feet cubed of acid can be neutralized. The effects of sweet water are permanent, and once treated, liquid will resist spoilage or contamination for 5d4 rounds. After this time it can be contaminated once again.
@@ -848,7 +838,7 @@ Roll d100      | Spell Level
 71-85          | 4             
 86-95          | 5             
 96-98          | 6             
-99-00          | 7             
+99-100         | 7             
 
 
 ### Cursed Scroll
@@ -1058,7 +1048,7 @@ Roll d100 | Bonus
 :-------- | ----:
 01-80     | +1
 81-91     | +2
-92-00     | +3
+92-100    | +3
 
 **Crystal Ball**: Any arcane spellcaster may use this coveted magic item to see images of distant creatures, objects, or places. The more familiar the user is with the creature, object or place viewed, the clearer the images will be. Each viewing can last for up to 1 turn, and the crystal ball may be used 3 times per day. The user of the crystal ball is unable to communicate to or cast spells at what he views.
 
@@ -1084,12 +1074,16 @@ CubeFace   | Charge Cost Per Turn   | Maximum Speed        | Effect
 6          | 0                      | As normal            | Deactivates
 
 
-Attack Form       | Extra Charges   | Attack Form           | Extra Charges
-:---------------- | --------------: | :-------------------- | --------------:
-Horn of blasting  | 6               | Lightning bolt        | 4
-Wall of fire      | 2               | Lava, other hot fires | 2
-Passwall          | 3               | Magical fire          | 4
-Disintegrate      | 6               | Phase Door            | 5
+Attack Form           | Extra Charges     
+:-------------------- | --------------:   
+Horn of blasting      | 6
+Wall of fire          | 2
+Passwall              | 3
+Disintegrate          | 6
+Lightning bolt        | 4
+Lava, other hot fires | 2
+Magical fire          | 4
+Phase Door            | 5
 
 
 **Cube of Frost Resistance**: This cube is activated or deactivated by pressing one side. When activated, it creates a cube-shaped area 10' on a side centered on the possessor (or on the cube itself, if the item is later placed on a surface). The temperature within this area is always at least 65^0F. The field absorbs all cold-based attacks. However, if the field is subjected to more than 50 points of cold damage in 1 turn (from one or multiple attacks), it collapses into its portable form and cannot be reactivated for 1 hour. If the field absorbs more than 100 points of cold damage in a turn, the cube is destroyed.
@@ -1244,18 +1238,28 @@ Other powers beyond having a "+" to their attacks and damage sometimes apply to 
 **Arrow +3, Slaying Arrow**: This arrow +3 is keyed to a particular type of creature. If it strikes such a creature, the target instantly dies, with no saving throw. Against any other target the arrow functions as an arrow +3. These arrows are often adorned with decorations that imply the creature they can slay. To determine the type of creature the arrow is keyed to, roll on the table below. The Judge may add to this list, or choose an appropriate creature type for the situation.
 
 
-Roll 1d20  | Type             | Roll 1d20  | Type
----------: | :--------------- |----------: | :----------------------
-1          | Avians*          | 11         | Golems
-2          | Beastmen         | 12         | Mages
-3          | Clerics          | 13         | Mammals*
-4          | Dragons          | 14         | Plant-like monsters
-5          | Dwarves          | 15         | Regenerating monsters
-6          | Elementals       | 16         | Reptiles*
-7          | Elves            | 17         | Sea creatures*
-8          | Fighters         | 18         | Thieves
-9          | Giants           | 19         | Undead
-10         | Giant animals    | 20         | Vermin*
+Roll 1d20  | Type
+---------: | :----------------------
+1          | Avians*
+2          | Beastmen
+3          | Clerics
+4          | Dragons
+5          | Dwarves
+6          | Elementals
+7          | Elves
+8          | Fighters
+9          | Giants
+10         | Giant animals
+11         | Golems
+12         | Mages
+13         | Mammals*
+14         | Plant-like monsters
+15         | Regenerating monsters
+16         | Reptiles*
+17         | Sea creatures*
+18         | Thieves
+19         | Undead
+20         | Vermin*
 
 *Including normal and giant creatures of this type, but not sentient creatures
 
