@@ -1,3 +1,7 @@
+[Previous](Chapter04.html) [Top](Chapter00.html) [Next](Chapter06.html)
+
+---
+
 ## Chapter 5: Spells
 
 ### Spells and Spellcasters
@@ -1826,3 +1830,6 @@ Duration: | permanent
 
 A wizard lock spell cast upon a door, chest, or portal magically locks it. The caster can freely pass his own wizard lock without affecting it, as can any arcane spellcaster 3 or more levels higher than the caster of the wizard lock; otherwise, a door or object secured with this spell can be opened only by breaking in or with a successful dispel magic or knock spell.
 
+---
+
+[Previous](Chapter04.html) [Top](Chapter00.html) [Next](Chapter06.html)

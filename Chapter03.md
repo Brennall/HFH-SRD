@@ -1,3 +1,7 @@
+[Previous](Chapter02.html) [Top](Chapter00.html) [Next](Chapter04.html)
+
+---
+
 ## Chapter 3: Equipment
 
 
@@ -842,3 +846,6 @@ Arcane-6th level       | 4,500gp | 1d3      | 1d3       | 1d2-1      | -        
 
 Cure disease is a 3rd level spell, so the Judge rolls 1d3 to determine how many spell castings are available. Unfortunately, he rolls a 1, so only one cure disease spell is available each day. Restore life and limb is a 5th level spell, so the Judge rolls 1d2-1. He scores another 1, -1, yielding 0. No restore life and limb spells are available in town at all! The adventurers must decide whether to stay in town the three days necessary to get everyone cured of lycanthropy, or to press on immediately to try to find a cleric who can raise Quintus.
 
+---
+
+[Previous](Chapter02.html) [Top](Chapter00.html) [Next](Chapter04.html)

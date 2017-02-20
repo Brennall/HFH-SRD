@@ -1,3 +1,7 @@
+[Previous](Chapter06.html) [Top](Chapter00.html) [Next](Chapter08.html)
+
+---
+
 ## Chapter 7: Campaigns
 
 
@@ -1449,3 +1453,6 @@ A 0th level character may earn experience points from campaign activities. If th
 
 When a 0th level character advances to 1st level, he gains the Adventuring proficiency and his new class's proficiency, powers, attack throws, and saving throws. The character re-rolls his hit points using his new class's Hit Die, keeping either his new hp total or his prior hp total if it was higher. The new 1st level character retains any general proficiencies he already knew. Each time he becomes eligible to learn a new general proficiency by advancing in class level, he may replace one of these existing general proficiencies with a new general proficiency better suited to his new class.
 
+---
+
+[Previous](Chapter06.html) [Top](Chapter00.html) [Next](Chapter08.html)

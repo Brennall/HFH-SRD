@@ -1,3 +1,7 @@
+[Previous](Chapter08.html) [Top](Chapter00.html) [Next](Chapter10.html)
+
+---
+
 ## Chapter 9: Treasure
 
 
@@ -1436,3 +1440,6 @@ The advantage to commissioning a magic item is that the item can be made exactly
 
 *Example*: Marcus hires a mage to create a suit of plate armor +3 (base cost 35,000gp, base time 8 months). After describing the elaborate appearance he demands, Marcus pays 35,000gp. He also pays for 30,000gp worth of precious materials to be used in the items construction, to help ensure its successful creation (and to make it look spectacular). Finally, he delivers the special component, the iron hides of 25 gorgons, to the mage. When the mage completes the armor 8 months later, Marcus pays him an additional 70,000gp (twice the base cost). Marcus has spent 135,000gp on his armor, enough to build a keep.
 
+---
+
+[Previous](Chapter08.html) [Top](Chapter00.html) [Next](Chapter10.html)

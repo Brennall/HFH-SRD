@@ -1,3 +1,7 @@
+[Previous](Chapter09.html) [Top](Chapter00.html) [Next](OGL.html)
+
+---
+
 ## Chapter 10: Secrets
 
 
@@ -1352,3 +1356,6 @@ Vance, Jack. "Dying Earth" stories.
 
 Williams, Tad. Memory, Sorrow, and Thorn.
 
+---
+
+[Previous](Chapter09.html) [Top](Chapter00.html) [Next](OGL.html)

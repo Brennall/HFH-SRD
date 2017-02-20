@@ -1,3 +1,7 @@
+[Previous](Chapter05.html) [Top](Chapter00.html) [Next](Chapter07.html)
+
+---
+
 ## Chapter 6: Adventures
 
 
@@ -1003,3 +1007,6 @@ Money is allocated to the reserve by spending it to no other tangible game benef
 
 A 0th level character who participates in an adventure will earn experience points. When a 0th level character earns 100 XP from adventuring, he advances to become a 1st level fighter. The character gains the fighter class proficiency, powers, attack throws, and saving throws. The character re-rolls his hit points using his new class's Hit Die (1d8), keeping either his new hp total or his prior hp total if it was higher. The new 1st level character retains any general proficiencies he already knew. When he advances to 2nd, 3rd, and 4th level, he must remove one of these pre-existing general proficiencies, representing the erosion of his old professional skills over time. When he reaches 4th level, he acquires the Adventuring proficiency. Under normal circumstances, 0th level characters do not advance into classes other than fighters from adventuring XP.
 
+---
+
+[Previous](Chapter05.html) [Top](Chapter00.html) [Next](Chapter07.html)

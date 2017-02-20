@@ -1,3 +1,7 @@
+[Previous](Chapter10.html) [Top](Chapter00.html)
+
+---
+
 ## OGL
 
 DESIGNATION OF PRODUCT IDENTITY
@@ -110,3 +114,6 @@ In any of the above cases where the Adventurer Conqueror King Product Identity i
 
 END OF LICENSE
 
+---
+
+[Previous](Chapter10.html) [Top](Chapter00.html)

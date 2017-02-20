@@ -1,3 +1,7 @@
+[Previous](Chapter03.html) [Top](Chapter00.html) [Next](Chapter05.html)
+
+---
+
 ## Chapter 4: Proficiencies
 
 
@@ -337,3 +341,6 @@ Normal humans and demi-humans (non-adventuring 0th level characters) do not begi
 
 *Example*: Tavus is a highly intelligent (INT 16) 0th level young man. He begins his career at age 18 with six general proficiencies - four base + two more from his high INT. He selects Craft (Carpenter), Engineering, Labor (Stonecutting), and Mapping with his four starting proficiencies. With his bonus proficiencies he takes two additional ranks in Engineering. At age 23, he gains an additional proficiency, which he uses to take a fourth rank in Engineering. He is now qualified to serve as an Engineer specialist (see Specialists in Chapter 3), making him among the youngest engineers in his guild. A character of average Intelligence might take a lifetime to gain that same level of proficiency.
 
+---
+
+[Previous](Chapter03.html) [Top](Chapter00.html) [Next](Chapter05.html)

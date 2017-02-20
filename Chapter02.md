@@ -1,3 +1,7 @@
+[Previous](Chapter01.html) [Top](Chapter00.html) [Next](Chapter03.html)
+
+---
+
 ## Chapter 2: Characters
 
 
@@ -948,3 +952,6 @@ Occasionally, there are not enough party members to take on the challenges of an
 
 When there are only a small number of players, the Judge may allow them to each play more than one character. Nevertheless, in these cases characters belonging to the same player cannot offer each other special treatment, such as trading or giving away riches or magical items, unless the Judge rules it acceptable.
 
+---
+
+[Previous](Chapter01.html) [Top](Chapter00.html) [Next](Chapter03.html)

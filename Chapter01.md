@@ -1,3 +1,7 @@
+[Previous](Chapter00.html) [Top](Chapter00.html) [Next](Chapter02.html)
+
+---
+
 ## Chapter 1: Introduction
 
 
@@ -178,3 +182,6 @@ Below are some of the most common abbreviations that will be found in this book 
 * pp - Platinum pieces
 * TT - Treasure Type
 
+---
+
+[Previous](Chapter00.html) [Top](Chapter00.html) [Next](Chapter02.html)
