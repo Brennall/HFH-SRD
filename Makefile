@@ -18,17 +18,24 @@ MD= \
 
 HTM= $(patsubst %.md,%.htm,$(MD))
 
-all: acks.html
+HTML= $(patsubst %.md,%.html,$(MD))
+
+all: index.html
 
 clean:
 	-rm $(HTM)
+	-rm $(HTML)
+	-rm index.html
 	-rm acks.html
 
-acks.html: head.htm $(HTM) foot.htm
-	cat head.htm $(HTM) foot.htm > acks.html
+index.html: $(HTML)
+	cp Chapter00.html index.html
 
-.md.htm:
+acks.html: head.htm $(HTM) foot.htm
+	cat head.htm $(HTM) foot.htm > $@
+
+%.htm : %.md
 	kramdown $< > $@
 
-.htm.html:
+%.html : %.htm
 	cat head.htm $< foot.htm > $@
