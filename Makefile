@@ -14,7 +14,8 @@ MD= \
     Chapter07.md \
     Chapter08.md \
     Chapter09.md \
-    Chapter10.md
+    Chapter10.md \
+    OGL.md
 
 HTM= $(patsubst %.md,%.htm,$(MD))
 

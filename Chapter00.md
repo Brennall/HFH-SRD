@@ -26,4 +26,4 @@ It is an age when empires totter on the brink of war, and terrible monsters tear
 
 [Chapter 10](Chapter10.html), [Secrets](Chapter10.html#chapter-10-secrets)
 
-[OGL](OGL.txt)
+[OGL](OGL.html)
