@@ -1,4 +1,4 @@
-[Previous](Chapter08.html) [Top](Chapter00.html) [Next](Chapter10.html)
+[Previous](Chapter08.md) [Top](Chapter00.md) [Next](Chapter10.md)
 
 ---
 
@@ -1442,4 +1442,4 @@ The advantage to commissioning a magic item is that the item can be made exactly
 
 ---
 
-[Previous](Chapter08.html) [Top](Chapter00.html) [Next](Chapter10.html)
+[Previous](Chapter08.md) [Top](Chapter00.md) [Next](Chapter10.md)

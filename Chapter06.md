@@ -1,4 +1,4 @@
-[Previous](Chapter05.html) [Top](Chapter00.html) [Next](Chapter07.html)
+[Previous](Chapter05.md) [Top](Chapter00.md) [Next](Chapter07.md)
 
 ---
 
@@ -1009,4 +1009,4 @@ A 0th level character who participates in an adventure will earn experience poin
 
 ---
 
-[Previous](Chapter05.html) [Top](Chapter00.html) [Next](Chapter07.html)
+[Previous](Chapter05.md) [Top](Chapter00.md) [Next](Chapter07.md)

@@ -1,4 +1,4 @@
-[Previous](Chapter04.html) [Top](Chapter00.html) [Next](Chapter06.html)
+[Previous](Chapter04.md) [Top](Chapter00.md) [Next](Chapter06.md)
 
 ---
 
@@ -1832,4 +1832,4 @@ A wizard lock spell cast upon a door, chest, or portal magically locks it. The c
 
 ---
 
-[Previous](Chapter04.html) [Top](Chapter00.html) [Next](Chapter06.html)
+[Previous](Chapter04.md) [Top](Chapter00.md) [Next](Chapter06.md)

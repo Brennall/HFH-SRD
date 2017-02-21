@@ -36,7 +36,10 @@ acks.html: head.htm $(HTM) foot.htm
 	cat head.htm $(HTM) foot.htm > $@
 
 %.htm : %.md
-	kramdown $< > $@
+	cat $< | \
+		sed -E "s/Chapter([0-9][0-9])\.md/Chapter\1.html/g"  | \
+		sed -E "s/OGL.md/OGL.html/g" | \
+		kramdown > $@
 
 %.html : %.htm
 	cat head.htm $< foot.htm > $@

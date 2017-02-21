@@ -1,4 +1,4 @@
-[Previous](Chapter02.html) [Top](Chapter00.html) [Next](Chapter04.html)
+[Previous](Chapter02.md) [Top](Chapter00.md) [Next](Chapter04.md)
 
 ---
 
@@ -848,4 +848,4 @@ Cure disease is a 3rd level spell, so the Judge rolls 1d3 to determine how many 
 
 ---
 
-[Previous](Chapter02.html) [Top](Chapter00.html) [Next](Chapter04.html)
+[Previous](Chapter02.md) [Top](Chapter00.md) [Next](Chapter04.md)

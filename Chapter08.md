@@ -1,4 +1,4 @@
-[Previous](Chapter07.html) [Top](Chapter00.html) [Next](Chapter09.html)
+[Previous](Chapter07.md) [Top](Chapter00.md) [Next](Chapter09.md)
 
 ---
 
@@ -3548,4 +3548,4 @@ Zombies are undead corpses reanimated through dark and sinister magic. Because o
 
 ---
 
-[Previous](Chapter07.html) [Top](Chapter00.html) [Next](Chapter09.html)
+[Previous](Chapter07.md) [Top](Chapter00.md) [Next](Chapter09.md)

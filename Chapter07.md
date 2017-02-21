@@ -1,4 +1,4 @@
-[Previous](Chapter06.html) [Top](Chapter00.html) [Next](Chapter08.html)
+[Previous](Chapter06.md) [Top](Chapter00.md) [Next](Chapter08.md)
 
 ---
 
@@ -1455,4 +1455,4 @@ When a 0th level character advances to 1st level, he gains the Adventuring profi
 
 ---
 
-[Previous](Chapter06.html) [Top](Chapter00.html) [Next](Chapter08.html)
+[Previous](Chapter06.md) [Top](Chapter00.md) [Next](Chapter08.md)

@@ -1,4 +1,4 @@
-[Previous](Chapter09.html) [Top](Chapter00.html) [Next](OGL.html)
+[Previous](Chapter09.md) [Top](Chapter00.md) [Next](OGL.md)
 
 ---
 
@@ -1358,4 +1358,4 @@ Williams, Tad. Memory, Sorrow, and Thorn.
 
 ---
 
-[Previous](Chapter09.html) [Top](Chapter00.html) [Next](OGL.html)
+[Previous](Chapter09.md) [Top](Chapter00.md) [Next](OGL.md)

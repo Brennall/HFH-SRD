@@ -1,4 +1,4 @@
-[Previous](Chapter10.html) [Top](Chapter00.html)
+[Previous](Chapter10.md) [Top](Chapter00.md)
 
 ---
 
@@ -116,4 +116,4 @@ END OF LICENSE
 
 ---
 
-[Previous](Chapter10.html) [Top](Chapter00.html)
+[Previous](Chapter10.md) [Top](Chapter00.md)

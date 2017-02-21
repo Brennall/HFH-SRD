@@ -1,4 +1,4 @@
-[Previous](Chapter03.html) [Top](Chapter00.html) [Next](Chapter05.html)
+[Previous](Chapter03.md) [Top](Chapter00.md) [Next](Chapter05.md)
 
 ---
 
@@ -343,4 +343,4 @@ Normal humans and demi-humans (non-adventuring 0th level characters) do not begi
 
 ---
 
-[Previous](Chapter03.html) [Top](Chapter00.html) [Next](Chapter05.html)
+[Previous](Chapter03.md) [Top](Chapter00.md) [Next](Chapter05.md)

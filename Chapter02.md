@@ -1,4 +1,4 @@
-[Previous](Chapter01.html) [Top](Chapter00.html) [Next](Chapter03.html)
+[Previous](Chapter01.md) [Top](Chapter00.md) [Next](Chapter03.md)
 
 ---
 
@@ -972,4 +972,4 @@ When there are only a small number of players, the Judge may allow them to each 
 
 ---
 
-[Previous](Chapter01.html) [Top](Chapter00.html) [Next](Chapter03.html)
+[Previous](Chapter01.md) [Top](Chapter00.md) [Next](Chapter03.md)
