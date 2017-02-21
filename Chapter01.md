@@ -5,6 +5,9 @@
 ## Chapter 1: Introduction
 
 
+It is an age when empires totter on the brink of war, and terrible monsters tear at the fragile borderlands of men; when decaying cities teem with chaos and corruption, where nubile maidens are sacrificed to chthonic cults and nobles live in decadent pleasure on the toil of slaves; when heroes, wizards, and rogues risk everything in pursuit of glory, fortune, and power. These are days when adventurers can become conquerors... and conquerors can become kings!
+
+
 ### About the Game
 
 The Adventurer Conqueror King System (ACKS) is a set of rules for role-playing in a world of swords, sorcery, and strongholds, where you take on the role of an adventurer in an imaginary land drawn from the epics and legends of the past.
