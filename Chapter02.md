@@ -39,6 +39,16 @@ Character Abilities must be determined by rolling randomly. Roll 3d6 for each ab
 
 When complete, your character will have a score ranging from 3 to 18 in each of the following abilities. A bonus or penalty is associated with each score, as shown on the table below. Each class has one or more prime requisite ability scores, which affect the rate at which the character will earn experience points. Some class may have other minimum ability requirements which must be met in addition.
 
+Ability Score | Bonus/Penalty
+:------------ | ------------:
+3             |            -3
+4-5           |            -2
+6-8           |            -1
+9-12          |             0
+13-15         |            +1
+16-17         |            +2
+18            |            +3
+
 **Strength**: As the name implies, this ability measures the character's raw physical power. Strength is a prime requisite for assassins, explorers, dwarven vaultguards, elven spellswords, and fighters. Apply the ability bonus or penalty for Strength to all attack throws and damage rolls in melee (hand-to-hand) combat. Note that a penalty here will not reduce damage from a successful attack below one point, unless the target is otherwise invulnerable to the attack (see the Adventures chapter for details).
 
 **Intelligence**: This is the ability to learn and apply knowledge. Intelligence is a prime requisite for elven nightblades, elven spellswords, and mages. The ability bonus for Intelligence is added to the number of proficiencies the character begins play with (see the Proficiencies chapter for details) and the number of languages the character is able to learn to read and write, as described below. Mages, elven nightblades, and elven spellswords increase the number of spells of each level in their repertoire by their Intelligence bonus (see the Spells chapter for details).
@@ -63,6 +73,14 @@ The languages available to characters include the demi-human languages (Elven, D
 Once abilities have been determined, each player must choose a class. Each class has one or more prime requisite ability scores. A character must have an ability score of at least 9 in a class's prime requisite(s) in order to choose a particular class. Some classes have additional minimum ability score requirements. A character must have the minimum required ability, if one is indicated, in order to choose a particular class.
 
 If a character's prime requisite ability is high enough, the character will receive a bonus to experience points earned during play. The Ability Prime Requisite table, below, details the effect a score in a prime requisite has on experience points earned by characters. If a class has two prime requisites, calculate the character's experience adjustment based on whichever prime requisite has the lower ability score.
+
+#### Ability Prime Requisite
+
+Score | Experience Adjustment
+:---- | --------------------:
+9-12  |                    0%
+13-15 |                   +5%
+16-18 |                  +10%
 
 Once a player has selected his character class, he may raise the class's prime requisite ability or abilities if desired by sacrificing points in other abilities. 2 ability points may be sacrificed from an ability to raise a prime requisite ability 1 point. This may be done more than once, but no ability can be lowered below 9, and no ability may be lowered if it is also a prime requisite for the class, even if there are a few points to spare above the minimum required score.
 
@@ -934,11 +952,11 @@ Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & W
 
 In the Adventurer Conqueror King System, your character will enter a world of ceaseless violent struggle, where civilization is ever-assailed by forces intent on its destruction. In this perilous realm, he will be called to choose a side: Will he pledge to defend civilization and its allies against those who seek to destroy it? Will he sell his sword to any who can offer fame or fortune? Or will he become an agent of entropy and destruction undermining peace and order? This choice is called Alignment, and the three choices are Lawful, Neutral, and Chaotic.
 
-Law: Lawful beings believe that civilization is worth fighting for. Despite its vices and villainies, civilization must be defended against those who would destroy it. Lawful beings tend to see wars among civilizations as aiding the cause of Chaos, and so they seek peace among Lawful civilizations where possible. However, Lawful characters are not pacifists, nor are they necessarily altruists. Indeed, most would think something was wrong with a hero who turned down fame and fortune; chests of gold, magnificent weapons, comely consorts, and grants of land are, after all, the rightful rewards for great deeds of valor on behalf of Law.
+**Law**: Lawful beings believe that civilization is worth fighting for. Despite its vices and villainies, civilization must be defended against those who would destroy it. Lawful beings tend to see wars among civilizations as aiding the cause of Chaos, and so they seek peace among Lawful civilizations where possible. However, Lawful characters are not pacifists, nor are they necessarily altruists. Indeed, most would think something was wrong with a hero who turned down fame and fortune; chests of gold, magnificent weapons, comely consorts, and grants of land are, after all, the rightful rewards for great deeds of valor on behalf of Law.
 
-Neutrality: Neutral beings generally enjoy the benefits of law and civilization, but it is not something they directly fight for. They tend to focus on their own ends, whether those are family, fame, fortune, pleasure, or power. A Neutral mercenary might be found fighting on behalf of Law or Chaos; a neutral farmer tends his crops and pays his taxes, whether to the Patriarch or the Lich-King.
+**Neutrality**: Neutral beings generally enjoy the benefits of law and civilization, but it is not something they directly fight for. They tend to focus on their own ends, whether those are family, fame, fortune, pleasure, or power. A Neutral mercenary might be found fighting on behalf of Law or Chaos; a neutral farmer tends his crops and pays his taxes, whether to the Patriarch or the Lich-King.
 
-Chaos: Chaotic beings actively seek to destroy civil society. Chaotic characters are often madmen or cultists of forgotten, chthonic gods. To the extent they have any order at all, societies of Chaotic characters are ruled by force and fear, and are often characterized by all manner of corruption and vice. Even decadent Lawful civilizations at least pay homage to civilizing virtue, but chaotic civilizations embrace their corruption.
+**Chaos**: Chaotic beings actively seek to destroy civil society. Chaotic characters are often madmen or cultists of forgotten, chthonic gods. To the extent they have any order at all, societies of Chaotic characters are ruled by force and fear, and are often characterized by all manner of corruption and vice. Even decadent Lawful civilizations at least pay homage to civilizing virtue, but chaotic civilizations embrace their corruption.
 
 Note that a character's choice of Alignment doesn't determine whether or not he takes care of his children, cheats on his wife, or steals from the merchant's guild. It is concerned only with the weighty issue of where his allegiance lies in the grand struggles of existence. To have an alignment of Lawful or Chaotic is to have chosen a side in this perpetual struggle. Many people, choosing no side, are Neutral, although it is important to remember that most Neutrals still want the protection of Law even though they are not willing to die for it. (To paraphrase George Orwell, Neutral humans sleep peaceably in their beds at night only because Lawful heroes stand ready to do violence on their behalf.)
 
