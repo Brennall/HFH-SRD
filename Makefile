@@ -17,18 +17,22 @@ MD= \
     Chapter10.md \
     OGL.md
 
-HTML= $(patsubst %.md,%.html,$(MD))
+HTML= $(patsubst %.md,html/%.html,$(MD))
 
-all: index.html
+all: html/index.html
 
 clean:
 	-rm $(HTML)
-	-rm index.html
+	-rm html/index.html
+	-rmdir html
 
-index.html: $(HTML)
-	cp Chapter00.html index.html
+html/index.html: html $(HTML)
+	cp html/Chapter00.html html/index.html
 
-%.html : %.md
+html:
+	mkdir html
+
+html/%.html : %.md
 	cat $< | \
 		sed -E -e "s/Chapter([0-9][0-9])\.md/Chapter\1.html/g" -e "s/OGL.md/OGL.html/g" | \
 		kramdown --template acks-template.htm > $@
