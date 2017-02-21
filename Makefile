@@ -1,4 +1,4 @@
-.SUFFIXES: .md .htm .html
+.SUFFIXES: .md .html
 
 .PHONY: all clean
 
@@ -17,29 +17,18 @@ MD= \
     Chapter10.md \
     OGL.md
 
-HTM= $(patsubst %.md,%.htm,$(MD))
-
 HTML= $(patsubst %.md,%.html,$(MD))
 
 all: index.html
 
 clean:
-	-rm $(HTM)
 	-rm $(HTML)
 	-rm index.html
-	-rm acks.html
 
 index.html: $(HTML)
 	cp Chapter00.html index.html
 
-acks.html: head.htm $(HTM) foot.htm
-	cat head.htm $(HTM) foot.htm > $@
-
-%.htm : %.md
+%.html : %.md
 	cat $< | \
-		sed -E "s/Chapter([0-9][0-9])\.md/Chapter\1.html/g"  | \
-		sed -E "s/OGL.md/OGL.html/g" | \
-		kramdown > $@
-
-%.html : %.htm
-	cat head.htm $< foot.htm > $@
+		sed -E -e "s/Chapter([0-9][0-9])\.md/Chapter\1.html/g" -e "s/OGL.md/OGL.html/g" | \
+		kramdown --template acks-template.htm > $@
