@@ -115,40 +115,40 @@ This pre-generated template represents a wary sellsword. The template is ready f
 
 #### Fighter Level Progression
 
-| Experience | Title             | Level | Hit Dice | Damage Bonus |
-| ---------: | :---------------- | ----: | :------- | -----------: |
-|          0 | Man-at-Arms       |     1 | 1d8      |           +1 |
-|      2,000 | Warrior           |     2 | 2d8      |           +1 |
-|      4,000 | Swordmaster       |     3 | 3d8      |           +2 |
-|      8,000 | Hero              |     4 | 4d8      |           +2 |
-|     16,000 | Exemplar          |     5 | 5d8      |           +2 |
-|     32,000 | Myrmidon          |     6 | 6d8      |           +3 |
-|     65,000 | Champion          |     7 | 7d8      |           +3 |
-|    130,000 | Epic Hero         |     8 | 8d8      |           +3 |
-|    250,000 | Warlord           |     9 | 9d8      |           +4 |
-|    370,000 | Warlord, 10th lvl |    10 | 9d8+2*   |           +4 |
-|    490,000 | Warlord, 11th lvl |    11 | 9d8+4*   |           +4 |
-|    610,000 | Warlord, 12th lvl |    12 | 9d8+6*   |           +5 |
-|    730,000 | Warlord, 13th lvl |    13 | 9d8+8*   |           +5 |
-|    850,000 | Overlord          |    14 | 9d8+10*  |           +5 |
+Experience | Title             | Level | Hit Dice | Damage Bonus
+---------: | :---------------- | ----: | :------- | -----------:
+         0 | Man-at-Arms       |     1 | 1d8      |           +1
+     2,000 | Warrior           |     2 | 2d8      |           +1
+     4,000 | Swordmaster       |     3 | 3d8      |           +2
+     8,000 | Hero              |     4 | 4d8      |           +2
+    16,000 | Exemplar          |     5 | 5d8      |           +2
+    32,000 | Myrmidon          |     6 | 6d8      |           +3
+    65,000 | Champion          |     7 | 7d8      |           +3
+   130,000 | Epic Hero         |     8 | 8d8      |           +3
+   250,000 | Warlord           |     9 | 9d8      |           +4
+   370,000 | Warlord, 10th lvl |    10 | 9d8+2*   |           +4
+   490,000 | Warlord, 11th lvl |    11 | 9d8+4*   |           +4
+   610,000 | Warlord, 12th lvl |    12 | 9d8+6*   |           +5
+   730,000 | Warlord, 13th lvl |    13 | 9d8+8*   |           +5
+   850,000 | Overlord          |    14 | 9d8+10*  |           +5
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Fighter Attack and Saving Throws
 
-| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
-| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
-| 1     |                       15+ |            14+ |            16+ |            16+ |    17+ |          10+ |
-| 2-3   |                       14+ |            13+ |            15+ |            15+ |    16+ |           9+ |
-| 4     |                       13+ |            12+ |            14+ |            14+ |    15+ |           8+ |
-| 5-6   |                       12+ |            11+ |            13+ |            13+ |    14+ |           7+ |
-| 7     |                       11+ |            10+ |            12+ |            12+ |    13+ |           6+ |
-| 8-9   |                       10+ |             9+ |            11+ |            11+ |    12+ |           5+ |
-| 10    |                        9+ |             8+ |            10+ |            10+ |    11+ |           4+ |
-| 11-12 |                        8+ |             7+ |             9+ |             9+ |    10+ |           3+ |
-| 13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+ |
-| 14    |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+ |
+Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+:---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+1     |                       15+ |            14+ |            16+ |            16+ |    17+ |          10+
+2-3   |                       14+ |            13+ |            15+ |            15+ |    16+ |           9+
+4     |                       13+ |            12+ |            14+ |            14+ |    15+ |           8+
+5-6   |                       12+ |            11+ |            13+ |            13+ |    14+ |           7+
+7     |                       11+ |            10+ |            12+ |            12+ |    13+ |           6+
+8-9   |                       10+ |             9+ |            11+ |            11+ |    12+ |           5+
+10    |                        9+ |             8+ |            10+ |            10+ |    11+ |           4+
+11-12 |                        8+ |             7+ |             9+ |             9+ |    10+ |           3+
+13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+
+14    |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
 
 
 ### Mage
@@ -180,35 +180,35 @@ This pre-generated template represents a curious magical scholar from an organiz
 
 #### Mage Level and Spell Progression
 
-| Experience | Title            | Level | Hit Dice |   1 |   2 |   3 |   4 |   5 |   6 |
-| ---------: | :--------------- | ----: | :------- | --: | --: | --: | --: | --: | --: |
-|          0 | Arcanist         |     1 | 1d4      |   1 |   - |   - |   - |   - |   - |
-|      2,500 | Seer             |     2 | 2d4      |   2 |   - |   - |   - |   - |   - |
-|      5,000 | Theurgist        |     3 | 3d4      |   2 |   1 |   - |   - |   - |   - |
-|     10,000 | Magician         |     4 | 4d4      |   2 |   2 |   - |   - |   - |   - |
-|     20,000 | Thaumaturge      |     5 | 5d4      |   2 |   2 |   1 |   - |   - |   - |
-|     40,000 | Enchanter        |     6 | 6d4      |   2 |   2 |   2 |   - |   - |   - |
-|     80,000 | Sorcerer         |     7 | 7d4      |   3 |   2 |   2 |   1 |   - |   - |
-|    160,000 | Mage             |     8 | 8d4      |   3 |   3 |   2 |   2 |   - |   - |
-|    310,000 | Wizard           |     9 | 9d4      |   3 |   3 |   3 |   2 |   1 |   - |
-|    460,000 | Wizard, 10th lvl |    10 | 9d4+1*   |   3 |   3 |   3 |   3 |   2 |   - |
-|    610,000 | Wizard, 11th lvl |    11 | 9d4+2*   |   4 |   3 |   3 |   3 |   2 |   1 |
-|    760,000 | Wizard, 12th lvl |    12 | 9d4+3*   |   4 |   4 |   3 |   3 |   3 |   2 |
-|    910,000 | Wizard, 13th lvl |    13 | 9d4+4*   |   4 |   4 |   4 |   3 |   3 |   2 |
-|  1,060,000 | Archmage         |    14 | 9d4+5*   |   4 |   4 |   4 |   4 |   3 |   3 |
+Experience | Title            | Level | Hit Dice |   1 |   2 |   3 |   4 |   5 |   6
+---------: | :--------------- | ----: | :------- | --: | --: | --: | --: | --: | --:
+         0 | Arcanist         |     1 | 1d4      |   1 |   - |   - |   - |   - |   -
+     2,500 | Seer             |     2 | 2d4      |   2 |   - |   - |   - |   - |   -
+     5,000 | Theurgist        |     3 | 3d4      |   2 |   1 |   - |   - |   - |   -
+    10,000 | Magician         |     4 | 4d4      |   2 |   2 |   - |   - |   - |   -
+    20,000 | Thaumaturge      |     5 | 5d4      |   2 |   2 |   1 |   - |   - |   -
+    40,000 | Enchanter        |     6 | 6d4      |   2 |   2 |   2 |   - |   - |   -
+    80,000 | Sorcerer         |     7 | 7d4      |   3 |   2 |   2 |   1 |   - |   -
+   160,000 | Mage             |     8 | 8d4      |   3 |   3 |   2 |   2 |   - |   -
+   310,000 | Wizard           |     9 | 9d4      |   3 |   3 |   3 |   2 |   1 |   -
+   460,000 | Wizard, 10th lvl |    10 | 9d4+1*   |   3 |   3 |   3 |   3 |   2 |   -
+   610,000 | Wizard, 11th lvl |    11 | 9d4+2*   |   4 |   3 |   3 |   3 |   2 |   1
+   760,000 | Wizard, 12th lvl |    12 | 9d4+3*   |   4 |   4 |   3 |   3 |   3 |   2
+   910,000 | Wizard, 13th lvl |    13 | 9d4+4*   |   4 |   4 |   4 |   3 |   3 |   2
+ 1,060,000 | Archmage         |    14 | 9d4+5*   |   4 |   4 |   4 |   4 |   3 |   3
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Mage Attack and Saving Throws
 
-| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
-| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
-| 1-3   |                       13+ |            13+ |            15+ |            11+ |    12+ |          10+ |
-| 4-6   |                       12+ |            12+ |            14+ |            10+ |    11+ |           9+ |
-| 7-9   |                       11+ |            11+ |            13+ |             9+ |    10+ |           8+ |
-| 10-12 |                       10+ |            10+ |            12+ |             8+ |     9+ |           7+ |
-| 13-14 |                        9+ |             9+ |            11+ |             7+ |     8+ |           6+ |
+Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+:---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+1-3   |                       13+ |            13+ |            15+ |            11+ |    12+ |          10+
+4-6   |                       12+ |            12+ |            14+ |            10+ |    11+ |           9+
+7-9   |                       11+ |            11+ |            13+ |             9+ |    10+ |           8+
+10-12 |                       10+ |            10+ |            12+ |             8+ |     9+ |           7+
+13-14 |                        9+ |             9+ |            11+ |             7+ |     8+ |           6+
 
 
 ### Cleric
@@ -256,52 +256,52 @@ This pre-generated template represents a devout priest from an organized religio
 
 #### Cleric Level and Spell Progression
 
-| Experience | Title               | Level | Hit Dice |   1 |   2 |   3 |   4 |   5 |
-| ---------: | :------------------ | ----: | :------- | --: | --: | --: | --: | --: |
-|          0 | Catechist           |     1 | 1d6      |   - |   - |   - |   - |   - |
-|      1,500 | Acolyte             |     2 | 2d6      |   1 |   - |   - |   - |   - |
-|      3,000 | Priest              |     3 | 3d6      |   2 |   - |   - |   - |   - |
-|      6,000 | Curate              |     4 | 4d6      |   2 |   1 |   - |   - |   - |
-|     12,000 | Vicar               |     5 | 5d6      |   2 |   2 |   - |   - |   - |
-|     24,000 | Rector              |     6 | 6d6      |   2 |   2 |   1 |   1 |   - |
-|     50,000 | Prelate             |     7 | 7d6      |   2 |   2 |   2 |   1 |   1 |
-|    100,000 | Bishop              |     8 | 8d6      |   3 |   3 |   2 |   2 |   1 |
-|    200,000 | Patriarch           |     9 | 9d6      |   3 |   3 |   3 |   2 |   2 |
-|    300,000 | Patriarch, 10th lvl |    10 | 9d6+1*   |   4 |   4 |   3 |   3 |   2 |
-|    400,000 | Patriarch, 11th lvl |    11 | 9d6+2*   |   4 |   4 |   4 |   3 |   3 |
-|    500,000 | Patriarch, 12th lvl |    12 | 9d6+3*   |   5 |   5 |   4 |   4 |   3 |
-|    600,000 | Patriarch, 13th lvl |    13 | 9d6+4*   |   5 |   5 |   5 |   4 |   3 |
-|    700,000 | Theocrat            |    14 | 9d6+5*   |   6 |   5 |   5 |   5 |   4 |
+Experience | Title               | Level | Hit Dice |   1 |   2 |   3 |   4 |   5
+---------: | :------------------ | ----: | :------- | --: | --: | --: | --: | --:
+         0 | Catechist           |     1 | 1d6      |   - |   - |   - |   - |   -
+     1,500 | Acolyte             |     2 | 2d6      |   1 |   - |   - |   - |   -
+     3,000 | Priest              |     3 | 3d6      |   2 |   - |   - |   - |   -
+     6,000 | Curate              |     4 | 4d6      |   2 |   1 |   - |   - |   -
+    12,000 | Vicar               |     5 | 5d6      |   2 |   2 |   - |   - |   -
+    24,000 | Rector              |     6 | 6d6      |   2 |   2 |   1 |   1 |   -
+    50,000 | Prelate             |     7 | 7d6      |   2 |   2 |   2 |   1 |   1
+   100,000 | Bishop              |     8 | 8d6      |   3 |   3 |   2 |   2 |   1
+   200,000 | Patriarch           |     9 | 9d6      |   3 |   3 |   3 |   2 |   2
+   300,000 | Patriarch, 10th lvl |    10 | 9d6+1*   |   4 |   4 |   3 |   3 |   2
+   400,000 | Patriarch, 11th lvl |    11 | 9d6+2*   |   4 |   4 |   4 |   3 |   3
+   500,000 | Patriarch, 12th lvl |    12 | 9d6+3*   |   5 |   5 |   4 |   4 |   3
+   600,000 | Patriarch, 13th lvl |    13 | 9d6+4*   |   5 |   5 |   5 |   4 |   3
+   700,000 | Theocrat            |    14 | 9d6+5*   |   6 |   5 |   5 |   5 |   4
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Cleric Attack and Saving Throws
 
-| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
-| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
-| 1-2   |                       13+ |            10+ |            16+ |            13+ |    15+ |          10+ |
-| 3-4   |                       12+ |             9+ |            15+ |            12+ |    14+ |           9+ |
-| 5-6   |                       11+ |             8+ |            14+ |            11+ |    13+ |           8+ |
-| 7-8   |                       10+ |             7+ |            13+ |            10+ |    12+ |           7+ |
-| 9-10  |                        9+ |             6+ |            12+ |             9+ |    11+ |           6+ |
-| 11-12 |                        8+ |             5+ |            11+ |             8+ |    10+ |           5+ |
-| 13-14 |                        7+ |             4+ |            10+ |             7+ |     9+ |           4+ |
+Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+:---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+1-2   |                       13+ |            10+ |            16+ |            13+ |    15+ |          10+
+3-4   |                       12+ |             9+ |            15+ |            12+ |    14+ |           9+
+5-6   |                       11+ |             8+ |            14+ |            11+ |    13+ |           8+
+7-8   |                       10+ |             7+ |            13+ |            10+ |    12+ |           7+
+9-10  |                        9+ |             6+ |            12+ |             9+ |    11+ |           6+
+11-12 |                        8+ |             5+ |            11+ |             8+ |    10+ |           5+
+13-14 |                        7+ |             4+ |            10+ |             7+ |     9+ |           4+
 
 
 ### Cleric Turning Undead by Cleric Level
 
-| Undead Type |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |  10 |  11 |  12 |  13 | 14+ |
-| :---------- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
-| Skeleton    | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D |   D |   D |
-| Zombie      | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D |   D |
-| Ghoul       | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D |
-| Wight       | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |
-| Wraith      |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |
-| Mummy       |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |
-| Spectre     |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |
-| Vampire     |   - |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |
-| Infernal*   |   - |   - |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |
+Undead Type |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |  10 |  11 |  12 |  13 | 14+
+:---------- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --:
+Skeleton    | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D |   D |   D
+Zombie      | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D |   D
+Ghoul       | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D
+Wight       | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D
+Wraith      |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D
+Mummy       |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D
+Spectre     |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D
+Vampire     |   - |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D
+Infernal*   |   - |   - |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D
 
 *This category includes very powerful undead, or unholy beings such as demons and devils
 
@@ -353,57 +353,57 @@ This pre-generated template represents a bold tomb raider. The template is ready
 
 #### Thief Level Progression
 
-| Experience | Title                    | Level | Hit Dice | Backstab |
-| ---------: | :----------------------- | ----: | :------- | -------: |
-|          0 | Footpad                  |     1 | 1d4      |       x2 |
-|      1,250 | Hood                     |     2 | 2d4      |       x2 |
-|      2,500 | Robber                   |     3 | 3d4      |       x2 |
-|      5,000 | Burglar                  |     4 | 4d4      |       x2 |
-|     10,000 | Rogue                    |     5 | 5d4      |       x3 |
-|     20,000 | Scoundrel                |     6 | 6d4      |       x3 |
-|     40,000 | Pilferer                 |     7 | 7d4      |       x3 |
-|     80,000 | Thief                    |     8 | 8d4      |       x3 |
-|    180,000 | Master Thief             |     9 | 9d4      |       x4 |
-|    280,000 | Master Thief, 10th level |    10 | 9d4+2*   |       x4 |
-|    380,000 | Master Thief, 11th level |    11 | 9d4+4*   |       x4 |
-|    480,000 | Master Thief, 12th level |    12 | 9d4+6*   |       x4 |
-|    580,000 | Master Thief, 13th level |    13 | 9d4+8*   |       x5 |
-|    680,000 | Prince of Thieves        |    14 | 9d4+10*  |       x5 |
+Experience | Title                    | Level | Hit Dice | Backstab
+---------: | :----------------------- | ----: | :------- | -------:
+         0 | Footpad                  |     1 | 1d4      |       x2
+     1,250 | Hood                     |     2 | 2d4      |       x2
+     2,500 | Robber                   |     3 | 3d4      |       x2
+     5,000 | Burglar                  |     4 | 4d4      |       x2
+    10,000 | Rogue                    |     5 | 5d4      |       x3
+    20,000 | Scoundrel                |     6 | 6d4      |       x3
+    40,000 | Pilferer                 |     7 | 7d4      |       x3
+    80,000 | Thief                    |     8 | 8d4      |       x3
+   180,000 | Master Thief             |     9 | 9d4      |       x4
+   280,000 | Master Thief, 10th level |    10 | 9d4+2*   |       x4
+   380,000 | Master Thief, 11th level |    11 | 9d4+4*   |       x4
+   480,000 | Master Thief, 12th level |    12 | 9d4+6*   |       x4
+   580,000 | Master Thief, 13th level |    13 | 9d4+8*   |       x5
+   680,000 | Prince of Thieves        |    14 | 9d4+10*  |       x5
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Thief Attack and Saving Throws
 
-| Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
-| :----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
-| 1-2    |                       13+ |            13+ |            16+ |            14+ |    15+ |          10+ |
-| 3-4    |                       12+ |            12+ |            15+ |            13+ |    14+ |           9+ |
-| 5-6    |                       11+ |            11+ |            14+ |            12+ |    13+ |           8+ |
-| 7-8    |                       10+ |            10+ |            13+ |            11+ |    12+ |           7+ |
-| 9-10   |                        9+ |             9+ |            12+ |            10+ |    11+ |           6+ |
-| 11-12  |                        8+ |             8+ |            11+ |             9+ |    10+ |           5+ |
-| 13-14+ |                        7+ |             7+ |            10+ |             8+ |     9+ |           4+ |
+Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+:----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+1-2    |                       13+ |            13+ |            16+ |            14+ |    15+ |          10+
+3-4    |                       12+ |            12+ |            15+ |            13+ |    14+ |           9+
+5-6    |                       11+ |            11+ |            14+ |            12+ |    13+ |           8+
+7-8    |                       10+ |            10+ |            13+ |            11+ |    12+ |           7+
+9-10   |                        9+ |             9+ |            12+ |            10+ |    11+ |           6+
+11-12  |                        8+ |             8+ |            11+ |             9+ |    10+ |           5+
+13-14+ |                        7+ |             7+ |            10+ |             8+ |     9+ |           4+
 
 
 ### Thief Skills
 
-| Level | Open Locks | Find and Remove Traps | Pick Pockets* | Move Silently | Climb Walls | Hide in Shadows | Hear Noise |
-| :---- | ---------: | --------------------: | ------------: | ------------: | ----------: | --------------: | ---------: |
-|     1 |        18+ |                   18+ |           17+ |           17+ |          6+ |             19+ |        14+ |
-|     2 |        17+ |                   17+ |           16+ |           16+ |          5+ |             18+ |        13+ |
-|     3 |        16+ |                   16+ |           15+ |           15+ |          5+ |             17+ |        12+ |
-|     4 |        15+ |                   15+ |           14+ |           14+ |          4+ |             16+ |        11+ |
-|     5 |        14+ |                   14+ |           13+ |           13+ |          4+ |             15+ |        10+ |
-|     6 |        12+ |                   13+ |           12+ |           12+ |          4+ |             14+ |         9+ |
-|     7 |        10+ |                   11+ |           10+ |           10+ |          3+ |             12+ |         8+ |
-|     8 |         8+ |                    9+ |            8+ |            8+ |          3+ |             10+ |         7+ |
-|     9 |         6+ |                    7+ |            6+ |            6+ |          3+ |              8+ |         6+ |
-|    10 |         4+ |                    5+ |            4+ |            4+ |          3+ |              6+ |         5+ |
-|    11 |         3+ |                    3+ |            2+ |            2+ |          2+ |              4+ |         4+ |
-|    12 |         2+ |                    2+ |           -1+ |            2+ |          2+ |              3+ |         3+ |
-|    13 |         1+ |                    2+ |           -3+ |            1+ |          1+ |              2+ |         2+ |
-|    14 |         1+ |                    1+ |           -5+ |            1+ |          1+ |              1+ |         1+ |
+Level | Open Locks | Find and Remove Traps | Pick Pockets* | Move Silently | Climb Walls | Hide in Shadows | Hear Noise
+:---- | ---------: | --------------------: | ------------: | ------------: | ----------: | --------------: | ---------:
+    1 |        18+ |                   18+ |           17+ |           17+ |          6+ |             19+ |        14+
+    2 |        17+ |                   17+ |           16+ |           16+ |          5+ |             18+ |        13+
+    3 |        16+ |                   16+ |           15+ |           15+ |          5+ |             17+ |        12+
+    4 |        15+ |                   15+ |           14+ |           14+ |          4+ |             16+ |        11+
+    5 |        14+ |                   14+ |           13+ |           13+ |          4+ |             15+ |        10+
+    6 |        12+ |                   13+ |           12+ |           12+ |          4+ |             14+ |         9+
+    7 |        10+ |                   11+ |           10+ |           10+ |          3+ |             12+ |         8+
+    8 |         8+ |                    9+ |            8+ |            8+ |          3+ |             10+ |         7+
+    9 |         6+ |                    7+ |            6+ |            6+ |          3+ |              8+ |         6+
+   10 |         4+ |                    5+ |            4+ |            4+ |          3+ |              6+ |         5+
+   11 |         3+ |                    3+ |            2+ |            2+ |          2+ |              4+ |         4+
+   12 |         2+ |                    2+ |           -1+ |            2+ |          2+ |              3+ |         3+
+   13 |         1+ |                    2+ |           -3+ |            1+ |          1+ |              2+ |         2+
+   14 |         1+ |                    1+ |           -5+ |            1+ |          1+ |              1+ |         1+
 
 *-1 penalty on the proficiency throw per each level the thief is lower than the victim.
 
@@ -440,40 +440,40 @@ This pre-generated template represents a swaggering killer-for-hire. The templat
 
 #### Assassin Level Progression
 
-| Experience | Title                       | Level | Hit Dice | Damage Bonus | Backstab |
-| ---------: | :-------------------------- | ----: | :------- | -----------: | -------: |
-|          0 | Thug                        |     1 | 1d6      |           +1 |       x2 |
-|      1,700 | Enforcer                    |     2 | 2d6      |           +1 |       x2 |
-|      3,400 | Torturer                    |     3 | 3d6      |           +2 |       x2 |
-|      6,800 | Slayer                      |     4 | 4d6      |           +2 |       x2 |
-|     14,000 | Destroyer                   |     5 | 5d6      |           +2 |       x3 |
-|     28,000 | Executioner                 |     6 | 6d6      |           +3 |       x3 |
-|     55,000 | Blackguard                  |     7 | 7d6      |           +3 |       x3 |
-|    110,000 | Assassin                    |     8 | 8d6      |           +3 |       x3 |
-|    230,000 | Master Assassin             |     9 | 9d6      |           +4 |       x4 |
-|    350,000 | Master Assassin, 10th level |    10 | 9d6+2*   |           +4 |       x4 |
-|    470,000 | Master Assassin, 11th level |    11 | 9d6+4*   |           +4 |       x4 |
-|    590,000 | Master Assassin, 12th level |    12 | 9d6+6*   |           +5 |       x4 |
-|    710,000 | Master Assassin, 13th level |    13 | 9d6+8*   |           +5 |       x5 |
-|    830,000 | Grandfather of Assassins    |    14 | 9d6+10*  |           +5 |       x5 |
+Experience | Title                       | Level | Hit Dice | Damage Bonus | Backstab
+---------: | :-------------------------- | ----: | :------- | -----------: | -------:
+         0 | Thug                        |     1 | 1d6      |           +1 |       x2
+     1,700 | Enforcer                    |     2 | 2d6      |           +1 |       x2
+     3,400 | Torturer                    |     3 | 3d6      |           +2 |       x2
+     6,800 | Slayer                      |     4 | 4d6      |           +2 |       x2
+    14,000 | Destroyer                   |     5 | 5d6      |           +2 |       x3
+    28,000 | Executioner                 |     6 | 6d6      |           +3 |       x3
+    55,000 | Blackguard                  |     7 | 7d6      |           +3 |       x3
+   110,000 | Assassin                    |     8 | 8d6      |           +3 |       x3
+   230,000 | Master Assassin             |     9 | 9d6      |           +4 |       x4
+   350,000 | Master Assassin, 10th level |    10 | 9d6+2*   |           +4 |       x4
+   470,000 | Master Assassin, 11th level |    11 | 9d6+4*   |           +4 |       x4
+   590,000 | Master Assassin, 12th level |    12 | 9d6+6*   |           +5 |       x4
+   710,000 | Master Assassin, 13th level |    13 | 9d6+8*   |           +5 |       x5
+   830,000 | Grandfather of Assassins    |    14 | 9d6+10*  |           +5 |       x5
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Assassin (Fighter) Attack and Saving Throws
 
-| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
-| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
-| 1     |                       15+ |            14+ |            16+ |            16+ |    17+ |          10+ |
-| 2-3   |                       14+ |            13+ |            15+ |            15+ |    16+ |           9+ |
-| 4     |                       13+ |            12+ |            14+ |            14+ |    15+ |           8+ |
-| 5-6   |                       12+ |            11+ |            13+ |            13+ |    14+ |           7+ |
-| 7     |                       11+ |            10+ |            12+ |            12+ |    13+ |           6+ |
-| 8-9   |                       10+ |             9+ |            11+ |            11+ |    12+ |           5+ |
-| 10    |                        9+ |             8+ |            10+ |            10+ |    11+ |           4+ |
-| 11-12 |                        8+ |             7+ |             9+ |             9+ |    10+ |           3+ |
-| 13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+ |
-| 14+   |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+ |
+Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+:---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+1     |                       15+ |            14+ |            16+ |            16+ |    17+ |          10+
+2-3   |                       14+ |            13+ |            15+ |            15+ |    16+ |           9+
+4     |                       13+ |            12+ |            14+ |            14+ |    15+ |           8+
+5-6   |                       12+ |            11+ |            13+ |            13+ |    14+ |           7+
+7     |                       11+ |            10+ |            12+ |            12+ |    13+ |           6+
+8-9   |                       10+ |             9+ |            11+ |            11+ |    12+ |           5+
+10    |                        9+ |             8+ |            10+ |            10+ |    11+ |           4+
+11-12 |                        8+ |             7+ |             9+ |             9+ |    10+ |           3+
+13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+
+14+   |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
 
 
 ### Bard
@@ -515,37 +515,37 @@ This pre-generated template represents a wandering minstrel with magic in his so
 
 #### Bard Level Progression
 
-| Experience | Title            | Level | Hit Dice | Arcane Dabbling | Loremastery |
-| ---------: | :--------------- | ----: | :------- | --------------: | ----------: |
-|          0 | Reciter          |     1 | 1d6      |             18+ |         18+ |
-|      1,400 | Versifier        |     2 | 2d6      |             16+ |         17+ |
-|      2,800 | Archivist        |     3 | 3d6      |             14+ |         16+ |
-|      5,600 | Annalist         |     4 | 4d6      |             12+ |         15+ |
-|     11,200 | Chronicler       |     5 | 5d6      |             10+ |         14+ |
-|     22,400 | Panegyrist       |     6 | 6d6      |              8+ |         13+ |
-|     45,000 | Skald            |     7 | 7d6      |              6+ |         12+ |
-|     90,000 | Rhapsodist       |     8 | 8d6      |              4+ |         11+ |
-|    190,000 | Bard             |     9 | 9d6      |              3+ |         10+ |
-|    290,000 | Bard, 10th level |    10 | 9d6+2*   |              3+ |          9+ |
-|    390,000 | Bard, 11th level |    11 | 9d6+4*   |              3+ |          8+ |
-|    490,000 | Bard, 12th level |    12 | 9d6+6*   |              3+ |          7+ |
-|    590,000 | Bard, 13th level |    13 | 9d6+8*   |              3+ |          6+ |
-|    690,000 | Master Bard      |    14 | 9d6+10*  |              3+ |          5+ |
+Experience | Title            | Level | Hit Dice | Arcane Dabbling | Loremastery
+---------: | :--------------- | ----: | :------- | --------------: | ----------:
+         0 | Reciter          |     1 | 1d6      |             18+ |         18+
+     1,400 | Versifier        |     2 | 2d6      |             16+ |         17+
+     2,800 | Archivist        |     3 | 3d6      |             14+ |         16+
+     5,600 | Annalist         |     4 | 4d6      |             12+ |         15+
+    11,200 | Chronicler       |     5 | 5d6      |             10+ |         14+
+    22,400 | Panegyrist       |     6 | 6d6      |              8+ |         13+
+    45,000 | Skald            |     7 | 7d6      |              6+ |         12+
+    90,000 | Rhapsodist       |     8 | 8d6      |              4+ |         11+
+   190,000 | Bard             |     9 | 9d6      |              3+ |         10+
+   290,000 | Bard, 10th level |    10 | 9d6+2*   |              3+ |          9+
+   390,000 | Bard, 11th level |    11 | 9d6+4*   |              3+ |          8+
+   490,000 | Bard, 12th level |    12 | 9d6+6*   |              3+ |          7+
+   590,000 | Bard, 13th level |    13 | 9d6+8*   |              3+ |          6+
+   690,000 | Master Bard      |    14 | 9d6+10*  |              3+ |          5+
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Bard (Thief) Attack and Saving Throws
 
-| Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
-| :----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
-| 1-2    |                       13+ |            13+ |            16+ |            14+ |    15+ |          10+ |
-| 3-4    |                       12+ |            12+ |            15+ |            13+ |    14+ |           9+ |
-| 5-6    |                       11+ |            11+ |            14+ |            12+ |    13+ |           8+ |
-| 7-8    |                       10+ |            10+ |            13+ |            11+ |    12+ |           7+ |
-| 9-10   |                        9+ |             9+ |            12+ |            10+ |    11+ |           6+ |
-| 11-12  |                        8+ |             8+ |            11+ |             9+ |    10+ |           5+ |
-| 13-14+ |                        7+ |             7+ |            10+ |             8+ |     9+ |           4+ |
+Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+:----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+1-2    |                       13+ |            13+ |            16+ |            14+ |    15+ |          10+
+3-4    |                       12+ |            12+ |            15+ |            13+ |    14+ |           9+
+5-6    |                       11+ |            11+ |            14+ |            12+ |    13+ |           8+
+7-8    |                       10+ |            10+ |            13+ |            11+ |    12+ |           7+
+9-10   |                        9+ |             9+ |            12+ |            10+ |    11+ |           6+
+11-12  |                        8+ |             8+ |            11+ |             9+ |    10+ |           5+
+13-14+ |                        7+ |             7+ |            10+ |             8+ |     9+ |           4+
 
 
 ### Bladedancer
@@ -579,37 +579,37 @@ This pre-generated template represents a temple-trained bladedancer. The templat
 
 #### Bladedancer Level and Spell Progression
 
-| Experience | Title                      | Level | Hit Dice | AC Bonus |   1 |   2 |   3 |   4 |   5 |
-| ---------: | :------------------------- | ----: | :------- | -------: | --: | --: | --: | --: | --: |
-|          0 | Blade-Initiate             |     1 | 1d6      |       +1 |   0 |   0 |   0 |   0 |   0 |
-|      1,500 | Blade-Daughter             |     2 | 2d6      |       +1 |   1 |   0 |   0 |   0 |   0 |
-|      3,000 | Blade-Singer               |     3 | 3d6      |       +1 |   2 |   0 |   0 |   0 |   0 |
-|      6,000 | Blade-Weaver               |     4 | 4d6      |       +1 |   2 |   1 |   0 |   0 |   0 |
-|     12,000 | Blade-Sister               |     5 | 5d6      |       +1 |   2 |   2 |   0 |   0 |   0 |
-|     24,000 | Blade-Adept                |     6 | 6d6      |       +1 |   2 |   2 |   1 |   1 |   0 |
-|     50,000 | Blade-Dancer               |     7 | 7d6      |       +2 |   2 |   2 |   2 |   1 |   1 |
-|    100,000 | Blade-Priestess            |     8 | 8d6      |       +2 |   3 |   3 |   2 |   2 |   1 |
-|    200,000 | Blade-Mistress             |     9 | 9d6      |       +2 |   3 |   3 |   3 |   2 |   2 |
-|    300,000 | Blade-Mistress, 10th level |    10 | 9d6+1*   |       +2 |   4 |   4 |   3 |   3 |   2 |
-|    400,000 | Blade-Mistress, 11th level |    11 | 9d6+2*   |       +2 |   4 |   4 |   4 |   3 |   3 |
-|    500,000 | Blade-Mistress, 12th level |    12 | 9d6+3*   |       +2 |   5 |   5 |   4 |   4 |   3 |
-|    600,000 | Blade-Mistress, 13th level |    13 | 9d6+4*   |       +3 |   5 |   5 |   5 |   4 |   3 |
-|    700,000 | Mistress of All Blades     |    14 | 9d6+5*   |       +3 |   6 |   5 |   5 |   5 |   4 |
+Experience | Title                      | Level | Hit Dice | AC Bonus |   1 |   2 |   3 |   4 |   5
+---------: | :------------------------- | ----: | :------- | -------: | --: | --: | --: | --: | --:
+         0 | Blade-Initiate             |     1 | 1d6      |       +1 |   0 |   0 |   0 |   0 |   0
+     1,500 | Blade-Daughter             |     2 | 2d6      |       +1 |   1 |   0 |   0 |   0 |   0
+     3,000 | Blade-Singer               |     3 | 3d6      |       +1 |   2 |   0 |   0 |   0 |   0
+     6,000 | Blade-Weaver               |     4 | 4d6      |       +1 |   2 |   1 |   0 |   0 |   0
+    12,000 | Blade-Sister               |     5 | 5d6      |       +1 |   2 |   2 |   0 |   0 |   0
+    24,000 | Blade-Adept                |     6 | 6d6      |       +1 |   2 |   2 |   1 |   1 |   0
+    50,000 | Blade-Dancer               |     7 | 7d6      |       +2 |   2 |   2 |   2 |   1 |   1
+   100,000 | Blade-Priestess            |     8 | 8d6      |       +2 |   3 |   3 |   2 |   2 |   1
+   200,000 | Blade-Mistress             |     9 | 9d6      |       +2 |   3 |   3 |   3 |   2 |   2
+   300,000 | Blade-Mistress, 10th level |    10 | 9d6+1*   |       +2 |   4 |   4 |   3 |   3 |   2
+   400,000 | Blade-Mistress, 11th level |    11 | 9d6+2*   |       +2 |   4 |   4 |   4 |   3 |   3
+   500,000 | Blade-Mistress, 12th level |    12 | 9d6+3*   |       +2 |   5 |   5 |   4 |   4 |   3
+   600,000 | Blade-Mistress, 13th level |    13 | 9d6+4*   |       +3 |   5 |   5 |   5 |   4 |   3
+   700,000 | Mistress of All Blades     |    14 | 9d6+5*   |       +3 |   6 |   5 |   5 |   5 |   4
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Bladedancer (Cleric) Attack and Saving Throws
 
-| Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
-| :----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
-| 1-2    |                       13+ |            10+ |            16+ |            13+ |    15+ |          10+ |
-| 3-4    |                       12+ |             9+ |            15+ |            12+ |    14+ |           9+ |
-| 5-6    |                       11+ |             8+ |            14+ |            11+ |    13+ |           8+ |
-| 7-8    |                       10+ |             7+ |            13+ |            10+ |    12+ |           7+ |
-| 9-10   |                        9+ |             6+ |            12+ |             9+ |    11+ |           6+ |
-| 11-12  |                        8+ |             5+ |            11+ |             8+ |    10+ |           5+ |
-| 13-14+ |                        7+ |             4+ |            10+ |             7+ |     9+ |           4+ |
+Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+:----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+1-2    |                       13+ |            10+ |            16+ |            13+ |    15+ |          10+
+3-4    |                       12+ |             9+ |            15+ |            12+ |    14+ |           9+
+5-6    |                       11+ |             8+ |            14+ |            11+ |    13+ |           8+
+7-8    |                       10+ |             7+ |            13+ |            10+ |    12+ |           7+
+9-10   |                        9+ |             6+ |            12+ |             9+ |    11+ |           6+
+11-12  |                        8+ |             5+ |            11+ |             8+ |    10+ |           5+
+13-14+ |                        7+ |             4+ |            10+ |             7+ |     9+ |           4+
 
 
 ### Explorer
@@ -645,40 +645,40 @@ This pre-generated template represents a keen-eyed archer and tracker. The templ
 
 #### Explorer Level Progression
 
-| Experience    | Title                   | Level  | Hit Dice       | Damage Bonus |
-| ------------: | :---------------------- | -----: | :------------- | -----------: |
-| 0             | Scout                   | 1      | 1d6            | +1           |
-| 2,000         | Outrider                | 2      | 2d6            | +1           |
-| 4,000         | Forester                | 3      | 3d6            | +2           |
-| 8,000         | Explorer                | 4      | 4d6            | +2           |
-| 16,000        | Guide                   | 5      | 5d6            | +2           |
-| 32,000        | Tracker                 | 6      | 6d6            | +3           |
-| 65,000        | Pathfinder              | 7      | 7d6            | +3           |
-| 130,000       | Ranger                  | 8      | 8d6            | +3           |
-| 250,000       | Warden                  | 9      | 9d6            | +4           |
-| 370,000       | Warden, 10th level      | 10     | 9d6+2*         | +4           |
-| 490,000       | Warden, 11th level      | 11     | 9d6+4*         | +4           |
-| 610,000       | Warden, 12th level      | 12     | 9d6+6*         | +5           |
-| 730,000       | Warden, 13th level      | 13     | 9d6+8*         | +5           |
-| 850,000       | Lord Warden             | 14     | 9d6+10*        | +5           |
+Experience    | Title                   | Level  | Hit Dice       | Damage Bonus
+------------: | :---------------------- | -----: | :------------- | -----------:
+            0 | Scout                   |      1 | 1d6            |           +1
+        2,000 | Outrider                |      2 | 2d6            |           +1
+        4,000 | Forester                |      3 | 3d6            |           +2
+        8,000 | Explorer                |      4 | 4d6            |           +2
+       16,000 | Guide                   |      5 | 5d6            |           +2
+       32,000 | Tracker                 |      6 | 6d6            |           +3
+       65,000 | Pathfinder              |      7 | 7d6            |           +3
+      130,000 | Ranger                  |      8 | 8d6            |           +3
+      250,000 | Warden                  |      9 | 9d6            |           +4
+      370,000 | Warden, 10th level      |     10 | 9d6+2*         |           +4
+      490,000 | Warden, 11th level      |     11 | 9d6+4*         |           +4
+      610,000 | Warden, 12th level      |     12 | 9d6+6*         |           +5
+      730,000 | Warden, 13th level      |     13 | 9d6+8*         |           +5
+      850,000 | Lord Warden             |     14 | 9d6+10*        |           +5
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Explorer (Fighter) Attack and Saving Throws
 
-| Level             | Petrification & Paralysis   | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
-| :---------------- | --------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
-| 1                 | 15+                         | 14+            | 16+            | 16+            | 17+    | 10+          |
-| 2-3               | 14+                         | 13+            | 15+            | 15+            | 16+    | 9+           |
-| 4                 | 13+                         | 12+            | 14+            | 14+            | 15+    | 8+           |
-| 5-6               | 12+                         | 11+            | 13+            | 13+            | 14+    | 7+           |
-| 7                 | 11+                         | 10+            | 12+            | 12+            | 13+    | 6+           |
-| 8-9               | 10+                         | 9+             | 11+            | 11+            | 12+    | 5+           |
-| 10                | 9+                          | 8+             | 10+            | 10+            | 11+    | 4+           |
-| 11-12             | 8+                          | 7+             | 9+             | 9+             | 10+    | 3+           |
-| 13                | 7+                          | 6+             | 8+             | 8+             | 9+     | 2+           |
-| 14+               | 6+                          | 5+             | 7+             | 7+             | 8+     | 1+           |
+Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+:---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+1     |                       15+ |            14+ |            16+ |            16+ |    17+ |          10+
+2-3   |                       14+ |            13+ |            15+ |            15+ |    16+ |           9+
+4     |                       13+ |            12+ |            14+ |            14+ |    15+ |           8+
+5-6   |                       12+ |            11+ |            13+ |            13+ |    14+ |           7+
+7     |                       11+ |            10+ |            12+ |            12+ |    13+ |           6+
+8-9   |                       10+ |             9+ |            11+ |            11+ |    12+ |           5+
+10    |                        9+ |             8+ |            10+ |            10+ |    11+ |           4+
+11-12 |                        8+ |             7+ |             9+ |             9+ |    10+ |           3+
+13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+
+14+   |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
 
 
 ### Demi-Human Classes
@@ -715,38 +715,38 @@ This pre-generated template represents a dwarven vaultguard specializing in figh
 
 #### Dwarven Vaultguard Level Progression
 
-| Experience        | Title                       | Level          | Hit Dice       | Damage Bonus |
-| ----------------: | :-------------------------- | -------------: | :------------- | -----------: |
-| 0                 | Sentry                      | 1              | 1d8            | +1           |
-| 2,200             | Warden                      | 2              | 2d8            | +1           |
-| 4,400             | Shieldbearer                | 3              | 3d8            | +2           |
-| 8,800             | Defender                    | 4              | 4d8            | +2           |
-| 17,500            | Sentinel                    | 5              | 5d8            | +2           |
-| 35,000            | Guardian                    | 6              | 6d8            | +3           |
-| 70,000            | Champion                    | 7              | 7d8            | +3           |
-| 140,000           | Vaultguard                  | 8              | 8d8            | +3           |
-| 270,000           | Vaultlord                   | 9              | 9d8            | +4           |
-| 400,000           | Vaultlord, 10th lvl         | 10             | 9d8+3*         | +4           |
-| 530,000           | Vaultlord, 11th lvl         | 11             | 9d8+6*         | +4           |
-| 660,000           | Vaultlord, 12th lvl         | 12             | 9d8+9*         | +5           |
-| 790,000           | Vaultlord, 13th lvl         | 13             | 9d8+12*        | +5           |
+Experience | Title               | Level | Hit Dice | Damage Bonus
+---------: | :------------------ | ----: | :------- | -----------:
+         0 | Sentry              |     1 | 1d8      |           +1
+     2,200 | Warden              |     2 | 2d8      |           +1
+     4,400 | Shieldbearer        |     3 | 3d8      |           +2
+     8,800 | Defender            |     4 | 4d8      |           +2
+    17,500 | Sentinel            |     5 | 5d8      |           +2
+    35,000 | Guardian            |     6 | 6d8      |           +3
+    70,000 | Champion            |     7 | 7d8      |           +3
+   140,000 | Vaultguard          |     8 | 8d8      |           +3
+   270,000 | Vaultlord           |     9 | 9d8      |           +4
+   400,000 | Vaultlord, 10th lvl |    10 | 9d8+3*   |           +4
+   530,000 | Vaultlord, 11th lvl |    11 | 9d8+6*   |           +4
+   660,000 | Vaultlord, 12th lvl |    12 | 9d8+9*   |           +5
+   790,000 | Vaultlord, 13th lvl |    13 | 9d8+12*  |           +5
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Dwarven Vaultguard (Fighter) Attack and Saving Throws
 
-| Level  | Petrification & Paralysis  | Poison & Death     | Blast & Breath         | Staffs & Wands         | Spells         | Attack Throw |
-| :----- | -------------------------: | -----------------: | ---------------------: | ---------------------: | -------------: | -----------: |
-| 1      | 11+                        | 10+                | 13+                    | 12+                    | 13+            | 10+          |
-| 2-3    | 10+                        | 9+                 | 12+                    | 11+                    | 12+            | 9+           |
-| 4      | 9+                         | 8+                 | 11+                    | 10+                    | 11+            | 8+           |
-| 5-6    | 8+                         | 7+                 | 10+                    | 9+                     | 10+            | 7+           |
-| 7      | 7+                         | 6+                 | 9+                     | 8+                     | 9+             | 6+           |
-| 8-9    | 6+                         | 5+                 | 8+                     | 7+                     | 8+             | 5+           |
-| 10     | 5+                         | 4+                 | 7+                     | 6+                     | 7+             | 4+           |
-| 11-12  | 4+                         | 3+                 | 6+                     | 5+                     | 6+             | 3+           |
-| 13     | 3+                         | 2+                 | 5+                     | 4+                     | 5+             | 2+           |
+Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+:---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+1     |                       11+ |            10+ |            13+ |            12+ |    13+ |          10+
+2-3   |                       10+ |             9+ |            12+ |            11+ |    12+ |           9+
+4     |                        9+ |             8+ |            11+ |            10+ |    11+ |           8+
+5-6   |                        8+ |             7+ |            10+ |             9+ |    10+ |           7+
+7     |                        7+ |             6+ |             9+ |             8+ |     9+ |           6+
+8-9   |                        6+ |             5+ |             8+ |             7+ |     8+ |           5+
+10    |                        5+ |             4+ |             7+ |             6+ |     7+ |           4+
+11-12 |                        4+ |             3+ |             6+ |             5+ |     6+ |           3+
+13    |                        3+ |             2+ |             5+ |             4+ |     5+ |           2+
 
 
 ### Dwarven Craftpriest
@@ -781,31 +781,31 @@ This pre-generated template represents a craftpriest focused on reclaiming lost 
 
 #### Craftpriest Level and Spell Progression
 
-| Experience | Title                        | Level | Hit Dice |   1 |   2 |   3 |   4 |   5 |
-| ---------: | :--------------------------- | ----: | :------- | --: | --: | --: | --: | --: |
-|          0 | Dwarven Craft-Catechist      |     1 | 1d6      |   0 |   0 |   0 |   0 |   0 |
-|      2,650 | Dwarven Craft-Acolyte        |     2 | 2d6      |   1 |   0 |   0 |   0 |   0 |
-|      5,300 | Dwarven Craftpriest          |     3 | 3d6      |   2 |   0 |   0 |   0 |   0 |
-|     10,600 | Dwarven Craft-Curate         |     4 | 4d6      |   2 |   1 |   0 |   0 |   0 |
-|     21,200 | Dwarven Craft-Vicar          |     5 | 5d6      |   2 |   2 |   0 |   0 |   0 |
-|     42,500 | Dwarven Craft-Rector         |     6 | 6d6      |   2 |   2 |   1 |   1 |   0 |
-|     85,000 | Dwarven Craft-Prelate        |     7 | 7d6      |   2 |   2 |   2 |   1 |   1 |
-|    170,000 | Dwarven Craft-Bishop         |     8 | 8d6      |   3 |   3 |   2 |   2 |   1 |
-|    300,000 | Dwarven Craft-Lord           |     9 | 9d6      |   3 |   3 |   3 |   2 |   2 |
-|    430,000 | Dwarven Craft-Lord, 10th lvl |    10 | 9d6+2*   |   4 |   4 |   3 |   3 |   2 |
+Experience | Title                        | Level | Hit Dice |   1 |   2 |   3 |   4 |   5
+---------: | :--------------------------- | ----: | :------- | --: | --: | --: | --: | --:
+         0 | Dwarven Craft-Catechist      |     1 | 1d6      |   0 |   0 |   0 |   0 |   0
+     2,650 | Dwarven Craft-Acolyte        |     2 | 2d6      |   1 |   0 |   0 |   0 |   0
+     5,300 | Dwarven Craftpriest          |     3 | 3d6      |   2 |   0 |   0 |   0 |   0
+    10,600 | Dwarven Craft-Curate         |     4 | 4d6      |   2 |   1 |   0 |   0 |   0
+    21,200 | Dwarven Craft-Vicar          |     5 | 5d6      |   2 |   2 |   0 |   0 |   0
+    42,500 | Dwarven Craft-Rector         |     6 | 6d6      |   2 |   2 |   1 |   1 |   0
+    85,000 | Dwarven Craft-Prelate        |     7 | 7d6      |   2 |   2 |   2 |   1 |   1
+   170,000 | Dwarven Craft-Bishop         |     8 | 8d6      |   3 |   3 |   2 |   2 |   1
+   300,000 | Dwarven Craft-Lord           |     9 | 9d6      |   3 |   3 |   3 |   2 |   2
+   430,000 | Dwarven Craft-Lord, 10th lvl |    10 | 9d6+2*   |   4 |   4 |   3 |   3 |   2
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Dwarven Craftpriest (Cleric) Attack and Saving Throws
 
-| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
-| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
-| 1-2   |                        9+ |             6+ |            13+ |             9+ |    11+ |          10+ |
-| 3-4   |                        8+ |             5+ |            12+ |             8+ |    10+ |           9+ |
-| 5-6   |                        7+ |             4+ |            11+ |             7+ |     9+ |           8+ |
-| 7-8   |                        6+ |             3+ |            10+ |             6+ |     8+ |           7+ |
-| 9-10  |                        5+ |             2+ |             9+ |             5+ |     7+ |           6+ |
+Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+:---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+1-2   |                        9+ |             6+ |            13+ |             9+ |    11+ |          10+
+3-4   |                        8+ |             5+ |            12+ |             8+ |    10+ |           9+
+5-6   |                        7+ |             4+ |            11+ |             7+ |     9+ |           8+
+7-8   |                        6+ |             3+ |            10+ |             6+ |     8+ |           7+
+9-10  |                        5+ |             2+ |             9+ |             5+ |     7+ |           6+
 
 
 ### Elven Spellsword
@@ -839,33 +839,33 @@ This pre-generated template represents a traditional fighter-mage of elven herit
 
 #### Spellsword Level and Spell Progression
 
-| Experience | Title                   | Level | Hit Dice |   1 |   2 |   3 |   4 |
-| ---------: | :---------------------- | ----: | :------- | --: | --: | --: | --: |
-|          0 | Arcanist-Guardian       |     1 | 1d6      |   1 |   - |   - |   - |
-|      4,000 | Warrior-Seer            |     2 | 2d6      |   2 |   - |   - |   - |
-|      8,000 | Theurgist-Swordmaster   |     3 | 3d6      |   2 |   1 |   - |   - |
-|     16,000 | Magician-Hero           |     4 | 4d6      |   2 |   2 |   - |   - |
-|     32,000 | Thaumaturge-Exemplar    |     5 | 5d6      |   2 |   2 |   1 |   - |
-|     64,000 | Myrmidon-Enchanter      |     6 | 6d6      |   2 |   2 |   2 |   - |
-|    130,000 | Sorcerer-Champion       |     7 | 7d6      |   3 |   2 |   2 |   1 |
-|    260,000 | Epic Hero-Mage          |     8 | 8d6      |   3 |   3 |   2 |   2 |
-|    430,000 | Wizard-Lord             |     9 | 9d6      |   3 |   3 |   3 |   2 |
-|    600,000 | Wizard-Lord, 10th level |    10 | 9d6+2*   |   3 |   3 |   3 |   3 |
+Experience | Title                   | Level | Hit Dice |   1 |   2 |   3 |   4
+---------: | :---------------------- | ----: | :------- | --: | --: | --: | --:
+         0 | Arcanist-Guardian       |     1 | 1d6      |   1 |   - |   - |   -
+     4,000 | Warrior-Seer            |     2 | 2d6      |   2 |   - |   - |   -
+     8,000 | Theurgist-Swordmaster   |     3 | 3d6      |   2 |   1 |   - |   -
+    16,000 | Magician-Hero           |     4 | 4d6      |   2 |   2 |   - |   -
+    32,000 | Thaumaturge-Exemplar    |     5 | 5d6      |   2 |   2 |   1 |   -
+    64,000 | Myrmidon-Enchanter      |     6 | 6d6      |   2 |   2 |   2 |   -
+   130,000 | Sorcerer-Champion       |     7 | 7d6      |   3 |   2 |   2 |   1
+   260,000 | Epic Hero-Mage          |     8 | 8d6      |   3 |   3 |   2 |   2
+   430,000 | Wizard-Lord             |     9 | 9d6      |   3 |   3 |   3 |   2
+   600,000 | Wizard-Lord, 10th level |    10 | 9d6+2*   |   3 |   3 |   3 |   3
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Elven Spellsword (Fighter) Attack and Saving Throws
 
-| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
-| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
-| 1     |                       14+ |            14+ |            16+ |            16+ |    16+ |          10+ |
-| 2-3   |                       13+ |            13+ |            15+ |            15+ |    15+ |           9+ |
-| 4     |                       12+ |            12+ |            14+ |            14+ |    14+ |           8+ |
-| 5-6   |                       11+ |            11+ |            13+ |            13+ |    13+ |           7+ |
-| 7     |                       10+ |            10+ |            12+ |            12+ |    12+ |           6+ |
-| 8-9   |                        9+ |             9+ |            11+ |            11+ |    11+ |           5+ |
-| 10    |                        8+ |             8+ |            10+ |            10+ |    10+ |           4+ |
+Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+:---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+1     |                       14+ |            14+ |            16+ |            16+ |    16+ |          10+
+2-3   |                       13+ |            13+ |            15+ |            15+ |    15+ |           9+
+4     |                       12+ |            12+ |            14+ |            14+ |    14+ |           8+
+5-6   |                       11+ |            11+ |            13+ |            13+ |    13+ |           7+
+7     |                       10+ |            10+ |            12+ |            12+ |    12+ |           6+
+8-9   |                        9+ |             9+ |            11+ |            11+ |    11+ |           5+
+10    |                        8+ |             8+ |            10+ |            10+ |    10+ |           4+
 
 
 ### Elven Nightblade
@@ -901,33 +901,33 @@ This pre-generated template represents a silent killer with a penchant for poiso
 
 #### Nightblade Level and Spell Progression
 
-| Experience | Title                  | Level  | Hit Dice | Acrobatics |   1 |   2 |   3 |
-| ---------: | :--------------------- | -----: | :------- | ---------: | --: | --: | --: |
-|          0 | Arcanist-Avenger       |      1 | 1d6      |        20+ |   - |   - |   - |
-|      2,775 | Seer-Enforcer          |      2 | 2d6      |        19+ |   1 |   - |   - |
-|      5,550 | Theurgist-Torturer     |      3 | 3d6      |        18+ |   2 |   - |   - |
-|     11,100 | Magician-Slayer        |      4 | 4d6      |        17+ |   2 |   - |   - |
-|     22,200 | Thaumaturge-Destroyer  |      5 | 5d6      |        16+ |   2 |   1 |   - |
-|     45,000 | Enchanter-Executioner  |      6 | 6d6      |        15+ |   2 |   1 |   - |
-|     90,000 | Sorcerer-Blackguard    |      7 | 7d6      |        14+ |   2 |   2 |   - |
-|    180,000 | Mage-Assassin          |      8 | 8d6      |        13+ |   2 |   2 |   - |
-|    330,000 | Nightblade             |      9 | 9d6      |        12+ |   2 |   2 |   1 |
-|    480,000 | Nightblade, 10th level |     10 | 9d6+2*   |        11+ |   2 |   2 |   1 |
-|    630,000 | Nightblade, 11th level |     11 | 9d6+4*   |        10+ |   2 |   2 |   2 |
+Experience | Title                  | Level  | Hit Dice | Acrobatics |   1 |   2 |   3
+---------: | :--------------------- | -----: | :------- | ---------: | --: | --: | --:
+         0 | Arcanist-Avenger       |      1 | 1d6      |        20+ |   - |   - |   -
+     2,775 | Seer-Enforcer          |      2 | 2d6      |        19+ |   1 |   - |   -
+     5,550 | Theurgist-Torturer     |      3 | 3d6      |        18+ |   2 |   - |   -
+    11,100 | Magician-Slayer        |      4 | 4d6      |        17+ |   2 |   - |   -
+    22,200 | Thaumaturge-Destroyer  |      5 | 5d6      |        16+ |   2 |   1 |   -
+    45,000 | Enchanter-Executioner  |      6 | 6d6      |        15+ |   2 |   1 |   -
+    90,000 | Sorcerer-Blackguard    |      7 | 7d6      |        14+ |   2 |   2 |   -
+   180,000 | Mage-Assassin          |      8 | 8d6      |        13+ |   2 |   2 |   -
+   330,000 | Nightblade             |      9 | 9d6      |        12+ |   2 |   2 |   1
+   480,000 | Nightblade, 10th level |     10 | 9d6+2*   |        11+ |   2 |   2 |   1
+   630,000 | Nightblade, 11th level |     11 | 9d6+4*   |        10+ |   2 |   2 |   2
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Elven Nightblade (Thief) Attack and Saving Throws
 
-| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw |
-| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------: |
-| 1-2   |                       12+ |            13+ |            16+ |            14+ |    14+ |          10+ |
-| 3-4   |                       11+ |            12+ |            15+ |            13+ |    13+ |           9+ |
-| 5-6   |                       10+ |            11+ |            14+ |            12+ |    12+ |           8+ |
-| 7-8   |                        9+ |            10+ |            13+ |            11+ |    11+ |           7+ |
-| 9-10  |                        8+ |             9+ |            12+ |            10+ |    10+ |           6+ |
-| 11    |                        7+ |             8+ |            11+ |             9+ |     9+ |           5+ |
+Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+:---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+1-2   |                       12+ |            13+ |            16+ |            14+ |    14+ |          10+
+3-4   |                       11+ |            12+ |            15+ |            13+ |    13+ |           9+
+5-6   |                       10+ |            11+ |            14+ |            12+ |    12+ |           8+
+7-8   |                        9+ |            10+ |            13+ |            11+ |    11+ |           7+
+9-10  |                        8+ |             9+ |            12+ |            10+ |    10+ |           6+
+11    |                        7+ |             8+ |            11+ |             9+ |     9+ |           5+
 
 
 ### Alignment
