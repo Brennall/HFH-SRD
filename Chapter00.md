@@ -1,6 +1,6 @@
-# The Adventurer Conqueror King System
+# Adventurer Conqueror King System
 
-### Rules for Roleplaying in a World of Swords, Sorcery, and Strongholds
+**Rules for Roleplaying in a World of Swords, Sorcery, and Strongholds**
 
 ## Table of Contents
 

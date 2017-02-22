@@ -1,28 +1,24 @@
 [Previous](Chapter02.md) [Top](Chapter00.md) [Next](Chapter04.md)
 
----
-
-## Chapter 3: Equipment
+* * *
 
 
-### The Basics of Equipment
+# Chapter 3: Equipment
+
+
+## The Basics of Equipment
 
 All characters are assumed to begin with sturdy clothes suitable for adventuring. Any other equipment desired should be purchased using the character's starting wealth of 3d6x10gp.
 
 Each character should purchase equipment suitable for their class. For example, fighters should purchase arms and armor to fight monsters and survive blows, while thieves need rope, crowbars, lock picks, and other special tools to scale obstacles, find traps, and open locks. Clerics will require holy symbols to drive back undead and mages will need spellbooks to record their dweomers.
 
 
-### Coins and Money
+## Coins and Money
 
 Equipment is purchased using money. Paper currency is non-existent in the world of Adventurer Conqueror King, so money takes the form of coins of precious metal, the most important of which is the gold piece (gp). A gold piece is worth 2 electrum pieces (ep) or 10 silver pieces (sp). Each silver piece is worth 10 copper pieces (cp). In addition to copper, silver, electrum, and gold coins, there are also platinum pieces (pp), which are each worth 5gp.
 
 
-### What's a Gold Piece Worth?
-
-To put the value of currency in perspective, the Standard of Living table, below, shows how far a gold piece will go towards cost of living at different standards of comfort. A single gold piece is enough for a peasant to subsist at a wretched quality of life. Early in their career, adventurers will typically live on a few dozen gold pieces per month, enough to eat and sleep at an inn. A dragon's treasure hoard of 50,000gp might keep a village of peasants alive for decade, but merely cover a prince's monthly budget. Wealth is assumed to be highly concentrated in ACKS campaign worlds.
-
-
-### Exchange Value
+#### Exchange Value
 
 Coins               | = | cp    | sp    | ep    | gp    | pp
 :------------------ |:-:| ----: | ----: | ----: | ----: | ----:
@@ -33,6 +29,12 @@ Gold Piece (gp)     | = | 100   | 10    | 2     | 1     | 1/5
 Platinum Piece (pp) | = | 500   | 50    | 10    | 5     | 1
 
 
+### What's a Gold Piece Worth?
+
+To put the value of currency in perspective, the Standard of Living table, below, shows how far a gold piece will go towards cost of living at different standards of comfort. A single gold piece is enough for a peasant to subsist at a wretched quality of life. Early in their career, adventurers will typically live on a few dozen gold pieces per month, enough to eat and sleep at an inn. A dragon's treasure hoard of 50,000gp might keep a village of peasants alive for decade, but merely cover a prince's monthly budget. Wealth is assumed to be highly concentrated in ACKS campaign worlds.
+
+
+#### Standard of Living
 
 Standard of Living     | Monthly Cost           | Common Professions
 :--------------------- | :--------------------- | :--------------------
@@ -47,7 +49,7 @@ Luxuriant              | 12,000-80,000gp        | Dukes or princes, 10th-12th le
 Lavishly Opulent       | 80,000gp+              | Kings or emperors, 13th-14th level adventurers
 
 
-### Purchasing Equipment
+## Purchasing Equipment
 
 The arms, armor, and mundane gear available for purchase are listed on the Weapons and Equipment tables. These lists will also be handy when characters need to restock supplies between adventures. The equipment and other items listed on the Weapons and Equipment table are described in detail in the Equipment Descriptions section.
 
@@ -73,7 +75,7 @@ The Equipment Availability by Market Class table shows how many units of any pie
 Note that the values given are the number of each specific item, not the total number of items at that price level. For instance, a Class IV market will have 5 swords, 5 battle axes, and 5 of each other item priced at 2-10gp. Multiple small items sold as a bundle (such as 12 spikes, 6 torches, 20 arrows, etc) count as one item for purposes of the Equipment Availability by Market Class table.
 
 
-### Equipment Availability by Market Class
+#### Equipment Availability by Market Class
 
 Price            | Class I   | Class II  | Class III | Class IV  | Class V   | Class VI
 :--------------- | --------: | --------: | --------: | --------: | --------: | ---------: 
@@ -95,7 +97,7 @@ If equipment the adventurers desire to purchase is not available, they may commi
 *Example*: Marcus decides he'd like to commission a shipwright to build a war galley. Since Marcus is commissioning the war galley, the Judge checks for availability as if the war galley were one price category less expensive, putting it in the 1,001-10,00gp row. There is a 25% chance that a war galley could be commissioned in a Class III city this month. The Judge rolls a 17 on 1d100, so a shipwright is available. It will take 120 days for the war galley to be finished (60,000gp / 500gp per day).
 
 
-### Weapons and Equipment
+## Weapons and Equipment
 
 Armor                          | Cost   | AC
 :----------------------------- | -----: | --:
@@ -117,11 +119,11 @@ Plate Barding                  | 600gp  | 5
 
 Weapons                            | Cost        | Damage*
 :--------------------------------- | ----------: | :--------
-**Axes**:                          | -           | -
+*Axes*                             | -           | -
     Battle Axe                     | 7gp         | 1d6/1d8
     Great Axe (two-handed)         | 10gp        | 1d10
     Hand Axe                       | 4gp         | 1d6
-**Bows and Crossbows**:            | -           | -
+*Bows and Crossbows*               | -           | -
     Arbalest                       | 50gp        | 1d8
     Crossbow                       | 30gp        | 1d6
        Case with 20 Bolts          | 2gp         | -
@@ -130,31 +132,31 @@ Weapons                            | Cost        | Damage*
     Shortbow                       | 3gp         | 1d6
        Quiver with 20 Arrows       | 1gp         | -
        1 Silver-Tipped Arrow       | 5gp         | -
-**Catapults and Ballista**:        | -           | -
+*Catapults and Ballista*           | -           | -
     Ballista (800lb)               | 80gp        | 3d6
        Ballista Shot               | 4gp         | -
     Heavy Catapult (1,800lb)       | 200gp       | 4d6
     Light Catapult (1,200lb)       | 100gp       | 3d6
        Catapult Shot (25lb)        | 5gp         | -
        Catapult Shot, Pitch (25lb) | 25gp        | -
-**Flails, Hammers, and Maces**:    | -           | -
+*Flails, Hammers, and Maces*       | -           | -
     Club                           | 1gp         | 1d4
     Flail                          | 5gp         | 1d6/1d8
     Mace                           | 5gp         | 1d6/1d8
     Morning Star (two-handed)      | 10gp        | 1d10
     War Hammer                     | 5gp         | 1d6/1d8
-**Spears and Pole Arms**:          | -           | -
+*Spears and Pole Arms*             | -           | -
     Lance (mounted)                | 1gp         | 1d10
     Javelin                        | 1gp         | 1d6
     Pole Arm (two-handed)          | 7gp         | 1d10
     Spear                          | 3gp         | 1d6/1d8
-**Swords and Daggers**:            | -           | -
+*Swords and Daggers*               | -           | -
     Dagger                         | 3gp         | 1d4
     Silver Dagger                  | 30gp        | 1d4
     Short Sword                    | 7gp         | 1d6
     Sword                          | 10gp        | 1d6/1d8
     Two-Handed Sword               | 15gp        | 1d10
-**Other Weapons**:                 | -           | -
+*Other Weapons*                    | -           | -
     Bola                           | 5gp         | 1d2
     Darts (5)                      | 2gp         | 1d4
     Net                            | 1gp         | -
@@ -210,40 +212,6 @@ Wolfsbane (1lb)                   | 10gp
 Woundwart (1lb)                   | 10gp
 
 
-
-Foodstuffs                                     | Cost
-:--------------------------------------------- | ---------:
-Ale/Beer (cheap, 3 pints)                      | 1cp
-Ale/Beer (good, 1 pint)                        | 2cp
-Bread (white, 4lb)                             | 1sp
-Bread (wheat, 8lb)                             | 1sp
-Bread (coarse, 12lb)                           | 1sp
-Cheese (1lb)                                   | 5cp
-Cinnamon (clover, pepper, sugar) (1lb)         | 3gp
-Dried Fruit (1lb)                              | 1sp
-Eggs (1 dozen)                                 | 5cp
-Meal (1 person, poor to feast)                 | 1cp-10gp
-Meat (beef, chicken, mutton, or pork, 1lb)     | 1sp
-Saffron (1lb)                                  | 15gp
-Wine (cheap, 1 pint)                           | 2cp
-Wine (good, 1 pint)                            | 1sp
-Wine (rare, 1 pint)                            | 5sp
-
-
-
-Livestock                                      | Cost
-:--------------------------------------------- | ---------:
-Chicken (3lb)                                  | 1sp
-Cow (550lb)                                    | 10gp
-Dog (hunting)                                  | 10gp
-Dog (war)                                      | 75gp
-Goat (125lb)                                   | 3gp
-Hawk (trained)                                 | 20gp
-Pig (125lb)                                    | 3gp
-Sheep (80lb)                                   | 2gp
-
-
-
 Clothing                                      | Cost
 :-------------------------------------------- | ----------:
 Belt / Sash (leather)                         | 4sp
@@ -271,6 +239,47 @@ Wool (cheap, 1 yard)                          | 6sp
 Wool (fine, 1 yard)                           | 6gp
 
 
+Foodstuffs                                     | Cost
+:--------------------------------------------- | ---------:
+Ale/Beer (cheap, 3 pints)                      | 1cp
+Ale/Beer (good, 1 pint)                        | 2cp
+Bread (white, 4lb)                             | 1sp
+Bread (wheat, 8lb)                             | 1sp
+Bread (coarse, 12lb)                           | 1sp
+Cheese (1lb)                                   | 5cp
+Cinnamon (clover, pepper, sugar) (1lb)         | 3gp
+Dried Fruit (1lb)                              | 1sp
+Eggs (1 dozen)                                 | 5cp
+Meal (1 person, poor to feast)                 | 1cp-10gp
+Meat (beef, chicken, mutton, or pork, 1lb)     | 1sp
+Saffron (1lb)                                  | 15gp
+Wine (cheap, 1 pint)                           | 2cp
+Wine (good, 1 pint)                            | 1sp
+Wine (rare, 1 pint)                            | 5sp
+
+
+Lodging                               | Cost
+:------------------------------------ | ----------:
+Cottage (wood)                        | 300gp
+Inn (one person, one night, slum)     | 1sp
+Inn, one person, one night, average)  | 5sp
+Inn (one person, one night, superb)   | 2gp
+Hut (wattle)                          | 25gp
+Hut (wooden)                          | 50gp
+Townhouse (stone)                     | 1,200gp
+
+
+Livestock                                      | Cost
+:--------------------------------------------- | ---------:
+Chicken (3lb)                                  | 1sp
+Cow (550lb)                                    | 10gp
+Dog (hunting)                                  | 10gp
+Dog (war)                                      | 75gp
+Goat (125lb)                                   | 3gp
+Hawk (trained)                                 | 20gp
+Pig (125lb)                                    | 3gp
+Sheep (80lb)                                   | 2gp
+
 
 Land Transport                                 | Cost
 :--------------------------------------------- | ---------:
@@ -297,7 +306,6 @@ Stabling (warhorse, one night)                 | 5sp-1gp
 Wagon                                          | 200gp
 
 
-
 Maritime Transport                    | Cost
 :------------------------------------ | ----------:
 Barge/raft                            | 1gp/sq ft
@@ -314,19 +322,7 @@ Troop Transport (large)               | 30,000gp
 Troop Transport (small)               | 15,000gp
 
 
-
-Lodging                               | Cost
-:------------------------------------ | ----------:
-Cottage (wood)                        | 300gp
-Inn (one person, one night, slum)     | 1sp
-Inn, one person, one night, average)  | 5sp
-Inn (one person, one night, superb)   | 2gp
-Hut (wattle)                          | 25gp
-Hut (wooden)                          | 50gp
-Townhouse (stone)                     | 1,200gp
-
-
-### Equipment Descriptions
+## Equipment Descriptions
 
 **Arbalest**: An arbalest is a heavy crossbow, pulled with the mechanical assistance of a rack and pinion or windlass. Historical examples include the late medieval arbalest and the Three Kingdoms era Chinese heavy crossbow.
 
@@ -545,7 +541,7 @@ Townhouse (stone)                     | 1,200gp
 **Woundwart**: Woundwart, also known as heal-all or lamb's ears, is a herbal medicine with curative properties. An adventurer with Healing proficiency can use a woundwart tincture to treat injured characters. Used in this manner, it provides a +2 bonus on proficiency throws to cure light wounds and cure serious wounds.
 
 
-### Encumbrance
+## Encumbrance
 
 Encumbrance measures how much equipment and treasure characters are carrying. Encumbrance is important because characters can only carry so much, and if they are heavily weighed down with equipment they cannot carry as much treasure, nor move as fast. Encumbrance is measured in stone. A stone is a historical unit of measure that varied from 8 to 14lb depending on what was being measured. ACKS assumes a stone weighs around 10lb, but it is left purposefully abstract to represent an amalgam of weight, bulk, and generally portability.
 
@@ -572,7 +568,7 @@ For purposes of encumbrance, 1,000 coins are considered 1 stone. When a carrying
 A character's speed will be affected based on encumbrance, as shown on the Character Movement and Encumbrance table, below. For additional information on movement, see the Time and Movement section in the Adventures chapter. The maximum any character can carry is 20 stone, plus his Strength adjustment.
 
 
-### Character Movement and Encumbrance
+#### Character Movement and Encumbrance
 
 Encumbrance        | Exploration Movement        | Combat Movement        | Running Movement
 :----------------- | --------------------------: | ---------------------: | -----------------:
@@ -584,13 +580,10 @@ Up to max capacity | 30' per turn                | 10' per round          | 30' 
 
 *Example*: Marcus is carrying a two-handed sword (1 heavy item), a crossbow (1 heavy item), a mace (1 item), 2 daggers (1 item each), 1 week's iron rations (1 item), a tinderbox (1 item), 2 flasks of oil (1 item each), 3 stakes and mallet (1 item), a small mirror (1 item), a pound of wolfsbane (1 item), a pound of garlic (1 item), and a case with 20 bolts (1 item). He is carrying 12 items, which counts as 2 stone. His two-handed sword and crossbow count as 2 stone. Finally, he is wearing plate armor (AC6), which counts as 6 stone. His total encumbrance is 10 stone, so his exploration movement is 60' per turn. Later, he picks up 8,000 silver pieces. This increases his encumbrance to 18 stone, and reduces his exploration movement to 30' per turn.
 
-
 In order to carry more equipment and treasure, characters may purchase beasts of burdens and ground vehicles. Each animal or vehicle has a normal and maximum load it can carry in stone, as shown on the Animal/Vehicle Movement and Encumbrance table.
 
-The figure to the left of the slash is the animal or vehicle's movement rate per turn when not encumbered (carrying its normal load limit or less), and the figure to the right of the slash is its movement rate per turn when encumbered (carrying more than a normal load but not more than a maximum load).
 
-
-### Animal/Vehicle Movement and Encumbrance
+#### Animal/Vehicle Movement and Encumbrance
 
 Animal/Vehicle         | Exploration Movement           | Normal Load    | Maximum Load
 :--------------------- | -----------------------------: | -------------: | -------------:
@@ -609,8 +602,10 @@ Cart, Large, 2 Horses  | 60' / 30'                      | 120            | 240
 Wagon, 2 Horses        | 60' / 30'                      | 160            | 320
 Wagon, 4 Horses        | 60' / 30'                      | 320            | 640
 
+The figure to the left of the slash is the animal or vehicle's movement rate per turn when not encumbered (carrying its normal load limit or less), and the figure to the right of the slash is its movement rate per turn when encumbered (carrying more than a normal load but not more than a maximum load).
 
-### Hirelings, Henchmen, Mercenaries, and Specialists
+
+## Hirelings, Henchmen, Mercenaries, and Specialists
 
 In addition to buying equipment, adventurers may also spend their money to hire various NPCs, known as hirelings, to assist them. There are three types of hirelings. Henchmen are NPC sidekicks, companions, and associates. Henchmen are typically very loyal and are willing to take reasonable risks; in particular, they are the only sort of hireling who will generally accompany an adventurer into a dungeon, lair, or ruin. Mercenaries are hired soldiers, and will guard, patrol, and otherwise serve in wilderness settings, but only as part of a larger force, not an adventuring party. Specialists are hired individuals who have a particular trade or who have special knowledge. These individuals are usually hired for a specific task.
 
@@ -621,11 +616,11 @@ While adventurers often wish to hire as many hirelings as they can afford, hirel
 PCs may sometimes find potential hirelings while on adventures. Otherwise, in order to find hirelings, the PCs must carouse in pubs, post notices of help wanted, hand out fliers, and seek out adventuring companies, mercenary brotherhoods, or professional guilds. These activities cost money. Each week that the adventurers are in the market for hirelings, they must pay the fee listed on the table below. This fee is per type of hireling.
 
 
-### Hiring Availability by Market Class
+#### Hiring Availability by Market Class
 
 Hireling                       | Class I        | Class II       | Class III      | Class IV       | Class V        | Class VI
 :------------------------------| :------------- | :------------- | :------------- | :------------- | :------------- | :------------- 
-**Mercenaries**                | -              | -              | -              | -              | -              | -
+*Mercenaries*                  | -              | -              | -              | -              | -              | -
  Light Infantry                | 4d100          | 5d20           | 5d10           | 3d4            | 1d6            | 1d2
  Heavy Infantry                | 2d100          | 5d10           | 3d8            | 1d8            | 1d3            | 1 (85%)
  Slinger                       | 8d20           | 4d10           | 2d10           | 1d6            | 1d2            | 1 (70%)
@@ -639,7 +634,7 @@ Hireling                       | Class I        | Class II       | Class III    
  Heavy Cavalry                 | 4d10           | 1d10           | 1d6            | 1d2 (50%)      | 1 (50%)        | 1 (15%)
  Cataphract Cavalry            | 3d10           | 1d8            | 1d4            | 1d2 (33%)      | 1 (40%)        | 1 (10%)
  Wolf Riders*                  | 3d10           | 1d8            | 1d4            | 1d2 (33%)      | 1 (40%)        | 1 (10%)
-**Specialists**                | -              | -              | -              | -              | -              | -
+*Specialists*                  | -              | -              | -              | -              | -              | -
  Alchemist                     | 1d10           | 1d3            | 1              | 1 (33%)        | 1 (15%)        | 1 (5%)
  Animal Trainer - Common       | 5d10           | 2d6            | 1d6            | 1d2            | 1 (65%)        | 1 (20%)
  Animal Trainer - Exotic       | 1d10           | 1d3            | 1              | 1 (33%)        | 1 (15%)        | 1 (5%)
@@ -658,7 +653,7 @@ Hireling                       | Class I        | Class II       | Class III    
  Ruffian - Thug                | 5d20           | 4d6            | 2d6            | 1d3            | 1d2            | 1 (40%)
  Sage                          | 1d6            | 1d2            | 1 (65%)        | 1 (15%)        | 1 (5%)         | None
  Spellcaster                   | *Varies*       | *by*           | *Spell*        | *Level*        | -              | -
-**Henchmen**                   | -              | -              | -              | -              | -              | -
+*Henchmen*                     | -              | -              | -              | -              | -              | -
  Normal Men                    | 4d100          | 5d20           | 4d8            | 3d4            | 1d6            | 1d2
  Level 1                       | 5d10           | 2d6            | 1d4            | 1d2            | 1 (65%)        | 1 (20%)
  Level 2                       | 3d10           | 2d4            | 1d3            | 1              | 1 (40%)        | 1 (15%)
@@ -681,7 +676,7 @@ VI                  | 1d3gp
 Hirelings are recruited through negotiation. The Judge plays the roles of the NPCs the PCs attempt to hire. The PCs will have to explain what the job entails and the rates of pay. Henchmen are typically hired for a share of treasure (at least 15% of the employer's income) and monthly fee for food, lodging and expenses (based on level, see below). Mercenaries and specialists are typically hired for a flat monthly fee, which varies depending on the type of specialist or mercenary (see below). Henchmen, mercenaries, and specialists will have equipment appropriate to their profession, class, or level. Adventurers may provide additional equipment to their hirelings.
 
 
-### Reaction to Hiring Offer
+#### Reaction to Hiring Offer
 
 Adjusted Die Roll      | Result
 :--------------------- | :------------------
@@ -708,7 +703,7 @@ Henchmen should be rolled up with ability scores, classes, hit points, and equip
 When they are hired, potential henchmen should be of lower level than their employer. A first level character can only hire normal men as henchmen; second level characters can only hire first level characters; and so on. There is no way for the henchmen to directly know the level of the PC employer, but if a henchman ever concludes he is more powerful than his employer, it is cause for an immediate Henchman Loyalty roll (see below). Note that henchmen of greater than 4th level are not generally for hire on the market, though they can sometimes be found on adventures.
 
 
-### Henchmen Monthly Fee
+#### Henchmen Monthly Fee
 
 Class Level     | Monthly Wage (gp)
 --------------: | ------------------:
@@ -734,7 +729,7 @@ Morale: All henchmen have a morale score, which is generally 0 plus the employer
 Morale rolls are made each time the henchman suffers a calamity. A calamity includes suffering an energy drain, a curse, a magical disease, or being nearly killed (Judge's discretion). In addition, the Judge should make a morale roll for each henchman at the end of each adventure whenever the henchman has leveled up, to determine if the henchman strikes off on his own or remains with the adventurer. The Judge will roll 2d6 on the Henchman Loyalty table, adding the henchman's morale, to decide how the henchman responds to the recent events. The Judge may apply adjustments to this roll, probably no more than +/-2, if the henchman is particularly well or poorly paid.
 
 
-### Henchman Loyalty
+#### Henchman Loyalty
 
 Adjusted Die Roll (2d6)        | Result
 :----------------------------- | :------------------
@@ -803,29 +798,28 @@ Mercenaries have morale like henchmen, but mercenary morale is based on their tr
 
 Below are several possible specialists and typical monthly pay rates. This list is not exhaustive, and the Judge may create more kinds of specialists as needed using the rules in the Proficiencies chapter. Player characters with appropriate proficiencies may act as specialists if desired.
 
+**Alchemist** (250gp/month): Alchemists are valuable specialists because they dedicate their expertise to creating potions and other concoctions. They may work as assistants to mages to help them create potions. They may also research new potions as if they were 5th level mages, but at twice the base time and cost. See Magic Research in Chapter 7.
 
-**Alchemist (250gp/month)**: Alchemists are valuable specialists because they dedicate their expertise to creating potions and other concoctions. They may work as assistants to mages to help them create potions. They may also research new potions as if they were 5th level mages, but at twice the base time and cost. See Magic Research in Chapter 7.
-
-**Animal Trainer (25gp to 250gp/month)**: Characters wishing to ride hippogriffs or employ carnivorous apes as guards will need the assistance of an animal trainer. The lowest cost above is for a standard animal trainer, able to train one type of "normal" animal such as warhorses; those able to train more than one sort of animal, or to train monsters such as hippogriffs, are more expensive to hire. The Judge decides how long an animal must be trained, based on the nature of the training. It will take a minimum of 1 month to tame a wild animal. Likewise it takes a minimum of one month to teach an already tame animal one behavior. After the first month, an animal has become accustomed to a trainer and can be taught additional behaviors at half the time per behavior. If training is interrupted, all time already spent on that particular behavior is lost.
+**Animal Trainer** (25gp to 250gp/month): Characters wishing to ride hippogriffs or employ carnivorous apes as guards will need the assistance of an animal trainer. The lowest cost above is for a standard animal trainer, able to train one type of "normal" animal such as warhorses; those able to train more than one sort of animal, or to train monsters such as hippogriffs, are more expensive to hire. The Judge decides how long an animal must be trained, based on the nature of the training. It will take a minimum of 1 month to tame a wild animal. Likewise it takes a minimum of one month to teach an already tame animal one behavior. After the first month, an animal has become accustomed to a trainer and can be taught additional behaviors at half the time per behavior. If training is interrupted, all time already spent on that particular behavior is lost.
 
 If an animal is being tamed and the time is interrupted, the animal will rebel and cannot ever be tamed. In some cases, animal training may take years, a fact that adventurers may find inconvenient as well as expensive. A single animal trainer can train and manage no more than 6 animals at a time. Once an animal is fully trained and put into service the animal trainer won't be needed to handle it any longer.
 
-**Armorer (75gp/month)**: Each month, an armorer can make 40gp worth of weapons, armor, or shields. In addition to being hired for producing weapons and armor, armorers must be hired at the frequency of 1 per 60 troops in order maintain fix armor and weapons. Armorers may be assisted by up to two journeymen (20gp/month) and four apprentices (10gp/month). An armorer with one journeyman and two apprentices produces 100gp per month and can maintain 150 troops; an armorer with two journeymen and four apprentices produces 160gp per month and can maintain 240 troops.
+**Armorer** (75gp/month): Each month, an armorer can make 40gp worth of weapons, armor, or shields. In addition to being hired for producing weapons and armor, armorers must be hired at the frequency of 1 per 60 troops in order maintain fix armor and weapons. Armorers may be assisted by up to two journeymen (20gp/month) and four apprentices (10gp/month). An armorer with one journeyman and two apprentices produces 100gp per month and can maintain 150 troops; an armorer with two journeymen and four apprentices produces 160gp per month and can maintain 240 troops.
 
-**Engineer (250gp/month)**: Engineers plan and oversee large construction projects, such as building strongholds. The number of engineers required is based on the value of the project. A minimum of 1 engineer is needed, with an additional engineer per 100,000gp value of the project. For example, if a project is 60,000gp it will require 1 engineer, and if it is 200,000gp it will require 2 engineers. Human engineers usually handle large aboveground structures, while dwarves are usually hired for underground construction.
+**Engineer** (250gp/month): Engineers plan and oversee large construction projects, such as building strongholds. The number of engineers required is based on the value of the project. A minimum of 1 engineer is needed, with an additional engineer per 100,000gp value of the project. For example, if a project is 60,000gp it will require 1 engineer, and if it is 200,000gp it will require 2 engineers. Human engineers usually handle large aboveground structures, while dwarves are usually hired for underground construction.
 
-**Healer (healer 1gp/day/patient, physicker 2gp/day/patient, chirugeon 4gp/day/patient)**: Healers are trained to treat wounds and diagnose illnesses. Being treated by a healer requires clean, sanitary conditions and bed rest. A patient under treatment of any healer regains an extra 1d3 hit points per day. In addition, physickers can non-magically neutralize poison, cure disease, or cure light wounds with a proficiency throw of 18+ once per day per patient. Highly skilled chirugeons can non-magically neutralize poison, cure disease, or cure serious wounds with a proficiency throw of 14+ once per day per patient. A normal healer can treat up to three patients per day, a physicker can treat up to four patients per day, and a chirugeon can treat up to five patients per day.
+**Healer** (healer 1gp/day/patient, physicker 2gp/day/patient, chirugeon 4gp/day/patient): Healers are trained to treat wounds and diagnose illnesses. Being treated by a healer requires clean, sanitary conditions and bed rest. A patient under treatment of any healer regains an extra 1d3 hit points per day. In addition, physickers can non-magically neutralize poison, cure disease, or cure light wounds with a proficiency throw of 18+ once per day per patient. Highly skilled chirugeons can non-magically neutralize poison, cure disease, or cure serious wounds with a proficiency throw of 14+ once per day per patient. A normal healer can treat up to three patients per day, a physicker can treat up to four patients per day, and a chirugeon can treat up to five patients per day.
 
-**Mariner (rowers, 3gp/month; sailors 6gp/month; navigator 25gp/month; captain 100gp/month)**: Rowers are unskilled normal humans who man oars of vessels. Sailors are skilled normal humans who can handle a ship. The navigator understands how to read charts and navigate based on instruments and the position of the stars. He is required any time a ship will venture beyond sight of a coast. A captain is required for any large ship, is skilled like a sailor, and has more intimate knowledge of the particular coasts he frequents. In general, all such characters are normal men, and are not armored; they will usually be armed with clubs, daggers, or short swords.
+**Mariner** (rowers, 3gp/month; sailors 6gp/month; navigator 25gp/month; captain 100gp/month): Rowers are unskilled normal humans who man oars of vessels. Sailors are skilled normal humans who can handle a ship. The navigator understands how to read charts and navigate based on instruments and the position of the stars. He is required any time a ship will venture beyond sight of a coast. A captain is required for any large ship, is skilled like a sailor, and has more intimate knowledge of the particular coasts he frequents. In general, all such characters are normal men, and are not armored; they will usually be armed with clubs, daggers, or short swords.
 
-**Ruffian (carousers, 6gp/month; footpads, 25gp/month; reciters, 25gp/month; spy 125gp/month; thug 25gp/month)**: Ruffians are specialists in petty crime. Carousers are 0th level brawlers and hoodlums that populate inns and taverns. Reciters are 1st level bards. Footpads are 1st level thieves. Spies are 4th level thieves. Thugs are 1st level assassins. Ruffians are hired on a monthly basis. They can be used as enforcers or muscle, or sent on various hijinks, such as assassinating, carousing, spying, stealing, or treasure-hunting. Ruffians hired for hijinks will expect their employer to bail them out of trouble should they be caught. (See the Hideouts and Hijinks section in Chapter 7 for more information.) Ruffians will not go on adventures unless recruited as henchmen, but may gain XP from hijinks. Ruffians who advance in level from successful hijinks will earn higher wages; use the Henchmen Monthly Fee table for high level ruffians. Ruffians may or may not be reliable, and could stab the hiring character in the back (maybe literally!).
+**Ruffian** (carousers, 6gp/month; footpads, 25gp/month; reciters, 25gp/month; spy 125gp/month; thug 25gp/month): Ruffians are specialists in petty crime. Carousers are 0th level brawlers and hoodlums that populate inns and taverns. Reciters are 1st level bards. Footpads are 1st level thieves. Spies are 4th level thieves. Thugs are 1st level assassins. Ruffians are hired on a monthly basis. They can be used as enforcers or muscle, or sent on various hijinks, such as assassinating, carousing, spying, stealing, or treasure-hunting. Ruffians hired for hijinks will expect their employer to bail them out of trouble should they be caught. (See the Hideouts and Hijinks section in Chapter 7 for more information.) Ruffians will not go on adventures unless recruited as henchmen, but may gain XP from hijinks. Ruffians who advance in level from successful hijinks will earn higher wages; use the Henchmen Monthly Fee table for high level ruffians. Ruffians may or may not be reliable, and could stab the hiring character in the back (maybe literally!).
 
-**Sage (500gp/month)**: Sages are rare; they usually specialize in a subject area, such as a sage specialist in dragons. Sages may be consulted for information. If the information is particularly difficult to obtain, it will cost the characters extra. Characters may have to pay the monthly rate in addition to any other supplies the sage needs to research their question. The Judge will decide these costs. Despite the special knowledge sages have, they are occasionally wrong when it comes to particularly obscure questions. The Judge will decide what questions are obscure and the probability of achieving a wrong answer. If the characters receive a wrong answer, they may not realize it!
+**Sage** (500gp/month): Sages are rare; they usually specialize in a subject area, such as a sage specialist in dragons. Sages may be consulted for information. If the information is particularly difficult to obtain, it will cost the characters extra. Characters may have to pay the monthly rate in addition to any other supplies the sage needs to research their question. The Judge will decide these costs. Despite the special knowledge sages have, they are occasionally wrong when it comes to particularly obscure questions. The Judge will decide what questions are obscure and the probability of achieving a wrong answer. If the characters receive a wrong answer, they may not realize it!
 
-**Spellcaster (Various)**: Spellcasters are arcane and divine casters retained to cast a spell for an adventuring party. Most often these are clerics asked to cast cure disease, remove curse, restore life and limb, and so on, but mages may be sought out from time to time as well. The Spell Availability by Market table shows how many divine and arcane spellcasters capable of casting a given spell level can be found in any given market. Each spellcaster will be able to cast a spell of the given level once per day. The cost per casting is listed for each spell level as well. Just because a spellcaster can be found does not mean he will cast a spell for the adventurer - he must still be recruited through negotiation. Clerics will never cast spells for adventurers of opposite alignment, and may charge double if the adventurers do not belong to their faith.
+**Spellcaster** (Various): Spellcasters are arcane and divine casters retained to cast a spell for an adventuring party. Most often these are clerics asked to cast cure disease, remove curse, restore life and limb, and so on, but mages may be sought out from time to time as well. The Spell Availability by Market table shows how many divine and arcane spellcasters capable of casting a given spell level can be found in any given market. Each spellcaster will be able to cast a spell of the given level once per day. The cost per casting is listed for each spell level as well. Just because a spellcaster can be found does not mean he will cast a spell for the adventurer - he must still be recruited through negotiation. Clerics will never cast spells for adventurers of opposite alignment, and may charge double if the adventurers do not belong to their faith.
 
 
-### Spell Availability by Market
+#### Spell Availability by Market
 
 Spell Type and Level   | Cost    | Class I  | Class II  | Class III  | Class IV  | Class V  | Class VI
 :--------------------- | ------: | :------- | :-------- | :--------- | :-------- | :------- | :-------- 
@@ -846,6 +840,6 @@ Arcane-6th level       | 4,500gp | 1d3      | 1d3       | 1d2-1      | -        
 
 Cure disease is a 3rd level spell, so the Judge rolls 1d3 to determine how many spell castings are available. Unfortunately, he rolls a 1, so only one cure disease spell is available each day. Restore life and limb is a 5th level spell, so the Judge rolls 1d2-1. He scores another 1, -1, yielding 0. No restore life and limb spells are available in town at all! The adventurers must decide whether to stay in town the three days necessary to get everyone cured of lycanthropy, or to press on immediately to try to find a cleric who can raise Quintus.
 
----
+* * *
 
 [Previous](Chapter02.md) [Top](Chapter00.md) [Next](Chapter04.md)

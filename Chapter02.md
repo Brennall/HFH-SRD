@@ -1,11 +1,12 @@
 [Previous](Chapter01.md) [Top](Chapter00.md) [Next](Chapter03.md)
 
----
-
-## Chapter 2: Characters
+* * *
 
 
-### Creating a Character
+# Chapter 2: Characters
+
+
+## Creating a Character
 
 You've taken the first step on your adventure, but you are still a 0th level human. Don't despair, because you become 1st level when you create your first character, and progress from there! To create a character, follow the nine steps below:
 
@@ -28,16 +29,18 @@ You've taken the first step on your adventure, but you are still a 0th level hum
 9. Give your character a name, and create a description of what your character looks like, his personality, and maybe even a brief note about the character's background. Then choose an appropriate Alignment for your character. Your Judge will have information on the setting of your character's world that can be helpful in naming your new character and developing his background.
 
 
-#### Generating Multiple Characters (Optional)
+### Generating Multiple Characters (Optional)
 
 As an optional rule, at the start of play, each player generates five characters and select one primary and two back-up characters. The remaining two characters are given to the Judge to use as NPCs to populate the campaign setting. If the primary and back-ups are all killed, the player generates five additional characters, again picking three and giving the Judge two. This ensures that the player always has a variety of characters to choose from to find one he likes, and gives the Judge some additional NPCs to populate the world.
 
 
-### Character Abilities
+## Character Abilities
 
 Character Abilities must be determined by rolling randomly. Roll 3d6 for each ability in the order listed below. As an optional rule, the Judge may allow you to roll 6 scores and then assign them to your abilities in any order you desire.
 
 When complete, your character will have a score ranging from 3 to 18 in each of the following abilities. A bonus or penalty is associated with each score, as shown on the table below. Each class has one or more prime requisite ability scores, which affect the rate at which the character will earn experience points. Some class may have other minimum ability requirements which must be met in addition.
+
+#### Ability Score
 
 Ability Score | Bonus/Penalty
 :------------ | ------------:
@@ -85,14 +88,14 @@ Score | Experience Adjustment
 Once a player has selected his character class, he may raise the class's prime requisite ability or abilities if desired by sacrificing points in other abilities. 2 ability points may be sacrificed from an ability to raise a prime requisite ability 1 point. This may be done more than once, but no ability can be lowered below 9, and no ability may be lowered if it is also a prime requisite for the class, even if there are a few points to spare above the minimum required score.
 
 
-### Hit Points
+## Hit Points
 
 Hit points are a measure of a character's ability to survive in combat. When a character, or any other being, is reduced to 0 or fewer hit points, he is incapacitated and possibly dead. Hit points are not a direct representation of the character's capacity to receive physical injury. Rather, they represent a holistic combination of fighting skill, stamina, luck, and the favor of the gods, all of which contribute to helping the character roll with blows and survive attacks that would have killed a lesser combatant.
 
 Each character class rolls a different kind of die to determine hit points, as noted in the Character Classes section, based on their toughness in battle. One die is rolled at first level, and further dice are rolled and cumulatively added to the total hp for each level of experience, unless otherwise noted. One optional rule, to allow first level characters to be hardier, is for the Judge to allow all hp rolls for first level characters to be considered the maximum result (e.g. an 8 for fighters or a 6 for clerics.)
 
 
-### Character Classes
+## Character Classes
 
 In the Adventurer Conqueror King System, there are two types of classes: human classes and demi-human classes. Humans are the most widespread of all races. Their ambition, cunning, and courage have led them to settle most of the known world, so most characters in the game will belong to one of the human classes.
 
@@ -103,7 +106,7 @@ Compared to humans, demi-humans are rare, and generally more specialized. Demi-h
 Selecting equipment and proficiencies can be time-consuming, especially for new players. As a faster alternative, we offer a pre-generated template for each class, with weapons, armor, equipment, proficiencies, and spells ready for play. If you want to use these templates, you can skip step 8 (picking proficiencies and spells) and 9 (rolling for starting wealth and purchasing equipment) of character generation and simply use the template. A variety of additional templates, new classes, and rules for creating customized classes are available in the Adventurer Conqueror King System Player's Companion, available separately from Autarch.
 
 
-### Core Classes
+## Core Classes
 
 
 ### Fighter
@@ -307,7 +310,7 @@ Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & W
 13-14 |                        7+ |             4+ |            10+ |             7+ |     9+ |           4+
 
 
-### Cleric Turning Undead by Cleric Level
+#### Cleric Turning Undead by Cleric Level
 
 Undead Type |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |  10 |  11 |  12 |  13 | 14+
 :---------- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --:
@@ -340,9 +343,9 @@ A thief also has the ability to backstab. He must catch an opponent unaware of h
 
 Thieves have the following range of skills, which improve as the thief gains levels according to the progression on the Thief Skills table. When a thief attempts to make use of one of his skills, the character or Judge will make a proficiency throw of 1d20. (Usually the Judge will make rolls for these abilities, because a thief is not always aware when he has failed.) After applying any relevant modifiers (e.g. due to the complexity of a lock), the result is compared to the target value listed on the Thief Skills table below for the appropriate skill. A result that is greater than or equal to the value listed for the proficiency throw that corresponds to the thief's level is a success. A roll of 20 is always a success, and a roll of 1 is always a failure.
 
-Opening Locks:  With the aid of thieves' tools, a thief may pick mechanical locks. He may only try to pick a particular lock once, and if he fails, he may not try the same lock again until he reaches a higher experience level. The Judge may apply bonuses or penalties to the roll, depending on the complexity of the lock.
+**Opening Locks**: With the aid of thieves' tools, a thief may pick mechanical locks. He may only try to pick a particular lock once, and if he fails, he may not try the same lock again until he reaches a higher experience level. The Judge may apply bonuses or penalties to the roll, depending on the complexity of the lock.
 
-Finding and Removing Traps:  Through careful inspection and probing, a thief may find hidden traps and then attempt to disable or discharge the trap harmlessly. A thief may only try to find or remove a trap once in any given area. . The Judge may apply bonuses or penalties to the roll, depending on the complexity of the trap. If the thief fails, he may not try again until he reaches a higher experience level. Note that these are separate skills, for a thief must find a trap before he can remove it.
+**Finding and Removing Traps**: Through careful inspection and probing, a thief may find hidden traps and then attempt to disable or discharge the trap harmlessly. A thief may only try to find or remove a trap once in any given area. The Judge may apply bonuses or penalties to the roll, depending on the complexity of the trap. If the thief fails, he may not try again until he reaches a higher experience level. Note that these are separate skills, for a thief must find a trap before he can remove it.
 
 **Picking Pockets**: This skill is the bread and butter of non-adventuring thieves for it is a quick source of income - though not without peril. A throw that is less than half the target value means that the intended target notices the thieving attempt. The Judge will then make a reaction roll with a -3 penalty to determine the intended victim's reaction.
 
@@ -404,7 +407,7 @@ Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & 
 13-14+ |                        7+ |             7+ |            10+ |             8+ |     9+ |           4+
 
 
-### Thief Skills
+#### Thief Skills
 
 Level | Open Locks | Find and Remove Traps | Pick Pockets* | Move Silently | Climb Walls | Hide in Shadows | Hear Noise
 :---- | ---------: | --------------------: | ------------: | ------------: | ----------: | --------------: | ---------:
@@ -426,7 +429,7 @@ Level | Open Locks | Find and Remove Traps | Pick Pockets* | Move Silently | Cli
 *-1 penalty on the proficiency throw per each level the thief is lower than the victim.
 
 
-### Campaign Classes
+## Campaign Classes
 
 
 ### Assassin
@@ -566,6 +569,25 @@ Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & 
 13-14+ |                        7+ |             7+ |            10+ |             8+ |     9+ |           4+
 
 
+#### Bard Skills
+
+Level | Arcane Dabbling | Loremastery
+----: | --------------: | ----------:
+    1 |             18+ |         18+
+    2 |             16+ |         17+
+    3 |             14+ |         16+
+    4 |             12+ |         15+
+    5 |             10+ |         14+
+    6 |              8+ |         13+
+    7 |              6+ |         12+
+    8 |              4+ |         11+
+    9 |              3+ |         10+
+   10 |              3+ |          9+
+   11 |              3+ |          8+
+   12 |              3+ |          7+
+   13 |              3+ |          6+
+   14 |              3+ |          5+
+    
 ### Bladedancer
 
 Prime Requisite: | WIS and DEX
@@ -699,7 +721,7 @@ Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & W
 14+   |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
 
 
-### Demi-Human Classes
+## Demi-Human Classes
 
 
 ### Dwarven Vaultguard
@@ -857,18 +879,18 @@ This pre-generated template represents a traditional fighter-mage of elven herit
 
 #### Spellsword Level and Spell Progression
 
-Experience | Title                   | Level | Hit Dice |   1 |   2 |   3 |   4
----------: | :---------------------- | ----: | :------- | --: | --: | --: | --:
-         0 | Arcanist-Guardian       |     1 | 1d6      |   1 |   - |   - |   -
-     4,000 | Warrior-Seer            |     2 | 2d6      |   2 |   - |   - |   -
-     8,000 | Theurgist-Swordmaster   |     3 | 3d6      |   2 |   1 |   - |   -
-    16,000 | Magician-Hero           |     4 | 4d6      |   2 |   2 |   - |   -
-    32,000 | Thaumaturge-Exemplar    |     5 | 5d6      |   2 |   2 |   1 |   -
-    64,000 | Myrmidon-Enchanter      |     6 | 6d6      |   2 |   2 |   2 |   -
-   130,000 | Sorcerer-Champion       |     7 | 7d6      |   3 |   2 |   2 |   1
-   260,000 | Epic Hero-Mage          |     8 | 8d6      |   3 |   3 |   2 |   2
-   430,000 | Wizard-Lord             |     9 | 9d6      |   3 |   3 |   3 |   2
-   600,000 | Wizard-Lord, 10th level |    10 | 9d6+2*   |   3 |   3 |   3 |   3
+Experience | Title                   | Level | Hit Dice |   1 |   2 |   3 |   4 |   5
+---------: | :---------------------- | ----: | :------- | --: | --: | --: | --: | --:
+         0 | Arcanist-Guardian       |     1 | 1d6      |   1 |   - |   - |   - |   -
+     4,000 | Warrior-Seer            |     2 | 2d6      |   2 |   - |   - |   - |   -
+     8,000 | Theurgist-Swordmaster   |     3 | 3d6      |   2 |   1 |   - |   - |   -
+    16,000 | Magician-Hero           |     4 | 4d6      |   2 |   2 |   - |   - |   -
+    32,000 | Thaumaturge-Exemplar    |     5 | 5d6      |   2 |   2 |   1 |   - |   -
+    64,000 | Myrmidon-Enchanter      |     6 | 6d6      |   2 |   2 |   2 |   - |   -
+   130,000 | Sorcerer-Champion       |     7 | 7d6      |   3 |   2 |   2 |   1 |   -
+   260,000 | Epic Hero-Mage          |     8 | 8d6      |   3 |   3 |   2 |   2 |   -
+   430,000 | Wizard-Lord             |     9 | 9d6      |   3 |   3 |   3 |   2 |   1
+   600,000 | Wizard-Lord, 10th level |    10 | 9d6+2*   |   3 |   3 |   3 |   3 |   2
 
 *Hit point modifiers from constitution are ignored
 
@@ -948,7 +970,7 @@ Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & W
 11    |                        7+ |             8+ |            11+ |             9+ |     9+ |           5+
 
 
-### Alignment
+## Alignment
 
 In the Adventurer Conqueror King System, your character will enter a world of ceaseless violent struggle, where civilization is ever-assailed by forces intent on its destruction. In this perilous realm, he will be called to choose a side: Will he pledge to defend civilization and its allies against those who seek to destroy it? Will he sell his sword to any who can offer fame or fortune? Or will he become an agent of entropy and destruction undermining peace and order? This choice is called Alignment, and the three choices are Lawful, Neutral, and Chaotic.
 
@@ -962,7 +984,7 @@ Note that a character's choice of Alignment doesn't determine whether or not he 
 
 Human vices, such as greed, lust, and vanity, are widespread and common even in Lawful societies. But Chaotic societies are characterized by their monstrous vices: Genocide, human sacrifice, wanton destruction, cannibalism, necrophilia, and so on. Evil is all-too-human in every civilization, but Chaotic is something both less and more than human.
 
-### Adventuring Parties
+## Adventuring Parties
 
 The worlds of Adventurer Conqueror King are dangerous and hostile. For the sake of survival, characters team up to undertake adventures because any number or type of monsters could lie in wait. Such groups, known as adventuring parties, are generally composed of a diverse array of classes, so that different characters are able to contribute their specific talents for any given situation. A thief can check for traps, for instance, and fighters are good for muscle. Clerics have spells for healing and divination, while mages are capable of powerful offensive and defensive magic.
 
@@ -970,6 +992,6 @@ Occasionally, there are not enough party members to take on the challenges of an
 
 When there are only a small number of players, the Judge may allow them to each play more than one character. Nevertheless, in these cases characters belonging to the same player cannot offer each other special treatment, such as trading or giving away riches or magical items, unless the Judge rules it acceptable.
 
----
+* * *
 
 [Previous](Chapter01.md) [Top](Chapter00.md) [Next](Chapter03.md)
