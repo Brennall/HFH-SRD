@@ -1,11 +1,12 @@
 [Previous](Chapter05.md) [Top](Chapter00.md) [Next](Chapter07.md)
 
----
-
-## Chapter 6: Adventures
+* * *
 
 
-### Dungeons, Wilderness, and Sea
+# Chapter 6: Adventures
+
+
+## Dungeons, Wilderness, and Sea
 
 Whether the characters are undertaking a specific quest for a patron, or simply seeking excitement, fame, and wealth, they will not find what they seek in the safety of towns and homesteads. Many adventures will take place in underground complexes such as crypts, tombs, labyrinths, or caverns. These locations, generally called dungeons, vary considerably in type and location, but all are filled with dangerous monsters, traps, riddles, and riches. Other adventures will take place in unsettled lands beyond the borders of civilization. These wildernesses will confront the adventurers with natural hazards, wild beasts, savage tribes, and monstrous predators. Some adventures will even take the characters to the treacherous waters of the high seas, where they may face lacerating weather, sea monsters, and lost isles.
 
@@ -67,7 +68,7 @@ While thieves have a special skill to detect traps, characters of all classes ca
 Traps have specific triggers, whether it is opening a door or walking over a particular area. Every time an adventurer takes an action that could trigger a trap, the Judge should roll 1d6. A result of 1-2 indicates that the trap springs. Once triggered, a trap has a specific effect depending on its type. The most common trap is a pit. Characters falling into a pit suffer 1d6 points of damage per 10' fallen. Some traps may offer a saving throw to reduce or avoid their effects, or may only damage the characters on a successful attack throw.
 
 
-### Wilderness Adventures
+## Wilderness Adventures
 
 Wilderness adventures have certain similarities to dungeon adventures, but the range of challenges they pose is far wider. Players must decide where they are going, what equipment they need, and how to get there. Some things to consider are what the conditions of travel will be. Do the characters need warm clothes? Do they need horses for travel or carrying gear? What kinds of special equipment are needed?
 
@@ -153,7 +154,7 @@ A character's long distance movement rate when traveling by air is equal to the 
 In general, winged beasts may carry riders or other burdens in increasing size based on HD multiples of 3. For example, a creature with 3 HD could carry a dwarf or human child. A creature with 6 HD could carry an adult human or elf, or two dwarves. A creature with 12 HD can carry large animals like horses, or four adult humans. Finally, a creature with 24 HD could carry a very a large animal, or four horses, or 8 humans.
 
 
-### Sea Adventures
+## Sea Adventures
 
 Bold adventurers will often set sail upon the high seas, following moldy treasure maps, seeking out lost civilizations, exploring what lies beyond the horizon, or simply pirating and swashbuckling. The rules in this chapter also cover travel on rivers, as characters might have to travel by river deep into impenetrable forest or jungle to reach a set of ruins.
 
@@ -245,7 +246,7 @@ While on sea adventures, characters must consume food and water as described und
 Characters can fish if the ship is becalmed or otherwise anchored. For each day of fishing, each character may attempt a proficiency throw of 14+ on 1d20 (gaining a +4 bonus if they have the Survival proficiency) A successful result indicates that food enough for 2d6 man-sized creatures has been caught.
 
 
-### Encounters
+## Encounters
 
 In the course of adventures, as the player characters explore dungeons, wildernesses, and vast oceans filled with wondrous treasures, ancient secrets, and other amazing situations, it is inevitable that at some point, they will come face to face with monsters. When the party of adventurers comes in contact with potential enemies, such a meeting is called an encounter.
 
@@ -258,14 +259,29 @@ In encounters and during combat, time is divided into units of rounds, which are
 
 When an encounter begins, the Judge will roll 2d6 x 10 to determine the encounter distance in feet separating the characters and monster(s). If the monster encounter is preplanned, the Judge may already know how far the monster is from the characters. Encounter distance will be limited by the layout of the dungeon and the available light sources as well.
 
-Next, the Judge rolls to see if the characters or the monster are surprised (see the Surprise table on p. 95). Then the Judge will check the monster's reaction on the Monster Reaction table (again, see below). Using this information, the Judge will decide what action the monster takes. At this stage the characters will also decide what actions to take, such as whether to fight, flee, or try to talk to the monster.
+Next, the Judge rolls to see if the characters or the monster are surprised (see the [Surprise table](#surprise-1)). Then the Judge will check the monster's reaction on the Monster Reaction table (again, see below). Using this information, the Judge will decide what action the monster takes. At this stage the characters will also decide what actions to take, such as whether to fight, flee, or try to talk to the monster.
 
-If either party decides to fight, combat begins and time progresses in rounds. Unsurprised characters then roll for initiative, and act in order of the rolls (as described under Initiative on p. 98). Initiative is rolled again at the start of each round. Usually an encounter is over when one side either dies or flees.
+If either party decides to fight, combat begins and time progresses in rounds. Unsurprised characters then roll for initiative, and act in order of the rolls (as described under [Initiative](#initiative)). Initiative is rolled again at the start of each round. Usually an encounter is over when one side either dies or flees.
 
 
 ### Wilderness Encounters
 
 The sequence of play in wilderness encounters is very much like the sequence described above. However, wilderness encounters can take place in a variety of terrain types with greatly varying line of sight. Consult the Wilderness Encounter Distance table to determine how many yards away the characters are from the monster at the start of the encounter. (Remember that in the wilderness characters measure their movement rates in yards, rather than in feet as they do in the dungeon.)
+
+#### Encounter Distance
+
+Terrain                 | Encounter Distance (yards)
+:---------------------- | :-------------------------
+Badlands                | 2d6x10
+Desert                  | 4d6x10
+Fields, Fallow          | 4d6x10
+Fields, Ripe            | 5d10
+Fields, Wild            | 3d6x5
+Forest, Heavy or Jungle | 5d4
+Forest, Light           | 5d8
+Marsh                   | 8d10
+Mountains               | 4d6x10
+Plains                  | 5d20x10
 
 Man-sized targets are visible from a maximum of 1,000 yards over flat plains. Larger creatures can spot and be spotted at greater distances. Likewise creatures can spot and be spotted at greater distances if they are on towers, high hills, and so on. Increase the spotting distance in proportion to the increase in height or elevation relative to a man (6'). *Example*: Adventurers encounter a 12' tall ettin in a light forest. The base encounter distance is 5d8 yards, and the Judge rolls a 21, yielding 21 yards. However, the ettin is double the height of a man, so the encounter distance is doubled to 42 yards. If the adventurers were standing on a 24' hill (four times the height of a man), the encounter distance would multiply by (4+1) five times, to 105 yards.
 
@@ -279,12 +295,12 @@ When the Judge rolls for a random encounter, the distance the monster is from th
 These visibility distances could be reduced by 90% their normal distance when in harsh weather or dense fog, or some other penalty might be used depending on conditions.
 
 
-### Monsters Encountered
+## Monsters Encountered
 
 The monster descriptions in Chapter 8 list Hit Dice and Number Encountered. Number Encountered is the recommended ranges for the number of the monster type that will be encountered at one time. The number of monsters encountered will vary depending on whether they are encountered wandering or in their lair, and whether they are in the wilderness or in the dungeon. When encountered in dungeons, the number encountered will vary depending on the dungeon level. The Dungeon Wandering Monster Level table, in Section 10, Secrets, provides detailed guidance on how many monsters of a particular type are likely to appear on each dungeon level.
 
 
-### Surprise
+## Surprise
 
 When monsters and characters encounter each other unexpectedly, there is the possibility one or both sides might be surprised. For instance, if the characters are making a lot of noise, the monster may not have a chance to be surprised but the characters might be if the monster was waiting quietly.
 
@@ -321,7 +337,7 @@ If the monsters are watching an area that is dimly lit or otherwise offers some 
 Monsters can also sneak up on, or past, characters using similar mechanics. Characters would need to make surprise rolls and/or hear noise throws to detect the monsters.
 
 
-### Reactions
+## Reactions
 
 When a party of adventurers meet one or more monsters, it's important to know how the monsters will react to the party. In many cases, the reaction of the monster or monsters is obvious. Zombies guarding a tomb will virtually always attack intruders, for example.
 
@@ -344,7 +360,7 @@ A result of Hostile means that the adventurers have so offended the monsters tha
 As always, the Judge must interpret the results of this roll in context. For instance, if the monsters have surprised the characters, a Hostile result might mean they attempt to ambush the party, while an Indifferent result might mean the monsters avoid the party entirely. The Judge may choose to alter the Monster Reaction result if he believes a different result would be more plausible given the circumstances.
 
 
-### Evasion and Pursuit
+## Evasion and Pursuit
 
 The adventurers may decide they are outmatched and flee an encounter, or a monster might flee if it breaks morale. The adventurers can choose when to flee, and whether or not to pursue fleeing monsters. The Judge will decide if the monsters chase fleeing characters by rolling on the Monster Reaction table. A roll of 2-8 indicates the monster will pursue. When one side is fleeing and the other side is pursuing, it is called a chase.
 
@@ -400,7 +416,7 @@ Faster than pursuer    | 5+
 If the evading party is successful, the pursuers cannot try to catch up with the evading party for 24 hours, and then only if a random encounter roll indicates an encounter. If the evading party fails their roll to evade, the pursuer starts at the distance it was spotted and begins to gain on the evading party. If the pursuer is slower than the other party or if the pursuer's speed is no greater than 30' more than the fleeing party, it will gain on the evading party at a rate of 30' (10 yards) per round. If the pursuer's speed is more than 30' faster than the fleeing party, the pursuer will gain on the fleeing party at a rate equal to the difference in speed each round.
 
 
-### Initiative
+## Initiative
 
 Each round, 1d6 is rolled for initiative for each adventurer, monster, and group of identical monsters, each called a combatant. This roll is adjusted by the combatant's Dexterity bonus, if any. High numbers act first. Any combatants with equal numbers act simultaneously. Combatants wishing to move defensively or cast spells in the upcoming round must inform the Judge before the initiative dice are rolled.
 
@@ -409,11 +425,11 @@ As the Judge counts down the initiative numbers, each combatant may act on his n
 A combatant using a weapon with a long reach (spears, for instance) may choose to attack a closing opponent on the closing opponent's number and thus attack simultaneously with the opponent, even if the combatant rolled lower for initiative. Likewise, if a combatant has a missile weapon readied at the beginning of round and is not engaged in melee, he can fire at a closing opponent on the closing opponent's number even if the combatant rolled lower for initiative.
 
 
-### Movement
+## Movement
 
 When its initiative number comes up, each combatant may move up to its combat movement distance, and then attack any opponent in range. After attacking, a combatant may not move again until the next round. Opponents more than 5' apart may move freely, but once two opposing combatants are within 5' of each other, they are engaged and must abide by the rules under Defensive Movement, below.
 
-Player characters or monsters wishing to cast spells may not move on their Initiative (see Spell Casting on p. 101).
+Player characters or monsters wishing to cast spells may not move on their Initiative (see [Casting Spells](#casting-spells)).
 
 
 ### Running
@@ -447,15 +463,48 @@ A full retreat occurs when a combatant moves backwards at a faster rate than 1/2
 Instead of moving (or running, charging, setting, withdrawing, or retreating), combatants may perform a simple action that could be accomplished while fighting, such as standing up from being knocked down, sheathing one weapon and drawing another, readying or loosing a shield, picking an item off the ground, or retrieving an item from a pack or sack. Simply dropping a weapon and drawing a new one does not count as movement during a round.
 
 
-### How to Attack
+## How to Attack
 
 If they are not already engaged, combatants may move and make a missile weapon attack (bows, crossbows, etc.), or move and make a melee attack (swords, axes, etc.), in one round. They may not move after attacking. Except where otherwise noted, characters may only make 1 attack per round; monsters may have multiple attacks.
 
 Whether or not an attack hits its target is determined with an attack throw. The player or Judge rolls 1d20 and applies any modifiers to the roll from high Strength or Dexterity, magic, or special circumstances. The result is compared to the Attack Throws table for either characters or monsters, as appropriate. A result that is greater than or equal to the attack throw value listed for the attacking character's level or monster's HD indicates a hit. An unmodified roll of 20 is always a hit, and an unmodified roll of 1 is always a miss. If a hit is scored, damage is rolled by weapon type or monster attack, taking into account any bonuses or penalties.
 
-Armor Class: Well-armored or highly dexterous targets are harder to hit than lightly-armored or sluggish ones. The target's Armor Class is added to the attack throw value necessary to hit it.
+**Armor Class**: Well-armored or highly dexterous targets are harder to hit than lightly-armored or sluggish ones. The target's Armor Class is added to the attack throw value necessary to hit it.
 
-Helpless Targets: Regardless of attack throw and AC, all attacks on sleeping, paralyzed, or otherwise helpless targets automatically hit. If the attacker is not engaged by any other opponents, the helpless target can be automatically slain. Otherwise, a standard damage roll is made.
+**Helpless Targets**: Regardless of attack throw and AC, all attacks on sleeping, paralyzed, or otherwise helpless targets automatically hit. If the attacker is not engaged by any other opponents, the helpless target can be automatically slain. Otherwise, a standard damage roll is made.
+
+
+#### Monster Attack Throws
+
+Attacking Monster HD | Attack Throw Value
+:------------------- | -----------------:
+1 or less            |                10+
+1+ and 2             |                 9+
+2+ and 3             |                 8+
+3+ and 4             |                 7+
+4+ and 5             |                 6+
+5+ and 6             |                 5+
+6+ and 7             |                 4+
+7+ to 9              |                 3+
+9+ to 11             |                 2+
+11+ to 13            |                 1+
+13+ to 15            |                 0+
+15+ to 17            |                -1+
+17+ to 19            |                -2+
+19+ to 21            |                -3+
+21+ or more          |                -4+
+
+
+*Example*: Marcus, a 10th level fighter (attack throw 4+) attacks a plate-armored target (AC7). He needs a modified roll of 11 (4+7) or more to hit. He rolls a 12, and lands a blow!
+
+*Example*: A 20 HD bronze golem (attack throw -3) attacks on an ogre (AC3). It will need a modified roll of 0 (-3+3) or more to hit. However, an modified roll of 1 is always a miss, so the golem will need to roll at least a 2 or more.
+
+
+### Melee Combat
+
+Hand-to-hand, or melee, combat occurs when opponents are within 5' of one another. As the name implies, melee attacks are made by hand-held weapons like swords or axes. Attack throws and damage rolls are affected by Strength adjustments, as well as by bonuses for magical weapons.
+
+Characters normally only have 1 attack in a round, but some monsters have an attack routine, the most common of which is a claw/claw/bite series, which amounts to 3 attacks in 1 round. If characters or monsters kill or incapacitate an opponent with an attack, they may be able to cleave to gain additional attacks (as described below).
 
 
 #### Character Attack Throws by Attacking Character Level                      
@@ -476,17 +525,6 @@ Fighters   | Clerics/Thieves   | Mages           | Attack Throw Value
 
 *Includes all 0th level humans.
 
-
-*Example*: Marcus, a 10th level fighter (attack throw 4+) attacks a plate-armored target (AC7). He needs a modified roll of 11 (4+7) or more to hit. He rolls a 12, and lands a blow!
-
-*Example*: A 20 HD bronze golem (attack throw -3) attacks on an ogre (AC3). It will need a modified roll of 0 (-3+3) or more to hit. However, an modified roll of 1 is always a miss, so the golem will need to roll at least a 2 or more.
-
-
-### Melee Combat
-
-Hand-to-hand, or melee, combat occurs when opponents are within 5' of one another. As the name implies, melee attacks are made by hand-held weapons like swords or axes. Attack throws and damage rolls are affected by Strength adjustments, as well as by bonuses for magical weapons.
-
-Characters normally only have 1 attack in a round, but some monsters have an attack routine, the most common of which is a claw/claw/bite series, which amounts to 3 attacks in 1 round. If characters or monsters kill or incapacitate an opponent with an attack, they may be able to cleave to gain additional attacks (as described below).
 
 Some characters and monsters can fight with a weapon in each hand (dual wielding). Characters fighting with two weapons still make 1 attack, using the primary weapon, but they gain a +1 bonus to the melee attack throw from having the second weapon. If the second weapon is magical, its magical bonus may be added to the attack throw (stacking with another weapon the way a shield stacks with armor), but not to the damage roll. Dual wielding does not give additional attacks.
 
@@ -563,7 +601,7 @@ Some spells require that a caster concentrate to maintain them. Unless otherwise
 Instead of performing an attack or attack routine, combatants may take another action that could be accomplished in a few seconds, such as sheathing one weapon and drawing another, readying or loosing a shield, lighting a torch, drinking a magic potion, using a wand or ring, turning undead, picking an item off the ground, or retrieving an item from a pack or sack. Simply dropping a weapon and drawing a new one do not count as an action during a round, however. For example, a combatant can drop a bow, draw a sword, and attack in the same round.
 
 
-### Damage
+## Damage
 
 When combatants successfully attack, they deal damage. Damage dealt is based on the type of weapon and how the combatant is wielding it:
 
@@ -626,19 +664,60 @@ Creatures reduced to 0hp or less by nonlethal damage are far less likely to have
 
 Once a creature has resolved its condition on the Mortal Wounds table, all nonlethal damage is removed. Otherwise, nonlethal damage recovers at a rate of 1 hit point per hour. Spells or magical powers that cure hit point damage remove an equal amount of nonlethal damage.
 
+## Mortal Wounds
 
-### Cleaving
+#### Permanent Wounds Suffered (1d6)
+
+1d20+ Modifiers  | Condition & Recovery  | 6  | 5  | 4  | 3  | 2  | 1
+-6 or more  | You were instantly killed.  | A ghastly wound reveals your harsh demise.  | Mangled bones and broken flesh betray your grisly end.  | That's a bad way to go. What's left of you isn't pretty.  | The bloody mess that was once your body is dimly recognizable.  | A red stain and shards of bone are all that remain.  | Not even the vultures could feed on you.
+-5-0  | You were instantly killed.  | Your corpse is largely intact and ready for a noble funeral.  | A ghastly wound reveals your harsh demise.  | Mangled bones and broken flesh betray your grisly end.  | That's a bad way to go. What's left of you isn't pretty.  | The bloody mess that was once your body is dimly recognizable.  | A red stain and shards of bone are all that remain.
+1-5  | You are mortally wounded. You die unless healed to 1hp within 1 round. If you are healed, you need 1 month's bed rest.  | Your lips and tongue are severed or mangled (cannot speak, cast spells or use magic items involving speech, -4 to reaction rolls).  | You are blinded (-4 to all attack throws, no line of sight for spells, movement reduced to normal, -2 to surprise rolls).  | Both your legs are severed or crushed (DEX reduced to 3 for AC purposes, two crutches required, movement reduced by 60', cannot force march).  | Both your arms are severed or crushed (cannot climb, use weapons or items, open locks, remove traps, or any other similar actions).  | You spine is broken at the waist (as per legs severed, cannot reproduce, and must save v. Death each year or die from complications).  | Your spine is broken at the neck (DEX reduced to 3, cannot move, fight, use items, or cast spells, save v. Death each month or die from complications).
+6-10  | You are grievously wounded. You die unless healed to 1hp within 1 turn. If you are healed, you need 2 week's bed rest.  | One of your ears is crushed/mangled (-1 to hear noise throws, -1 to surprise rolls).  | One of your eyes is destroyed (-2 to missile attack throws).  | One of your legs is severed or crushed (crutch or peg required, movement reduced by 30', DEX reduced by 1/3 for AC purposes).  | One of your arms is severed or crushed (cannot climb, use shields, dual wield, or use two-handed weapons).  | Both your legs are lamed (crutch required, movement rate reduced by 60', DEX reduced by 2/3 for AC purposes)  | You are permanently addled from brain trauma (-2 on magical research and proficiency throws, -10% penalty on earned XP).
+11-15  | You are critically wounded. You die unless healed to 1hp within 1 day. If you are healed, you need 1 week's bed rest.  | 1d6 of your teeth are knocked out (-2 to reaction rolls with opposite sex and upper class NPCs).  | One of your eyes is damaged (-2 to missile attack throws at medium and long range).  | One of your knees is damaged (carrying capacity reduced by 6 stone, cannot force march).  | One of your hands is severed or crushed (cannot dual wield or use two-handed weapons).  | One of your legs is lamed (movement reduced by 30', DEX reduced by 1/3 for AC purposes).  | Your heart and lungs are damaged (must rest for 2 turns every 6, wilderness movement reduced by 1/3, cannot force march, CON reduced by 1/3).
+16-20  | You are in shock. You recover with 1hp. You need magical healing and one night's bed rest; or 1 week's bed rest.  | Ghostly visions of lost companions flicker before your eyes as you awaken.  | You suffer minor scarring (no effect, but three minor scars become notable).  | You suffer damage to your hips and lower back (cannot force march).  | You suffer notable scarring (-2 to throws to impersonate another; 3 notable scars become gruesome).  | Your genitals are damaged (cannot reproduce, -3 to reaction rolls if loss of manhood / womanhood is known).  | You suffer gruesome scarring (impossible to impersonate another; +2 to intimidate others, -4 to all other reaction rolls).
+21-25  | You were knocked out. You recover with 1hp. You will need magical healing or 1 night's bed rest afterward.  | A vision of afterlife haunts you, then fades as you awaken.  | Ghostly visions of lost companions flicker before your eyes as you awaken.  | You suffer minor scarring (no effect, but three minor scars equals one notable scar).  | You lose 1d3 fingers on one hand (3 lost fingers on one hand makes hand useless).  | You suffer notable scarring (-2 to throws to impersonate another; 3 notable scars become gruesome).  | Your wounds heal stiff and scarred (-1 to all initiative rolls).
+26 +  | You were just dazed. You recover immediately with 1hp. You do not need any bed rest.  | The Choosers of the Slain pass you by, and you awaken.  | A vision of afterlife haunts you, then fades as you awaken.  | Ghostly visions of lost companions flicker before your eyes as you awaken.  | You suffer minor scarring (no effect, but three minor scars equals one notable scar).  | You lose 1d3 toes on one foot (3 lost toes on one foot makes leg lame).  | You suffer lasting wounds that ache in bad weather (-1 to initiative rolls on cold or rainy days).
+
+*Modifiers (1d20)*:
+
+- Hit Points: +5 if hp are exactly 0; -2 if hp are at negative value equal from 1/4 to 1/2 max hp; -5 if hp are at negative value of 1/2 max hp or more
+- Treatment: +1 per level of healing magic used in treatment; +2 if treated by character with Healing specialization
+- Timing: +2 if treated within 1 round of injury; -3 if treated immediately after fight; -5 if treated up to 1 hour later; -8 if up to 1 day later; -10 if more than 1 day later 
+- Constitution: +/- CON modifier of unconscious character
+
+
+## Tampering with Mortality
+
+#### Side Effects Suffered (1d6)
+
+1d20+ Modifiers  | Condition & Recovery  | 6  | 5  | 4  | 3  | 2  | 1
+-6 or more  | The spell fails to restore your life.  | Your deity may allow your return on a second attempt, but you must perform a Quest immediately upon revival.  | The embrace of your deity is all you feel, and it holds you tightly. Any additional attempts are permitted at -1.  | You hear the calls of your friends but you can do nothing to respond. Any additional attempts are at -3.  | All you feel is the sensation of falling, falling, falling into nothingness. Any additional attempts are at -5.  | You are surrounded by ghostly figures who torment and taunt you. No additional attempts are permitted.  | Your soul is extinguished in the oblivion of nothingness. No additional attempts are permitted.
+-5-0  | The spell fails to restore your life.  | A stirring wind and a light comes from somewhere, and you slowly move towards it. A second attempt is permitted.  | Your deity may allow your return with a second attempt, but you must perform a Quest immediately upon revival.  | The embrace of your deity is all you feel, and it holds you tightly. Any additional attempts are permitted at -1.  | You hear the calls of your friends but you can do nothing to respond. Any additional attempts are at -3.  | All you feel is the sensation of falling, falling, falling into nothingness. Any additional attempts are at -5.  | Your spirit wanders in eternal darkness. No additional attempts are permitted.
+1-5  | The powers of the spell restore you but at great cost. You need a month of bed rest.  | You have the pallor of death about you, and no tincture or perfume can conceal it. CHA reduced by 4, but you gain +2 to reaction rolls with non- intelligent Undead.  | Everything seems brighter and louder than before. If a very loud noise or bright light occurs in battle, make a Saving Throw against Paralyzation or be stunned for one round.  | Dark power leaked in while you were being restored. Holy Water and Turning now affects you as if you were a wight. "Destroy" results charm you.  | Your connection to the Divine is lessened. You can cast 1 less Divine spell per level per day and your WIS is reduced by 1d3.  | All you see is darkness. You are now blind (-4 to all attack throws, no line of sight for spells, movement reduced to   normal, -2 to surprise rolls) in full daylight, but you can See Invisible as the spell once per day.  | Heart beats and blood flows, but life doesn't feel the same. Your CON and WIS are reduced by 1d4 each.
+6-10  | Your life and limb are restored, but with weird, lingering effects. You need 14 + 1d20 days of bed rest.  | Something wicked has taken an interest in you. A small demon or imp (GM's discretion) becomes your familiar, as the proficiency, but it does not always obey your commands.  | Your hair is restored... over and over. You must shave twice a day or witness an inch of growth by sunset. Untrimmed hair growth hinders performance in combat, giving you a -1 to attacks.  | Your restored body has bottomless hungers. If you casually smoke or consume alcohol, you are fully addicted. You suffer a cumulative -1 penalty to all Saving Throws after each hour you don't consume something.  | You did not return altogether human. You gain a body part from a creature on the Reincarnation table for your Alignment. -4 to reaction rolls with normal humans.  | You have been permanently connected to the spiritual plane and glow like a candle to the unliving. All undead can sense your presence within 60'.  | Your soul is marked and all extraplanar beings wish you dead, targeting you over your allies. Every week, there is a 1 in 6 chance an invisible stalker will be sent to destroy you.
+11-15  | The restoration of life and limb was intense, and you remember little of the ordeal. You need 2 weeks of bed rest.  | No side effects.  | Your brush with death has shattered your former confidence. Take a -10% penalty to XP until your next level.  | Horses are frightened by the magic that courses through you. You can only ride magical or polymorphed beasts or exotic mounts such as large cats or elephants.  | Whispers from beyond plague you. It is difficult for you to ignore them and you suffer -2 to hear noise throws and -2 to surprise rolls.  | You are disturbed by what you experienced and cannot stop muttering nonsense to yourself, making it impossible to move silently. Spellcasting initiative rolls are at -1.  | It feels like another being sometimes controls your right arm. When you roll a natural 1 on an attack throw, you hit an adjacent ally instead of an enemy.
+16-20  | You open your eyes to a body made whole. You need 2 weeks of bed rest.  | You feel blessed by your god. You recover 1d6 days quicker than you normally would. All negative side effects are removed.  | No side effects.  | Your brush with death has shattered your former confidence. Take a -10% penalty to XP until your next level.  | You have taken on a slightly strange and inhuman cast (e.g. cat-like eyes, clawed nails). -2 to reaction rolls with normal humans.  | Sleep? Time enough to sleep in the grave. Each time you attempt to rest, roll 1d6. On a 1, you toss and turn all night, can't recover spells, and regain no hit points.  | Your body is healthy, but... different. You are now a member of the opposite sex. -2 reaction rolls with characters who knew your prior gender, unless your CHA is 13+.
+21-25  | The touch of your friends restores your health. You need 1 week of bed rest.  | Your brush with death has gifted you with the ability to Speak with Dead once per week. All negative side effects are removed.  | You feel blessed by your god. You recover 1d6 days quicker than you normally would. All negative side effects are removed.  | No side effects.  | Your brush with death has shattered your former confidence. Take a -10% penalty to XP until your next level.  | Your renewed body needs energy that plants and mushrooms cannot provide. All rations must contain meat.  | Your life has come at the cost of the life of your future offspring. You are sterile and cannot have children naturally.
+26+  | The gods bless their favor upon you. You are instantly recovered without need of rest.  | You gain permanent power. Gain +2 in your class's prime requisite statistic. All negative side effects are removed.  | The sublime power grants you a vision which you believe is of terrible import. The GM will give you a (true?) prophecy.  | You are filled with divine energy. For one day, you gain the benefits of a Heroism potion. All negative side effects are removed.  | No side effects.  | Your brush with death has shattered your former confidence. Take a -10% penalty to XP until your next level.  | Meat is too much like murder. You may only eat plants, mushrooms and herbs. The taste of flesh makes you vomit.
+
+*Modifiers*:
+
+- State of soul: add WIS modifier of character, -1 for each day since character's death, -1 for each side effect already suffered
+- State of body: -10 if character was instantly killed, -5 if spine severed, -2 per limb destroyed, -1 per hand/foot/ear/eye/tongue destroyed Spellcaster: Add one-half the level of the spellcaster casting restore life and limb, -2 if not in temple of spellcaster's god
+
+
+## Cleaving
 
 In the legends and sagas, heroes can chop through weak foes quickly, often slaying two with one blow. Skilled archers might fire as quickly as one arrow every few seconds, fire two arrows at once, or pierce multiple foes with one arrow. The Cleaving rules simulate these feats of glorious mayhem.
 
-Whenever a combatant kills or incapacitates an opponent with a melee or missile attack, he may immediately make another attack throw against another opponent within 5' of the target he has just dropped. The additional attack throw must be with the same weapon as the attack that killed the previous opponent. If engaged in melee, the attacker may move 5' between each attack, subject to his maximum combat movement per round. Attackers may not perform special maneuvers (on p. 106) or actions other than attacking when cleaving.
+Whenever a combatant kills or incapacitates an opponent with a melee or missile attack, he may immediately make another attack throw against another opponent within 5' of the target he has just dropped. The additional attack throw must be with the same weapon as the attack that killed the previous opponent. If engaged in melee, the attacker may move 5' between each attack, subject to his maximum combat movement per round. Attackers may not perform [special maneuvers](#special-maneuvers) or actions other than attacking when cleaving.
 
 Monsters, fighters, and other characters that use the fighter attack throw progression may make a maximum number of cleave attacks per round equal to their Hit Dice. Clerics, thieves, and other characters that use the cleric/thief attack throw progression may make a maximum number of cleave attacks per round equal to half their Hit Dice (rounded down). Mages and characters that use the mage attack throw progression may not make cleave attacks.
 
 When making cleave attacks with missile weapons, combatants are limited to a maximum of 2 with arbalest or crossbow, 3 with longbow, and 4 with composite bow, shortbow, sling, or thrown darts, daggers, or javelins.
 
 
-### Saving Throws
+## Saving Throws
 
 All combatants can make saving throws to avoid the full effects of spells or certain attacks. Characters and monsters will have a number for each saving throw category, and when affected by a type of spell or attack which requires a saving throw, the player or Judge will roll 1d20. A result that is greater than or equal to the value listed for the saving throw category is a success. However, the roll is failed if the result is less than the listed number. Some successful saving throw rolls will completely negate any effect, while others will result in only half damage rather than full damage. There are times when an attack, like a poisonous bite, can do damage from both the bite itself and from poison separately.
 
@@ -715,7 +794,7 @@ Level   | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs &
 13-14+  | 7+                        | 7+             | 10+            | 8+             | 9+
 
 
-### Special Maneuvers
+## Special Maneuvers
 
 Not every action in combat will be a sword swing, arrow shot, or fireball. The rules below explain how to handle everything from a punch with a platemail gauntlet to a giant tossing a dwarf. Except where otherwise noted, monsters with an attack routine (such as claw/claw/bite or multiple tentacles) can use any or all attacks from their attack routine to perform special maneuvers. *Example*: A giant octopus with eight tentacles might force back an opponent with one tentacle, wrestle an opponent with another tentacle, and attack normally with the remaining 6 tentacles.
 
@@ -771,7 +850,7 @@ Instead of making a melee attack, a combatant may attempt to wrestle with his op
 Sometimes, combatants may attempt to perform Special Maneuvers against opponents that are much larger than them (such as wrestling a hill giant), or that benefit from an unusual shape (such as knocking down a giant snake or a centaur). In these cases, the Judge can give the opponent a +4 or more bonus on its saving throw, or simply rule that the attempt automatically fails. Conversely, when exceptionally large combatants perform Special Maneuvers against opponents much smaller than them, the Judge may rule that the saving throw penalty is -6, -8, or greater.
 
 
-### Morale Rolls
+## Morale Rolls
 
 Player characters always have a choice whether they will fight, surrender, or run away in an encounter. The Judge decides whether monsters surrender or run away. Monsters have a listing for morale, which represents how likely they are to fight or flee when in an encounter. Morale is rated from -6 to +4. A score of -6 indicates that the monster never fights (unless absolutely cornered), while a score of +4 indicates the monster will fight until killed, with no morale roll necessary in either case.
 
@@ -796,7 +875,7 @@ The Judge may decide to apply bonuses or penalties to morale, with a range of -2
 When a character makes an attempt to surrender to monster, it is up to the Judge to decide whether the opponent even listens, and under what terms the monster will accept surrender. Characters decide how to react if their opponent makes an attempt to surrender. Usually, monsters will only try to surrender if they have no way to escape the encounter.
 
 
-### Mounted Combat
+## Mounted Combat
 
 While combatants will rarely be mounted in dungeons, they will often be mounted during wilderness encounters. The following rules apply during mounted combat.
 
@@ -826,7 +905,7 @@ A character in combat without a military saddle must save versus Paralysis every
 If either the character or mount is reduced to 0 hit points, the character falls off the mount and takes 1d6 points of damage. Characters falling off of aerial mounts take 1d6 per 10' fallen.
 
 
-### Sea Combat
+## Sea Combat
 
 A few special provisions apply during combat at sea.
 
@@ -903,7 +982,7 @@ A successful swimming throw allows the combatant to move and act during the roun
 A failed swimming throw means the combatant begins drowning. A spellcaster that begins drowning loses any spell he was attempting to cast that round. Drowning combatants cannot take any actions and no longer make swimming throws. They sink 10' per round per stone of encumbrance, and will die after 10 rounds unless rescued.
 
 
-### Earning Experience from Adventures
+## Earning Experience from Adventures
 
 Adventures are dangerous, but the rewards are great. All characters that make it through an adventure alive receive experience points (XP). Experience points are gained from two sources while on adventures: treasure and monsters.
 
@@ -1007,6 +1086,6 @@ Money is allocated to the reserve by spending it to no other tangible game benef
 
 A 0th level character who participates in an adventure will earn experience points. When a 0th level character earns 100 XP from adventuring, he advances to become a 1st level fighter. The character gains the fighter class proficiency, powers, attack throws, and saving throws. The character re-rolls his hit points using his new class's Hit Die (1d8), keeping either his new hp total or his prior hp total if it was higher. The new 1st level character retains any general proficiencies he already knew. When he advances to 2nd, 3rd, and 4th level, he must remove one of these pre-existing general proficiencies, representing the erosion of his old professional skills over time. When he reaches 4th level, he acquires the Adventuring proficiency. Under normal circumstances, 0th level characters do not advance into classes other than fighters from adventuring XP.
 
----
+* * *
 
 [Previous](Chapter05.md) [Top](Chapter00.md) [Next](Chapter07.md)

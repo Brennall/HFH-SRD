@@ -1,24 +1,24 @@
 [Previous](Chapter04.md) [Top](Chapter00.md) [Next](Chapter06.md)
 
----
+* * *
 
-## Chapter 5: Spells
+# Chapter 5: Spells
 
-### Spells and Spellcasters
+## Spells and Spellcasters
 
 Spells are powerful invocations that use esoteric hand gestures combined with eldritch spoken words to bring about otherwise impossible effects. Like characters, spells have levels that measure how powerful they are. For instance, some spells are 1st level spells, and some are 2nd level, and so on. Lower level characters can learn only lower level spells, while higher level characters can access more powerful, higher level spells.
 
 Spells may be cast only by characters of special classes, collectively called spellcasters or casters. There are two types of spellcasters: divine spellcasters and arcane spellcasters. The divine spellcasters described in this rule book are clerics, bladedancers, and dwarven craftpriests, while the arcane spellcasters are mages, elven nightblades, and elven spellswords. Some rules will apply only to one type of spellcaster, while others apply to both types. If a rule does not specify a particular type of spellcaster, it applies to both divine and arcane spellcasters.
 
 
-### Casting Spells
+## Casting Spells
 
 During any single day, spellcasters can cast the number of spells of each level indicated on the Spells Progression table for their class. Unlike other fantasy games, in Adventurer Conqueror King, spellcasters do not have to "memorize" or "prepare" their spells in advance; they can choose which spells to cast at the time of casting from among any and all the spells in their repertoire (see below). Once spellcasters have cast all of their available spells for the day, they must have 8 hours of uninterrupted rest and one hour of concentrated study or prayer before they can cast again.
 
 All spellcasters need to be able to move their hands and speak in order to make the gestures and say the magical phrases that bring magic effects into being. As a result, a spellcaster cannot cast spells if he is gagged, his hands are tied, or he is in an area under the effects of a silence spell. Spellcasters may take no other actions during the same round they intend to cast a spell. As described in the Initiative section of Chapter 6, a PC must announce the intention to cast a spell prior to initiative being determined at the beginning of a round. Should an opponent successfully deal damage to the character or if the character is required to roll a saving throw and fails prior to casting a spell, the spell is disrupted and fails. The spell still counts against the character's spells per day as if it had been cast. Finally, in most instances a spellcaster must have the intended target of a spell within visual range (unless otherwise noted), whether the target is a specific monster, character, or area of effect.
 
 
-### Spell Repertoire
+## Spell Repertoire
 
 The spells available to a spellcaster are called his spell repertoire. Despite the similarities in how they cast spells, arcane and divine spellcasters have very different spell repertoires and learn their repertoire in very different ways.
 
@@ -41,14 +41,14 @@ A formula for each spell in an arcane spellcaster's repertoire is recorded in hi
 While a mage generally has the formula for every spell in his repertoire, the reverse is not true; an arcane caster might have possession of a spell formula without having it in his repertoire. For an arcane spellcaster to have a spell in his repertoire, he must keep track of complex astrological movements and star signs that are constantly changing; he must daily appease various ghosts and spirits that power certain dweomers; he must remember and obey special taboos that each spell dictates. All of these strictures, and they are many, can vary with the season, the lunar cycle, the caster's location, and more. Having a spell in the repertoire is thus an ongoing effort, like maintaining a friendship or remembering a song. Mages may collect spell formula from many sources, but only the most intelligent and learned arcane spellcasters can maintain a repertoire of more than a few spells at a time.
 
 
-### Starting Spell Repertoire
+#### Starting Spell Repertoire
 
 A 1st level arcane spellcaster starts the game with a base of one 1st level spell in his repertoire. The Judge should select an appropriate spell for the arcane spellcaster to begin with. Charm person, light, magic missile, protection from evil, or sleep are good choices. If the mage has an INT of at least 13, he may start the game with additional 1st level spells in his repertoire, up to his Intelligence bonus. For each point of Intelligence bonus, the player should roll 1d12 to randomly select another other spell from the arcane spell list. If the character rolls any duplicates do not re-roll; he will begin play with less than the maximum permitted spells in his repertoire.
 
 *Example*: Quintus is a 1st level mage with INT 16. His spell repertoire can be up to three 1st level spells. For Quintus' first spell, the Judge selects sleep. Quintus then rolls 1d12 on the arcane spell list and scores a "9". He adds read languages to his spell repertoire. Quintus then rolls 1d12 again and scores an "11", learning sleep. Quintus already knows sleep, but he doesn't get to roll again. Instead, Quintus will begin play with just sleep and read languages in his repertoire. He can add the extra 1st level spell to his repertoire once play begins.
 
 
-### Adding New Spells to the Repertoire
+#### Adding New Spells to the Repertoire
 
 As they advance in level, arcane spellcasters can add new spells to their repertoire in a few different ways. All mages and elven spellswords are assumed to be members of the local mages' guild, or apprenticed to a higher level NPC. When they gain a level of experience, they may return to their masters and be out of play for one game week per spell while they are adding new spells to their repertoire. Their masters will teach them spells equal to the number and level of spells the caster can use in a single day. Characters of 9th level or above do not have masters to teach them spells, so they must find or research them. When a master is not available, mages and elven spellswords depend entirely on finding spell scrolls, finding other spell books with new spells in them, or conducting spell research.
 
@@ -69,14 +69,14 @@ This practice commonly occurs when a spellcaster gets access to more useful spel
 The Arcane Spell List, below, is a sample of the more common spells known to the practitioners of the arcane arts. It is by no means a complete list, for arcane spellcasters are a secretive lot that do not share their knowledge easily; and many spells that were once known have been forgotten, existing only in dusty tomes and rare grimoires, or in the minds of slumbering undead lords.
 
 
-### Reversible Spells
+## Reversible Spells
 
 Some spells, marked with an asterisk (*) on the spell lists, can be cast reversed. A reversed spell results in an effect that is opposite to the effect the spell normally causes. For example, when a mage casts flesh to stone, he can turn a flesh-and-blood creature into stone. But when a mage casts the reverse spell, stone to flesh, he can restore a creature that has been petrified back to life. Where it is not self-evident, the spell descriptions below will explain what reversed spells do. If a spell name is not marked with an asterisk, the spell is not reversible.
 
 Mages and other arcane spellcasters treat the normal and reversed version of a spell as separate spells. In general, divine spellcasters will know both the normal and reversed form of any spell on their spell list. However, Lawful divine spellcasters prefer to cast spells in their normal form, e.g. favoring bless over bane, and restore life and limb over finger of death, and will use the reversed forms only against Chaotic opponents. Conversely, Chaotic divine spellcasters will freely cast reversed spells such as finger of death, while using the normal version only to aid comrades and followers. Some divine spellcasters may be restricted entirely by their deity from using normal or reversed versions of particular spells (Judge's discretion).
 
 
-### Spell Signatures
+## Spell Signatures
 
 While spells have general effects that are common to all who cast them, the specific sensory effects associated with the spell will vary from caster to caster. This specific sensory effect is known as the spell signature. A spellcaster should write a short description of the signature for each spell he can cast. For arcane spellcasters, the signature may be based on a particular school or style of magic, or simply be a reflection of the spellcaster's personal taste. For divine spellcasters, the signature reflects the caster's relationship with his deity. A character's choice of proficiencies can be suggestive of appropriate spell signatures.
 
@@ -85,7 +85,7 @@ While spells have general effects that are common to all who cast them, the spec
 Characters with the Sensing Power proficiency will sense the spell signature of arcane casters up to 24 hours after a spell has been cast. Characters with Collegiate Wizard or Theology proficiency may be able to identify particular schools or faiths by their spell signature (proficiency throw 11+).
 
 
-### Arcane Spell List
+## Arcane Spell List
 
 #### First Level Arcane Spells
 
@@ -196,7 +196,7 @@ d12   | Spell
 
 
 
-### Divine Spell List (Cleric)
+## Divine Spell List (Cleric)
 
 
 #### First Level Divine Spells
@@ -279,7 +279,7 @@ d10   | Spell
 10    | True Seeing
 
 
-### Divine Spell List (Bladedancer)
+## Divine Spell List (Bladedancer)
 
 #### First Level Divine Spells
 
@@ -361,7 +361,7 @@ d10   | Spell
 10    | True Seeing
 
 
-### Spell Index
+## Spell Index
 
 #### Animate Dead
 
@@ -543,11 +543,11 @@ Questions      | Don't Know    | True Answer    | Insanity
 12             | 5%            | 95%            | 50%
 
 
-**Don't Know**: The entity may or may not know the answer, and may or may not tell the caster the truth of whether it knows or not.
+*Don't Know*: The entity may or may not know the answer, and may or may not tell the caster the truth of whether it knows or not.
 
-**True Answer**: The caster gets a true, one-word answer. Otherwise, the entity lies and the lie is undetectable.
+*True Answer*: The caster gets a true, one-word answer. Otherwise, the entity lies and the lie is undetectable.
 
-**Insanity**: The chance that the caster goes insane at the effort of communication. A character that goes insane will remain that way for the same number of weeks as the total number of questions asked, and the player cannot play the character during this time. The base chance indicated on the table is reduced by 5% for every level the caster is above 11. For example, a 14th level caster receives -15% to the insanity roll.
+*Insanity*: The chance that the caster goes insane at the effort of communication. A character that goes insane will remain that way for the same number of weeks as the total number of questions asked, and the player cannot play the character during this time. The base chance indicated on the table is reduced by 5% for every level the caster is above 11. For example, a 14th level caster receives -15% to the insanity roll.
 
 
 #### Continual Light*
@@ -1421,18 +1421,18 @@ If the result on the table below indicates that the reincarnated character retur
 *Example*: Creven, a 5th level chaotic explorer, is reincarnated as a Wererat. Wererats are normally 3 HD monsters, but because Creven was 5th level, he reincarnates as a 5 HD Wererat. Wererats have one special ability (or *). It takes 3,500xp for a 1 HD monster with one special ability to advance to 2 HD; 7,000XP from 2 HD to 3 HD; 14,000XP from 3 HD to 4 HD; 28,000XP from 4 HD to 5 HD; 56,000XP from 5 HD to 6 HD; 112,000XP from 6 HD to 7 HD, and so on. Creven, at 5 HD, will need 56,000XP to increase to 6 HD in his new form.
 
 
-Roll (1d10)           | Law (1d6)       | Neutral (1d6)    | Chaos (1d10)
-:-------------------- | :-------------- | :--------------- | :-------------- 
-1 Human (pick Class)  | 1 Gnome         | 1 Pixie/Sprite   | 1 Kobold
-2 Human (pick Class)  | 2 Neanderthal   | 2 Rock Baboon    | 2 Goblin
-3 Human (pick Class)  | 3 Blink Dog     | 3 Ape            | 3 Orc
-4 Human (pick Class)  | 4 Pegasus       | 4 Centaur        | 4 Hobgoblin
-5 Human (pick Class)  | 5 Unicorn       | 5 Griffon        | 5 Gnoll
-6 Elf (pick Class)    | 6 Roc, Small    | 6 Werebear       | 6 Bugbear
-7 Dwarf (pick Class)  | -               | -                | 7 Wererat
-8 Original Race (pick Class) | -        | -                | 8 Ogre
-9 Original Race (pick Class) | -        | -                | 9 Werewolf
-10 Monster            | -               | -                | 10 Minotaur
+Roll (1d10)                  | Law (1d6)     | Neutral (1d6)  | Chaos (1d10)
+:--------------------------- | :------------ | :------------- | :-----------
+1 Human (pick Class)         | 1 Gnome       | 1 Pixie/Sprite | 1 Kobold
+2 Human (pick Class)         | 2 Neanderthal | 2 Rock Baboon  | 2 Goblin
+3 Human (pick Class)         | 3 Blink Dog   | 3 Ape          | 3 Orc
+4 Human (pick Class)         | 4 Pegasus     | 4 Centaur      | 4 Hobgoblin
+5 Human (pick Class)         | 5 Unicorn     | 5 Griffon      | 5 Gnoll
+6 Elf (pick Class)           | 6 Roc, Small  | 6 Werebear     | 6 Bugbear
+7 Dwarf (pick Class)         | -             | -              | 7 Wererat
+8 Original Race (pick Class) | -             | -              | 8 Ogre
+9 Original Race (pick Class) | -             | -              | 9 Werewolf
+10 Monster                   | -             | -              | 10 Minotaur
 
 
 #### Remove Curse*
@@ -1830,6 +1830,6 @@ Duration: | permanent
 
 A wizard lock spell cast upon a door, chest, or portal magically locks it. The caster can freely pass his own wizard lock without affecting it, as can any arcane spellcaster 3 or more levels higher than the caster of the wizard lock; otherwise, a door or object secured with this spell can be opened only by breaking in or with a successful dispel magic or knock spell.
 
----
+* * *
 
 [Previous](Chapter04.md) [Top](Chapter00.md) [Next](Chapter06.md)

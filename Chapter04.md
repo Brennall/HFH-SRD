@@ -1,23 +1,24 @@
 [Previous](Chapter03.md) [Top](Chapter00.md) [Next](Chapter05.md)
 
----
-
-## Chapter 4: Proficiencies
+* * *
 
 
-### The Basics of Proficiencies
+# Chapter 4: Proficiencies
+
+
+## The Basics of Proficiencies
 
 Proficiencies represent particular areas of expertise that your character has developed due to his background, homeland, and training. Each class has a class list of proficiencies, representing training that is particularly useful to the particular profession. In addition, there is a general list of proficiencies, which represent trade skills and knowledge that is widely available to all. Characters will learn proficiencies from both lists over time.
 
 
-### Starting Proficiencies
+## Starting Proficiencies
 
 All characters begin with the Adventuring proficiency as well as one proficiency chosen from their class list and one proficiency chosen from the general list. Characters with an Intelligence bonus may choose to begin the game knowing one or more additional proficiencies from the general list. The number of additional general proficiencies that may be learned is equal to the Intelligence bonus (+1, +2, or +3). The player may choose to leave one or more bonus proficiency "slots" open, to be filled during play as circumstances suggest appropriate choices. However, bonus proficiencies from high Intelligence may only be used to select proficiencies from the general list.
 
 Note that some proficiencies appear on both the general list and the class lists. For example, Performance appears on both the general list and the Bard class list. This is because Performance is both a common trade skill (general list) and training that is useful to bards (class list).
 
 
-### Gaining Proficiencies
+## Gaining Proficiencies
 
 All characters may choose one additional proficiency from the general list at levels 5, 9, and (if maximum level permits) 13. Characters may choose one additional proficiency chosen from their class list each time they complete a full (2-point) saving throw progression. Thus, fighters get a new proficiency from their class list at level 3, 6, 9, and 12; clerics and thieves get a new proficiency from their class list at 4, 8, and 12; and mages get a new proficiency from their class list at 6 and 12. This is summarized on the Proficiencies Gained per Level table, below. Levels exceeding a class's maximum level are marked with a "*".
 
@@ -26,7 +27,7 @@ Unless its description says otherwise, a proficiency may only be selected once. 
 The Judge may impose limitations on the selection of certain proficiencies depending on his campaign or setting. Otherwise, characters may take any proficiency on the appropriate list.
 
 
-### Proficiencies Gained per Level (C=class proficiency, G=general proficiency)
+#### Proficiencies Gained per Level (C=class proficiency, G=general proficiency)
 
 Class               | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   | 11   | 12   | 13   | 14
 :------------------ | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- 
@@ -44,7 +45,7 @@ Mage                | C+G  | -    | -    | -    | G    | C    | -    | -    | G 
 Thief               | C+G  | -    | -    | C    | G    | -    | -    | C    | G    | -    | -    | C    | G    | -
 
 
-### Proficiency Lists
+## Proficiency Lists
 
 **General Proficiency List**: Adventuring, Alchemy, Animal Husbandry, Animal Training, Art, Bargaining, Caving, Collegiate Wizardry, Craft, Diplomacy, Disguise, Endurance, Engineering, Gambling, Healing, Intimidation, Knowledge, Labor, Language, Leadership, Lip Reading, Manual of Arms, Mapping, Military Strategy, Mimicry, Naturalism, Navigation, Performance, Profession, Riding, Seafaring, Seduction, Siege Engineering, Signaling, Survival, Theology, Tracking, Trapping
 
@@ -73,7 +74,7 @@ Thief               | C+G  | -    | -    | C    | G    | -    | -    | C    | G 
 **Thief Proficiency List**: Acrobatics, Alertness, Arcane Dabbling, Blind Fighting, Bribery, Cat Burglary, Combat Reflexes, Combat Trickery (disarm, incapacitate), Contortionism, Diplomacy, Fighting Style, Gambling, Intimidation, Lip Reading, Lockpicking, Mapping, Precise Shooting, Riding, Running, Seafaring, Skirmishing, Skulking, Sniping, Swashbuckling, Trap Finding, Weapon Finesse, Weapon Focus
 
 
-### Proficiency Descriptions
+## Proficiency Descriptions
 
 For ease of reference, proficiencies that appear on the general list are marked with (G). Other proficiencies appear only on one or more class lists.
 
@@ -100,11 +101,11 @@ For ease of reference, proficiencies that appear on the general list are marked 
 
 #### Art Proficiency Progression
 
-Title                  | Rank (# of times taken)        | Gp Earned/Month        | Number of Workers Allowed
-:--------------------- | -----------------------------: | ---------------------: | :----------------------------
-Apprentice             | 1                              | 10gp                   | N.A.
-Journeyman             | 2                              | 20gp                   | 3 Apprentices
-Master Artist          | 3                              | 40gp                   | 2 Journeymen, 4 Apprentices
+Title         | Rank (# of times taken) | Gp Earned/Month | Number of Workers Allowed
+:------------ | ----------------------: | --------------: | :--------------------------
+Apprentice    | 1                       | 10gp            | N.A.
+Journeyman    | 2                       | 20gp            | 3 Apprentices
+Master Artist | 3                       | 40gp            | 2 Journeymen, 4 Apprentices
 
 
 **Bargaining (G)**: The character gets the best deals available for goods, services, and information. Any items the character purchases costs 10% less than the listed price and any items he sells go for 10% more than the listed price. If both the buyer and seller have the Bargaining proficiency, the opposed Bargainers should make reaction rolls. Whichever character scores the higher result gets the discount. A character may select Bargaining multiple times if desired. Each time the proficiency is selected, the character receives a +2 bonus on his reaction roll when negotiating with other bargainers.
@@ -144,11 +145,11 @@ Master Artist          | 3                              | 40gp                  
 
 #### Craft Proficiency Progression
 
-Title            | Rank (# of times taken)      | Gp Earned/Month        | Number of Workers Allowed
-:--------------- | ---------------------------: | ---------------------: | :----------------------------
-Apprentice       | 1                            | 10gp                   | N.A.
-Journeyman       | 2                            | 20gp                   | 3 Apprentices
-Master Craftsman | 3                            | 40gp                   | 2 Journeymen, 4 Apprentices
+Title            | Rank (# of times taken) | Gp Earned/Month | Number of Workers Allowed
+:--------------- | ----------------------: | --------------: | :--------------------------
+Apprentice       | 1                       | 10gp            | N.A.
+Journeyman       | 2                       | 20gp            | 3 Apprentices
+Master Craftsman | 3                       | 40gp            | 2 Journeymen, 4 Apprentices
 
 
 **Diplomacy (G)**: The character is smooth tongued and familiar with protocol. He receives a +2 bonus on all reaction rolls when he attempts to parley.
@@ -201,11 +202,11 @@ Bonuses are in addition to the standard bonuses for fighting in the given manner
 
 #### Healing Proficiency Progression
 
-Title              | Rank (# of times taken)    | Gp Earned/Month        | Patients/Day   | Skills
-:----------------- | -------------------------: | ---------------------: | -------------: | :--------------------------------------------------------------
-Healer             | 1                          | 25gp                   | 3              | Identify 11+, extra 1d3 hit points per day
-Physicker          | 2                          | 50gp                   | 4              | Identify 7+, neutralize poison, cure disease, cure light 18+
-Chirugeon          | 3                          | 100gp                  | 5              | Identify 3+, neutralize poison, cure disease, cure serious 14+
+Title     | Rank (# of times taken) | Gp Earned/Month | Patients/Day | Skills
+:-------- | ----------------------: | --------------: | -----------: | :-------------------------------------------------------------
+Healer    | 1                       | 25gp            | 3            | Identify 11+, extra 1d3 hit points per day
+Physicker | 2                       | 50gp            | 4            | Identify 7+, neutralize poison, cure disease, cure light 18+
+Chirugeon | 3                       | 100gp           | 5            | Identify 3+, neutralize poison, cure disease, cure serious 14+
 
 
 **Illusion Resistance**: The character is as hard to fool as the most cynical dwarf. The character receives +4 bonus on saving throws to disbelieve magical illusions.
@@ -259,11 +260,11 @@ Chirugeon          | 3                          | 100gp                  | 5    
 
 #### Performance Proficiency Progression
 
-Title                  | Rank (# of times taken)        | Gp Earned/Month        | Number of Workers Allowed
-:--------------------- | -----------------------------: | ---------------------: | :----------------------------
-Apprentice             | 1                              | 10gp                   | N.A.
-Journeyman             | 2                              | 20gp                   | 3 Apprentices
-Master Performer       | 3                              | 40gp                   | 2 Journeymen, 4 Apprentices
+Title            | Rank (# of times taken) | Gp Earned/Month | Number of Workers Allowed
+:--------------- | ----------------------: | --------------: | :--------------------------
+Apprentice       | 1                       | 10gp            | N.A.
+Journeyman       | 2                       | 20gp            | 3 Apprentices
+Master Performer | 3                       | 40gp            | 2 Journeymen, 4 Apprentices
 
 
 **Precise Shooting**: The character may conduct missile attacks against opponents engaged in melee at a -4 penalty to his attack throw. A character may take this proficiency multiple times. Each time the proficiency is taken, the penalty to attack opponents in melee is reduced by 2. Characters without this proficiency cannot attack opponents engaged in melee with missile attacks.
@@ -275,11 +276,11 @@ Master Performer       | 3                              | 40gp                  
 
 #### Profession Proficiency Progression
 
-Title                 | Rank (# of times taken)         | Gp Earned/Month        | Number of Workers Allowed
-:-------------------- | ------------------------------: | ---------------------: | :----------------------------
-Apprentice            | 1                               | 25gp                   | N.A.
-Licensed Practitioner | 2                               | 50gp                   | 3 Apprentices
-Master of Profession  | 3                               | 100gp                  | 2 Journeymen, 4 Apprentices
+Title                 | Rank (# of times taken) | Gp Earned/Month | Number of Workers Allowed
+:-------------------- | ----------------------: | --------------: | :--------------------------
+Apprentice            | 1                       | 25gp            | N.A.
+Licensed Practitioner | 2                       | 50gp            | 3 Apprentices
+Master of Profession  | 3                       | 100gp           | 2 Journeymen, 4 Apprentices
 
 
 **Prophecy**: The character is subject to premonitions and dreams of the past and future. The Judge will make these visions both cryptic and useful. Once per week, the character can commune (as the spell).
@@ -335,12 +336,12 @@ Master of Profession  | 3                               | 100gp                 
 **Weapon Focus**: When using a favored type of weapon, the character is capable of devastating strikes. On an attack throw scoring an unmodified 20 when using his favored weapon, the character inflicts double normal damage. A character may take this proficiency multiple times, selecting an additional Weapon Focus each time. The available Weapon Focuses are: axes; maces, flails and hammers; swords and daggers; bows and crossbows; slings and thrown weapons; spears and polearms. Weapon Focus does not allow a character to use weapons not available to his class.
 
 
-### Proficiencies of Normal Humans and Demi-Humans
+## Proficiencies of Normal Humans and Demi-Humans
 
 Normal humans and demi-humans (non-adventuring 0th level characters) do not begin with the Adventuring proficiency or any class proficiencies. Instead they begin their careers with four general proficiencies. If their Intelligence is 13 or greater, they gain additional general proficiencies equal to their Intelligence bonus. A character may not select the same proficiency more than once with his four starting proficiencies, but may use bonus proficiencies from high INT to do so. Normal humans gain an additional general proficiency after 5 years, 15 years, and 35 years of work. Normal dwarves and elves gain an additional general proficiency after 5, 15, 35, and 70 years of work. Adventurers learn much faster - or die.
 
 *Example*: Tavus is a highly intelligent (INT 16) 0th level young man. He begins his career at age 18 with six general proficiencies - four base + two more from his high INT. He selects Craft (Carpenter), Engineering, Labor (Stonecutting), and Mapping with his four starting proficiencies. With his bonus proficiencies he takes two additional ranks in Engineering. At age 23, he gains an additional proficiency, which he uses to take a fourth rank in Engineering. He is now qualified to serve as an Engineer specialist (see Specialists in Chapter 3), making him among the youngest engineers in his guild. A character of average Intelligence might take a lifetime to gain that same level of proficiency.
 
----
+* * *
 
 [Previous](Chapter03.md) [Top](Chapter00.md) [Next](Chapter05.md)
