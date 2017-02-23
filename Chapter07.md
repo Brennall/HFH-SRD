@@ -1,8 +1,9 @@
 [Previous](Chapter06.md) [Top](Chapter00.md) [Next](Chapter08.md)
 
----
+* * *
 
-## Chapter 7: Campaigns
+
+# Chapter 7: Campaigns
 
 
 If the adventurers fare well they will accumulate fame, wealth, and power over many adventures. Eventually they will seek to put a permanent mark on their world. Some may pursue spiritual leadership, creating throngs of zealous worshippers, or magical power, plumbing the depths of lost lore to learn new spells, craft mighty golems, or even become undead. Others may seek temporal power by establishing a stronghold and ruling a domain, or material riches by pursuing mercantile trade and other ventures.
@@ -29,7 +30,7 @@ Level | Magic Research
 *May only assist higher level casters
 
 
-### Magic Research
+## Magic Research
 
 Up until 4th level, spellcasters cannot engage in magic research except by serving as assistants for more powerful casters (as described later). Starting at 5th level, spellcasters may begin to independently research spells, scribe scrolls, and brew potions. When a spellcaster reaches 9th level, he is able to create more powerful magic items such as weapons, rings, and staffs. At 11th level, spellcasters may learn and cast ritual spells of great power and craft magical constructs such as golems and animated statues. If chaotic, the spellcaster will be able to create necromantic servants and even become undead himself. These options are described in detail below.
 
@@ -49,7 +50,7 @@ Spell research can also identify the properties of a magic item. It takes 1,000g
 A mage or other arcane caster can only research a spell if he can still learn spells of that level. A cleric or other divine caster can only research a spell with the permission of his deity (Judge's discretion). The deity will usually remove a spell of the same level from the cleric's spell list in exchange for granting the new spell.
 
 
-### Libraries
+#### Libraries
 
 To research a spell, a spellcaster must have access to a library. Wizard's guilds and major temples often will provide their mages and clerics access to such a library. If a spellcaster wishes to compile his own library, a minimum of 4,000gp must be invested to allow research on 1st level spells. For each subsequent spell level to be researched, another 2,000gp must be invested. Having an exceptionally large library aids research. For every 10,000gp of value above the minimum required for the spell, the spellcaster receives a +1 bonus on his magic research throw (up to a maximum +3 bonus).
 
@@ -62,30 +63,70 @@ Starting at 5th level, spellcasters may begin to scribe scrolls and brew potions
 
 In order to create a magic item, the spellcaster must know the spell(s) that replicate the magic item's effect, or must find a sample or formula of the item. If a magic item's effect does not compare to any existing spell, the spellcaster must either research a new spell that will produce the desired effect, or he must find a sample or formula of the item.
 
-### Cost and Time
+
+#### Cost and Time
 
 The base cost and time required to create a magic item is listed on the Magic Item Creation table.
 
 
+#### Magic Research Throw
+
+Creating a magic item requires a magic research throw. The target value for this throw is increased by the level of the spell being enchanted into the item. If multiple effects are being enchanted, each must be rolled separately. A +1 item bonus is considered a 1st level spell, a +2 item bonus is considered a single 3rd level spell, and a +3 item bonus is considered a single 6th level spell.
+
+
+#### Formulas and Samples
+
+A formula is a magical "recipe" for the creation of an item. A spellcaster automatically has a formula for any magic item he has previously created. Formulas may also be found as treasure. A sample is simply an existing magic item that is available to the spellcaster while he is working.
+
+
+There are three advantages to having a formula or sample:
+
+- It enables the spellcaster to create a magic item without having to learn or invent the spells imbued in the item.
+
+- It reduces the cost and time to make the item by 50%.
+
+- The target value for the magic research throw is only increased by 1/2 the level of the spell being imbued in the item, rather than the full level.
+
+
+#### Precious Materials
+
+Rare woods, noble metals, such as silver, gold, and platinum, and precious gems, such as rubies and diamonds, retain magic better than common woods, crude metals, or simple stone. Using precious materials can thus improve the chances of success of creating a magic item. For every 10,000gp of value in gems, jewelry, precious metals, and rare or elaborately carved woods added, the spellcaster receives a +1 bonus on his magic research throw. A character may not spend more on precious materials than the base cost of the item.
+
+
+#### Special Components
+
+Creating magic items requires special components for each spell effect in the item. Components are usually organs or blood from one or more monsters with a total XP value equal to the gp cost of the research. The cost of any special components is in addition to the base cost of the research. If a character does not have a formula when he begins creating the item, he will not learn the special components until the work is 50% complete. The Judge will determine the specific components required for each item. Different formulas for the same item may require different components. For instance, one formula for a wand of fireball might require the fangs of 20 hellhounds, while another formula for a wand of fireball might require the ichor of four efreeti.
+
+
+#### Workshops
+
+Just as a spellcaster needs a library to research spells, he needs a workshop in order to create magic items. Wizard's guilds and major temples often will provide their mages and clerics access to a workshop. If a spellcaster wishes to build his own workshop, a minimum of 4,000gp must be invested to allow creation of 1st level spell effects or item bonuses. For each subsequent spell level or bonus, another 2,000gp must be invested. Having an exceptionally valuable workshop aids item creation. For every 10,000gp of value above the minimum required for the spell, the spellcaster receives a +1 bonus on his magic research throw (up to a maximum +3 bonus).
+
+
+#### Assistants
+
+An assistant is a mage or other arcane spellcaster of at least 1st level that is under the employ of a 9th level or higher arcane spellcaster. 0th level characters with two ranks in Alchemy may function as assistants in the creation of potions. A spellcaster of 9th level or higher may supervise one assistant, plus an additional assistant for each point of his Intelligence bonus. Whenever the spellcaster works on item creation, each assistant can be assigned an additional magical item creation task. The assistant must have a formula or sample to work from. The assistant's chance of successfully creating the item is based on the assistant's level. Assistants enable a spellcaster to focus his attention on the most challenging magic item creation tasks, leaving less critical tasks to his apprentices and minions.
+
+
 #### Magic Item Creation
 
-Item Type                              | Base Cost                              | Time
-:------------------------------------- | :------------------------------------- | :-----------------------------------
-One Use Effect                         | 500gp x spell level                    | 1 week x spell level
-Charged Effect                         | 500gp x spell level x charges*         | 2 days x spell level x charges
-Permanent Effect, Unlimited Use        | 500gp x spell level x 50               | 100 days x spell level
-Permanent Effect, Use 1/turn           | 500gp x spell level x 33               | 80 days x spell level
-Permanent Effect, Use 1/3 turns        | 500gp x spell level x 25               | 70 days x spell level
-Permanent Effect, Use 1/hour           | 500gp x spell level x 16               | 60 days x spell level
-Permanent Effect, Use 3/day            | 500gp x spell level x 12               | 50 days x spell level
-Permanent Effect, Use 1/day            | 500gp x spell level x 10               | 40 days x spell level
-Permanent Effect, Use 1/week           | 500gp x spell level x 6                | 30 days x spell level
-Magical Weapon +1                      | 5,000gp**                              | 1 month x weapon base cost / 10***
-  - Increase bonus from +1 to +2       | +10,000gp**                            | +1 month x weapon base cost / 10***
-  - Increase bonus from +2 to +3       | +20,000gp**                            | +1 month x weapon base cost / 10***
-Magical Armor +1                       | 5,000gp**                              | 1 month x Armor Class
-  - Increase bonus from +1 to +2       | +10,000gp**                            | +1 month
-  - Increase bonus from +2 to +3       | +20,000gp**                            | +1 month
+Item Type                        | Base Cost                      | Time
+:------------------------------- | :----------------------------- | :-----------------------------------
+One Use Effect                   | 500gp x spell level            | 1 week x spell level
+Charged Effect                   | 500gp x spell level x charges* | 2 days x spell level x charges
+Permanent Effect, Unlimited Use  | 500gp x spell level x 50       | 100 days x spell level
+Permanent Effect, Use 1/turn     | 500gp x spell level x 33       | 80 days x spell level
+Permanent Effect, Use 1/3 turns  | 500gp x spell level x 25       | 70 days x spell level
+Permanent Effect, Use 1/hour     | 500gp x spell level x 16       | 60 days x spell level
+Permanent Effect, Use 3/day      | 500gp x spell level x 12       | 50 days x spell level
+Permanent Effect, Use 1/day      | 500gp x spell level x 10       | 40 days x spell level
+Permanent Effect, Use 1/week     | 500gp x spell level x 6        | 30 days x spell level
+Magical Weapon +1                | 5,000gp**                      | 1 month x weapon base cost / 10***
+  - Increase bonus from +1 to +2 | +10,000gp**                    | +1 month x weapon base cost / 10***
+  - Increase bonus from +2 to +3 | +20,000gp**                    | +1 month x weapon base cost / 10***
+Magical Armor +1                 | 5,000gp**                      | 1 month x Armor Class
+  - Increase bonus from +1 to +2 | +10,000gp**                    | +1 month
+  - Increase bonus from +2 to +3 | +20,000gp**                    | +1 month
 
 *If a charged item has multiple spell effects powered by the same charges, use the base cost and time for the highest level spell effect, plus half the base cost and time for each other spell effect. The minimum time to create a charged item is never less than 1 week per spell level of the highest level effect.
 
@@ -94,60 +135,21 @@ Magical Armor +1                       | 5,000gp**                              
 ***Arrows, bolts, and slingstones are enchanted in bundles of 20 at a base cost of 10gp.
 
 
-### Magic Research Throw
-
-Creating a magic item requires a magic research throw. The target value for this throw is increased by the level of the spell being enchanted into the item. If multiple effects are being enchanted, each must be rolled separately. A +1 item bonus is considered a 1st level spell, a +2 item bonus is considered a single 3rd level spell, and a +3 item bonus is considered a single 6th level spell.
-
-
-### Formulas and Samples
-
-A formula is a magical "recipe" for the creation of an item. A spellcaster automatically has a formula for any magic item he has previously created. Formulas may also be found as treasure. A sample is simply an existing magic item that is available to the spellcaster while he is working.
-
-
-There are three advantages to having a formula or sample:
-
-1. It enables the spellcaster to create a magic item without having to learn or invent the spells imbued in the item.
-
-2. It reduces the cost and time to make the item by 50%.
-
-3. The target value for the magic research throw is only increased by 1/2 the level of the spell being imbued in the item, rather than the full level.
-
-
-### Precious Materials
-
-Rare woods, noble metals, such as silver, gold, and platinum, and precious gems, such as rubies and diamonds, retain magic better than common woods, crude metals, or simple stone. Using precious materials can thus improve the chances of success of creating a magic item. For every 10,000gp of value in gems, jewelry, precious metals, and rare or elaborately carved woods added, the spellcaster receives a +1 bonus on his magic research throw. A character may not spend more on precious materials than the base cost of the item.
-
-
-### Special Components
-
-Creating magic items requires special components for each spell effect in the item. Components are usually organs or blood from one or more monsters with a total XP value equal to the gp cost of the research. The cost of any special components is in addition to the base cost of the research. If a character does not have a formula when he begins creating the item, he will not learn the special components until the work is 50% complete. The Judge will determine the specific components required for each item. Different formulas for the same item may require different components. For instance, one formula for a wand of fireball might require the fangs of 20 hellhounds, while another formula for a wand of fireball might require the ichor of four efreeti.
-
-
-### Workshops
-
-Just as a spellcaster needs a library to research spells, he needs a workshop in order to create magic items. Wizard's guilds and major temples often will provide their mages and clerics access to a workshop. If a spellcaster wishes to build his own workshop, a minimum of 4,000gp must be invested to allow creation of 1st level spell effects or item bonuses. For each subsequent spell level or bonus, another 2,000gp must be invested. Having an exceptionally valuable workshop aids item creation. For every 10,000gp of value above the minimum required for the spell, the spellcaster receives a +1 bonus on his magic research throw (up to a maximum +3 bonus).
-
-
-### Assistants
-
-An assistant is a mage or other arcane spellcaster of at least 1st level that is under the employ of a 9th level or higher arcane spellcaster. 0th level characters with two ranks in Alchemy may function as assistants in the creation of potions. A spellcaster of 9th level or higher may supervise one assistant, plus an additional assistant for each point of his Intelligence bonus. Whenever the spellcaster works on item creation, each assistant can be assigned an additional magical item creation task. The assistant must have a formula or sample to work from. The assistant's chance of successfully creating the item is based on the assistant's level. Assistants enable a spellcaster to focus his attention on the most challenging magic item creation tasks, leaving less critical tasks to his apprentices and minions.
-
-
 #### Sample Magic Item Time, Cost, and Components
 
-Item Type                        | Base Cost      | Time         | Possible Special Components
-:------------------------------- | -------------: | :----------- | :--------------------------------------
-Potion of Healing                | 500gp          | 1 week       | Blood of 1 troll
-Scroll of Fly                    | 1,500gp        | 3 weeks      | Feathers of 3 griffons
-Wand of Fireball (20 charges)    | 30,000gp       | 120 days     | Fangs of 20 hellhounds
-Ring of Invisibility (1/turn)    | 33,000gp       | 160 days     | Ichor of 150 invisible stalkers
-Sword +1                         | 5,000gp        | 1 month      | Skulls of 25 ogres or heroes
-Sword +2                         | 15,000gp       | 2 months     | Skulls of 75 ogres or heroes
-Sword +1, +2 v. spellcasters     | 10,000gp       | 1.5 months   | Skulls of 25 ogres and 25 spellcasters
-Plate Armor +1                   | 5,000gp        | 6 months     | Iron hides of 5 gorgons
+Item Type                     | Base Cost | Time       | Possible Special Components
+:---------------------------- | --------: | :--------- | :--------------------------------------
+Potion of Healing             |     500gp | 1 week     | Blood of 1 troll
+Scroll of Fly                 |   1,500gp | 3 weeks    | Feathers of 3 griffons
+Wand of Fireball (20 charges) |  30,000gp | 120 days   | Fangs of 20 hellhounds
+Ring of Invisibility (1/turn) |  33,000gp | 160 days   | Ichor of 150 invisible stalkers
+Sword +1                      |   5,000gp | 1 month    | Skulls of 25 ogres or heroes
+Sword +2                      |  15,000gp | 2 months   | Skulls of 75 ogres or heroes
+Sword +1, +2 v. spellcasters  |  10,000gp | 1.5 months | Skulls of 25 ogres and 25 spellcasters
+Plate Armor +1                |   5,000gp | 6 months   | Iron hides of 5 gorgons
 
 
-### Ritual Spells
+## Ritual Spells
 
 Arcane and divine spellcasters who reach 11th level or higher may learn to cast very powerful enchantments known as ritual spells. Ritual spells include arcane spells of the 7th, 8th, and 9th spell level, and divine spells of the 6th and 7th level spell levels. Learning one of these mighty dweomers resembles spell research, while actually casting the ritual resembles creating a magic item with one charge.
 
@@ -222,7 +224,7 @@ Duration:     | see below
 Wish is the mightiest spell that can be cast. By simply speaking aloud, the caster can alter reality. This spell can accomplish any the effects of any other spell, or create comparable effects. Events can be reversed; the dead can be brought back to life; or an entire army might be healed of damage. An entire group could be teleported to any location with no chance of error. Unique powers or ability bonuses may be wished for at the Judge's discretion, and these might be permanent or temporary depending on the scope of the request. Although another character may be wished dead, such an act disrupts balance and the wish may be fulfilled in a way that the character wished dead is unaffected. For instance, if a character is wished dead, the caster may be transported through time to a point where the victim has already died of natural causes. Wishes will be fulfilled according to the letter of the request, and the Judge can exercise some regulation of wishes based on this strict enforcement. Ultimately, the Judge will have to decide the limits of a wish spell.
 
 
-### Constructs
+## Constructs
 
 Arcane and divine spellcasters who reach 11th level or higher may create and design magical constructs such as animated statues, gargoyles, and golems. Because of their proficiency with crafts, dwarven craftpriests can create and design magical constructs starting at 9th level.
 
@@ -251,7 +253,7 @@ To design a construct, the spellcaster must have access to a library (as above) 
 *Example*: Quintus, an 11th level mage with 16 INT, is designing a golem. He chooses to design it with 10 HD. This gives the construct a base cost of 2,000gp x 10 or 20,000gp. He wants it to be immune to fire in addition to its standard construct immunities. This means his construct has 2 special abilities, costing an additional 10,000gp, making its total price 30,000gp. At 10 HD, it has a default AC of 5. The construct can inflict a maximum of 30 damage per round, so Quintus decides to give his construct 3 attacks, each doing 1d10 points of damage (3x10 = 30). It will take 37 days to design the construct (1 week + 30,000/1,000). He is using a guild library with a value of 40,000gp. The magic research throw value to design the construct is 12+ (base 6+ plus 30,000/5,000) but Quintus gets a bonus of +2 for his INT bonus and +1 for the library quality \[(40,000-30,000)/(10,000)\]. Quintus will therefore need to throw 9+ to succeed.
 
 
-### Crossbreeds
+## Crossbreeds
 
 Arcane spellcasters who reach 11th level or higher may create crossbreeds by magically blending different progenitor creatures together.
 
@@ -287,7 +289,7 @@ Creating a crossbreed does not require any special components beyond the progeni
 A magical crossbreed is not automatically under the control of the caster. If the more intelligent progenitor was an intelligent and willing participant in the crossbreeding, the magical crossbreed will have the same relationship with the caster as the progenitor did. Otherwise, the Judge should make a reaction roll to determine the crossbreed's reaction to the caster. If the crossbreed is unfriendly or hostile, the caster could try to tame, train, or charm it using specialists or spells; imprison it in his dungeon; or just unleash it onto the world.
 
 
-### Necromancy
+## Necromancy
 
 Chaotic spellcasters who reach 11th level or higher may transform creatures into intelligent undead through the black arts of necromancy. The undead must not have HD greater than the spellcaster's class level, and may not have more than one special ability plus one special ability per point of the spellcaster's ability score bonus from Intelligence. *Example*: Quintus, an 11th level mage with 16 INT, can transform creatures into undead with up to 11 HD with 3 special abilities each.
 
@@ -305,7 +307,7 @@ Transforming a creature into an undead monster also requires special components.
 An undead monster created through necromancy is not automatically under the control of the caster. If the subject creature was a willing participant in the necromancy, it will retain its relationship with the caster when it becomes undead. Otherwise, the Judge should make a reaction roll to determine the undead monster's reaction to the caster. If the undead monster is unfriendly or hostile, the caster could try to control it using spells, or imprison it in his dungeon, or simply unleash it onto the world.
 
 
-### Divine Power
+## Divine Power
 
 Divine spellcasters such as clerics, bladedancers, and craftpriests, can draw on the divine power of their deity to further their magical research. Divine power is measured in gp value equivalent, and can be used in two ways:
 
@@ -371,27 +373,9 @@ A spellcaster can conduct no more than one blood sacrifice per class level per d
 *Example*: Mentu the Death Priest, a 12th level chaotic cleric, is sacrificing a beautiful white unicorn to his patron deity, the Doombringer. If Mentu succeeds on his magical research throw of 5+, he will earn divine power equal to the unicorn's XP value (135xp). Unfortunately, he rolls a 2 and the unicorn's spirit escapes to a holier place. In a rage, Mentu sacrifices the 8 orcs who had captured the unicorn. As these are unwilling chaotic sacrifices, he gains no value from doing so (apart from sating his blood lust!).
 
 
-### Strongholds and Domains
+## Strongholds and Domains
 
 At particular milestones in their career, adventurers can begin to attract followers by establishing a stronghold. The type of stronghold, the level required, and the number and type of followers attracted is defined by the character's class. The Strongholds by Class table summarizes the different possibilities.
-
-
-#### Strongholds by Class
-
-Class                 | Stronghold              | Followers                                                      | Special Rules
-:-------------------- | :---------------------- | :------------------------------------------------------------- | :--------------------------------------------------------------------------------
-Assassin              | Hideout                 | 2d6 1st level assassins                                        | see [Hideouts and Hijinks](#hideouts-and-hijinks) section
-Bard                  | Hall                    | 1d4+1x10 0th level mercenaries, 1d6 1st-3rd level bards        | -
-Bladedancer           | Temple                  | 5d6x10 0th level mercenaries, 1d6 1st-3rd level bl. dancers    | cost of building stronghold reduced by 50%, followers never need to check morale
-Cleric                | Fortified Church        | 5d6x10 0th level mercenaries, 1d6 1st-3rd level clerics        | cost of building stronghold reduced by 50%, followers never need to check morale
-Dwarven Craftpriest   | Vault                   | 3d6x10 1st level dwarves                                       | must be underground, may not be in human or elven civilized or borderlands area
-Dwarven Vaultguard    | Vault                   | 3d6x10 1st level dwarves                                       | must be underground, may not be in human or elven, civilized or borderland area
-Elf Nightblade        | Hideout                 | 2d6 1st level nightblades                                      | see [Hideouts and Hijinks](#hideouts-and-hijinks) section
-Elf Spellsword        | Fastness                | 3d6x10 1st level elves                                         | may not be in human or dwarven civilized or borderland area, all animals within 3 miles of fastness become friendly
-Explorer              | Border Fort             | 1d4+1x10 0th level mercenaries, 1d6 1st-3rd level explorers    | must be in borderlands or wilderness
-Fighter               | Castle                  | 1d4+1x10 0th level mercenaries, 1d6 1st-3rd level fighters     | -
-Mage                  | Sanctum                 | 2d6 0th level apprentices, 1d6 1st level mages                 | see [Sanctums and Dungeons](#sanctums-and-dungeons) section
-Thief                 | Hideout                 | 2d6 1st level thieves                                          | see [Hideouts and Hijinks](#hideouts-and-hijinks) section
 
 
 ### Securing the Domain
@@ -412,67 +396,85 @@ The adventurer must now decide whether or not he wishes to establish a stronghol
 The stronghold and any freestanding buildings in or around the stronghold can be built using the following tables.
 
 
+#### Strongholds by Class
+
+Class               | Stronghold       | Followers                                                   | Special Rules
+:------------------ | :--------------- | :---------------------------------------------------------- | :--------------------------------------------------------------------------------
+Assassin            | Hideout          | 2d6 1st level assassins                                     | see [Hideouts and Hijinks](#hideouts-and-hijinks) section
+Bard                | Hall             | 1d4+1x10 0th level mercenaries, 1d6 1st-3rd level bards     | -
+Bladedancer         | Temple           | 5d6x10 0th level mercenaries, 1d6 1st-3rd level bl. dancers | cost of building stronghold reduced by 50%, followers never need to check morale
+Cleric              | Fortified Church | 5d6x10 0th level mercenaries, 1d6 1st-3rd level clerics     | cost of building stronghold reduced by 50%, followers never need to check morale
+Dwarven Craftpriest | Vault            | 3d6x10 1st level dwarves                                    | must be underground, may not be in human or elven civilized or borderlands area
+Dwarven Vaultguard  | Vault            | 3d6x10 1st level dwarves                                    | must be underground, may not be in human or elven, civilized or borderland area
+Elf Nightblade      | Hideout          | 2d6 1st level nightblades                                   | see [Hideouts and Hijinks](#hideouts-and-hijinks) section
+Elf Spellsword      | Fastness         | 3d6x10 1st level elves                                      | may not be in human or dwarven civilized or borderland area, all animals within 3 miles of fastness become friendly
+Explorer            | Border Fort      | 1d4+1x10 0th level mercenaries, 1d6 1st-3rd level explorers | must be in borderlands or wilderness
+Fighter             | Castle           | 1d4+1x10 0th level mercenaries, 1d6 1st-3rd level fighters  | -
+Mage                | Sanctum          | 2d6 0th level apprentices, 1d6 1st level mages              | see [Sanctums and Dungeons](#sanctums-and-dungeons) section
+Thief               | Hideout          | 2d6 1st level thieves                                       | see [Hideouts and Hijinks](#hideouts-and-hijinks) section
+
+
 #### Stronghold Structure Costs
 
-Structure                                                                              | Cost
-:------------------------------------------------------------------------------------- | ----------:
-Barbican (gatehouse, 2 small towers, and a drawbridge)                                 | 38,000gp
-Battlement (100' long, crenellated parapets)                                           | 500gp
-Building, stone (20' high, 30' square, wood doors, floors, roof, stairs)*              | 3,000gp
-Building, wood (20' high, 30' square, wood doors, floors, roof, stairs)*               | 1,500gp
-Corridor, dungeon (10'x10'x10', hewn stone walls, flagstone floor)                     | 500gp
-Drawbridge, wood (10' x 20')                                                           | 250gp
-Gatehouse (20' high, 30' x 20', metal portcullis, wood doors, floors, stairs)          | 6,500gp
-Keep, square (80' high, 60' square, wood doors, floors, stairs)*                       | 75,000gp
-Moat, unfilled (100' x 20' x 10' deep)*                                                | 400gp
-Moat, filled (100' x 20' x 10' deep)*                                                  | 800gp
-Palisade, wood (10' high, 100' long, 1' thick)                                         | 125gp
-Rampart, earthen (10' high, 100' long, 15' thick)                                      | 2,500gp
-Tower, small round (30' high, 20' diameter, wood doors, floors, stairs)                | 15,000gp
-Tower, medium round (40' high, 20' diameter, wood doors, floors, stairs)               | 22,500gp
-Tower, large round (40' high, 30' diameter, wood doors, floors, roof, stairs)          | 30,000gp
-Tower, huge round (60' high, 30' diameter, wood doors, floors, roof, stairs)           | 54,000gp
-Wall, stone castle (20' high, 100' long, 10' thick)                                    | 5,000gp
-Wall, stone castle (30' high, 100' long, 10' thick)                                    | 7,500gp
-Wall, stone castle (40' high, 100' long, 10' thick)                                    | 12,500gp
-Wall, stone castle (50' high, 100' long, 10' thick)                                    | 17,500gp
-Wall, stone castle (60' high, 100' long, 10' thick)                                    | 22,500gp
+Structure                                                                     | Cost
+:---------------------------------------------------------------------------- | -------:
+Barbican (gatehouse, 2 small towers, and a drawbridge)                        | 38,000gp
+Battlement (100' long, crenellated parapets)                                  |    500gp
+Building, stone (20' high, 30' square, wood doors, floors, roof, stairs)*     |  3,000gp
+Building, wood (20' high, 30' square, wood doors, floors, roof, stairs)*      |  1,500gp
+Corridor, dungeon (10'x10'x10', hewn stone walls, flagstone floor)            |    500gp
+Drawbridge, wood (10' x 20')                                                  |    250gp
+Gatehouse (20' high, 30' x 20', metal portcullis, wood doors, floors, stairs) |  6,500gp
+Keep, square (80' high, 60' square, wood doors, floors, stairs)*              | 75,000gp
+Moat, unfilled (100' x 20' x 10' deep)*                                       |    400gp
+Moat, filled (100' x 20' x 10' deep)*                                         |    800gp
+Palisade, wood (10' high, 100' long, 1' thick)                                |    125gp
+Rampart, earthen (10' high, 100' long, 15' thick)                             |  2,500gp
+Tower, small round (30' high, 20' diameter, wood doors, floors, stairs)       | 15,000gp
+Tower, medium round (40' high, 20' diameter, wood doors, floors, stairs)      | 22,500gp
+Tower, large round (40' high, 30' diameter, wood doors, floors, roof, stairs) | 30,000gp
+Tower, huge round (60' high, 30' diameter, wood doors, floors, roof, stairs)  | 54,000gp
+Wall, stone castle (20' high, 100' long, 10' thick)                           |  5,000gp
+Wall, stone castle (30' high, 100' long, 10' thick)                           |  7,500gp
+Wall, stone castle (40' high, 100' long, 10' thick)                           | 12,500gp
+Wall, stone castle (50' high, 100' long, 10' thick)                           | 17,500gp
+Wall, stone castle (60' high, 100' long, 10' thick)                           | 22,500gp
 
 *The dimensions of these constructions can be altered as long as the square footage remains the same.
 
 
 #### Civilian Structure Costs
 
-Structure                                                                              | Cost
-:------------------------------------------------------------------------------------- | ----------:
-Cottage, wood (20' high, 30' square, thatched roof, wood stairs, earthen floor)*       | 300gp
-Hut, pit (8' high, 8' square, thatched roof, sunken earthen floor)*                    | 15gp
-Hut, sod or wattle (10' high, 10' square, thatched roof, earthen floor)*               | 25gp
-Hut, mudbrick or wood (10' high, 10' square, thatched roof, earthen floor)*            | 50gp
-Longhouse, wood (15' high, 30' long, 15' wide, thatched roof, earthen floor)*          | 300gp
-Roundhouse, wood (15' high, 15' diameter, thatched roof, earthen floor)*               | 125gp
-Townhouse, stone (20' high, 30' square, thatched roof, wood floor and stairs)*         | 1,200gp
+Structure                                                                        | Cost
+:------------------------------------------------------------------------------- | ------:
+Cottage, wood (20' high, 30' square, thatched roof, wood stairs, earthen floor)* |   300gp
+Hut, pit (8' high, 8' square, thatched roof, sunken earthen floor)*              |    15gp
+Hut, sod or wattle (10' high, 10' square, thatched roof, earthen floor)*         |    25gp
+Hut, mudbrick or wood (10' high, 10' square, thatched roof, earthen floor)*      |    50gp
+Longhouse, wood (15' high, 30' long, 15' wide, thatched roof, earthen floor)*    |   300gp
+Roundhouse, wood (15' high, 15' diameter, thatched roof, earthen floor)*         |   125gp
+Townhouse, stone (20' high, 30' square, thatched roof, wood floor and stairs)*   | 1,200gp
 
 *The dimensions of these constructions can be altered as long as the square footage remains the same.
 
 
 #### Structure Accessories Costs
 
-Accessory                                      | Cost
-:--------------------------------------------- | ----------:
-Arrow Slit/Window**                            | 10gp
-Door, wood (3' x 7')**                         | 10gp
-Door, reinforced wood (3' x 7')**              | 20gp
-Door, iron/stone (3' x 7')**                   | 50gp
-Door, secret (3' x 7')**                       | By material x5
-Floor/Roof, flagstone or tile (10' x 10')**    | 40gp
-Floor/Roof, wood (10' x 10')**                 | 10gp
-Shutters (window)**                            | 5gp
-Shifting Wall (10' x 10')**                    | 1000gp
-Stairs, wood (one flight, 3' x 10')**          | 20gp
-Stairs, stone (one flight, 3' x 10')**         | 60gp
+Accessory                                  | Cost
+:----------------------------------------- | -------------:
+Arrow Slit/Window*                         |           10gp
+Door, wood (3' x 7')*                      |           10gp
+Door, reinforced wood (3' x 7')*           |           20gp
+Door, iron/stone (3' x 7')*                |           50gp
+Door, secret (3' x 7')*                    | By material x5
+Floor/Roof, flagstone or tile (10' x 10')* |           40gp
+Floor/Roof, wood (10' x 10')*              |           10gp
+Shutters (window)*                         |            5gp
+Shifting Wall (10' x 10')*                 |         1000gp
+Stairs, wood (one flight, 3' x 10')*       |           20gp
+Stairs, stone (one flight, 3' x 10')*      |           60gp
 
-**Upgrade a structure to include these at time of construction for 25% of the accessories' base cost
+*Upgrade a structure to include these at time of construction for 25% of the accessories' base cost
 
 
 When drawing up plans for a stronghold, note that different kinds of structures will have different thicknesses of stone. Most buildings have walls 1-2' feet thick, while towers and similar outposts have 5' thick walls. Keeps have the thickest walls of all, at 10' thick.
@@ -493,77 +495,77 @@ Use the Followers Type and Equipment by Class table, below, to determine the arm
 
 #### Domain Population
 
-Classification                 | Starting Families
-:----------------------------- | :--------------------------
-Civilized                      | 8d6 x 10 per 6-mile hex
-Borderlands                    | 3d6 x 10 per 6-mile hex
-Wilderness                     | 1d4+1 x 10 per 6-mile hex
+Classification | Starting Families
+:------------- | :------------------------
+Civilized      | 8d6 x 10 per 6-mile hex
+Borderlands    | 3d6 x 10 per 6-mile hex
+Wilderness     | 1d4+1 x 10 per 6-mile hex
 
 
 ### Follower Type and Equipment by Class
 
 #### Bards & Bladedancers
 
-Die Roll (1d100)           | Type and Equipment
-:------------------------- | :----------------------------------------------------------------------------------------------
-01-10                      | Heavy Cavalry (lance, sword, shield, plate armor, chain barded medium warhorse)
-11-20                      | Medium Cavalry (lance, shield, lamellar armor, and medium warhorse)
-21-35                      | Light Cavalry (3 javelins, 2 swords, leather armor, light warhorse)
-36-55                      | Heavy Infantry (pole arm, sword, shield, banded plate armor)
-56-80                      | Light Infantry (2 swords, dagger, leather armor)
-81-90                      | Archers (short bow, sword, leather armor)
-91-100                     | Slingers (sling, short sword, shield, leather armor)
+Die Roll (1d100) | Type and Equipment
+:--------------- | :-------------------------------------------------------------------------------------------
+01-10            | Heavy Cavalry (lance, sword, shield, plate armor, chain barded medium warhorse)
+11-20            | Medium Cavalry (lance, shield, lamellar armor, and medium warhorse)
+21-35            | Light Cavalry (3 javelins, 2 swords, leather armor, light warhorse)
+36-55            | Heavy Infantry (pole arm, sword, shield, banded plate armor)
+56-80            | Light Infantry (2 swords, dagger, leather armor)
+81-90            | Archers (short bow, sword, leather armor)
+91-100           | Slingers (sling, short sword, shield, leather armor)
 
 
 #### Clerics & Fighters
 
-Die Roll (1d100)           | Type and Equipment
-:------------------------- | :----------------------------------------------------------------------------------------------
-01-05                      | Cataphract Cavalry (composite bow, sword, shield, plate armor, chain barded medium warhorse)
-06-15                      | Heavy Cavalry (lance, sword, shield, plate armor, chain barded medium warhorse)
-16-25                      | Medium Cavalry (lance, shield, lamellar armor, and medium warhorse)
-26-35                      | Light Cavalry (3 javelins, sword, shield, leather armor, light warhorse)
-36-60                      | Heavy Infantry (pole arm, sword, shield, banded plate armor)
-61-80                      | Light Infantry (spear, short sword, shield, leather armor)
-81-90                      | Archers (short bow, short sword, leather armor)
-91-100                     | Slingers (sling, short sword, shield, leather armor)
+Die Roll (1d100) | Type and Equipment
+:--------------- | :-------------------------------------------------------------------------------------------
+01-05            | Cataphract Cavalry (composite bow, sword, shield, plate armor, chain barded medium warhorse)
+06-15            | Heavy Cavalry (lance, sword, shield, plate armor, chain barded medium warhorse)
+16-25            | Medium Cavalry (lance, shield, lamellar armor, and medium warhorse)
+26-35            | Light Cavalry (3 javelins, sword, shield, leather armor, light warhorse)
+36-60            | Heavy Infantry (pole arm, sword, shield, banded plate armor)
+61-80            | Light Infantry (spear, short sword, shield, leather armor)
+81-90            | Archers (short bow, short sword, leather armor)
+91-100           | Slingers (sling, short sword, shield, leather armor)
 
 
 #### Dwarven Craftpriests & Vaultguards
 
-Die Roll (1d100)           | Type and Equipment
-:------------------------- | :----------------------------------------------------------------------------------------------
-01-20                      | Dwarven Heavy Infantry (great axe, plate armor)
-21-40                      | Dwarven Heavy Infantry (war hammer, shield, banded plate armor)
-41-60                      | Dwarven Heavy Infantry (battle axe, shield, chainmail)
-61-80                      | Dwarven Crossbowman (arbalest, dagger, chainmail)
-81-100                     | Dwarven Mounted Crossbowmen (crossbow, chainmail, mule)
+Die Roll (1d100) | Type and Equipment
+:--------------- | :-------------------------------------------------------------------------------------------
+01-20            | Dwarven Heavy Infantry (great axe, plate armor)
+21-40            | Dwarven Heavy Infantry (war hammer, shield, banded plate armor)
+41-60            | Dwarven Heavy Infantry (battle axe, shield, chainmail)
+61-80            | Dwarven Crossbowman (arbalest, dagger, chainmail)
+81-100           | Dwarven Mounted Crossbowmen (crossbow, chainmail, mule)
 
 
 #### Elven Spellswords
 
-Die Roll (1d100)           | Type and Equipment
-:------------------------- | :----------------------------------------------------------------------------------------------
-01-15                      | Elven Horse Archers (composite bow, scimitar, leather armor, light warhorse)
-16-30                      | Elven Light Cavalry (lance, shield, leather armor, light warhorse)
-31-45                      | Elven Light Infantry (spear, short sword, shield, leather armor)
-46-60                      | Elven Heavy Infantry (spear, sword, shield, chainmail)
-61-75                      | Elven Archers (short bow, dagger, leather armor)
-76-100                     | Elven Longbowmen (long bow, sword, chainmail)
+Die Roll (1d100) | Type and Equipment
+:--------------- | :-------------------------------------------------------------------------------------------
+01-15            | Elven Horse Archers (composite bow, scimitar, leather armor, light warhorse)
+16-30            | Elven Light Cavalry (lance, shield, leather armor, light warhorse)
+31-45            | Elven Light Infantry (spear, short sword, shield, leather armor)
+46-60            | Elven Heavy Infantry (spear, sword, shield, chainmail)
+61-75            | Elven Archers (short bow, dagger, leather armor)
+76-100           | Elven Longbowmen (long bow, sword, chainmail)
 
 
 #### Explorers
 
-Die Roll (1d100)           | Type and Equipment
-:------------------------- | :----------------------------------------------------------------------------------------------
-01-10                      | Medium Cavalry (lance, shield, lamellar armor, and medium warhorse)
-11-25                      | Light Cavalry (3 javelins, 2 swords, leather armor, light warhorse)
-26-40                      | Horse Archers (composite bow, scimitar, leather armor, light warhorse)
-41-60                      | Light Infantry (spear, hand axe, shield, leather armor)
-61-70                      | Longbowmen (long bow, sword, chainmail armor)
-71-80                      | Archers (short bow, short sword, leather armor)
-81-90                      | Slingers (sling, short sword, shield, leather armor)
-91-100                     | Hunters (bola, net, 3 javelins, hand axe, leather armor)
+Die Roll (1d100) | Type and Equipment
+:--------------- | :-------------------------------------------------------------------------------------------
+01-10            | Medium Cavalry (lance, shield, lamellar armor, and medium warhorse)
+11-25            | Light Cavalry (3 javelins, 2 swords, leather armor, light warhorse)
+26-40            | Horse Archers (composite bow, scimitar, leather armor, light warhorse)
+41-60            | Light Infantry (spear, hand axe, shield, leather armor)
+61-70            | Longbowmen (long bow, sword, chainmail armor)
+71-80            | Archers (short bow, short sword, leather armor)
+81-90            | Slingers (sling, short sword, shield, leather armor)
+91-100           | Hunters (bola, net, 3 javelins, hand axe, leather armor)
 
 
 Apprentices (such as 1st level assassins, elven nightblades, mages, and thieves) and leader types (such as 1st-3rd level bards, bladedancers, clerics, explorers, or fighters) can be quickly created using the pre-generated templates for their class, or the Judge may allow the adventurer to generate and equip them using the Character Creation rules in Chapter 1.
@@ -582,14 +584,14 @@ An adventurer can increase the population of his domain by making agricultural i
 Adventurers who are rising in power and fame will attract additional peasants to move to their domains. Provided a character actively adventures at least once per month and keeps his domain secure from threats, his domain's population will grow by an additional amount each month, determined by the number of families already present.
 
 
-Population (Families)  | Increase
-:--------------------- | --------:
-1-100                  | +25%
-301-400                | +10%
-101-200                | +20%
-401-500                | +5%
-201-300                | +15%
-500+                   | +1%
+Population (Families) | Increase
+:-------------------- | -------:
+1-100                 |     +25%
+301-400               |     +10%
+101-200               |     +20%
+401-500               |      +5%
+201-300               |     +15%
+500+                  |      +1%
 
 
 Elven domains always increase in population as if they were two population categories larger. Dwarven domains increase in population as if they were one population category larger. *Example*: An elven domain of 1-100 families increases in population as if it were 201-300 families in population, at 15% per month.
@@ -597,7 +599,7 @@ Elven domains always increase in population as if they were two population categ
 Note that if a domain ruler is not actively adventuring, does not make agricultural investments, and does not have very high domain morale, the gain and loss in population each month will tend to equalize and domain population will be flat.
 
 
-### Limits of Growth
+#### Limits of Growth
 
 The classification and size of a domain determine its maximum population. A wilderness domain cannot exceed 4 families per square mile, or 125 families per 6-mile hex. A borderlands domain cannot exceed 8 families per square mile, or 250 families per 6-mile hex. A civilized domain cannot exceed 25 families per square mile, or 780 families per 6-mile hex. For the domain to grow past this limit, the adventurer must secure an additional area of land (such as an adjacent 6-mile hex) to permit the population to grow. No domain can be larger than its stronghold can secure. The maximum domain size is 1 24-mile hex, consisting of 16 contiguous 6-mile hexes. If a wilderness domain ever reaches the maximum of 125 families x 16 6-mile hexes (2,000 families), it becomes a borderlands domain. If a borderlands domain ever reaches the maximum of 250 families x 16 6-mile hexes (4,000 families), it becomes a civilized domain. No domain can normally have more than 12,500 families (780 families x 16 6-mile hexes), as this is the upper limit the land can support (roughly 120 people per square mile).
 
@@ -609,12 +611,12 @@ An adventurer can exceed his domain's limits of growth by establishing an urban 
 Each month, the adventurer collects revenue from each peasant family in his domain. There are four sources of income: land revenue, service revenue, tax revenue, and vassal revenue. The first three types of revenue are generated by the domain's peasant families, while the last is only generated if the adventurer has one or more vassal domains (described below).
 
 
-Source     | Monthly Revenue
-:--------- | :---------------
-Land       | 3-9gp / family
-Services   | 4gp/ family
-Taxes      | 2gp/ family
-Vassals    | Varies
+Source   | Monthly Revenue
+:------- | :--------------
+Land     | 3-9gp / family
+Services |   4gp / family
+Taxes    |   2gp / family
+Vassals  | Varies
 
 
 As noted under Securing the Domain (above), land revenue derives from labor on the domain's lands. It includes wheat, barley, and other grains; cheese, milk, meat, bee honey, and other animal products; and clay, stone, coal, and metals. The average domain produces 6gp of land revenue per peasant, but not all land is equally valuable. The domain's land revenue will have been determined with a roll of 3d3 when the domain was first secured - this value is the monthly land revenue per peasant family.
@@ -633,11 +635,11 @@ Vassal revenue is income received from vassal domains controlled by the adventur
 **Garrison**: In order to maintain the security of his domain, the adventurer must have a large enough garrison of troops. Depending on the classification of the domain, this can cost 2-4gp per family per month. The adventurer should specify the exact make-up of the garrison, hiring an appropriate number of mercenaries (see Chapter 3, Equipment, for details on mercenaries).
 
 
-Classification    | Garrison Cost
-:---------------- | :--------------
-Civilized         | 2gp / family
-Borderlands       | 3gp/ family
-Wilderness        | 4gp/ family
+Classification | Garrison Cost
+:------------- | :------------
+Civilized      | 2gp / family
+Borderlands    | 3gp / family
+Wilderness     | 4gp / family
 
 
 The gold piece value of a cleric's or bladedancer's followers can be applied against the garrison cost of their domain, even though the cleric or bladedancer does not actually have to pay their faithful followers for their services.
@@ -692,15 +694,15 @@ Three factors determine a ruler's title - the size of his personal domain, the n
 
 #### Titles of Nobility
 
-Personal Domain (families)     | Number of Domains Ruled        | Overall Realm (families)       | Common         | Southern          | Elven       | Eastern        | Northern
------------------------------: | -----------------------------: | -----------------------------: | :------------- | :---------------- | :---------- | :------------- | :------------- 
-12,500                         | 5,461-55,987                   | 1.5M - 11.6M+                  | Emperor        | Tarkaun           | Ard-r'i     | Maharaja       | High King
-12,500                         | 1,365-9,331                    | 364K - 2,000K                  | King           | Exarch            | R'i-ruirech | Raja           | King
-7,500                          | 341-1,555                      | 87K - 322K                     | Prince         | Prefect           | R'i         | Deshmukh       | Prince
-1,500                          | 85-259                         | 20,000 - 52,000                | Duke           | Palatine          | Diuc        | Zammin         | Duke
-780                            | 21-43                          | 4,600 - 8,500                  | Count          | Legate            | Iarla       | Mansab         | Jarl
-320                            | 5-7                            | 960 - 1,280                    | Marquis        | Tribune           | Ard-tiarna  | Sardar         | Reeve
-160                            | 1                              | 160                            | Baron          | Castellan         | Tiarna      | Jagir          | Thane
+Personal Domain (families) | Number of Domains Ruled | Overall Realm (families) | Common  | Southern  | Elven       | Eastern  | Northern
+-------------------------: | ----------------------: | -----------------------: | :------ | :-------- | :---------- | :------- | :-------- 
+12,500                     | 5,461-55,987            | 1.5M - 11.6M+            | Emperor | Tarkaun   | Ard-r'i     | Maharaja | High King
+12,500                     | 1,365-9,331             | 364K - 2,000K            | King    | Exarch    | R'i-ruirech | Raja     | King
+7,500                      | 341-1,555               | 87K - 322K               | Prince  | Prefect   | R'i         | Deshmukh | Prince
+1,500                      | 85-259                  | 20,000 - 52,000          | Duke    | Palatine  | Diuc        | Zammin   | Duke
+780                        | 21-43                   | 4,600 - 8,500            | Count   | Legate    | Iarla       | Mansab   | Jarl
+320                        | 5-7                     | 960 - 1,280              | Marquis | Tribune   | Ard-tiarna  | Sardar   | Reeve
+160                        | 1                       | 160                      | Baron   | Castellan | Tiarna      | Jagir    | Thane
 
 
 ### Keeping the Peace
@@ -708,17 +710,17 @@ Personal Domain (families)     | Number of Domains Ruled        | Overall Realm 
 All domains have a morale score which represent their populations' trust and faith in their ruler. Morale scores vary from -4 to +4. Domains begin with a morale score of 0 plus or minus their ruler's Charisma adjustment, known as their base morale score. Morale scores affect the functioning of the domain, as described below.
 
 
-Morale Score    | Morale Level
---------------: | :-------------
--4              | Rebellious
--3              | Defiant
--2              | Turbulent
--1              | Demoralized
-0               | Apathetic
-+1              | Loyal
-+2              | Dedicated
-+3              | Steadfast
-+4              | Stalwart
+Morale Score | Morale Level
+-----------: | :-----------
+          -4 | Rebellious
+          -3 | Defiant
+          -2 | Turbulent
+          -1 | Demoralized
+           0 | Apathetic
+          +1 | Loyal
+          +2 | Dedicated
+          +3 | Steadfast
+          +4 | Stalwart
 
 
 **Rebellious** means that the domain is revolting against their ruler. There is no population growth, and an extra 4d10 families per thousand are lost to illness, casualties, and emigration each month. Tax, land, and service income drop to zero. The able-bodied men (one per peasant family) become bandits, and begin to attack officials, trade caravans, troops, and travelers in the domain. If these bandits are slain, the population of the domain is reduced accordingly. For every 200 peasant families in the domain, there is a cumulative 10% chance of a village hero (4th - 7th level fighter) emerging to challenge the character's rule.
@@ -744,34 +746,34 @@ Every season (three month interval), the Judge will roll 2d6 on the Domain Moral
 
 #### Domain Morale
 
-Adjusted Die Roll      | Result
-:--------------------- | :-------------------------------
-2-                     | Morale reduced by 2 (min -4)
-3-5                    | Morale reduced by 1 (min -4)
-6-8                    | Morale shifts by 1 towards base
-9-11                   | Morale increased by 1 (max +4)
-12+                    | Morale increased by 2 (max +4)
+Adjusted Die Roll | Result
+:---------------- | :-------------------------------
+2-                | Morale reduced by 2 (min -4)
+3-5               | Morale reduced by 1 (min -4)
+6-8               | Morale shifts by 1 towards base
+9-11              | Morale increased by 1 (max +4)
+12+               | Morale increased by 2 (max +4)
 
 
-Seasonal Events                         | Morale Roll Adjustment
-:-------------------------------------- | :----------------------
-Ruler is of different alignment         | -2
-Garrison below normal last season       | -1/gp/family increase
-Garrison above normal last season       | +1/gp/family decrease
-No festivals last season                | -1
-Extra festivals last season             | +1/extra festival
-Population grew 5+% last season         | +1/5% increase
-Population shrank 5%+ last season       | -2/5% decrease
-Taxes below normal last season          | +1/gp decrease
-Taxes above normal last season          | -1/gp increase
-Tithes not paid last season             | -2
-New religion introduced last season     | -4
+Seasonal Events                     | Morale Roll Adjustment
+:---------------------------------- | :---------------------
+Ruler is of different alignment     | -2
+Garrison below normal last season   | -1/gp/family increase
+Garrison above normal last season   | +1/gp/family decrease
+No festivals last season            | -1
+Extra festivals last season         | +1/extra festival
+Population grew 5+% last season     | +1/5% increase
+Population shrank 5%+ last season   | -2/5% decrease
+Taxes below normal last season      | +1/gp decrease
+Taxes above normal last season      | -1/gp increase
+Tithes not paid last season         | -2
+New religion introduced last season | -4
 
 
 *Example*: Marcus, a 9th level fighter, is ruler of a borderlands domain with a morale score of +1 (Loyal). But after accidentally donning a helm of alignment change, Marcus becomes chaotic (-2) and starts running his domain with an iron fist. He offers no festivals (-1), and raises taxes from 2gp to 4gp per peasant (-2), while increasing his garrison troops from 3gp/family to 4gp/family (+1). The dominion's population grows only 2.5% (no modifier). At the end of the season, he rolls 2d6-5+1 for his domain's loyalty and scores a 2. That means his domain morale drops by 2 point, from +1 to -1. His domain has become Demoralized, as his peasants lose their confidence in their ruler. If he continues in his tyrannical ways, Marcus may find that the tighter he grips, the more peasants slip away...
 
 
-### Garrisons and Morale
+#### Garrisons and Morale
 
 As indicated on the Domain Morale Roll Adjustments above, the size of a domain's garrison has a dramatic effect on the domain's morale. Normally the mere existence of the garrison is enough to count for morale purposes. The garrison does not need to be physically in the domain. A ruler who takes his entire 2gp/family garrison on raid into an enemy's domain still counts as having a 2gp/family garrison for purposes of his domain's morale. From the peasants' perspective, it's better to have the war waged somewhere else!
 
@@ -787,7 +789,7 @@ When a domain reaches its limit of growth, its ruler will normally secure an add
 Once established, an urban settlement functions much like a separate domain, except that the adventurer can directly manage both his domain and the urban settlement within the domain. An adventurer cannot directly manage a domain and an urban settlement located in a different domain, however.
 
 
-### Growing the Settlement
+#### Growing the Settlement
 
 As with a domain, the adventurer will make two die rolls of 1d10 per 1,000 families in the urban settlement each month to determine the change in the settlement's population. So long as the character actively adventures at least once per month and keeps his urban settlement secure from threats, the settlement's population will grow by an additional amount each month from immigration, using the Domain Population Growth table.
 
@@ -797,31 +799,31 @@ By spending more gold pieces on roads, aqueducts, sewers, marketplaces, walls, a
 
 
 Total Investment (gp) | Maximum Population (families)
---------------------: | -----------------------------:
-10,000                | 249
-25,000                | 624
-75,000                | 2,499
-200,000               | 4,999
-625,000               | 19,999
-2,500,000             | 100,000
+--------------------: | ----------------------------:
+               10,000 | 249
+               25,000 | 624
+               75,000 | 2,499
+              200,000 | 4,999
+              625,000 | 19,999
+            2,500,000 | 100,000
 
 
-### Collecting Revenue
+#### Collecting Revenue
 
 Each month, the adventurer will collect revenue from each urban family in his domain. Urban families pay urban revenue, representing tolls, duties, tariffs, rent, and other fees paid by the residents to the adventurer. Urban revenue begins at 7gp per family per month and increases with the size of the settlement. Rulers may also profit from taking advantage of the urban settlement as a market. Each urban settlement has a market class based on its size. See Mercantile Ventures for more details on markets.
 
 
-Settlement Population (families)  | Urban Revenue (gp/family)  | Market Class
-:-------------------------------- | :------------------------- | :------------
-75-249                            | 7                          | Class VI
-250-624                           | 7.5                        | Class V
-626-2,499                         | 7.5                        | Class IV
-2,500-4,999                       | 7.5                        | Class III
-5,000-19,999                      | 8                          | Class II
-20,000-100,000                    | 8.5                        | Class I
+Settlement Population (families) | Urban Revenue (gp/family) | Market Class
+ ------------------------------: | ------------------------: | :------------
+                          75-249 |                       7   | Class VI
+                         250-624 |                       7.5 | Class V
+                       626-2,499 |                       7.5 | Class IV
+                     2,500-4,999 |                       7.5 | Class III
+                    5,000-19,999 |                       8   | Class II
+                  20,000-100,000 |                       8.5 | Class I
 
 
-### Paying Expenses
+#### Paying Expenses
 
 Settlement expenses are similar to domain expenses. Each month, an urban settlement must pay a garrison cost of 2gp/family. In addition to maintaining the garrison, the adventurer must pay for the upkeep of the urban communities. Upkeep of urban settlements cost 1.5gp/family each month.
 
@@ -841,27 +843,27 @@ Festival     | 5gp/family/season
 
 #### Villages, Towns, and Cities
 
-Urban Settlement (families)    | Monthly Income  | Market Class
-:----------------------------- | --------------: | :------------
-Hamlets (74-)                  | 0gp             | Class VI*
-Small Village (75-99)          | 18-24gp         | Class VI
-Village (100-159)              | 25-39gp         | Class VI
-Village (160-249)              | 40-60gp         | Class VI
-Large village (250-449)        | 150-264gp       | Class V
-Small town (450-624)           | 265-369gp       | Class V
-Large town (625-1,249)         | 370-739gp       | Class IV
-Small city (1,250-2,499)       | 740-1,474gp     | Class IV
-City (2,500-4,999)             | 1,475-2,950gp   | Class III
-Large city (5,000-9,999)       | 4,700-9,399gp   | Class II
-Large city (10,000-14,999)     | 9,400-14,099gp  | Class II
-Large city (15,000-19,999)     | 14,100-18,799gp | Class II
-Metropolis (20,000-39,999)     | 25,800-51,599gp | Class I
-Metropolis (40,000+)           | 51,600gp+       | Class I
+Urban Settlement (families)    | Monthly Income   | Market Class
+:----------------------------- | ---------------: | :------------
+Hamlets (74-)                  |             0gp  | Class VI*
+Small Village (75-99)          |         18-24gp  | Class VI
+Village (100-159)              |         25-39gp  | Class VI
+Village (160-249)              |         40-60gp  | Class VI
+Large village (250-449)        |       150-264gp  | Class V
+Small town (450-624)           |       265-369gp  | Class V
+Large town (625-1,249)         |       370-739gp  | Class IV
+Small city (1,250-2,499)       |     740-1,474gp  | Class IV
+City (2,500-4,999)             |   1,475-2,950gp  | Class III
+Large city (5,000-9,999)       |   4,700-9,399gp  | Class II
+Large city (10,000-14,999)     |  9,400-14,099gp  | Class II
+Large city (15,000-19,999)     | 14,100-18,799gp  | Class II
+Metropolis (20,000-39,999)     | 25,800-51,599gp  | Class I
+Metropolis (40,000+)           |        51,600gp+ | Class I
 
 *Class VI market at domain's stronghold only
 
 
-### Keeping the Peace
+#### Keeping the Peace
 
 Like domains, all settlements have a morale score which represent its population's trust and faith in their ruler. A newly-established urban settlement begins with the morale score of the domain within which it was founded. Settlement morale is checked every season on the Domain Morale table. It may vary over time from the morale of the domain it is within.
 
@@ -878,7 +880,6 @@ The adventurer will be responsible for the upkeep of the stronghold and security
 ### Chaotic Domains
 
 Chaotic adventurers may establish chaotic domains of beastmen rather than humans or demi-humans. The decision to establish a chaotic domain is made when the domain is secured. Rather than clear any beastmen present from the area, the chaotic adventurer must successfully hire at least one chieftain in the area as a henchman. Should a chieftain prove recalcitrant, he can be eliminated in favor of a more pliable sub-chieftain, of course. Once the leadership of any beastmen lairs in the domain has been brought into service, the chaotic adventurer is established as a chaotic domain ruler.
-
 
 Chaotic domains are managed like other domains, with the following exceptions:
 
@@ -924,14 +925,14 @@ Assassins, elven nightblades, and thieves can build a secret stronghold called a
 
 #### Hideout Size and Cost
 
-Market Class    | Max. Syndicate Membership     | Minimum Hideout Value (gp)
-:-------------- | ----------------------------: | --------------------------:
-Class VI        | 25                            | 5,000
-Class V         | 50                            | 10,000
-Class IV        | 100                           | 20,000
-Class III       | 375                           | 75,000
-Class II        | 750                           | 150,000
-Class I         | 3,000                         | 600,000
+Market Class | Max. Syndicate Membership | Minimum Hideout Value (gp)
+:----------- | ------------------------: | -------------------------:
+Class VI     |                        25 |                      5,000
+Class V      |                        50 |                     10,000
+Class IV     |                       100 |                     20,000
+Class III    |                       375 |                     75,000
+Class II     |                       750 |                    150,000
+Class I      |                     3,000 |                    600,000
 
 
 Hideouts must be built within 6 miles of an urban settlement, which becomes the syndicate's base of operations. The market class of the urban settlement determines the maximum size of the syndicate. Large ports and cosmopolitan cities can sustain much larger criminal gangs than small towns and agrarian villages. However, in order to reach its maximum size, a syndicate's boss must construct a sufficiently large hideout. The Hideout Size and Cost table shows the maximum syndicate membership by settlement class, as well as the required hideout cost to reach that size of membership.
@@ -944,17 +945,17 @@ Hideouts must be built within 6 miles of an urban settlement, which becomes the 
 Once an adventurer has established a syndicate, its members can be deployed on various hijinks within its base of operations. If an adventurer has henchmen of an appropriate class (assassin, elven nightblade, or thief) these may also be assigned hijinks. Each month, each member of the syndicate (whether a follower, henchman or ruffian) on the boss's payroll can be assigned a hijink from one of six available options. The boss who controls the syndicate gets the benefit of any successful hijinks he orders. The available hijinks, required rolls, and outcome of a successful hijink are summarized below.
 
 
-Hijink            | Requirement                 | Successful Outcome
-:---------------- | :-------------------------- | :----------------------------------------------------------------------------------
-Assassinating     | Hide in Shadows             | Victim dies; bounty of 1,000gp per level of victim to boss
-Carousing         | Hear Noise                  | Learn one rumor worth 3d12x5gp per level of perpetrator to boss
-Smuggling         | Move Silently               | Smuggle 10 loads per level of perpetrator, payout of 12% of value of goods to boss
-Spying            | Hide in Shadows             | Learn one secret worth 2d12x100gp per level of perpetrator to boss
-Stealing          | Pick Pockets                | Steal 2 loads per level of perpetrator, payout of 60% of value of goods to boss
-Treasure Hunting  | Find Traps                  | Find treasure map to hoard worth 1d6x1,000gp per level of perpetrator to boss
+Hijink           | Requirement     | Successful Outcome
+:--------------- | :-------------- | :----------------------------------------------------------------------------------
+Assassinating    | Hide in Shadows | Victim dies; bounty of 1,000gp per level of victim to boss
+Carousing        | Hear Noise      | Learn one rumor worth 3d12x5gp per level of perpetrator to boss
+Smuggling        | Move Silently   | Smuggle 10 loads per level of perpetrator, payout of 12% of value of goods to boss
+Spying           | Hide in Shadows | Learn one secret worth 2d12x100gp per level of perpetrator to boss
+Stealing         | Pick Pockets    | Steal 2 loads per level of perpetrator, payout of 60% of value of goods to boss
+Treasure Hunting | Find Traps      | Find treasure map to hoard worth 1d6x1,000gp per level of perpetrator to boss
 
 
-### Assassinating
+#### Assassinating
 
 Assassination is the murder of unsuspecting NPC targets for pay. (Assassinating a PC or suspicious NPC victim is an adventure, not a hijink.) Only assassins and elven nightblades can be assigned assassination hijinks. An adventurer may assign an assassination against a particular target for personal reasons if desired. Otherwise, an assassination hijink is murder-for-hire on a victim within 1d2 levels of the perpetrator's level.
 
@@ -963,7 +964,7 @@ For an assassination to succeed, the perpetrator must first make a successful Hi
 If the proficiency throw fails, the assassination attempt failed. If the proficiency throw fails by 14 or more or is an unmodified 1, the perpetrator has been caught. If caught, determine the charges with a 1d6 roll: assault (1-3), mayhem (4-5), or murder (6).
 
 
-### Carousing
+#### Carousing
 
 Carousing includes all manner of consortium with harlots, gossips, and other unsavory characters in unseemly inns and taverns. Any character (including 0th level characters) can be assigned to a carousing hijink, but thieves and characters with Eavesdropping proficiency make the best carousers.
 
@@ -972,14 +973,14 @@ For carousing to succeed, the perpetrator must make a successful Hear Noise thro
 If the proficiency throw fails, the perpetrator learns nothing. If the proficiency throw fails by 14 or more or is an unmodified 1, the perpetrator has been caught. If caught, determine the charges with a 1d6 roll: drunkenness (1-3), gambling (4-5), or vandalism (6).
 
 
-### Smuggling
+#### Smuggling
 
 Smuggling is the illicit movement of goods in order to avoid tolls, customs duties, labor fees, and monopolies. Only thieves can be assigned a smuggling hijink. For smuggling to succeed, the perpetrator must make a successful Move Silently throw. If the throw is successful, the perpetrator smuggles ten loads of merchandise per class level. The type of merchandise smuggled is determined by a random roll on the Common Merchandise Table (see Mercantile Ventures). The perpetrator can smuggle extra loads of merchandise by taking a -1 penalty on the proficiency throw per 10 extra loads. When smuggling succeeds, the boss collects a fee equal to 12% of the market value of the merchandise smuggled.
 
 If the proficiency throw fails, the perpetrator was not able to move the merchandise. If the proficiency throw fails by 14 or more or is an unmodified 1, the perpetrator has been caught and the merchandise confiscated. If caught, determine charges with a 1d6 roll: contraband (1-3), smuggling (4-5), racketeering (6).
 
 
-### Spying
+#### Spying
 
 Spying is the clandestine retrieval of secrets from powerful and influential figures. Assassins, nightblades, and thieves can be assigned a spying hijink.
 
@@ -988,14 +989,14 @@ For spying to succeed, the perpetrator must make a successful Hide in Shadows th
 If the proficiency throw fails, the perpetrator learns nothing. If the proficiency throw fails by 14 or more or is an unmodified 1, the perpetrator has been caught. If caught, determine charges with a 1d6 roll: eavesdropping (1-3), sedition (4-5), or treason (6).
 
 
-### Stealing
+#### Stealing
 
 Stealing includes all manner of burglary, robbery, and theft. Only thieves can be assigned a stealing hijink. For stealing to succeed, the perpetrator must make a successful Pick Pocket throw. If the throw is successful, the perpetrator steals two loads of merchandise per class level. The type of merchandise stolen is determined by a random roll on the Common Merchandise Table (see Mercantile Ventures, below). The perpetrator can attempt to steal a particular type of merchandise by taking a -4 penalty on the proficiency throw. The perpetrator can steal extra loads of merchandise by taking a -1 penalty on the proficiency throw per extra load. When stealing succeeds, the boss receives 60% of the market value of the stolen merchandise.
 
 If the proficiency throw fails, the perpetrator was not able to steal anything. If the proficiency throw fails by 14 or more or is an unmodified 1, the perpetrator has been caught. If caught, determine charges with a 1d6 roll: theft (1-3), burglary (4-5) or robbery (6).
 
 
-### Treasure-Hunting
+#### Treasure-Hunting
 
 Treasure-hunting covers all manner of skulking and scavenging for treasure maps and rumors of hidden wealth. Only thieves can be assigned a treasure-hunting hijink. For treasure-hunting to succeed, the perpetrator must make a successful Find Traps throw. If the throw is successful, the perpetrator finds a treasure map to a random hoard worth 1d6 x 1,000gp per level of the perpetrator. The Judge determines the exact location of the hoard; hoards will generally be 6 miles away from the boss's hideout for each 1,000gp value.
 
@@ -1009,13 +1010,13 @@ Whenever the proficiency throw fails by 14 or more or is an unmodified 1, the pe
 
 #### Crime and Punishment
 
-Adjusted Die Roll      | Result
-:--------------------- | :---------------------------
-2-                     | Punitive Conviction
-3-5                    | Conviction
-6-8                    | Conviction on Lesser Charge
-9-11                   | Acquittal
-12+                    | Acquittal with Damages
+Adjusted Die Roll | Result
+:---------------- | :--------------------------
+2-                | Punitive Conviction
+3-5               | Conviction
+6-8               | Conviction on Lesser Charge
+9-11              | Acquittal
+12+               | Acquittal with Damages
 
 
 To roll on the Crime and Punishment table, roll 2d6. Adjust the die roll by the perpetrator's Charisma modifier and any appropriate proficiency modifiers (from Diplomacy, Mystic Aura, or Seduction). Other circumstances that will apply are listed below.
@@ -1042,7 +1043,7 @@ The Retribution by Crime table can be used to find an appropriate punishment for
 #### Retribution by Crime Table
 
 Crime                              | Punitive Punishment                                                                                                               | Standard Punishment                                                                                   | Lesser Punishment
-:--------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------- : -----------------------------------------------------------------------------------
+:--------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------
 Drunkenness, Outrage               | Fined 5gp                                                                                                                         | Fined 2gp                                                                                             | Fined 1gp
 Eavesdropping                      | Ear cut off (-1 to reaction rolls, -1 to hear noise, -1 to surprise rolls) and fined 25gp                                         | Fined 10gp                                                                                            | Fined 5gp
 Trespassing, Gambling              | Placed in stocks 2d6 days(save v. Death or lose 1d6 teeth, -2 to reaction rolls) and fined 50gp                                   | Fined 25gp                                                                                            | Fined 10gp
@@ -1064,24 +1065,24 @@ The syndicate boss is expected to pay for the attorneys, bribes, fines, and heal
 A criminal guild is a group of multiple syndicates under the control of one boss. Criminal guilds are commonly named for the class of their boss, e.g. a thieves' guild or assassin's guild. There are four general ways an adventurer may create a criminal guild:
 
 
-### New Base of Operations
+#### New Base of Operations
 
 An adventurer whose syndicate has reached its maximum size in its current base of operations may decide to establish a new syndicate in a new base of operations by building a hideout there and relocating some of his membership. The new syndicate in the new base of operations becomes part of the adventurer's criminal guild.
 
 *Example*: Joanna's syndicate, based in a Class IV settlement, has reached its maximum size of 100 members. In order to keep her criminal enterprise growing, Joanna builds a new hideout in a Class III settlement and moves 20 of her members there.
 
 
-### Henchman Advancement
+#### Henchman Advancement
 
 If one of the adventurer's assassin, thief, or nightblade henchmen reaches 9th level, the adventurer may fund a hideout for the henchman. The henchman will attract followers into a syndicate as per the rules above, and the henchman's syndicate becomes part of the adventurer's criminal guild.
 
 
-### Henchman Acquisition
+#### Henchman Acquisition
 
 An adventurer may recruit an NPC who already controls a syndicate to be a henchman. The new henchman's syndicate becomes part of the adventurer's criminal guild.
 
 
-### Change in Management
+#### Change in Management
 
 An adventurer may exile, imprison, or kill an NPC who already controls a syndicate. He may then claim the syndicate and its members as his own. The Judge should roll on the Change in Management table for each of the NPC's former henchmen and followers to see if they are successfully recruited by the adventurer. For very large syndicates, the Judge may roll in batches of 5, 10, 25, or even 100 where appropriate.
 
@@ -1133,7 +1134,7 @@ Syndicate Member Level | Monthly Income (gp)
 When managing a large criminal guild, it can be time-consuming to roll for every member of the guild. The Monthly Hijink Income table can be used to summarize the outcomes of a large number of hijinks by characters of 1st to 8th level. (Hijinks by 9th level or above character should always be rolled.) The Monthly Hijink Income table factors in the costs of wages as well as attorneys, bribes, fines, and healing for syndicate members who get caught.
 
 
-### Sanctums and Dungeons
+## Sanctums and Dungeons
 
 A mage who builds a sanctum attracts 1d6 apprentices of 1st-3rd level each, plus 2d6 normal men seeking to become mages. The intelligence scores of the normal men will be above average (discard any rolls of 8 or less), but many will become discouraged before they become mages. At the end of 1d6 months, each normal man must make a proficiency throw of 14+, adding their Intelligence modifier to the die roll. Those who succeed become 1st level mages; those who fail become discouraged and leave the tower. Each year the mage dwells in his sanctum, he can attract an additional 1d6 normal men, until he has a maximum of 6 apprentices (of any level) and 12 normal men studying at any one time.
 
@@ -1178,7 +1179,7 @@ If maintaining a secure peasant population is important to him, the mage may inc
 If desired, mages may actually hire the monsters in their dungeon to serve as the garrison. This will cause a -2 domain morale penalty if the monsters are Chaotic and the peasants are not. Mages with beastmen peasant families (see Chaotic Domains) do not need to increase their garrison because of dungeons, unless the dungeon's inhabitants are Lawful.
 
 
-### Mercantile Ventures
+## Mercantile Ventures
 
 In their youth, adventurers are wont to squander their treasures on wine, women, and song. But older, wiser adventurers, who have faced death one time too often for a bare handful of coin, may find that their favorite type of venture is mercantile.
 
@@ -1240,11 +1241,11 @@ The market price is the prevailing price for that market, and should only be cal
 
 To determine market price:
 
-1. Find the merchandise's base price on the Common or Precious Merchandise Table.
+- Find the merchandise's base price on the Common or Precious Merchandise Table.
 
-2. Roll 4d4. Add the demand modifier, if any, for this type of merchandise in this market. Add 1 if the market is a Class I or Class II. Subtract 1 if the market is Class V or VI. Modify by 1 in the adventurer's favor if he has a monopoly in that type of merchandise. The Judge may apply any special modifiers (from war, calamity, etc.) he deems appropriate.
+- Roll 4d4. Add the demand modifier, if any, for this type of merchandise in this market. Add 1 if the market is a Class I or Class II. Subtract 1 if the market is Class V or VI. Modify by 1 in the adventurer's favor if he has a monopoly in that type of merchandise. The Judge may apply any special modifiers (from war, calamity, etc.) he deems appropriate.
 
-3. Multiply the result by 10 and apply it as a percentage of the base price. This is the market price for the merchandise.
+- Multiply the result by 10 and apply it as a percentage of the base price. This is the market price for the merchandise.
 
 *Example*: Having lined up some interested merchants, Farlaghn sells his dyes and pigments. The base price for dyes and pigments is 250gp. Rolling 4d4, Farlaghn scores a 9. The city is a major consumer of dyes and pigments, so the demand modifier is +2, increasing the result to 11. Dyes and pigments in the city have a market price of (11x10) 110% of the base price, or 275gp per load. Farlaghn's 20 loads of dyes and pigments are worth 5,500gp.
 
@@ -1301,79 +1302,79 @@ Use the following table to quickly determine the costs, profits, or treasure of 
 
 #### Merchant Ships and Caravans
 
-Ship/Caravan           | Upfront Cost           | Ship Crew / Caravaneers                | Average Cargo Weight Carried   | Average Cargo Value Carried (Treasure Type) | Average Monthly Costs | Average Monthly Profits
-:--------------------- | ---------------------: | :------------------------------------- | -----------------------------: | ------------------------------------------: | --------------------: | -----------------------:
-Small sailing ship     | 10,000gp               | 10 sailors, 1 navigator, 1 captain     | 10,000 stone                   | 20,000gp (Q)                                | 325gp                 | 875gp
-Large sailing ship     | 20,000gp               | 17 sailors, 2 navigators, 1 captain    | 30,000 stone                   | 64,000gp (R+Q)                              | 525gp                 | 2,600gp
-10 wagons              | 3,600gp                | 20 guards, 2 sergeants, 1 leader       | 6,400 stone                    | 15,000gp (N+L)                              | 515gp                 | 120gp
-20 wagons              | 7,200gp                | 40 guards, 4 sergeants, 1 leader       | 12,800 stone                   | 25,000gp (Q+H)                              | 825gp                 | 600gp
-30 wagons              | 10,800gp               | 60 guards, 6 sergeants, 1 leader       | 19,200 stone                   | 40,000gp (Q+P)                              | 1,150gp               | 1,050gp
-40 wagons              | 14,500gp               | 80 guards, 8 sergeants, 1 leader       | 25,600 stone                   | 55,000gp (R+N)                              | 1,450gp               | 1,475gp
+Ship/Caravan       | Upfront Cost | Ship Crew / Caravaneers             | Average Cargo Weight Carried | Average Cargo Value Carried (Treasure Type) | Average Monthly Costs | Average Monthly Profits
+:----------------- | -----------: | :---------------------------------- | ---------------------------: | ------------------------------------------: | --------------------: | -----------------------:
+Small sailing ship |     10,000gp | 10 sailors, 1 navigator, 1 captain  |                 10,000 stone |                              20,000gp (Q)   |                 325gp |                    875gp
+Large sailing ship |     20,000gp | 17 sailors, 2 navigators, 1 captain |                 30,000 stone |                              64,000gp (R+Q) |                 525gp |                  2,600gp
+10 wagons          |      3,600gp | 20 guards, 2 sergeants, 1 leader    |                  6,400 stone |                              15,000gp (N+L) |                 515gp |                    120gp
+20 wagons          |      7,200gp | 40 guards, 4 sergeants, 1 leader    |                 12,800 stone |                              25,000gp (Q+H) |                 825gp |                    600gp
+30 wagons          |     10,800gp | 60 guards, 6 sergeants, 1 leader    |                 19,200 stone |                              40,000gp (Q+P) |               1,150gp |                  1,050gp
+40 wagons          |     14,500gp | 80 guards, 8 sergeants, 1 leader    |                 25,600 stone |                              55,000gp (R+N) |               1,450gp |                  1,475gp
 
 
 #### Common Merchandise
 
-Roll   | Merchandise             | 1 Load                  | Enc. per Load (stone)  | Base Price
-:----- | :---------------------- | :---------------------- | :--------------------- | -----------:
-01-04  | Grain, vegetables       | 20 bags                 | 80                     | 10gp
-05-08  | Fish, preserved         | 10 barrels              | 80                     | 50gp
-09-12  | Wood, common            | 1 cord of logs          | 80                     | 50gp
-13-16  | Animals                 | (Roll 1d6 on Animals)   | By Animal              | By Animal
-17-20  | Salt                    | 150 bricks              | 80                     | 100gp
-21-25  | Beer, ale               | 10 barrels              | 80                     | 100gp
-26-30  | Oil, lamp               | 5 jars                  | 30                     | 100gp
-31-35  | Textiles                | 4 bags                  | 20                     | 100gp
-36-39  | Hides, furs             | 10 bundles              | 30                     | 150gp
-40-43  | Tea or coffee           | 2 bags                  | 10                     | 150gp
-44-47  | Metals, common          | 200 ingots              | 100                    | 200gp
-48-51  | Meats, preserved        | 10 barrels              | 80                     | 200gp
-52-54  | Cloth                   | 20 rolls                | 80                     | 200gp
-55-60  | Wine, spirits           | 1 barrel                | 16                     | 200gp
-61-63  | Pottery                 | 2 crates                | 10                     | 200gp
-64-68  | Tools                   | 1 crate                 | 10                     | 200gp
-69-73  | Armor, weapons          | 1 crate                 | 10                     | 225gp
-74-75  | Dye & pigments          | 5 jars                  | 25                     | 250gp
-76-80  | Glassware               | 2 crates                | 10                     | 400gp
-81-85  | Mounts                  | (Roll 1d4+4 on Animals) | By Animal              | By Animal
-86-100 | *Roll on*               | *Precious Merchandise*  | -                      | -
+Roll   | Merchandise       | 1 Load                  | Enc. per Load (stone) | Base Price
+:----- | :---------------- | :---------------------- | :-------------------- | ---------:
+01-04  | Grain, vegetables | 20 bags                 | 80                    |       10gp
+05-08  | Fish, preserved   | 10 barrels              | 80                    |       50gp
+09-12  | Wood, common      | 1 cord of logs          | 80                    |       50gp
+13-16  | Animals           | (Roll 1d6 on Animals)   | By Animal             |  By Animal
+17-20  | Salt              | 150 bricks              | 80                    |      100gp
+21-25  | Beer, ale         | 10 barrels              | 80                    |      100gp
+26-30  | Oil, lamp         | 5 jars                  | 30                    |      100gp
+31-35  | Textiles          | 4 bags                  | 20                    |      100gp
+36-39  | Hides, furs       | 10 bundles              | 30                    |      150gp
+40-43  | Tea or coffee     | 2 bags                  | 10                    |      150gp
+44-47  | Metals, common    | 200 ingots              | 100                   |      200gp
+48-51  | Meats, preserved  | 10 barrels              | 80                    |      200gp
+52-54  | Cloth             | 20 rolls                | 80                    |      200gp
+55-60  | Wine, spirits     | 1 barrel                | 16                    |      200gp
+61-63  | Pottery           | 2 crates                | 10                    |      200gp
+64-68  | Tools             | 1 crate                 | 10                    |      200gp
+69-73  | Armor, weapons    | 1 crate                 | 10                    |      225gp
+74-75  | Dye & pigments    | 5 jars                  | 25                    |      250gp
+76-80  | Glassware         | 2 crates                | 10                    |      400gp
+81-85  | Mounts            | (Roll 1d4+4 on Animals) | By Animal             |  By Animal
+86-100 | *Roll on*         | *Precious Merchandise*  | -                     |          -
 
 
 #### Precious Merchandise
 
-Roll    | Merchandise           | 1 Load         | Enc. per Load (stone)  | Base Price
-:------ | :-------------------- | :------------- | ---------------------: | ----------:
-01-10   | Monster parts*        | 1 crate        | 5                      | 300gp
-11-25   | Wood, rare            | 1 cord         | 16                     | 500gp
-26-35   | Furs, rare            | 1 bundle       | 5                      | 500gp
-36-45   | Metals, precious      | 2 ingots       | 4                      | 600gp
-46-60   | Ivory                 | 1 tusk         | 8                      | 800gp
-61-65   | Spices                | 1 jar          | 1                      | 800gp
-66-70   | Porcelain, fine       | 2 crates       | 10                     | 1,000gp
-71-75   | Books, rare           | 1 box          | 3                      | 1,000gp
-76-90   | Silk                  | 5 rolls        | 20                     | 2,000gp
-91-95   | Semiprecious stones   | 1 box          | 1                      | 1,000gp
-96-100  | Gems                  | 1 box          | 1                      | 3,000gp
+Roll    | Merchandise         | 1 Load   | Enc. per Load (stone) | Base Price
+:------ | :------------------ | :------- | --------------------: | ---------:
+01-10   | Monster parts*      | 1 crate  |                     5 |      300gp
+11-25   | Wood, rare          | 1 cord   |                    16 |      500gp
+26-35   | Furs, rare          | 1 bundle |                     5 |      500gp
+36-45   | Metals, precious    | 2 ingots |                     4 |      600gp
+46-60   | Ivory               | 1 tusk   |                     8 |      800gp
+61-65   | Spices              | 1 jar    |                     1 |      800gp
+66-70   | Porcelain, fine     | 2 crates |                    10 |    1,000gp
+71-75   | Books, rare         | 1 box    |                     3 |    1,000gp
+76-90   | Silk                | 5 rolls  |                    20 |    2,000gp
+91-95   | Semiprecious stones | 1 box    |                     1 |    1,000gp
+96-100  | Gems                | 1 box    |                     1 |    3,000gp
 
 *Roll on the wandering monster table for the region to determine specific monster. Each monster's parts have a gp value equal to the monster's XP value$
 
 
 #### Animals
 
-Roll   | Animal         | Encumbrance per Animal         | Animals per Load       | Fodder Cost per Load (10 stone)        | Price per Load
-:----- | :------------- | :----------------------------- | :--------------------- | -------------------------------------: | --------------:
-1      | Rabbit, hen    | 1 stone per 2                  | 200 (100 stone)        | 5gp/wk                                 | 60gp
-2      | Sheep          | 6 stone                        | 30 (180 stone)         | 5gp/wk                                 | 60gp
-3      | Pig, goat      | 12 stone                       | 20 (240 stone)         | 5gp/wk                                 | 60gp
-4      | Cattle         | 50 stone                       | 5 (250 stone)          | 5gp/wk                                 | 50gp
-5-6    | Horse, yak     | 150 stone                      | 2 (300 stone)          | 5gp/wk                                 | 80gp
-7      | Warhorse       | 200 stone                      | 2 (400 stone)          | 7gp/wk                                 | 500gp
-8      | Elephant       | 1,000 stone                    | 1 (1,000 stone)        | 20gp/wk                                | 1,500gp
+Roll | Animal      | Encumbrance per Animal | Animals per Load | Fodder Cost per Load (10 stone) | Price per Load
+:--- | :---------- | :--------------------- | :--------------- | ------------------------------: | -------------:
+1    | Rabbit, hen | 1 stone per 2          | 200 (100 stone)  |                          5gp/wk |           60gp
+2    | Sheep       | 6 stone                | 30 (180 stone)   |                          5gp/wk |           60gp
+3    | Pig, goat   | 12 stone               | 20 (240 stone)   |                          5gp/wk |           60gp
+4    | Cattle      | 50 stone               | 5 (250 stone)    |                          5gp/wk |           50gp
+5-6  | Horse, yak  | 150 stone              | 2 (300 stone)    |                          5gp/wk |           80gp
+7    | Warhorse    | 200 stone              | 2 (400 stone)    |                          7gp/wk |          500gp
+8    | Elephant    | 1,000 stone            | 1 (1,000 stone)  |                         20gp/wk |        1,500gp
 
 
 Note: When quickly calculating average hauls, merchandise has an average base price of 300gp and an encumbrance of 70 stone per load. Common merchandise averages 180gp and 80 stone per load. Precious merchandise averages 1,000gp and 10 stone per load.
 
 
-### Earning Experience from Campaigns
+## Earning Experience from Campaigns
 
 Characters that undertake campaign activities can earn experience points (XP) from their activities. As with XP earned from adventuring, characters receive XP bonuses or penalties based on their score in their class prime requisites, as detailed in Chapter 2, Characters. Characters can never earn enough campaign XP to advance 2 levels or more in one month.
 
@@ -1396,22 +1397,22 @@ Domain income is the total of the ruler's land, service, tax, and vassal revenue
 
 #### XP from Domain and Mercantile Income
 
-Class Level   | Gp Threshold
-------------: | ------------:
-1             | 25
-2             | 75
-3             | 150
-4             | 300
-5             | 650
-6             | 1,250
-7             | 2,500
-8             | 5,000
-9             | 12,000
-10            | 18,000
-11            | 40,000
-12            | 60,000
-13            | 150,000
-14            | 425,000
+Class Level | Gp Threshold
+----------: | -----------:
+1           |           25
+2           |           75
+3           |          150
+4           |          300
+5           |          650
+6           |        1,250
+7           |        2,500
+8           |        5,000
+9           |       12,000
+10          |       18,000
+11          |       40,000
+12          |       60,000
+13          |      150,000
+14          |      425,000
 
 
 Mercantile income is the total of gp earned from selling goods and transporting cargo and passengers, less the cost of goods sold, wages, rations, tolls, custom duties, moorage and stabling, and labor fees. Mercantile income from arbitrage and transport expeditions is calculated when the character reaches his final destination (usually by returning to his point of origin). Divide the total revenue from the expedition by the number of months that have elapsed since the expedition began to determine monthly income. If monthly mercantile income exceeds the character's gp threshold, he earns XP equal to the difference per month of the expedition.
@@ -1453,6 +1454,6 @@ A 0th level character may earn experience points from campaign activities. If th
 
 When a 0th level character advances to 1st level, he gains the Adventuring proficiency and his new class's proficiency, powers, attack throws, and saving throws. The character re-rolls his hit points using his new class's Hit Die, keeping either his new hp total or his prior hp total if it was higher. The new 1st level character retains any general proficiencies he already knew. Each time he becomes eligible to learn a new general proficiency by advancing in class level, he may replace one of these existing general proficiencies with a new general proficiency better suited to his new class.
 
----
+* * *
 
 [Previous](Chapter06.md) [Top](Chapter00.md) [Next](Chapter08.md)
