@@ -1,8 +1,9 @@
 [Previous](Chapter08.md) [Top](Chapter00.md) [Next](Chapter10.md)
 
----
+* * *
 
-## Chapter 9: Treasure
+
+# Chapter 9: Treasure
 
 
 Along with fame and derring-do, treasure is one of the primary motivations of adventuring parties.  Money is not only used to purchase new weapons, equipment, and strongholds; each gold piece worth of coins, gems, and jewelry brought safely back to civilization gives the character 1 experience point (as described in Chapter 6, Earning Experience from Adventures). In most campaigns, experience from treasure recovered from dungeons or the wilderness will be the main source of character level advancement.
@@ -10,7 +11,7 @@ Along with fame and derring-do, treasure is one of the primary motivations of ad
 Magic items are the other, even more alluring element of treasure hoards. While characters are not awarded experience points for recovering and keeping magic items, they are highly sought-after nonetheless, as they grant bonuses and special abilities that can give parties a survival edge when they venture into ever more dangerous locations and face mightier monsters.
 
 
-### Random Treasure Generation
+## Random Treasure Generation
 
 Treasure will usually be found in the lairs of monsters. Each monster entry in Chapter 8, Monsters, designates whether or not that type of monster has the possibility of treasure. Those that do are given a Treasure Type (TT), which indicates what kinds and quantities of treasure a monster might have.
 
@@ -29,7 +30,7 @@ A dungeon with a variety of monsters will thus tend to have a wide assortment of
 Unless otherwise noted, randomly generated treasures are found only in the monster's lair. If the monster entry specifies that a creature carries individual treasure either instead of or in addition to its lair treasure, these individual treasures may be found even if the monster is encountered when wandering outside its lair.
 
 
-### Planned Treasure Generation
+## Planned Treasure Generation
 
 The Judge is never required to roll for treasure, and there will be many cases where random treasure generation is not the best method to employ. Treasure should be placed by hand, or random treasures amended, whenever necessary given the Judge's plans for his campaign and adventures. Important treasures should always be placed by the Judge deliberately; for example, a magic item crafted by a major antagonist should be tailored to the antagonist's personality and role in the campaign.
 
@@ -313,14 +314,14 @@ Damage penalties cannot reduce weapon damage to less than 1 point. Armor Class o
 *Example*: Marcus scavenges a sword from an ancient battlefield. He rolls a 19, and must roll twice more. He rolls a 7 and 15. The sword has a rusty blade and loose hilt, and imposes penalties of -1 damage and -1 initiative. Its value is reduced 40%, to 6gp, when he tries to sell it.
 
 
-### Identifying and Using Magic Items
+## Identifying and Using Magic Items
 
 Most magic items are not labeled, so characters will not know the exact properties of magic items except through research or trial and error (e.g. sipping a potion, using a sword in combat, etc.) Sages and other characters proficient in Magical Engineering or Loremastery can identify common or famous magical items simply through their knowledge of such things. Potions may be identified by sipping them, or by consulting an alchemist. Otherwise, an arcane spellcaster of 9th level or greater can identify a magic item using Magic Research.
 
 In order to use a magic item, a character must follow any procedures indicated in the item's description. Some magic items are always in effect, but others may require special actions or concentration. Some magic items have limited uses, called "charges." When items have charges, each charge can be spent for one instance of magical effect. A character will not know how many charges an item has unless he identified the item with Magic Research. When the charges are all spent the item becomes useless and non-magical.
 
 
-### Magic Item Tables
+## Magic Item Tables
 
 
 #### Random Magic Type
@@ -595,7 +596,7 @@ Roll d100      | Type
 98-100         | Shield AC 0 (cursed)
 
 
-### Magic Item Descriptions
+## Magic Item Descriptions
 
 
 ### Potions
@@ -803,7 +804,7 @@ Roll 1d100         | Language
 91-100             | Ancient
 
 
-### Scroll of Spells
+#### Scroll of Spells
 
 A scroll of spells will be found with 1 to 7 spells written on it. About 3/4 of all spell scrolls contain spells from the arcane spell list, and the remaining contain spells drawn from the divine spell lists. Characters can only cast a spell from a scroll if the spell is on their class list. A spell may be cast even if it is not normally usable by a spellcaster of the reader's level. These spells are cast as if from a spell caster of the minimum level required to cast the spell. Once a spell is cast from a scroll, the magical writing for that spell disappears.
 
@@ -845,7 +846,7 @@ Roll d100      | Spell Level
 99-100         | 7             
 
 
-### Cursed Scroll
+#### Cursed Scroll
 
 A cursed scroll inflicts a horrible curse upon the reader. The Judge has considerable flexibility in determining the effects of the curse. A curse may only be removed with the spell remove curse. The Judge might also allow the curse to be lifted if the character performs a special quest. Some possible curses are provided below, but any similar curse might be used instead.
 
@@ -860,7 +861,7 @@ Roll d6 | Effect
 6       | The victim is rendered blind.
 
 
-### Scrolls of Warding
+#### Scrolls of Warding
 
 A scroll of warding can be used by any character that can read it. When the magical words of warding are read aloud, the words disappear from the page and the reader is surrounded by a 10' radius area of protection against the type of creature indicated by the scroll. This area of protection is centered on the reader, and moves wherever he moves. This protective barrier stops the creature type from entering, but not from attacking with missile weapons or spells. The circle of protection will last until the reader dismisses it, or if anyone within the circle attempts to melee with a creature of the type protected against.
 
@@ -1279,7 +1280,7 @@ A sword has a percentage chance to be sentient equal to its highest magical bonu
 If a weapon is sentient, determine its Intelligence, Alignment, Ego, Willpower, and Powers using the rules below.
 
 
-### Intelligence and Languages
+#### Intelligence and Languages
 
 The first step to creating a sentient weapon is to roll for its Intelligence. The Intelligence ability score will determine how many additional powers the sword possesses. Consult the table below.
 
@@ -1309,7 +1310,7 @@ Roll 1d20  | Languages Known
 20         | Roll twice and combine, ignoring this result
 
 
-### Alignment
+#### Alignment
 
 Every sentient weapon will have an alignment. This alignment is undetectable until the sword is touched. A character may only wield a sword that shares the same alignment, and if he attempts to handle a sword of a different alignment he will suffer damage each round. The severity of the damage is related to the degree of difference of alignment. For each degree of difference, the character will suffer 1d6 points of damage. For example, a chaotic sword will inflict 1d6 hp damage to a neutral character; it will inflict 2d6 hp damage to a lawful character. For this reason, a neutral sword will only ever inflict 1d6 points of damage. Roll on the chart below to determine a sentient weapon's alignment.
 
@@ -1321,7 +1322,7 @@ Roll d100     | Sword Alignment
 31-100        | Lawful
 
 
-### Ego and Willpower
+#### Ego and Willpower
 
 Sentient weapons have an Ego rating from 1-12 (roll 1d12). This rating represents the overall strength of character that the sword has. In addition, sentient weapons have a base willpower rating equal to the sum of its INT and EGO. A bonus of +1 is added to this rating for each spell-like power the sword possesses. Spell-like powers are discussed below.
 
@@ -1342,7 +1343,7 @@ When an influence check is called for, the willpower of the sword and the willpo
 
 If the character loses, then he loses control of his actions for an amount of time determined by the Judge. The sword will force the character to perform a task, such as disposing of or ignoring magic items if a second magical sword is found. Other actions include compelling the wielder into combat or surrender with a nearby foe, or making the character perform another action that serves the desires and goals of the sword. Usually, the duration of control will only be for several rounds until the task is completed.
 
-### Sentient weapon Motivations
+#### Sentient weapon Motivations
 
 Sentient weapons have a 5% probability of having a particular motivation (roll 01-05 on d00). These motivations involve the destruction of particular races, monster types, or alignments. If a sword has a motivation, raise its INT and EGO each to 12.
 
@@ -1352,7 +1353,7 @@ When a sentient weapon is used to attack an opponent that fits its motivation, a
 
 *Example*: Blackguard is a chaotic +3 vorpal two-handed sword with a motivation to destroy lawful opponents. It energy drains 3 levels from any lawful opponent it strikes.
 
-### Powers
+#### Powers
 
 Sentient weapons can have two kinds of additional powers: detection powers and spell-like powers. The sword wielder must be holding the sword to activate and maintain any of its powers, and no more than one power can be active at once.
 
@@ -1399,7 +1400,7 @@ Roll d100      | Power            | Additional Details
 **The sword will regenerate the wielder's hit points at rate of 1 hp per round while held, to a maximum of 15 hit points. This table result can be combined if rolled more than once. If rolled twice, up to 30 hp may be healed, if rolled three times, up to 45 hp may be healed. Note that the rate of healing does not change.
 
 
-### Buying and Selling Magic Items
+## Buying and Selling Magic Items
 
 In any campaign, adventurers will seek to buy and sell magic items. ACKS assumes that the market for magic items is illiquid and inefficient. Most magic items found by adventurers were created long ago, and are of dubious origin and uncertain ownership history, which drives their price down. The majority of magic items created during the campaign are assumed to be for mage's personal use and research, or commissioned pieces created for exceptionally wealthy patrons. The Magic Item Transactions by Market Class table governs buying and selling magic items.
 
@@ -1416,7 +1417,7 @@ Price                  | Class I   | Class II  | Class III | Class IV | Class V 
 10,001gp or more       | 10%       | 5%        | 2%        | NA       | NA        | NA
 
 
-### Selling Magic Items
+#### Selling Magic Items
 
 Adventurers can sell magic items they have made for twice the base cost to make the item. (Magic items made from a formula or sample can thus command a great margin!) Adventurers can sell identified magic items found, discovered, looted, or otherwise acquired for the base cost to make the item. The difference in selling price reflects the difference in value between an item of known make and authenticity and an item of dubious origin and uncertain ownership history.
 
@@ -1425,14 +1426,14 @@ In order to sell one or more magic items, the adventurer must be in a market of 
 *Example*: Using a formula, Quintus and his assistants made 4 scrolls of fireball (base cost 1,500gp) at a cost of 750gp each. Quintus has a henchman take these to sell them in a Class III market. There is a 25% chance of a buyer for one scroll each month, at a price of 3,000gp each. Quintus also asks his henchman to sell a sword +2 (base cost 15,000gp) he found in an evil crypt. The sword +2 will sell for 15,000gp. There is a 25% chance of a buyer for the sword each month. After four months, Quintus' henchman returns with 2,700gp - 12,000gp for the scrolls and 15,000gp for the sword.
 
 
-### Buying Magic Items
+#### Buying Magic Items
 
 Adventurers can buy magic items for twice the base cost to make the item. In order to buy magic items, the adventurer must be in a market of sufficient size. The number of potential sellers of magic items in a month will be determined by the price of the items and the market class within which they are sold. Magic items are generally available only in small quantities, even in large markets.
 
 *Example*: Marcus is about to set out on an adventure from his home base. He decides to buy potions of healing (base cost 500gp). Stopping by the local Temple of the Sun god, he finds one potion for sale for 1,000gp. Later, Marcus travels to the awe-inspiring capital of the empire (Class I market). There he can buy 7 potions of healing for 1,000gp each, and even 2 potions of extra-healing (base cost 2,000gp) for 4,000gp each.
 
 
-### Commissioning Magic Items
+#### Commissioning Magic Items
 
 On occasion, adventurers may commission powerful spellcasters to create magic items on their behalf. Spellcasters powerful enough to create magic items for hire can only be found in Class I markets, or through adventures.
 
@@ -1440,6 +1441,6 @@ The advantage to commissioning a magic item is that the item can be made exactly
 
 *Example*: Marcus hires a mage to create a suit of plate armor +3 (base cost 35,000gp, base time 8 months). After describing the elaborate appearance he demands, Marcus pays 35,000gp. He also pays for 30,000gp worth of precious materials to be used in the items construction, to help ensure its successful creation (and to make it look spectacular). Finally, he delivers the special component, the iron hides of 25 gorgons, to the mage. When the mage completes the armor 8 months later, Marcus pays him an additional 70,000gp (twice the base cost). Marcus has spent 135,000gp on his armor, enough to build a keep.
 
----
+* * *
 
 [Previous](Chapter08.md) [Top](Chapter00.md) [Next](Chapter10.md)

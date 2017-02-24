@@ -2,13 +2,13 @@
 
 ---
 
-## Chapter 10: Secrets
+# Chapter 10: Secrets
 
 
 The Judge has many responsibilities. Among these are to help explain, teach, and enforce the rules; to rule on "grey areas" not covered by the rules; to control the flow of information between the world and the players; to play the adversaries which confront the adventurers during play; and to choose or create the setting and adventures for play. This chapter focuses on how to construct settings and adventures that make use of the unique mechanics of ACKS.
 
 
-### Constructing the Campaign Setting
+## Constructing the Campaign Setting
 
 Judges running campaigns with the Adventurer Conqueror King System can either use a setting offered for the system, convert another campaign setting to ACKS, or create their own campaign setting. Making a campaign setting from scratch can be the most fun, if time is available to do so. The following section outlines the game mechanics of how to design or convert a campaign setting compatible with ACKS.
 
@@ -83,7 +83,7 @@ The Revenue by Realm Type table below shows the size of the personal domain of v
 *Example*: The Judge needs to determine the realm of Lazar, an NPC Exarch of a southern Imperial province. He has already decided that the Southern province has a population of 3,000,000, which equates to 600,000 families. Reviewing the Realms by Type table, he sees this is about 30% of the maximum size of a Kingdom. Exactly 30% of 7,776 is 2,332.8; he decides that the Southern province will consist of 2,300 domains. On the Revenue by Realm Type table, he estimates that Exarch Lazar should earn about 140,000gp per month from his domains and another 25,000gp per month from various urban settlements.
 
 
-### Adjusting Population Density
+#### Adjusting Population Density
 
 As noted above, ACKS generally assumes an average population density of around 50 people per square mile. This is roughly equivalent to the ancient world during the Roman era. The size of the realm can be increased if the Judge wants a world with a lower population density is lower. Conversely the size of the realm can be decreased if the Judge wants a world with a higher population density.
 
@@ -136,7 +136,7 @@ Realm/Domain Population (families)    | Urban Population (families)    | Largest
 *Example*: Exarch Lazar's realm, the exarchate of the South, consists of 2,300 domains with a total population of 600,000 peasant families (3,000,000 people). According to the Villages, Towns, and Cities Placement table, it has an urban population of 60,000 families and one large city of 12,000 families. His realm is divided up into 5 vassal realms, each ruled by a prefect with a population of 117,500 peasant families. Each prefect's vassal realm has one small city of 2,350 families. Each prefect's realm is divided between 4 palatines, each with about 27,500 peasant families. Each palatine's vassal realm has one small town of 550 families. Each palatine's realm is divided between 6 legates, each with about 4,333 peasant families. Each legate's vassal realm has one small village of 90 families. Each legate's realm is divided between 5 tribunes, each with about 700 peasant families. The tribune's realms, and their subordinate castellans' realms, have nothing larger than isolated homesteads and small hamlets. Thus the South has one large city (12,000 families), 5 small cities (2,350 families each, or 11,750 total), 20 small towns (550 families each, or 11,000), and 120 small villages (90 families each, or 10,800). This accounts for a total urban population of 45,500 families, or 7.5% of the total population. The remaining 14,500 urban families live in small hamlets sprinkled around the realm's domains.
 
 
-### Adjusting Urban Demographics
+#### Adjusting Urban Demographics
 
 ACKS generally assumes that around 10% of the population lives in urban communities and that around 20% of the realm's urban population lives in its largest settlement. However, these numbers can vary widely depending on many factors, such as the age of the realm's civilization, the division of the labor in the realm, and the extent of trade with other realms. The following table can be used to adjust a realm's urban demographics.
 
@@ -178,15 +178,15 @@ As noted under Strongholds and Domains, each domain has land revenue of 3gp per 
 
 #### Domain Land
 
-Revenue        | Demand Modifiers
--------------: | :------------------------------------------------------------------------------------
-3gp            | +1 Demand Modifier to 6 merchandise types, -1 Demand modifier to 1 merchandise type
-4gp            | +1 Demand Modifier to 4 merchandise types, -1 Demand modifier to 1 merchandise type
-5gp            | +1 Demand Modifier to 2 merchandise types, -1 Demand Modifier to 1 merchandise type
-6gp            | +1 Demand Modifier to 1 merchandise type, -1 Demand modifier to 1 merchandise type
-7gp            | -1 Demand Modifier to 2 merchandise types, +1 Demand Modifier to 1 merchandise type
-8gp            | -1 Demand Modifier to 4 merchandise types, +1 Demand Modifier to 1 merchandise type
-9gp            | -1 Demand Modifier to 6 merchandise types, +1 Demand Modifier to 1 merchandise type
+Domain Land Revenue | Demand Modifiers
+------------------: | :-----------------------------------------------------------------------------------
+3gp                 | +1 Demand Modifier to 6 merchandise types, -1 Demand modifier to 1 merchandise type
+4gp                 | +1 Demand Modifier to 4 merchandise types, -1 Demand modifier to 1 merchandise type
+5gp                 | +1 Demand Modifier to 2 merchandise types, -1 Demand Modifier to 1 merchandise type
+6gp                 | +1 Demand Modifier to 1 merchandise type,  -1 Demand modifier to 1 merchandise type
+7gp                 | -1 Demand Modifier to 2 merchandise types, +1 Demand Modifier to 1 merchandise type
+8gp                 | -1 Demand Modifier to 4 merchandise types, +1 Demand Modifier to 1 merchandise type
+9gp                 | -1 Demand Modifier to 6 merchandise types, +1 Demand Modifier to 1 merchandise type
 
 
 The specific types of merchandise affected can be determined randomly or selected to reflect the history and culture of the campaign setting. A domain in a pseudo-Chinese culture might have negative demand modifiers for porcelain and silk, but a positive demand modifier for mounts, while a domain in a pseudo-Viking culture might have a negative demand modifier for furs and fish, but a positive demand modifier for silk.
@@ -210,10 +210,14 @@ Elf           | -2 Demand Modifier to common wood, dyes/pigments, cloth, glasswa
 Markets may enjoy a regular exchange of goods with other markets along a trade route. For a trade route to exist, two criteria must be met. First, the markets must be connected by a road, trail, or navigable waterway. Second, both markets must be within each other's range of trade, as listed on the Range of Trade table.
 
 
-Market Class               | Class VI              | Class V               | Class IV              | Class III             | Class II              | Class I
-:------------------------- | :-------------------- | :-------------------- | :-------------------- | :-------------------- | :-------------------- | :--------------------
-Range of Trade (Road)      | 24 miles (4 hexes)    | 48 miles (8 hexes)    | 72 miles (12 hexes)   | 96 miles (18 hexes)   | 144 miles (24 hexes)  | 168 miles (28 hexes)
-Range of Trade (Water)     | 48 miles (8 hexes)    | 96 miles (16 hexes)   | 120 miles (20 hexes)  | 240 miles (40 hexes)  | 360 miles (60 hexes)  | 480 miles (80 hexes)
+Market Class | Range of Trade (Road) | Range of Trade (Water)
+:----------- | --------------------: | ---------------------:
+Class VI     |  24 miles ( 4 hexes)  |  48 miles ( 8 hexes)    
+Class V      |  48 miles ( 8 hexes)  |  96 miles (16 hexes)   
+Class IV     |  72 miles (12 hexes)  | 120 miles (20 hexes)  
+Class III    |  96 miles (18 hexes)  | 240 miles (40 hexes)  
+Class II     | 144 miles (24 hexes)  | 360 miles (60 hexes)  
+Class I      | 168 miles (28 hexes)  | 480 miles (80 hexes)  
 
 
 *Example*: A castle (Class VI) is located along a road 24 miles from a large town (Class IV) and 96 miles from a city (Class III). The large town and the city are 72 miles apart. A trade route exists between the castle and the large town, and between the large town and the city, but not between the castle and the city, as the 96 mile distance is greater than the castle's range of trade.
@@ -221,13 +225,14 @@ Range of Trade (Water)     | 48 miles (8 hexes)    | 96 miles (16 hexes)   | 120
 When a trade route connects two markets, the smaller market has all of its demand modifiers shifted by 2 points closer to the larger market's demand modifiers (or set equal to the larger market's demand modifiers if separated by less than 2 points). If the two markets connected by the trade route are of equal size, each shifts each of its demand modifiers by 1 point closer to the other market's demand modifiers.
 
 
-#### Demand Modifier
-
- --                  | Wood, common  | Hides, furs  | Metals, common  | Grain  | Spices  | Silk
-:------------------- | ------------: | -----------: | --------------: | -----: | ------: | ----:
-Cyfaraun             | -3            | -3           | -2              | +1     | +1      | +1
-Samos (original)     | -2            | -1           | -3              | -2     |  0      |  0
-Samos (trade route)  | -3            | -3           | -2              |  0     | +1      | +1
+Demand Modifier | Cyfaraun | Samos (original) | Samos (trade route) |
+:-------------- | -------: | ---------------: | ------------------: |
+Wood, common    | -3       | -2               | -3                  | 
+Hides, furs     | -3       | -1               | -3                  | 
+Metals, common  | -2       | -3               | -2                  | 
+Grain           | +1       | -2               |  0                  | 
+Spices          | +1       |  0               | +1                  | 
+Silk            | +1       |  0               | +1                  | 
 
 
 When shifting demand modifiers for a region, start with the largest market and work outward to its direct trade routes, and then from there to the next markets, and so on.
@@ -320,7 +325,7 @@ NPC Level             | Empire (28,000,000)     | Kingdom (6,000,000)    | Princ
 13                    | 8                       | 2                      | 0                              | 0                   | 0                   | 0                 | 0
 14                    | 3                       | 1                      | 0                              | 0                   | 0                   | 0                 | 0
 
-### Constructing the Region
+## Constructing the Region
 
 During the course of constructing the setting, the Judge should have created a regional map on a piece of hex graph paper, 30 hexes by 40 hexes, each representing a 6-mile wide hex (32 square miles). This will create a region of approximately 38,000 square miles. To put that into historical terms, that's a region about the size of Greece and ,f history is any guide, is large enough to justify a distinct civilization with its own gods, heroes, and epic adventures.
 
@@ -353,7 +358,7 @@ Finally, place one low-level mega-dungeon close to the border, one mid-level meg
 The result of this structure is that early on in the campaign, the party will adventure near the border settlements. They cannot safely confront the dangerous wandering encounters of the wilderness (which will be several levels higher than them) so they will tend to travel from border settlement to border settlement, assisting each settlement in clearing out whatever threats are nearby. Then when they reach the middle levels of experience, they will begin to go into the wilderness, knowing they can handle any wandering encounters they run into. Again, they may work from border settlement to border settlement, but this time in widening circles of exploration into the wilderness. As their power peaks, they will begin conducting forays deeper in the wilderness, far beyond the border. At this time they will often begin capturing or building strongholds to use as a staging point for deeper forays into harder challenges, or to begin to exert their power over the region. The occasional high-level areas close to the border (like the castle on the mountain) serve as a reminder of the evil that lurks beyond, and also as a nice taste of what they can expect when they are ready to go deep.
 
 
-### Constructing the Starting City
+## Constructing the Starting City
 
 When the Judge has finished constructing the region, he will have placed settlements at many locations on the map. The next step is to pick one of these as the group's starting city. Details can be worked out for surrounding cities later, when the need requires.
 
@@ -421,7 +426,7 @@ Rescue missions can be to free wrongly imprisoned victims, help prisoners escape
 Quests are usually undertaken at the request of a powerful or rich patron, like a merchant or king. A quest might be to find a legendary item or return something that has been stolen.
 
 
-### Constructing the Dungeons
+## Constructing the Dungeons
 
 During the course of constructing his campaign's starting region, the Judge will have placed about 30 different dungeons of varying size on his regional map. The Judge should not feel obliged to create all the dungeons himself. In fact, doing so is an enormous time sink. The most experienced Judges generally gather dozens of adventures, lairs, and encounters from magazines, websites, and commercial products and adapt them to their setting, focusing on personally creating just a few special areas.
 
@@ -435,18 +440,28 @@ First, the Judge must choose the type of dungeon he is creating. Many dungeons a
 After the dungeon type is determined, the Judge must draw a map of the location. Square graph paper should be used. The assumed scale for ACKS is that each square on the graph paper equal 10'. If the Judge is using a large play mat with grids on it for using figurines, the map should be drawn at a scale of 1" equals 5'. This provides an appropriate scale for use with typical 25 mm scaled figurines. The map itself should be drawn to suit the type of dungeon, such as twisting tunnels in a cavern, endless rooms in a dank dungeon, or hallways and rooms in a ruined castle.
 
 
-Roll   | Dungeon Type      | Roll   | Dungeon Type
------: | :---------------- | -----: | :---------------- 
-1      | Abandoned mine    | 11     | Natural caverns
-2      | Barrow mound      | 12     | Prison
-3      | Catacombs         | 13     | Ruined manor
-4      | Cliff city        | 14     | Sewers
-5      | Crumbling castle  | 15     | Sunken city
-6      | Giant burrow      | 16     | Temple
-7      | Giant insect hive | 17     | Tomb
-8      | Humanoid warren   | 18     | Tower
-9      | Maze              | 19     | Underground river
-10     | Monster lair      | 20     | Wizard's dungeon
+Roll   | Dungeon Type
+-----: | :----------------
+1      | Abandoned mine
+2      | Barrow mound
+3      | Catacombs
+4      | Cliff city
+5      | Crumbling castle
+6      | Giant burrow
+7      | Giant insect hive
+8      | Humanoid warren
+9      | Maze
+10     | Monster lair
+11     | Natural caverns
+12     | Prison
+13     | Ruined manor
+14     | Sewers
+15     | Sunken city
+16     | Temple
+17     | Tomb
+18     | Tower
+19     | Underground river
+20     | Wizard's dungeon
 
 
 ### Stocking the Dungeon
@@ -574,7 +589,7 @@ The Judge should take care to describe rooms and passageways as they fit the env
 In addition, a multi-level dungeon used for extensive play should be considered a "living" place. The Judge should keep track of how the player characters alter the environment, and how resident monsters may change in number, type, or behavior in response. A mega-dungeon will evolve through time just as the characters will by adventuring there.
 
 
-### Wandering Monsters
+## Wandering Monsters
 
 Monsters often live in the tunnels, caves, and chambers of dungeons, or lair in the treetops, natural caves, and warrens of the wilderness. However, monsters do not only stay where they live. They also wander, hunt, and explore, both underground and in the wild. Indeed, some monsters never stop moving long enough to make a lair at all. Such creatures are called wandering monsters, and they can represent a dire threat to adventures.
 
@@ -624,35 +639,20 @@ Dungeon Level          | Party Level    | Monster XP Value
 
 #### Random Monsters by Level
 
-Roll           | Monster Level 1               | Monster Level 2                 | Monster Level 3
--------------: | :---------------------------- | :------------------------------ | :----------------------------
-1              | Goblin (2d4)                  | Gnoll (1d6)                     | Bugbear (2d4)
-2              | Kobold (4d4)                  | Hobgoblin (1d6)                 | Lycanthrope, Werewolf (1d6)
-3              | Morlock (1d12)                | Lizardman (2d4)                 | Ogre (1d6)
-4              | Orc (2d4)                     | Troglodyte (1d8)                | Throghrin (1d6)
-5              | Beetle, Fire (1d8)            | Bat, Giant (1d10)               | Ant, Giant (2d4)
-6              | Centipede, Giant (2d4)        | Fly, Giant Carnivorous (1d8)    | Lizard, Draco (1d3)
-7              | Ferret, Giant (1d8)           | Locust, Cavern (1d10)           | Scorpion, Giant (1d6)
-8              | Rat, Giant (3d6)              | Snake, Pit Viper (1d8)          | Wolf, Dire (1d4)
-9              | Men, Brigand (2d4)            | Ghoul (1d6)                     | Carcass Scavenger (1d3)
-10             | Skeleton (3d4)                | Men, Berserker (1d6)            | Gargoyle (1d6)
-11             | Stirge (1d10)                 | Zombie (2d4)                    | Wight (1d6)
-12             | NPC Party (Lvl 1) (1d4+2)     | NPC Party (Lvl 2) (1d4+2)       | NPC Party (Lvl 4) (1d4+2)
-
-
-Roll           | Monster Level 4               | Monster Level 5                 | Monster Level 6
--------------: | :---------------------------- | :------------------------------ | :----------------------------
-2              | Lycanthrope, Weretiger (1d4)  | Giant, Hill (1d4)               | Giant, Cloud (1d2)
-3              | Minotaur (1d6)                | Giant, Stone (1d2)              | Purple Worm (1d2)
-4              | Boar, Giant (1d4)             | Troll (1d8)                     | Demon Boar (1d4)
-5              | Owl Bear (1d4)                | Ankheg (1d6)                    | Dragon (20 HD) (1)
-6              | Phase Tiger (1d4)             | Caecilian (1d3)                 | Hydra (12 HD) (1)
-7              | Rhagodessa, Giant (1d4)       | Basilisk (1d6)                  | Gorgon (1d2)
-8              | Snake, Giant Python (1d3)     | Hell Hound, Greater (2d4)       | Lamia (1)
-9              | Cockatrice (1d4)              | Salamander, Flame (1d4+1)       | Remorhaz (15 HD) (1)
-10             | Medusa (1d3)                  | Spectre (1d4)                   | Skittering Maw (1)
-11             | Wraith (1d4)                  | Wyvern (1d2)                    | Vampire (9 HD) (1d4)
-12             | NPC Party (Lvl 5) (1d4+2)     | NPC Party (Lvl 8) (1d4+3)       | NPC Party (Lvl 14) (1d4+3)
+Roll | Monster Level 1           | Monster Level 2              | Monster Level 3             | Monster Level 4              | Monster Level 5           | Monster Level 6
+---: | :------------------------ | :--------------------------- | :-------------------------- | :--------------------------- | :------------------------ | :-------------------------
+1    | Goblin (2d4)              | Gnoll (1d6)                  | Bugbear (2d4)               | Lycanthrope, Werebear (1d4)  | Ettin (1d2)               | Cyclops (1)
+2    | Kobold (4d4)              | Hobgoblin (1d6)              | Lycanthrope, Werewolf (1d6) | Lycanthrope, Weretiger (1d4) | Giant, Hill (1d4)         | Giant, Cloud (1d2)
+3    | Morlock (1d12)            | Lizardman (2d4)              | Ogre (1d6)                  | Minotaur (1d6)               | Giant, Stone (1d2)        | Purple Worm (1d2)
+4    | Orc (2d4)                 | Troglodyte (1d8)             | Throghrin (1d6)             | Boar, Giant (1d4)            | Troll (1d8)               | Demon Boar (1d4)
+5    | Beetle, Fire (1d8)        | Bat, Giant (1d10)            | Ant, Giant (2d4)            | Owl Bear (1d4)               | Ankheg (1d6)              | Dragon (20 HD) (1)
+6    | Centipede, Giant (2d4)    | Fly, Giant Carnivorous (1d8) | Lizard, Draco (1d3)         | Phase Tiger (1d4)            | Caecilian (1d3)           | Hydra (12 HD) (1)
+7    | Ferret, Giant (1d8)       | Locust, Cavern (1d10)        | Scorpion, Giant (1d6)       | Rhagodessa, Giant (1d4)      | Basilisk (1d6)            | Gorgon (1d2)
+8    | Rat, Giant (3d6)          | Snake, Pit Viper (1d8)       | Wolf, Dire (1d4)            | Snake, Giant Python (1d3)    | Hell Hound, Greater (2d4) | Lamia (1)
+9    | Men, Brigand (2d4)        | Ghoul (1d6)                  | Carcass Scavenger (1d3)     | Cockatrice (1d4)             | Salamander, Flame (1d4+1) | Remorhaz (15 HD) (1)
+10   | Skeleton (3d4)            | Men, Berserker (1d6)         | Gargoyle (1d6)              | Medusa (1d3)                 | Spectre (1d4)             | Skittering Maw (1)
+11   | Stirge (1d10)             | Zombie (2d4)                 | Wight (1d6)                 | Wraith (1d4)                 | Wyvern (1d2)              | Vampire (9 HD) (1d4)
+12   | NPC Party (Lvl 1) (1d4+2) | NPC Party (Lvl 2) (1d4+2)    | NPC Party (Lvl 4) (1d4+2)   | NPC Party (Lvl 5) (1d4+2)    | NPC Party (Lvl 8) (1d4+3) | NPC Party (Lvl 14) (1d4+3)
 
 
 ### Creating Dungeon Wandering Monster Tables
@@ -726,7 +726,7 @@ Roll      | Barren, Desert        | Inhabited              | City               
 
 
 
-#### Subtable: Men
+#### Wilderness Encounters: Men
 
 Roll      | Clear, Grass, Scrub   | Woods                  | River                  | Swamp                  | Barrens, Mountains, Hills
 --------: | :-------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
@@ -762,7 +762,7 @@ Roll      | Desert                | Inhabited              | City               
 *Determine characteristics using the rules for NPC Parties.
 
 
-#### Subtable: Humanoid
+#### Wilderness Encounters: Humanoid
 
 Roll     | Clear, Grass, Scrub    | Woods                  | River                  | Swamp                  | Hills, Mountains
 -------: | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
@@ -797,7 +797,7 @@ Roll     | Barrens                | Desert                 | City               
 
 
 
-#### Subtable: Animal
+#### Wilderness Encounters: Animal
 
 Roll     | Clear, Grass, Scrub    | Woods                  | River                  | Hills                  | Mountains
 -------: | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
@@ -834,7 +834,7 @@ Roll     | Barrens                | Desert                 | Inhabited          
 *Roll 1d6: 1-4 Normal or Swarm, 5-6 Giant
 
 
-#### Subtable: Flyer
+#### Wilderness Encounters: Flyer
 
 Roll     | Barrens                | Desert                 | Mountains              | Woods                  | Other
 -------: | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
@@ -854,7 +854,7 @@ Roll     | Barrens                | Desert                 | Mountains          
 *Roll 1d6: 1-3 Small, 4-5 Large, 6 Giant
 
 
-#### Subtable: Swimmer
+#### Wilderness Encounters: Swimmer
 
 Roll     | River, Lake                  | Ocean                  | Swamp
 -------: | :--------------------------- | :--------------------- | :---------------------
@@ -872,7 +872,7 @@ Roll     | River, Lake                  | Ocean                  | Swamp
 12       | Skittering Maw               | Whale                  | Skittering Maw
 
 
-#### Subtable: Other
+#### Wilderness Encounters: Other
 
 Roll           | Dragon                 | Insect                 | Undead                 | Unusual
 -------------: | :--------------------- | :--------------------- | :--------------------- | :---------------------
@@ -899,22 +899,36 @@ Wandering monsters may sometimes include parties of NPC adventures out seeking t
 Begin by establishing the number encountered by rolling 1d4+2. Then roll 3d6 on the table below to determine a class for each NPC:
 
 
-Roll | NPC Class          | Roll  | NPC Class             | Roll  | NPC Class
-:--- | ------------------ | :---- | --------------------- | :---- | ------------------
-3-4  | Elven Nightblade   | 8     | Cleric                | 14    | Assassin
-5    | Elven Spellsword   | 9-11  | Fighter               | 15    | Bard
-6    | Explorer           | 12    | Thief                 | 16    | Dwarven Vaultguard
-7    | Bladedancer        | 13    | Mage                  | 17-18 | Dwarven Craftpriest
+Roll  | NPC Class
+:---- | --------------------
+3-4   | Elven Nightblade
+5     | Elven Spellsword
+6     | Explorer
+7     | Bladedancer
+8     | Cleric
+9-11  | Fighter
+12    | Thief
+13    | Mage
+14    | Assassin
+15    | Bard
+16    | Dwarven Vaultguard
+17-18 | Dwarven Craftpriest
 
 
-Roll            | 1-2    | 3-5     | 6
-:-------------- | :----- | :------ | :------
-NPC Alignment   | Lawful | Neutral | Chaotic
+Roll | NPC Alignment
+:--- | -------------
+1-2  | Lawful
+3-5  | Neutral
+6    | Chaotic
 
 
-Roll       | 1                       | 2                       | 3-4         | 5              | 6
-:--------- | :---------------------- | :---------------------- | :---------- | :------------- | :-------------
-NPC Level  | Base level -2 (min. 1)  | Base level -1 (min. 1)  | Base level  | Base level +1  | Base level +2
+Roll | NPC Level
+:--- | :---------------------
+1    | Base level -2 (min. 1)
+2    | Base level -1 (min. 1)
+3-4  | Base level
+5    | Base level +1
+6    | Base level +2
 
 
 Once classes are established, roll 1d6 to randomly determine the alignment of the party. All NPCs will either be of this alignment, or within one step of it. For example, a Lawful party may have Lawful and Neutral adventurers.
@@ -949,7 +963,7 @@ NPCs will carry mundane weapons, armor, and equipment appropriate to their class
 *Example*: To determine a 9th level NPC fighter's treasure, the Judge rolls against Treasure Type J for coins, gems, and jewelry. Instead of rolling on TT J for magic items, however, there is a flat 45% chance (5% per level) in each category of item that the NPC has a useful item.
 
 
-### Additional Rules for Judges
+## Additional Rules for Judges
 
 The following rules cover a variety of circumstances that may arise when a Judge runs a session or campaign of ACKS.
 
@@ -1001,7 +1015,7 @@ Old                      | -2 STR, -2 DEX, -2 CON, -2 CHA                      |
 Ancient                  | -2 STR, -2 DEX, -2 CON, -2 CHA                      | -6 STR, -6 DEX, -6 CON, -4 CHA
 
 
-### Death from Old Age
+#### Death from Old Age
 
 Character may die of old age, though this is a rare fate for adventurers! Death from old age is resolved with a saving throw versus Death. Characters must save within 1d12 months of reaching the following ages:
 
@@ -1022,7 +1036,7 @@ Restore life and limb does not raise characters who have died from old age.
 As detailed in the Monsters chapter, many monsters have deadly natural poisons. If the Judge permits, other characters or monsters may use poison. Poisons can be acquired from three sources: monster venoms, plant toxins, or magical poisons. At the Judge's discretion, certain markets may also sell monster venoms, plant toxins, and magical poisons, so gp costs are listed below for each type of poison.
 
 
-### Monster Venoms
+#### Monster Venoms
 
 Characters with Naturalism proficiency can identify venomous monsters and distinguish their different poisons with a successful proficiency throw of 11+. Extracting venom from a slain monster requires 1 day and a successful Animal Husbandry proficiency throw of 11+. If the character's proficiency throw to extract venom is an unmodified 1, he has accidentally gotten scratched by a fang or stinger. The character must immediately save versus Poison, as if hit by the monster.
 
@@ -1054,7 +1068,7 @@ Dragon Blood                   | 1,500gp                | Instant               
 *Sickened characters move at 1/2 speed and cannot fight or perform other actions.
 
 
-### Plant Toxins
+#### Plant Toxins
 
 Characters with Naturalism proficiency can search for a fresh specimen of poisonous plants each week. A successful proficiency throw against the target value for the plant (listed on the Plant Toxins table below) gathers enough fresh plant to extract one dose of toxin. Dried belladonna and wolfsbane can be easily found in most markets, but are more difficult to extract useful toxin from.
 
@@ -1079,7 +1093,7 @@ Yew                    | 4+                     | 200gp                  | 1 hou
 *Sickened characters move at 1/2 speed and cannot fight or perform other actions.
 
 
-### Magical Poisons
+#### Magical Poisons
 
 Magical poisons are created using the rules for magic research in Chapter 7. The most common magical poison is a poison potion, created using the 4th level reversed divine spell poison. A single poison potion can treat twenty missiles (arrows, bolts, or darts) or one melee weapon. A weapon treated with magical poison kills instantly unless the victim makes a successful saving throw versus Poison. Magical poison is also fatal if ingested.
 
@@ -1093,7 +1107,7 @@ Using poisoned weapons is not without risk. Whenever a character's attack throw 
 
 Slavery was an all too common feature in ancient societies. Slaves might be indentured debtors, convicted criminals, or prisoners of war. The abundant supply of slave labor was a major component to most ancient economies, and the mass enslavement of defeated peoples was justified as more merciful than the alternative of slaughtering them. Should the Judge wish to incorporate slavery into his campaign, the following rules will apply.
 
-### Types of Slaves
+#### Types of Slaves
 
 Slaves are divided into 5 types: Slave laborers, slave soldiers, household slaves, pleasure slaves, and professional slaves.
 
@@ -1104,22 +1118,22 @@ Slave soldiers are usually either born into slavery or enslaved in early childho
 
 #### Gp Cost per Slave
 
-Slave Troop Type                                                                                               | Man    | Dwarf  | Elf    | Goblin     | Orc
-:------------------------------------------------------------------------------------------------------------- | -----: | -----: | -----: | ---------: | -----:
-Militia (spear)                                                                                                | 40     | -      | -      | -          | -
-Light Infantry (spear, short sword, shield, leather armor)                                                     | 215    | -      | 315    | 85         | 185
-Heavy Infantry (spear, sword, shield, banded plate armor)                                                      | 415    | 650    | 800    | -          | 285
-Slingers (sling, short sword, shield, leather armor)                                                           | 185    | -      | -      | 85         | -
-Bowman (short bow, short sword, leather armor)                                                                 | 275    | -      | 650    | 85         | 175
-Crossbowmen (arbalest, short sword, chainmail)                                                                 | 600    | 750    | -      | -          | 415
-Longbowmen (long bow, sword, chainmail)                                                                        | 650    | -      | 1,400  | -          | -
-Light Cavalry (lance, sword, shield, leather armor, light warhorse)                                            | 1,150  | -      | 2,150  | -          | -
-Mounted Crossbowman (crossbow, short sword, chainmail, mule)                                                   | -      | 1,575  | -      | -          | -
-Horse Archers (composite bow, scimitar, leather armor, light warhorse)                                         | 1,700  | -      | 3,200  | -          | -
-Medium Cavalry (lance, sword, shield, lamellar, medium warhorse)                                               | 1,800  | -      | -      | -          | -
-Heavy Cavalry (lance, sword, shield, plate armor, chain barded medium warhorse)                                | 2,500  | -      | -      | -          | -
-Cataphract Cavalry (composite bow, sword, shield, plate, chain barded medium warhorse)                         | 3,125  | -      | -      | -          | -
-Beast Riders (spear, short sword, shield, leather or scale armor, dire wolf or giant boar)                     | -      | -      | -      | 1,200      | -
+Slave Troop Type                                                                              | Man    | Dwarf  | Elf    | Goblin     | Orc
+:-------------------------------------------------------------------------------------------- | -----: | -----: | -----: | ---------: | -----:
+Militia (spear)                                                                               | 40     | -      | -      | -          | -
+Light Infantry (spear, short sword, shield, leather armor)                                    | 215    | -      | 315    | 85         | 185
+Heavy Infantry (spear, sword, shield, banded plate armor)                                     | 415    | 650    | 800    | -          | 285
+Slingers (sling, short sword, shield, leather armor)                                          | 185    | -      | -      | 85         | -
+Bowman (short bow, short sword, leather armor)                                                | 275    | -      | 650    | 85         | 175
+Crossbowmen (arbalest, short sword, chainmail)                                                | 600    | 750    | -      | -          | 415
+Longbowmen (long bow, sword, chainmail)                                                       | 650    | -      | 1,400  | -          | -
+Light Cavalry (lance, sword, shield, leather armor, light warhorse)                           | 1,150  | -      | 2,150  | -          | -
+Mounted Crossbowman (crossbow, short sword, chainmail, mule)                                  | -      | 1,575  | -      | -          | -
+Horse Archers (composite bow, scimitar, leather armor, light warhorse)                        | 1,700  | -      | 3,200  | -          | -
+Medium Cavalry (lance, sword, shield, lamellar, medium warhorse)                              | 1,800  | -      | -      | -          | -
+Heavy Cavalry (lance, sword, shield, plate armor, chain barded medium warhorse)               | 2,500  | -      | -      | -          | -
+Cataphract Cavalry (composite bow, sword, shield, plate, chain barded medium warhorse)        | 3,125  | -      | -      | -          | -
+Beast Riders (spear, short sword, shield, leather or scale armor, dire wolf or giant boar)    | -      | -      | -      | 1,200      | -
 
 
 Slave soldiers enslaved as children have the same morale scores as normal mercenaries of their type. Slave soldiers enslaved as adults have morale scores of -4 (and are a very bad idea). All slave soldiers cost 3gp per month in upkeep. Supplemental pay, better food, access to women, and so on can increase morale.
@@ -1152,7 +1166,7 @@ Animating Undead                       | No Effect         | No Effect         |
 Blood sacrifice                        | Yes               | Yes               | Yes
 
 
-### Shadowed Sinkholes
+#### Shadowed Sinkholes
 
 Shadowed sinkholes develop from two sources of corruption: Chaotic altars (such as those in evil shrines, temples, or churches) and places of death (such as cemeteries, catacombs, and battlegrounds).
 
@@ -1163,21 +1177,21 @@ Places of death create shadowed sinkholes naturally over time. The annual percen
 Corpses in shadowed sinkholes have a 10% chance to return as undead in 1d12 months unless their bodies are burned. Chaotic spellcasters who cast reversed (evil) divine spells or necromantic spells (such as animate dead or death spell) in a shadowed sinkhole calculate the spell effects as if the casters were two class levels higher than their actual level of experience. Characters performing necromancy (described in Chapter 7) in a shadowed sinkhole gain a +1 bonus to their magic research throws. A shadowed sinkhole can also be used for blood sacrifice (described in Chapter 7).
 
 
-### Blighted Sinkholes
+#### Blighted Sinkholes
 
 When a chaotic altar stands on a shadowed place of death, a blighted sinkhole develops. The blighted sinkhole will extend only within those regions that are shadowed by both the altar and the place of death. An area affected by one, but not both, sources of corruption is merely shadowed.
 
 Corpses in blighted sinkholes have a 20% chance to return as undead in 1d4 days unless their bodies are burned. Chaotic spellcasters who cast reversed (evil) divine spells or necromantic spells in a blighted sinkhole calculate the spell effects as if the casters were two class levels higher than their actual level of experience. Divine spellcasters of lawful alignment turn undead as if four class levels lower. Characters performing necromancy in a blighted sinkhole gain a +2 bonus to their magic research throws. A blighted sinkhole can be used for blood sacrifice.
 
 
-### Forsaken Sinkholes
+#### Forsaken Sinkholes
 
 A blighted area might, through some awful juxtaposition of the planes or terrible ritual magic, become forsaken. Forsaken sinkholes are pits of darkness where the vilest creatures and foulest magic are found. Such places are very rare (Judge's discretion).
 
 Corpses in forsaken areas have an 80% chance to return as undead in 1d4 rounds unless their bodies are burned. Chaotic spellcasters who cast reversed (evil) divine spells or necromantic spells in a forsaken sinkhole calculate the spell effects as if the casters were two class levels higher than their actual level of experience. Lawful divine spellcasters cast spells as if they were two class levels lower for purposes of spell effects, and may not turn undead. Any undead in forsaken areas gain a +2 bonus to attack throws, saving throws, damage rolls, and AC. Characters performing necromancy (described in Chapter 7) in a blighted sinkhole gain a +3 bonus to their magic research throws. Any undead created in forsaken areas gain a permanent +2 hit point per Hit Die, and animate dead spells cast in forsaken sinkholes create twice the normal number of Hit Dice of undead. A forsaken sinkhole can be used for blood sacrifice.
 
 
-### Cleansing Sinkholes
+#### Cleansing Sinkholes
 
 A bless spell will temporarily decrease the effect of a sinkhole within a 100' diameter area for the duration of the spell. While subject to bless, the affected area is cleansed if shadowed; shadowed if blighted; and blighted if forsaken. A vial of holy water can be sprinkled on a 10' diameter area with the same effect as a bless spell.
 
@@ -1199,7 +1213,7 @@ In most circumstances, the transformed character loses all his class abilities. 
 *Example*: Quintus, a 7th level mage, is the victim of a necromantic ritual that transforms him into a mummy. He gains the mummy's movement, armor class, attacks, damage, and special abilities, including mummy rot, immunities, and fearsome aura. A mummy has only 5+1 HD, which is below Quintus's class level. Therefore his Hit Dice are raised to 7. The Judge rules that Quintus retains his arcane spellcasting abilities. This counts as two special abilities. A mummy's powers are considered one special ability (*), so Quintus is considered to have three special abilities total, or 7 HD***. The Judge counts the XP progression for advancement (2 HD at 4,500, 3 HD at 9,000, 4 HD at 18,000, 5 HD at 36,000, 6 HD at 72,000, 7 HD at 144,000, 8 HD at 288,000). Quintus will need 288,000 to reach level 8.
 
 
-### Playing with Advanced Characters
+## Playing with Advanced Characters
 
 Because of the many options that ACKS offers for high-level play, some Judges may wish to begin their campaigns with the player characters already at an advanced level of experience. The following guidelines are suggested for campaigns where the players begin the game with advanced characters.
 
@@ -1253,7 +1267,7 @@ All advanced characters begin with a fixed amount of starting wealth. Adventurer
 Any remaining starting wealth can be converted into coin, gems, or jewels, as desired.
 
 
-### Magic Items
+#### Magic Items
 
 - Advanced characters may trade some of their starting wealth in exchange for rolls for magic items. Each of the five trades below can only be made once by adventurers or conquerors. Kings can make each trade twice (funds permitting).
 
@@ -1271,7 +1285,7 @@ Any remaining starting wealth can be converted into coin, gems, or jewels, as de
 The actual magic items can be randomly determined or chosen by the Judge. Re-roll cursed items. Characters capable of magic research may substitute magic item formulas for actual magic items at a 2:1 ratio. For instance, 1d4 random potions could be traded in for 2d4 potion formulas.
 
 
-### Recruiting Hirelings
+#### Recruiting Hirelings
 
 Advanced characters may begin with hirelings, including henchmen, specialists, and mercenaries.
 
@@ -1298,7 +1312,7 @@ The Judge may determine the starting location of any strongholds, domains, and r
 A Judge who wishes to embrace every facet of the Adventurer Conqueror King System can allow the players to act at all tiers simultaneously. In such a campaign, each player has one king tier character - a powerful archmage, mighty warlord, or similar persona. Each king in turn has one or more henchmen at the conqueror tier of play. These conqueror tier characters in turn have adventurer tier characters as their own henchmen. In such a campaign, the players will be simultaneously running one or more kingdoms, ruling the duchies and baronies in the kingdoms, and playing the adventuring parties that assist these rulers in dealing with the local threats of monsters and chaotic forces. Depending on the group's preferences, each session they can focus on a different tier of play, or they can shift between tiers within one game session.
 
 
-### Recommended Reading for Judges
+## Recommended Reading for Judges
 
 Anderson, Poul. The Broken Sword; Three Hearts and Three Lions; The High Crusade; The Merman's Children.
 

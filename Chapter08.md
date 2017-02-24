@@ -1,14 +1,15 @@
 [Previous](Chapter07.md) [Top](Chapter00.md) [Next](Chapter09.md)
 
----
+* * *
 
-## Chapter 8: Monsters
+
+# Chapter 8: Monsters
 
 
 In Adventurer Conqueror King, the term "monster" generally refers to any being other than the player characters. Monsters are listed in this chapter inx an encyclopedic format. Each monster has certain characteristics, which are defined below. Though each monster listing can be considered to represent the "average" specimen of a particular creature, the Judge can alter the abilities and power level of any creature to fit the situation. It is assumed that all monsters, except humans and demi-humans, have infravision of 60'.
 
 
-### Monster Characteristics
+## Monster Characteristics
 
 The following terms are used to define the characteristics of monsters.
 
@@ -79,7 +80,7 @@ It is safe to view a monster's reflection in a mirror or other reflective surfac
 **XP**: This abbreviation stands for experience points. It is the precalculated total for the monster, taking into account its HD and any special abilities. Note that if a monster has variable HD, this total reflects a monster with the lowest HD possible, and XP will need to be recalculated for more powerful monsters.
 
 
-### Monster Types
+## Monster Types
 
 Monsters with similar characteristics are grouped into monster types. The monster types are animal, beastmen, construct, enchanted creature, fantastic creature, giant humanoid, humanoid, ooze, summoned creature, undead, and vermin. A creature can belong to multiple types. For instance, skeletons are undead constructs, while efreeti are enchanted summoned creatures. Monster type determines the effectiveness of various charm, detection, hold, protection, and sleep spells against the creature.
 
@@ -139,14 +140,14 @@ The undead are a type of monster that include spectres, zombies, skeletons, wigh
 Vermin are a type of mindless monster that includes caecilian, cavern locusts, giant ants, giant killer bees, giant beetles, giant crabs, carcass scavengers, giant centipedes, insect swarms, giant leeches, purple worms, rhagodessa, rot grubs, giant scorpions, shriekers, spiders, and other lower life forms. Vermin have such minimal intelligence that they cannot be affected by spells that affect animals. They are usually vulnerable to charm monster and hold monster spells.
 
 
-### Abbreviations
+## Abbreviations
 
 In written adventures, when monsters are indicated, their characteristics are typically abbreviated in the following order and format: AC, Armor Class; Move, Movement; HD, Hit Dice; hp, hit points; #AT, number of attacks; Dmg, damage; SV, save; ML, morale; AL, alignment. For example: AC 3, Move 90', HD 1, hp 5, #AT 1, Dmg 1d4, SV F1, ML 0, AL N.
 
 Alignment is abbreviated as follows: C, chaotic; N, neutral; L, lawful.
 
 
-### Monster Listings
+## Monster Listings
 
 
 ### Ankheg
@@ -3546,6 +3547,6 @@ XP:             | 29
 
 Zombies are undead corpses reanimated through dark and sinister magic. Because of their utter lack of intelligence, the instructions given to a zombie by its creator must be very simple. The chaotic mages and clerics that create zombies use them to guard locations or valuable treasure. Zombies are susceptible to ordinary weapons, but like other undead they are immune to poison, and charm, hold, and sleep spells. Zombies' somewhat clumsy, decomposing limbs force them to attack last each round.
 
----
+* * *
 
 [Previous](Chapter07.md) [Top](Chapter00.md) [Next](Chapter09.md)
