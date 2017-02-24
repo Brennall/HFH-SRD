@@ -608,7 +608,7 @@ When a dungeon wandering monster encounter occurs, the following steps should be
 
 3. Roll 2d6 x 10 to determine the encounter distance in feet separating the characters and monster(s) at the point when the characters may become aware of the monster, unless factors such as light source, dungeon geometry, etc. take precedence. The Judge should take into account the dungeon layout and known placement of other monsters to determine the direction from which the wandering monsters are approaching.
 
-4. Roll for surprise and reactions as described in Chapter 6, Dungeon Encounters. Modify the reaction roll by the difference between the Random Monster table used and the dungeon level of the encounter. For instance, if the wights from table 3 are encountered on level 5, they have a -2 penalty to reaction rolls; if encountered on level 1, they have a +2 bonus to reaction rolls. The numerical superiority of monsters traveling deeper into the dungeon makes them more likely to attack. On the other hand, powerful monsters wandering on an upper level are more inclined to view the party as tools than threats.
+Roll for surprise and reactions as described in Chapter 6, Dungeon Encounters. Modify the reaction roll by the difference between the Random Monster table used and the dungeon level of the encounter. For instance, if the wights from table 3 are encountered on level 5, they have a -2 penalty to reaction rolls; if encountered on level 1, they have a +2 bonus to reaction rolls. The numerical superiority of monsters traveling deeper into the dungeon makes them more likely to attack. On the other hand, powerful monsters wandering on an upper level are more inclined to view the party as tools than threats.
 
 
 
