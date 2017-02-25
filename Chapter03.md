@@ -795,7 +795,7 @@ Mercenaries have morale like henchmen, but mercenary morale is based on their tr
 
 ### Specialists
 
-Below are several possible specialists and typical monthly pay rates. This list is not exhaustive, and the Judge may create more kinds of specialists as needed using the rules in the [Proficiencies chapter](Chapter04.md#chapter-4-proficiencies). Player characters with appropriate proficiencies may act as specialists if desired.
+Below are several possible specialists and typical monthly pay rates. This list is not exhaustive, and the Judge may create more kinds of specialists as needed using the rules in the [Proficiencies](Chapter04.md#chapter-4-proficiencies) chapter. Player characters with appropriate proficiencies may act as specialists if desired.
 
 **Alchemist** (250gp/month): Alchemists are valuable specialists because they dedicate their expertise to creating potions and other concoctions. They may work as assistants to mages to help them create potions. They may also research new potions as if they were 5th level mages, but at twice the base time and cost. See [Magic Research](Chapter07.md#magic-research) in Chapter 7.
 
