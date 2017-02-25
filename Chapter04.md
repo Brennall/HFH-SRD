@@ -132,11 +132,13 @@ Master Artist | 3                       | 40gp            | 2 Journeymen, 4 Appr
 
 **Combat Reflexes**: True warriors never hesitate in combat. The character gains a +1 bonus to surprise rolls and initiative rolls. This bonus does not apply when casting spells.
 
-**Combat Trickery**: The character is a cunning and tricky fighter. Pick a special maneuver from any one of the following: Disarm, Force Back, Incapacitate, Knock Down, Overrun, Sunder, or Wrestle. When the character attempts this special maneuver in combat, the normal penalty for attempting the maneuver is reduced by 2 (e.g. from -4 to -2), and his opponent suffers a -2 penalty to his saving throw to resist the special maneuver. See Special Maneuvers in Chapter 6 for more details. A character may take Combat Trickery multiple times, selecting an additional special maneuver to learn each time.
+**Combat Trickery**: The character is a cunning and tricky fighter. Pick a special maneuver from any one of the following: Disarm, Force Back, Incapacitate, Knock Down, Overrun, Sunder, or Wrestle. When the character attempts this special maneuver in combat, the normal penalty for attempting the maneuver is reduced by 2 (e.g. from -4 to -2), and his opponent suffers a -2 penalty to his saving throw to resist the special maneuver. See [Special Maneuvers](Chapter06.md#special-maneuvers) in Chapter 6 for more details. A character may take Combat Trickery multiple times, selecting an additional special maneuver to learn each time.
 
 **Command**: The character has mastered the art of command. His authority inspires men to follow him into danger. The character's henchmen and mercenaries receive a +2 bonus to morale. Morale is explained in Hirelings, Henchmen, Mercenaries, and Specialists.
 
 **Contemplation**: The character may enter a meditative trance and re-gain the ability to cast a spell of a level he had previously expended. Contemplation requires one hour (6 turns) of undisturbed meditation. A character may not regain the same level of spell more than once per day through contemplation.
+
+{: #contortionism }
 
 **Contortionism**: The character is extremely flexible, able to squeeze or fold his body in ways that seem humanly impossible, including squeezing between bars and escaping chains and restraints. He may make a proficiency throw of 18+ each round to escape from bonds or to slip between the bars of a portcullis.
 
@@ -225,7 +227,7 @@ Chirugeon | 3                       | 100gp           | 5            | Identify 
 
 **Leadership (G)**: The character is an inspirational authority figure who earns great loyalty. The character may hire one more henchman than his Charisma would otherwise permit, and the base morale score of any domain he rules is increased by 1. Domain morale is explained in the Campaign chapter.
 
-**Lip Reading (G)**: The character can "overhear" conversations spoken in a language he understands. If the subject of his lip reading is not speaking clearly in bright light, the character may need to make a successful proficiency throw to hear noise in order to determine if he gleans the appropriate information. Characters with Lip Reading proficiency receive a +1 bonus to carousing and spying hijinks. See Hideouts and Hijinks in Chapter 7 for more information on carousing and spying.
+**Lip Reading (G)**: The character can "overhear" conversations spoken in a language he understands. If the subject of his lip reading is not speaking clearly in bright light, the character may need to make a successful proficiency throw to hear noise in order to determine if he gleans the appropriate information. Characters with Lip Reading proficiency receive a +1 bonus to carousing and spying hijinks. See [Hideouts and Hijinks](Chapter07.md#hideouts-and-hijinks) in Chapter 7 for more information on carousing and spying.
 
 **Lockpicking**: The character is an expert with locks and receives a +2 bonus on proficiency throws to open locks. He may open a lock in one round (rather than one turn) by making a successful proficiency throw to open locks with a -4 penalty.
 

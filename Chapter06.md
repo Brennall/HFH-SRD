@@ -530,7 +530,7 @@ Some characters and monsters can fight with a weapon in each hand (dual wielding
 
 Vision and light can also affect melee combat. Combatants suffer -4 to their attack throw if blind, in darkness, or attacking an invisible foe.
 
-Instead of making a standard melee attack, combatants may attempt to disarm, knock down, wrestle, or otherwise disrupt their opponent in some way. See Special Maneuvers, below.
+Instead of making a standard melee attack, combatants may attempt to disarm, knock down, wrestle, or otherwise disrupt their opponent in some way. See [Special Maneuvers](Chapter06.md#special-maneuvers), below.
 
 During large melees, the Judge should use discretion in determining how many attackers can strike at one opponent. Two man-sized combatants armed with two-handed weapons, or three man-sized combatants armed with spears or one-handed weapons, can fight side by side in a 10' wide corridor. Combatants with spears and pole arms may attack in melee from the second rank. If more detail is necessary, dice, tokens, or figurines can be used to represent character positions and movement during combat and movements in the dungeon.
 
@@ -710,7 +710,7 @@ Once a creature has resolved its condition on the Mortal Wounds table, all nonle
 
 In the legends and sagas, heroes can chop through weak foes quickly, often slaying two with one blow. Skilled archers might fire as quickly as one arrow every few seconds, fire two arrows at once, or pierce multiple foes with one arrow. The Cleaving rules simulate these feats of glorious mayhem.
 
-Whenever a combatant kills or incapacitates an opponent with a melee or missile attack, he may immediately make another attack throw against another opponent within 5' of the target he has just dropped. The additional attack throw must be with the same weapon as the attack that killed the previous opponent. If engaged in melee, the attacker may move 5' between each attack, subject to his maximum combat movement per round. Attackers may not perform [special maneuvers](#special-maneuvers) or actions other than attacking when cleaving.
+Whenever a combatant kills or incapacitates an opponent with a melee or missile attack, he may immediately make another attack throw against another opponent within 5' of the target he has just dropped. The additional attack throw must be with the same weapon as the attack that killed the previous opponent. If engaged in melee, the attacker may move 5' between each attack, subject to his maximum combat movement per round. Attackers may not perform [special maneuvers](Chapter06.md#special-maneuvers) or actions other than attacking when cleaving.
 
 Monsters, fighters, and other characters that use the fighter attack throw progression may make a maximum number of cleave attacks per round equal to their Hit Dice. Clerics, thieves, and other characters that use the cleric/thief attack throw progression may make a maximum number of cleave attacks per round equal to half their Hit Dice (rounded down). Mages and characters that use the mage attack throw progression may not make cleave attacks.
 

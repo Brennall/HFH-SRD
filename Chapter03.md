@@ -31,7 +31,7 @@ Platinum Piece (pp) | = | 500   | 50    | 10    | 5     | 1
 
 ### What's a Gold Piece Worth?
 
-To put the value of currency in perspective, the Standard of Living table, below, shows how far a gold piece will go towards cost of living at different standards of comfort. A single gold piece is enough for a peasant to subsist at a wretched quality of life. Early in their career, adventurers will typically live on a few dozen gold pieces per month, enough to eat and sleep at an inn. A dragon's treasure hoard of 50,000gp might keep a village of peasants alive for decade, but merely cover a prince's monthly budget. Wealth is assumed to be highly concentrated in ACKS campaign worlds.
+To put the value of currency in perspective, the [Standard of Living](Chapter03.md#standard-of-living) table, below, shows how far a gold piece will go towards cost of living at different standards of comfort. A single gold piece is enough for a peasant to subsist at a wretched quality of life. Early in their career, adventurers will typically live on a few dozen gold pieces per month, enough to eat and sleep at an inn. A dragon's treasure hoard of 50,000gp might keep a village of peasants alive for decade, but merely cover a prince's monthly budget. Wealth is assumed to be highly concentrated in ACKS campaign worlds.
 
 
 #### Standard of Living
@@ -51,7 +51,7 @@ Lavishly Opulent       | 80,000gp+              | Kings or emperors, 13th-14th l
 
 ## Purchasing Equipment
 
-The arms, armor, and mundane gear available for purchase are listed on the Weapons and Equipment tables. These lists will also be handy when characters need to restock supplies between adventures. The equipment and other items listed on the Weapons and Equipment table are described in detail in the Equipment Descriptions section.
+The arms, armor, and mundane gear available for purchase are listed on the [Weapons and Equipment](Chapter03.md#weapons-and-equipment) tables. These lists will also be handy when characters need to restock supplies between adventures. The equipment and other items listed on the [Weapons and Equipment](Chapter03.md#weapons-and-equipment) table are described in detail in the [Equipment Descriptions](Chapter03.md#equipment-descriptions) section.
 
 Should the players wish to purchase items not provided in the equipment lists, the Judge may use the items available as guidelines for determining new items' characteristics and including prices.
 
@@ -68,11 +68,11 @@ Adventurers may sometimes wish to purchase equipment in greater volume than the 
 
 The amount of equipment available for purchase is determined by the price of the equipment relative to the size of the market the adventurers are in. A market can be anything from a village's humble fair to a city-state's outdoor bazaar to the ports of a major metropolis. Markets are rated by market class from I to VI, which rate their size and importance.
 
-The vast mercantile hubs of empires, with urban populations of 100,000 or more, constitute Class I. Major ports, national capitals, and other large cities of 25,000 or more inhabitants constitute Class II. Provincial capitals and medium-sized cities of 8,750 to 25,000 inhabitants make up Class III. Small cities and large towns of 3,000 to 8,750 inhabitants make up Class IV. Small towns and large villages of 1,250 to 3,000 inhabitants are Class V. Any village of 1,250 inhabitants or less is Class VI. Market classes are also important for hiring henchmen, as discussed in the Hirelings, Henchmen, Mercenaries, and Specialists section below, and for trade and commerce, as discussed in the Mercantile Ventures section in the Campaigns chapter.
+The vast mercantile hubs of empires, with urban populations of 100,000 or more, constitute Class I. Major ports, national capitals, and other large cities of 25,000 or more inhabitants constitute Class II. Provincial capitals and medium-sized cities of 8,750 to 25,000 inhabitants make up Class III. Small cities and large towns of 3,000 to 8,750 inhabitants make up Class IV. Small towns and large villages of 1,250 to 3,000 inhabitants are Class V. Any village of 1,250 inhabitants or less is Class VI. Market classes are also important for hiring henchmen, as discussed in the [Hirelings, Henchmen, Mercenaries, and Specialists](Chapter03.md#hirelings-henchmen-mercenaries-and-specialists) section below, and for trade and commerce, as discussed in the [Mercantile Ventures](Chapter07.md#mercantile-ventures) section in the Campaigns chapter.
 
-The Equipment Availability by Market Class table shows how many units of any piece of equipment are available in each type of market each month. Some values will indicate a percentage chance; this is chance of one unit being present at all in any given month.
+The [Equipment Availability by Market Class](Chapter03.md#equipment-availability-by-market-class) table shows how many units of any piece of equipment are available in each type of market each month. Some values will indicate a percentage chance; this is chance of one unit being present at all in any given month.
 
-Note that the values given are the number of each specific item, not the total number of items at that price level. For instance, a Class IV market will have 5 swords, 5 battle axes, and 5 of each other item priced at 2-10gp. Multiple small items sold as a bundle (such as 12 spikes, 6 torches, 20 arrows, etc) count as one item for purposes of the Equipment Availability by Market Class table.
+Note that the values given are the number of each specific item, not the total number of items at that price level. For instance, a Class IV market will have 5 swords, 5 battle axes, and 5 of each other item priced at 2-10gp. Multiple small items sold as a bundle (such as 12 spikes, 6 torches, 20 arrows, etc) count as one item for purposes of the [Equipment Availability by Market Class](Chapter03.md#equipment-availability-by-market-class) table.
 
 
 #### Equipment Availability by Market Class
@@ -344,11 +344,11 @@ Troop Transport (small)               | 15,000gp
 
 **Birthwort**: Birthwort, also known as snakeroot, is a healing herb used as a remedy for snake bites and other poisons. Birthwort can be applied as a poultice to a poisoned wound by an adventurer with the Healing proficiency. Used in this manner, it provides a +2 bonus on the Healing proficiency throw to neutralize poison.
 
-**Boat, River**: This boat is 20' to 30' long, has a "beam" (width) of 10' to 15', and has a "draft," or surface depth, of between 2-3' when in the water. Riverboats are rowed, or poles are used to push it along. A river boat requires at least 1 rower as crew (see the Hirelings, Henchmen, Mercenaries, and Specialists section, later in this chapter). The cost of the boat increases by 1,000gp if it has a roof. A riverboat can carry 400 stone (4,000lb) plus crew.
+**Boat, River**: This boat is 20' to 30' long, has a "beam" (width) of 10' to 15', and has a "draft," or surface depth, of between 2-3' when in the water. Riverboats are rowed, or poles are used to push it along. A river boat requires at least 1 rower as crew (see the [Hirelings, Henchmen, Mercenaries, and Specialists](Chapter03.md#hirelings-henchmen-mercenaries-and-specialists) section, later in this chapter). The cost of the boat increases by 1,000gp if it has a roof. A riverboat can carry 400 stone (4,000lb) plus crew.
 
 **Boat, Sailing**: This small boat has a single mast, with a length of 20' to 40', a beam of 10' to 15', and a draft of 2' to 3'. Sailing boats are primarily employed for fishing on lakes or coasts. A sailing boat requires at least 1 sailor as crew. A sailing boat can carry up to 600 stone (6,000lb) plus crew.
 
-**Bola**: These are throwing weapons made of weights on the ends of interconnected cords, designed to capture animals by entangling their legs. A character can use a bola to make a knock down or wrestling maneuver (as described in special maneuvers in Chapter 6) with a thrown attack.
+**Bola**: These are throwing weapons made of weights on the ends of interconnected cords, designed to capture animals by entangling their legs. A character can use a bola to make a knock down or wrestling maneuver (as described in [special maneuvers](Chapter06.md#special-maneuvers) in Chapter 6) with a thrown attack.
 
 **Boots**: Low boots come to mid-calf. High boots come to the knee or thigh and are popular for riding.
 
@@ -386,7 +386,7 @@ Troop Transport (small)               | 15,000gp
 
 **Dart**: A dart is any small projectile designed to be thrown. Most darts are fletched wooden shafts, ranging in length from 6" to 2' long, but they may also be metal spikes or stars. Historical examples include the Roman plumbata, Macedonian kestros, and Japanese shuriken.
 
-**Dog**: Hunting dogs are fast, lean hounds trained to track and bring down prey by working in packs. Most hunting dogs can scent prey, giving them the equivalent of Tracking proficiency. War dogs are heavy, fierce mastiffs trained to kill on command. While dangerous, they are capable of great loyalty to their masters when properly trained. See the Monsters chapter for game statistics.
+**Dog**: Hunting dogs are fast, lean hounds trained to track and bring down prey by working in packs. Most hunting dogs can scent prey, giving them the equivalent of Tracking proficiency. War dogs are heavy, fierce mastiffs trained to kill on command. While dangerous, they are capable of great loyalty to their masters when properly trained. See the Monsters chapter for [game statistics](Chapter08.md#dog).
 
 **Donkey**: A donkey can carry its normal load of 8 stone and move 120' per turn. A donkey can carry its maximum load of 16 stone and move 60' per turn.
 
@@ -446,7 +446,7 @@ Troop Transport (small)               | 15,000gp
 
 **Mace**: A mace is a bludgeoning weapon consisting of a 2' to 3' wood or metal shaft and a heavy stone or metal head, useable with one or two hands. Historical examples include the Egyptian bronze-headed mace, medieval flanged mace, Persian horseman's mace, Russian pernach, and Slavic bulawa.
 
-**Manacles**: These are used to bind hands or feet. Characters bound with manacles can escape if they have the Contortionist proficiency (as described in Chapter 4), or by making a proficiency throw to Open Locks.
+**Manacles**: These are used to bind hands or feet. Characters bound with manacles can escape if they have the [Contortionist](Chapter04.md#contortionism) proficiency (as described in Chapter 4), or by making a proficiency throw to Open Locks.
 
 **Morning Star**: This is any type of large mace-liked weapon with a spiked metal head. Historical examples include the medieval morning star, German chain-morning star, English holy water sprinkler, Flemish goedendag, and Japanese tetsubo. Any flails and maces too large to be used one-handed can also be treated as morning stars. Morning stars impose a -1 penalty on initiative rolls.
 
@@ -456,7 +456,7 @@ Troop Transport (small)               | 15,000gp
 
 **Musical Instrument**: A wide variety of instruments are available to bards and performers, including stringed instruments, percussion instruments, brass instruments, and woodwind instruments. Historical examples of stringed instruments are the cithara, harp, lyre, lute, psaltery, and zither. Historical percussion instruments include the castanet, chimes, drum, gong, sistrum, tambourine, and tympani. Historical brass instruments include the buccina, carnyx, cornu, and salpinx. Historical woodwind instruments include the aulos, flute, horn, pan pipe, and shawm. A common instrument costs 25gp. A superior instrument costs 50gp and adds +1 to Performance proficiency throws made with it. A masterpiece instrument costs 100gp and adds +2 to Performance proficiency throws made with it.
 
-**Net**: This is a round, weighted cast net designed to entangle and entrap opponents. The chief historical example is the net of the Roman retiarius. A character using a net gets a +2 bonus on attack throws to wrestle opponents (as explained under special maneuvers in Chapter 6).
+**Net**: This is a round, weighted cast net designed to entangle and entrap opponents. The chief historical example is the net of the Roman retiarius. A character using a net gets a +2 bonus on attack throws to wrestle opponents (as explained under [special maneuvers](Chapter06.md#special-maneuvers) in Chapter 6).
 
 **Oil**: Common oil is burned in a lantern to give light. Common oil is usually olive oil, castor oil, or animal extract. Military oil is a weapon made of naphtha, and cannot be easily doused with water. Military oil may be thrown at monsters, dealing 1d8 points of damage for 2 rounds to the creature struck, or poured on the floor and ignited to delay pursuit.
 
@@ -492,7 +492,7 @@ Troop Transport (small)               | 15,000gp
 
 **Sailing Ship, Small**: This ship is much like the larger version, but has one mast, a 60' to 80' length, 20' to 30' beam, and 5' to 8' draft. Crew consists of a captain and 12 sailors. In addition to the crew, it can carry 10,000 stone (100,000lb) of cargo. Historical examples include the Roman corbita, the Viking knarr, and the medieval cog.
 
-**Sap**: A sap consists of a heavyweight material wrapped inside a leather sack. Used as a weapon, it provides a +2 bonus to attack throws made to incapacitate opponents (as described in Special Maneuvers in Chapter 6).
+**Sap**: A sap consists of a heavyweight material wrapped inside a leather sack. Used as a weapon, it provides a +2 bonus to attack throws made to incapacitate opponents (as described in [Special Maneuvers](Chapter06.md#special-maneuvers) in Chapter 6).
 
 **Scale Armor**: Scale armor consists of many small leather, cuir bouilli, or horn scales attached to a backing material of cloth or leather. Scale armor usually consists of a corselet or hauberk worn with leather or padded cloth. It is lighter than lamellar armor, which uses metal scales or lames over leather, and comparable to ring mail. Historical examples include Scythian scale armor, Egyptian scale armor, and early medieval scale armor.
 
@@ -534,7 +534,7 @@ Troop Transport (small)               | 15,000gp
 
 **Waterskin/Wineskin**: This container, made of hide or preserved animal bladder, will hold 2 pints (1 quart) of fluid.
 
-**Whip**: This is a long, single-tailed whip of the sort used to herd cattle. Used as a weapon, it provides a +2 bonus to attack throws made to disarm or knock down opponents (as described in Special Maneuvers in Chapter 6).
+**Whip**: This is a long, single-tailed whip of the sort used to herd cattle. Used as a weapon, it provides a +2 bonus to attack throws made to disarm or knock down opponents (as described in [Special Maneuvers](Chapter06.md#special-maneuvers) in Chapter 6).
 
 **Wolfsbane**: Wolfsbane (dried aconite flowers) may drive off werewolves and other lycanthropes if a character strikes the monster in hand-to-hand combat with the sprig. If the lycanthrope fails a saving throw versus Poison, it must flee as if turned. A character who eats wolfsbane must make a saving throw versus Poison or die after one turn.
 
@@ -565,7 +565,7 @@ Heavy items include two-handed weapons (including bows, crossbows, and various l
 
 For purposes of encumbrance, 1,000 coins are considered 1 stone. When a carrying device, such as a backpack, lists the weight it can carry in stone, this weight can be converted at 1:1000 from stone to coins to determine how many coins it can carry.
 
-A character's speed will be affected based on encumbrance, as shown on the Character Movement and Encumbrance table, below. For additional information on movement, see the Time and Movement section in the Adventures chapter. The maximum any character can carry is 20 stone, plus his Strength adjustment.
+A character's speed will be affected based on encumbrance, as shown on the [Character Movement and Encumbrance](Chapter03.md#character-movement-and-encumbrance) table, below. For additional information on movement, see the [Time and Movement](Chapter06.md#time-and-movement) section in the Adventures chapter. The maximum any character can carry is 20 stone, plus his Strength adjustment.
 
 
 #### Character Movement and Encumbrance
@@ -580,7 +580,7 @@ Up to max capacity | 30' per turn                | 10' per round          | 30' 
 
 *Example*: Marcus is carrying a two-handed sword (1 heavy item), a crossbow (1 heavy item), a mace (1 item), 2 daggers (1 item each), 1 week's iron rations (1 item), a tinderbox (1 item), 2 flasks of oil (1 item each), 3 stakes and mallet (1 item), a small mirror (1 item), a pound of wolfsbane (1 item), a pound of garlic (1 item), and a case with 20 bolts (1 item). He is carrying 12 items, which counts as 2 stone. His two-handed sword and crossbow count as 2 stone. Finally, he is wearing plate armor (AC6), which counts as 6 stone. His total encumbrance is 10 stone, so his exploration movement is 60' per turn. Later, he picks up 8,000 silver pieces. This increases his encumbrance to 18 stone, and reduces his exploration movement to 30' per turn.
 
-In order to carry more equipment and treasure, characters may purchase beasts of burdens and ground vehicles. Each animal or vehicle has a normal and maximum load it can carry in stone, as shown on the Animal/Vehicle Movement and Encumbrance table.
+In order to carry more equipment and treasure, characters may purchase beasts of burdens and ground vehicles. Each animal or vehicle has a normal and maximum load it can carry in stone, as shown on the [Animal/Vehicle Movement and Encumbrance](Chapter03.md#animalvehicle-movement-and-encumbrance) table.
 
 
 #### Animal/Vehicle Movement and Encumbrance
@@ -609,14 +609,14 @@ The figure to the left of the slash is the animal or vehicle's movement rate per
 
 In addition to buying equipment, adventurers may also spend their money to hire various NPCs, known as hirelings, to assist them. There are three types of hirelings. Henchmen are NPC sidekicks, companions, and associates. Henchmen are typically very loyal and are willing to take reasonable risks; in particular, they are the only sort of hireling who will generally accompany an adventurer into a dungeon, lair, or ruin. Mercenaries are hired soldiers, and will guard, patrol, and otherwise serve in wilderness settings, but only as part of a larger force, not an adventuring party. Specialists are hired individuals who have a particular trade or who have special knowledge. These individuals are usually hired for a specific task.
 
-While adventurers often wish to hire as many hirelings as they can afford, hirelings are not available in unlimited numbers. Indeed, in small villages or remote outposts, they may be not available at all. As with equipment, the amount available will be determined by the market class within which the adventurers are recruiting hirelings. The Hireling Availability by Market Class table shows how many of each type of henchman, mercenary or specialist is available in each type of market. Some values will indicate a percentage chance; this is chance of that type of hireling being present at all. One half of the hirelings (rounded up) become available within the first week the adventurers enter the market. One quarter (rounded down, minimum 1) become available during the second week. The remainder of the hirelings become available in the third week.
+While adventurers often wish to hire as many hirelings as they can afford, hirelings are not available in unlimited numbers. Indeed, in small villages or remote outposts, they may be not available at all. As with equipment, the amount available will be determined by the market class within which the adventurers are recruiting hirelings. The [Hireling Availability by Market Class](Chapter03.md#hireling-availability-by-market-class) table shows how many of each type of henchman, mercenary or specialist is available in each type of market. Some values will indicate a percentage chance; this is chance of that type of hireling being present at all. One half of the hirelings (rounded up) become available within the first week the adventurers enter the market. One quarter (rounded down, minimum 1) become available during the second week. The remainder of the hirelings become available in the third week.
 
 *Example*: Marcus is in a city of 20,000, a Class III market. He wants to hire a sage to decipher a strange book, and a company of heavy infantry. There is a 65% chance of 1 sage being present; unfortunately, the Judge rolls a 98, and Marcus can't find one available. His search for the heavy infantry goes better, as the Judge's roll of 3d8 yields 22. Marcus finds 11 of these in his first week of searching, 5 more in his second week, and the remaining 6 in his third week.
 
 PCs may sometimes find potential hirelings while on adventures. Otherwise, in order to find hirelings, the PCs must carouse in pubs, post notices of help wanted, hand out fliers, and seek out adventuring companies, mercenary brotherhoods, or professional guilds. These activities cost money. Each week that the adventurers are in the market for hirelings, they must pay the fee listed on the table below. This fee is per type of hireling.
 
 
-#### Hiring Availability by Market Class
+#### Hireling Availability by Market Class
 
 Hireling                       | Class I        | Class II       | Class III      | Class IV       | Class V        | Class VI
 :------------------------------| :------------- | :------------- | :------------- | :------------- | :------------- | :------------- 
@@ -687,7 +687,7 @@ Adjusted Die Roll      | Result
 12+                    | Accept with 'elan
 
 
-After the offers are made, the Judge will make a reaction roll of 2d6 on the Reaction to Hiring Offer table to decide the potential hireling's reactions, modified by the prospective employer's Charisma bonus or penalty The Judge may apply any other adjustments he or she feels are appropriate (a bonus of +1 for higher-than-average pay, signing bonuses, or equipment; a -1 penalty if the adventurer offers poor terms or a very risky job).
+After the offers are made, the Judge will make a reaction roll of 2d6 on the [Reaction to Hiring Offer](Chapter03.md#reaction-to-hiring-offer) table to decide the potential hireling's reactions, modified by the prospective employer's Charisma bonus or penalty The Judge may apply any other adjustments he or she feels are appropriate (a bonus of +1 for higher-than-average pay, signing bonuses, or equipment; a -1 penalty if the adventurer offers poor terms or a very risky job).
 
 Refuse and slander means that all further reaction rolls made toward that adventurer in the given town or region will be at a penalty of -1 due to unkind words said by the NPC to his fellows. If the adventurer tries again in a different town, the penalty does not apply. Refuse simply means the NPC declines the offer.
 
@@ -698,7 +698,7 @@ Accept means that the NPC has agreed to become the character's hireling for the 
 
 ### Henchmen
 
-Henchmen should be rolled up with ability scores, classes, hit points, and equipment, just like player characters. Henchmen are typically hired for a share of treasure (at least 15% of the employer's income) and a monthly fee for food, lodging and expenses. A henchmen's monthly fee is based on his level, as noted on the Henchmen Monthly Fee table, below.
+Henchmen should be rolled up with ability scores, classes, hit points, and equipment, just like player characters. Henchmen are typically hired for a share of treasure (at least 15% of the employer's income) and a monthly fee for food, lodging and expenses. A henchmen's monthly fee is based on his level, as noted on the [Henchmen Monthly Fee](Chapter03.md#henchmen-monthly-fee) table, below.
 
 When they are hired, potential henchmen should be of lower level than their employer. A first level character can only hire normal men as henchmen; second level characters can only hire first level characters; and so on. There is no way for the henchmen to directly know the level of the PC employer, but if a henchman ever concludes he is more powerful than his employer, it is cause for an immediate Henchman Loyalty roll (see below). Note that henchmen of greater than 4th level are not generally for hire on the market, though they can sometimes be found on adventures.
 
@@ -726,7 +726,7 @@ Class Level     | Monthly Wage (gp)
 
 Morale: All henchmen have a morale score, which is generally 0 plus the employer's Charisma bonus or penalty. This rating can be adjusted at the Judge's discretion. It can be increased if the PC has been particularly good to the henchman, or reduced if the PC has been cruel or contrary to his word.
 
-Morale rolls are made each time the henchman suffers a calamity. A calamity includes suffering an energy drain, a curse, a magical disease, or being nearly killed (Judge's discretion). In addition, the Judge should make a morale roll for each henchman at the end of each adventure whenever the henchman has leveled up, to determine if the henchman strikes off on his own or remains with the adventurer. The Judge will roll 2d6 on the Henchman Loyalty table, adding the henchman's morale, to decide how the henchman responds to the recent events. The Judge may apply adjustments to this roll, probably no more than +/-2, if the henchman is particularly well or poorly paid.
+Morale rolls are made each time the henchman suffers a calamity. A calamity includes suffering an energy drain, a curse, a magical disease, or being nearly killed (Judge's discretion). In addition, the Judge should make a morale roll for each henchman at the end of each adventure whenever the henchman has leveled up, to determine if the henchman strikes off on his own or remains with the adventurer. The Judge will roll 2d6 on the [Henchman Loyalty](Chapter03.md#henchman-loyalty) table, adding the henchman's morale, to decide how the henchman responds to the recent events. The Judge may apply adjustments to this roll, probably no more than +/-2, if the henchman is particularly well or poorly paid.
 
 
 #### Henchman Loyalty
@@ -757,12 +757,11 @@ Experience: Henchmen gain experience when they participate in an adventure; howe
 
 Mercenaries are generally hired to garrison a stronghold or wage war in military campaigns. Mercenaries will not accompany their employers on highly dangerous adventurers such as dungeon exploration unless they become henchmen. The Judge should determine what constitutes a military campaign and what constitutes an adventure depending on the overall circumstances.
 
-The Mercenary Troop Type table below list the typical wages of mercenary types based on type. The costs listed are the mercenaries' wages only. The cost of armorers to make and repair troop armor and weapons, stablehands to groom horses, caravans to provide supplies while in the field, and other miscellaneous expenses are not included. Mercenaries in garrison need only be paid their wages, but mercenaries on campaign will expect a share of military plunder in addition to wages.
+The [Mercenary Troop Type](Chapter03.md#mercenary-troop-type) table below list the typical wages of mercenary types based on type. The costs listed are the mercenaries' wages only. The cost of armorers to make and repair troop armor and weapons, stablehands to groom horses, caravans to provide supplies while in the field, and other miscellaneous expenses are not included. Mercenaries in garrison need only be paid their wages, but mercenaries on campaign will expect a share of military plunder in addition to wages.
 
+#### Mercenary Troop Type
 
-#### Gp Wage per Month
-
-Mercenary Troop Type                                                                         | Man    | Dwarf    | Elf    | Goblin | Orc
+Gp Wage per Month                                                                            | Man    | Dwarf    | Elf    | Goblin | Orc
 :------------------------------------------------------------------------------------------- | -----: | -------: | -----: | -----: | -----: 
 Peasants (spear)                                                                             | 3      | -        | -      | -      | -
 Light Infantry (spear, short sword, shield, leather armor)                                   | 6      | -        | 10     | 3      | 6
@@ -796,9 +795,9 @@ Mercenaries have morale like henchmen, but mercenary morale is based on their tr
 
 ### Specialists
 
-Below are several possible specialists and typical monthly pay rates. This list is not exhaustive, and the Judge may create more kinds of specialists as needed using the rules in the Proficiencies chapter. Player characters with appropriate proficiencies may act as specialists if desired.
+Below are several possible specialists and typical monthly pay rates. This list is not exhaustive, and the Judge may create more kinds of specialists as needed using the rules in the [Proficiencies chapter](Chapter04.md#chapter-4-proficiencies). Player characters with appropriate proficiencies may act as specialists if desired.
 
-**Alchemist** (250gp/month): Alchemists are valuable specialists because they dedicate their expertise to creating potions and other concoctions. They may work as assistants to mages to help them create potions. They may also research new potions as if they were 5th level mages, but at twice the base time and cost. See Magic Research in Chapter 7.
+**Alchemist** (250gp/month): Alchemists are valuable specialists because they dedicate their expertise to creating potions and other concoctions. They may work as assistants to mages to help them create potions. They may also research new potions as if they were 5th level mages, but at twice the base time and cost. See [Magic Research](Chapter07.md#magic-research) in Chapter 7.
 
 **Animal Trainer** (25gp to 250gp/month): Characters wishing to ride hippogriffs or employ carnivorous apes as guards will need the assistance of an animal trainer. The lowest cost above is for a standard animal trainer, able to train one type of "normal" animal such as warhorses; those able to train more than one sort of animal, or to train monsters such as hippogriffs, are more expensive to hire. The Judge decides how long an animal must be trained, based on the nature of the training. It will take a minimum of 1 month to tame a wild animal. Likewise it takes a minimum of one month to teach an already tame animal one behavior. After the first month, an animal has become accustomed to a trainer and can be taught additional behaviors at half the time per behavior. If training is interrupted, all time already spent on that particular behavior is lost.
 
@@ -812,11 +811,11 @@ If an animal is being tamed and the time is interrupted, the animal will rebel a
 
 **Mariner** (rowers, 3gp/month; sailors 6gp/month; navigator 25gp/month; captain 100gp/month): Rowers are unskilled normal humans who man oars of vessels. Sailors are skilled normal humans who can handle a ship. The navigator understands how to read charts and navigate based on instruments and the position of the stars. He is required any time a ship will venture beyond sight of a coast. A captain is required for any large ship, is skilled like a sailor, and has more intimate knowledge of the particular coasts he frequents. In general, all such characters are normal men, and are not armored; they will usually be armed with clubs, daggers, or short swords.
 
-**Ruffian** (carousers, 6gp/month; footpads, 25gp/month; reciters, 25gp/month; spy 125gp/month; thug 25gp/month): Ruffians are specialists in petty crime. Carousers are 0th level brawlers and hoodlums that populate inns and taverns. Reciters are 1st level bards. Footpads are 1st level thieves. Spies are 4th level thieves. Thugs are 1st level assassins. Ruffians are hired on a monthly basis. They can be used as enforcers or muscle, or sent on various hijinks, such as assassinating, carousing, spying, stealing, or treasure-hunting. Ruffians hired for hijinks will expect their employer to bail them out of trouble should they be caught. (See the Hideouts and Hijinks section in Chapter 7 for more information.) Ruffians will not go on adventures unless recruited as henchmen, but may gain XP from hijinks. Ruffians who advance in level from successful hijinks will earn higher wages; use the Henchmen Monthly Fee table for high level ruffians. Ruffians may or may not be reliable, and could stab the hiring character in the back (maybe literally!).
+**Ruffian** (carousers, 6gp/month; footpads, 25gp/month; reciters, 25gp/month; spy 125gp/month; thug 25gp/month): Ruffians are specialists in petty crime. Carousers are 0th level brawlers and hoodlums that populate inns and taverns. Reciters are 1st level bards. Footpads are 1st level thieves. Spies are 4th level thieves. Thugs are 1st level assassins. Ruffians are hired on a monthly basis. They can be used as enforcers or muscle, or sent on various hijinks, such as assassinating, carousing, spying, stealing, or treasure-hunting. Ruffians hired for hijinks will expect their employer to bail them out of trouble should they be caught. (See the [Hideouts and Hijinks](Chapter07.md#hideouts-and-hijinks) section in Chapter 7 for more information.) Ruffians will not go on adventures unless recruited as henchmen, but may gain XP from hijinks. Ruffians who advance in level from successful hijinks will earn higher wages; use the [Henchmen Monthly Fee](Chapter03.md#henchmen-monthly-fee) table for high level ruffians. Ruffians may or may not be reliable, and could stab the hiring character in the back (maybe literally!).
 
 **Sage** (500gp/month): Sages are rare; they usually specialize in a subject area, such as a sage specialist in dragons. Sages may be consulted for information. If the information is particularly difficult to obtain, it will cost the characters extra. Characters may have to pay the monthly rate in addition to any other supplies the sage needs to research their question. The Judge will decide these costs. Despite the special knowledge sages have, they are occasionally wrong when it comes to particularly obscure questions. The Judge will decide what questions are obscure and the probability of achieving a wrong answer. If the characters receive a wrong answer, they may not realize it!
 
-**Spellcaster** (Various): Spellcasters are arcane and divine casters retained to cast a spell for an adventuring party. Most often these are clerics asked to cast cure disease, remove curse, restore life and limb, and so on, but mages may be sought out from time to time as well. The Spell Availability by Market table shows how many divine and arcane spellcasters capable of casting a given spell level can be found in any given market. Each spellcaster will be able to cast a spell of the given level once per day. The cost per casting is listed for each spell level as well. Just because a spellcaster can be found does not mean he will cast a spell for the adventurer - he must still be recruited through negotiation. Clerics will never cast spells for adventurers of opposite alignment, and may charge double if the adventurers do not belong to their faith.
+**Spellcaster** (Various): Spellcasters are arcane and divine casters retained to cast a spell for an adventuring party. Most often these are clerics asked to cast cure disease, remove curse, restore life and limb, and so on, but mages may be sought out from time to time as well. The [Spell Availability by Market](Chapter03.md#spell-availability-by-market) table shows how many divine and arcane spellcasters capable of casting a given spell level can be found in any given market. Each spellcaster will be able to cast a spell of the given level once per day. The cost per casting is listed for each spell level as well. Just because a spellcaster can be found does not mean he will cast a spell for the adventurer - he must still be recruited through negotiation. Clerics will never cast spells for adventurers of opposite alignment, and may charge double if the adventurers do not belong to their faith.
 
 
 #### Spell Availability by Market
@@ -836,7 +835,7 @@ Arcane-5th level       | 1,250gp | 1d4      | 1d4       | 1d2        | -        
 Arcane-6th level       | 4,500gp | 1d3      | 1d3       | 1d2-1      | -         | -        | -
 
 
-*Example*: Quintus has been slain, while his companions (Balbus, Creven, and Marcus) have been infected with lycanthropy in a battle with wererats. The adventurers travel to a Class III market to seek restore life and limb for Quintus and cure disease for the rest of the party. The Judge rolls on the Spell Availability by Market table to determine the availability of these spells.
+*Example*: Quintus has been slain, while his companions (Balbus, Creven, and Marcus) have been infected with lycanthropy in a battle with wererats. The adventurers travel to a Class III market to seek restore life and limb for Quintus and cure disease for the rest of the party. The Judge rolls on the [Spell Availability by Market](Chapter03.md#spell-availability-by-market) table to determine the availability of these spells.
 
 Cure disease is a 3rd level spell, so the Judge rolls 1d3 to determine how many spell castings are available. Unfortunately, he rolls a 1, so only one cure disease spell is available each day. Restore life and limb is a 5th level spell, so the Judge rolls 1d2-1. He scores another 1, -1, yielding 0. No restore life and limb spells are available in town at all! The adventurers must decide whether to stay in town the three days necessary to get everyone cured of lycanthropy, or to press on immediately to try to find a cleric who can raise Quintus.
 
