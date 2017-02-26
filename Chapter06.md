@@ -144,7 +144,7 @@ When in the wilderness, characters can hunt or forage for food. Foraging for foo
 
 Hunting succeeds on a proficiency throw of 14+ and indicates that sufficient food for 2d6 man-sized creatures has been acquired. However, hunting must be engaged as the sole activity for a day with no traveling possible. In addition, there will be one wandering monster check, from the table appropriate for the terrain, while the group is hunting.
 
-Characters with the Survival proficiency (see [Proficiencies](Chapter04.md#proficiency-descriptions)) gain a +4 bonus on their proficiency throws to hunt and forage.
+Characters with the Survival proficiency (see [Proficiencies](Chapter04.md#chapter-4-proficiencies)) gain a +4 bonus on their proficiency throws to hunt and forage.
 
 
 ### Air Travel
