@@ -144,7 +144,7 @@ When in the wilderness, characters can hunt or forage for food. Foraging for foo
 
 Hunting succeeds on a proficiency throw of 14+ and indicates that sufficient food for 2d6 man-sized creatures has been acquired. However, hunting must be engaged as the sole activity for a day with no traveling possible. In addition, there will be one wandering monster check, from the table appropriate for the terrain, while the group is hunting.
 
-Characters with the [Survival](Chapter04.md#survival) proficiency (see Proficiencies) gain a +4 bonus on their proficiency throws to hunt and forage.
+Characters with the Survival proficiency (see [Proficiencies](Chapter04.md#proficiency-descriptions)) gain a +4 bonus on their proficiency throws to hunt and forage.
 
 
 ### Air Travel
@@ -647,7 +647,7 @@ If a character suffers permanent damage, a restore life and limb spell, regenera
 
 ### Healing
 
-All beings recover hit points through rest. For each full day of complete rest in reasonably sanitary conditions, a character or monster will recover 1d3 hp. If the rest is interrupted, the character or monster will not heal that day. Healing also occurs through magic, such as potions or spells. This kind of healing is instantaneous. Magical healing and natural healing can be combined. Characters with the [Healing](Chapter04.md#healing) proficiency can improve a creature's natural healing, as described in Chapter 4.
+All beings recover hit points through rest. For each full day of complete rest in reasonably sanitary conditions, a character or monster will recover 1d3 hp. If the rest is interrupted, the character or monster will not heal that day. Healing also occurs through magic, such as potions or spells. This kind of healing is instantaneous. Magical healing and natural healing can be combined. Characters with the Healing proficiency can improve a creature's natural healing, as [described](Chapter04.md#proficiency-descriptions) in Chapter 4.
 
 Some results on the [Mortal Wounds](Chapter06.md#mortal-wounds) or [Tampering with Mortality](Chapter06.md#tampering-with-mortality) tables will indicate that a character needs a period of bed rest to recover. During this time, the character does not regain hit points from natural or magical healing, and cannot take any action other than speaking and moving at half speed. If the character is killed again before he has had sufficient rest, he cannot be treated or restored to life by anything less than ritual magic. If the table indicates that the period of bed rest can be shortened with magical healing, then any form of healing magic, including cure spells, potions, Laying On Hands, or other means, will suffice. Otherwise, the period of bed rest cannot be shortened.
 

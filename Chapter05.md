@@ -851,7 +851,7 @@ Duration: | instantaneous
 
 A flame strike produces a vertical column of divine fire 30' high and 10' in diameter that roars downward on a target. The spell deals 6d8 points of damage. A successful saving throw versus Spells reduces the damage to 3d8.
 
-Flesh to Stone*
+#### Flesh to Stone*
 
 Range:    | 120'
 :-------- | :------------

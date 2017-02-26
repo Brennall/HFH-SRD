@@ -446,7 +446,7 @@ Troop Transport (small)               | 15,000gp
 
 **Mace**: A mace is a bludgeoning weapon consisting of a 2' to 3' wood or metal shaft and a heavy stone or metal head, useable with one or two hands. Historical examples include the Egyptian bronze-headed mace, medieval flanged mace, Persian horseman's mace, Russian pernach, and Slavic bulawa.
 
-**Manacles**: These are used to bind hands or feet. Characters bound with manacles can escape if they have the [Contortionist](Chapter04.md#contortionism) proficiency (as described in Chapter 4), or by making a proficiency throw to Open Locks.
+**Manacles**: These are used to bind hands or feet. Characters bound with manacles can escape if they have the Contortionist proficiency (as [described](Chapter04.md#proficiency-descriptions) in Chapter 4), or by making a proficiency throw to Open Locks.
 
 **Morning Star**: This is any type of large mace-liked weapon with a spiked metal head. Historical examples include the medieval morning star, German chain-morning star, English holy water sprinkler, Flemish goedendag, and Japanese tetsubo. Any flails and maces too large to be used one-handed can also be treated as morning stars. Morning stars impose a -1 penalty on initiative rolls.
 
