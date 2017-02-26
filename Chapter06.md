@@ -27,7 +27,7 @@ One player should be designated as the mapper. The mapper will draw the dungeon 
 
 When in the dungeon, characters take actions in time increments called turns. One turn is the equivalent in game time to 10 minutes. Character actions that take one turn can include looking for secret doors or traps in a 10' x 10' room, or moving the full movement rate (120' unless heavily encumbered) while mapping. As characters make their way through dungeons, their movement rates account for the fact that they are exploring, watching their footing, mapping, and taking care to avoid obstacles. This is referred to as exploration movement.
 
-Combat movement occurs when characters meet foes or more immediate challenges, as described in Encounters, later in this chapter. In these cases characters move at 1/3 their exploration movement per round (40' unless heavily encumbered). Rounds are ten seconds of game time each, so there are 60 rounds in a turn.
+Combat movement occurs when characters meet foes or more immediate challenges, as described in [Encounters](Chapter06.md#encounters), later in this chapter. In these cases characters move at 1/3 their exploration movement per round (40' unless heavily encumbered). Rounds are ten seconds of game time each, so there are 60 rounds in a turn.
 
 Finally, the third kind of speed is charging/running movement. Charging/running movement is the full character speed (120' unless heavily encumbered), and it is traveled in one round.
 
@@ -50,7 +50,7 @@ Any creatures who cannot see due to darkness or blindness suffer a -4 penalty wh
 
 ### Doors
 
-The standard door in a dungeon is made of heavy wood, reinforced with iron banding. These sturdy doors are usually closed, and often locked or stuck. A locked door can be opened by finding the key, picking the lock, or battering the door down. A thief can pick a lock in 1 turn with a successful proficiency throw to open locks value (refer to the Thief Skills table for the target value). Any character can batter a wooden door in 3 turns if equipped with an axe. Simple wooden doors take only 1 turn to batter down, while sturdier (solid metal or stone doors) cannot generally be battered down without heavy equipment.
+The standard door in a dungeon is made of heavy wood, reinforced with iron banding. These sturdy doors are usually closed, and often locked or stuck. A locked door can be opened by finding the key, picking the lock, or battering the door down. A thief can pick a lock in 1 turn with a successful proficiency throw to open locks value (refer to the [Thief Skills](Chapter02.md#thief-skills) table for the target value). Any character can batter a wooden door in 3 turns if equipped with an axe. Simple wooden doors take only 1 turn to batter down, while sturdier (solid metal or stone doors) cannot generally be battered down without heavy equipment.
 
 A stuck door can be forced open with brute strength. Forcing open a door requires a proficiency throw of 18+. Doors of unusual material or size may impose a penalty on this proficiency throw. In addition, for each point of Strength adjustment, modify the result of the die roll by +/- 4. (A character with Strength 18 thus opens doors with a proficiency throw of 6+). If two characters cooperate to force open a door, use the stronger character's Strength adjustment +4. A roll of 1 always fails to open a door. It takes only one combat round to force open a door, and characters may try again if they fail.
 
@@ -58,7 +58,7 @@ Some dungeons are so drenched in evil that the doors themselves are antagonistic
 
 Some doors are somehow concealed or hidden - these are secret doors. Common secret doors are sliding panels in a wall, trap-doors under rugs, and so on. Secret doors can only be spotted if characters are specifically looking for them. When a player declares that his character is looking for secret door, the Judge should make a proficiency throw on behalf of the character. All characters except elves will spot a secret door if one is present on a throw of 18+ on 1d20. Elves have keen eyes that allow them to detect hidden and secret doors with a proficiency throw of 8+ on 1d20 when actively searching, or 14+ on casual inspection. It takes 1 turn for a character to search a 10' x 10' area. Since the Judge rolls the dice, the player never know if the roll failed or if there simply is no door in the area searched. Each character has only one chance to find each secret door.
 
-Players will sometimes want their character to listen at a door or intersection to hear any noises beyond. Again, the Judge should make a proficiency throw on behalf of the character. A throw of 18+ on 1d20 succeeds. Dwarves and elves only need to throw 14+ due to their keen hearing. A thief has specially trained for this task, and has a different chance of success (refer to the Thief Skills table). This attempt may only be made one time at any door or intersection by a character. Note that some creatures, such as undead, do not make noise.
+Players will sometimes want their character to listen at a door or intersection to hear any noises beyond. Again, the Judge should make a proficiency throw on behalf of the character. A throw of 18+ on 1d20 succeeds. Dwarves and elves only need to throw 14+ due to their keen hearing. A thief has specially trained for this task, and has a different chance of success (refer to the [Thief Skills](Chapter02.md#thief-skills) table). This attempt may only be made one time at any door or intersection by a character. Note that some creatures, such as undead, do not make noise.
 
 
 ### Traps and Trap Detection
@@ -119,7 +119,7 @@ Unless there is an encounter, the Judge will direct players through time in incr
 
 ### Getting Lost
 
-Characters can confidently follow trails, roads, and other well-known landmarks without fear of becoming lost. However, when traveling across the wilderness it is easy to lose direction. At the start of each day of travel, the Judge will make a proficiency throw against the appropriate value from the table below to determine if the adventuring party gets lost. If any member of the party has the Navigation proficiency (as described in the Proficiencies chapter), the party should receive a +4 bonus on the proficiency throw.
+Characters can confidently follow trails, roads, and other well-known landmarks without fear of becoming lost. However, when traveling across the wilderness it is easy to lose direction. At the start of each day of travel, the Judge will make a proficiency throw against the appropriate value from the table below to determine if the adventuring party gets lost. If any member of the party has the Navigation proficiency (as described in the [Proficiencies](Chapter04.md#chapter-4-proficiencies) chapter), the party should receive a +4 bonus on the proficiency throw.
 
 Terrain                   | Navigation
 :------------------------ | -----------:
@@ -144,7 +144,7 @@ When in the wilderness, characters can hunt or forage for food. Foraging for foo
 
 Hunting succeeds on a proficiency throw of 14+ and indicates that sufficient food for 2d6 man-sized creatures has been acquired. However, hunting must be engaged as the sole activity for a day with no traveling possible. In addition, there will be one wandering monster check, from the table appropriate for the terrain, while the group is hunting.
 
-Characters with the Survival proficiency (see Proficiencies) gain a +4 bonus on their proficiency throws to hunt and forage.
+Characters with the [Survival](Chapter04.md#survival) proficiency (see Proficiencies) gain a +4 bonus on their proficiency throws to hunt and forage.
 
 
 ### Air Travel
@@ -226,7 +226,7 @@ d20     | Wind Conditions          | Sailing
 
 ### Getting Lost
 
-Getting lost is easy to do in the trackless expanse of endless ocean. At the start of each day of travel, the Judge will make a proficiency throw against the appropriate value from the table below to determine if the party's ships get lost. If any member of the party has the Navigation proficiency (as described in the Proficiencies chapter), the party should receive a +4 bonus on the proficiency throw.
+Getting lost is easy to do in the trackless expanse of endless ocean. At the start of each day of travel, the Judge will make a proficiency throw against the appropriate value from the table below to determine if the party's ships get lost. If any member of the party has the Navigation proficiency (as described in the [Proficiencies](Chapter04.md#chapter-4-proficiencies) chapter), the party should receive a +4 bonus on the proficiency throw.
 
 
 Terrain        | Navigation
@@ -259,14 +259,14 @@ In encounters and during combat, time is divided into units of rounds, which are
 
 When an encounter begins, the Judge will roll 2d6 x 10 to determine the encounter distance in feet separating the characters and monster(s). If the monster encounter is preplanned, the Judge may already know how far the monster is from the characters. Encounter distance will be limited by the layout of the dungeon and the available light sources as well.
 
-Next, the Judge rolls to see if the characters or the monster are surprised (see the [Surprise table](#surprise-1)). Then the Judge will check the monster's reaction on the Monster Reaction table (again, see below). Using this information, the Judge will decide what action the monster takes. At this stage the characters will also decide what actions to take, such as whether to fight, flee, or try to talk to the monster.
+Next, the Judge rolls to see if the characters or the monster are surprised (see the [Surprise table](Chapter06.md#surprise-1)). Then the Judge will check the monster's reaction on the [Monster Reaction](Chapter06.md#monster-reaction) table (again, see below). Using this information, the Judge will decide what action the monster takes. At this stage the characters will also decide what actions to take, such as whether to fight, flee, or try to talk to the monster.
 
-If either party decides to fight, combat begins and time progresses in rounds. Unsurprised characters then roll for initiative, and act in order of the rolls (as described under [Initiative](#initiative)). Initiative is rolled again at the start of each round. Usually an encounter is over when one side either dies or flees.
+If either party decides to fight, combat begins and time progresses in rounds. Unsurprised characters then roll for initiative, and act in order of the rolls (as described under [Initiative](Chapter06.md#initiative)). Initiative is rolled again at the start of each round. Usually an encounter is over when one side either dies or flees.
 
 
 ### Wilderness Encounters
 
-The sequence of play in wilderness encounters is very much like the sequence described above. However, wilderness encounters can take place in a variety of terrain types with greatly varying line of sight. Consult the Wilderness Encounter Distance table to determine how many yards away the characters are from the monster at the start of the encounter. (Remember that in the wilderness characters measure their movement rates in yards, rather than in feet as they do in the dungeon.)
+The sequence of play in wilderness encounters is very much like the sequence described above. However, wilderness encounters can take place in a variety of terrain types with greatly varying line of sight. Consult the Wilderness [Encounter Distance](Chapter06.md#encounter-distance) table to determine how many yards away the characters are from the monster at the start of the encounter. (Remember that in the wilderness characters measure their movement rates in yards, rather than in feet as they do in the dungeon.)
 
 #### Encounter Distance
 
@@ -297,14 +297,14 @@ These visibility distances could be reduced by 90% their normal distance when in
 
 ## Monsters Encountered
 
-The monster descriptions in Chapter 8 list Hit Dice and Number Encountered. Number Encountered is the recommended ranges for the number of the monster type that will be encountered at one time. The number of monsters encountered will vary depending on whether they are encountered wandering or in their lair, and whether they are in the wilderness or in the dungeon. When encountered in dungeons, the number encountered will vary depending on the dungeon level. The Dungeon Wandering Monster Level table, in Section 10, Secrets, provides detailed guidance on how many monsters of a particular type are likely to appear on each dungeon level.
+The monster descriptions in [Chapter 8](Chapter08.md#chapter-8-monsters) list Hit Dice and Number Encountered. Number Encountered is the recommended ranges for the number of the monster type that will be encountered at one time. The number of monsters encountered will vary depending on whether they are encountered wandering or in their lair, and whether they are in the wilderness or in the dungeon. When encountered in dungeons, the number encountered will vary depending on the dungeon level. The [Dungeon Wandering Monster Level](Chapter10.md#wandering-monsters-in-the-dungeon) table, in Chapter 10, [Secrets](Chapter10.md#chapter-10-secrets), provides detailed guidance on how many monsters of a particular type are likely to appear on each dungeon level.
 
 
 ## Surprise
 
 When monsters and characters encounter each other unexpectedly, there is the possibility one or both sides might be surprised. For instance, if the characters are making a lot of noise, the monster may not have a chance to be surprised but the characters might be if the monster was waiting quietly.
 
-In such circumstances, the Judge makes a surprise roll for the monsters and/or the adventurers as a group. The Judge rolls 1d6, adds any relevant adjustments, and consults the Surprise table below:
+In such circumstances, the Judge makes a surprise roll for the monsters and/or the adventurers as a group. The Judge rolls 1d6, adds any relevant adjustments, and consults the [Surprise](Chapter06.md#surprise) table below:
 
 #### Surprise
 
@@ -341,7 +341,7 @@ Monsters can also sneak up on, or past, characters using similar mechanics. Char
 
 When a party of adventurers meet one or more monsters, it's important to know how the monsters will react to the party. In many cases, the reaction of the monster or monsters is obvious. Zombies guarding a tomb will virtually always attack intruders, for example.
 
-In cases where the reaction of the monsters to the party is not obvious, a reaction roll may be made. The Judge rolls 2d6, adding the Charisma bonus of the "lead" character (or applying his Charisma penalty) along with any other adjustments he feels are reasonable, and consults the Monster Reaction table below:
+In cases where the reaction of the monsters to the party is not obvious, a reaction roll may be made. The Judge rolls 2d6, adding the Charisma bonus of the "lead" character (or applying his Charisma penalty) along with any other adjustments he feels are reasonable, and consults the [Monster Reaction](Chapter06.md#monster-reaction) table below:
 
 
 #### Monster Reaction
@@ -355,14 +355,14 @@ Adjusted Die Roll      | Result
 12+                    | Friendly, helpful
 
 
-A result of Hostile means that the adventurers have so offended the monsters that they attack immediately. An Unfriendly result means that the monsters do not like the adventurers, and will attack if they may reasonably do so. A Neutral result simply means that the monsters will consider letting the adventurers live if they choose to parley; it does not necessarily mean that the monsters like the adventurers. An Indifferent result means that monsters will ignore the adventurers if possible and negotiate if not. A Friendly result means that the monsters (or perhaps only the monster leader) do, in fact, like the adventurers; this does not mean that the monsters will just hand over their treasure, but it does indicate that they may choose to cooperate with the adventurers in mutually beneficial ways. Friendly monsters can be recruited as hirelings (see Hirelings, Henchmen, Mercenaries, and Specialists) with a successful roll on the Reaction to Hiring Offer table.
+A result of Hostile means that the adventurers have so offended the monsters that they attack immediately. An Unfriendly result means that the monsters do not like the adventurers, and will attack if they may reasonably do so. A Neutral result simply means that the monsters will consider letting the adventurers live if they choose to parley; it does not necessarily mean that the monsters like the adventurers. An Indifferent result means that monsters will ignore the adventurers if possible and negotiate if not. A Friendly result means that the monsters (or perhaps only the monster leader) do, in fact, like the adventurers; this does not mean that the monsters will just hand over their treasure, but it does indicate that they may choose to cooperate with the adventurers in mutually beneficial ways. Friendly monsters can be recruited as hirelings (see [Hirelings, Henchmen, Mercenaries, and Specialists](Chapter03.md#hirelings-henchmen-mercenaries-and-specialists)) with a successful roll on the [Reaction to Hiring Offer](Chapter03.md#reaction-to-hiring-offer) table.
 
 As always, the Judge must interpret the results of this roll in context. For instance, if the monsters have surprised the characters, a Hostile result might mean they attempt to ambush the party, while an Indifferent result might mean the monsters avoid the party entirely. The Judge may choose to alter the Monster Reaction result if he believes a different result would be more plausible given the circumstances.
 
 
 ## Evasion and Pursuit
 
-The adventurers may decide they are outmatched and flee an encounter, or a monster might flee if it breaks morale. The adventurers can choose when to flee, and whether or not to pursue fleeing monsters. The Judge will decide if the monsters chase fleeing characters by rolling on the Monster Reaction table. A roll of 2-8 indicates the monster will pursue. When one side is fleeing and the other side is pursuing, it is called a chase.
+The adventurers may decide they are outmatched and flee an encounter, or a monster might flee if it breaks morale. The adventurers can choose when to flee, and whether or not to pursue fleeing monsters. The Judge will decide if the monsters chase fleeing characters by rolling on the [Monster Reaction](Chapter06.md#monster-reaction) table. A roll of 2-8 indicates the monster will pursue. When one side is fleeing and the other side is pursuing, it is called a chase.
 
 
 ### Chases in the Dungeon
@@ -376,7 +376,7 @@ It is up to the adventurers to decide when they stop pursuing fleeing monsters. 
 
 ### Chases in the Wilderness
 
-Encounters will generally occur at much longer ranges in the wilderness, and adventurers and monsters will have far more directions available to flee. When one side is surprised in a wilderness encounter, the other side can automatically flee successfully. Otherwise, in order for one party to escape from another, it must make a successful throw on the Wilderness Evasion table. The more pursuing group members there are relative to the fleeing party, the greater chances the fleeing party may escape. This is because larger groups cannot move as fast, or as quietly. Note that the fleeing side will have a minimum of a 5% probability of escaping.
+Encounters will generally occur at much longer ranges in the wilderness, and adventurers and monsters will have far more directions available to flee. When one side is surprised in a wilderness encounter, the other side can automatically flee successfully. Otherwise, in order for one party to escape from another, it must make a successful throw on the [Wilderness Evasion](Chapter06.md#wilderness-evasion-by-pursuing-group-size-modifier) table. The more pursuing group members there are relative to the fleeing party, the greater chances the fleeing party may escape. This is because larger groups cannot move as fast, or as quietly. Note that the fleeing side will have a minimum of a 5% probability of escaping.
 
 
 #### Wilderness Evasion by Pursuing Group Size Modifier
@@ -398,7 +398,7 @@ If the fleeing party does not successfully escape, then the other group has mana
 
 ### Chases at Sea
 
-When two sea vessels, or a sea vessel and a monster, encounter one another, one party may choose to flee. The distance between each of the groups is determined as a normal encounter. Success depends primarily on the difference between the two groups' speeds. For one sea vessel or monster to escape from another, it must make a successful throw on the Sea Evasion table.
+When two sea vessels, or a sea vessel and a monster, encounter one another, one party may choose to flee. The distance between each of the groups is determined as a normal encounter. Success depends primarily on the difference between the two groups' speeds. For one sea vessel or monster to escape from another, it must make a successful throw on the [Sea Evasion](Chapter06.md#sea-evasion) table.
 
 
 #### Sea Evasion
@@ -429,12 +429,12 @@ A combatant using a weapon with a long reach (spears, for instance) may choose t
 
 When its initiative number comes up, each combatant may move up to its combat movement distance, and then attack any opponent in range. After attacking, a combatant may not move again until the next round. Opponents more than 5' apart may move freely, but once two opposing combatants are within 5' of each other, they are engaged and must abide by the rules under Defensive Movement, below.
 
-Player characters or monsters wishing to cast spells may not move on their Initiative (see [Casting Spells](#casting-spells)).
+Player characters or monsters wishing to cast spells may not move on their Initiative (see [Casting Spells](Chapter06.md#casting-spells)).
 
 
 ### Running
 
-Combatants may choose to run; a running combatant is not normally allowed to attack (but see Charging, below). Running combatants can move at their running movement rate (triple their normal combat movement rate). Combatants are allowed to run a number of rounds equal to 2 times their Constitution, after which they are exhausted and may only walk (at the normal combat rate). For monsters not having a given Constitution, allow the monster to run for 24 rounds. Exhausted combatants must rest for at least a turn before running again.
+Combatants may choose to run; a running combatant is not normally allowed to attack (but see [Charging](Chapter06.md#charging), below). Running combatants can move at their running movement rate (triple their normal combat movement rate). Combatants are allowed to run a number of rounds equal to 2 times their Constitution, after which they are exhausted and may only walk (at the normal combat rate). For monsters not having a given Constitution, allow the monster to run for 24 rounds. Exhausted combatants must rest for at least a turn before running again.
 
 
 ### Charging
@@ -537,11 +537,11 @@ During large melees, the Judge should use discretion in determining how many att
 
 ### Missile Attacks
 
-In order to attack with a missile weapon, opponents must be more than 5' apart. Combatants may not make a missile attack at opponents engaged in melee, unless they have the Precise Shooting proficiency. Missile attacks can be from bows, slings, crossbows, and even thrown items like bottles of holy water or oil flasks. Regardless of the weapon used, combatants normally only have 1 attack in a round with missile weapons (although they may sometimes get to attack again if they kill their target; see Cleaving, below).
+In order to attack with a missile weapon, opponents must be more than 5' apart. Combatants may not make a missile attack at opponents engaged in melee, unless they have the Precise Shooting proficiency. Missile attacks can be from bows, slings, crossbows, and even thrown items like bottles of holy water or oil flasks. Regardless of the weapon used, combatants normally only have 1 attack in a round with missile weapons (although they may sometimes get to attack again if they kill their target; see [Cleaving](Chapter06.md#cleaving), below).
 
 The attack throw with missile weapons is affected by Dexterity adjustments, which will provide a bonus to strike if Dexterity is high or a penalty if Dexterity is low. In addition, magical weapons will provide bonuses to attack throws and damage rolls. For instance, an arrow +1 gives a bonus of +1 to damage. A bow +1 gives a bonus of +1 to attack.
 
-All missile weapons have ranges, which must be taken into account when trying to strike an opponent at a distance. There are no bonuses or penalties for striking an opponent at short range. There is a penalty of -2 on the attack throw against an opponent that is at medium range, and a -5 penalty on the attack throw against an opponent at long range. If an opponent is further away than the long range listed, the missile weapon cannot hit that opponent at all. The Missile Weapon Ranges table shows the short, medium, and long range of various missile weapons.
+All missile weapons have ranges, which must be taken into account when trying to strike an opponent at a distance. There are no bonuses or penalties for striking an opponent at short range. There is a penalty of -2 on the attack throw against an opponent that is at medium range, and a -5 penalty on the attack throw against an opponent at long range. If an opponent is further away than the long range listed, the missile weapon cannot hit that opponent at all. The [Missile Weapon Ranges](Chapter06.md#missile-weapon-ranges) table shows the short, medium, and long range of various missile weapons.
 
 
 #### Missile Weapon Ranges
@@ -591,7 +591,7 @@ Vials of holy water can also be thrown as missile attacks. Holy water deals dama
 
 In order to cast a spell, a spellcaster must inform the Judge that a spell is being cast, and which spell will be cast, before the initiative dice are rolled. If the caster takes damage or fails a saving throw before he acts, the spell is interrupted and lost. (The spell still counts against the character's spells per day as if it had been cast.) A caster may not move or perform any other action on the round he attempts to cast a spell.
 
-A spellcaster must have a line of sight on the targets or area the spell is cast on. Unlike melee and missile attacks, spell attacks will automatically hit their chosen targets if they are within the spells' range and area of effect. However, many spells allow a saving throw that can negate or partially negate effects of spells. See the discussion on Spells in Chapter 5 and saving throws later in this chapter.
+A spellcaster must have a line of sight on the targets or area the spell is cast on. Unlike melee and missile attacks, spell attacks will automatically hit their chosen targets if they are within the spells' range and area of effect. However, many spells allow a saving throw that can negate or partially negate effects of spells. See the discussion on [Spells](Chapter05.md#spells) in Chapter 5 and [saving throws](Chapter06.md#saving-throws) later in this chapter.
 
 Some spells require that a caster concentrate to maintain them. Unless otherwise noted, a concentrating caster may move or ride at half speed, but may not engage in combat, use items, or cast other spells. A caster who takes damage or fails a saving throw loses his concentration. Note that certain spells, such as dispel evil, specify that the caster must both remain stationary and concentrate.
 
@@ -638,18 +638,18 @@ Some monsters can be damaged by magical or silver weapons only. Monsters that ca
 
 ### Effects of Damage
 
-All damage dealt is subtracted from a creature's hit points. When a creature's hit points drop to 0 or fewer, the creature is unconscious and possibly dead. The creature's condition will not be determined until an ally treats its wounds. When this occurs, the unconscious creature must roll 1d20+1d6 on the Mortal Wounds table and apply any appropriate modifiers listed. The modified 1d20 roll determines the unconscious creature's condition while the modified 1d6 roll determines whether any permanent wounds are suffered. Characters not treated within 24 hours of being unconscious must roll, with no bonus for treatment and at the full -10 penalty for being treated 1 day later.
+All damage dealt is subtracted from a creature's hit points. When a creature's hit points drop to 0 or fewer, the creature is unconscious and possibly dead. The creature's condition will not be determined until an ally treats its wounds. When this occurs, the unconscious creature must roll 1d20+1d6 on the [Mortal Wounds](Chapter06.md#mortal-wounds) table and apply any appropriate modifiers listed. The modified 1d20 roll determines the unconscious creature's condition while the modified 1d6 roll determines whether any permanent wounds are suffered. Characters not treated within 24 hours of being unconscious must roll, with no bonus for treatment and at the full -10 penalty for being treated 1 day later.
 
-*Example*: Marcus, a fighter with 36 hit points and 18 CON, is reduced to -12 hit points by dragon breath. His ally Balbus arrives the next round and casts cure serious wounds on him. Marcus now rolls on the Mortal Wounds table. His d20 roll is modified by -2 (because his hp are at a negative value greater than 1/4 his maximum hit points) +4 (from cure serious wounds) +2 (treated within one round of injury) and +3 (modifier for 18 CON) for a total adjustment of +7. He rolls a 13, modified to 20, indicating that he in shock. He is at 1hp and needs magical healing and a night's bed rest to recover. His d6 roll is a 3, indicating that he has suffered notable scarring. He and the Judge agree that this represents severe burns from the dragon's fire.
+*Example*: Marcus, a fighter with 36 hit points and 18 CON, is reduced to -12 hit points by dragon breath. His ally Balbus arrives the next round and casts cure serious wounds on him. Marcus now rolls on the [Mortal Wounds](Chapter06.md#mortal-wounds) table. His d20 roll is modified by -2 (because his hp are at a negative value greater than 1/4 his maximum hit points) +4 (from cure serious wounds) +2 (treated within one round of injury) and +3 (modifier for 18 CON) for a total adjustment of +7. He rolls a 13, modified to 20, indicating that he in shock. He is at 1hp and needs magical healing and a night's bed rest to recover. His d6 roll is a 3, indicating that he has suffered notable scarring. He and the Judge agree that this represents severe burns from the dragon's fire.
 
-If a character suffers permanent damage, a restore life and limb spell, regeneration spell, ring of regeneration, or similar magic can eliminate any penalties caused. If a character is killed, he can be revived with restore life and limb, reincarnation, or other magical effect that restores the dead to life. Characters treated with restore life and limb often need extensive periods of time to recover, and may suffer strange side effects. The character must roll 1d20+1d6 on the Tampering with Mortality table and apply any appropriate modifiers listed. The resulting side effects are permanent and can only be removed with a wish spell.
+If a character suffers permanent damage, a restore life and limb spell, regeneration spell, ring of regeneration, or similar magic can eliminate any penalties caused. If a character is killed, he can be revived with restore life and limb, reincarnation, or other magical effect that restores the dead to life. Characters treated with restore life and limb often need extensive periods of time to recover, and may suffer strange side effects. The character must roll 1d20+1d6 on the [Tampering with Mortality](Chapter06.md#tampering-with-mortality) table and apply any appropriate modifiers listed. The resulting side effects are permanent and can only be removed with a wish spell.
 
 
 ### Healing
 
-All beings recover hit points through rest. For each full day of complete rest in reasonably sanitary conditions, a character or monster will recover 1d3 hp. If the rest is interrupted, the character or monster will not heal that day. Healing also occurs through magic, such as potions or spells. This kind of healing is instantaneous. Magical healing and natural healing can be combined. Characters with the Healing proficiency can improve a creature's natural healing, as described in Chapter 4.
+All beings recover hit points through rest. For each full day of complete rest in reasonably sanitary conditions, a character or monster will recover 1d3 hp. If the rest is interrupted, the character or monster will not heal that day. Healing also occurs through magic, such as potions or spells. This kind of healing is instantaneous. Magical healing and natural healing can be combined. Characters with the [Healing](Chapter04.md#healing) proficiency can improve a creature's natural healing, as described in Chapter 4.
 
-Some results on the Mortal Wounds or Tampering with Mortality tables will indicate that a character needs a period of bed rest to recover. During this time, the character does not regain hit points from natural or magical healing, and cannot take any action other than speaking and moving at half speed. If the character is killed again before he has had sufficient rest, he cannot be treated or restored to life by anything less than ritual magic. If the table indicates that the period of bed rest can be shortened with magical healing, then any form of healing magic, including cure spells, potions, Laying On Hands, or other means, will suffice. Otherwise, the period of bed rest cannot be shortened.
+Some results on the [Mortal Wounds](Chapter06.md#mortal-wounds) or [Tampering with Mortality](Chapter06.md#tampering-with-mortality) tables will indicate that a character needs a period of bed rest to recover. During this time, the character does not regain hit points from natural or magical healing, and cannot take any action other than speaking and moving at half speed. If the character is killed again before he has had sufficient rest, he cannot be treated or restored to life by anything less than ritual magic. If the table indicates that the period of bed rest can be shortened with magical healing, then any form of healing magic, including cure spells, potions, Laying On Hands, or other means, will suffice. Otherwise, the period of bed rest cannot be shortened.
 
 
 ### Nonlethal Damage
@@ -658,11 +658,11 @@ Some attacks may inflict nonlethal damage. Nonlethal damage is subtracted from a
 
 *Example*: Marcus is fighting an ogre with 26 hit points. In the first round of combat, Marcus stabs the ogre for 8 points of damage, reducing it to 18 current hit points. In the second round of combat, Marcus starts attacking with the flat of his blade (a special maneuver, described later, that incurs a -4 penalty to his attack throw) to attempt to knock out the ogre. He inflicts 6 points of nonlethal damage in the second round and 9 points of nonlethal damage in the third round. At this point the ogre has 3 current hit points and has taken 15 nonlethal damage. In the fourth round, Marcus makes a normal attack that deals 7 points of damage. This reduces the ogre to -4 hit points. Because it has now taken a combination of normal and nonlethal damage reducing its hit points to 0 or fewer, the ogre is knocked out and possibly dead.
 
-Creatures reduced to 0hp or less by nonlethal damage are far less likely to have sustained mortal wounds. When the creature rolls on the Mortal Wounds table, modify the die roll by +1 per point of nonlethal damage dealt before the creature was knocked unconscious. (Pummeling your allies after they are incapacitated does not help them recover).
+Creatures reduced to 0hp or less by nonlethal damage are far less likely to have sustained mortal wounds. When the creature rolls on the [Mortal Wounds](Chapter06.md#mortal-wounds) table, modify the die roll by +1 per point of nonlethal damage dealt before the creature was knocked unconscious. (Pummeling your allies after they are incapacitated does not help them recover).
 
-*Example*: Immediately after the fight, Marcus rouses the ogre to interrogate it. The Judge rolls 1d20+1d6 for the ogre and gets a 9 and a 3. Marcus did not use any healing magic or have Healing proficiency, so the 1d20 roll is modified by +15 (because ogre took 15 nonlethal damage) and -2 (because it was treated after the fight), for a +13 modifier, yielding a total of 22. Cross-referencing 22 and 3 on the Mortal Wounds table, the Judge determines that the ogre awakens concussed, with 1hp, having lost 1d6 teeth. It will require 1 day of bed rest or magical healing.
+*Example*: Immediately after the fight, Marcus rouses the ogre to interrogate it. The Judge rolls 1d20+1d6 for the ogre and gets a 9 and a 3. Marcus did not use any healing magic or have Healing proficiency, so the 1d20 roll is modified by +15 (because ogre took 15 nonlethal damage) and -2 (because it was treated after the fight), for a +13 modifier, yielding a total of 22. Cross-referencing 22 and 3 on the [Mortal Wounds](Chapter06.md#mortal-wounds) table, the Judge determines that the ogre awakens concussed, with 1hp, having lost 1d6 teeth. It will require 1 day of bed rest or magical healing.
 
-Once a creature has resolved its condition on the Mortal Wounds table, all nonlethal damage is removed. Otherwise, nonlethal damage recovers at a rate of 1 hit point per hour. Spells or magical powers that cure hit point damage remove an equal amount of nonlethal damage.
+Once a creature has resolved its condition on the [Mortal Wounds](Chapter06.md#mortal-wounds) table, all nonlethal damage is removed. Otherwise, nonlethal damage recovers at a rate of 1 hit point per hour. Spells or magical powers that cure hit point damage remove an equal amount of nonlethal damage.
 
 ## Mortal Wounds
 
@@ -801,7 +801,7 @@ Not every action in combat will be a sword swing, arrow shot, or fireball. The r
 
 ### Brawling
 
-Sometimes a combatant will attack without a weapon, striking with a fist or foot. This is called brawling. Normal characters do 1d3 points of nonlethal damage with a punch, 1d4 with a kick; kicks are rolled at a -2 penalty on the attack throw. Standard Strength adjustments apply. (See the Nonlethal Damage section, above, , for details on nonlethal damage.) All character classes may engage in brawling; there is no "weapon" restriction in this case.
+Sometimes a combatant will attack without a weapon, striking with a fist or foot. This is called brawling. Normal characters do 1d3 points of nonlethal damage with a punch, 1d4 with a kick; kicks are rolled at a -2 penalty on the attack throw. Standard Strength adjustments apply. (See the [Nonlethal Damage](Chapter06.md#nonlethal-damage) section, above, for details on nonlethal damage.) All character classes may engage in brawling; there is no "weapon" restriction in this case.
 
 However, a character in light or no armor cannot successfully punch or kick a character in metal armor - if this is attempted, the damage is applied to the attacker instead of the defender. The Judge must decide which monsters can be successfully brawled with based on their AC and physical make-up. Monsters do not themselves brawl, as they have natural attacks that are as good as weapons.
 
@@ -822,7 +822,7 @@ If the opponent is pushed into another character or monster, he is knocked down 
 
 ### Incapacitate
 
-Combatants can attempt to knock out rather than kill their opponents by attacking with the "flat of the blade", pulling their blows, and so on. To make an incapacitating attack with a weapon, the combatant must succeed on a melee attack throw with a -4 penalty. If successful, the attack deals nonlethal damage. Brawling attacks (see above) are always nonlethal damage.
+Combatants can attempt to knock out rather than kill their opponents by attacking with the "flat of the blade", pulling their blows, and so on. To make an incapacitating attack with a weapon, the combatant must succeed on a melee attack throw with a -4 penalty. If successful, the attack deals nonlethal damage. [Brawling](Chapter06.md#brawling) attacks (see above) are always nonlethal damage.
 
 
 ### Knock Down
@@ -854,7 +854,7 @@ Sometimes, combatants may attempt to perform Special Maneuvers against opponents
 
 Player characters always have a choice whether they will fight, surrender, or run away in an encounter. The Judge decides whether monsters surrender or run away. Monsters have a listing for morale, which represents how likely they are to fight or flee when in an encounter. Morale is rated from -6 to +4. A score of -6 indicates that the monster never fights (unless absolutely cornered), while a score of +4 indicates the monster will fight until killed, with no morale roll necessary in either case.
 
-The Judge usually makes morale rolls under two conditions: when one side of an encounter has lost a member due to death, or when half the group on one side is either killed or otherwise incapacitated. If both results occur in the same round, one morale roll is made at a -2 penalty. Solo monsters roll morale when they lose half their hit points. To make a morale roll, the Judge rolls 2d6, adding the morale rating of the monsters, along with any other adjustments he feels are reasonable, and consults the Monster Morale table.
+The Judge usually makes morale rolls under two conditions: when one side of an encounter has lost a member due to death, or when half the group on one side is either killed or otherwise incapacitated. If both results occur in the same round, one morale roll is made at a -2 penalty. Solo monsters roll morale when they lose half their hit points. To make a morale roll, the Judge rolls 2d6, adding the morale rating of the monsters, along with any other adjustments he feels are reasonable, and consults the [Monster Morale](Chapter06.md#monster-morale) table.
 
 
 #### Monster Morale
@@ -975,7 +975,7 @@ In order to board an enemy vessel, the boarding vessel must reduce the range to 
 
 ### Swimming and Drowning
 
-Any combatant without a swimming movement rate (described in Chapter 8 under Monster Characteristics) must make a swimming throw each round he is in water too deep for him to stand. The target value for the swimming throw is equal to the combatant's encumbrance in stone. If the water is cold, rough, or fast-moving, the Judge may impose a penalty on the swimming throw of -2, -4, or more.
+Any combatant without a swimming movement rate (described in Chapter 8 under [Monster Characteristics](Chapter08.md#monster-characteristics)) must make a swimming throw each round he is in water too deep for him to stand. The target value for the swimming throw is equal to the combatant's encumbrance in stone. If the water is cold, rough, or fast-moving, the Judge may impose a penalty on the swimming throw of -2, -4, or more.
 
 A successful swimming throw allows the combatant to move and act during the round. Swimming movement may be based on either the combatant's combat or running movement rate, in either case being 1/4 the normal rate. A swimming combatant using combat movement may attack after his movement. A swimming combatant using running movement may not attack, and is subject to exhaustion as per the running rules.
 
@@ -998,7 +998,7 @@ Characters do not earn treasure XP from wages earned or business transactions - 
 
 ### Experience from Monsters
 
-All defeated monsters (either outsmarted, captured, or killed), grant XP based on how powerful they are. Monsters begin with a base XP determined by Hit Dice (HD), and receive a bonus for each special ability they have (fire breath, spell-like abilities, etc.). Refer to the Monster Experience Points table below. To determine the number of special abilities a monster has, count the number of asterisks next to its Hit Dice in its Monster Listing in Chapter 8.
+All defeated monsters (either outsmarted, captured, or killed), grant XP based on how powerful they are. Monsters begin with a base XP determined by Hit Dice (HD), and receive a bonus for each special ability they have (fire breath, spell-like abilities, etc.). Refer to the [Monster Experience Points](Chapter06.md#monster-experience-points) table below. To determine the number of special abilities a monster has, count the number of asterisks next to its Hit Dice in its [Monster Listing](Chapter08.md#monster-listings) in Chapter 8.
 
 To calculate a monster's XP, begin with the base XP value for its Hit Dice. Add the value for the XP bonus per ability, multiplied by the number of special abilities the monster has. A lamia is a HD 9 with 3 special abilities, so her bonus XP is (3 x 700 = 2,100). A group of adventurers receives 3,100 XP (1,000 + 2,100) for each lamia they defeat.
 
@@ -1049,7 +1049,7 @@ XP is divided only among characters alive when the party returns to civilization
 
 ### Adjustments to XP
 
-Characters receive XP bonuses or penalties based on their score in their class prime requisites, as detailed in Chapter 2, Characters. All bonuses or penalties are applied to the grand total XP a particular character receives at the end of an adventure. For example, if Balbus the Blessed receives 1,200 XP at the end of an adventure, and he has a prime requisite that grants him +10% to experience, then the total XP after this bonus that Balbus receives is 1,320 XP ((1,200 x .10) + 1,200 = 1,320).
+Characters receive XP bonuses or penalties based on their score in their class prime requisites, as detailed in Chapter 2, [Characters](Chapter02.md#chapter-2-characters). All bonuses or penalties are applied to the grand total XP a particular character receives at the end of an adventure. For example, if Balbus the Blessed receives 1,200 XP at the end of an adventure, and he has a prime requisite that grants him +10% to experience, then the total XP after this bonus that Balbus receives is 1,320 XP ((1,200 x .10) + 1,200 = 1,320).
 
 
 ### Character Advancement
@@ -1062,7 +1062,7 @@ When a character has accumulated enough XP to go up in level, the player should 
 
 3. Check to see if the character has improved or gained any class abilities and write them down on the character sheet.
 
-4. Choose any new proficiencies from the Proficiencies chapter and any new spells from the Spells chapter that the character may be eligible for.
+4. Choose any new proficiencies from the [Proficiencies](Chapter04.md#chapter-4-proficiencies) chapter and any new spells from the [Spells](Chapter05.md#chapter-5-spells) chapter that the character may be eligible for.
 
 5. Update the character's attack throws and saving throws.
 
