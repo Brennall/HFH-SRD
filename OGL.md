@@ -1,8 +1,8 @@
-[Previous](Chapter10.md) [Top](Chapter00.md)
+[Previous](Chapter10.md#chapter-10-secrets) [Top](Chapter00.md#table-of-contents)
 
 ---
 
-## OGL
+## Open Game License
 
 DESIGNATION OF PRODUCT IDENTITY
 
@@ -116,4 +116,4 @@ END OF LICENSE
 
 ---
 
-[Previous](Chapter10.md) [Top](Chapter00.md)
+[Previous](Chapter10.md#chapter-10-secrets) [Top](Chapter00.md#table-of-contents)

@@ -1,4 +1,4 @@
-[Previous](Chapter00.md) [Top](Chapter00.md) [Next](Chapter02.md)
+[Previous](Chapter00.md#table-of-contents) [Top](Chapter00.md#table-of-contents) [Next](Chapter02.md#chapter-2-characters)
 
 * * *
 
@@ -21,25 +21,25 @@ Whatever setting your adventures inhabit, with the Adventurer Conqueror King Sys
 
 This rulebook contains the complete rules of the Adventurer Conqueror King System, organized into the following parts.
 
-[Chapter 1](Chapter01.md), [Introduction](Chapter01.md#chapter-1-introduction), explains the concept of role-playing and defines the most important terms used in the rulebook. 
+[Chapter 1, Introduction](Chapter01.md#chapter-1-introduction), explains the concept of role-playing and defines the most important terms used in the rulebook. 
 
-[Chapter 2](Chapter02.md), [Characters](Chapter02.md#chapter-2-characters), provides numbered, easy to follow steps to create a player character, along with lists of equipment. 
+[Chapter 2, Characters](Chapter02.md#chapter-2-characters), provides numbered, easy to follow steps to create a player character, along with lists of equipment. 
 
-[Chapter 3](Chapter03.md), [Equipment](Chapter03.md#chapter-3-equipment), provides prices and statistics for the various weapons, armor, and other equipment available in the game. 
+[Chapter 3, Equipment](Chapter03.md#chapter-3-equipment), provides prices and statistics for the various weapons, armor, and other equipment available in the game. 
 
-[Chapter 4](Chapter04.md), [Proficiencies](Chapter04.md#chapter-4-proficiencies), details the various proficiencies that characters may acquire, along with information on the game mechanics of all proficiencies. 
+[Chapter 4, Proficiencies](Chapter04.md#chapter-4-proficiencies), details the various proficiencies that characters may acquire, along with information on the game mechanics of all proficiencies. 
 
-[Chapter 5](Chapter05.md), [Spells](Chapter05.md#chapter-5-spells), lists the various spells that different characters may learn and cast, along with a detailed description of each spell's effect in the game. 
+[Chapter 5, Spells](Chapter05.md#chapter-5-spells), lists the various spells that different characters may learn and cast, along with a detailed description of each spell's effect in the game. 
 
-[Chapter 6](Chapter06.md), [Adventures](Chapter06.md#chapter-6-adventures), provides rules for exploration, encounters, and combat in the dangerous and violent world that the player characters will adventure within.
+[Chapter 6, Adventures](Chapter06.md#chapter-6-adventures), provides rules for exploration, encounters, and combat in the dangerous and violent world that the player characters will adventure within.
 
-[Chapter 7](Chapter07.md), [Campaigns](Chapter07.md#chapter-7-campaigns), covers the long-range pursuits of characters as they adventure, including conducting magical research, building strongholds, and establishing domains and realms.
+[Chapter 7, Campaigns](Chapter07.md#chapter-7-campaigns), covers the long-range pursuits of characters as they adventure, including conducting magical research, building strongholds, and establishing domains and realms.
 
-[Chapter 8](Chapter08.md), [Monsters](Chapter08.md#chapter-8-monsters), contains a roster of over 100 creatures, some malefic and others benevolent, arranged alphabetically.
+[Chapter 8, Monsters](Chapter08.md#chapter-8-monsters), contains a roster of over 100 creatures, some malefic and others benevolent, arranged alphabetically.
 
-[Chapter 9](Chapter09.md), [Treasure](Chapter09.md#chapter-9-treasure), contains descriptions and explanations of the different types of treasure, including rare and wondrous magic items, which adventures may find.
+[Chapter 9, Treasure](Chapter09.md#chapter-9-treasure), contains descriptions and explanations of the different types of treasure, including rare and wondrous magic items, which adventures may find.
 
-[Chapter 10](Chapter10.md), [Secrets](Chapter10.md#chapter-10-secrets), provides guidelines for the Judge on constructing campaign settings, designing dungeons, and judging the game. 
+[Chapter 10, Secrets](Chapter10.md#chapter-10-secrets), provides guidelines for the Judge on constructing campaign settings, designing dungeons, and judging the game. 
 
 
 ## The Basics of The Game
@@ -181,4 +181,5 @@ TT           | Treasure Type
 
 * * *
 
-[Previous](Chapter00.md) [Top](Chapter00.md) [Next](Chapter02.md)
+[Previous](Chapter00.md#table-of-contents) [Top](Chapter00.md#table-of-contents) [Next](Chapter02.md#chapter-2-characters)
+

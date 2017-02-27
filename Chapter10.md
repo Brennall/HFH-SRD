@@ -1,4 +1,4 @@
-[Previous](Chapter09.md) [Top](Chapter00.md) [Next](OGL.md)
+[Previous](Chapter09.md#chapter-9-treasure) [Top](Chapter00.md#table-of-contents) [Next](OGL.md#open-game-license)
 
 ---
 
@@ -1374,4 +1374,4 @@ Williams, Tad. Memory, Sorrow, and Thorn.
 
 ---
 
-[Previous](Chapter09.md) [Top](Chapter00.md) [Next](OGL.md)
+[Previous](Chapter09.md#chapter-9-treasure) [Top](Chapter00.md#table-of-contents) [Next](OGL.md#open-game-license)

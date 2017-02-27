@@ -1,4 +1,4 @@
-[Previous](Chapter06.md) [Top](Chapter00.md) [Next](Chapter08.md)
+[Previous](Chapter06.md#chapter-6-adventures) [Top](Chapter00.md#table-of-contents) [Next](Chapter08.md#chapter-8-monsters)
 
 * * *
 
@@ -1467,4 +1467,4 @@ When a 0th level character advances to 1st level, he gains the Adventuring profi
 
 * * *
 
-[Previous](Chapter06.md) [Top](Chapter00.md) [Next](Chapter08.md)
+[Previous](Chapter06.md#chapter-6-adventures) [Top](Chapter00.md#table-of-contents) [Next](Chapter08.md#chapter-8-monsters)

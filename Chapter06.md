@@ -1,4 +1,4 @@
-[Previous](Chapter05.md) [Top](Chapter00.md) [Next](Chapter07.md)
+[Previous](Chapter05.md#chapter-5-spells) [Top](Chapter00.md#table-of-contents) [Next](Chapter07.md#chapter-7-campaigns)
 
 * * *
 
@@ -1088,4 +1088,4 @@ A 0th level character who participates in an adventure will earn experience poin
 
 * * *
 
-[Previous](Chapter05.md) [Top](Chapter00.md) [Next](Chapter07.md)
+[Previous](Chapter05.md#chapter-5-spells) [Top](Chapter00.md#table-of-contents) [Next](Chapter07.md#chapter-7-campaigns)

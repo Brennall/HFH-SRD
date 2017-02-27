@@ -1,4 +1,4 @@
-[Previous](Chapter02.md) [Top](Chapter00.md) [Next](Chapter04.md)
+[Previous](Chapter02.md#chapter-2-characters) [Top](Chapter00.md#table-of-contents) [Next](Chapter04.md#chapter-4-proficiencies)
 
 * * *
 
@@ -841,4 +841,5 @@ Cure disease is a 3rd level spell, so the Judge rolls 1d3 to determine how many 
 
 * * *
 
-[Previous](Chapter02.md) [Top](Chapter00.md) [Next](Chapter04.md)
+[Previous](Chapter02.md#chapter-2-characters) [Top](Chapter00.md#table-of-contents) [Next](Chapter04.md#chapter-4-proficiencies)
+
