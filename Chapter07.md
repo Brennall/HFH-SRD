@@ -331,7 +331,7 @@ The gp value of all spells charitably cast on behalf of peasants by the spellcas
 
 1. The gp value of any hirelings deployed as missionaries in the realm by the spellcaster; and
 
-2. The gp value of any religious structures erected in the realm by the spellcaster (using the Stronghold Structure Costs in the [Strongholds and Domains](Chapter07.md#strongholds-and-domains) section).
+2. The gp value of any religious structures erected in the realm by the spellcaster (using the [Stronghold Structure Costs](Chapter07.md#stronghold-structure-costs) in the [Strongholds and Domains](Chapter07.md#strongholds-and-domains) section).
 
 
 For every full 1,000gp value, the divine spellcaster gains a number of congregants equal to 1d10 + CHA bonus. The divine spellcaster cannot acquire more congregants than exist in the realm that he is proselytizing within.

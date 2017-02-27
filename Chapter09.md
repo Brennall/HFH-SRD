@@ -6,18 +6,18 @@
 # Chapter 9: Treasure
 
 
-Along with fame and derring-do, treasure is one of the primary motivations of adventuring parties.  Money is not only used to purchase new weapons, equipment, and strongholds; each gold piece worth of coins, gems, and jewelry brought safely back to civilization gives the character 1 experience point (as described in Chapter 6, Earning Experience from Adventures). In most campaigns, experience from treasure recovered from dungeons or the wilderness will be the main source of character level advancement.
+Along with fame and derring-do, treasure is one of the primary motivations of adventuring parties.  Money is not only used to purchase new weapons, equipment, and strongholds; each gold piece worth of coins, gems, and jewelry brought safely back to civilization gives the character 1 experience point (as described in Chapter 6, [Earning Experience from Adventures](Chapter06.md#earning-experience-from-adventures). In most campaigns, experience from treasure recovered from dungeons or the wilderness will be the main source of character level advancement.
 
 Magic items are the other, even more alluring element of treasure hoards. While characters are not awarded experience points for recovering and keeping magic items, they are highly sought-after nonetheless, as they grant bonuses and special abilities that can give parties a survival edge when they venture into ever more dangerous locations and face mightier monsters.
 
 
 ## Random Treasure Generation
 
-Treasure will usually be found in the lairs of monsters. Each monster entry in Chapter 8, Monsters, designates whether or not that type of monster has the possibility of treasure. Those that do are given a Treasure Type (TT), which indicates what kinds and quantities of treasure a monster might have.
+Treasure will usually be found in the lairs of monsters. Each monster entry in Chapter 8, [Monsters](Chapter08.md#chapter-8-monsters), designates whether or not that type of monster has the possibility of treasure. Those that do are given a Treasure Type (TT), which indicates what kinds and quantities of treasure a monster might have.
 
-The Treasure Types are lettered from A to R, with TT A yielding the smallest hoards and TT R the largest. To randomly generate a monster's treasure, the Judge finds the row on the Treasure Type table that corresponds to the monster's TT. For each column on the row, the Judge rolls the appropriate dice to determine whether the specified treasure is present, and if so, in what quantity. When the dice indicate that gems, jewelry, or magic items are present, the specific treasures found in these categories are then determined using sub-tables provided after the Treasure Types table. If the presence of magic items is indicated, but no specific type is indicated, the type is determined by rolling on the Random Magic Type table. Judges wishing to create more diverse and interesting treasures may then combine the treasure generated into lots and use the Special Treasures table, as described below.
+The Treasure Types are lettered from A to R, with TT A yielding the smallest hoards and TT R the largest. To randomly generate a monster's treasure, the Judge finds the row on the [Treasure Type](Chapter09.md#treasure-type-table) table that corresponds to the monster's TT. For each column on the row, the Judge rolls the appropriate dice to determine whether the specified treasure is present, and if so, in what quantity. When the dice indicate that gems, jewelry, or magic items are present, the specific treasures found in these categories are then determined using sub-tables provided after the [Treasure Types](Chapter09.md#treasure-type-table) table. If the presence of magic items is indicated, but no specific type is indicated, the type is determined by rolling on the [Random Magic Type](Chapter09.md#random-magic-type) table. Judges wishing to create more diverse and interesting treasures may then combine the treasure generated into lots and use the Special Treasures table, as described below.
 
-The Treasure Type table is designed to place a total amount of treasure in any given lair or dungeon equal to four times the XP value of the monsters in the area. Thus, on average, the amount of treasure assigned to a monster by its Treasure Type equals four times its XP. However, there is a correction factor that compensates for encounters with monsters that have no treasure by assigning other types of monsters more treasure. For example, in a dungeon level 2 stocked with the default random monster tables, over half the encounters will be with monsters like zombies and giant bats that do not carry treasure. The remaining dungeon level 2 monsters that do carry treasure therefore have been assigned treasure worth eight times their XP value. In this way, the overall gp to XP ratio within that set of monsters remains approximately 4:1.
+The [Treasure Type](Chapter09.md#treasure-type-table) table is designed to place a total amount of treasure in any given lair or dungeon equal to four times the XP value of the monsters in the area. Thus, on average, the amount of treasure assigned to a monster by its Treasure Type equals four times its XP. However, there is a correction factor that compensates for encounters with monsters that have no treasure by assigning other types of monsters more treasure. For example, in a dungeon level 2 stocked with the default random monster tables, over half the encounters will be with monsters like zombies and giant bats that do not carry treasure. The remaining dungeon level 2 monsters that do carry treasure therefore have been assigned treasure worth eight times their XP value. In this way, the overall gp to XP ratio within that set of monsters remains approximately 4:1.
 
 In addition to their quantitative rank, the Treasure Types are further sub-divided into three categories, representing the method by which the monsters have accumulated the treasure: by hoarding, by raiding, or incidentally. Hoarding monsters are typically intelligent enough to appreciate the value of wealth, and powerful enough to gain and defend substantial amounts of it. Hoarder Treasure Types (B, D, H, N, Q, R) feature a roughly equal mix of coins and other valuables, and typically yield values far in excess of their weight (usually 10 stone or less).
 
@@ -36,7 +36,7 @@ The Judge is never required to roll for treasure, and there will be many cases w
 
 When creating a dungeon or other adventure area, one easy way to generate treasure is to calculate the sum of all XP from monsters in the area, and then choose a Treasure Type whose average value is close to four times this sum. If the category of this treasure table (hoarder, raider, or incidental) does not seem appropriate to the area, the Judge should instead choose a Treasure Type from the appropriate category that has the closest average value. The Judge should then randomly generate treasure for the area using the selected table. Because probabilities are involved, the result may not match the desired value. If the outcome is too much treasure, the Judge can add more monsters or remove some treasure. If too little treasure results, the Judge can make up the difference with special treasures placed by hand. It is also fine to go with high or low results; over time, the law of averages will assert itself.
 
-*Example*: An underground crypt has been stocked with 20 skeletons (13 XP each), 1 wight (110 XP), 4 giant vampire bats (20 XP each) and 7 pit vipers (40 XP each), for a total of 730 XP. The crypt treasure should be around four times that total (4 x 730), or 2,920gp. This is close to the 3,250gp average value of Treasure Type I. Treasure Type I is an incidental type treasure, which seems appropriate for the crypt's burial goods. Using row I on the Treasure Type table, the Judge rolls 2,000 silver pieces and 5 pieces of jewelry, and places some of this treasure in the coffins guarded by the undead and the rest on the corpse of a bandit at the bottom of a pit trap.
+*Example*: An underground crypt has been stocked with 20 skeletons (13 XP each), 1 wight (110 XP), 4 giant vampire bats (20 XP each) and 7 pit vipers (40 XP each), for a total of 730 XP. The crypt treasure should be around four times that total (4 x 730), or 2,920gp. This is close to the 3,250gp average value of Treasure Type I. Treasure Type I is an incidental type treasure, which seems appropriate for the crypt's burial goods. Using row I on the [Treasure Type](Chapter09.md#treasure-type-table) table, the Judge rolls 2,000 silver pieces and 5 pieces of jewelry, and places some of this treasure in the coffins guarded by the undead and the rest on the corpse of a bandit at the bottom of a pit trap.
 
 It is always up to the Judge to decide how much treasure he wishes to allow into the campaign. The amount of treasure allowed in the campaign will directly control the speed at which the adventurers level, as well as their overall power and capabilities. The Judge should not allow the dice to trump good sense or ruin careful dungeon design.
 
@@ -67,9 +67,9 @@ R Hoarder    | 45,000gp         | None                   | None                 
 
 ### Gems
 
-When gems are found, the Judge may roll to determine their value in gold pieces on the Gem Value table. All gems may be assigned the same value, they may be given individual values, or they may be divided up into groups and given different values. The average value of gems is 200gp per stone.
+When gems are found, the Judge may roll to determine their value in gold pieces on the [Gem Value](Chapter09.md#gem-value) table. All gems may be assigned the same value, they may be given individual values, or they may be divided up into groups and given different values. The average value of gems is 200gp per stone.
 
-Gems appearing in a treasure hoard may be specified to be ornamentals or brilliants. Ornamentals have a value between 10 - 50gp (average 30), and may be randomly generated by rolling 2d20 on the chart below. Brilliants are between 500 - 10,000gp (average 4,000), and are generated by rolling 1d100 + 80. The Treasure Type table uses the most valuable gems to minimize the number of rolls on the gem sub-table for Judges who are randomizing each separately; those who wish a hoard consisting of more lower value gems may convert each brilliant to 11 gems, and each gem to 7 ornamentals.
+Gems appearing in a treasure hoard may be specified to be ornamentals or brilliants. Ornamentals have a value between 10 - 50gp (average 30), and may be randomly generated by rolling 2d20 on the chart below. Brilliants are between 500 - 10,000gp (average 4,000), and are generated by rolling 1d100 + 80. The [Treasure Type](Chapter09.md#treasure-type-table) table uses the most valuable gems to minimize the number of rolls on the gem sub-table for Judges who are randomizing each separately; those who wish a hoard consisting of more lower value gems may convert each brilliant to 11 gems, and each gem to 7 ornamentals.
 
 *Example*: The Judge's results for TT Q indicate that 3 brilliants are present in a hoard. Seeing that their average value is 5,000gp each, the Judge could actually place this 15,000gp in gems as one 10,000gp flawless blue diamond, three 1,000gp rubies, four 250gp pearls, and ten 10gp quartz crystals, or any other combination desired.
 
@@ -100,7 +100,7 @@ Roll           | Value (gp)     | Type
 
 ### Jewelry
 
-Jewelry can vary in value in a similar manner to gems. The Jewelry Value table can be rolled on to determine the value of each individual piece of jewelry. The average value of jewelry is 1,000gp per piece.
+Jewelry can vary in value in a similar manner to gems. The [Jewelry Value](Chapter09.md#jewelry-value) table can be rolled on to determine the value of each individual piece of jewelry. The average value of jewelry is 1,000gp per piece.
 
 Jewelry appearing in a treasure hoard may be specified to be trinkets or regalia. Trinkets have values of 2-800gp (average 225), and are generated using 2d20 on the chart below. Regalia values range from 1,000-80,000gp (average 12,000) and can be generated using 1d100 + 80. The treasure charts give jewelry treasures using the most valuable unit of jewelry for the convenience of randomizing each one separately; Judges wishing to use average values to generate a larger quantity of jewelry may convert each piece of regalia to 12 pieces of jewelry, each of which may be in turn converted to four trinkets.
 
@@ -131,7 +131,7 @@ Roll           | Value (gp)     | Type
 
 Not all treasure should be coin, gems, and jewelry. Ancient cities might hold terracotta pottery or rare dyes and pigments. The tombs of ancient kings might have trinkets of carved ivory. Goblin raiders might have captured spices, silk, or rare furs. These items are called special treasures.
 
-Judges should note that many of the items appearing as special treasures are designed to be congruent with the types of merchandise appearing on the Merchandise table in Chapter 7, Mercantile Ventures. Players who are not interested in using the arbitrage trading system described in that chapter to maximize the return they achieve from selling special treasures are under no obligation to do so. The value listed for the special treasure is its base value as a trade good, and in general it can be sold for that amount without further thought. However, the Judge is within his rights to decide that a special treasure sells for less, or cannot be sold at all, in a market where the demand for that type of merchandise is low. And players may be inspired to pursue mercantile ventures after observing a merchants' barely-disguised glee when they sell a special treasure for its base value in a market where demand is high!
+Judges should note that many of the items appearing as special treasures are designed to be congruent with the types of merchandise appearing on the [Merchandise](Chapter07.md#merchandise-tables) table in Chapter 7, [Mercantile Ventures](Chapter07.md#mercantile-ventures). Players who are not interested in using the arbitrage trading system described in that chapter to maximize the return they achieve from selling special treasures are under no obligation to do so. The value listed for the special treasure is its base value as a trade good, and in general it can be sold for that amount without further thought. However, the Judge is within his rights to decide that a special treasure sells for less, or cannot be sold at all, in a market where the demand for that type of merchandise is low. And players may be inspired to pursue mercantile ventures after observing a merchants' barely-disguised glee when they sell a special treasure for its base value in a market where demand is high!
 
 To include special treasures in a hoard, first calculate the treasure normally and divide it into lots: 1 piece of jewelry, 1 gem, or 1,000 coins is a lot. Then roll on the table below for each lot of coin, gems, and jewelry and substitute the special treasure rolled for that lot of coin, gems, or jewelry.
 
@@ -690,7 +690,7 @@ Imbiber Level | Levels Granted
 **Plant Control**: The imbiber of a potion of plant control is able to control plants or plant-like creatures (including fungi and molds) within an area of 30' x 30' to a range of 60'. Intelligent plant-like creatures may resist the effect with a saving throw versus Staffs, but unintelligent plants receive no saving throw. The controlled plants will obey the user's will, and even if the plant is not normally mobile, the potion grants the ability to make the plants move. For instance, vines can be controlled to twist, writhe, and wrap around targets in the area. Intelligent plant-like creatures can be given orders, subject to the normal limitations of charm monster, but will be hostile when the control ends.
 
 
-**Poison**: Poison always appears like a normal magic potion, but if any amount is ingested, even a sip, the imbiber must save versus Poison or die. Poison is also fatal if applied to open wounds. A poison potion can be used to envenom twenty missiles (arrows, bolts, or darts) or one melee weapon. See the Poisons section in Chapter 10 for more information on using poison.
+**Poison**: Poison always appears like a normal magic potion, but if any amount is ingested, even a sip, the imbiber must save versus Poison or die. Poison is also fatal if applied to open wounds. A poison potion can be used to envenom twenty missiles (arrows, bolts, or darts) or one melee weapon. See the [Poisons](Chapter10.md#poisons) section in Chapter 10 for more information on using poison.
 
 
 **Polymorph (self)**: This potion grants its imbiber the ability to polymorph himself into a new form. Apart from its duration, it is otherwise identical to the arcane spell of the same name.
@@ -1343,11 +1343,26 @@ When an influence check is called for, the willpower of the sword and the willpo
 
 If the character loses, then he loses control of his actions for an amount of time determined by the Judge. The sword will force the character to perform a task, such as disposing of or ignoring magic items if a second magical sword is found. Other actions include compelling the wielder into combat or surrender with a nearby foe, or making the character perform another action that serves the desires and goals of the sword. Usually, the duration of control will only be for several rounds until the task is completed.
 
-#### Sentient weapon Motivations
+#### Sentient Weapon Motivations
 
 Sentient weapons have a 5% probability of having a particular motivation (roll 01-05 on d00). These motivations involve the destruction of particular races, monster types, or alignments. If a sword has a motivation, raise its INT and EGO each to 12.
 
 Roll on the table below to determine a sentient weapon's motivation. Alternatively, the Judge may choose an opponent type based on differing characteristics (all reptiles, beings of a certain religion, etc.).
+
+Roll 1d10 | Destroy Opponent Type...
+--------: | -------------------------
+ 1        | Judge's choice
+ 2        | Beastmen
+ 3        | Constructs
+ 4        | Fantastic Creatures
+ 5        | Giant Humanoids
+ 6        | Humans & Demi-humans
+ 7        | Summoned Creatures
+ 8        | Oozes & Vermin
+ 9        | Undead
+10        | Opposed alignment (lawful if chaotic, chaotic if lawful, either if neutral
+
+
 
 When a sentient weapon is used to attack an opponent that fits its motivation, a special power is used against the opponent. These powers are determined by the alignment of the sword. A chaotic sword will energy drain an opponent of the appropriate type by one level per point of magical bonus. A lawful sword will strike an opponent of the appropriate type for one extra damage die per point of magical bonus. A neutral sword will grants the sword wielder a bonus to Armor Class and saving throws equals to its magical bonus when combating an appropriate opponent.
 
@@ -1357,7 +1372,7 @@ When a sentient weapon is used to attack an opponent that fits its motivation, a
 
 Sentient weapons can have two kinds of additional powers: detection powers and spell-like powers. The sword wielder must be holding the sword to activate and maintain any of its powers, and no more than one power can be active at once.
 
-Detection powers allow the sword to detect any of a number of possible items or inclinations. All detection powers are identical to either wands or spells of the same type, and all the same rules apply. Each of a sword's detection powers may be used up to 3 times per day. Spell-like powers mimic spells or have effects similar to those of spells. All spell-like powers may only be used 3 times total in one day. To determine powers, roll on the Detection Powers table and ignore identical results if required to roll more than once. The same holds true if required to roll on the Spell-like Powers table.
+Detection powers allow the sword to detect any of a number of possible items or inclinations. All detection powers are identical to either wands or spells of the same type, and all the same rules apply. Each of a sword's detection powers may be used up to 3 times per day. Spell-like powers mimic spells or have effects similar to those of spells. All spell-like powers may only be used 3 times total in one day. To determine powers, roll on the [Detection Powers](Chapter09.md#detection-powers) table and ignore identical results if required to roll more than once. The same holds true if required to roll on the [Spell-like Powers](Chapter09.md#spell-like-powers) table.
 
 
 #### Detection Powers
@@ -1402,7 +1417,7 @@ Roll d100      | Power            | Additional Details
 
 ## Buying and Selling Magic Items
 
-In any campaign, adventurers will seek to buy and sell magic items. ACKS assumes that the market for magic items is illiquid and inefficient. Most magic items found by adventurers were created long ago, and are of dubious origin and uncertain ownership history, which drives their price down. The majority of magic items created during the campaign are assumed to be for mage's personal use and research, or commissioned pieces created for exceptionally wealthy patrons. The Magic Item Transactions by Market Class table governs buying and selling magic items.
+In any campaign, adventurers will seek to buy and sell magic items. ACKS assumes that the market for magic items is illiquid and inefficient. Most magic items found by adventurers were created long ago, and are of dubious origin and uncertain ownership history, which drives their price down. The majority of magic items created during the campaign are assumed to be for mage's personal use and research, or commissioned pieces created for exceptionally wealthy patrons. The [Magic Item Transactions by Market Class](Chapter09.md#magic-item-transactions-by-market-class) table governs buying and selling magic items.
 
 
 #### Magic Item Transactions by Market Class
@@ -1437,7 +1452,7 @@ Adventurers can buy magic items for twice the base cost to make the item. In ord
 
 On occasion, adventurers may commission powerful spellcasters to create magic items on their behalf. Spellcasters powerful enough to create magic items for hire can only be found in Class I markets, or through adventures.
 
-The advantage to commissioning a magic item is that the item can be made exactly to the adventurer's specification. The disadvantages are cost and time. The base cost and time required to create a magic item is listed on the Magic Item Creation table in Chapter 7 under Magic Research. The adventurer commissioning the item will be responsible up front for paying the base cost and the cost of any precious materials, and for providing any required special components. If the spellcaster successfully completes the item, the adventurer will then be charged an additional fee equal to 7,000gp per month, or twice the base cost, whichever is greater.
+The advantage to commissioning a magic item is that the item can be made exactly to the adventurer's specification. The disadvantages are cost and time. The base cost and time required to create a magic item is listed on the [Magic Item Creation](Chapter07.md#magic-item-creation) table in Chapter 7 under [Magic Research](Chapter07.md#magic-research). The adventurer commissioning the item will be responsible up front for paying the base cost and the cost of any precious materials, and for providing any required special components. If the spellcaster successfully completes the item, the adventurer will then be charged an additional fee equal to 7,000gp per month, or twice the base cost, whichever is greater.
 
 *Example*: Marcus hires a mage to create a suit of plate armor +3 (base cost 35,000gp, base time 8 months). After describing the elaborate appearance he demands, Marcus pays 35,000gp. He also pays for 30,000gp worth of precious materials to be used in the items construction, to help ensure its successful creation (and to make it look spectacular). Finally, he delivers the special component, the iron hides of 25 gorgons, to the mage. When the mage completes the armor 8 months later, Marcus pays him an additional 70,000gp (twice the base cost). Marcus has spent 135,000gp on his armor, enough to build a keep.
 

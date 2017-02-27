@@ -26,7 +26,7 @@ When creating his setting's map(s), the Judge must consider many questions. Wher
 
 ### Developing the Realms
 
-Once the Judge has converted or created maps for his setting, the next step is to begin to develop the realms that will populate the maps. The two tables below create realms compatible with the ACKS domain mechanics. The Realms by Type table shows a number of different types of realms, ranging from lowly baronies to huge empires. For each type of realm, the table provides the realm's population, the number of individual domains in the realm, and the size of the realm in square miles, 6-mile hexes, and 24-mile hexes. (Note that this data corresponds with the tiers shown in Tiers by Realm Size table in the Strongholds and Domains rules in Chapter 7). The Political Divisions of Realms table shows how many vassal realms of each type exist within a larger realm. If desired, each of these vassal realm can also be created using the Realms by Type table.
+Once the Judge has converted or created maps for his setting, the next step is to begin to develop the realms that will populate the maps. The two tables below create realms compatible with the ACKS domain mechanics. The [Realms by Type](Chapter10.md#realms-by-type) table shows a number of different types of realms, ranging from lowly baronies to huge empires. For each type of realm, the table provides the realm's population, the number of individual domains in the realm, and the size of the realm in square miles, 6-mile hexes, and 24-mile hexes. (Note that this data corresponds with the tiers shown in [Titles of Nobility](Chapter07.md#titles-of-nobility-1) table in the [Strongholds and Domains](Chapter07.md#strongholds-and-domains) rules in Chapter 7). The [Political Divisions of Realms](Chapter10.md#political-divisions-of-realms) table shows how many vassal realms of each type exist within a larger realm. If desired, each of these vassal realm can also be created using the [Realms by Type](Chapter10.md#realms-by-type) table.
 
 If the Judge is converting an existing fictional or real-world setting, he can guide this process using the any available information about the size of the setting's realms (in square miles) and/or the population of the setting's realms.
 
@@ -62,7 +62,9 @@ March              | -        | -        | -              | -              | -  
 Barony             | -        | -        | -              | -              | -              | -              | 1
 
 
-*Example*: On the Judge's campaign map, he has drawn a vast nation covering 1,130 24-mile hexes. This qualifies it as an "empire". At the suggested 5,000 families per 24-mile hex, the empire has a population of 5.6 million families. Following the Political Divisions of Realms table, the Judge decides the empire is divided into 5 "exarchates" (kingdoms), each controlling 1.1 million families and spanning 226 24-mile hexes (113,000,000 square miles). He divides each exarchate into 6 "prefectures" (principalities), each controlling 183,000 families and spanning 37 24-mile hexes (18,500 square miles). He decides that he will further develop one of these prefectures as the starting region for the adventurers. His regional map should therefore assign the prefecture about 600 6-mile hexes of settled land (approximately 18,500 miles).
+*Example*: On the Judge's campaign map, he has drawn a vast nation covering 1,130 24-mile hexes. This qualifies it as an "empire". At the suggested 5,000 families per 24-mile hex, the empire has a population of 5.6 million families. Following the [Political Divisions of Realms](Chapter10.md#political-divisions-of-realms) table, the Judge decides the empire is divided into 5 "exarchates" (kingdoms), each controlling 1.1 million families and spanning 226 24-mile hexes (113,000,000 square miles). He divides each exarchate into 6 "prefectures" (principalities), each controlling 183,000 families and spanning 37 24-mile hexes (18,500 square miles). He decides that he will further develop one of these prefectures as the starting region for the adventurers. His regional map should therefore assign the prefecture about 600 6-mile hexes of settled land (approximately 18,500 miles).
+
+The [Revenue by Realm Type](Chapter10.md#revenue-by-realm-type) table below shows the size of the personal domain of various tiers of nobility, their monthly income from domains, and their monthly income from urban settlements. The [Revenue by Realm Type](Chapter10.md#revenue-by-realm-type) table assumes that at each tier of nobility, the nobles have 4-6 vassals of the next tier below them, who each hold a vassal realm, as per the [Political Division of Realms](Chapter10.md#political-divisions-of-realms). The Judge can use this chart to quickly decide the income and holdings of NPCs or vassals in a realm based on their size, population, or other factors. He can also use it to determine the value of very large player character realms by quickly selecting values for their vassal realms rather than creating them all.
 
 
 #### Revenue by Realm Type
@@ -78,9 +80,7 @@ March          | 320                                 | 45,000                   
 Barony         | 160                                 | 22,500                         | 120-200                      | 450-750                      | 0
 
 
-The Revenue by Realm Type table below shows the size of the personal domain of various tiers of nobility, their monthly income from domains, and their monthly income from urban settlements. The Revenue by Realm Type table assumes that at each tier of nobility, the nobles have 4-6 vassals of the next tier below them, who each hold a vassal realm, as per the Political Division of Realms. The Judge can use this chart to quickly decide the income and holdings of NPCs or vassals in a realm based on their size, population, or other factors. He can also use it to determine the value of very large player character realms by quickly selecting values for their vassal realms rather than creating them all.
-
-*Example*: The Judge needs to determine the realm of Lazar, an NPC Exarch of a southern Imperial province. He has already decided that the Southern province has a population of 3,000,000, which equates to 600,000 families. Reviewing the Realms by Type table, he sees this is about 30% of the maximum size of a Kingdom. Exactly 30% of 7,776 is 2,332.8; he decides that the Southern province will consist of 2,300 domains. On the Revenue by Realm Type table, he estimates that Exarch Lazar should earn about 140,000gp per month from his domains and another 25,000gp per month from various urban settlements.
+*Example*: The Judge needs to determine the realm of Lazar, an NPC Exarch of a southern Imperial province. He has already decided that the Southern province has a population of 3,000,000, which equates to 600,000 families. Reviewing the [Realms by Type](Chapter10.md#realms-by-type) table, he sees this is about 30% of the maximum size of a Kingdom. Exactly 30% of 7,776 is 2,332.8; he decides that the Southern province will consist of 2,300 domains. On the [Revenue by Realm Type](Chapter10.md#revenue-by-realm-type) table, he estimates that Exarch Lazar should earn about 140,000gp per month from his domains and another 25,000gp per month from various urban settlements.
 
 
 #### Adjusting Population Density
@@ -104,11 +104,11 @@ Note that hexes which have no settled inhabitants and which are not garrisoned d
 
 ### Placing Villages, Towns, and Cities
 
-Once the Judge has developed one or more realms within his campaign setting, his next step should be to determine the number and location of major urban settlements within the realm(s). The Villages, Towns, and Cities of the Realm table shows the overall urban population based on the number of peasant families present in any given realm (or portion thereof). It also shows the largest settlement that will exist in any given realm. The largest settlement should generally be placed on a body of water or cross-roads in or near the most populous domain of the realm.
+Once the Judge has developed one or more realms within his campaign setting, his next step should be to determine the number and location of major urban settlements within the realm(s). The [Villages, Towns, and Cities of the Realm](Chapter10.md#villages-towns-and-cities-placement) table shows the overall urban population based on the number of peasant families present in any given realm (or portion thereof). It also shows the largest settlement that will exist in any given realm. The largest settlement should generally be placed on a body of water or cross-roads in or near the most populous domain of the realm.
 
-The Villages, Towns, and Cities Placement table can be used in conjunction with the Political Divisions of the Realm table to develop the complete urban demographics of a realm. Starting with the largest vassal ream and working downward, find the largest settlement for each vassal realm on the Villages, Towns, and Cities of the Realm table and place this settlement on the map somewhere within its appropriate realm. Urban settlements should generally be placed on rivers, lakes, coastlines and roads. After all cities, towns, and villages are placed, the remainder of the population is assumed to live in isolated homesteads and hamlets. When placing urban settlements on the map, the Judge can safely ignore Class IV and smaller settlements on the 24-mile campaign map, and Class VI settlements on the 6-mile hex regional map.
+The [Villages, Towns, and Cities Placement](Chapter10.md#villages-towns-and-cities-placement) table can be used in conjunction with the [Political Divisions of the Realm](Chapter10.md#political-divisions-of-realms) table to develop the complete urban demographics of a realm. Starting with the largest vassal ream and working downward, find the largest settlement for each vassal realm on the [Villages, Towns, and Cities of the Realm](Chapter10.md#villages-towns-and-cities-placement) table and place this settlement on the map somewhere within its appropriate realm. Urban settlements should generally be placed on rivers, lakes, coastlines and roads. After all cities, towns, and villages are placed, the remainder of the population is assumed to live in isolated homesteads and hamlets. When placing urban settlements on the map, the Judge can safely ignore Class IV and smaller settlements on the 24-mile campaign map, and Class VI settlements on the 6-mile hex regional map.
 
-The monthly revenue of various urban settlements has already been factored into the values listed on the Revenue by Realm Type table.
+The monthly revenue of various urban settlements has already been factored into the values listed on the [Revenue by Realm Type](Chapter10.md#revenue-by-realm-type) table.
 
 
 #### Villages, Towns, and Cities Placement
@@ -133,7 +133,7 @@ Realm/Domain Population (families)    | Urban Population (families)    | Largest
 *A Class VI market will exist at the domain's stronghold only.
 
 
-*Example*: Exarch Lazar's realm, the exarchate of the South, consists of 2,300 domains with a total population of 600,000 peasant families (3,000,000 people). According to the Villages, Towns, and Cities Placement table, it has an urban population of 60,000 families and one large city of 12,000 families. His realm is divided up into 5 vassal realms, each ruled by a prefect with a population of 117,500 peasant families. Each prefect's vassal realm has one small city of 2,350 families. Each prefect's realm is divided between 4 palatines, each with about 27,500 peasant families. Each palatine's vassal realm has one small town of 550 families. Each palatine's realm is divided between 6 legates, each with about 4,333 peasant families. Each legate's vassal realm has one small village of 90 families. Each legate's realm is divided between 5 tribunes, each with about 700 peasant families. The tribune's realms, and their subordinate castellans' realms, have nothing larger than isolated homesteads and small hamlets. Thus the South has one large city (12,000 families), 5 small cities (2,350 families each, or 11,750 total), 20 small towns (550 families each, or 11,000), and 120 small villages (90 families each, or 10,800). This accounts for a total urban population of 45,500 families, or 7.5% of the total population. The remaining 14,500 urban families live in small hamlets sprinkled around the realm's domains.
+*Example*: Exarch Lazar's realm, the exarchate of the South, consists of 2,300 domains with a total population of 600,000 peasant families (3,000,000 people). According to the [Villages, Towns, and Cities Placement](Chapter10.md#villages-towns-and-cities-placement) table, it has an urban population of 60,000 families and one large city of 12,000 families. His realm is divided up into 5 vassal realms, each ruled by a prefect with a population of 117,500 peasant families. Each prefect's vassal realm has one small city of 2,350 families. Each prefect's realm is divided between 4 palatines, each with about 27,500 peasant families. Each palatine's vassal realm has one small town of 550 families. Each palatine's realm is divided between 6 legates, each with about 4,333 peasant families. Each legate's vassal realm has one small village of 90 families. Each legate's realm is divided between 5 tribunes, each with about 700 peasant families. The tribune's realms, and their subordinate castellans' realms, have nothing larger than isolated homesteads and small hamlets. Thus the South has one large city (12,000 families), 5 small cities (2,350 families each, or 11,750 total), 20 small towns (550 families each, or 11,000), and 120 small villages (90 families each, or 10,800). This accounts for a total urban population of 45,500 families, or 7.5% of the total population. The remaining 14,500 urban families live in small hamlets sprinkled around the realm's domains.
 
 
 #### Adjusting Urban Demographics
@@ -166,7 +166,7 @@ Roll 1d3-1d3 for each type of merchandise, giving a range of -2 to +2 for the ma
 
 #### 2. Apply Environmental Adjustments
 
-Adjust the base demand modifiers for each type of merchandise based on the domain's environment, including its age, water source (if any), climate, and elevation. Simply consult the Environmental Adjustments to Demand table, below, and apply all relevant modifiers for the market. Drop any fractions remaining after all modifiers have been applied.
+Adjust the base demand modifiers for each type of merchandise based on the domain's environment, including its age, water source (if any), climate, and elevation. Simply consult the [Environmental Adjustments to Demand](Chapter10.md#environmental-adjustments-to-demand) table, below, and apply all relevant modifiers for the market. Drop any fractions remaining after all modifiers have been applied.
 
 *Example*: The Judge is designing a domain beyond the borders of the Southern Province. The domain is located on a hilly section of sylvan woods (deciduous forest, hills) near the Mirmen River (river bank). It has never been settled before, so its age is 0. Beginning with Grain, he starts generating his new domain's demand modifiers. He rolls 1d3-1d3 for Grain and gets a score of -1. This is then modified by an additional -1 (0 years old), -1 (river bank), and - 1/2 (deciduous forest), for a total of -3 1/2 . Dropping the fraction, he notes that his domain has a demand modifier of -3 for Grain. This process is repeated for each other type of merchandise.
 
@@ -280,7 +280,7 @@ Gems             | -1 1/2       | -1/2           |  0                | +1/2     
 
 ### Assign NPC Rulers
 
-At this point, the Judge will have a map of his campaign setting, divided into a series of realms, each with its own cities, towns, and villages, each with demand modifiers and trade routes. The next step is to begin to populate the setting with an appropriate number of high-level NPC rulers. The Demographics of Leveled Characters table shows the approximate frequency of leveled characters per person and the likely realm such a character might control. The Maximum NPC Population by Realm Type table shows the maximum number of characters of each level that are likely to exist in a realm of the given population.
+At this point, the Judge will have a map of his campaign setting, divided into a series of realms, each with its own cities, towns, and villages, each with demand modifiers and trade routes. The next step is to begin to populate the setting with an appropriate number of high-level NPC rulers. The [Demographics of Leveled Characters](Chapter10.md#demographics-of-leveled-characters) table shows the approximate frequency of leveled characters per person and the likely realm such a character might control. The [Maximum NPC Population by Realm Type](Chapter10.md#maximum-npc-population-by-realm-type) table shows the maximum number of characters of each level that are likely to exist in a realm of the given population.
 
 The Judge does not need to assign every domain in his setting an NPC ruler in advance or calculate exactly where every NPC is located. It's sufficient if the Judge determines the NPC ruler for the each of the highest-tier realms of his overall campaign setting, and the NPC rulers of the largest realms, cities and towns on his regional map.
 
@@ -364,7 +364,7 @@ When the Judge has finished constructing the region, he will have placed settlem
 
 The starting city should generally be a border town with a low level dungeon situated somewhere nearby. The population, demand modifiers, and ruler of the starting city should have already been selected in previous steps, but now the Judge must flesh these out into a description of the city. The starting city should have its tribune, lord mayor, sheriff, or other authority figured given a name, title, level, and class. It should have one or more churches for prominent religions, a thieves' guild, and a city militia that is appropriate in size and power to the size of the settlement.
 
-The Starting Cities table, below, can help the Judge construct a starting city that is compatible with ACKS. On the Minimum Ruler Level category, the standard value is for an independent city, while the parenthetical value is for a settlement within an appropriately sized realm (see Placing Villages, Towns, and Cities).
+The [Starting Cities](Chapter10.md#starting-cities) table, below, can help the Judge construct a starting city that is compatible with ACKS. On the Minimum Ruler Level category, the standard value is for an independent city, while the parenthetical value is for a settlement within an appropriately sized realm (see [Placing Villages, Towns, and Cities](Chapter10.md#placing-villages-towns-and-cities)).
 
 
 #### Starting Cities
@@ -385,7 +385,7 @@ Settlement Population          | Settlement Type        | Minimum Ruler Level   
 
 ### Determine Criminal Guilds
 
-Given the unsavory nature of many adventurers, the thieves' guild and other criminal organizations within the starting city should be developed in detail. The Starting City Criminal Guilds table can guide the Judge in constructing a criminal guild compatible with ACKS.
+Given the unsavory nature of many adventurers, the thieves' guild and other criminal organizations within the starting city should be developed in detail. The [Starting City Criminal Guilds](Chapter10.md#starting-city-criminal-guilds) table can guide the Judge in constructing a criminal guild compatible with ACKS.
 
 
 #### Starting City Criminal Guilds
@@ -406,7 +406,7 @@ Highest Boss Level is the expected level of the most powerful boss in the starti
 
 Monthly Syndicate Revenue is how much gold the boss's syndicate in the starting city generates per month. Monthly Guild Revenue shows how much gold the boss's criminal guild generates, factoring in syndicates run by underbosses in other cities, towns, and villages. If the starting city is isolated or highly independent, its syndicate may not be part of a larger guild (Judge's discretion)
 
-The Starting City Criminal Guilds table assumes that the settlement's criminals have been consolidated into a single guild managed directly by one boss. If desired, the Judge may split a settlement's criminals into multiple competing or complimentary guilds. For example, a Class I metropolis might have 3 competing thieves' guilds with 750 members each and a separate assassins' guild of 750 members. Where this is done, highest boss level, monthly syndicate revenue, and monthly guild revenue should be based on the guild membership of each guild, rather than the market class of the settlement.
+The [Starting City Criminal Guilds](Chapter10.md#starting-city-criminal-guilds) table assumes that the settlement's criminals have been consolidated into a single guild managed directly by one boss. If desired, the Judge may split a settlement's criminals into multiple competing or complimentary guilds. For example, a Class I metropolis might have 3 competing thieves' guilds with 750 members each and a separate assassins' guild of 750 members. Where this is done, highest boss level, monthly syndicate revenue, and monthly guild revenue should be based on the guild membership of each guild, rather than the market class of the settlement.
 
 *Example*: There is a Class IV settlement, meaning it should have 100 members in its criminal guilds. The Judge decides it has 2 thieves' guild of 42 members and one assassins' guild of 16 members. He decides the first thieves' guild is led by Nicodos (7th level Thief) and the other by Syrena (7th level Thief), both earning 3,3,350gp per month. The assassin's guild is run by Rollio (5th level Assassin), earning 1,500gp per month.
 
@@ -466,11 +466,11 @@ Roll   | Dungeon Type
 
 ### Stocking the Dungeon
 
-After the map for the location has been drawn, the Judge must stock the dungeon with dangerous monsters, traps, and treasure. The Judge can choose where to place these, or roll randomly on the Dungeon Stocking table.
+After the map for the location has been drawn, the Judge must stock the dungeon with dangerous monsters, traps, and treasure. The Judge can choose where to place these, or roll randomly on the [Dungeon Stocking](Chapter10.md#dungeon-stocking) table.
 
-Roll on the Dungeon Stocking table once for each room on each level of the dungeon. Each roll may result in either an empty room, a monster encounter, a trap, or a unique dungeon feature. Record the results for each dungeon level separately. Each set of results indicates what will be found on that level of the dungeon. Then assign each result to a specific room according to the interaction between the logic of the dungeon and the nature of the result, following the guidelines below.
+Roll on the [Dungeon Stocking](Chapter10.md#dungeon-stocking) table once for each room on each level of the dungeon. Each roll may result in either an empty room, a monster encounter, a trap, or a unique dungeon feature. Record the results for each dungeon level separately. Each set of results indicates what will be found on that level of the dungeon. Then assign each result to a specific room according to the interaction between the logic of the dungeon and the nature of the result, following the guidelines below.
 
-*Example*: The Judge has mapped a single level dungeon with fifteen rooms. He rolls on the Dungeon Stocking table fifteen times. He gets four "empty" results, eight "monster" results, two "trap" results, and one "unique" result. His next step will be to place these results onto his dungeon map in a logical (or at least entertaining) manner.
+*Example*: The Judge has mapped a single level dungeon with fifteen rooms. He rolls on the [Dungeon Stocking](Chapter10.md#dungeon-stocking) table fifteen times. He gets four "empty" results, eight "monster" results, two "trap" results, and one "unique" result. His next step will be to place these results onto his dungeon map in a logical (or at least entertaining) manner.
 
 
 #### Dungeon Stocking
@@ -486,13 +486,13 @@ Roll d100      | Contents       | Treasure
 
 ### Placing Monsters
 
-For each "monster" result obtained on the above table, the Judge must choose or roll for a monster encounter appropriate for the dungeon level it appears on. The Wandering Monster tables, below, can be used for this purpose. The Judge should begin by rolling on the Dungeon Wandering Monster Level to determine which table to consult. The Judge should then consult the Random Monsters by Level table to determine the specific monster and the number appearing.
+For each "monster" result obtained on the above table, the Judge must choose or roll for a monster encounter appropriate for the dungeon level it appears on. The Wandering Monster tables, below, can be used for this purpose. The Judge should begin by rolling on the [Dungeon Wandering Monster Level](Chapter10.md#dungeon-wandering-monster-level) to determine which table to consult. The Judge should then consult the [Random Monsters by Level](Chapter10.md#random-monsters-by-level) table to determine the specific monster and the number appearing.
 
-*Example*: The Judge obtained eight "monster" results on the Dungeon Stocking table. He decides to roll randomly to determine the specific monsters. Since this is a single level dungeon, he rolls eight times on the Dungeon Wandering Monster Level table for Dungeon Level 1. The dice indicate that seven of the monster encounters will be of Monster Level 1, and one will be of Monster Level 2. Rolling on the Monster Level 1 sub-table, his results are 8, 11, 3, 1, 1, 1, 1, resulting in 4 encounters with 2d4 goblins each; 1 encounter with 1d12 morlocks; 1 encounter with 3d6 giant rats; and 1 encounter with 1d10 stirges. Rolling once on the Monster Level 2 sub-table, his result is an 8, indicating an encounter with 1d6 pit vipers.
+*Example*: The Judge obtained eight "monster" results on the [Dungeon Stocking](Chapter10.md#dungeon-stocking) table. He decides to roll randomly to determine the specific monsters. Since this is a single level dungeon, he rolls eight times on the [Dungeon Wandering Monster Level](Chapter10.md#dungeon-wandering-monster-level) table for Dungeon Level 1. The dice indicate that seven of the monster encounters will be of Monster Level 1, and one will be of Monster Level 2. Rolling on the Monster Level 1 sub-table, his results are 8, 11, 3, 1, 1, 1, 1, resulting in 4 encounters with 2d4 goblins each; 1 encounter with 1d12 morlocks; 1 encounter with 3d6 giant rats; and 1 encounter with 1d10 stirges. Rolling once on the Monster Level 2 sub-table, his result is an 8, indicating an encounter with 1d6 pit vipers.
 
 Next, the Judge must assign each monster encounter to a room in the dungeon level. Monsters generated from a lower-level table might be placed near stairs or other inter-level passages connecting them to their natural level, or surrounding the lair of an intelligent monster from the current dungeon level which employs the lower-level monsters as guards. Intelligent monsters from higher-level tables might be placed in hidden or inaccessible areas, while unintelligent powerful monsters might have a whole dungeon area to themselves, shunned by other creatures.
 
-When placing monsters the Judge should consult the monster entries in Chapter 7 to determine if the monsters are in a lair. Monsters with lairs will have treasure, as detailed below in Assigning Treasure. For most creatures, such as giant rats or centipedes, the Judge can simply check against the monster's % In Lair to see whether the monsters have a lair in the dungeon or are just temporarily holing up. If monsters are in their lair, the Judge can add additional encounters with the same type of monster nearby in order to scale up the number of creatures to the full lair amount, if desired.
+When placing monsters the Judge should consult the monster entries in Chapter 8 to determine if the monsters are in a lair. Monsters with lairs will have treasure, as detailed below in Assigning Treasure. For most creatures, such as giant rats or centipedes, the Judge can simply check against the monster's % In Lair to see whether the monsters have a lair in the dungeon or are just temporarily holing up. If monsters are in their lair, the Judge can add additional encounters with the same type of monster nearby in order to scale up the number of creatures to the full lair amount, if desired.
 
 *Example*: The Judge consults the monster entries to find the % In Lair for giant rats (10%), stirges (40%) and pit vipers (none). He rolls for % In Lair for the rats and stirges, and determines that the stirges are in a lair. A lair of stirges can be as many as 3d12, but he decides to stick with one encounter of 1d10 stirges so as not to overwhelm the dungeon with stirges.
 
@@ -535,7 +535,7 @@ There are many possibilities for what kind of traps to place in a dungeon. All t
 
 Unique encounters are special encounters or special areas that stand out from encounters in most other rooms, such as talking statues, pits with slides down to other rooms or dungeon levels, magical illusions, scrying pools, teleporting doorways, and mysterious fountains whose water confers beneficial or baleful effects. The Judge should think out each unique encounter carefully. The special effects of unique encounters might be known to some of the dungeon inhabitants and used for their own ends. One reward of figuring out the trick of a unique encounter could be that adventurers can likewise benefit, for example by sending charmed creatures through a teleporter to cause havoc, using a slide to gain access to a hidden area of the dungeon, or evading pursuit by hiding behind an illusory wall.
 
-Not all unique rooms involve monsters, but the when the Judge chooses to do so, he can select from a variety of monsters which are well suited for creating tricks and surprises. The Unique Monsters table lists monsters appropriate for unique rooms on each level. Some of these creatures, like skeletons, golems, and animated statue, can be plausibly employed to power mechanisms like elevator cages and roundabouts, as well as acting as guardians for those who might interfere with their workings. Enchanted monsters like invisible stalkers, elementals, djinni, and efreeti are frequently bound to a room with instructions to perform some task, the purpose of which may have long since become meaningless. Those who can free them from this servitude may gain great rewards. Deceptive monsters such as rot grubs, ochre jelly, and doppelgangers may create tricky situations by acting on their own initiative, for example by infesting what appears to be a haul of treasure and merchandise or taking up residence in a seemingly empty room. Those who construct dungeons may also find these creatures useful in preparing a surprise for intruders. A pit trap is an ordinary dungeon stocking result, but a pit trap filled with a gelatinous cube or a rust monster is deserving of the "unique" appellation.
+Not all unique rooms involve monsters, but the when the Judge chooses to do so, he can select from a variety of monsters which are well suited for creating tricks and surprises. The [Unique Monsters](Chapter10.md#unique-monsters) table lists monsters appropriate for unique rooms on each level. Some of these creatures, like skeletons, golems, and animated statue, can be plausibly employed to power mechanisms like elevator cages and roundabouts, as well as acting as guardians for those who might interfere with their workings. Enchanted monsters like invisible stalkers, elementals, djinni, and efreeti are frequently bound to a room with instructions to perform some task, the purpose of which may have long since become meaningless. Those who can free them from this servitude may gain great rewards. Deceptive monsters such as rot grubs, ochre jelly, and doppelgangers may create tricky situations by acting on their own initiative, for example by infesting what appears to be a haul of treasure and merchandise or taking up residence in a seemingly empty room. Those who construct dungeons may also find these creatures useful in preparing a surprise for intruders. A pit trap is an ordinary dungeon stocking result, but a pit trap filled with a gelatinous cube or a rust monster is deserving of the "unique" appellation.
 
 
 #### Unique Monsters
@@ -554,7 +554,7 @@ Dungeon Level  | Monsters
 
 After all monsters, traps, and unique features have been placed in the dungeon, the Judge should assign treasure to the various rooms.
 
-Monsters will have treasure if they are in their lair. Empty and trap rooms will have treasure 15% and 30% of the time respectively. If treasure is present, the treasure should be determined based on the Treasure Type of the monster encountered, or from the Unprotected Treasure table for treasures that appear in conjunction with empty or trap rooms.
+Monsters will have treasure if they are in their lair. Empty and trap rooms will have treasure 15% and 30% of the time respectively. If treasure is present, the treasure should be determined based on the Treasure Type of the monster encountered, or from the [Unprotected Treasure](Chapter10.md#unprotected-treasure) table for treasures that appear in conjunction with empty or trap rooms.
 
 
 #### Unprotected Treasure
@@ -579,7 +579,7 @@ Treasure placed in rooms with traps could be hidden, or it could be placed on th
 
 Treasure should be placed in rooms with unique encounters as needed. Sometimes this will be necessary to round out the ratio of wealth to experience points on the level, as described below. An obvious treasure may also be needed to tempt adventurers into engaging with a room's unique feature. Always suspecting a trick of some kind, dungeon explorers are typically wary of stepping into rooms with lifelike statuary, checkerboard floors, or arcane glyphs. Placing treasure on the other side of such hazards may encourage further exploration, especially if the treasure is not an obvious lure which raises suspicion in its own right.
 
-As a final stage of treasure placement, the Judge should sum up the treasure placed on the level and compare it to the total number of experience points available from monsters on the level. The ideal ratio is 4gp worth of treasure for every 1 XP from monsters. The random monster charts are designed to yield this result on average, but as the action of probability does not always yield average results, the Judge may need to adjust the result. When too little treasure appears, the Judge may wish to remove some monsters or add more treasure; doing the opposite will help address an overbalance that produces too much treasure. More details are provided in Chapter 9, Planned Treasure Generation.
+As a final stage of treasure placement, the Judge should sum up the treasure placed on the level and compare it to the total number of experience points available from monsters on the level. The ideal ratio is 4gp worth of treasure for every 1 XP from monsters. The random monster charts are designed to yield this result on average, but as the action of probability does not always yield average results, the Judge may need to adjust the result. When too little treasure appears, the Judge may wish to remove some monsters or add more treasure; doing the opposite will help address an overbalance that produces too much treasure. More details are provided in Chapter 9, [Planned Treasure Generation](Chapter09.md#planned-treasure-generation).
 
 
 ### Finishing the Dungeon Design
@@ -593,7 +593,7 @@ In addition, a multi-level dungeon used for extensive play should be considered 
 
 Monsters often live in the tunnels, caves, and chambers of dungeons, or lair in the treetops, natural caves, and warrens of the wilderness. However, monsters do not only stay where they live. They also wander, hunt, and explore, both underground and in the wild. Indeed, some monsters never stop moving long enough to make a lair at all. Such creatures are called wandering monsters, and they can represent a dire threat to adventures.
 
-The Judge should check for wandering monsters periodically during the course of an adventure by making an encounter throw. The frequency of encounter throws and the required target value will vary depending on the adventurer's activities and location. If an encounter throw results in a wandering monster, the Judge will then consult the Wandering Monster tables to determine what has been encountered, and then adjudicate the encounter using the Encounter rules from Chapter 6.
+The Judge should check for wandering monsters periodically during the course of an adventure by making an encounter throw. The frequency of encounter throws and the required target value will vary depending on the adventurer's activities and location. If an encounter throw results in a wandering monster, the Judge will then consult the Wandering Monster tables to determine what has been encountered, and then adjudicate the encounter using the [Encounter](Chapter06.md#encounters) rules from Chapter 6.
 
 
 ### Wandering Monsters in the Dungeon
@@ -602,17 +602,17 @@ When the characters are in a dungeon, the Judge should make an encounter throw e
 
 When a dungeon wandering monster encounter occurs, the following steps should be followed:
 
-1. Find the row of the Dungeon Wandering Monster Level table that shows the dungeon level on which the monster has been encountered. Roll 1d12 and read across to find the column specifying which Random Monster table will be used to generate the monster. Roll 1d12 on the resulting Random Monster by Level table to determine the type of creature encountered.
+1. Find the row of the [Dungeon Wandering Monster Level](Chapter10.md#dungeon-wandering-monster-level) table that shows the dungeon level on which the monster has been encountered. Roll 1d12 and read across to find the column specifying which Random Monster table will be used to generate the monster. Roll 1d12 on the resulting [Random Monster by Level](Chapter10.md#random-monsters-by-level) table to determine the type of creature encountered.
 
 2. Roll the appropriate number encountered for the creature to determine how many are present. Increase or decrease this roll by one-half for each step of difference between the dungeon level and the Random Monster table used (round down). For example, consulting Random Monster table #3 might indicate 1d6 wights. A roll of 5 would result in 1 wight if this encounter takes place on level 1; 2 on level 2; 5 on level 3; 7 on level 4; or 10 on level 5.
 
 3. Roll 2d6 x 10 to determine the encounter distance in feet separating the characters and monster(s) at the point when the characters may become aware of the monster, unless factors such as light source, dungeon geometry, etc. take precedence. The Judge should take into account the dungeon layout and known placement of other monsters to determine the direction from which the wandering monsters are approaching.
 
-Roll for surprise and reactions as described in Chapter 6, Dungeon Encounters. Modify the reaction roll by the difference between the Random Monster table used and the dungeon level of the encounter. For instance, if the wights from table 3 are encountered on level 5, they have a -2 penalty to reaction rolls; if encountered on level 1, they have a +2 bonus to reaction rolls. The numerical superiority of monsters traveling deeper into the dungeon makes them more likely to attack. On the other hand, powerful monsters wandering on an upper level are more inclined to view the party as tools than threats.
+Roll for surprise and reactions as described in Chapter 6, [Dungeon Encounters](Chapter06.md#dungeon-encounters). Modify the reaction roll by the difference between the Random Monster table used and the dungeon level of the encounter. For instance, if the wights from table 3 are encountered on level 5, they have a -2 penalty to reaction rolls; if encountered on level 1, they have a +2 bonus to reaction rolls. The numerical superiority of monsters traveling deeper into the dungeon makes them more likely to attack. On the other hand, powerful monsters wandering on an upper level are more inclined to view the party as tools than threats.
 
 
 
-#### Random Monster by Level
+#### Dungeon Wandering Monster Level
 
 Dungeon Level    | 1       | 2       | 3      | 4      | 5      | 6
 ---------------: | ------: | ------: | -----: | -----: | -----: | ------:
@@ -663,14 +663,14 @@ The first consideration in dungeon design is providing a mix of challenges. Some
 
 The final category - usually entries 9-12 on each wandering monster table - are men and monsters, who often exploit or prey upon the other monsters on the level. This category of monsters is less communal and more independent than beastmen, and more intelligent and/or more supernatural than vermin. Dealing with men and monsters allows adventurers to use their unique solutions to problems, from turning undead to avoiding a petrifying gaze. The last entry in this category is always reserved for NPC parties, who may be rival adventurers from civilized lands or potent emissaries from monstrous domains; these encounters are especially challenging because NPC parties tend to have goals, capabilities, and ruthless priorities similar to those of the player characters.
 
-An equally important consideration in designing a dungeon level is placing an appropriate and varied assortment of treasure. Fortunately, having a varied mix of monster roles tends to also ensure a good diversity in treasure. Beastmen tend to be raiders, with sizable but relatively low-level hoards extorted from weaker creatures or received in payment for serving stronger ones. Vermin often have incidental treasure, as many might be attracted to shiny objects or have an ecology that involves gathering the corpses of creatures that do carry wealth. And most hoarders - organized or strong creatures powerful enough to gain and defend the highest-value, lowest-bulk treasure - occupy the men and monsters role. For further information on treasure categories, see Random Treasure Generation in Chapter 9.
+An equally important consideration in designing a dungeon level is placing an appropriate and varied assortment of treasure. Fortunately, having a varied mix of monster roles tends to also ensure a good diversity in treasure. Beastmen tend to be raiders, with sizable but relatively low-level hoards extorted from weaker creatures or received in payment for serving stronger ones. Vermin often have incidental treasure, as many might be attracted to shiny objects or have an ecology that involves gathering the corpses of creatures that do carry wealth. And most hoarders - organized or strong creatures powerful enough to gain and defend the highest-value, lowest-bulk treasure - occupy the men and monsters role. For further information on treasure categories, see [Random Treasure Generation](Chapter09.md#random-treasure-generation) in Chapter 9.
 
-The last, and perhaps most important, factor in creating a wandering monster table is choosing monsters whose capabilities are appropriate to the dungeon level. The Wandering Monster Table Guidelines table indicates the criteria used to design the sample encounter tables above. It is recommended that Judges creating a new table follow these guidelines for selecting most or all of its monsters. While it is certainly desirable for adventurers to face both stronger and weaker monsters, the Dungeon Wandering Monster Level table consulted when rolling for each encounter will do much to ensure that this is the case. Adventurers will often do the rest, by seeking out depths too dangerous for them or slumming in the shallows which offer little challenge (and little reward). Having random tables that are appropriate to each level thus allows chance, and the equally random factor of player choice, to determine which level's table comes into play.
+The last, and perhaps most important, factor in creating a wandering monster table is choosing monsters whose capabilities are appropriate to the dungeon level. The [Wandering Monster Table Guidelines](Chapter10.md#wandering-monster-table-guidelines) table indicates the criteria used to design the sample encounter tables above. It is recommended that Judges creating a new table follow these guidelines for selecting most or all of its monsters. While it is certainly desirable for adventurers to face both stronger and weaker monsters, the [Dungeon Wandering Monster Level](Chapter10.md#dungeon-wandering-monster-level) table consulted when rolling for each encounter will do much to ensure that this is the case. Adventurers will often do the rest, by seeking out depths too dangerous for them or slumming in the shallows which offer little challenge (and little reward). Having random tables that are appropriate to each level thus allows chance, and the equally random factor of player choice, to determine which level's table comes into play.
 
 
 ### Wandering Monsters in the Wilderness
 
-When the characters in the wilderness, the Judge should make an encounter throw once per day if they are stationary or in settled terrain. Otherwise, the Judge should make an encounter throw each time the adventurers enter a new 6-mile hex. The chance of encountering a wandering monster in the wilderness varies depending on the type of terrain. To check for wandering monsters, throw 1d6 and consult the Encounter Frequency by Terrain table.
+When the characters in the wilderness, the Judge should make an encounter throw once per day if they are stationary or in settled terrain. Otherwise, the Judge should make an encounter throw each time the adventurers enter a new 6-mile hex. The chance of encountering a wandering monster in the wilderness varies depending on the type of terrain. To check for wandering monsters, throw 1d6 and consult the [Encounter Frequency by Terrain](Chapter10.md#encounter-frequency-by-terrain) table.
 
 
 #### Encounter Frequency by Terrain
@@ -684,19 +684,19 @@ Barren, Desert, Jungle, Mountains, or Swamp    | 4+
 
 When a wilderness wandering monster encounter occurs, the following steps should be followed:
 
-1. Roll 1d8 on the appropriate column of the Wilderness Encounters by Terrain table and consult the resulting sub-table.
+1. Roll 1d8 on the appropriate column of the [Wilderness Encounters by Terrain](Chapter10.md#wilderness-encounters-by-terrain) table and consult the resulting sub-table.
 
 2. Roll 1d12 on the resulting sub-table to determine the type of creature encountered.
 
-3. Find the encountered creature's entry in the Monster chapter and roll against its % In Lair to determine whether the creature is in its lair. If the creature is in its lair, a dynamic lair can be used (if one is available).
+3. Find the encountered creature's entry in the [Monster](Chapter08.md#chapter-8-monsters) chapter and roll against its % In Lair to determine whether the creature is in its lair. If the creature is in its lair, a dynamic lair can be used (if one is available).
 
 4. Otherwise, roll the appropriate number encountered for the creature to determine how many are present.
 
 5. If the encounter is in the creature's lair, roll against the creature's Treasure Type.
 
-6. Roll on the Wilderness Encounter Distance table (see Wilderness Encounters in Chapter 6) to determine how many yards away the characters are from the creature(s) at the start of the encounter. If the creature is in its lair, the encounter distance is the distance to the lair. If the creature is outside its lair, the encounter distance is the distance to the creature.
+6. Roll on the [Wilderness Encounter Distance](Chapter06.md#encounter-distance) table (see [Wilderness Encounters](Chapter06.md#wilderness-encounters) in Chapter 6) to determine how many yards away the characters are from the creature(s) at the start of the encounter. If the creature is in its lair, the encounter distance is the distance to the lair. If the creature is outside its lair, the encounter distance is the distance to the creature.
 
-7. Roll for surprise, initiative, and reaction as described in Chapter 6, Wilderness Encounters.
+7. Roll for surprise, initiative, and reaction as described in Chapter 6, [Wilderness Encounters](Chapter06.md#wilderness-encounters).
 
 
 #### Wilderness Encounters by Terrain
@@ -952,7 +952,7 @@ Level       | Treasure Type
 14          | R
 
 
-Each NPC party will have a base level, which is the average for the party as a whole. When NPCs are encountered in a dungeon, their base level will be determined by the dungeon level they are encountered on, as shown on the Random Monsters by Level tables. When NPCs are encountered in a wilderness, their base level should be based on the maximum level of the nearest dungeon. When NPCs are encountered in a settlement, their base level is 7, less the settlement's market class. Once the base level of the party is determined, roll 1d6 on the NPC Level table to determine the level of each NPCs in the party.
+Each NPC party will have a base level, which is the average for the party as a whole. When NPCs are encountered in a dungeon, their base level will be determined by the dungeon level they are encountered on, as shown on the [Random Monsters by Level](Chapter10.md#random-monsters-by-level) tables. When NPCs are encountered in a wilderness, their base level should be based on the maximum level of the nearest dungeon. When NPCs are encountered in a settlement, their base level is 7, less the settlement's market class. Once the base level of the party is determined, roll 1d6 on the NPC Level table to determine the level of each NPCs in the party.
 
 If desired, the Judge can replace one or more of the NPCs present with 2 NPCs of the same class but two levels lower. These characters would be henchmen of the higher level characters present in the NPC party.
 
@@ -970,7 +970,7 @@ The following rules cover a variety of circumstances that may arise when a Judge
 
 ### Aging and Death
 
-If the Judge intends to run his campaign over the course of game years, adventurers may grow old and die, so tracking character age becomes relevant. The Character Starting Age table gives a range of starting ages by character class.
+If the Judge intends to run his campaign over the course of game years, adventurers may grow old and die, so tracking character age becomes relevant. The [Character Starting Age](Chapter10.md#character-starting-age) table gives a range of starting ages by character class.
 
 
 #### Character Starting Age
@@ -985,7 +985,7 @@ Dwarven Craftpriest    | 25+2d8       | Mage                     | 17+3d6
 Dwarven Vaultguard     | 23+3d4       | Thief                    | 15+1d8
 
 
-The Character Aging table shows the lifespan of the human, demi-human, and humanoid races, broken into five age categories (Youth, Adult, Middle Aged, Old, and Ancient). Elves, being ageless, never progress past adult.
+The [Character Aging](Chapter10.md#character-aging) table shows the lifespan of the human, demi-human, and humanoid races, broken into five age categories (Youth, Adult, Middle Aged, Old, and Ancient). Elves, being ageless, never progress past adult.
 
 
 #### Character Aging
@@ -1000,7 +1000,7 @@ Human          | 13-17          | 18-35          | 36-55                  | 56-7
 Halfling       | 14-21          | 22-42          | 43-65                  | 66-95          | 96-125
 
 
-At each stage, progressively adjust the character's ability scores as noted on the Ability Score Adjustments by Age table. For characters generated at an already advanced age, the cumulative ability score adjustments appropriate to the character's age can be used. Ability score adjustments from aging cannot reduce an ability score below a class minimum, and in no case lower than 3.
+At each stage, progressively adjust the character's ability scores as noted on the [Ability Score Adjustments by Age](Chapter10.md#ability-score-adjustments-by-age) table. For characters generated at an already advanced age, the cumulative ability score adjustments appropriate to the character's age can be used. Ability score adjustments from aging cannot reduce an ability score below a class minimum, and in no case lower than 3.
 
 
 #### Ability Score Adjustments by Age
@@ -1033,7 +1033,7 @@ Restore life and limb does not raise characters who have died from old age.
 
 ### Poisons
 
-As detailed in the Monsters chapter, many monsters have deadly natural poisons. If the Judge permits, other characters or monsters may use poison. Poisons can be acquired from three sources: monster venoms, plant toxins, or magical poisons. At the Judge's discretion, certain markets may also sell monster venoms, plant toxins, and magical poisons, so gp costs are listed below for each type of poison.
+As detailed in the [Monsters](Chapter08.md#chapter-8-monsters) chapter, many monsters have deadly natural poisons. If the Judge permits, other characters or monsters may use poison. Poisons can be acquired from three sources: monster venoms, plant toxins, or magical poisons. At the Judge's discretion, certain markets may also sell monster venoms, plant toxins, and magical poisons, so gp costs are listed below for each type of poison.
 
 
 #### Monster Venoms
@@ -1042,7 +1042,7 @@ Characters with Naturalism proficiency can identify venomous monsters and distin
 
 Once extracted, monster venoms can be applied to weapons. Each monster yields one dose of its venom. A dose is enough venom to treat twenty missiles (arrows, bolts, or darts) or one melee weapon. Note that venoms applied to missiles and melee weapons are not as effective as they are when coming from the monster itself. Venomous monsters penetrate their prey's skin with hollow fangs or tubular stingers, then use muscles attached to their venom reservoirs to forcibly squirt venom deep within the target's body tissue. In comparison, a sword or arrow is simply a less effective mechanism for delivering poison.
 
-The Monster Venoms table shows the market cost, onset time, save modifier, and effects of monster venoms when applied to missiles and melee weapons.
+The [Monster Venoms](Chapter10.md#monster-venoms-1) table shows the market cost, onset time, save modifier, and effects of monster venoms when applied to missiles and melee weapons.
 
 
 #### Monster Venoms
@@ -1070,11 +1070,11 @@ Dragon Blood                   | 1,500gp                | Instant               
 
 #### Plant Toxins
 
-Characters with Naturalism proficiency can search for a fresh specimen of poisonous plants each week. A successful proficiency throw against the target value for the plant (listed on the Plant Toxins table below) gathers enough fresh plant to extract one dose of toxin. Dried belladonna and wolfsbane can be easily found in most markets, but are more difficult to extract useful toxin from.
+Characters with Naturalism proficiency can search for a fresh specimen of poisonous plants each week. A successful proficiency throw against the target value for the plant (listed on the [Plant Toxins](Chapter10.md#plant-toxins-1) table below) gathers enough fresh plant to extract one dose of toxin. Dried belladonna and wolfsbane can be easily found in most markets, but are more difficult to extract useful toxin from.
 
 Extracting the toxin from the raw plant takes 1 week per plant and requires a successful Alchemy proficiency throw of 14+ for fresh plants and 17+ for dried plants. If either the proficiency throw to gather the plant, or to extract the plant toxin, is an unmodified 1, the character has accidentally exposed himself to the toxin. The character must immediately save versus Poison or suffer its effects.
 
-Each plant yields one dose of its toxin. Some plant toxins can be used to treat weapons. For these toxins, a dose is enough to treat twenty missiles (arrows, bolts, or darts) or one melee weapon. Other toxins can be used to poison food or drink. In this case, one dose is enough to poison one meal or drink. Extracted plant toxins generally cannot be detected by smell or taste. The Plant Toxins table shows the market cost, onset time, save modifier of the various plant toxins.
+Each plant yields one dose of its toxin. Some plant toxins can be used to treat weapons. For these toxins, a dose is enough to treat twenty missiles (arrows, bolts, or darts) or one melee weapon. Other toxins can be used to poison food or drink. In this case, one dose is enough to poison one meal or drink. Extracted plant toxins generally cannot be detected by smell or taste. The [Plant Toxins](Chapter10.md#plant-toxins-1) table shows the market cost, onset time, save modifier of the various plant toxins.
 
 
 #### Plant Toxins
@@ -1095,7 +1095,7 @@ Yew                    | 4+                     | 200gp                  | 1 hou
 
 #### Magical Poisons
 
-Magical poisons are created using the rules for magic research in Chapter 7. The most common magical poison is a poison potion, created using the 4th level reversed divine spell poison. A single poison potion can treat twenty missiles (arrows, bolts, or darts) or one melee weapon. A weapon treated with magical poison kills instantly unless the victim makes a successful saving throw versus Poison. Magical poison is also fatal if ingested.
+Magical poisons are created using the rules for [magic research](Chapter07.md#magic-research) in Chapter 7. The most common magical poison is a poison potion, created using the 4th level reversed divine spell poison. A single poison potion can treat twenty missiles (arrows, bolts, or darts) or one melee weapon. A weapon treated with magical poison kills instantly unless the victim makes a successful saving throw versus Poison. Magical poison is also fatal if ingested.
 
 ### Use of Poison
 
@@ -1113,10 +1113,12 @@ Slaves are divided into 5 types: Slave laborers, slave soldiers, household slave
 
 Slave laborers do manual work, usually of the most unpleasant sort, such as farming on plantations, mining ore, or building pyramids. Slave laborers can be bought in markets at a cost of 40gp each. Slave laborers are generally able-bodied males captured in war or slaving expeditions. Individually, slave laborers can be used for any labor-related tasks. They cost 2gp each per month in upkeep and have morale scores of -4. When used on a domain, treat every 5 slave laborers as equivalent to one peasant family for all purposes. If a domain's population consists of 25% or more slave laborers, its domain morale is decreased by 1. If a domain's population consists of 50% or more slave laborers, its domain morale is decreased by 2. If the domain is 100% slave labor, domain morale is decreased by 4. Historical examples include the helots of Sparta and the plantation slaves of Rome.
 
-Slave soldiers are usually either born into slavery or enslaved in early childhood so they can be indoctrinated with loyalty to their ruler or owner. Historical examples include the Persian ghulam, Egyptian mamelukes, and Turkish janissaries. In realms where they exist (Judge's discretion), slave soldiers can be bought in markets at a variable cost depending on their race, training and equipment, as noted on the Slave Troop Type table
+Slave soldiers are usually either born into slavery or enslaved in early childhood so they can be indoctrinated with loyalty to their ruler or owner. Historical examples include the Persian ghulam, Egyptian mamelukes, and Turkish janissaries. In realms where they exist (Judge's discretion), slave soldiers can be bought in markets at a variable cost depending on their race, training and equipment, as noted on the [Slave Troop Type](Chapter10.md#slave-troop-type) table.
 
 
-#### Gp Cost per Slave
+#### Slave Troop Type
+
+(Gp Cost per Slave)
 
 Slave Troop Type                                                                              | Man    | Dwarf  | Elf    | Goblin     | Orc
 :-------------------------------------------------------------------------------------------- | -----: | -----: | -----: | ---------: | -----:
@@ -1170,25 +1172,25 @@ Blood sacrifice                        | Yes               | Yes               |
 
 Shadowed sinkholes develop from two sources of corruption: Chaotic altars (such as those in evil shrines, temples, or churches) and places of death (such as cemeteries, catacombs, and battlegrounds).
 
-Chaotic altars create shadowed sinkholes as soon as they are erected. The size of the shadowed sinkhole around the altar will be 100 square feet per 100gp spent on the altar. For instance, a 10,000gp altar would create a 100' x 100' shadowed sinkhole around the altar. At the Judge's discretion, meeting the gp value of the altar might require special components or blood sacrifices (as described in Chapter 7 under Magical Research) instead of standard treasure.
+Chaotic altars create shadowed sinkholes as soon as they are erected. The size of the shadowed sinkhole around the altar will be 100 square feet per 100gp spent on the altar. For instance, a 10,000gp altar would create a 100' x 100' shadowed sinkhole around the altar. At the Judge's discretion, meeting the gp value of the altar might require special components or [blood sacrifices](Chapter07.md#blood-sacrifice) (as described in Chapter 7 under [Magical Research](Chapter07.md#magic-research)) instead of standard treasure.
 
 Places of death create shadowed sinkholes naturally over time. The annual percentage chance of such an area becoming shadowed is equal to number of dead interred in the area divided by the area's size in square feet, rounded up. For instance, a small 50' x 50' cemetery with 25 graves has a 1% chance of becoming shadowed each year. An enormous cemetery such as the real-world Wadi Al Salam (5 million dead across 64 million square feet) has an 8% chance of becoming shadowed each year. Once the shadowed sinkhole develops, the size of the shadowed sinkhole will be 100 square feet per 20 dead interred in the place. However, a sinkhole of evil will not develop if the dead are cremated by a Lawful divine spellcaster, or if one or more shrine(s) to Lawful powers are erected on the site. The Lawful shrine(s) must have a gp value of at least 5gp per dead interred in order to prevent the area from becoming shadowed.
 
-Corpses in shadowed sinkholes have a 10% chance to return as undead in 1d12 months unless their bodies are burned. Chaotic spellcasters who cast reversed (evil) divine spells or necromantic spells (such as animate dead or death spell) in a shadowed sinkhole calculate the spell effects as if the casters were two class levels higher than their actual level of experience. Characters performing necromancy (described in Chapter 7) in a shadowed sinkhole gain a +1 bonus to their magic research throws. A shadowed sinkhole can also be used for blood sacrifice (described in Chapter 7).
+Corpses in shadowed sinkholes have a 10% chance to return as undead in 1d12 months unless their bodies are burned. Chaotic spellcasters who cast reversed (evil) divine spells or necromantic spells (such as animate dead or death spell) in a shadowed sinkhole calculate the spell effects as if the casters were two class levels higher than their actual level of experience. Characters performing [necromancy](Chapter07.md#necromancy) (described in Chapter 7) in a shadowed sinkhole gain a +1 bonus to their magic research throws. A shadowed sinkhole can also be used for [blood sacrifice](Chapter07.md#blood-sacrifice) (described in Chapter 7).
 
 
 #### Blighted Sinkholes
 
 When a chaotic altar stands on a shadowed place of death, a blighted sinkhole develops. The blighted sinkhole will extend only within those regions that are shadowed by both the altar and the place of death. An area affected by one, but not both, sources of corruption is merely shadowed.
 
-Corpses in blighted sinkholes have a 20% chance to return as undead in 1d4 days unless their bodies are burned. Chaotic spellcasters who cast reversed (evil) divine spells or necromantic spells in a blighted sinkhole calculate the spell effects as if the casters were two class levels higher than their actual level of experience. Divine spellcasters of lawful alignment turn undead as if four class levels lower. Characters performing necromancy in a blighted sinkhole gain a +2 bonus to their magic research throws. A blighted sinkhole can be used for blood sacrifice.
+Corpses in blighted sinkholes have a 20% chance to return as undead in 1d4 days unless their bodies are burned. Chaotic spellcasters who cast reversed (evil) divine spells or necromantic spells in a blighted sinkhole calculate the spell effects as if the casters were two class levels higher than their actual level of experience. Divine spellcasters of lawful alignment turn undead as if four class levels lower. Characters performing [necromancy](Chapter07.md#necromancy) in a blighted sinkhole gain a +2 bonus to their magic research throws. A blighted sinkhole can be used for [blood sacrifice](Chapter07.md#blood-sacrifice).
 
 
 #### Forsaken Sinkholes
 
 A blighted area might, through some awful juxtaposition of the planes or terrible ritual magic, become forsaken. Forsaken sinkholes are pits of darkness where the vilest creatures and foulest magic are found. Such places are very rare (Judge's discretion).
 
-Corpses in forsaken areas have an 80% chance to return as undead in 1d4 rounds unless their bodies are burned. Chaotic spellcasters who cast reversed (evil) divine spells or necromantic spells in a forsaken sinkhole calculate the spell effects as if the casters were two class levels higher than their actual level of experience. Lawful divine spellcasters cast spells as if they were two class levels lower for purposes of spell effects, and may not turn undead. Any undead in forsaken areas gain a +2 bonus to attack throws, saving throws, damage rolls, and AC. Characters performing necromancy (described in Chapter 7) in a blighted sinkhole gain a +3 bonus to their magic research throws. Any undead created in forsaken areas gain a permanent +2 hit point per Hit Die, and animate dead spells cast in forsaken sinkholes create twice the normal number of Hit Dice of undead. A forsaken sinkhole can be used for blood sacrifice.
+Corpses in forsaken areas have an 80% chance to return as undead in 1d4 rounds unless their bodies are burned. Chaotic spellcasters who cast reversed (evil) divine spells or necromantic spells in a forsaken sinkhole calculate the spell effects as if the casters were two class levels higher than their actual level of experience. Lawful divine spellcasters cast spells as if they were two class levels lower for purposes of spell effects, and may not turn undead. Any undead in forsaken areas gain a +2 bonus to attack throws, saving throws, damage rolls, and AC. Characters performing [necromancy](Chapter07.md#necromancy) (described in Chapter 7) in a blighted sinkhole gain a +3 bonus to their magic research throws. Any undead created in forsaken areas gain a permanent +2 hit point per Hit Die, and animate dead spells cast in forsaken sinkholes create twice the normal number of Hit Dice of undead. A forsaken sinkhole can be used for [blood sacrifice](Chapter07.md#blood-sacrifice).
 
 
 #### Cleansing Sinkholes
@@ -1252,17 +1254,17 @@ Mages, elven nightblades, and elven spellswords begin play with the maximum numb
 
 All advanced characters begin with a fixed amount of starting wealth. Adventurers begin with 16,000gp. Conquerors begin with 240,000gp. Kings begin with 815,000gp. Starting wealth can be spent to:
 
-- Purchase equipment from Chapter 3, such as weapons, armor, ships, mounts, etc.;
+- Purchase [equipment](Chapter03.md#chapter-3-equipment) from Chapter 3, such as weapons, armor, ships, mounts, etc.;
 
-- Establish libraries, workshops, laboratories, or mortuaries, as described in Chapter 5;
+- Establish [libraries](Chapter07.md#libraries), [workshops](Chapter07.md#workshops), laboratories, or mortuaries, as described in Chapter 7;
 
-- Purchase precious materials or special components, as described in Chapter 5;
+- Purchase [precious materials](Chapter07.md#precious-materials) or [special components](Chapter07.md#special-components), as described in Chapter 7;
 
-- Build castles, hideouts, sanctums, or other strongholds described in Chapter 5;
+- Build [castles](Chapter07.md#establishing-the-stronghold), [hideouts](Chapter07.md#hideouts-and-hijinks), [sanctums](Chapter07.md#sanctums-and-dungeons), or other [strongholds](Chapter07.md#strongholds-and-domains) described in Chapter 7;
 
-- Purchase merchandise at its base price, as described in Chapter 5; Roll for magic items, as described below; or
+- Purchase [merchandise](Chapter07.md#merchandise-tables) at its base price, as described in Chapter 7; Roll for [magic items](Chapter10.md#magic-items), as described below; or
 
-- Recruit hirelings, as described below.
+- [Recruit hirelings](Chapter10.md#recruiting-hirelings), as described below.
 
 Any remaining starting wealth can be converted into coin, gems, or jewels, as desired.
 
@@ -1298,7 +1300,7 @@ Advanced characters may also begin play with specialists and mercenaries in his 
 
 Conqueror tier characters of 9th level or greater that use their starting wealth to build a stronghold begin play with a domain. Create the domain as if the character's stronghold had just been completed, rolling for starting land value, peasant families, and followers. If the character builds a hideout, his syndicate will have the standard number of followers (2d6 1st level characters of his own class, plus an additional 1d6 per level the syndicate boss has advanced past 9th). If the character builds a sanctum, he will have the standard number of apprentices and normal men (1d6 and 2d6 respectively). Any dungeons built by conqueror level characters begin empty.
 
-King tier characters that use their starting wealth to build a stronghold will begin play with a realm. The realm will include a personal domain and several vassal realms. The king tier character's personal domain will have the maximum number of families permitted given the size of his stronghold. The king tier character's realm will include a number of vassal realms equal to the character's number of henchmen. Each vassal realm should normally be the equivalent of a duchy (as defined in Constructing the Campaign Setting, in this chapter), but the Judge can alter this if he desires a grander or narrower scope.
+King tier characters that use their starting wealth to build a stronghold will begin play with a realm. The realm will include a personal domain and several vassal realms. The king tier character's personal domain will have the maximum number of families permitted given the size of his stronghold. The king tier character's realm will include a number of vassal realms equal to the character's number of henchmen. Each vassal realm should normally be the equivalent of a duchy (as defined in [Constructing the Campaign Setting](Chapter10.md#constructing-the-campaign-setting), in this chapter), but the Judge can alter this if he desires a grander or narrower scope.
 
 King tier thieves, assassins, and elven nightblades who build a hideout begin with a syndicate of the maximum size permitted for their location and hideout. If they have thief, assassin, or nightblade henchmen of 9th level or higher, they may build a hideout for these henchman and establish a criminal guild. Syndicates within the guild will have 2d6 members each.
 
