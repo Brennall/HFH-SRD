@@ -32,7 +32,7 @@ html/index.html: html $(HTML)
 html:
 	mkdir html
 
-html/%.html : %.md
+html/%.html : %.md acks-template.htm
 	cat $< | \
 		sed -E -e "s/Chapter([0-9][0-9])\.md/Chapter\1.html/g" -e "s/OGL.md/OGL.html/g" | \
 		kramdown --template acks-template.htm > $@
