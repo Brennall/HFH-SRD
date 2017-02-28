@@ -1,6 +1,6 @@
 [Previous](Chapter10.md#chapter-10-secrets) [Top](Chapter00.md#table-of-contents)
 
----
+* * *
 
 ## Open Game License
 
@@ -114,6 +114,7 @@ In any of the above cases where the Adventurer Conqueror King Product Identity i
 
 END OF LICENSE
 
----
+* * *
 
 [Previous](Chapter10.md#chapter-10-secrets) [Top](Chapter00.md#table-of-contents)
+

@@ -1833,3 +1833,4 @@ A wizard lock spell cast upon a door, chest, or portal magically locks it. The c
 * * *
 
 [Previous](Chapter04.md#chapter-4-proficiencies) [Top](Chapter00.md#table-of-contents) [Next](Chapter06.md#chapter-6-adventures)
+

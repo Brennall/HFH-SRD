@@ -3564,3 +3564,4 @@ Zombies are undead corpses reanimated through dark and sinister magic. Because o
 * * *
 
 [Previous](Chapter07.md#chapter-7-campaigns) [Top](Chapter00.md#table-of-contents) [Next](Chapter09.md#chapter-9-treasure)
+

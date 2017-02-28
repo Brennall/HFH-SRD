@@ -26,3 +26,5 @@
 
 [OGL](OGL.md#open-game-license)
 
+* * *
+

@@ -25,6 +25,7 @@ clean:
 	-rm $(HTML)
 	-rm html/index.html
 	-rmdir html
+	-rm acks.html
 
 html/index.html: html $(HTML)
 	cp html/Chapter00.html html/index.html
@@ -35,4 +36,10 @@ html:
 html/%.html : %.md acks-template.htm
 	cat $< | \
 		sed -E -e "s/Chapter([0-9][0-9])\.md/Chapter\1.html/g" -e "s/OGL.md/OGL.html/g" | \
+		kramdown --template acks-template.htm > $@
+
+acks.html : $(MD)
+	cat $(MD) | \
+		awk '/\[Previous\]/ { if (++count % 2 == 0) next; } 1' | \
+		sed -E -e "s/Chapter([0-9][0-9])\.md//g" -e "s/OGL.md//g" | \
 		kramdown --template acks-template.htm > $@

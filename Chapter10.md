@@ -1,6 +1,6 @@
 [Previous](Chapter09.md#chapter-9-treasure) [Top](Chapter00.md#table-of-contents) [Next](OGL.md#open-game-license)
 
----
+* * *
 
 # Chapter 10: Secrets
 
@@ -1372,6 +1372,7 @@ Vance, Jack. "Dying Earth" stories.
 
 Williams, Tad. Memory, Sorrow, and Thorn.
 
----
+* * *
 
 [Previous](Chapter09.md#chapter-9-treasure) [Top](Chapter00.md#table-of-contents) [Next](OGL.md#open-game-license)
+
