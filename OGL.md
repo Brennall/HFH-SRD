@@ -2,7 +2,7 @@
 
 * * *
 
-## Open Game License
+# Open Game License
 
 DESIGNATION OF PRODUCT IDENTITY
 

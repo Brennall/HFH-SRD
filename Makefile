@@ -43,3 +43,6 @@ acks.html : $(MD)
 		awk '/\[Previous\]/ { if (++count % 2 == 0) next; } 1' | \
 		sed -E -e "s/Chapter([0-9][0-9])\.md//g" -e "s/OGL.md//g" | \
 		kramdown --template acks-template.htm > $@
+
+toc.md : $(MD) mktoc.py
+	./mktoc.py Chapter0[1-9].md Chapter10.md OGL.md > toc.md

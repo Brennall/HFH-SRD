@@ -214,7 +214,7 @@ An area can receive any number of permanency spells. An item can receive up to f
 A permanency spell lasts until it is dispelled by either the caster or a higher-level spellcaster. When the permanency is dispelled, the other spell effect vanishes immediately. Using a permanency to bind a spell to an item is not the same as creating a magic item, which uses a different process. True magic items cannot be dispelled, making them far more durable than items which have merely had spells permanently placed upon them.
 
 
-### Wish
+#### Wish
 
 Arcane Ritual | 9
 :------------ | :-------------------------------
