@@ -507,7 +507,7 @@ Hand-to-hand, or melee, combat occurs when opponents are within 5' of one anothe
 Characters normally only have 1 attack in a round, but some monsters have an attack routine, the most common of which is a claw/claw/bite series, which amounts to 3 attacks in 1 round. If characters or monsters kill or incapacitate an opponent with an attack, they may be able to cleave to gain additional attacks (as described below).
 
 
-#### Character Attack Throws by Attacking Character Level                      
+#### Character Attack Throws by Attacking Character Level
 
 Fighters   | Clerics/Thieves   | Mages           | Attack Throw Value
 :--------- | :---------------- | :-------------- | :------------------
@@ -682,7 +682,7 @@ Once a creature has resolved its condition on the [Mortal Wounds](Chapter06.md#m
 
 - Hit Points: +5 if hp are exactly 0; -2 if hp are at negative value equal from 1/4 to 1/2 max hp; -5 if hp are at negative value of 1/2 max hp or more
 - Treatment: +1 per level of healing magic used in treatment; +2 if treated by character with Healing specialization
-- Timing: +2 if treated within 1 round of injury; -3 if treated immediately after fight; -5 if treated up to 1 hour later; -8 if up to 1 day later; -10 if more than 1 day later 
+- Timing: +2 if treated within 1 round of injury; -3 if treated immediately after fight; -5 if treated up to 1 hour later; -8 if up to 1 day later; -10 if more than 1 day later
 - Constitution: +/- CON modifier of unconscious character
 
 
