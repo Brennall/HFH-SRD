@@ -155,7 +155,7 @@
   - [Other Actions](Chapter06.md#other-actions)
 - [Damage](Chapter06.md#damage)
   - [Double Damage](Chapter06.md#double-damage)
-  - ["Invulnerable" Monsters](Chapter06.md#"invulnerable"-monsters)
+  - ["Invulnerable" Monsters](Chapter06.md#invulnerable-monsters)
   - [Effects of Damage](Chapter06.md#effects-of-damage)
   - [Healing](Chapter06.md#healing)
   - [Nonlethal Damage](Chapter06.md#nonlethal-damage)

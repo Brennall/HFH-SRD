@@ -22,7 +22,7 @@ for arg in sys.argv:
         
         text = matched.group(2).strip().translate(None, "*:")
 
-        anchor = text.lower().replace(" ", "-").translate(None, "!?(),'")
+        anchor = text.lower().replace(" ", "-").translate(None, "!?(),'\"")
         anchor = re.sub("^[0-9][0-9]*\.--*", "", anchor)
         link_target = arg + "#" + anchor
         full_link = "["+text+"]("+link_target+")"
