@@ -141,12 +141,12 @@ Item Type                     | Base Cost | Time       | Possible Special Compon
 :---------------------------- | --------: | :--------- | :--------------------------------------
 Potion of Healing             |     500gp | 1 week     | Blood of 1 troll
 Scroll of Fly                 |   1,500gp | 3 weeks    | Feathers of 3 griffons
-Wand of Fireball (20 charges) |  30,000gp | 120 days   | Fangs of 20 hellhounds
-Ring of Invisibility (1/turn) |  33,000gp | 160 days   | Ichor of 150 invisible stalkers
-Sword +1                      |   5,000gp | 1 month    | Skulls of 25 ogres or heroes
-Sword +2                      |  15,000gp | 2 months   | Skulls of 75 ogres or heroes
-Sword +1, +2 v. spellcasters  |  10,000gp | 1.5 months | Skulls of 25 ogres and 25 spellcasters
-Plate Armor +1                |   5,000gp | 6 months   | Iron hides of 5 gorgons
+Wand of Fireball (20 charges) |  30,000gp | 120 days   | Fangs of 37 greater hellhounds
+Ring of Invisibility (1/turn) |  33,000gp | 160 days   | Ichor of 30 invisible stalkers
+Sword +1                      |   5,000gp | 1 month    | Skulls of 36 ogres or heroes
+Sword +2                      |  15,000gp | 2 months   | Skulls of 107 ogres or heroes
+Sword +1, +2 v. spellcasters  |  10,000gp | 1.5 months | Skulls of 36 ogres and 36 spellcasters
+Plate Armor +1                |   5,000gp | 6 months   | Iron hides of 3 gorgons
 
 
 ## Ritual Spells
@@ -428,7 +428,7 @@ Gatehouse (20' high, 30' x 20', metal portcullis, wood doors, floors, stairs) | 
 Keep, square (80' high, 60' square, wood doors, floors, stairs)*              | 75,000gp
 Moat, unfilled (100' x 20' x 10' deep)*                                       |    400gp
 Moat, filled (100' x 20' x 10' deep)*                                         |    800gp
-Palisade, wood (10' high, 100' long, 1' thick)                                |    125gp
+Palisade, wood (10' high, 100' long, 1" thick)                                |    125gp
 Rampart, earthen (10' high, 100' long, 15' thick)                             |  2,500gp
 Tower, small round (30' high, 20' diameter, wood doors, floors, stairs)       | 15,000gp
 Tower, medium round (40' high, 20' diameter, wood doors, floors, stairs)      | 22,500gp
@@ -836,7 +836,7 @@ Settlement Population (families) | Urban Revenue (gp/family) | Market Class
 
 #### Paying Expenses
 
-Settlement expenses are similar to domain expenses. Each month, an urban settlement must pay a garrison cost of 2gp/family. In addition to maintaining the garrison, the adventurer must pay for the upkeep of the urban communities. Upkeep of urban settlements cost 1.5gp/family each month.
+Settlement expenses are similar to domain expenses. Each month, an urban settlement must pay a garrison cost of 2gp/family. In addition to maintaining the garrison, the adventurer must pay for the upkeep of the urban communities. Upkeep of urban settlements cost 1gp/family each month.
 
 If the adventurer has established his urban settlement in a civilized realm, he will owe the usual 20% tax on his settlement's gross monthly income. He will also owe a tithe of 10% of the settlement's gross monthly income to the church of the domain's dominant religion. And, as with a domain, four times per year (the date will vary based on the culture, but one per season is common), the adventurer will be expected to hold a festival for the settlement's urban families, costing 5gp per family.
 
@@ -846,7 +846,7 @@ The [Villages, Towns, and Cities](Chapter07.md#villages-towns-and-cities-1) tabl
 Expense      | Monthly Cost
 :----------- | :-------------------
 Garrison     | 2gp/family
-Upkeep       | 1.5gp/family
+Upkeep       | 1gp/family
 Taxes        | 20% of urban revenue
 Tithes       | 10% of urban revenue
 Festival     | 5gp/family/season
@@ -1439,7 +1439,7 @@ In cases where a character has both domain and mercantile income, the totals sho
 
 A character may earn XP from magical research he conducts personally, if its cost exceeds his gp threshold. The XP is earned when the research is completed. Divide the cost of the research by the number of months required to complete it (always divide by at least one). If this monthly cost exceeds the character's gp threshold, the character earns XP equal to the difference per month of research. Both the base cost of the magical research and any precious materials apply, but the cost for libraries, workshops, or special components is excluded. Failing at magical research does not earn XP.
 
-*Example*: Quintus, a 5th level mage, creates a scroll of sleep. This takes one week and 500gp. 500gp divided by one (the minimum) is 500gp, which is less than his gp threshold of 800gp, so he earns no XP. He then creates a scroll of fireball. This takes three weeks and 1,500gp. 1,500gp divided by one (the minimum) is 1,500gp, which is greater than his gp threshold of 800gp, so he earns the difference. Quintus has earned 700XP. Years later, at 9th level, Quintus creates a sword +2, which takes two months and 15,000gp. He also uses 15,000gp in precious materials, so the cost is 30,000gp. 30,000gp divided by two months is 15,000gp. Quintus' gp threshold is 9,000gp, so he earns 6,000XP for each month, or 12,000XP total.
+*Example*: Quintus, a 5th level mage, creates a scroll of sleep. This takes one week and 500gp. 500gp divided by one (the minimum) is 500gp, which is less than his gp threshold of 650gp, so he earns no XP. He then creates a scroll of fireball. This takes three weeks and 1,500gp. 1,500gp divided by one (the minimum) is 1,500gp, which is greater than his gp threshold of 650gp, so he earns the difference. Quintus has earned 850XP. Years later, at 9th level, Quintus creates a sword +2, which takes two months and 15,000gp. He also uses 15,000gp in precious materials, so the cost is 30,000gp. 30,000gp divided by two months is 15,000gp. Quintus' gp threshold is 12,000gp, so he earns 3,000XP for each month, or 6,000XP total.
 
 Followers or henchmen conducting magical research earn 50% of the normal XP from magical research. An assistant gains 50% of the magical research XP he would earn if he conducted the research independently. (A follower or henchman acting as an assistant thus gains 25% of the normal XP.) Characters do not receive XP for magical research conducted by their assistants.
 

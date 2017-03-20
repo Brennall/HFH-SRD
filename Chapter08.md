@@ -162,7 +162,7 @@ Movement:       | 90' (30')
 Burrow:         | 60' (20')
 Armor Class:    | 8
 Hit Dice:       | 5**
-Attacks:        | 1
+Attacks:        | 1 (bite)
 Damage:         | 3d6 (+ 1d4)
 Save:           | F5
 Morale:         | -1
@@ -189,7 +189,7 @@ Alignment:      | Neutral
 Movement:       | 180' (60')
 Armor Class:    | 6
 Hit Dice:       | 4
-Attacks:        | 1
+Attacks:        | 1 (bite)
 Damage:         | 2d6
 Save:           | F2
 Morale:         | -1
@@ -393,7 +393,7 @@ Alignment:      | Neutral
 Movement:       | 60' (20')
 Armor Class:    | 3
 Hit Dice:       | 10*
-Attacks:        | 1
+Attacks:        | 1 (envelopment)
 Damage:         | 3d8
 Save:           | F5
 Morale:         | N/A
@@ -708,7 +708,7 @@ Movement:               | 90' (30')               | 90' (30')               | 90
 Swim:                   | 90' (30')               | 90' (30')               | 90' (30')
 Armor Class:            | 4                       | 6                       | 8
 Hit Dice:               | 2                       | 6                       | 15
-Attacks:                | 1                       | 1                       | 1
+Attacks:                | 1 (bite)                | 1 (bite)                | 1 (bite)
 Damage:                 | 1d8                     | 2d8                     | 3d8
 Save:                   | F1                      | F3                      | F8
 Morale:                 | -1                      | -1                      | +1
@@ -729,7 +729,7 @@ Alignment:      | Chaotic
 Movement:       | 90' (30')
 Armor Class:    | 4
 Hit Dice:       | 13
-Attacks:        | 1
+Attacks:        | 1 (club)
 Damage:         | 3d10
 Save:           | F13
 Morale:         | +1
@@ -796,7 +796,7 @@ Alignment:              | Neutral                 | Neutral
 Movement:               | 180' (60')              | 150' (50')
 Armor Class:            | 2                       | 3
 Hit Dice:               | 1+1                     | 2+2
-Attacks:                | 1                       | 1
+Attacks:                | 1 (bite)                | 1 (bite)
 Damage:                 | 1d4                     | 1d6
 Save:                   | F1                      | F1
 Morale:                 | 0                       | +2
@@ -819,7 +819,7 @@ Alignment:      | Chaotic
 Movement:       | 90' (30')
 Armor Class:    | 4
 Hit Dice:       | 4*
-Attacks:        | 1
+Attacks:        | 1 (bite)
 Damage:         | 1d12
 Save:           | F10
 Morale:         | +2
@@ -1019,7 +1019,7 @@ Movement:       | 60' (20')
 Armor Class:    | 5
 Hit Dice:       | 1
 Attacks:        | 1 (weapon)
-Damage:         | 1d8 or weapon
+Damage:         | 1d8 or weapon +1
 Save:           | D1
 Morale:         | 0
 Treasure Type:  | D (per company)
@@ -1044,7 +1044,7 @@ Movement:       | 90' (30')
 Fly:            | 240' (80')
 Armor Class:    | 6
 Hit Dice:       | 10***
-Attacks:        | 1
+Attacks:        | 1 (fist)
 Damage:         | 2d8
 Save:           | F15
 Morale:         | +4
@@ -1138,7 +1138,7 @@ Movement:       | 120' (40')
 Armor Class:    | 4
 Hit Dice:       | 1 + 1
 Attacks:        | 1 (weapon)
-Damage:         | 1d8 or weapon
+Damage:         | 1d8 or weapon +1
 Save:           | E1
 Morale:         | 0
 Treasure Type:  | E (per company)
@@ -1296,7 +1296,7 @@ Alignment:      | Neutral
 Movement:       | 60' (20')
 Armor Class:    | 1
 Hit Dice:       | 4*
-Attacks:        | 1
+Attacks:        | 1 (envelopment)
 Damage:         | 2d4 + see below
 Save:           | F2
 Morale:         | N/A
@@ -1342,7 +1342,7 @@ Alignment:              | Chaotic                         | Neutral             
 Movement:               | 120' (40')                      | 120' (40')                      | 120' (40')
 Armor Class:            | 5                               | 5                               | 5
 Hit Dice:               | 8                               | 9                               | 10
-Attacks:                | 1                               | 1                               | 1
+Attacks:                | 1 (weapon or rock)              | 1 (weapon or rock)              | 1 (weapon or rock)
 Damage:                 | 2d8                             | 3d6                             | 4d6
 Save:                   | F8                              | F9                              | F10
 Morale:                 | 0                               | +1                              | +1
@@ -1359,7 +1359,7 @@ Alignment:              | Chaotic                         | Neutral             
 Movement:               | 120' (40')                      | 120' (40')                      | 150' (50')
 Armor Class:            | 5                               | 5                               | 7
 Hit Dice:               | 11                              | 12                              | 15
-Attacks:                | 1                               | 1                               | 1 + see below
+Attacks:                | 1 (weapon or rock)              | 1 (weapon or rock)              | 1 (weapon or rock)
 Damage:                 | 5d6                             | 6d6                             | 8d6
 Save:                   | F11                             | F12                             | F15
 Morale:                 | +1                              | +2                              | +2
@@ -1534,7 +1534,7 @@ Movement:       | 10' (3')
 Burrow:         | 10' (3')
 Armor Class:    | 2
 Hit Dice:       | 3*
-Attacks:        | 1
+Attacks:        | 1 (envelopment)
 Damage:         | 2d8
 Save:           | F2
 Morale:         | N/A
@@ -1555,7 +1555,7 @@ Alignment:      | Neutral
 Movement:       | 3' (1')
 Armor Class:    | NA (always hit)
 Hit Dice:       | 2**
-Attacks:        | 1
+Attacks:        | 1 (envelopment)
 Damage:         | See below
 Save:           | F1
 Morale:         | N/A
@@ -1768,7 +1768,7 @@ Alignment:              | Neutral                         | Neutral             
 Movement:               | 240' (80')                      | 180' (60')                      | 120' (40')
 Armor Class:            | 2                               | 2                               | 2
 Hit Dice:               | 2                               | 3                               | 3+3
-Attacks:                | 1 or 2 hooves                   | 1 or 2 hooves                   | 1 or 2 hooves
+Attacks:                | 1 or 2 (hooves)                 | 1 or 2 (hooves)                 | 1 or 2 (hooves)
 Damage:                 | 1d4/1d4                         | 1d6/1d6                         | 1d8/1d8
 Save:                   | F1                              | F2                              | F2
 Morale:                 | -2 or 0                         | -1 or +1                        | -2 or 0
@@ -1793,7 +1793,7 @@ Alignment:      | Neutral
 Movement:       | 120' (40')
 Armor Class:    | 4
 Hit Dice:       | 5 to 12*
-Attacks:        | As head number
+Attacks:        | As head number (bites)
 Damage:         | 1d10 per head
 Save:           | F5 to F12
 Morale:         | +2
@@ -1820,7 +1820,7 @@ Alignment:        | Neutral
 Movement:         | 120' (40')
 Armor Class:      | 6
 Hit Dice:         | 8*
-Attacks:          | 1
+Attacks:          | 1 (fist)
 Damage:           | 4d4
 Save:             | F8
 Morale:           | +4
@@ -2129,7 +2129,7 @@ Morale:         | 0
 Treasure Type:  | H
 XP:             | 245
 
-Medusa are indistinguishable from human women, except that they have vicious snakes on their heads rather than hair. They may attempt to disguise themselves with a hooded robe, only to suddenly reveal their true nature. Any character that meets a medusa's petrifying gaze is required to make a saving throw versus Petrification or he turns to stone. Due to their inherently magical nature, medusas save as 7 Hit Dice monsters despite only having 4 Hit Dice. Half of the treasure in a medusa's lair is likely to be on petrified victims, and will only be accessible if the victims are restored to flesh.
+Medusa are indistinguishable from human women, except that they have vicious snakes on their heads rather than hair. They may attempt to disguise themselves with a hooded robe, only to suddenly reveal their true nature. Any character that meets a medusa's petrifying gaze is required to make a saving throw versus Petrification or he turns to stone. Any opponent bitten by the medusa’s snakes must make a saving throw versus Poison; failure indicates death after 1 turn. Due to their inherently magical nature, medusas save as 7 Hit Dice monsters despite only having 4 Hit Dice. Half of the treasure in a medusa's lair is likely to be on petrified victims, and will only be accessible if the victims are restored to flesh.
 
 
 ### Men
@@ -2144,7 +2144,7 @@ Movement:       | 120' (40')                              | 120' (40')          
 Armor Class:    | 2                                       | Armor type                              | Armor type
 Hit Dice:       | 1+1*                                    | 1                                       | 1
 Attacks:        | 1                                       | 1                                       | 1
-Damage:         | 1d6 or weapon type                      | 1d6 or weapon type                      | 1d6 or weapon type
+Damage:         | 1d12 or weapon +1                       | 1d8 or weapon +1                        | 1d8 or weapon +1
 Save:           | F1                                      | F1                                      | F1
 Morale:         | +4                                      | 0                                       | -2
 Treasure Type:  | J (per warband)                         | H (per band)                            | Varies (per fleet)
@@ -2162,7 +2162,7 @@ Movement:       | 90' (30')                               | 120' (40')
 Armor Class:    | 4                                       | Armor type
 Hit Dice:       | 1                                       | 1
 Attacks:        | 1                                       | 1
-Damage:         | 1d6 or weapon type                      | 1d6 or weapon type
+Damage:         | 1d8 or weapon +1                        | 1d8 or weapon +1
 Save:           | F1                                      | F1
 Morale:         | Varies                                  | 0
 Treasure Type:  | J (per 10 wagons)                       | E (per caravan)
@@ -2223,7 +2223,7 @@ Movement:       | -
 Swim:           | 120' (40')
 Armor Class:    | 3
 Hit Dice:       | 1
-Attacks:        | 1
+Attacks:        | 1 (weapon)
 Damage:         | 1d6 or weapon type
 Save:           | F1
 Morale:         | 0
@@ -2311,7 +2311,7 @@ Alignment:      | Chaotic
 Movement:       | 60' (20')
 Armor Class:    | 6
 Hit Dice:       | 5 + 1*
-Attacks:        | 1
+Attacks:        | 1 (fist)
 Damage:         | 1d12, mummy rot
 Save:           | F5
 Morale:         | +4
@@ -2358,7 +2358,7 @@ Movement:               | 120' (40')                      | -
 Swim:                   | -                               | 120' (40')
 Armor Class:            | 4                               | 2
 Hit Dice:               | 2*                              | 1*
-Attacks:                | Charm                           | 1
+Attacks:                | Charm                           | 1 (dagger)
 Damage:                 | -                               | 1d4
 Save:                   | E4                              | E1
 Morale:                 | -2                              | -2
@@ -2383,7 +2383,7 @@ Alignment:      | Neutral
 Movement:       | 30' (10')
 Armor Class:    | 1
 Hit Dice:       | 5*
-Attacks:        | 1
+Attacks:        | 1 (envelopment)
 Damage:         | 2d6
 Save:           | F3
 Morale:         | N/A
@@ -2592,7 +2592,7 @@ Movement:       | 90' (30')
 Burrow:         | 60' (20')
 Armor Class:    | 10
 Hit Dice:       | 10 - 15**
-Attacks:        | 1
+Attacks:        | 1 (bite)
 Damage:         | 2d8
 Save:           | F16
 Morale:         | +4
@@ -2710,7 +2710,7 @@ Alignment:      | Neutral
 Movement:       | 120' (40')
 Armor Class:    | 7
 Hit Dice:       | 5
-Attacks:        | 1
+Attacks:        | 1 (antenna)
 Damage:         | See below
 Save:           | F3
 Morale:         | -1
@@ -2799,7 +2799,7 @@ Alignment:      | Chaotic
 Movement:       | 90' (30')
 Armor Class:    | 2
 Hit Dice:       | 2 + 2**
-Attacks:        | 1
+Attacks:        | 1 (touch)
 Damage:         | 1d4, special
 Save:           | F2
 Morale:         | +4
@@ -2869,7 +2869,7 @@ Alignment:      | Chaotic
 Movement:       | 120' (40')
 Armor Class:    | 2
 Hit Dice:       | 1*
-Attacks:        | 1
+Attacks:        | 1 (weapon)
 Damage:         | 1d6 or weapon
 Save:           | F1
 Morale:         | N/A
@@ -2946,7 +2946,7 @@ Snakes are legless reptiles, and often have venomous bites. Snakes usually are n
 
 **Giant Python**: The giant python is 20' long. It attacks first with a bite, and on a successful hit it is also able to constrict a victim for an additional 2d8 points of damage. The constriction continues on subsequent rounds. The hold may be broken with a successful saving throw versus Paralyzation; breaking the hold takes a full round.
 
-**Giant Rattlesnake**: These snakes are extremely quick, and bite twice per round. One bite occurs at the beginning of the round, and another at the end of the round. The bite is venomous, and a victim must succeed in a saving throw versus Poison or die 1d4+2 turns later. The giant rattlesnake is 10' long, carnivorous, and will hunt large mammals.
+**Giant Rattler**: These snakes are extremely quick, and bite twice per round. One bite occurs at the beginning of the round, and another at the end of the round. The bite is venomous, and a victim must succeed in a saving throw versus Poison or die 1d4+2 turns later. The giant rattler is 10' long, carnivorous, and will hunt large mammals.
 
 
 ### Spectre
@@ -3104,7 +3104,7 @@ Fly:                    | 120' (40')                      | 60' (20')           
 Swim:                   | -                               | -                               | 30' (10')
 Armor Class:            | 2                               | 2                               | 0
 Hit Dice:               | 2 to 4*                         | 2 to 4*                         | 2 to 4*
-Attacks:                | 1                               | 1                               | 1
+Attacks:                | 1 (swarm)                       | 1 (swarm)                       | 1 (swarm)
 Damage:                 | Confusion                       | 2 points                        | 1d6, disease
 Save:                   | 0 level human                   | 0 level human                   | 0 level human
 Morale:                 | -2 or 0                         | +3                              | -3
@@ -3198,7 +3198,7 @@ Alignment:      | Lawful
 Movement:       | 60' (20')
 Armor Class:    | 7
 Hit Dice:       | 8*
-Attacks:        | 2
+Attacks:        | 1 (slam)
 Damage:         | 2d6/2d6
 Save:           | F8
 Morale:         | -2
@@ -3226,7 +3226,7 @@ Morale:         | 0
 Treasure Type:  | None
 XP:             | 1,200
 
-These large, 12' high and 40' long prehistoric dinosaurs live in grassy environments in sub-tropical and temperate regions. Though they are herbivores, they are very aggressive with those who come near. Triceratops have three very large horns and a big bony plate on their skulls. If a triceratops has enough distance between it and its foe, it will commit to a charge to score double damage with its gore attack. When in close combat, it may attempt to gore its opponent or attempt to trample. A triceratops gains a +4 to its attack throw when attempting to trample an opponent that is smaller or approximately equal in the size of a human. When distance permits, a triceratops may charge with its gore attack to deal double damage.
+These large, 12' high and 40' long prehistoric dinosaurs live in grassy environments in sub-tropical and temperate regions. Though they are herbivores, they are very aggressive with those who come near. Triceratops have three very large horns and a big bony plate on their skulls. If a triceratops has enough distance between it and its foe, it will commit to a charge to score double damage with its gore attack. When in close combat, it may attempt to gore its opponent or attempt to trample. A triceratops gains a +4 to its attack throw when attempting to trample an opponent that is man-sized or smaller.
 
 
 ### Troglodyte
@@ -3439,7 +3439,7 @@ Alignment:      | Chaotic
 Movement:       | 90' (30')
 Armor Class:    | 4
 Hit Dice:       | 3**
-Attacks:        | 1
+Attacks:        | 1 (touch)
 Damage:         | Energy drain
 Save:           | F3
 Morale:         | +4

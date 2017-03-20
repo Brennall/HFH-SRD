@@ -162,7 +162,7 @@ Weapons                            | Cost        | Damage*
     Net                            | 1gp         | -
     Sling with 30 Sling Bullets    | 2gp         | 1d4
     Sap                            | 1gp         | 1d4
-    Staff (two-handed)             | 1gp         | 1d6
+    Staff                          | 1gp         | 1d4/1d6
     Whip                           | 5gp         | 1d2
 
 *Where two damage values are listed, the first is for one-handed and the second is for two-handed use.
@@ -344,9 +344,9 @@ Troop Transport (small)               | 15,000gp
 
 **Birthwort**: Birthwort, also known as snakeroot, is a healing herb used as a remedy for snake bites and other poisons. Birthwort can be applied as a poultice to a poisoned wound by an adventurer with the Healing proficiency. Used in this manner, it provides a +2 bonus on the Healing proficiency throw to neutralize poison.
 
-**Boat, River**: This boat is 20' to 30' long, has a "beam" (width) of 10' to 15', and has a "draft," or surface depth, of between 2-3' when in the water. Riverboats are rowed, or poles are used to push it along. A river boat requires at least 1 rower as crew (see the [Hirelings, Henchmen, Mercenaries, and Specialists](Chapter03.md#hirelings-henchmen-mercenaries-and-specialists) section, later in this chapter). The cost of the boat increases by 1,000gp if it has a roof. A riverboat can carry 400 stone (4,000lb) plus crew.
+**Boat, River**: This boat is 20' to 30' long, has a "beam" (width) of 10' to 15', and has a "draft," or surface depth, of between 2-3' when in the water. Riverboats are rowed, or poles are used to push it along. A river boat requires at least 1 rower as crew (see the [Hirelings, Henchmen, Mercenaries, and Specialists](Chapter03.md#hirelings-henchmen-mercenaries-and-specialists) section, later in this chapter). The cost of the boat increases by 1,000gp if it has a roof. A riverboat can carry 600 stone (6,000lb) plus crew.
 
-**Boat, Sailing**: This small boat has a single mast, with a length of 20' to 40', a beam of 10' to 15', and a draft of 2' to 3'. Sailing boats are primarily employed for fishing on lakes or coasts. A sailing boat requires at least 1 sailor as crew. A sailing boat can carry up to 600 stone (6,000lb) plus crew.
+**Boat, Sailing**: This small boat has a single mast, with a length of 20' to 40', a beam of 10' to 15', and a draft of 2' to 3'. Sailing boats are primarily employed for fishing on lakes or coasts. A sailing boat requires at least 1 sailor as crew. A sailing boat can carry up to 400 stone (4,000lb) plus crew.
 
 **Bola**: These are throwing weapons made of weights on the ends of interconnected cords, designed to capture animals by entangling their legs. A character can use a bola to make a knock down or wrestling maneuver (as described in [special maneuvers](Chapter06.md#special-maneuvers) in Chapter 6) with a thrown attack.
 
@@ -506,7 +506,7 @@ Troop Transport (small)               | 15,000gp
 
 **Spell Book (Blank)**: A spell book has 100 pages of parchment, and each spell takes up one page per spell level (one page each for 1st level spells). These books are used by arcane spellcasters to record the spells in their repertoire.
 
-**Staff**: A staff is a common weapon made from a stick of hardwood 4' to 6' long, and used two-handed. (A one-handed staff is a club.) Historical examples include the English quarterstaff, Japanese bo stick, and Chinese gun.
+**Staff**: A staff is a common weapon made from a stick of hardwood 4' to 6' long, and used two-handed. (If used one-handed, treat as a club.) Historical examples include the English quarterstaff, Japanese bo stick, and Chinese gun.
 
 **Stakes and Mallet**: These 18" sharpened wood shafts are carried by adventures to destroy vampires.
 
@@ -633,7 +633,7 @@ Hireling                       | Class I        | Class II       | Class III    
  Medium Cavalry                | 3d20           | 4d4            | 2d4            | 1d2            | 1 (70%)        | 1 (23%)
  Heavy Cavalry                 | 4d10           | 1d10           | 1d6            | 1d2 (50%)      | 1 (50%)        | 1 (15%)
  Cataphract Cavalry            | 3d10           | 1d8            | 1d4            | 1d2 (33%)      | 1 (40%)        | 1 (10%)
- Wolf Riders*                  | 3d10           | 1d8            | 1d4            | 1d2 (33%)      | 1 (40%)        | 1 (10%)
+ Beast Riders*                 | 3d10           | 1d8            | 1d4            | 1d2 (33%)      | 1 (40%)        | 1 (10%)
 *Specialists*                  | -              | -              | -              | -              | -              | -
  Alchemist                     | 1d10           | 1d3            | 1              | 1 (33%)        | 1 (15%)        | 1 (5%)
  Animal Trainer - Common       | 5d10           | 2d6            | 1d6            | 1d2            | 1 (65%)        | 1 (20%)
@@ -660,7 +660,7 @@ Hireling                       | Class I        | Class II       | Class III    
  Level 3                       | 1d10           | 1d3            | 1 (85%)        | 1 (33%)        | 1 (15%)        | 1 (5%)
  Level 4                       | 1d6            | 1d2            | 1 (45%)        | 1 (15%)        | 1 (5%)         | None
 
-*Mounted crossbowmen are only found in Dwarven settlements. Wolf Riders are only found in Chaotic-aligned settlements.
+*Mounted crossbowmen are only found in Dwarven settlements. Beast Riders are only found in Chaotic-aligned settlements.
 
 
 Market Class        | Cost Per Week Per Hireling Type
@@ -761,22 +761,22 @@ The [Mercenary Troop Type](Chapter03.md#mercenary-troop-type) table below list t
 
 #### Mercenary Troop Type
 
-Gp Wage per Month                                                                            | Man    | Dwarf    | Elf    | Goblin | Orc
-:------------------------------------------------------------------------------------------- | -----: | -------: | -----: | -----: | -----: 
-Peasants (spear)                                                                             | 3      | -        | -      | -      | -
-Light Infantry (spear, short sword, shield, leather armor)                                   | 6      | -        | 10     | 3      | 6
-Heavy Infantry (spear, sword, shield, banded plate armor)                                    | 12     | 18       | 24     | -      | 9
-Slingers (sling, short sword, shield, leather armor)                                         | 6      | -        | -      | 3      | -
-Bowmen (short bow, short sword, leather armor)                                               | 9      | -        | 21     | 3      | 6
-Crossbowmen (arbalest, short sword, chainmail)                                               | 18     | 21       | -      | -      | 12
-Longbowmen (long bow, sword, chainmail)                                                      | 18     | -        | 42     | -      | -
-Light Cavalry (lance, sword, shield, leather armor, light warhorse)                          | 30     | -        | 60     | -      | -
-Mounted Crossbowmen (crossbow, short sword, chainmail, mule)                                 | -      | 45       | -      | -      | -
-Horse Archers (composite bow, scimitar, leather armor, light warhorse)                       | 45     | -        | 90     | -      | -
-Medium Cavalry (lance, sword, shield, lamellar, medium warhorse)                             | 45     | -        | -      | -      | -
-Heavy Cavalry (lance, sword, shield, plate armor, chain barded medium warhorse)              | 60     | -        | -      | -      | -
-Cataphract Cavalry (composite bow, sword, shield, plate, chain barded medium warhorse)       | 75     | -        | 140    | -      | -
-Beast Riders (spear, short sword, shield, leather or scale armor, dire wolf or giant boar)   | -      | -        | -      | 15     | 35
+Gp Wage per Month                                                                             | Man    | Dwarf    | Elf    | Goblin | Orc
+:-------------------------------------------------------------------------------------------- | -----: | -------: | -----: | -----: | -----: 
+Peasants (spear)                                                                              | 3      | -        | -      | -      | -
+Light Infantry (3 javelins, short sword, shield, leather armor)                               | 6      | -        | 10     | 3      | 6
+Heavy Infantry (spear, sword, shield, banded plate armor)                                     | 12     | 18       | 24     | -      | 9
+Slingers (sling, short sword, shield, leather armor)                                          | 6      | -        | -      | 3      | -
+Bowmen (shortbow, short sword, leather armor)                                                 | 9      | -        | 21     | 3      | 6
+Crossbowmen (arbalest, short sword, chainmail)                                                | 18     | 21       | -      | -      | 12
+Longbowmen (longbow, sword, chainmail)                                                        | 18     | -        | 42     | -      | -
+Light Cavalry (3 javelins, sword, shield, leather armor, light warhorse)                      | 30     | -        | 60     | -      | -
+Mounted Crossbowmen (crossbow, short sword, chainmail, mule)                                  | -      | 45       | -      | -      | -
+Horse Archers (composite bow, scimitar, leather armor, light warhorse)                        | 45     | -        | 90     | -      | -
+Medium Cavalry (lance, sword, shield, lamellar, medium warhorse)                              | 45     | -        | -      | -      | -
+Heavy Cavalry (lance, sword, shield, plate armor, chain barded medium warhorse)               | 60     | -        | -      | -      | -
+Cataphract Cavalry (composite bow, lance, sword, shield, plate, chain barded medium warhorse) | 75     | -        | 140    | -      | -
+Beast Riders (spear, short sword, shield, leather or scale armor, dire wolf or giant boar)    | -      | -        | -      | 15     | 35
 
 
 
@@ -799,11 +799,11 @@ Below are several possible specialists and typical monthly pay rates. This list 
 
 **Alchemist** (250gp/month): Alchemists are valuable specialists because they dedicate their expertise to creating potions and other concoctions. They may work as assistants to mages to help them create potions. They may also research new potions as if they were 5th level mages, but at twice the base time and cost. See [Magic Research](Chapter07.md#magic-research) in Chapter 7.
 
-**Animal Trainer** (25gp to 250gp/month): Characters wishing to ride hippogriffs or employ carnivorous apes as guards will need the assistance of an animal trainer. The lowest cost above is for a standard animal trainer, able to train one type of "normal" animal such as warhorses; those able to train more than one sort of animal, or to train monsters such as hippogriffs, are more expensive to hire. The Judge decides how long an animal must be trained, based on the nature of the training. It will take a minimum of 1 month to tame a wild animal. Likewise it takes a minimum of one month to teach an already tame animal one behavior. After the first month, an animal has become accustomed to a trainer and can be taught additional behaviors at half the time per behavior. If training is interrupted, all time already spent on that particular behavior is lost.
+**Animal Trainer** (25gp to 250gp/month): Characters wishing to ride hippogriffs or employ carnivorous apes as guards will need the assistance of an animal trainer. The lowest cost above is for a standard animal trainer, able to train one type of "normal" animal such as warhorses; those able to train more than one sort of animal, or to train monsters such as hippogriffs, are more expensive to hire. The Judge decides how long an animal must be trained, based on the nature of the training. It will take a minimum of one month to tame a wild animal. Likewise it will take a minimum of one month to teach an already tame animal one behavior. After the first month, an animal has become accustomed to a trainer and can be taught additional behaviors at half the time per behavior. If training is interrupted, all time already spent on that particular behavior is lost.
 
 If an animal is being tamed and the time is interrupted, the animal will rebel and cannot ever be tamed. In some cases, animal training may take years, a fact that adventurers may find inconvenient as well as expensive. A single animal trainer can train and manage no more than 6 animals at a time. Once an animal is fully trained and put into service the animal trainer won't be needed to handle it any longer.
 
-**Armorer** (75gp/month): Each month, an armorer can make 40gp worth of weapons, armor, or shields. In addition to being hired for producing weapons and armor, armorers must be hired at the frequency of 1 per 60 troops in order maintain fix armor and weapons. Armorers may be assisted by up to two journeymen (20gp/month) and four apprentices (10gp/month). An armorer with one journeyman and two apprentices produces 100gp per month and can maintain 150 troops; an armorer with two journeymen and four apprentices produces 160gp per month and can maintain 240 troops.
+**Armorer** (75gp/month): Each month, an armorer can make 40gp worth of weapons, armor, or shields. In addition to being hired for producing weapons and armor, armorers must be hired at the frequency of 1 per 60 troops in order maintain fix and armor and weapons. Armorers may be assisted by up to two journeymen (20gp/month) and four apprentices (10gp/ month). An armorer with one journeyman and two apprentices produces 100gp per month and can maintain 150 troops; an armorer with two journeymen and four apprentices produces 160gp per month and can maintain 240 troops.
 
 **Engineer** (250gp/month): Engineers plan and oversee large construction projects, such as building strongholds. The number of engineers required is based on the value of the project. A minimum of 1 engineer is needed, with an additional engineer per 100,000gp value of the project. For example, if a project is 60,000gp it will require 1 engineer, and if it is 200,000gp it will require 2 engineers. Human engineers usually handle large aboveground structures, while dwarves are usually hired for underground construction.
 

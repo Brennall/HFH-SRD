@@ -24,6 +24,7 @@ all: html/index.html
 clean:
 	-rm $(HTML)
 	-rm html/index.html
+	-rm html/toc.html
 	-rmdir html
 	-rm acks.html
 

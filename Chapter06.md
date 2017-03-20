@@ -168,8 +168,8 @@ Structural hit points operate in the same manner as hit points do for monsters a
 
 Sea Vessel             | Sailors | Rowers | Marines | Ft/Rd Sailing | Ft/Rd Rowing | Mi/Day Sailing | Mi/Day Rowing | Cargo (stone) | Armor Class | Structural Hit Points
 :--------------------- | ------: | -----: | ------: | ------------: | -----------: | -------------: | ------------: | ------------: | ----------: | :----------------------
-Boat, river            | -       | 1      | 1       | -             | 60'          | -              | 36            | 400           | 1           | 20 - 45
-Boat, sailing          | 1       | -      | -       | 45'           | -            | 72             | -             | 600           | 1           | 20 - 45
+Boat, river            | -       | 1      | 1       | -             | 60'          | -              | 36            | 600           | 1           | 20 - 45
+Boat, sailing          | 1       | -      | -       | 45'           | -            | 72             | -             | 400           | 1           | 20 - 45
 Canoe                  | -       | 1      | -       | -             | 60'          | -              | 18            | 60            | 0           | 5 - 10
 Galley, large          | 20      | 180    | 50      | 60'           | 120'         | 90             | 50            | 4000          | 2           | 95 - 120
 Galley, small          | 10      | 60     | 20      | 60'           | 150'         | 90             | 60            | 2000          | 1           | 75 - 100
@@ -613,9 +613,9 @@ When combatants successfully attack, they deal damage. Damage dealt is based on 
 
 - Small melee weapons designed exclusively for one-handed use, such as hand axes, javelins, and short swords, always deal 1d6 points of damage.
 
-- Medium melee weapons designed for both one- or two-handed use, such as flails, battle axes, maces, morning stars, picks, spears, swords, and warhammers, deal 1d6 points of damage when wielded one-handed, or 1d8 points of damage when wielded two-handed.
+- Medium melee weapons designed for both one- or two-handed use, such as flails, battle axes, maces, picks, spears, swords, and warhammers, deal 1d6 points of damage when wielded one-handed, or 1d8 points of damage when wielded two-handed.
 
-- Large melee weapons designed exclusively for two-handed use, such as polearms and two-handed swords, deal 1d10 points of damage. Such weapons penalize the wielder's Initiative roll by 1, however.
+- Large melee weapons designed exclusively for two-handed use, such as morning stars, polearms, and two-handed swords, deal 1d10 points of damage. Such weapons penalize the wielder's Initiative roll by 1, however.
 
 - Thrown daggers, darts, and sling stones deal 1d4 points of damage. All arrows and crossbow bolts deal 1d6 points of damage.
 

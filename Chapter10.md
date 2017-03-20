@@ -730,32 +730,32 @@ Roll      | Barren, Desert        | Inhabited              | City               
 
 Roll      | Clear, Grass, Scrub   | Woods                  | River                  | Swamp                  | Barrens, Mountains, Hills
 --------: | :-------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
-1         | Brigand               | Brigands               | Brigand                | Brigand                | Brigand
-2         | Noble                 | Bandit                 | Bandit                 | Bandit                 | Bandit
+1         | Brigand               | Brigand                | Brigand                | Brigand                | Brigand
+2         | Noble                 | Thief*                 | Thief*                 | Thief*                 | Thief*
 3         | Mage*                 | NPC Party*             | NPC Party*             | NPC Party*             | NPC Party*
-4         | Fighter*              | Merchant               | Merchant               | NPC Party*             | Trader
-5         | Bandit                | Berserker              | Buccaneer              | Merchant               | Berserker
+4         | Fighter*              | Merchant               | Merchant               | NPC Party*             | Venturer*
+5         | Thief*                | Berserker              | Buccaneer              | Merchant               | Berserker
 6         | Cleric*               | Brigand                | Buccaneer              | Cleric*                | NPC Party*
-7         | Nomad                 | Cleric*                | Cleric*                | Trader                 | Acolyte
-8         | Bandit                | Mage*                  | Mage*                  | Berserker              | Mage*
-9         | NPC Party*            | Veteran                | Fighter*               | Fighter*               | Fighter*
-10        | Merchant              | Bandit                 | Merchant               | Mage*                  | Brigand
+7         | Nomad                 | Cleric*                | Cleric*                | Venturer*              | Cleric*
+8         | Thief*                | Mage*                  | Mage*                  | Berserker              | Mage*
+9         | NPC Party*            | Fighter*               | Fighter*               | Fighter*               | Fighter*
+10        | Merchant              | Thief*                 | Merchant               | Mage*                  | Brigand
 11        | Berserker             | Brigand                | Buccaneer              | NPC Party*             | NPC Party*
-12        | Trader                | NPC Party**            | NPC Party**            | Bandit                 | Tribesman
+12        | Venturer*             | NPC Party*             | NPC Party*             | Thief*                 | Barbarian*
 
 
 Roll      | Desert                | Inhabited              | City                   | Ocean                  | Jungle
 --------: | :-------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
-1         | Nomad                 | Bandit                 | Bandit                 | Buccaneer              | Brigand
-2         | Nomad                 | Trader                 | Trader                 | Pirate                 | Trader
-3         | NPC Party*            | NPC Party              | NPC Party              | Merchant               | Bandit
+1         | Nomad                 | Thief*                 | Thief*                 | Buccaneer              | Brigand
+2         | Nomad                 | Venturer*              | Venturer*              | Pirate                 | Venturer*
+3         | NPC Party*            | NPC Party              | NPC Party              | Merchant               | Thief*
 4         | Merchant              | NPC Party              | NPC Party              | NPC Party*             | NPC Party*
 5         | Nomad                 | Merchant               | Merchant               | Pirate                 | Cleric*
-6         | Nomad                 | Veteran                | Veteran                | Merchant               | Fighter*
-7         | Cleric*               | Bandit                 | Merchant               | Merchant               | Medium
+6         | Nomad                 | Fighter*               | Fighter*               | Merchant               | Fighter*
+7         | Cleric*               | Thief*                 | Merchant               | Merchant               | Medium
 8         | Mage*                 | Fighter*               | Fighter*               | Merchant               | Berserker
-9         | Fighter*              | Magic-User*            | Mage*                  | Buccaneer              | Brigand
-10        | Noble                 | Acolyte                | Cleric*                | Pirate                 | Tribesman
+9         | Fighter*              | Mage*                  | Mage*                  | Buccaneer              | Brigand
+10        | Noble                 | Cleric*                | Cleric*                | Pirate                 | Barbarian*
 11        | Nomad                 | Cleric*                | Cleric*                | Merchant               | NPC Party*
 12        | Nomad                 | Noble                  | Noble                  | Pirate                 | Brigand
 
@@ -801,34 +801,34 @@ Roll     | Barrens                | Desert                 | City               
 
 Roll     | Clear, Grass, Scrub    | Woods                  | River                  | Hills                  | Mountains
 -------: | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
-1        | Antelope               | Antelope               | Antelope               | Antelope               | Antelope
-2        | Boar                   | Bat*                   | Bear, Black            | Bear, Grizzly          | Bear, Cave
-3        | Cat, Lion              | Bear, Grizzly          | Boar                   | Boar                   | Cat, Mtn. Lion
-4        | Cat, Panther           | Boar                   | Cat, Panther           | Cat, Mtn. Lion         | Eagle*
-5        | Elephant               | Cat, Panther           | Crab, Giant            | Eagle*                 | Goat, Wild
+1        | Herd Animal (Antelope) | Herd Animal (Antelope) | Herd Animal (Antelope) | Herd Animal (Antelope) | Herd Animal (Antelope)
+2        | Boar*                  | Bat*                   | Bear, Black            | Bear, Grizzly          | Bear, Cave
+3        | Cat, Lion              | Bear, Grizzly          | Boar*                  | Boar*                  | Cat, Mountain Lion
+4        | Cat, Panther           | Boar*                  | Cat, Panther           | Cat, Mountain Lion     | Eagle*
+5        | Elephant               | Cat, Panther           | Crab, Giant            | Eagle*                 | Herd Animal (Goat)
 6        | Hawk*                  | Hawk*                  | Crocodile*             | Hawk*                  | Hawk*
-7        | Horse, Riding          | Owl*                   | Leech, Giant           | Horse, Riding          | Mule (Donkey)
-8        | Lizard, Tuatara        | Snake, Pit Viper       | Piranha, Giant         | Sheep                  | Rock Baboon
-9        | Mule (Donkey)          | Spider, Bl. Wid.       | Rat*                   | Snake, Pit Viper       | Snake, Pit Viper
-10       | Snake, Pit Viper       | Unicorn                | Shrew, Giant           | Owl*                   | Snake, Rattler
-11       | Snake, Rattler         | Wolf                   | Swan                   | Wolf                   | Wolf
+7        | Horse, Light           | Owl*                   | Leech, Giant           | Horse, Light           | Mule (Donkey)
+8        | Lizard, Tuatara        | Snake, Pit Viper       | Piranha, Giant         | Herd Animal (Sheep)    | Baboon, Rock
+9        | Mule (Donkey)          | Spider, Black Widow    | Rat*                   | Snake, Pit Viper       | Snake, Pit Viper
+10       | Snake, Pit Viper       | Unicorn                | Shrew, Giant           | Owl*                   | Snake, Giant Rattler
+11       | Snake, Giant Rattler   | Wolf                   | Swan                   | Wolf                   | Wolf
 12       | Weasel, Giant          | Wolf, Dire             | Toad, Giant            | Wolf, Dire             | Wolf, Dire
 
 
 
 Roll     | Barrens                | Desert                 | Inhabited              | Jungle                 | Prehistoric
 -------: | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
-1        | Antelope               | Antelope               | Antelope               | Antelope               | Bear, Cave
-2        | Bear, Cave             | Antelope               | Boar                   | Boar                   | Cat, Sabre-Tooth
-3        | Cat, Mtn. Lion         | Camel                  | Dog                    | Cat, Panther           | Crocodile, Giant
+1        | Herd Animal (Antelope) | Herd Animal (Antelope) | Goat                   | Herd Animal (Antelope) | Bear, Cave
+2        | Bear, Cave             | Herd Animal (Antelope) | Boar*                  | Boar*                  | Cat, Sabre-Tooth Tiger
+3        | Cat, Mountain Lion     | Camel                  | Dog                    | Cat, Panther           | Crocodile, Giant
 4        | Eagle*                 | Camel                  | Ferret, Giant          | Lizard, Draco          | Mastodon
 5        | Goat, Wild             | Cat, Lion              | Hawk*                  | Lizard, Gecko          | Pteranodon
-6        | Hawk*                  | Hawk*                  | Horse, Riding          | Lizard, Horned         | Rhino, Woolly
+6        | Hawk*                  | Hawk*                  | Horse, Light           | Lizard, Horned         | Rhino, Woolly
 7        | Rock Baboon            | Lizard, Gecko          | Mule (Donkey)          | Monkey                 | Snake, Python
 8        | Snake, Pit Viper       | Lizard, Tuatara        | Rat*                   | Shrew, Giant           | Stegosaurus
-9        | Snake, Rattler         | Snake, Rattler         | Snake, Pit Viper       | Snake, Pit Viper       | Titanothere
-10       | Spider, Crab           | Wolf (Wild Dog)        | Sheep                  | Snake, Python          | Triceratops
-11       | Wolf, Dire             | Wolf, Dire             | Weasel, Giant          | Snake, Spit Cobra      | Tyrannosaurus
+9        | Snake, Giant Rattler   | Snake, Giant Rattler   | Snake, Pit Viper       | Snake, Pit Viper       | Titanothere
+10       | Spider, Crab           | Wolf (Wild Dog)        | Herd Animal (Sheep)    | Snake, Python          | Triceratops
+11       | Wolf, Dire             | Wolf, Dire             | Weasel, Giant          | Snake, Spitting Cobra  | Tyrannosaurus Rex
 12       | Vulture                | Vulture                | Wolf                   | Spider, Crab           | Wolf, Dire
 
 *Roll 1d6: 1-4 Normal or Swarm, 5-6 Giant
@@ -838,13 +838,13 @@ Roll     | Barrens                | Desert                 | Inhabited          
 
 Roll     | Barrens                | Desert                 | Mountains              | Woods                  | Other
 -------: | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
-1        | Cockatrice             | Chimera                | Bat Swarm              | Bat, Giant             | Cockatrice
-2        | Gargoyle               | Cockatrice             | Chimera                | Bat Swarm              | Fly, Giant Carniv.
+1        | Cockatrice             | Chimera                | Swarm, Bat             | Bat, Giant             | Cockatrice
+2        | Gargoyle               | Cockatrice             | Chimera                | Swarm, Bat             | Fly, Giant Carnivorous
 3        | Griffon                | Gargoyle               | Cockatrice             | Cockatrice             | Gargoyle
 4        | Harpy                  | Griffon                | Gargoyle               | Griffon                | Griffon
 5        | Hawk, Giant            | Hawk, Giant            | Griffon                | Hawk, Giant            | Hawk, Giant
 6        | Hippogriff             | Lammasu                | Harpy                  | Hippogriff             | Hippogriff
-7        | Lammasu                | Manticore              | Hawk, Giant            | Pegasus                | Killer Bee
+7        | Lammasu                | Manticore              | Hawk, Giant            | Pegasus                | Bee, Killer Giant
 8        | Manticore              | Pterodactyl            | Hippogriff             | Owl, Giant             | Pegasus
 9        | Pegasus                | Roc, Small             | Manticore              | Pixie                  | Pixie
 10       | Roc, Small             | Sphinx                 | Pegasus                | Roc, Small             | Roc, Small
@@ -864,33 +864,33 @@ Roll     | River, Lake                  | Ocean                  | Swamp
 4        | Crocodile, Large             | Octopus, Giant         | Crocodile, Giant
 5        | Fish, Catfish                | Sea Dragon             | Fish, Catfish
 6        | Fish, Piranha                | Sea Serpent            | Insect Swarm
-7        | Fish, Sturgeon               | Shark                  | Insect Swarm
-8        | Leech, Giant                 | Shark                  | Leech, Giant
+7        | Fish, Sturgeon               | Shark*                 | Insect Swarm
+8        | Leech, Giant                 | Shark*                 | Leech, Giant
 9        | Lizard Man                   | Skittering Maw         | Leech, Giant
 10       | Merman                       | Snake, Sea             | Lizard Man
 11       | Naiad                        | Squid, Giant           | Lizard Man
 12       | Skittering Maw               | Whale                  | Skittering Maw
 
+*Roll 1d6: 1-2 Bull Shark, 3-4 Mako Shark, 5-6 Great White Shark
 
 #### Wilderness Encounters: Other
 
-Roll           | Dragon                 | Insect                 | Undead                 | Unusual
--------------: | :--------------------- | :--------------------- | :--------------------- | :---------------------
-1              | Basilisk               | Beetle, Fire           | Ghoul                  | Basilisk
-2              | Caecilia               | Beetle, Oil            | Ghoul                  | Blink Dog
-3              | Chimera                | Beetle, Tiger          | Mummy                  | Centaur
-4              | Dragon*                | Carcass Scavenger      | Mummy                  | Gorgon
-5              | Dragon*                | Centipede, Giant       | Skeleton               | Hellhound
-6              | Sphinx                 | Driver Ant             | Skeleton               | Lycanthrope
-7              | Hydra/Sea Hydra        | Fly, Giant Carnivor.   | Spectre                | Medusa
-8              | Lamia                  | Killer Bee             | Wight                  | Phase Tiger
-9              | Purple Worm            | Rhagodessa             | Wraith                 | Rust Monster
-10             | Snake, Python          | Scorpion, Giant        | Vampire                | Skittering Maw
-11             | Salamander             | Spider, Bl. Widow      | Zombie                 | Treant
-12             | Wyvern                 | Spider, Crab           | Zombie                 | White Ape
+Roll           | Dragon                 | Insect                   | Undead                 | Unusual
+-------------: | :--------------------- | :----------------------- | :--------------------- | :---------------------
+1              | Basilisk               | Beetle, Fire             | Ghoul                  | Basilisk
+2              | Caecilian              | Beetle, Giant Bombardier | Ghoul                  | Blink Dog
+3              | Chimera                | Beetle, Tiger            | Mummy                  | Centaur
+4              | Dragon*                | Carcass Scavenger        | Mummy                  | Gorgon
+5              | Dragon*                | Centipede, Giant         | Skeleton               | Hellhound
+6              | Sphinx                 | Ant, Giant               | Skeleton               | Lycanthrope
+7              | Hydra/Sea Hydra        | Fly, Giant Carnivorous   | Spectre                | Medusa
+8              | Lamia                  | Killer Bee               | Wight                  | Phase Tiger
+9              | Purple Worm            | Rhagodessa               | Wraith                 | Rust Monster
+10             | Snake, Python          | Scorpion, Giant          | Vampire                | Skittering Maw
+11             | Salamander             | Spider, Black Widow      | Zombie                 | Treant
+12             | Wyvern                 | Spider, Crab             | Zombie                 | Ape, White
 
-*Always Black in Swamp, Blue in Desert, Green in Woods, Gold in Rivers/Lakes, Red in Mountains, Sea in Oceans. Otherwise roll 1d6: 1 Black, 2 Blue, 3 Gold, 4 Green, 5 Red, 6 White.
-
+*Always Black in Swamp, Blue in Mountains, Brown in Desert, Green in Woods, Red in Barrens, Sea in Oceans/Rivers/Lake. Otherwise roll 1d10: 1 Black, 2 Blue, 3 Brown, 4 Green, 5 Metallic, 6 Red, 7 Sea, 8 White, 9 Wyrm, 10 Judge’s Choice.
 
 ### NPC Parties
 
@@ -1123,18 +1123,18 @@ Slave soldiers are usually either born into slavery or enslaved in early childho
 Slave Troop Type                                                                              | Man    | Dwarf  | Elf    | Goblin     | Orc
 :-------------------------------------------------------------------------------------------- | -----: | -----: | -----: | ---------: | -----:
 Militia (spear)                                                                               | 40     | -      | -      | -          | -
-Light Infantry (spear, short sword, shield, leather armor)                                    | 215    | -      | 315    | 85         | 185
+Light Infantry (3 javelins, short sword, shield, leather armor)                               | 215    | -      | 315    | 85         | 185
 Heavy Infantry (spear, sword, shield, banded plate armor)                                     | 415    | 650    | 800    | -          | 285
 Slingers (sling, short sword, shield, leather armor)                                          | 185    | -      | -      | 85         | -
 Bowman (short bow, short sword, leather armor)                                                | 275    | -      | 650    | 85         | 175
 Crossbowmen (arbalest, short sword, chainmail)                                                | 600    | 750    | -      | -          | 415
 Longbowmen (long bow, sword, chainmail)                                                       | 650    | -      | 1,400  | -          | -
-Light Cavalry (lance, sword, shield, leather armor, light warhorse)                           | 1,150  | -      | 2,150  | -          | -
+Light Cavalry (3 javelins, sword, shield, leather armor, light warhorse)                      | 1,150  | -      | 2,150  | -          | -
 Mounted Crossbowman (crossbow, short sword, chainmail, mule)                                  | -      | 1,575  | -      | -          | -
 Horse Archers (composite bow, scimitar, leather armor, light warhorse)                        | 1,700  | -      | 3,200  | -          | -
 Medium Cavalry (lance, sword, shield, lamellar, medium warhorse)                              | 1,800  | -      | -      | -          | -
 Heavy Cavalry (lance, sword, shield, plate armor, chain barded medium warhorse)               | 2,500  | -      | -      | -          | -
-Cataphract Cavalry (composite bow, sword, shield, plate, chain barded medium warhorse)        | 3,125  | -      | -      | -          | -
+Cataphract Cavalry (composite bow, sword, shield, plate, chain barded medium warhorse)        | 3,125  | -      | 5,250  | -          | -
 Beast Riders (spear, short sword, shield, leather or scale armor, dire wolf or giant boar)    | -      | -      | -      | 1,200      | -
 
 

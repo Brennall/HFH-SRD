@@ -337,7 +337,7 @@ Maximum Level:   | 14
 
 Thieves have a range of unique skills associated with their profession that make them very handy companions in adventures. However, thieves can be a bit shady and they sometimes are not as trustworthy as other classes. A thief will usually belong to a Thieves' Guild from the character's local town, where he can seek shelter and information between adventures. At the Judge's discretion, a thief may have to forfeit a portion of his earnings to the guild in exchange for protection. Thieves are everywhere, from the slums to the highest halls of the government.
 
-Thieves are trained combatants, although not as skilled as fighters. At first level, thieves hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws and saving throws by two points every four levels of experience. Because of their need of stealth and free movement, thieves cannot wear armor heavier than leather, and they cannot use shields. They may use any missile weapons and any one-handed melee weapons, and may wield a weapon in each hand if desired.
+Thieves are trained combatants, although not as skilled as fighters. At first level, thieves hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws and saving throws by two points every four levels of experience. Because of their need for stealth and free movement, thieves cannot wear armor heavier than leather, and cannot use shields or exclusively two-handed melee weapons such as great axes or polearms. They may use any missile weapons and any one-handed melee weapons. They may fight with a one-handed weapon in each hand, or wielding a one-handed weapon with two hands.
 
 A thief also has the ability to backstab. He must catch an opponent unaware of his presence, either by surprise or by moving silently and/or hiding in shadows to sneak up on his opponent. When backstabbing, the thief will receive an attack bonus of +4 and, if successful, deal additional damage for every four levels he has attained. A thief at 1st through 4th levels does double the normal damage, at 5th-8th levels does triple the normal damage, at 9th-12th levels does quadruple the normal damage, and at 13th level or higher does quintuple the normal damage.
 
@@ -444,7 +444,7 @@ Assassins are humans who train to kill by ambush and treachery. Assassins may be
 
 Assassins are expert combatants, though lacking somewhat in toughness (hit points). At first level, assassins hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws and saving throws as fighters, by two points every three levels of experience. Assassins increase their base damage roll from successful missile and melee attacks by +1 at 1st level and by an additional +1 at 3rd, 6th, 9th, and 12th level.
 
-Assassins may use any weapon without limitation. Although assassins generally prefer fast, concealable, or quiet weapons, killing can occur under many circumstances. They may fight with two-handed weapons or with a weapon in each hand, but they are not trained in the use of shields.
+Assassins may use any weapon without limitation. Although assassins generally prefer fast, concealable, or quiet weapons, killing can occur under many circumstances. They may fight using a weapon two-handed, a weapon in each hand, or a weapon and shield.
 
 Assassins may wear any type of armor, but most favor stealth over steel. When wearing leather armor or lighter garb, an assassin may move silently, hide in shadows, and backstab as a thief of the same level. If wear armor heavier than leather, these abilities are not available.
 
@@ -494,7 +494,7 @@ Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & W
 10    |                        9+ |             8+ |            10+ |            10+ |    11+ |           4+
 11-12 |                        8+ |             7+ |             9+ |             9+ |    10+ |           3+
 13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+
-14+   |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
+14    |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
 
 
 ### Bard
@@ -824,15 +824,15 @@ This pre-generated template represents a craftpriest focused on reclaiming lost 
 Experience | Title                        | Level | Hit Dice |   1 |   2 |   3 |   4 |   5
 ---------: | :--------------------------- | ----: | :------- | --: | --: | --: | --: | --:
          0 | Dwarven Craft-Catechist      |     1 | 1d6      |   0 |   0 |   0 |   0 |   0
-     2,650 | Dwarven Craft-Acolyte        |     2 | 2d6      |   1 |   0 |   0 |   0 |   0
-     5,300 | Dwarven Craftpriest          |     3 | 3d6      |   2 |   0 |   0 |   0 |   0
-    10,600 | Dwarven Craft-Curate         |     4 | 4d6      |   2 |   1 |   0 |   0 |   0
-    21,200 | Dwarven Craft-Vicar          |     5 | 5d6      |   2 |   2 |   0 |   0 |   0
-    42,500 | Dwarven Craft-Rector         |     6 | 6d6      |   2 |   2 |   1 |   1 |   0
-    85,000 | Dwarven Craft-Prelate        |     7 | 7d6      |   2 |   2 |   2 |   1 |   1
-   170,000 | Dwarven Craft-Bishop         |     8 | 8d6      |   3 |   3 |   2 |   2 |   1
-   300,000 | Dwarven Craft-Lord           |     9 | 9d6      |   3 |   3 |   3 |   2 |   2
-   430,000 | Dwarven Craft-Lord, 10th lvl |    10 | 9d6+2*   |   4 |   4 |   3 |   3 |   2
+     2,400 | Dwarven Craft-Acolyte        |     2 | 2d6      |   1 |   0 |   0 |   0 |   0
+     4,800 | Dwarven Craftpriest          |     3 | 3d6      |   2 |   0 |   0 |   0 |   0
+     9,600 | Dwarven Craft-Curate         |     4 | 4d6      |   2 |   1 |   0 |   0 |   0
+    19,200 | Dwarven Craft-Vicar          |     5 | 5d6      |   2 |   2 |   0 |   0 |   0
+    38,400 | Dwarven Craft-Rector         |     6 | 6d6      |   2 |   2 |   1 |   1 |   0
+    75,000 | Dwarven Craft-Prelate        |     7 | 7d6      |   2 |   2 |   2 |   1 |   1
+   150,000 | Dwarven Craft-Bishop         |     8 | 8d6      |   3 |   3 |   2 |   2 |   1
+   280,000 | Dwarven Craft-Lord           |     9 | 9d6      |   3 |   3 |   3 |   2 |   2
+   410,000 | Dwarven Craft-Lord, 10th lvl |    10 | 9d6+2*   |   4 |   4 |   3 |   3 |   2
 
 *Hit point modifiers from constitution are ignored
 
@@ -918,7 +918,7 @@ Maximum Level:   | 11
 
 Elves are a subtle race, and never does their gift for finesse and subtlety so reveal itself as in the practice of death-dealing. Cunning, deadly, and rarely seen, the elven nightblade is an assassin and sorcerer whose art is murder. Most nightblades practice their work in the courts of elven nobility.
 
-At first level, elven nightblades hit an unarmored foe (AC 0) with an attack throw of 10+. Elven nightblades advance in attack throws and saving throws as thieves, by two points every four levels of experience. They may fight with any missile weapons and any one-handed melee weapons, and may wield a weapon in each hand if desired. They cannot wear armor heavier than leather, and cannot use shields.
+At first level, elven nightblades hit an unarmored foe (AC 0) with an attack throw of 10+. Elven nightblades advance in attack throws and saving throws as thieves, by two points every four levels of experience. They may use any missile weapons and any one-handed melee weapons. They may fight with a one-handed weapon in each hand, or wielding a one-handed weapon with two hands. They cannot wear armor heavier than leather, and cannot use shields or exclusively two-handed melee weapons such as great axes or polearms.
 
 Elven nightblades may move silently, hide in shadows, climb walls, and backstab as a thief of the same level. In addition, they may perform feats of acrobatics. In lieu of moving during a round, the nightblade may attempt a proficiency throw of 20+ to tumble behind an opponent in melee. The proficiency throw required for the tumble is reduced by 1 per level of experience the character possesses. If successful, the nightblade is now behind his opponent. The opponent loses the benefit of his shield, if any, and the nightblade can backstab his opponent (gaining +4 to his attack throw and bonus damage based on his level). Nightblades also gain a +2 bonus to saving throws where agility would help avoid the situation, such as tilting floors and pit traps.
 

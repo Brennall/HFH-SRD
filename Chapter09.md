@@ -885,7 +885,7 @@ A scroll of warding can be used by any character that can read it. When the magi
 
 Rods are sometimes usable by any class, but many are restricted to use by certain classes only. Wands are only usable by arcane spellcasters such as mages or elven spellswords. A staff may be usable by either arcane or divine spellcasters, depending on the kind of staff. When a class-restricted item is described, the name of the item will be followed by either "D" if it is usable by a divine spellcaster, "A" if it is usable by arcane spellcasters, and "AD" if usable by both.
 
-Each of these magic items generally uses a "charge" when its effect is triggered, and each item has a limited number of charges. When found, a rod will contain 2d6 charges, a staff will contain 3d10 charges, and a wand will contain 2d10 charges. Exceptions will be noted in specific item descriptions. Physically, these three types of magic items differ primarily in size. Wands are small and thin, being about 18 inches long. A staff is much larger, being 6' long and generally has a 2' diameter. Rods are somewhere in-between these two kinds of items, being about 3' long.
+Each of these magic items generally uses a "charge" when its effect is triggered, and each item has a limited number of charges. When found, a rod will contain 2d6 charges, a staff will contain 3d10 charges, and a wand will contain 2d10 charges. Exceptions will be noted in specific item descriptions. Physically, these three types of magic items differ primarily in size. Wands are small and thin, being about 18 inches long. A staff is much larger, being 6' long and generally has a 2" diameter. Rods are somewhere in-between these two kinds of items, being about 3' long.
 
 
 **Rod of Cancellation**: This item is highly feared by those who value their magic items, for with but one touch of this rod, a magic item permanently loses all of its power and becomes an ordinary item. When attempting to strike an item on an opponent, treat the attack as if it needs to hit an AC of 0. The Judge, depending on the circumstances, may adjust this value. This rod is usable once and may not be recharged.
@@ -1363,10 +1363,10 @@ Roll 1d10 | Destroy Opponent Type...
 10        | Opposed alignment (lawful if chaotic, chaotic if lawful, either if neutral
 
 
-
 When a sentient weapon is used to attack an opponent that fits its motivation, a special power is used against the opponent. These powers are determined by the alignment of the sword. A chaotic sword will energy drain an opponent of the appropriate type by one level per point of magical bonus. A lawful sword will strike an opponent of the appropriate type for one extra damage die per point of magical bonus. A neutral sword will grants the sword wielder a bonus to Armor Class and saving throws equals to its magical bonus when combating an appropriate opponent.
 
 *Example*: Blackguard is a chaotic +3 vorpal two-handed sword with a motivation to destroy lawful opponents. It energy drains 3 levels from any lawful opponent it strikes.
+
 
 #### Powers
 
