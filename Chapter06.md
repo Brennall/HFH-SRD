@@ -84,30 +84,30 @@ The wilderness is not cramped like in a dungeon, and characters can usually see 
 
 Long-distance movement rates when traveling in the wilderness are related directly to exploration movement rates, as shown on the table below:
 
-Exploration Movement (Feet per Turn)       | Wilderness Movement (Miles per Day)
------------------------------------------: | ------------------------------------:
-30'                                        | 6
-60'                                        | 12
-90'                                        | 18
-120'                                       | 24
-150'                                       | 30
-180'                                       | 36
-210'                                       | 42
-240'                                       | 48
-270'                                       | 54
-300'                                       | 60
-330'                                       | 66
-360'                                       | 72
+| Exploration Movement (Feet per Turn)       | Wilderness Movement (Miles per Day)
+| -----------------------------------------: | ------------------------------------:
+| 30'                                        | 6
+| 60'                                        | 12
+| 90'                                        | 18
+| 120'                                       | 24
+| 150'                                       | 30
+| 180'                                       | 36
+| 210'                                       | 42
+| 240'                                       | 48
+| 270'                                       | 54
+| 300'                                       | 60
+| 330'                                       | 66
+| 360'                                       | 72
 
 
 Naturally, any party traveling together moves at the rate of the slowest member. The movement rates shown on the table above are figured based on an 8 hour day of travel through open, clear terrain. The terrain type will alter the rate somewhat, as shown on this table:
 
 
-Terrain                                | Movement Multiplier
-:------------------------------------- | -------------------:
-Desert, hills, wooded areas            | x2/3
-Thick jungle, swamps, mountains        | x1/2
-Road travel, clear wide trails         | x3/2
+| Terrain                                | Movement Multiplier
+| :------------------------------------- | -------------------:
+| Desert, hills, wooded areas            | x2/3
+| Thick jungle, swamps, mountains        | x1/2
+| Road travel, clear wide trails         | x3/2
 
 
 For example, if characters can travel 24 miles normally, but are following roads, they can travel 36 miles a day (24 x 3/2). If they are traveling through swampy land, they travel 12 miles (24 x 1/2) per day. Furthermore, certain kinds of terrain can slow travel at the Judge's discretion, such as if the characters have to cross canyons, large rivers, or other formations.
@@ -121,14 +121,14 @@ Unless there is an encounter, the Judge will direct players through time in incr
 
 Characters can confidently follow trails, roads, and other well-known landmarks without fear of becoming lost. However, when traveling across the wilderness it is easy to lose direction. At the start of each day of travel, the Judge will make a proficiency throw against the appropriate value from the table below to determine if the adventuring party gets lost. If any member of the party has the Navigation proficiency (as described in the [Proficiencies](Chapter04.md#chapter-4-proficiencies) chapter), the party should receive a +4 bonus on the proficiency throw.
 
-Terrain                   | Navigation
-:------------------------ | -----------:
-Plains                    | 4+
-Mountains or Hills        | 7+
-Forest or Coast           | 7+
-Open Sea                  | 11+
-Desert                    | 11+
-Jungle or Swamp           | 11+
+| Terrain                   | Navigation
+| :------------------------ | -----------:
+| Plains                    | 4+
+| Mountains or Hills        | 7+
+| Forest or Coast           | 7+
+| Open Sea                  | 11+
+| Desert                    | 11+
+| Jungle or Swamp           | 11+
 
 
 If the roll indicates that the group is lost, they likely will not realize it immediately. They will set out for their travels, and may not understand they are off course for days. The Judge determines which direction the group is traveling. One option is to pick a direction only slightly off of course. For example, if the adventurers intended to go south, they could actually be heading southwest or west. If using a hex map, the Judge can randomly determine the direction that the adventures travel by assigning each hex face a value from 1 to 6, and then rolling 1d6 to determine which hex face the adventurers head towards.
@@ -166,21 +166,21 @@ Characters do not map or march when adventuring at sea; they sail or row on sea 
 Structural hit points operate in the same manner as hit points do for monsters and characters. If a vessel is damaged to 0 or fewer hit points, it will no longer move and ship weapons no longer function. A ship will sink 1d10 rounds after it is reduced to 0 shp.
 
 
-Sea Vessel             | Sailors | Rowers | Marines | Ft/Rd Sailing | Ft/Rd Rowing | Mi/Day Sailing | Mi/Day Rowing | Cargo (stone) | Armor Class | Structural Hit Points
-:--------------------- | ------: | -----: | ------: | ------------: | -----------: | -------------: | ------------: | ------------: | ----------: | :----------------------
-Boat, river            | -       | 1      | 1       | -             | 60'          | -              | 36            | 600           | 1           | 20 - 45
-Boat, sailing          | 1       | -      | -       | 45'           | -            | 72             | -             | 400           | 1           | 20 - 45
-Canoe                  | -       | 1      | -       | -             | 60'          | -              | 18            | 60            | 0           | 5 - 10
-Galley, large          | 20      | 180    | 50      | 60'           | 120'         | 90             | 50            | 4000          | 2           | 95 - 120
-Galley, small          | 10      | 60     | 20      | 60'           | 150'         | 90             | 60            | 2000          | 1           | 75 - 100
-Galley, war            | 30      | 300    | 75      | 45'           | 120'         | 72             | 50            | 6000          | 2           | 125 - 150
-Lifeboat               | -       | 1      | -       | -             | 30'          | -              | 18            | 150           | 0           | 12 - 18
-Longship               | 75      | (60)   | (75)    | 60'           | 150'         | 90             | 60            | 2000          | 1           | 65 - 80
-Raft                   | 1       | -      | -       | -             | 30'          | -              | 12            | 2.5 per sq.ft.| 0           | 5 per sq. foot
-Sailing Ship, large    | 20      | -      | -       | 45'           | -            | 72             | -             | 30000         | 2           | 125 - 180
-Sailing Ship, small    | 12      | -      | -       | 60'           | -            | 90             | -             | 10000         | 1           | 65 - 90
-Troop Transport, large | 20      | -      | 50      | 45'           | -            | 72             | -             | 30000         | 2           | 150 - 200
-Troop Transport, small | 12      | -      | 25      | 60'           | -            | 90             | -             | 10000         | 1           | 90 - 110
+| Sea Vessel             | Sailors | Rowers | Marines | Ft/Rd Sailing | Ft/Rd Rowing | Mi/Day Sailing | Mi/Day Rowing | Cargo (stone) | Armor Class | Structural Hit Points
+| :--------------------- | ------: | -----: | ------: | ------------: | -----------: | -------------: | ------------: | ------------: | ----------: | :----------------------
+| Boat, river            | -       | 1      | 1       | -             | 60'          | -              | 36            | 600           | 1           | 20 - 45
+| Boat, sailing          | 1       | -      | -       | 45'           | -            | 72             | -             | 400           | 1           | 20 - 45
+| Canoe                  | -       | 1      | -       | -             | 60'          | -              | 18            | 60            | 0           | 5 - 10
+| Galley, large          | 20      | 180    | 50      | 60'           | 120'         | 90             | 50            | 4000          | 2           | 95 - 120
+| Galley, small          | 10      | 60     | 20      | 60'           | 150'         | 90             | 60            | 2000          | 1           | 75 - 100
+| Galley, war            | 30      | 300    | 75      | 45'           | 120'         | 72             | 50            | 6000          | 2           | 125 - 150
+| Lifeboat               | -       | 1      | -       | -             | 30'          | -              | 18            | 150           | 0           | 12 - 18
+| Longship               | 75      | (60)   | (75)    | 60'           | 150'         | 90             | 60            | 2000          | 1           | 65 - 80
+| Raft                   | 1       | -      | -       | -             | 30'          | -              | 12            | 2.5 per sq.ft.| 0           | 5 per sq. foot
+| Sailing Ship, large    | 20      | -      | -       | 45'           | -            | 72             | -             | 30000         | 2           | 125 - 180
+| Sailing Ship, small    | 12      | -      | -       | 60'           | -            | 90             | -             | 10000         | 1           | 65 - 90
+| Troop Transport, large | 20      | -      | 50      | 45'           | -            | 72             | -             | 30000         | 2           | 150 - 200
+| Troop Transport, small | 12      | -      | 25      | 60'           | -            | 90             | -             | 10000         | 1           | 90 - 110
 
 *Ft/Rd = feet per round
 
@@ -193,28 +193,28 @@ Long-distance movement rates when traveling at sea are based on the type of vess
 Movement of sailed ships varies depending on weather conditions, as shown on the following table. Sailing movement modifiers shown apply when sailing with the wind; sailing against the wind involves tacking (called "zigzagging" by landlubbers) which reduces movement rates two rows on the table (from Average Winds to Light Breeze, for instance).
 
 
-d12     | Wind Direction
-:------ | :----------------------
-1       | Northerly
-2       | Northeasterly
-3       | Easterly
-4       | Southeasterly
-5       | Southerly
-6       | Southwesterly
-7       | Westerly
-8       | Northwesterly
-9-12    | Prevailing wind direction for this locale
+| d12     | Wind Direction
+| :------ | :----------------------
+| 1       | Northerly
+| 2       | Northeasterly
+| 3       | Easterly
+| 4       | Southeasterly
+| 5       | Southerly
+| 6       | Southwesterly
+| 7       | Westerly
+| 8       | Northwesterly
+| 9-12    | Prevailing wind direction for this locale
 
 
-d20     | Wind Conditions          | Sailing
-:------ | :----------------------- | :-------
-1       | Becalmed                 | x0
-2-4     | Light Breeze             | x1/3
-5-8     | Moderate Breeze          | x2/3
-9-12    | Average Winds            | x1
-13-16   | Strong Winds             | x1 1/3
-17-19   | Very Strong Winds        | x1 2/3
-20      | Gale                     | x2
+| d20     | Wind Conditions          | Sailing
+| :------ | :----------------------- | :-------
+| 1       | Becalmed                 | x0
+| 2-4     | Light Breeze             | x1/3
+| 5-8     | Moderate Breeze          | x2/3
+| 9-12    | Average Winds            | x1
+| 13-16   | Strong Winds             | x1 1/3
+| 17-19   | Very Strong Winds        | x1 2/3
+| 20      | Gale                     | x2
 
 
 **Becalmed**: Sailing ships cannot move. Oared ships may move at the given rowing movement rate.
@@ -229,11 +229,11 @@ d20     | Wind Conditions          | Sailing
 Getting lost is easy to do in the trackless expanse of endless ocean. At the start of each day of travel, the Judge will make a proficiency throw against the appropriate value from the table below to determine if the party's ships get lost. If any member of the party has the Navigation proficiency (as described in the [Proficiencies](Chapter04.md#chapter-4-proficiencies) chapter), the party should receive a +4 bonus on the proficiency throw.
 
 
-Terrain        | Navigation
-:------------- | -----------:
-River or lake  | 4+
-Coast          | 7+
-Open Sea       | 11+
+| Terrain        | Navigation
+| :------------- | -----------:
+| River or lake  | 4+
+| Coast          | 7+
+| Open Sea       | 11+
 
 
 If the adventuring party becomes lost, the Judge will decide which direction the group is traveling, and how far off it is from their intended direction. He should adjust his description of the wind direction to reflect the direction the group believes it is traveling until they figure out their mistake.
@@ -270,18 +270,18 @@ The sequence of play in wilderness encounters is very much like the sequence des
 
 #### Encounter Distance
 
-Terrain                 | Encounter Distance (yards)
-:---------------------- | :-------------------------
-Badlands                | 2d6x10
-Desert                  | 4d6x10
-Fields, Fallow          | 4d6x10
-Fields, Ripe            | 5d10
-Fields, Wild            | 3d6x5
-Forest, Heavy or Jungle | 5d4
-Forest, Light           | 5d8
-Marsh                   | 8d10
-Mountains               | 4d6x10
-Plains                  | 5d20x10
+| Terrain                 | Encounter Distance (yards)
+| :---------------------- | :-------------------------
+| Badlands                | 2d6x10
+| Desert                  | 4d6x10
+| Fields, Fallow          | 4d6x10
+| Fields, Ripe            | 5d10
+| Fields, Wild            | 3d6x5
+| Forest, Heavy or Jungle | 5d4
+| Forest, Light           | 5d8
+| Marsh                   | 8d10
+| Mountains               | 4d6x10
+| Plains                  | 5d20x10
 
 Man-sized targets are visible from a maximum of 1,000 yards over flat plains. Larger creatures can spot and be spotted at greater distances. Likewise creatures can spot and be spotted at greater distances if they are on towers, high hills, and so on. Increase the spotting distance in proportion to the increase in height or elevation relative to a man (6'). *Example*: Adventurers encounter a 12' tall ettin in a light forest. The base encounter distance is 5d8 yards, and the Judge rolls a 21, yielding 21 yards. However, the ettin is double the height of a man, so the encounter distance is doubled to 42 yards. If the adventurers were standing on a 24' hill (four times the height of a man), the encounter distance would multiply by (4+1) five times, to 105 yards.
 
@@ -308,10 +308,10 @@ In such circumstances, the Judge makes a surprise roll for the monsters and/or t
 
 #### Surprise
 
-Adjusted Die Roll      | Result
-:--------------------- | :---------
-2-                     | Surprised
-3-6+                   | Ready
+| Adjusted Die Roll      | Result
+| :--------------------- | :---------
+| 2-                     | Surprised
+| 3-6+                   | Ready
 
 Surprised monsters or characters are caught off guard for one round. Surprised opponents can be attacked with a +2 bonus to the attack throw, and gain no benefit from their shields (if any). Thieves can backstab surprised opponents. If all characters and monsters in an encounter are surprised, no one acts for the entire first round, but the second round initiative is rolled normally. Ready characters or monsters are on their guard and may act in the first round.
 
@@ -346,13 +346,13 @@ In cases where the reaction of the monsters to the party is not obvious, a react
 
 #### Monster Reaction
 
-Adjusted Die Roll      | Result
-:--------------------- | :-------------------------
-2-                     | Hostile, attacks
-3-5                    | Unfriendly, may attack
-6-8                    | Neutral, uncertain
-9-11                   | Indifferent, uninterested
-12+                    | Friendly, helpful
+| Adjusted Die Roll      | Result
+| :--------------------- | :-------------------------
+| 2-                     | Hostile, attacks
+| 3-5                    | Unfriendly, may attack
+| 6-8                    | Neutral, uncertain
+| 9-11                   | Indifferent, uninterested
+| 12+                    | Friendly, helpful
 
 
 A result of Hostile means that the adventurers have so offended the monsters that they attack immediately. An Unfriendly result means that the monsters do not like the adventurers, and will attack if they may reasonably do so. A Neutral result simply means that the monsters will consider letting the adventurers live if they choose to parley; it does not necessarily mean that the monsters like the adventurers. An Indifferent result means that monsters will ignore the adventurers if possible and negotiate if not. A Friendly result means that the monsters (or perhaps only the monster leader) do, in fact, like the adventurers; this does not mean that the monsters will just hand over their treasure, but it does indicate that they may choose to cooperate with the adventurers in mutually beneficial ways. Friendly monsters can be recruited as hirelings (see [Hirelings, Henchmen, Mercenaries, and Specialists](Chapter03.md#hirelings-henchmen-mercenaries-and-specialists)) with a successful roll on the [Reaction to Hiring Offer](Chapter03.md#reaction-to-hiring-offer) table.
@@ -381,12 +381,12 @@ Encounters will generally occur at much longer ranges in the wilderness, and adv
 
 #### Wilderness Evasion by Pursuing Group Size Modifier
 
-Evading Party Size     | Evasion Throw          | Up to 25%     | 26-75%  | 76%+
-:--------------------- | ---------------------: | ------------: | ------: | -----:
-Up to 4                | 11+                    | 0             | +4      | +8
-5 to 12                | 14+                    | 0             | +3      | +5
-13 to 24               | 16+                    | 0             | +3      | +5
-25+                    | 19+                    | 0             | +3      | +5
+| Evading Party Size     | Evasion Throw          | Up to 25%     | 26-75%  | 76%+
+| :--------------------- | ---------------------: | ------------: | ------: | -----:
+| Up to 4                | 11+                    | 0             | +4      | +8
+| 5 to 12                | 14+                    | 0             | +3      | +5
+| 13 to 24               | 16+                    | 0             | +3      | +5
+| 25+                    | 19+                    | 0             | +3      | +5
 
 
 *Example*: If a party of four is fleeing 1 pursuer, they must throw an 11+ to escape because the number of pursuers equals 25% of the fleeing party's number, which applies no modifier to the base chance of escape. If they are fleeing two pursuers, they escape on a 7+ because the number of pursuers equals 50% of the fleeing group, which applies a +4 bonus to the chance of escape.
@@ -403,14 +403,14 @@ When two sea vessels, or a sea vessel and a monster, encounter one another, one 
 
 #### Sea Evasion
 
-Evading vessel is      | Evasion Throw
-:--------------------- | --------------:
-Faster than pursuer    | 5+
-0'-30'/round slower    | 11+
-31'-60'/round slower   | 13+
-61'-91'/round slower   | 15+
-91'-120''/round slower | 17+
-121'+/round slower     | 19+
+| Evading vessel is      | Evasion Throw
+| :--------------------- | --------------:
+| Faster than pursuer    | 5+
+| 0'-30'/round slower    | 11+
+| 31'-60'/round slower   | 13+
+| 61'-91'/round slower   | 15+
+| 91'-120''/round slower | 17+
+| 121'+/round slower     | 19+
 
 
 If the evading party is successful, the pursuers cannot try to catch up with the evading party for 24 hours, and then only if a random encounter roll indicates an encounter. If the evading party fails their roll to evade, the pursuer starts at the distance it was spotted and begins to gain on the evading party. If the pursuer is slower than the other party or if the pursuer's speed is no greater than 30' more than the fleeing party, it will gain on the evading party at a rate of 30' (10 yards) per round. If the pursuer's speed is more than 30' faster than the fleeing party, the pursuer will gain on the fleeing party at a rate equal to the difference in speed each round.
@@ -476,23 +476,23 @@ Whether or not an attack hits its target is determined with an attack throw. The
 
 #### Monster Attack Throws
 
-Attacking Monster HD | Attack Throw Value
-:------------------- | -----------------:
-1 or less            |                10+
-1+ and 2             |                 9+
-2+ and 3             |                 8+
-3+ and 4             |                 7+
-4+ and 5             |                 6+
-5+ and 6             |                 5+
-6+ and 7             |                 4+
-7+ to 9              |                 3+
-9+ to 11             |                 2+
-11+ to 13            |                 1+
-13+ to 15            |                 0+
-15+ to 17            |                -1+
-17+ to 19            |                -2+
-19+ to 21            |                -3+
-21+ or more          |                -4+
+| Attacking Monster HD | Attack Throw Value
+| :------------------- | -----------------:
+| 1 or less            |                10+
+| 1+ and 2             |                 9+
+| 2+ and 3             |                 8+
+| 3+ and 4             |                 7+
+| 4+ and 5             |                 6+
+| 5+ and 6             |                 5+
+| 6+ and 7             |                 4+
+| 7+ to 9              |                 3+
+| 9+ to 11             |                 2+
+| 11+ to 13            |                 1+
+| 13+ to 15            |                 0+
+| 15+ to 17            |                -1+
+| 17+ to 19            |                -2+
+| 19+ to 21            |                -3+
+| 21+ or more          |                -4+
 
 
 *Example*: Marcus, a 10th level fighter (attack throw 4+) attacks a plate-armored target (AC7). He needs a modified roll of 11 (4+7) or more to hit. He rolls a 12, and lands a blow!
@@ -509,19 +509,19 @@ Characters normally only have 1 attack in a round, but some monsters have an att
 
 #### Character Attack Throws by Attacking Character Level
 
-Fighters   | Clerics/Thieves   | Mages           | Attack Throw Value
-:--------- | :---------------- | :-------------- | :------------------
-0*         | 0                 | 0               | 11+
-1          | 1-2               | 1-3             | 10+
-2-3        | 3-4               | 4-6             | 9+
-4          | 5-6               | 7-9             | 8+
-5-6        | 7-8               | 10-12           | 7+
-7          | 9-10              | 13-15           | 6+
-8-9        | 11-12             | -               | 5+
-10         | 13-14             | -               | 4+
-11-12      | -                 | -               | 3+
-13         | -                 | -               | 2+
-14-15      | -                 | -               | 1+
+| Fighters   | Clerics/Thieves   | Mages           | Attack Throw Value
+| :--------- | :---------------- | :-------------- | :------------------
+| 0*         | 0                 | 0               | 11+
+| 1          | 1-2               | 1-3             | 10+
+| 2-3        | 3-4               | 4-6             | 9+
+| 4          | 5-6               | 7-9             | 8+
+| 5-6        | 7-8               | 10-12           | 7+
+| 7          | 9-10              | 13-15           | 6+
+| 8-9        | 11-12             | -               | 5+
+| 10         | 13-14             | -               | 4+
+| 11-12      | -                 | -               | 3+
+| 13         | -                 | -               | 2+
+| 14-15      | -                 | -               | 1+
 
 *Includes all 0th level humans.
 
@@ -546,22 +546,22 @@ All missile weapons have ranges, which must be taken into account when trying to
 
 #### Missile Weapon Ranges
 
-Weapon             | Short Range  | Medium Range  | Long Range
-:----------------- | -----------: | ------------: | ------------:
-**Modifier**       | **0**        | **-2**        | **-5**
-Arbalest           | Up to 90'    | ...to 180'    | ...to 360'
-Axe (thrown)       | Up to 10'    | ...to 20'     | ...to 30'
-Bow, Composite     | Up to 70'    | ...to 140'    | ...to 210'
-Bow, Long          | Up to 70'    | ...to 140'    | ...to 210'
-Bow, Short         | Up to 50'    | ...to 100'    | ...to 150'
-Crossbow           | Up to 80'    | ...to 160'    | ...to 240'
-Dagger (thrown)    | Up to 10'    | ...to 20'     | ...to 30'
-Dart               | Up to 15'    | ...to 30'     | ...to 45'
-Holy water         | Up to 10'    | ...to 30'     | ...to 50'
-Javelin            | Up to 20'    | ...to 40'     | ...to 60'
-Oil                | Up to 10'    | ...to 30'     | ...to 50'
-Sling              | Up to 45'    | ...to 90'     | ...to 180'
-Spear              | Up to 20'    | ...to 40'     | ...to 60'
+| Weapon             | Short Range  | Medium Range  | Long Range
+| :----------------- | -----------: | ------------: | ------------:
+| **Modifier**       | **0**        | **-2**        | **-5**
+| Arbalest           | Up to 90'    | ...to 180'    | ...to 360'
+| Axe (thrown)       | Up to 10'    | ...to 20'     | ...to 30'
+| Bow, Composite     | Up to 70'    | ...to 140'    | ...to 210'
+| Bow, Long          | Up to 70'    | ...to 140'    | ...to 210'
+| Bow, Short         | Up to 50'    | ...to 100'    | ...to 150'
+| Crossbow           | Up to 80'    | ...to 160'    | ...to 240'
+| Dagger (thrown)    | Up to 10'    | ...to 20'     | ...to 30'
+| Dart               | Up to 15'    | ...to 30'     | ...to 45'
+| Holy water         | Up to 10'    | ...to 30'     | ...to 50'
+| Javelin            | Up to 20'    | ...to 40'     | ...to 60'
+| Oil                | Up to 10'    | ...to 30'     | ...to 50'
+| Sling              | Up to 45'    | ...to 90'     | ...to 180'
+| Spear              | Up to 20'    | ...to 40'     | ...to 60'
 
 
 All missile attacks are subject to the ordinary combat rules of initiative and surprise. In addition, cover is a factor that can influence missile attacks. An attacker cannot hit any opponent that is entirely behind a barrier. However, the Judge may allow an attack throw with a -1 to -4 penalty if the target is only partly under cover. For example, if a character were attempting to strike an opponent through a small window, the Judge might call for a penalty of -4. If the opponent were only partly covered, such as by small furniture, the penalty might only be -2.
@@ -668,15 +668,15 @@ Once a creature has resolved its condition on the [Mortal Wounds](Chapter06.md#m
 
 #### Permanent Wounds Suffered (1d6)
 
-1d20+ Modifiers  | Condition & Recovery  | 6  | 5  | 4  | 3  | 2  | 1
--6 or more  | You were instantly killed.  | A ghastly wound reveals your harsh demise.  | Mangled bones and broken flesh betray your grisly end.  | That's a bad way to go. What's left of you isn't pretty.  | The bloody mess that was once your body is dimly recognizable.  | A red stain and shards of bone are all that remain.  | Not even the vultures could feed on you.
--5-0  | You were instantly killed.  | Your corpse is largely intact and ready for a noble funeral.  | A ghastly wound reveals your harsh demise.  | Mangled bones and broken flesh betray your grisly end.  | That's a bad way to go. What's left of you isn't pretty.  | The bloody mess that was once your body is dimly recognizable.  | A red stain and shards of bone are all that remain.
-1-5  | You are mortally wounded. You die unless healed to 1hp within 1 round. If you are healed, you need 1 month's bed rest.  | Your lips and tongue are severed or mangled (cannot speak, cast spells or use magic items involving speech, -4 to reaction rolls).  | You are blinded (-4 to all attack throws, no line of sight for spells, movement reduced to normal, -2 to surprise rolls).  | Both your legs are severed or crushed (DEX reduced to 3 for AC purposes, two crutches required, movement reduced by 60', cannot force march).  | Both your arms are severed or crushed (cannot climb, use weapons or items, open locks, remove traps, or any other similar actions).  | You spine is broken at the waist (as per legs severed, cannot reproduce, and must save v. Death each year or die from complications).  | Your spine is broken at the neck (DEX reduced to 3, cannot move, fight, use items, or cast spells, save v. Death each month or die from complications).
-6-10  | You are grievously wounded. You die unless healed to 1hp within 1 turn. If you are healed, you need 2 week's bed rest.  | One of your ears is crushed/mangled (-1 to hear noise throws, -1 to surprise rolls).  | One of your eyes is destroyed (-2 to missile attack throws).  | One of your legs is severed or crushed (crutch or peg required, movement reduced by 30', DEX reduced by 1/3 for AC purposes).  | One of your arms is severed or crushed (cannot climb, use shields, dual wield, or use two-handed weapons).  | Both your legs are lamed (crutch required, movement rate reduced by 60', DEX reduced by 2/3 for AC purposes)  | You are permanently addled from brain trauma (-2 on magical research and proficiency throws, -10% penalty on earned XP).
-11-15  | You are critically wounded. You die unless healed to 1hp within 1 day. If you are healed, you need 1 week's bed rest.  | 1d6 of your teeth are knocked out (-2 to reaction rolls with opposite sex and upper class NPCs).  | One of your eyes is damaged (-2 to missile attack throws at medium and long range).  | One of your knees is damaged (carrying capacity reduced by 6 stone, cannot force march).  | One of your hands is severed or crushed (cannot dual wield or use two-handed weapons).  | One of your legs is lamed (movement reduced by 30', DEX reduced by 1/3 for AC purposes).  | Your heart and lungs are damaged (must rest for 2 turns every 6, wilderness movement reduced by 1/3, cannot force march, CON reduced by 1/3).
-16-20  | You are in shock. You recover with 1hp. You need magical healing and one night's bed rest; or 1 week's bed rest.  | Ghostly visions of lost companions flicker before your eyes as you awaken.  | You suffer minor scarring (no effect, but three minor scars become notable).  | You suffer damage to your hips and lower back (cannot force march).  | You suffer notable scarring (-2 to throws to impersonate another; 3 notable scars become gruesome).  | Your genitals are damaged (cannot reproduce, -3 to reaction rolls if loss of manhood / womanhood is known).  | You suffer gruesome scarring (impossible to impersonate another; +2 to intimidate others, -4 to all other reaction rolls).
-21-25  | You were knocked out. You recover with 1hp. You will need magical healing or 1 night's bed rest afterward.  | A vision of afterlife haunts you, then fades as you awaken.  | Ghostly visions of lost companions flicker before your eyes as you awaken.  | You suffer minor scarring (no effect, but three minor scars equals one notable scar).  | You lose 1d3 fingers on one hand (3 lost fingers on one hand makes hand useless).  | You suffer notable scarring (-2 to throws to impersonate another; 3 notable scars become gruesome).  | Your wounds heal stiff and scarred (-1 to all initiative rolls).
-26 +  | You were just dazed. You recover immediately with 1hp. You do not need any bed rest.  | The Choosers of the Slain pass you by, and you awaken.  | A vision of afterlife haunts you, then fades as you awaken.  | Ghostly visions of lost companions flicker before your eyes as you awaken.  | You suffer minor scarring (no effect, but three minor scars equals one notable scar).  | You lose 1d3 toes on one foot (3 lost toes on one foot makes leg lame).  | You suffer lasting wounds that ache in bad weather (-1 to initiative rolls on cold or rainy days).
+| 1d20+ Modifiers  | Condition & Recovery  | 6  | 5  | 4  | 3  | 2  | 1
+| -6 or more  | You were instantly killed.  | A ghastly wound reveals your harsh demise.  | Mangled bones and broken flesh betray your grisly end.  | That's a bad way to go. What's left of you isn't pretty.  | The bloody mess that was once your body is dimly recognizable.  | A red stain and shards of bone are all that remain.  | Not even the vultures could feed on you.
+| -5-0  | You were instantly killed.  | Your corpse is largely intact and ready for a noble funeral.  | A ghastly wound reveals your harsh demise.  | Mangled bones and broken flesh betray your grisly end.  | That's a bad way to go. What's left of you isn't pretty.  | The bloody mess that was once your body is dimly recognizable.  | A red stain and shards of bone are all that remain.
+| 1-5  | You are mortally wounded. You die unless healed to 1hp within 1 round. If you are healed, you need 1 month's bed rest.  | Your lips and tongue are severed or mangled (cannot speak, cast spells or use magic items involving speech, -4 to reaction rolls).  | You are blinded (-4 to all attack throws, no line of sight for spells, movement reduced to normal, -2 to surprise rolls).  | Both your legs are severed or crushed (DEX reduced to 3 for AC purposes, two crutches required, movement reduced by 60', cannot force march).  | Both your arms are severed or crushed (cannot climb, use weapons or items, open locks, remove traps, or any other similar actions).  | You spine is broken at the waist (as per legs severed, cannot reproduce, and must save v. Death each year or die from complications).  | Your spine is broken at the neck (DEX reduced to 3, cannot move, fight, use items, or cast spells, save v. Death each month or die from complications).
+| 6-10  | You are grievously wounded. You die unless healed to 1hp within 1 turn. If you are healed, you need 2 week's bed rest.  | One of your ears is crushed/mangled (-1 to hear noise throws, -1 to surprise rolls).  | One of your eyes is destroyed (-2 to missile attack throws).  | One of your legs is severed or crushed (crutch or peg required, movement reduced by 30', DEX reduced by 1/3 for AC purposes).  | One of your arms is severed or crushed (cannot climb, use shields, dual wield, or use two-handed weapons).  | Both your legs are lamed (crutch required, movement rate reduced by 60', DEX reduced by 2/3 for AC purposes)  | You are permanently addled from brain trauma (-2 on magical research and proficiency throws, -10% penalty on earned XP).
+| 11-15  | You are critically wounded. You die unless healed to 1hp within 1 day. If you are healed, you need 1 week's bed rest.  | 1d6 of your teeth are knocked out (-2 to reaction rolls with opposite sex and upper class NPCs).  | One of your eyes is damaged (-2 to missile attack throws at medium and long range).  | One of your knees is damaged (carrying capacity reduced by 6 stone, cannot force march).  | One of your hands is severed or crushed (cannot dual wield or use two-handed weapons).  | One of your legs is lamed (movement reduced by 30', DEX reduced by 1/3 for AC purposes).  | Your heart and lungs are damaged (must rest for 2 turns every 6, wilderness movement reduced by 1/3, cannot force march, CON reduced by 1/3).
+| 16-20  | You are in shock. You recover with 1hp. You need magical healing and one night's bed rest; or 1 week's bed rest.  | Ghostly visions of lost companions flicker before your eyes as you awaken.  | You suffer minor scarring (no effect, but three minor scars become notable).  | You suffer damage to your hips and lower back (cannot force march).  | You suffer notable scarring (-2 to throws to impersonate another; 3 notable scars become gruesome).  | Your genitals are damaged (cannot reproduce, -3 to reaction rolls if loss of manhood / womanhood is known).  | You suffer gruesome scarring (impossible to impersonate another; +2 to intimidate others, -4 to all other reaction rolls).
+| 21-25  | You were knocked out. You recover with 1hp. You will need magical healing or 1 night's bed rest afterward.  | A vision of afterlife haunts you, then fades as you awaken.  | Ghostly visions of lost companions flicker before your eyes as you awaken.  | You suffer minor scarring (no effect, but three minor scars equals one notable scar).  | You lose 1d3 fingers on one hand (3 lost fingers on one hand makes hand useless).  | You suffer notable scarring (-2 to throws to impersonate another; 3 notable scars become gruesome).  | Your wounds heal stiff and scarred (-1 to all initiative rolls).
+| 26 +  | You were just dazed. You recover immediately with 1hp. You do not need any bed rest.  | The Choosers of the Slain pass you by, and you awaken.  | A vision of afterlife haunts you, then fades as you awaken.  | Ghostly visions of lost companions flicker before your eyes as you awaken.  | You suffer minor scarring (no effect, but three minor scars equals one notable scar).  | You lose 1d3 toes on one foot (3 lost toes on one foot makes leg lame).  | You suffer lasting wounds that ache in bad weather (-1 to initiative rolls on cold or rainy days).
 
 *Modifiers (1d20)*:
 
@@ -690,15 +690,15 @@ Once a creature has resolved its condition on the [Mortal Wounds](Chapter06.md#m
 
 #### Side Effects Suffered (1d6)
 
-1d20+ Modifiers  | Condition & Recovery  | 6  | 5  | 4  | 3  | 2  | 1
--6 or more  | The spell fails to restore your life.  | Your deity may allow your return on a second attempt, but you must perform a Quest immediately upon revival.  | The embrace of your deity is all you feel, and it holds you tightly. Any additional attempts are permitted at -1.  | You hear the calls of your friends but you can do nothing to respond. Any additional attempts are at -3.  | All you feel is the sensation of falling, falling, falling into nothingness. Any additional attempts are at -5.  | You are surrounded by ghostly figures who torment and taunt you. No additional attempts are permitted.  | Your soul is extinguished in the oblivion of nothingness. No additional attempts are permitted.
--5-0  | The spell fails to restore your life.  | A stirring wind and a light comes from somewhere, and you slowly move towards it. A second attempt is permitted.  | Your deity may allow your return with a second attempt, but you must perform a Quest immediately upon revival.  | The embrace of your deity is all you feel, and it holds you tightly. Any additional attempts are permitted at -1.  | You hear the calls of your friends but you can do nothing to respond. Any additional attempts are at -3.  | All you feel is the sensation of falling, falling, falling into nothingness. Any additional attempts are at -5.  | Your spirit wanders in eternal darkness. No additional attempts are permitted.
-1-5  | The powers of the spell restore you but at great cost. You need a month of bed rest.  | You have the pallor of death about you, and no tincture or perfume can conceal it. CHA reduced by 4, but you gain +2 to reaction rolls with non- intelligent Undead.  | Everything seems brighter and louder than before. If a very loud noise or bright light occurs in battle, make a Saving Throw against Paralyzation or be stunned for one round.  | Dark power leaked in while you were being restored. Holy Water and Turning now affects you as if you were a wight. "Destroy" results charm you.  | Your connection to the Divine is lessened. You can cast 1 less Divine spell per level per day and your WIS is reduced by 1d3.  | All you see is darkness. You are now blind (-4 to all attack throws, no line of sight for spells, movement reduced to   normal, -2 to surprise rolls) in full daylight, but you can See Invisible as the spell once per day.  | Heart beats and blood flows, but life doesn't feel the same. Your CON and WIS are reduced by 1d4 each.
-6-10  | Your life and limb are restored, but with weird, lingering effects. You need 14 + 1d20 days of bed rest.  | Something wicked has taken an interest in you. A small demon or imp (GM's discretion) becomes your familiar, as the proficiency, but it does not always obey your commands.  | Your hair is restored... over and over. You must shave twice a day or witness an inch of growth by sunset. Untrimmed hair growth hinders performance in combat, giving you a -1 to attacks.  | Your restored body has bottomless hungers. If you casually smoke or consume alcohol, you are fully addicted. You suffer a cumulative -1 penalty to all Saving Throws after each hour you don't consume something.  | You did not return altogether human. You gain a body part from a creature on the Reincarnation table for your Alignment. -4 to reaction rolls with normal humans.  | You have been permanently connected to the spiritual plane and glow like a candle to the unliving. All undead can sense your presence within 60'.  | Your soul is marked and all extraplanar beings wish you dead, targeting you over your allies. Every week, there is a 1 in 6 chance an invisible stalker will be sent to destroy you.
-11-15  | The restoration of life and limb was intense, and you remember little of the ordeal. You need 2 weeks of bed rest.  | No side effects.  | Your brush with death has shattered your former confidence. Take a -10% penalty to XP until your next level.  | Horses are frightened by the magic that courses through you. You can only ride magical or polymorphed beasts or exotic mounts such as large cats or elephants.  | Whispers from beyond plague you. It is difficult for you to ignore them and you suffer -2 to hear noise throws and -2 to surprise rolls.  | You are disturbed by what you experienced and cannot stop muttering nonsense to yourself, making it impossible to move silently. Spellcasting initiative rolls are at -1.  | It feels like another being sometimes controls your right arm. When you roll a natural 1 on an attack throw, you hit an adjacent ally instead of an enemy.
-16-20  | You open your eyes to a body made whole. You need 2 weeks of bed rest.  | You feel blessed by your god. You recover 1d6 days quicker than you normally would. All negative side effects are removed.  | No side effects.  | Your brush with death has shattered your former confidence. Take a -10% penalty to XP until your next level.  | You have taken on a slightly strange and inhuman cast (e.g. cat-like eyes, clawed nails). -2 to reaction rolls with normal humans.  | Sleep? Time enough to sleep in the grave. Each time you attempt to rest, roll 1d6. On a 1, you toss and turn all night, can't recover spells, and regain no hit points.  | Your body is healthy, but... different. You are now a member of the opposite sex. -2 reaction rolls with characters who knew your prior gender, unless your CHA is 13+.
-21-25  | The touch of your friends restores your health. You need 1 week of bed rest.  | Your brush with death has gifted you with the ability to Speak with Dead once per week. All negative side effects are removed.  | You feel blessed by your god. You recover 1d6 days quicker than you normally would. All negative side effects are removed.  | No side effects.  | Your brush with death has shattered your former confidence. Take a -10% penalty to XP until your next level.  | Your renewed body needs energy that plants and mushrooms cannot provide. All rations must contain meat.  | Your life has come at the cost of the life of your future offspring. You are sterile and cannot have children naturally.
-26+  | The gods bless their favor upon you. You are instantly recovered without need of rest.  | You gain permanent power. Gain +2 in your class's prime requisite statistic. All negative side effects are removed.  | The sublime power grants you a vision which you believe is of terrible import. The GM will give you a (true?) prophecy.  | You are filled with divine energy. For one day, you gain the benefits of a Heroism potion. All negative side effects are removed.  | No side effects.  | Your brush with death has shattered your former confidence. Take a -10% penalty to XP until your next level.  | Meat is too much like murder. You may only eat plants, mushrooms and herbs. The taste of flesh makes you vomit.
+| 1d20+ Modifiers  | Condition & Recovery  | 6  | 5  | 4  | 3  | 2  | 1
+| -6 or more  | The spell fails to restore your life.  | Your deity may allow your return on a second attempt, but you must perform a Quest immediately upon revival.  | The embrace of your deity is all you feel, and it holds you tightly. Any additional attempts are permitted at -1.  | You hear the calls of your friends but you can do nothing to respond. Any additional attempts are at -3.  | All you feel is the sensation of falling, falling, falling into nothingness. Any additional attempts are at -5.  | You are surrounded by ghostly figures who torment and taunt you. No additional attempts are permitted.  | Your soul is extinguished in the oblivion of nothingness. No additional attempts are permitted.
+| -5-0  | The spell fails to restore your life.  | A stirring wind and a light comes from somewhere, and you slowly move towards it. A second attempt is permitted.  | Your deity may allow your return with a second attempt, but you must perform a Quest immediately upon revival.  | The embrace of your deity is all you feel, and it holds you tightly. Any additional attempts are permitted at -1.  | You hear the calls of your friends but you can do nothing to respond. Any additional attempts are at -3.  | All you feel is the sensation of falling, falling, falling into nothingness. Any additional attempts are at -5.  | Your spirit wanders in eternal darkness. No additional attempts are permitted.
+| 1-5  | The powers of the spell restore you but at great cost. You need a month of bed rest.  | You have the pallor of death about you, and no tincture or perfume can conceal it. CHA reduced by 4, but you gain +2 to reaction rolls with non- intelligent Undead.  | Everything seems brighter and louder than before. If a very loud noise or bright light occurs in battle, make a Saving Throw against Paralyzation or be stunned for one round.  | Dark power leaked in while you were being restored. Holy Water and Turning now affects you as if you were a wight. "Destroy" results charm you.  | Your connection to the Divine is lessened. You can cast 1 less Divine spell per level per day and your WIS is reduced by 1d3.  | All you see is darkness. You are now blind (-4 to all attack throws, no line of sight for spells, movement reduced to   normal, -2 to surprise rolls) in full daylight, but you can See Invisible as the spell once per day.  | Heart beats and blood flows, but life doesn't feel the same. Your CON and WIS are reduced by 1d4 each.
+| 6-10  | Your life and limb are restored, but with weird, lingering effects. You need 14 + 1d20 days of bed rest.  | Something wicked has taken an interest in you. A small demon or imp (GM's discretion) becomes your familiar, as the proficiency, but it does not always obey your commands.  | Your hair is restored... over and over. You must shave twice a day or witness an inch of growth by sunset. Untrimmed hair growth hinders performance in combat, giving you a -1 to attacks.  | Your restored body has bottomless hungers. If you casually smoke or consume alcohol, you are fully addicted. You suffer a cumulative -1 penalty to all Saving Throws after each hour you don't consume something.  | You did not return altogether human. You gain a body part from a creature on the Reincarnation table for your Alignment. -4 to reaction rolls with normal humans.  | You have been permanently connected to the spiritual plane and glow like a candle to the unliving. All undead can sense your presence within 60'.  | Your soul is marked and all extraplanar beings wish you dead, targeting you over your allies. Every week, there is a 1 in 6 chance an invisible stalker will be sent to destroy you.
+| 11-15  | The restoration of life and limb was intense, and you remember little of the ordeal. You need 2 weeks of bed rest.  | No side effects.  | Your brush with death has shattered your former confidence. Take a -10% penalty to XP until your next level.  | Horses are frightened by the magic that courses through you. You can only ride magical or polymorphed beasts or exotic mounts such as large cats or elephants.  | Whispers from beyond plague you. It is difficult for you to ignore them and you suffer -2 to hear noise throws and -2 to surprise rolls.  | You are disturbed by what you experienced and cannot stop muttering nonsense to yourself, making it impossible to move silently. Spellcasting initiative rolls are at -1.  | It feels like another being sometimes controls your right arm. When you roll a natural 1 on an attack throw, you hit an adjacent ally instead of an enemy.
+| 16-20  | You open your eyes to a body made whole. You need 2 weeks of bed rest.  | You feel blessed by your god. You recover 1d6 days quicker than you normally would. All negative side effects are removed.  | No side effects.  | Your brush with death has shattered your former confidence. Take a -10% penalty to XP until your next level.  | You have taken on a slightly strange and inhuman cast (e.g. cat-like eyes, clawed nails). -2 to reaction rolls with normal humans.  | Sleep? Time enough to sleep in the grave. Each time you attempt to rest, roll 1d6. On a 1, you toss and turn all night, can't recover spells, and regain no hit points.  | Your body is healthy, but... different. You are now a member of the opposite sex. -2 reaction rolls with characters who knew your prior gender, unless your CHA is 13+.
+| 21-25  | The touch of your friends restores your health. You need 1 week of bed rest.  | Your brush with death has gifted you with the ability to Speak with Dead once per week. All negative side effects are removed.  | You feel blessed by your god. You recover 1d6 days quicker than you normally would. All negative side effects are removed.  | No side effects.  | Your brush with death has shattered your former confidence. Take a -10% penalty to XP until your next level.  | Your renewed body needs energy that plants and mushrooms cannot provide. All rations must contain meat.  | Your life has come at the cost of the life of your future offspring. You are sterile and cannot have children naturally.
+| 26+  | The gods bless their favor upon you. You are instantly recovered without need of rest.  | You gain permanent power. Gain +2 in your class's prime requisite statistic. All negative side effects are removed.  | The sublime power grants you a vision which you believe is of terrible import. The GM will give you a (true?) prophecy.  | You are filled with divine energy. For one day, you gain the benefits of a Heroism potion. All negative side effects are removed.  | No side effects.  | Your brush with death has shattered your former confidence. Take a -10% penalty to XP until your next level.  | Meat is too much like murder. You may only eat plants, mushrooms and herbs. The taste of flesh makes you vomit.
 
 *Modifiers*:
 
@@ -740,58 +740,58 @@ There are five categories of saving throws. The appropriate saving throw to use 
 
 #### Fighter Saving Throws
 
-Level   | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells
-:------ | ------------------------: | -------------: | -------------: | -------------: | -----:
-0*      | 16+                       | 15+            | 17+            | 17+            | 18+
-1       | 15+                       | 14+            | 16+            | 16+            | 17+
-2-3     | 14+                       | 13+            | 15+            | 15+            | 16+
-4       | 13+                       | 12+            | 14+            | 14+            | 15+
-5-6     | 12+                       | 11+            | 13+            | 13+            | 14+
-7       | 11+                       | 10+            | 12+            | 12+            | 13+
-8-9     | 10+                       | 9+             | 11+            | 11+            | 12+
-10      | 9+                        | 8+             | 10+            | 10+            | 11+
-11-12   | 8+                        | 7+             | 9+             | 9+             | 10+
-13      | 7+                        | 6+             | 8+             | 8+             | 9+
-14+     | 6+                        | 5+             | 7+             | 7+             | 8+
+| Level   | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells
+| :------ | ------------------------: | -------------: | -------------: | -------------: | -----:
+| 0*      | 16+                       | 15+            | 17+            | 17+            | 18+
+| 1       | 15+                       | 14+            | 16+            | 16+            | 17+
+| 2-3     | 14+                       | 13+            | 15+            | 15+            | 16+
+| 4       | 13+                       | 12+            | 14+            | 14+            | 15+
+| 5-6     | 12+                       | 11+            | 13+            | 13+            | 14+
+| 7       | 11+                       | 10+            | 12+            | 12+            | 13+
+| 8-9     | 10+                       | 9+             | 11+            | 11+            | 12+
+| 10      | 9+                        | 8+             | 10+            | 10+            | 11+
+| 11-12   | 8+                        | 7+             | 9+             | 9+             | 10+
+| 13      | 7+                        | 6+             | 8+             | 8+             | 9+
+| 14+     | 6+                        | 5+             | 7+             | 7+             | 8+
 
 *Includes all 0th level humans.
 
 
 #### Cleric Saving Throws
 
-Level   | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells
-:------ | ------------------------: | -------------: | -------------: | -------------: | -----:
-1-2     | 13+                       | 10+            | 16+            | 13+            | 15+
-3-4     | 12+                       | 9+             | 15+            | 12+            | 14+
-5-6     | 11+                       | 8+             | 14+            | 11+            | 13+
-7-8     | 10+                       | 7+             | 13+            | 10+            | 12+
-9-10    | 9+                        | 6+             | 12+            | 9+             | 11+
-11-12   | 8+                        | 5+             | 11+            | 8+             | 10+
-13-14+  | 7+                        | 4+             | 10+            | 7+             | 9+
+| Level   | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells
+| :------ | ------------------------: | -------------: | -------------: | -------------: | -----:
+| 1-2     | 13+                       | 10+            | 16+            | 13+            | 15+
+| 3-4     | 12+                       | 9+             | 15+            | 12+            | 14+
+| 5-6     | 11+                       | 8+             | 14+            | 11+            | 13+
+| 7-8     | 10+                       | 7+             | 13+            | 10+            | 12+
+| 9-10    | 9+                        | 6+             | 12+            | 9+             | 11+
+| 11-12   | 8+                        | 5+             | 11+            | 8+             | 10+
+| 13-14+  | 7+                        | 4+             | 10+            | 7+             | 9+
 
 
 #### Mage Saving Throws
 
-Level   | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells
-:------ | ------------------------: | -------------: | -------------: | -------------: | -----:
-1-3     | 13+                       | 13+            | 15+            | 11+            | 12+
-4-6     | 12+                       | 12+            | 14+            | 10+            | 11+
-7-9     | 11+                       | 11+            | 13+            | 9+             | 10+
-10-12   | 10+                       | 10+            | 12+            | 8+             | 9+
-13-14+  | 9+                        | 9+             | 11+            | 7+             | 8+
+| Level   | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells
+| :------ | ------------------------: | -------------: | -------------: | -------------: | -----:
+| 1-3     | 13+                       | 13+            | 15+            | 11+            | 12+
+| 4-6     | 12+                       | 12+            | 14+            | 10+            | 11+
+| 7-9     | 11+                       | 11+            | 13+            | 9+             | 10+
+| 10-12   | 10+                       | 10+            | 12+            | 8+             | 9+
+| 13-14+  | 9+                        | 9+             | 11+            | 7+             | 8+
 
 
 #### Thief Saving Throws
 
-Level   | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells
-:------ | ------------------------: | -------------: | -------------: | -------------: | -----:
-1-2     | 13+                       | 13+            | 16+            | 14+            | 15+
-3-4     | 12+                       | 12+            | 15+            | 13+            | 14+
-5-6     | 11+                       | 11+            | 14+            | 12+            | 13+
-7-8     | 10+                       | 10+            | 13+            | 11+            | 12+
-9-10    | 9+                        | 9+             | 12+            | 10+            | 11+
-11-12   | 8+                        | 8+             | 11+            | 9+             | 10+
-13-14+  | 7+                        | 7+             | 10+            | 8+             | 9+
+| Level   | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells
+| :------ | ------------------------: | -------------: | -------------: | -------------: | -----:
+| 1-2     | 13+                       | 13+            | 16+            | 14+            | 15+
+| 3-4     | 12+                       | 12+            | 15+            | 13+            | 14+
+| 5-6     | 11+                       | 11+            | 14+            | 12+            | 13+
+| 7-8     | 10+                       | 10+            | 13+            | 11+            | 12+
+| 9-10    | 9+                        | 9+             | 12+            | 10+            | 11+
+| 11-12   | 8+                        | 8+             | 11+            | 9+             | 10+
+| 13-14+  | 7+                        | 7+             | 10+            | 8+             | 9+
 
 
 ## Special Maneuvers
@@ -859,13 +859,13 @@ The Judge usually makes morale rolls under two conditions: when one side of an e
 
 #### Monster Morale
 
-Adjusted Die Roll      | Result
-:--------------------- | :-------------------
-2-                     | Retreat
-3-5                    | Fighting Withdrawal
-6-8                    | Fight On
-9-11                   | Advance and Pursue
-12+                    | Victory or Death
+| Adjusted Die Roll      | Result
+| :--------------------- | :-------------------
+| 2-                     | Retreat
+| 3-5                    | Fighting Withdrawal
+| 6-8                    | Fight On
+| 9-11                   | Advance and Pursue
+| 12+                    | Victory or Death
 
 
 Retreat means that the monsters will make a full retreat (as explained under Defensive Movement) on their next action. Fighting Withdrawal means the monsters will make a fighting withdrawal (as per Defensive Movement) on their next action. The monsters will continue to retreat/withdraw until they are no longer pursued by any enemies, or until a minimum of 1d10 rounds have elapsed. If there is no possibility of escape, the monsters will attempt to surrender, fighting only as a last resort. A result of Fight On means that the monsters will continue the battle without retreating, but they will not pursue if their opponents flee. Advance and Pursue means the monsters will continue the battle without retreating, going on the offensive where possible, and pursuing should the characters retreat. On a Victory or Death result, the monsters will fight on without retreating or needing to roll morale for the remainder of the battle. They will pursue any retreating opponents, and fight with ferocity and grim determination.
@@ -932,22 +932,22 @@ Combat between ships (or ships and sea monsters) is fought in combat rounds foll
 
 #### Ballista
 
-Rate of fire:  | 1/5 rounds with 4 crew; 1/8 rounds with 3 crew; 1/10 rounds with 2 crew
-:------------- | :------------------------------------------------------------------------------
-Range:         | 0-200 yards
-Attacks as:    | As the lowest level member of the crew
-Damage:        | 3d6 shp or 3d6 hp
+| Rate of fire:  | 1/5 rounds with 4 crew; 1/8 rounds with 3 crew; 1/10 rounds with 2 crew
+| :------------- | :------------------------------------------------------------------------------
+| Range:         | 0-200 yards
+| Attacks as:    | As the lowest level member of the crew
+| Damage:        | 3d6 shp or 3d6 hp
 
 Ballistae can be operated by a variable number of crew, which will affect rate of fire and attack throws as indicated above. Ballistae fire solid missiles that deal 3d6 shp of damage. If ballistae are used against characters or monsters, they do 3d6 hp of damage to all creatures in a 5' line.
 
 
 #### Catapult
 
-Rate of fire:  | 1/5 rounds with 4 crew; 1/8 rounds with 3 crew; 1/10 rounds with 2 crew
-:------------- | :------------------------------------------------------------------------------
-Range:         | 150-300 yards (light) /200-400 yards (heavy)
-Attacks as:    | As the lowest level member of the crew
-Damage:        | boulder 3d6/4d6 shp or 3d6/4d6 hp; combustible pitch 1d6/2d6 shp fire per turn or 1d6/2d6 hp fire per round
+| Rate of fire:  | 1/5 rounds with 4 crew; 1/8 rounds with 3 crew; 1/10 rounds with 2 crew
+| :------------- | :------------------------------------------------------------------------------
+| Range:         | 150-300 yards (light) /200-400 yards (heavy)
+| Attacks as:    | As the lowest level member of the crew
+| Damage:        | boulder 3d6/4d6 shp or 3d6/4d6 hp; combustible pitch 1d6/2d6 shp fire per turn or 1d6/2d6 hp fire per round
 
 Catapults can be operated by a variable number of crew, which will affect rate of fire and attack throws as indicated above. When firing boulders, light catapults deal 3d6 shp of damage while heavy catapults deal 4d6 shp of damage. When firing combustible pitch, light catapults deal 1d6 shp of fire damage per turn while heavy catapults deal 2d6 shp of fire damage per turn. It takes a minimum of 5 crewmembers 3 turns to extinguish flames caused by a shot of pitch. For every five additional crewmembers, this time can be reduced by 1 turn to a minimum of 1 turn.
 
@@ -956,19 +956,19 @@ When catapults firing boulders are used against characters or monsters, light ca
 
 #### Ram
 
-Range:         | Touch
-:------------- | :------------------------------------------------------------------------------
-Attacks as:    | Monster of under 1 HD
-Damage:        | small vessel (1d4+4) x10 shp or 3d8 hp; large vessel (1d6+5) x10 shp or 6d6 hp
+| Range:         | Touch
+| :------------- | :------------------------------------------------------------------------------
+| Attacks as:    | Monster of under 1 HD
+| Damage:        | small vessel (1d4+4) x10 shp or 3d8 hp; large vessel (1d6+5) x10 shp or 6d6 hp
 
 In order to ram a monster or enemy vessel, the ramming vessel must reduce the range to 0' and then make a successful attack throw against the target's AC. The different damages listed for a ram apply as follows. The first shp value listed applies to small vessels ramming another vessel, while the first hp value listed applies to small ships ramming large aquatic monsters. Similarly, the second damage values apply to rams on larger ships to other ships or large aquatic monsters, respectively.
 
 
 #### Boarding Actions
 
-Range:         | Touch
-:------------- | :------------------------------------------------------------------------------
-Attacks as:    | See below
+| Range:         | Touch
+| :------------- | :------------------------------------------------------------------------------
+| Attacks as:    | See below
 
 In order to board an enemy vessel, the boarding vessel must reduce the range to 0'. If the occupants of both side-by-side vessels wish to board one another, their mutual intent makes the action succeed with no chance of failure. If only one side wishes to board the other, then the side that wishes to board must throw 13+ on 1d20 to successfully maneuver the two ships to a boarding position and clamp them together with grappling hooks. Grappling may be attempted each round the ships are adjacent. The Judge can apply a bonus or penalty to the die roll based on the experience and skill of the opposing ship's captains. Once crewmembers come into contact with one another, combat ensues following the standard combat rules. On the round that characters are in the act of boarding another ship, they suffer a penalty of -2 to attack throws and Armor Class. Boarding actions continue until the crew of one ship or the other is killed or surrenders.
 
@@ -1005,37 +1005,37 @@ To calculate a monster's XP, begin with the base XP value for its Hit Dice. Add 
 
 #### Monster Experience Points
 
-Monster HD        | Base XP     | Bonus XP/Ability
-:---------------- | ----------: | ----------------:
-Less than 1       | 5           | 1
-1                 | 10          | 3
-1+                | 15          | 6
-2                 | 20          | 9
-2+                | 35          | 12
-3                 | 50          | 15
-3+                | 65          | 35
-4                 | 80          | 55
-4+                | 140         | 75
-5                 | 200         | 150
-5+                | 260         | 200
-6                 | 320         | 250
-6+                | 380         | 300
-7                 | 440         | 350
-7+                | 500         | 400
-8                 | 600         | 500
-9                 | 700         | 600
-10                | 850         | 700
-11                | 1,000       | 800
-12                | 1,200       | 900
-13                | 1,400       | 1,000
-14                | 1,600       | 1,100
-15                | 1,800       | 1,200
-16                | 2,000       | 1,300
-17                | 2,200       | 1,400
-18                | 2,400       | 1,500
-19                | 2,600       | 1,600
-20                | 2,800       | 1,800
-21*               | 3,000       | 2,000
+| Monster HD        | Base XP     | Bonus XP/Ability
+| :---------------- | ----------: | ----------------:
+| Less than 1       | 5           | 1
+| 1                 | 10          | 3
+| 1+                | 15          | 6
+| 2                 | 20          | 9
+| 2+                | 35          | 12
+| 3                 | 50          | 15
+| 3+                | 65          | 35
+| 4                 | 80          | 55
+| 4+                | 140         | 75
+| 5                 | 200         | 150
+| 5+                | 260         | 200
+| 6                 | 320         | 250
+| 6+                | 380         | 300
+| 7                 | 440         | 350
+| 7+                | 500         | 400
+| 8                 | 600         | 500
+| 9                 | 700         | 600
+| 10                | 850         | 700
+| 11                | 1,000       | 800
+| 12                | 1,200       | 900
+| 13                | 1,400       | 1,000
+| 14                | 1,600       | 1,100
+| 15                | 1,800       | 1,200
+| 16                | 2,000       | 1,300
+| 17                | 2,200       | 1,400
+| 18                | 2,400       | 1,500
+| 19                | 2,600       | 1,600
+| 20                | 2,800       | 1,800
+| 21*               | 3,000       | 2,000
 
 *For monsters of HD 22 and higher, add a cumulative 250 XP for the Base and Bonus categories.
 

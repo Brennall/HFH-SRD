@@ -9,23 +9,23 @@
 If the adventurers fare well they will accumulate fame, wealth, and power over many adventures. Eventually they will seek to put a permanent mark on their world. Some may pursue spiritual leadership, creating throngs of zealous worshippers, or magical power, plumbing the depths of lost lore to learn new spells, craft mighty golems, or even become undead. Others may seek temporal power by establishing a stronghold and ruling a domain, or material riches by pursuing mercantile trade and other ventures.
 
 
-Level | Magic Research
-:---- | -------------:
-0*    | 18+
-1*    | 16+
-2*    | 15+
-3*    | 14+
-4*    | 13+
-5     | 12+
-6     | 11+
-7     | 10+
-8     | 9+
-9     | 8+
-10    | 7+
-11    | 6+
-12    | 5+
-13    | 4+
-14    | 3+
+| Level | Magic Research
+| :---- | -------------:
+| 0*    | 18+
+| 1*    | 16+
+| 2*    | 15+
+| 3*    | 14+
+| 4*    | 13+
+| 5     | 12+
+| 6     | 11+
+| 7     | 10+
+| 8     | 9+
+| 9     | 8+
+| 10    | 7+
+| 11    | 6+
+| 12    | 5+
+| 13    | 4+
+| 14    | 3+
 
 *May only assist higher level casters
 
@@ -110,23 +110,23 @@ An assistant is a mage or other arcane spellcaster of at least 1st level that is
 
 #### Magic Item Creation
 
-Item Type                        | Base Cost                      | Time
-:------------------------------- | :----------------------------- | :-----------------------------------
-One Use Effect                   | 500gp x spell level            | 1 week x spell level
-Charged Effect                   | 500gp x spell level x charges* | 2 days x spell level x charges
-Permanent Effect, Unlimited Use  | 500gp x spell level x 50       | 100 days x spell level
-Permanent Effect, Use 1/turn     | 500gp x spell level x 33       | 80 days x spell level
-Permanent Effect, Use 1/3 turns  | 500gp x spell level x 25       | 70 days x spell level
-Permanent Effect, Use 1/hour     | 500gp x spell level x 16       | 60 days x spell level
-Permanent Effect, Use 3/day      | 500gp x spell level x 12       | 50 days x spell level
-Permanent Effect, Use 1/day      | 500gp x spell level x 10       | 40 days x spell level
-Permanent Effect, Use 1/week     | 500gp x spell level x 6        | 30 days x spell level
-Magical Weapon +1                | 5,000gp**                      | 1 month x weapon base cost / 10***
-  - Increase bonus from +1 to +2 | +10,000gp**                    | +1 month x weapon base cost / 10***
-  - Increase bonus from +2 to +3 | +20,000gp**                    | +1 month x weapon base cost / 10***
-Magical Armor +1                 | 5,000gp**                      | 1 month x Armor Class
-  - Increase bonus from +1 to +2 | +10,000gp**                    | +1 month
-  - Increase bonus from +2 to +3 | +20,000gp**                    | +1 month
+| Item Type                        | Base Cost                      | Time
+| :------------------------------- | :----------------------------- | :-----------------------------------
+| One Use Effect                   | 500gp x spell level            | 1 week x spell level
+| Charged Effect                   | 500gp x spell level x charges* | 2 days x spell level x charges
+| Permanent Effect, Unlimited Use  | 500gp x spell level x 50       | 100 days x spell level
+| Permanent Effect, Use 1/turn     | 500gp x spell level x 33       | 80 days x spell level
+| Permanent Effect, Use 1/3 turns  | 500gp x spell level x 25       | 70 days x spell level
+| Permanent Effect, Use 1/hour     | 500gp x spell level x 16       | 60 days x spell level
+| Permanent Effect, Use 3/day      | 500gp x spell level x 12       | 50 days x spell level
+| Permanent Effect, Use 1/day      | 500gp x spell level x 10       | 40 days x spell level
+| Permanent Effect, Use 1/week     | 500gp x spell level x 6        | 30 days x spell level
+| Magical Weapon +1                | 5,000gp**                      | 1 month x weapon base cost / 10***
+|   - Increase bonus from +1 to +2 | +10,000gp**                    | +1 month x weapon base cost / 10***
+|   - Increase bonus from +2 to +3 | +20,000gp**                    | +1 month x weapon base cost / 10***
+| Magical Armor +1                 | 5,000gp**                      | 1 month x Armor Class
+|   - Increase bonus from +1 to +2 | +10,000gp**                    | +1 month
+|   - Increase bonus from +2 to +3 | +20,000gp**                    | +1 month
 
 *If a charged item has multiple spell effects powered by the same charges, use the base cost and time for the highest level spell effect, plus half the base cost and time for each other spell effect. The minimum time to create a charged item is never less than 1 week per spell level of the highest level effect.
 
@@ -137,16 +137,16 @@ Magical Armor +1                 | 5,000gp**                      | 1 month x Ar
 
 #### Sample Magic Item Time, Cost, and Components
 
-Item Type                     | Base Cost | Time       | Possible Special Components
-:---------------------------- | --------: | :--------- | :--------------------------------------
-Potion of Healing             |     500gp | 1 week     | Blood of 1 troll
-Scroll of Fly                 |   1,500gp | 3 weeks    | Feathers of 3 griffons
-Wand of Fireball (20 charges) |  30,000gp | 120 days   | Fangs of 37 greater hellhounds
-Ring of Invisibility (1/turn) |  33,000gp | 160 days   | Ichor of 30 invisible stalkers
-Sword +1                      |   5,000gp | 1 month    | Skulls of 36 ogres or heroes
-Sword +2                      |  15,000gp | 2 months   | Skulls of 107 ogres or heroes
-Sword +1, +2 v. spellcasters  |  10,000gp | 1.5 months | Skulls of 36 ogres and 36 spellcasters
-Plate Armor +1                |   5,000gp | 6 months   | Iron hides of 3 gorgons
+| Item Type                     | Base Cost | Time       | Possible Special Components
+| :---------------------------- | --------: | :--------- | :--------------------------------------
+| Potion of Healing             |     500gp | 1 week     | Blood of 1 troll
+| Scroll of Fly                 |   1,500gp | 3 weeks    | Feathers of 3 griffons
+| Wand of Fireball (20 charges) |  30,000gp | 120 days   | Fangs of 37 greater hellhounds
+| Ring of Invisibility (1/turn) |  33,000gp | 160 days   | Ichor of 30 invisible stalkers
+| Sword +1                      |   5,000gp | 1 month    | Skulls of 36 ogres or heroes
+| Sword +2                      |  15,000gp | 2 months   | Skulls of 107 ogres or heroes
+| Sword +1, +2 v. spellcasters  |  10,000gp | 1.5 months | Skulls of 36 ogres and 36 spellcasters
+| Plate Armor +1                |   5,000gp | 6 months   | Iron hides of 3 gorgons
 
 
 ## Ritual Spells
@@ -166,10 +166,10 @@ A short list of ritual spells is included below. The Judge could make available 
 
 #### Harvest*
 
-Divine Ritual | 6
-:------------ | :-------------------------------
-Range:        | 500 square miles (1 24-mile hex)
-Duration:     | 12 months
+| Divine Ritual | 6
+| :------------ | :-------------------------------
+| Range:        | 500 square miles (1 24-mile hex)
+| Duration:     | 12 months
 
 Harvest enables the caster to channel divine energy into the land around him, blessing it with fertile soil and bountiful harvests. Harvest increases the Land Value of the domain the caster is in by 2gp per peasant family for the next 12 months. See [Collecting Revenue](Chapter07.md#collecting-revenue) in the [Strongholds and Domains](Chapter07.md#strongholds-and-domains) section for details on Land Value.
 
@@ -178,10 +178,10 @@ Ravage, the reverse of harvest, decreases by 2gp per peasant family the Land Val
 
 #### Resurrection*
 
-Divine Ritual | 7
-:------------ | :-------------------------------
-Range:        | touch
-Duration:     | permanent
+| Divine Ritual | 7
+| :------------ | :-------------------------------
+| Range:        | touch
+| Duration:     | permanent
 
 This spell functions like restore life and limb, except that upon completion of the spell, the creature is immediately restored to full hit points, vigor, and health, with no side effects or lingering exhaustion. The condition of the creature's remains is not a factor. So long as some small portion of the creature's body still exists, it can be resurrected. The creature can have been dead no longer than 10 years per caster level.
 
@@ -190,20 +190,20 @@ Destruction, the reverse of resurrection, causes the victim touched by the caste
 
 #### Phase Door
 
-Arcane Ritual | 7
-:------------ | :-------------------------------
-Range:        | touch
-Duration:     | 1 passage per 2 levels
+| Arcane Ritual | 7
+| :------------ | :-------------------------------
+| Range:        | touch
+| Duration:     | 1 passage per 2 levels
 
 This spell creates an ethereal passage through wooden, plaster, or stone walls, but not other materials. This passage is 10' deep with a 5' diameter. The phase door is invisible and inaccessible to all creatures except the caster, and only the caster can use the passage. The caster disappears when entering the phase door and reappears when exiting. If the caster desires, he can take one other creature (human-sized or smaller) through the door. This counts as two uses of the door. The door does not allow light, sound, or spell effects through it, nor can it be seen through. A phase door is subject to dispel magic. If anyone is within the passage when it is dispelled, he is harmlessly ejected just as if he were inside a passwall effect.
 
 
 #### Permanency
 
-Arcane Ritual | 8
-:------------ | :-------------------------------
-Range:        | 10'
-Duration:     | permanent
+| Arcane Ritual | 8
+| :------------ | :-------------------------------
+| Range:        | 10'
+| Duration:     | permanent
 
 Using a permanency spell, the spellcaster can make permanent another arcane spell effect of lower level. Spells can be made permanent on creatures, items, or areas. Some spells commonly made permanent on creatures are detect magic, protection from evil, read languages, detect invisible, and fly. Some spells commonly made permanent on areas are light, magic mouth, phantasmal force, hallucinatory terrain, confusion, and cloudkill.
 
@@ -216,10 +216,10 @@ A permanency spell lasts until it is dispelled by either the caster or a higher-
 
 #### Wish
 
-Arcane Ritual | 9
-:------------ | :-------------------------------
-Range:        | unlimited
-Duration:     | see below
+| Arcane Ritual | 9
+| :------------ | :-------------------------------
+| Range:        | unlimited
+| Duration:     | see below
 
 Wish is the mightiest spell that can be cast. By simply speaking aloud, the caster can alter reality. This spell can accomplish any the effects of any other spell, or create comparable effects. Events can be reversed; the dead can be brought back to life; or an entire army might be healed of damage. An entire group could be teleported to any location with no chance of error. Unique powers or ability bonuses may be wished for at the Judge's discretion, and these might be permanent or temporary depending on the scope of the request. Although another character may be wished dead, such an act disrupts balance and the wish may be fulfilled in a way that the character wished dead is unaffected. For instance, if a character is wished dead, the caster may be transported through time to a point where the victim has already died of natural causes. Wishes will be fulfilled according to the letter of the request, and the Judge can exercise some regulation of wishes based on this strict enforcement. Ultimately, the Judge will have to decide the limits of a wish spell.
 
@@ -351,17 +351,17 @@ A ruler who asks his subjects to worship a god or religion foreign to them will 
 
 #### Domain Worship
 
-Domain Morale  | Divine Power per 10 Families per Week
--------------: | ------------------------------------:
--4             | 0
--3             | 1
--2             | 2
--1             | 3
-0              | 4
-+1             | 5
-+2             | 6
-+3             | 7
-+4             | 8
+| Domain Morale  | Divine Power per 10 Families per Week
+| -------------: | ------------------------------------:
+| -4             | 0
+| -3             | 1
+| -2             | 2
+| -1             | 3
+| 0              | 4
+| +1             | 5
+| +2             | 6
+| +3             | 7
+| +4             | 8
 
 
 ### Blood Sacrifice
@@ -398,81 +398,81 @@ The stronghold and any freestanding buildings in or around the stronghold can be
 
 #### Strongholds by Class
 
-Class               | Stronghold       | Followers                                                   | Special Rules
-:------------------ | :--------------- | :---------------------------------------------------------- | :--------------------------------------------------------------------------------
-Assassin            | Hideout          | 2d6 1st level assassins                                     | see [Hideouts and Hijinks](Chapter07.md#hideouts-and-hijinks) section
-Bard                | Hall             | 1d4+1x10 0th level mercenaries, 1d6 1st-3rd level bards     | -
-Bladedancer         | Temple           | 5d6x10 0th level mercenaries, 1d6 1st-3rd level bl. dancers | cost of building stronghold reduced by 50%, followers never need to check morale
-Cleric              | Fortified Church | 5d6x10 0th level mercenaries, 1d6 1st-3rd level clerics     | cost of building stronghold reduced by 50%, followers never need to check morale
-Dwarven Craftpriest | Vault            | 3d6x10 1st level dwarves                                    | must be underground, may not be in human or elven civilized or borderlands area
-Dwarven Vaultguard  | Vault            | 3d6x10 1st level dwarves                                    | must be underground, may not be in human or elven, civilized or borderland area
-Elf Nightblade      | Hideout          | 2d6 1st level nightblades                                   | see [Hideouts and Hijinks](Chapter07.md#hideouts-and-hijinks) section
-Elf Spellsword      | Fastness         | 3d6x10 1st level elves                                      | may not be in human or dwarven civilized or borderland area, all animals within 3 miles of fastness become friendly
-Explorer            | Border Fort      | 1d4+1x10 0th level mercenaries, 1d6 1st-3rd level explorers | must be in borderlands or wilderness
-Fighter             | Castle           | 1d4+1x10 0th level mercenaries, 1d6 1st-3rd level fighters  | -
-Mage                | Sanctum          | 2d6 0th level apprentices, 1d6 1st level mages              | see [Sanctums and Dungeons](Chapter07.md#sanctums-and-dungeons) section
-Thief               | Hideout          | 2d6 1st level thieves                                       | see [Hideouts and Hijinks](Chapter07.md#hideouts-and-hijinks) section
+| Class               | Stronghold       | Followers                                                   | Special Rules
+| :------------------ | :--------------- | :---------------------------------------------------------- | :--------------------------------------------------------------------------------
+| Assassin            | Hideout          | 2d6 1st level assassins                                     | see [Hideouts and Hijinks](Chapter07.md#hideouts-and-hijinks) section
+| Bard                | Hall             | 1d4+1x10 0th level mercenaries, 1d6 1st-3rd level bards     | -
+| Bladedancer         | Temple           | 5d6x10 0th level mercenaries, 1d6 1st-3rd level bl. dancers | cost of building stronghold reduced by 50%, followers never need to check morale
+| Cleric              | Fortified Church | 5d6x10 0th level mercenaries, 1d6 1st-3rd level clerics     | cost of building stronghold reduced by 50%, followers never need to check morale
+| Dwarven Craftpriest | Vault            | 3d6x10 1st level dwarves                                    | must be underground, may not be in human or elven civilized or borderlands area
+| Dwarven Vaultguard  | Vault            | 3d6x10 1st level dwarves                                    | must be underground, may not be in human or elven, civilized or borderland area
+| Elf Nightblade      | Hideout          | 2d6 1st level nightblades                                   | see [Hideouts and Hijinks](Chapter07.md#hideouts-and-hijinks) section
+| Elf Spellsword      | Fastness         | 3d6x10 1st level elves                                      | may not be in human or dwarven civilized or borderland area, all animals within 3 miles of fastness become friendly
+| Explorer            | Border Fort      | 1d4+1x10 0th level mercenaries, 1d6 1st-3rd level explorers | must be in borderlands or wilderness
+| Fighter             | Castle           | 1d4+1x10 0th level mercenaries, 1d6 1st-3rd level fighters  | -
+| Mage                | Sanctum          | 2d6 0th level apprentices, 1d6 1st level mages              | see [Sanctums and Dungeons](Chapter07.md#sanctums-and-dungeons) section
+| Thief               | Hideout          | 2d6 1st level thieves                                       | see [Hideouts and Hijinks](Chapter07.md#hideouts-and-hijinks) section
 
 
 #### Stronghold Structure Costs
 
-Structure                                                                     | Cost
-:---------------------------------------------------------------------------- | -------:
-Barbican (gatehouse, 2 small towers, and a drawbridge)                        | 38,000gp
-Battlement (100' long, crenellated parapets)                                  |    500gp
-Building, stone (20' high, 30' square, wood doors, floors, roof, stairs)*     |  3,000gp
-Building, wood (20' high, 30' square, wood doors, floors, roof, stairs)*      |  1,500gp
-Corridor, dungeon (10'x10'x10', hewn stone walls, flagstone floor)            |    500gp
-Drawbridge, wood (10' x 20')                                                  |    250gp
-Gatehouse (20' high, 30' x 20', metal portcullis, wood doors, floors, stairs) |  6,500gp
-Keep, square (80' high, 60' square, wood doors, floors, stairs)*              | 75,000gp
-Moat, unfilled (100' x 20' x 10' deep)*                                       |    400gp
-Moat, filled (100' x 20' x 10' deep)*                                         |    800gp
-Palisade, wood (10' high, 100' long, 1" thick)                                |    125gp
-Rampart, earthen (10' high, 100' long, 15' thick)                             |  2,500gp
-Tower, small round (30' high, 20' diameter, wood doors, floors, stairs)       | 15,000gp
-Tower, medium round (40' high, 20' diameter, wood doors, floors, stairs)      | 22,500gp
-Tower, large round (40' high, 30' diameter, wood doors, floors, roof, stairs) | 30,000gp
-Tower, huge round (60' high, 30' diameter, wood doors, floors, roof, stairs)  | 54,000gp
-Wall, stone castle (20' high, 100' long, 10' thick)                           |  5,000gp
-Wall, stone castle (30' high, 100' long, 10' thick)                           |  7,500gp
-Wall, stone castle (40' high, 100' long, 10' thick)                           | 12,500gp
-Wall, stone castle (50' high, 100' long, 10' thick)                           | 17,500gp
-Wall, stone castle (60' high, 100' long, 10' thick)                           | 22,500gp
+| Structure                                                                     | Cost
+| :---------------------------------------------------------------------------- | -------:
+| Barbican (gatehouse, 2 small towers, and a drawbridge)                        | 38,000gp
+| Battlement (100' long, crenellated parapets)                                  |    500gp
+| Building, stone (20' high, 30' square, wood doors, floors, roof, stairs)*     |  3,000gp
+| Building, wood (20' high, 30' square, wood doors, floors, roof, stairs)*      |  1,500gp
+| Corridor, dungeon (10'x10'x10', hewn stone walls, flagstone floor)            |    500gp
+| Drawbridge, wood (10' x 20')                                                  |    250gp
+| Gatehouse (20' high, 30' x 20', metal portcullis, wood doors, floors, stairs) |  6,500gp
+| Keep, square (80' high, 60' square, wood doors, floors, stairs)*              | 75,000gp
+| Moat, unfilled (100' x 20' x 10' deep)*                                       |    400gp
+| Moat, filled (100' x 20' x 10' deep)*                                         |    800gp
+| Palisade, wood (10' high, 100' long, 1" thick)                                |    125gp
+| Rampart, earthen (10' high, 100' long, 15' thick)                             |  2,500gp
+| Tower, small round (30' high, 20' diameter, wood doors, floors, stairs)       | 15,000gp
+| Tower, medium round (40' high, 20' diameter, wood doors, floors, stairs)      | 22,500gp
+| Tower, large round (40' high, 30' diameter, wood doors, floors, roof, stairs) | 30,000gp
+| Tower, huge round (60' high, 30' diameter, wood doors, floors, roof, stairs)  | 54,000gp
+| Wall, stone castle (20' high, 100' long, 10' thick)                           |  5,000gp
+| Wall, stone castle (30' high, 100' long, 10' thick)                           |  7,500gp
+| Wall, stone castle (40' high, 100' long, 10' thick)                           | 12,500gp
+| Wall, stone castle (50' high, 100' long, 10' thick)                           | 17,500gp
+| Wall, stone castle (60' high, 100' long, 10' thick)                           | 22,500gp
 
 *The dimensions of these constructions can be altered as long as the square footage remains the same.
 
 
 #### Civilian Structure Costs
 
-Structure                                                                        | Cost
-:------------------------------------------------------------------------------- | ------:
-Cottage, wood (20' high, 30' square, thatched roof, wood stairs, earthen floor)* |   300gp
-Hut, pit (8' high, 8' square, thatched roof, sunken earthen floor)*              |    15gp
-Hut, sod or wattle (10' high, 10' square, thatched roof, earthen floor)*         |    25gp
-Hut, mudbrick or wood (10' high, 10' square, thatched roof, earthen floor)*      |    50gp
-Longhouse, wood (15' high, 30' long, 15' wide, thatched roof, earthen floor)*    |   300gp
-Roundhouse, wood (15' high, 15' diameter, thatched roof, earthen floor)*         |   125gp
-Townhouse, stone (20' high, 30' square, thatched roof, wood floor and stairs)*   | 1,200gp
+| Structure                                                                        | Cost
+| :------------------------------------------------------------------------------- | ------:
+| Cottage, wood (20' high, 30' square, thatched roof, wood stairs, earthen floor)* |   300gp
+| Hut, pit (8' high, 8' square, thatched roof, sunken earthen floor)*              |    15gp
+| Hut, sod or wattle (10' high, 10' square, thatched roof, earthen floor)*         |    25gp
+| Hut, mudbrick or wood (10' high, 10' square, thatched roof, earthen floor)*      |    50gp
+| Longhouse, wood (15' high, 30' long, 15' wide, thatched roof, earthen floor)*    |   300gp
+| Roundhouse, wood (15' high, 15' diameter, thatched roof, earthen floor)*         |   125gp
+| Townhouse, stone (20' high, 30' square, thatched roof, wood floor and stairs)*   | 1,200gp
 
 *The dimensions of these constructions can be altered as long as the square footage remains the same.
 
 
 #### Structure Accessories Costs
 
-Accessory                                  | Cost
-:----------------------------------------- | -------------:
-Arrow Slit/Window*                         |           10gp
-Door, wood (3' x 7')*                      |           10gp
-Door, reinforced wood (3' x 7')*           |           20gp
-Door, iron/stone (3' x 7')*                |           50gp
-Door, secret (3' x 7')*                    | By material x5
-Floor/Roof, flagstone or tile (10' x 10')* |           40gp
-Floor/Roof, wood (10' x 10')*              |           10gp
-Shutters (window)*                         |            5gp
-Shifting Wall (10' x 10')*                 |         1000gp
-Stairs, wood (one flight, 3' x 10')*       |           20gp
-Stairs, stone (one flight, 3' x 10')*      |           60gp
+| Accessory                                  | Cost
+| :----------------------------------------- | -------------:
+| Arrow Slit/Window*                         |           10gp
+| Door, wood (3' x 7')*                      |           10gp
+| Door, reinforced wood (3' x 7')*           |           20gp
+| Door, iron/stone (3' x 7')*                |           50gp
+| Door, secret (3' x 7')*                    | By material x5
+| Floor/Roof, flagstone or tile (10' x 10')* |           40gp
+| Floor/Roof, wood (10' x 10')*              |           10gp
+| Shutters (window)*                         |            5gp
+| Shifting Wall (10' x 10')*                 |         1000gp
+| Stairs, wood (one flight, 3' x 10')*       |           20gp
+| Stairs, stone (one flight, 3' x 10')*      |           60gp
 
 *Upgrade a structure to include these at time of construction for 25% of the accessories' base cost
 
@@ -486,11 +486,11 @@ Strongholds have a minimum cost, based on the size and classification of the dom
 
 #### Minimum Stronghold Value
 
-Classification | Minimum Value
-:------------- | ----------------------:
-Civilized      | 15,000gp per 6-mile hex
-Borderlands    | 22,500gp per 6-mile hex
-Wilderness     | 30,000gp per 6-mile hex
+| Classification | Minimum Value
+| :------------- | ----------------------:
+| Civilized      | 15,000gp per 6-mile hex
+| Borderlands    | 22,500gp per 6-mile hex
+| Wilderness     | 30,000gp per 6-mile hex
 
 
 ### Attracting Peasants and Followers
@@ -504,77 +504,77 @@ Use the [Followers Type and Equipment by Class](Chapter07.md#follower-type-and-e
 
 #### Domain Population
 
-Classification | Starting Families
-:------------- | :------------------------
-Civilized      | 8d6 x 10 per 6-mile hex
-Borderlands    | 3d6 x 10 per 6-mile hex
-Wilderness     | 1d4+1 x 10 per 6-mile hex
+| Classification | Starting Families
+| :------------- | :------------------------
+| Civilized      | 8d6 x 10 per 6-mile hex
+| Borderlands    | 3d6 x 10 per 6-mile hex
+| Wilderness     | 1d4+1 x 10 per 6-mile hex
 
 
 ### Follower Type and Equipment by Class
 
 #### Bards & Bladedancers
 
-Die Roll (1d100) | Type and Equipment
-:--------------- | :-------------------------------------------------------------------------------------------
-01-10            | Heavy Cavalry (lance, sword, shield, plate armor, chain barded medium warhorse)
-11-20            | Medium Cavalry (lance, shield, lamellar armor, and medium warhorse)
-21-35            | Light Cavalry (3 javelins, 2 swords, leather armor, light warhorse)
-36-55            | Heavy Infantry (pole arm, sword, shield, banded plate armor)
-56-80            | Light Infantry (2 swords, dagger, leather armor)
-81-90            | Archers (short bow, sword, leather armor)
-91-100           | Slingers (sling, short sword, shield, leather armor)
+| Die Roll (1d100) | Type and Equipment
+| :--------------- | :-------------------------------------------------------------------------------------------
+| 01-10            | Heavy Cavalry (lance, sword, shield, plate armor, chain barded medium warhorse)
+| 11-20            | Medium Cavalry (lance, shield, lamellar armor, and medium warhorse)
+| 21-35            | Light Cavalry (3 javelins, 2 swords, leather armor, light warhorse)
+| 36-55            | Heavy Infantry (pole arm, sword, shield, banded plate armor)
+| 56-80            | Light Infantry (2 swords, dagger, leather armor)
+| 81-90            | Archers (short bow, sword, leather armor)
+| 91-100           | Slingers (sling, short sword, shield, leather armor)
 
 
 #### Clerics & Fighters
 
-Die Roll (1d100) | Type and Equipment
-:--------------- | :-------------------------------------------------------------------------------------------
-01-05            | Cataphract Cavalry (composite bow, sword, shield, plate armor, chain barded medium warhorse)
-06-15            | Heavy Cavalry (lance, sword, shield, plate armor, chain barded medium warhorse)
-16-25            | Medium Cavalry (lance, shield, lamellar armor, and medium warhorse)
-26-35            | Light Cavalry (3 javelins, sword, shield, leather armor, light warhorse)
-36-60            | Heavy Infantry (pole arm, sword, shield, banded plate armor)
-61-80            | Light Infantry (spear, short sword, shield, leather armor)
-81-90            | Archers (short bow, short sword, leather armor)
-91-100           | Slingers (sling, short sword, shield, leather armor)
+| Die Roll (1d100) | Type and Equipment
+| :--------------- | :-------------------------------------------------------------------------------------------
+| 01-05            | Cataphract Cavalry (composite bow, sword, shield, plate armor, chain barded medium warhorse)
+| 06-15            | Heavy Cavalry (lance, sword, shield, plate armor, chain barded medium warhorse)
+| 16-25            | Medium Cavalry (lance, shield, lamellar armor, and medium warhorse)
+| 26-35            | Light Cavalry (3 javelins, sword, shield, leather armor, light warhorse)
+| 36-60            | Heavy Infantry (pole arm, sword, shield, banded plate armor)
+| 61-80            | Light Infantry (spear, short sword, shield, leather armor)
+| 81-90            | Archers (short bow, short sword, leather armor)
+| 91-100           | Slingers (sling, short sword, shield, leather armor)
 
 
 #### Dwarven Craftpriests & Vaultguards
 
-Die Roll (1d100) | Type and Equipment
-:--------------- | :-------------------------------------------------------------------------------------------
-01-20            | Dwarven Heavy Infantry (great axe, plate armor)
-21-40            | Dwarven Heavy Infantry (war hammer, shield, banded plate armor)
-41-60            | Dwarven Heavy Infantry (battle axe, shield, chainmail)
-61-80            | Dwarven Crossbowman (arbalest, dagger, chainmail)
-81-100           | Dwarven Mounted Crossbowmen (crossbow, chainmail, mule)
+| Die Roll (1d100) | Type and Equipment
+| :--------------- | :-------------------------------------------------------------------------------------------
+| 01-20            | Dwarven Heavy Infantry (great axe, plate armor)
+| 21-40            | Dwarven Heavy Infantry (war hammer, shield, banded plate armor)
+| 41-60            | Dwarven Heavy Infantry (battle axe, shield, chainmail)
+| 61-80            | Dwarven Crossbowman (arbalest, dagger, chainmail)
+| 81-100           | Dwarven Mounted Crossbowmen (crossbow, chainmail, mule)
 
 
 #### Elven Spellswords
 
-Die Roll (1d100) | Type and Equipment
-:--------------- | :-------------------------------------------------------------------------------------------
-01-15            | Elven Horse Archers (composite bow, scimitar, leather armor, light warhorse)
-16-30            | Elven Light Cavalry (lance, shield, leather armor, light warhorse)
-31-45            | Elven Light Infantry (spear, short sword, shield, leather armor)
-46-60            | Elven Heavy Infantry (spear, sword, shield, chainmail)
-61-75            | Elven Archers (short bow, dagger, leather armor)
-76-100           | Elven Longbowmen (long bow, sword, chainmail)
+| Die Roll (1d100) | Type and Equipment
+| :--------------- | :-------------------------------------------------------------------------------------------
+| 01-15            | Elven Horse Archers (composite bow, scimitar, leather armor, light warhorse)
+| 16-30            | Elven Light Cavalry (lance, shield, leather armor, light warhorse)
+| 31-45            | Elven Light Infantry (spear, short sword, shield, leather armor)
+| 46-60            | Elven Heavy Infantry (spear, sword, shield, chainmail)
+| 61-75            | Elven Archers (short bow, dagger, leather armor)
+| 76-100           | Elven Longbowmen (long bow, sword, chainmail)
 
 
 #### Explorers
 
-Die Roll (1d100) | Type and Equipment
-:--------------- | :-------------------------------------------------------------------------------------------
-01-10            | Medium Cavalry (lance, shield, lamellar armor, and medium warhorse)
-11-25            | Light Cavalry (3 javelins, 2 swords, leather armor, light warhorse)
-26-40            | Horse Archers (composite bow, scimitar, leather armor, light warhorse)
-41-60            | Light Infantry (spear, hand axe, shield, leather armor)
-61-70            | Longbowmen (long bow, sword, chainmail armor)
-71-80            | Archers (short bow, short sword, leather armor)
-81-90            | Slingers (sling, short sword, shield, leather armor)
-91-100           | Hunters (bola, net, 3 javelins, hand axe, leather armor)
+| Die Roll (1d100) | Type and Equipment
+| :--------------- | :-------------------------------------------------------------------------------------------
+| 01-10            | Medium Cavalry (lance, shield, lamellar armor, and medium warhorse)
+| 11-25            | Light Cavalry (3 javelins, 2 swords, leather armor, light warhorse)
+| 26-40            | Horse Archers (composite bow, scimitar, leather armor, light warhorse)
+| 41-60            | Light Infantry (spear, hand axe, shield, leather armor)
+| 61-70            | Longbowmen (long bow, sword, chainmail armor)
+| 71-80            | Archers (short bow, short sword, leather armor)
+| 81-90            | Slingers (sling, short sword, shield, leather armor)
+| 91-100           | Hunters (bola, net, 3 javelins, hand axe, leather armor)
 
 
 Apprentices (such as 1st level assassins, elven nightblades, mages, and thieves) and leader types (such as 1st-3rd level bards, bladedancers, clerics, explorers, or fighters) can be quickly created using the pre-generated templates for their class, or the Judge may allow the adventurer to generate and equip them using the [Character Creation](Chapter02.md#creating-a-character) rules in Chapter 2.
@@ -593,14 +593,14 @@ An adventurer can increase the population of his domain by making agricultural i
 Adventurers who are rising in power and fame will attract additional peasants to move to their domains. Provided a character actively adventures at least once per month and keeps his domain secure from threats, his domain's population will grow by an additional amount each month, determined by the number of families already present.
 
 
-Population (Families) | Increase
-:-------------------- | -------:
-1-100                 |     +25%
-301-400               |     +10%
-101-200               |     +20%
-401-500               |      +5%
-201-300               |     +15%
-500+                  |      +1%
+| Population (Families) | Increase
+| :-------------------- | -------:
+| 1-100                 |     +25%
+| 301-400               |     +10%
+| 101-200               |     +20%
+| 401-500               |      +5%
+| 201-300               |     +15%
+| 500+                  |      +1%
 
 
 Elven domains always increase in population as if they were two population categories larger. Dwarven domains increase in population as if they were one population category larger. *Example*: An elven domain of 1-100 families increases in population as if it were 201-300 families in population, at 15% per month.
@@ -620,12 +620,12 @@ An adventurer can exceed his domain's limits of growth by establishing an urban 
 Each month, the adventurer collects revenue from each peasant family in his domain. There are four sources of income: land revenue, service revenue, tax revenue, and vassal revenue. The first three types of revenue are generated by the domain's peasant families, while the last is only generated if the adventurer has one or more vassal domains (described below).
 
 
-Source   | Monthly Revenue
-:------- | :--------------
-Land     | 3-9gp / family
-Services |   4gp / family
-Taxes    |   2gp / family
-Vassals  | Varies
+| Source   | Monthly Revenue
+| :------- | :--------------
+| Land     | 3-9gp / family
+| Services |   4gp / family
+| Taxes    |   2gp / family
+| Vassals  | Varies
 
 
 As noted under Securing the Domain (above), land revenue derives from labor on the domain's lands. It includes wheat, barley, and other grains; cheese, milk, meat, bee honey, and other animal products; and clay, stone, coal, and metals. The average domain produces 6gp of land revenue per peasant, but not all land is equally valuable. The domain's land revenue will have been determined with a roll of 3d3 when the domain was first secured - this value is the monthly land revenue per peasant family.
@@ -644,11 +644,11 @@ Vassal revenue is income received from vassal domains controlled by the adventur
 **Garrison**: In order to maintain the security of his domain, the adventurer must have a large enough garrison of troops. Depending on the classification of the domain, this can cost 2-4gp per family per month. The adventurer should specify the exact make-up of the garrison, hiring an appropriate number of mercenaries (see Chapter 3, [Equipment](Chapter03.md#chapter-3-equipment), for details on mercenaries).
 
 
-Classification | Garrison Cost
-:------------- | :------------
-Civilized      | 2gp / family
-Borderlands    | 3gp / family
-Wilderness     | 4gp / family
+| Classification | Garrison Cost
+| :------------- | :------------
+| Civilized      | 2gp / family
+| Borderlands    | 3gp / family
+| Wilderness     | 4gp / family
 
 
 The gold piece value of a cleric's or bladedancer's followers can be applied against the garrison cost of their domain, even though the cleric or bladedancer does not actually have to pay their faithful followers for their services.
@@ -681,19 +681,19 @@ During any month, each vassal can be safely asked to perform one ongoing duty, p
 
 #### Favors and Duties
 
-Roll (2d6) | Favor / Duty
----------: | :--------------
-2          | **Build Additional Stronghold**: The adventurer is ordered to construct a stronghold somewhere within his realm. The stronghold must have a minimum value of 15,000gp per 6-mile hex the adventurer controls.
-3          | **Call to Arms**: The adventurer is called to provide military service to his lord. He must muster a force at least equal to 1/2 the garrison of his realm and go on campaign for a duration of 1d4 months (or until the duty is revoked). On a roll of 4 months duration, roll again and add the subsequent roll to the total. Repeated rolls of 4 can yield very long campaigns.
-4          | **Call to Council**: The adventure is called to provide judicial and managerial council to his lord. He must travel to his lord's domain to provide this service. Duration of service is the same as for a Call to Arms.
-5          | **Tax Demanded**: The lord demands the adventure pay 1gp monthly per peasant family in the adventurer's realm as a special tax. The special tax continues until the duty is revoked.
-6          | **Loan Demanded**: The lord demands a loan of 1gp per peasant family in the adventurer's realm. The loan is repaid when the duty is revoked. Otherwise, the probability of repayment is equal to the adventurer's CHA stated as a percentage, rolled monthly. No interest will be paid in either case.
-7          | **Previous duty/favor revoked**: The adventurer loses his most recently granted favor (1) or duty (2-6).
-8          | **Festival**: The lord celebrates a wedding, birth, military victory, or other event by holding a festival in all of the adventurer's domains. (This favor cannot be revoked).
-9          | **Gift**: The lord gives the adventurer a gift with a value of 1gp per peasant family in the adventurer's realm. The gift may be treasure, warhorses, slaves, merchandise, magical items, etc. (Judge's discretion). (This favor cannot be revoked.)
-10         | **Charter of Monopoly**: The adventurer is granted a monopoly on a randomly determined type of merchandise on the [Common Merchandise](Chapter07.md#common-merchandise) table. He gains a +4 on the die roll to find buyers or sellers of that merchandise, merchants will buy or sell twice the normal number of loads of that type from him, and prices are adjusted by 1 point (10%) in his favor. See [Arbitrage Trading](Chapter07.md#arbitrage-trading), below.
-11         | **Grant of Title**: The adventurer is formally granted a noble title appropriate to his land holdings. If this would make the character equal in title to his lord, then the lord offers a family member in marriage to the character or character's heirs instead. (A marriage cannot be revoked, but a title can be.)
-12         | **Grant of Land**: The adventurer is granted a new domain consisting of 1 6-mile hex on the border of one of his existing domains. Generate the new domain normally, as per the rules above.
+| Roll (2d6) | Favor / Duty
+| ---------: | :--------------
+| 2          | **Build Additional Stronghold**: The adventurer is ordered to construct a stronghold somewhere within his realm. The stronghold must have a minimum value of 15,000gp per 6-mile hex the adventurer controls.
+| 3          | **Call to Arms**: The adventurer is called to provide military service to his lord. He must muster a force at least equal to 1/2 the garrison of his realm and go on campaign for a duration of 1d4 months (or until the duty is revoked). On a roll of 4 months duration, roll again and add the subsequent roll to the total. Repeated rolls of 4 can yield very long campaigns.
+| 4          | **Call to Council**: The adventure is called to provide judicial and managerial council to his lord. He must travel to his lord's domain to provide this service. Duration of service is the same as for a Call to Arms.
+| 5          | **Tax Demanded**: The lord demands the adventure pay 1gp monthly per peasant family in the adventurer's realm as a special tax. The special tax continues until the duty is revoked.
+| 6          | **Loan Demanded**: The lord demands a loan of 1gp per peasant family in the adventurer's realm. The loan is repaid when the duty is revoked. Otherwise, the probability of repayment is equal to the adventurer's CHA stated as a percentage, rolled monthly. No interest will be paid in either case.
+| 7          | **Previous duty/favor revoked**: The adventurer loses his most recently granted favor (1) or duty (2-6).
+| 8          | **Festival**: The lord celebrates a wedding, birth, military victory, or other event by holding a festival in all of the adventurer's domains. (This favor cannot be revoked).
+| 9          | **Gift**: The lord gives the adventurer a gift with a value of 1gp per peasant family in the adventurer's realm. The gift may be treasure, warhorses, slaves, merchandise, magical items, etc. (Judge's discretion). (This favor cannot be revoked.)
+| 10         | **Charter of Monopoly**: The adventurer is granted a monopoly on a randomly determined type of merchandise on the [Common Merchandise](Chapter07.md#common-merchandise) table. He gains a +4 on the die roll to find buyers or sellers of that merchandise, merchants will buy or sell twice the normal number of loads of that type from him, and prices are adjusted by 1 point (10%) in his favor. See [Arbitrage Trading](Chapter07.md#arbitrage-trading), below.
+| 11         | **Grant of Title**: The adventurer is formally granted a noble title appropriate to his land holdings. If this would make the character equal in title to his lord, then the lord offers a family member in marriage to the character or character's heirs instead. (A marriage cannot be revoked, but a title can be.)
+| 12         | **Grant of Land**: The adventurer is granted a new domain consisting of 1 6-mile hex on the border of one of his existing domains. Generate the new domain normally, as per the rules above.
 
 
 ### Titles of Nobility
@@ -705,15 +705,15 @@ Three factors determine a ruler's title - the size of his personal domain, the n
 
 #### Titles of Nobility
 
-Personal Domain (families) | Number of Domains Ruled | Overall Realm (families) | Common  | Southern  | Elven       | Eastern  | Northern
--------------------------: | ----------------------: | -----------------------: | :------ | :-------- | :---------- | :------- | :-------- 
-12,500                     | 5,461-55,987            | 1.5M - 11.6M+            | Emperor | Tarkaun   | Ard-r'i     | Maharaja | High King
-12,500                     | 1,365-9,331             | 364K - 2,000K            | King    | Exarch    | R'i-ruirech | Raja     | King
-7,500                      | 341-1,555               | 87K - 322K               | Prince  | Prefect   | R'i         | Deshmukh | Prince
-1,500                      | 85-259                  | 20,000 - 52,000          | Duke    | Palatine  | Diuc        | Zammin   | Duke
-780                        | 21-43                   | 4,600 - 8,500            | Count   | Legate    | Iarla       | Mansab   | Jarl
-320                        | 5-7                     | 960 - 1,280              | Marquis | Tribune   | Ard-tiarna  | Sardar   | Reeve
-160                        | 1                       | 160                      | Baron   | Castellan | Tiarna      | Jagir    | Thane
+| Personal Domain (families) | Number of Domains Ruled | Overall Realm (families) | Common  | Southern  | Elven       | Eastern  | Northern
+| -------------------------: | ----------------------: | -----------------------: | :------ | :-------- | :---------- | :------- | :-------- 
+| 12,500                     | 5,461-55,987            | 1.5M - 11.6M+            | Emperor | Tarkaun   | Ard-r'i     | Maharaja | High King
+| 12,500                     | 1,365-9,331             | 364K - 2,000K            | King    | Exarch    | R'i-ruirech | Raja     | King
+| 7,500                      | 341-1,555               | 87K - 322K               | Prince  | Prefect   | R'i         | Deshmukh | Prince
+| 1,500                      | 85-259                  | 20,000 - 52,000          | Duke    | Palatine  | Diuc        | Zammin   | Duke
+| 780                        | 21-43                   | 4,600 - 8,500            | Count   | Legate    | Iarla       | Mansab   | Jarl
+| 320                        | 5-7                     | 960 - 1,280              | Marquis | Tribune   | Ard-tiarna  | Sardar   | Reeve
+| 160                        | 1                       | 160                      | Baron   | Castellan | Tiarna      | Jagir    | Thane
 
 
 ### Keeping the Peace
@@ -721,17 +721,17 @@ Personal Domain (families) | Number of Domains Ruled | Overall Realm (families) 
 All domains have a morale score which represent their populations' trust and faith in their ruler. Morale scores vary from -4 to +4. Domains begin with a morale score of 0 plus or minus their ruler's Charisma adjustment, known as their base morale score. Morale scores affect the functioning of the domain, as described below.
 
 
-Morale Score | Morale Level
------------: | :-----------
-          -4 | Rebellious
-          -3 | Defiant
-          -2 | Turbulent
-          -1 | Demoralized
-           0 | Apathetic
-          +1 | Loyal
-          +2 | Dedicated
-          +3 | Steadfast
-          +4 | Stalwart
+| Morale Score | Morale Level
+| -----------: | :-----------
+|           -4 | Rebellious
+|           -3 | Defiant
+|           -2 | Turbulent
+|           -1 | Demoralized
+|            0 | Apathetic
+|           +1 | Loyal
+|           +2 | Dedicated
+|           +3 | Steadfast
+|           +4 | Stalwart
 
 
 **Rebellious** means that the domain is revolting against their ruler. There is no population growth, and an extra 4d10 families per thousand are lost to illness, casualties, and emigration each month. Tax, land, and service income drop to zero. The able-bodied men (one per peasant family) become bandits, and begin to attack officials, trade caravans, troops, and travelers in the domain. If these bandits are slain, the population of the domain is reduced accordingly. For every 200 peasant families in the domain, there is a cumulative 10% chance of a village hero (4th - 7th level fighter) emerging to challenge the character's rule.
@@ -757,28 +757,28 @@ Every season (three month interval), the Judge will roll 2d6 on the [Domain Mora
 
 #### Domain Morale
 
-Adjusted Die Roll | Result
-:---------------- | :-------------------------------
-2-                | Morale reduced by 2 (min -4)
-3-5               | Morale reduced by 1 (min -4)
-6-8               | Morale shifts by 1 towards base
-9-11              | Morale increased by 1 (max +4)
-12+               | Morale increased by 2 (max +4)
+| Adjusted Die Roll | Result
+| :---------------- | :-------------------------------
+| 2-                | Morale reduced by 2 (min -4)
+| 3-5               | Morale reduced by 1 (min -4)
+| 6-8               | Morale shifts by 1 towards base
+| 9-11              | Morale increased by 1 (max +4)
+| 12+               | Morale increased by 2 (max +4)
 
 
-Seasonal Events                     | Morale Roll Adjustment
-:---------------------------------- | :---------------------
-Ruler is of different alignment     | -2
-Garrison below normal last season   | -1/gp/family increase
-Garrison above normal last season   | +1/gp/family decrease
-No festivals last season            | -1
-Extra festivals last season         | +1/extra festival
-Population grew 5+% last season     | +1/5% increase
-Population shrank 5%+ last season   | -2/5% decrease
-Taxes below normal last season      | +1/gp decrease
-Taxes above normal last season      | -1/gp increase
-Tithes not paid last season         | -2
-New religion introduced last season | -4
+| Seasonal Events                     | Morale Roll Adjustment
+| :---------------------------------- | :---------------------
+| Ruler is of different alignment     | -2
+| Garrison below normal last season   | -1/gp/family increase
+| Garrison above normal last season   | +1/gp/family decrease
+| No festivals last season            | -1
+| Extra festivals last season         | +1/extra festival
+| Population grew 5+% last season     | +1/5% increase
+| Population shrank 5%+ last season   | -2/5% decrease
+| Taxes below normal last season      | +1/gp decrease
+| Taxes above normal last season      | -1/gp increase
+| Tithes not paid last season         | -2
+| New religion introduced last season | -4
 
 
 *Example*: Marcus, a 9th level fighter, is ruler of a borderlands domain with a morale score of +1 (Loyal). But after accidentally donning a helm of alignment change, Marcus becomes chaotic (-2) and starts running his domain with an iron fist. He offers no festivals (-1), and raises taxes from 2gp to 4gp per peasant (-2), while increasing his garrison troops from 3gp/family to 4gp/family (+1). The dominion's population grows only 2.5% (no modifier). At the end of the season, he rolls 2d6-5+1 for his domain's loyalty and scores a 2. That means his domain morale drops by 2 point, from +1 to -1. His domain has become Demoralized, as his peasants lose their confidence in their ruler. If he continues in his tyrannical ways, Marcus may find that the tighter he grips, the more peasants slip away...
@@ -809,14 +809,14 @@ Unlike domains, the limits of an urban settlement's growth are not based the ava
 By spending more gold pieces on roads, aqueducts, sewers, marketplaces, walls, and other infrastructure, the adventurer can increase the maximum population size of the urban settlement. In addition to increasing the maximum population, urban investment also attracts new residents. For every 1,000gp spent on investments in a month, the settlement will attract 1d10 new urban families.
 
 
-Total Investment (gp) | Maximum Population (families)
---------------------: | ----------------------------:
-               10,000 | 249
-               25,000 | 624
-               75,000 | 2,499
-              200,000 | 4,999
-              625,000 | 19,999
-            2,500,000 | 100,000
+| Total Investment (gp) | Maximum Population (families)
+| --------------------: | ----------------------------:
+|                10,000 | 249
+|                25,000 | 624
+|                75,000 | 2,499
+|               200,000 | 4,999
+|               625,000 | 19,999
+|             2,500,000 | 100,000
 
 
 #### Collecting Revenue
@@ -824,14 +824,14 @@ Total Investment (gp) | Maximum Population (families)
 Each month, the adventurer will collect revenue from each urban family in his domain. Urban families pay urban revenue, representing tolls, duties, tariffs, rent, and other fees paid by the residents to the adventurer. Urban revenue begins at 7gp per family per month and increases with the size of the settlement. Rulers may also profit from taking advantage of the urban settlement as a market. Each urban settlement has a market class based on its size. See [Mercantile Ventures](Chapter07.md#mercantile-ventures) for more details on markets.
 
 
-Settlement Population (families) | Urban Revenue (gp/family) | Market Class
- ------------------------------: | ------------------------: | :------------
-                          75-249 |                       7   | Class VI
-                         250-624 |                       7.5 | Class V
-                       626-2,499 |                       7.5 | Class IV
-                     2,500-4,999 |                       7.5 | Class III
-                    5,000-19,999 |                       8   | Class II
-                  20,000-100,000 |                       8.5 | Class I
+| Settlement Population (families) | Urban Revenue (gp/family) | Market Class
+|  ------------------------------: | ------------------------: | :------------
+|                           75-249 |                       7   | Class VI
+|                          250-624 |                       7.5 | Class V
+|                        626-2,499 |                       7.5 | Class IV
+|                      2,500-4,999 |                       7.5 | Class III
+|                     5,000-19,999 |                       8   | Class II
+|                   20,000-100,000 |                       8.5 | Class I
 
 
 #### Paying Expenses
@@ -843,33 +843,33 @@ If the adventurer has established his urban settlement in a civilized realm, he 
 The [Villages, Towns, and Cities](Chapter07.md#villages-towns-and-cities-1) table, below, shows the average monthly income, after expenses, of urban settlements of various sizes. This table can be used to quickly determine the value of an urban settlement located within a domain. Detailed rules for developing the complete urban demographics of all of a campaign's realms can be found under [Constructing the Campaign Setting](Chapter10.md#constructing-the-campaign-setting) in Chapter 10.
 
 
-Expense      | Monthly Cost
-:----------- | :-------------------
-Garrison     | 2gp/family
-Upkeep       | 1gp/family
-Taxes        | 20% of urban revenue
-Tithes       | 10% of urban revenue
-Festival     | 5gp/family/season
+| Expense      | Monthly Cost
+| :----------- | :-------------------
+| Garrison     | 2gp/family
+| Upkeep       | 1gp/family
+| Taxes        | 20% of urban revenue
+| Tithes       | 10% of urban revenue
+| Festival     | 5gp/family/season
 
 
 #### Villages, Towns, and Cities
 
-Urban Settlement (families)    | Monthly Income   | Market Class
-:----------------------------- | ---------------: | :------------
-Hamlets (74-)                  |             0gp  | Class VI*
-Small Village (75-99)          |         18-24gp  | Class VI
-Village (100-159)              |         25-39gp  | Class VI
-Village (160-249)              |         40-60gp  | Class VI
-Large village (250-449)        |       150-264gp  | Class V
-Small town (450-624)           |       265-369gp  | Class V
-Large town (625-1,249)         |       370-739gp  | Class IV
-Small city (1,250-2,499)       |     740-1,474gp  | Class IV
-City (2,500-4,999)             |   1,475-2,950gp  | Class III
-Large city (5,000-9,999)       |   4,700-9,399gp  | Class II
-Large city (10,000-14,999)     |  9,400-14,099gp  | Class II
-Large city (15,000-19,999)     | 14,100-18,799gp  | Class II
-Metropolis (20,000-39,999)     | 25,800-51,599gp  | Class I
-Metropolis (40,000+)           |        51,600gp+ | Class I
+| Urban Settlement (families)    | Monthly Income   | Market Class
+| :----------------------------- | ---------------: | :------------
+| Hamlets (74-)                  |             0gp  | Class VI*
+| Small Village (75-99)          |         18-24gp  | Class VI
+| Village (100-159)              |         25-39gp  | Class VI
+| Village (160-249)              |         40-60gp  | Class VI
+| Large village (250-449)        |       150-264gp  | Class V
+| Small town (450-624)           |       265-369gp  | Class V
+| Large town (625-1,249)         |       370-739gp  | Class IV
+| Small city (1,250-2,499)       |     740-1,474gp  | Class IV
+| City (2,500-4,999)             |   1,475-2,950gp  | Class III
+| Large city (5,000-9,999)       |   4,700-9,399gp  | Class II
+| Large city (10,000-14,999)     |  9,400-14,099gp  | Class II
+| Large city (15,000-19,999)     | 14,100-18,799gp  | Class II
+| Metropolis (20,000-39,999)     | 25,800-51,599gp  | Class I
+| Metropolis (40,000+)           |        51,600gp+ | Class I
 
 *Class VI market at domain's stronghold only
 
@@ -936,14 +936,14 @@ Assassins, elven nightblades, and thieves can build a secret stronghold called a
 
 #### Hideout Size and Cost
 
-Market Class | Max. Syndicate Membership | Minimum Hideout Value (gp)
-:----------- | ------------------------: | -------------------------:
-Class VI     |                        25 |                      5,000
-Class V      |                        50 |                     10,000
-Class IV     |                       100 |                     20,000
-Class III    |                       375 |                     75,000
-Class II     |                       750 |                    150,000
-Class I      |                     3,000 |                    600,000
+| Market Class | Max. Syndicate Membership | Minimum Hideout Value (gp)
+| :----------- | ------------------------: | -------------------------:
+| Class VI     |                        25 |                      5,000
+| Class V      |                        50 |                     10,000
+| Class IV     |                       100 |                     20,000
+| Class III    |                       375 |                     75,000
+| Class II     |                       750 |                    150,000
+| Class I      |                     3,000 |                    600,000
 
 
 Hideouts must be built within 6 miles of an urban settlement, which becomes the syndicate's base of operations. The market class of the urban settlement determines the maximum size of the syndicate. Large ports and cosmopolitan cities can sustain much larger criminal gangs than small towns and agrarian villages. However, in order to reach its maximum size, a syndicate's boss must construct a sufficiently large hideout. The [Hideout Size and Cost](Chapter07.md#hideout-size-and-cost) table shows the maximum syndicate membership by settlement class, as well as the required hideout cost to reach that size of membership.
@@ -956,14 +956,14 @@ Hideouts must be built within 6 miles of an urban settlement, which becomes the 
 Once an adventurer has established a syndicate, its members can be deployed on various hijinks within its base of operations. If an adventurer has henchmen of an appropriate class (assassin, elven nightblade, or thief) these may also be assigned hijinks. Each month, each member of the syndicate (whether a follower, henchman or ruffian) on the boss's payroll can be assigned a hijink from one of six available options. The boss who controls the syndicate gets the benefit of any successful hijinks he orders. The available hijinks, required rolls, and outcome of a successful hijink are summarized below.
 
 
-Hijink           | Requirement     | Successful Outcome
-:--------------- | :-------------- | :----------------------------------------------------------------------------------
-Assassinating    | Hide in Shadows | Victim dies; bounty of 1,000gp per level of victim to boss
-Carousing        | Hear Noise      | Learn one rumor worth 3d12x5gp per level of perpetrator to boss
-Smuggling        | Move Silently   | Smuggle 10 loads per level of perpetrator, payout of 12% of value of goods to boss
-Spying           | Hide in Shadows | Learn one secret worth 2d12x100gp per level of perpetrator to boss
-Stealing         | Pick Pockets    | Steal 2 loads per level of perpetrator, payout of 60% of value of goods to boss
-Treasure Hunting | Find Traps      | Find treasure map to hoard worth 1d6x1,000gp per level of perpetrator to boss
+| Hijink           | Requirement     | Successful Outcome
+| :--------------- | :-------------- | :----------------------------------------------------------------------------------
+| Assassinating    | Hide in Shadows | Victim dies; bounty of 1,000gp per level of victim to boss
+| Carousing        | Hear Noise      | Learn one rumor worth 3d12x5gp per level of perpetrator to boss
+| Smuggling        | Move Silently   | Smuggle 10 loads per level of perpetrator, payout of 12% of value of goods to boss
+| Spying           | Hide in Shadows | Learn one secret worth 2d12x100gp per level of perpetrator to boss
+| Stealing         | Pick Pockets    | Steal 2 loads per level of perpetrator, payout of 60% of value of goods to boss
+| Treasure Hunting | Find Traps      | Find treasure map to hoard worth 1d6x1,000gp per level of perpetrator to boss
 
 
 #### Assassinating
@@ -1021,13 +1021,13 @@ Whenever the proficiency throw fails by 14 or more or is an unmodified 1, the pe
 
 #### Crime and Punishment
 
-Adjusted Die Roll | Result
-:---------------- | :--------------------------
-2-                | Punitive Conviction
-3-5               | Conviction
-6-8               | Conviction on Lesser Charge
-9-11              | Acquittal
-12+               | Acquittal with Damages
+| Adjusted Die Roll | Result
+| :---------------- | :--------------------------
+| 2-                | Punitive Conviction
+| 3-5               | Conviction
+| 6-8               | Conviction on Lesser Charge
+| 9-11              | Acquittal
+| 12+               | Acquittal with Damages
 
 
 To roll on the [Crime and Punishment](Chapter07.md#crime-and-punishment) table, roll 2d6. Adjust the die roll by the perpetrator's Charisma modifier and any appropriate proficiency modifiers (from Diplomacy, Mystic Aura, or Seduction). Other circumstances that will apply are listed below.
@@ -1053,19 +1053,19 @@ The [Retribution by Crime](Chapter07.md#retribution-by-crime-table) table can be
 
 #### Retribution by Crime Table
 
-Crime                              | Punitive Punishment                                                                                                               | Standard Punishment                                                                                   | Lesser Punishment
-:--------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------
-Drunkenness, Outrage               | Fined 5gp                                                                                                                         | Fined 2gp                                                                                             | Fined 1gp
-Eavesdropping                      | Ear cut off (-1 to reaction rolls, -1 to hear noise, -1 to surprise rolls) and fined 25gp                                         | Fined 10gp                                                                                            | Fined 5gp
-Trespassing, Gambling              | Placed in stocks 2d6 days(save v. Death or lose 1d6 teeth, -2 to reaction rolls) and fined 50gp                                   | Fined 25gp                                                                                            | Fined 10gp
-Bribery                            | Tongue cut off (cannot speak, cast spells, or use magic items or proficiencies involving speech; -4 to rolls) and fined 150gp     | Placed in stocks 2d6 days (save v. Death or lose 1d6 teeth, -2 to reaction rolls) and fined 50gp      | Fined 25gp
-Theft,Contraband                   | Hand amputated (cannot dual wield or use two-handed weapons) and fined 450gp                                                      | Whipped (save v. Death or permanent scarring, -2 to reaction rolls) and fined 300gp value             | Placed in stocks 2d6 days and fined 150gp
-Assault,Vandalism                  | Tortured (save v. Death or suffer permanent wound from row 11-15 of [Mortal Wounds](Chapter06.md#mortal-wounds) table) and fined 600gp                          | Whipped (save v. Death or permanent scarring, -2 to reaction rolls) and fined 450gp                   | Whipped (save v. Death or permanent scarring, -2 to reaction rolls) and fined 300gp
-Burglary, Smuggling                | Both hands amputated (cannot climb, use weapons or items, open locks, remove traps, or any other similar actions) and fined 900gp | Branded (-2 to all reaction rolls) and fined 600gp                                                    | Whipped (as above) and fined 450gp
-Kidnapping, Manslaughter, Mayhem   | Tortured and proscribed (lose all property and rights, permanently exiled)                                                        | Tortured (save v. Death or suffer permanent wound from row 11-15 of [Mortal Wounds](Chapter06.md#mortal-wounds) table) and 750gp    | Whipped (as above) and fined 600gp
-Robbery, Racketeering              | Execution (beheaded or hung) and fined 1,200gp                                                                                    | Hand amputated (cannot dual wield or use two-handed weapons) and fined 900gp                          | Branded (-2 to all reaction rolls) and fined 750gp
-Arson, Desertion, Murder, Sedition | Agonizing execution (burned, crucified, drawn and quartered, or devoured by wild beasts)                                          | Execution (beheaded or hung)                                                                          | Proscribed (lose all property and rights, permanently exiled)
-Heresy, High Treason, Regicide     | Fate worse than death (cross-bred into monstrous creature, transformed into undead, etc.)                                         | Agonizing execution (burned, crucified, drawn and quartered, devoured by wild beasts)                 | Execution (beheaded or hung)
+| Crime                              | Punitive Punishment                                                                                                               | Standard Punishment                                                                                   | Lesser Punishment
+| :--------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------
+| Drunkenness, Outrage               | Fined 5gp                                                                                                                         | Fined 2gp                                                                                             | Fined 1gp
+| Eavesdropping                      | Ear cut off (-1 to reaction rolls, -1 to hear noise, -1 to surprise rolls) and fined 25gp                                         | Fined 10gp                                                                                            | Fined 5gp
+| Trespassing, Gambling              | Placed in stocks 2d6 days(save v. Death or lose 1d6 teeth, -2 to reaction rolls) and fined 50gp                                   | Fined 25gp                                                                                            | Fined 10gp
+| Bribery                            | Tongue cut off (cannot speak, cast spells, or use magic items or proficiencies involving speech; -4 to rolls) and fined 150gp     | Placed in stocks 2d6 days (save v. Death or lose 1d6 teeth, -2 to reaction rolls) and fined 50gp      | Fined 25gp
+| Theft,Contraband                   | Hand amputated (cannot dual wield or use two-handed weapons) and fined 450gp                                                      | Whipped (save v. Death or permanent scarring, -2 to reaction rolls) and fined 300gp value             | Placed in stocks 2d6 days and fined 150gp
+| Assault,Vandalism                  | Tortured (save v. Death or suffer permanent wound from row 11-15 of [Mortal Wounds](Chapter06.md#mortal-wounds) table) and fined 600gp                          | Whipped (save v. Death or permanent scarring, -2 to reaction rolls) and fined 450gp                   | Whipped (save v. Death or permanent scarring, -2 to reaction rolls) and fined 300gp
+| Burglary, Smuggling                | Both hands amputated (cannot climb, use weapons or items, open locks, remove traps, or any other similar actions) and fined 900gp | Branded (-2 to all reaction rolls) and fined 600gp                                                    | Whipped (as above) and fined 450gp
+| Kidnapping, Manslaughter, Mayhem   | Tortured and proscribed (lose all property and rights, permanently exiled)                                                        | Tortured (save v. Death or suffer permanent wound from row 11-15 of [Mortal Wounds](Chapter06.md#mortal-wounds) table) and 750gp    | Whipped (as above) and fined 600gp
+| Robbery, Racketeering              | Execution (beheaded or hung) and fined 1,200gp                                                                                    | Hand amputated (cannot dual wield or use two-handed weapons) and fined 900gp                          | Branded (-2 to all reaction rolls) and fined 750gp
+| Arson, Desertion, Murder, Sedition | Agonizing execution (burned, crucified, drawn and quartered, or devoured by wild beasts)                                          | Execution (beheaded or hung)                                                                          | Proscribed (lose all property and rights, permanently exiled)
+| Heresy, High Treason, Regicide     | Fate worse than death (cross-bred into monstrous creature, transformed into undead, etc.)                                         | Agonizing execution (burned, crucified, drawn and quartered, devoured by wild beasts)                 | Execution (beheaded or hung)
 
 
 The syndicate boss is expected to pay for the attorneys, bribes, fines, and healing of members who get caught while assigned hijinks. If the boss regularly abandons his members to their fate, the Judge may roll on the [Henchmen Loyalty](Chapter03.md#henchman-loyalty) table to see if the remaining syndicate members attack or betray their boss.
@@ -1102,13 +1102,13 @@ The adventurer's CHA modifier is applied as a die roll modifier, along with any 
 
 #### Change in Management
 
-Adjusted Die Roll      | Result
-:--------------------- | :-----------------
-2-                     | Immediate Attack
-3-5                    | Betray
-6-8                    | Hesitate
-9-11                   | Accept
-12+                    | Accept with elan
+| Adjusted Die Roll      | Result
+| :--------------------- | :-----------------
+| 2-                     | Immediate Attack
+| 3-5                    | Betray
+| 6-8                    | Hesitate
+| 9-11                   | Accept
+| 12+                    | Accept with elan
 
 
 Immediate attack means that the follower seeks immediate revenge against the adventurer and will attack him at the first available opportunity. Betray means that the follower will pretend to be loyal to adventurer, but will betray him if an opportunity to do so presents itself. Hesitate means that the follower feels conflicting loyalties. He will betray the adventurer if a plurality of his fellows do so, but remain loyal if not. Accept means that the follower becomes loyal to the character. Accept with 'elan means the offer is accepted with very good spirit, and the follower's morale rolls receive a bonus of +1.
@@ -1129,17 +1129,17 @@ Underbosses may themselves have underbosses beneath them. In this way very large
 
 #### Monthly Hijink Income
 
-Syndicate Member Level | Monthly Income (gp)
----------------------: | --------------------:
-0                      | 1
-1                      | 5
-2                      | 30
-3                      | 200
-4                      | 425
-5                      | 650
-6                      | 835
-7                      | 1,500
-8                      | 2,000
+| Syndicate Member Level | Monthly Income (gp)
+| ---------------------: | --------------------:
+| 0                      | 1
+| 1                      | 5
+| 2                      | 30
+| 3                      | 200
+| 4                      | 425
+| 5                      | 650
+| 6                      | 835
+| 7                      | 1,500
+| 8                      | 2,000
 
 
 When managing a large criminal guild, it can be time-consuming to roll for every member of the guild. The [Monthly Hijink Income](Chapter07.md#monthly-hijink-income) table can be used to summarize the outcomes of a large number of hijinks by characters of 1st to 8th level. (Hijinks by 9th level or above character should always be rolled.) The [Monthly Hijink Income](Chapter07.md#monthly-hijink-income) table factors in the costs of wages as well as attorneys, bribes, fines, and healing for syndicate members who get caught.
@@ -1216,14 +1216,14 @@ Once a market is selected, roll on the Merchants column of the [Market and Merch
 
 #### Market and Merchants
 
-Market Class        | Toll              | Merchants      | Loads of Merchandise
-:------------------ | :---------------- | :------------- | :--------------------
-I                   | 1d6+15gp          | 2d6+2          | 6d8 loads
-II                  | 1d10+10gp         | 2d4+1          | 4d6 loads
-III                 | 1d8+5gp           | 2d4            | 3d4 loads
-IV                  | 1d6+3gp           | 1d4            | 2d4 loads
-V                   | 1d6gp             | 1d4-1          | 1d4 loads
-VI                  | 1d3gp             | 1d3-1          | 1d2 loads
+| Market Class        | Toll              | Merchants      | Loads of Merchandise
+| :------------------ | :---------------- | :------------- | :--------------------
+| I                   | 1d6+15gp          | 2d6+2          | 6d8 loads
+| II                  | 1d10+10gp         | 2d4+1          | 4d6 loads
+| III                 | 1d8+5gp           | 2d4            | 3d4 loads
+| IV                  | 1d6+3gp           | 1d4            | 2d4 loads
+| V                   | 1d6gp             | 1d4-1          | 1d4 loads
+| VI                  | 1d3gp             | 1d3-1          | 1d2 loads
 
 
 If the adventurers are buying, the Loads of Merchandise result shows how many loads the adventurers can purchase from that merchant. If the adventurers are selling, the Loads of Merchandise result shows many of their loads that merchant will be willing to purchase from them.
@@ -1282,14 +1282,14 @@ If an adventurer is operating a vessel or caravan, he may transport passengers b
 
 #### Passengers and Shipping Contracts
 
-Market Class  | Passengers      | Shipping Contracts     | Cargo to be Shipped
-:------------ | :-------------- | :--------------------- | :------------------
-I             | 2d4+1           | 2d6+2                  | 6d8 loads
-II            | 2d4             | 2d4+1                  | 4d6 loads
-III           | 1d4             | 2d4                    | 3d4 loads
-IV            | 1d4-1           | 1d4                    | 2d4 loads
-V             | 1d3-1           | 1d4-1                  | 1d4 loads
-VI            | 1d2-1           | 1d3-1                  | 1d2 loads
+| Market Class  | Passengers      | Shipping Contracts     | Cargo to be Shipped
+| :------------ | :-------------- | :--------------------- | :------------------
+| I             | 2d4+1           | 2d6+2                  | 6d8 loads
+| II            | 2d4             | 2d4+1                  | 4d6 loads
+| III           | 1d4             | 2d4                    | 3d4 loads
+| IV            | 1d4-1           | 1d4                    | 2d4 loads
+| V             | 1d3-1           | 1d4-1                  | 1d4 loads
+| VI            | 1d2-1           | 1d3-1                  | 1d2 loads
 
 
 Passengers will not accept transport from adventurers they deem untrustworthy. The adventurer must make a Reaction Roll for each passenger (see [Reactions](Chapter06.md#reactions) in Chapter 6). Only on an adjusted Reaction Roll of 9+ will the passenger voyage with the adventurer. Charisma, Bribery, Diplomacy, Intimidation, Mystic Aura, Seduction, and other modifiers apply normally.
@@ -1313,73 +1313,73 @@ Use the following table to quickly determine the costs, profits, or treasure of 
 
 #### Merchant Ships and Caravans
 
-Ship/Caravan       | Upfront Cost | Ship Crew / Caravaneers             | Average Cargo Weight Carried | Average Cargo Value Carried (Treasure Type) | Average Monthly Costs | Average Monthly Profits
-:----------------- | -----------: | :---------------------------------- | ---------------------------: | ------------------------------------------: | --------------------: | -----------------------:
-Small sailing ship |     10,000gp | 10 sailors, 1 navigator, 1 captain  |                 10,000 stone |                              20,000gp (Q)   |                 325gp |                    875gp
-Large sailing ship |     20,000gp | 17 sailors, 2 navigators, 1 captain |                 30,000 stone |                              64,000gp (R+Q) |                 525gp |                  2,600gp
-10 wagons          |      3,600gp | 20 guards, 2 sergeants, 1 leader    |                  6,400 stone |                              15,000gp (N+L) |                 515gp |                    120gp
-20 wagons          |      7,200gp | 40 guards, 4 sergeants, 1 leader    |                 12,800 stone |                              25,000gp (Q+H) |                 825gp |                    600gp
-30 wagons          |     10,800gp | 60 guards, 6 sergeants, 1 leader    |                 19,200 stone |                              40,000gp (Q+P) |               1,150gp |                  1,050gp
-40 wagons          |     14,500gp | 80 guards, 8 sergeants, 1 leader    |                 25,600 stone |                              55,000gp (R+N) |               1,450gp |                  1,475gp
+| Ship/Caravan       | Upfront Cost | Ship Crew / Caravaneers             | Average Cargo Weight Carried | Average Cargo Value Carried (Treasure Type) | Average Monthly Costs | Average Monthly Profits
+| :----------------- | -----------: | :---------------------------------- | ---------------------------: | ------------------------------------------: | --------------------: | -----------------------:
+| Small sailing ship |     10,000gp | 10 sailors, 1 navigator, 1 captain  |                 10,000 stone |                              20,000gp (Q)   |                 325gp |                    875gp
+| Large sailing ship |     20,000gp | 17 sailors, 2 navigators, 1 captain |                 30,000 stone |                              64,000gp (R+Q) |                 525gp |                  2,600gp
+| 10 wagons          |      3,600gp | 20 guards, 2 sergeants, 1 leader    |                  6,400 stone |                              15,000gp (N+L) |                 515gp |                    120gp
+| 20 wagons          |      7,200gp | 40 guards, 4 sergeants, 1 leader    |                 12,800 stone |                              25,000gp (Q+H) |                 825gp |                    600gp
+| 30 wagons          |     10,800gp | 60 guards, 6 sergeants, 1 leader    |                 19,200 stone |                              40,000gp (Q+P) |               1,150gp |                  1,050gp
+| 40 wagons          |     14,500gp | 80 guards, 8 sergeants, 1 leader    |                 25,600 stone |                              55,000gp (R+N) |               1,450gp |                  1,475gp
 
 
 #### Common Merchandise
 
-Roll   | Merchandise       | 1 Load                  | Enc. per Load (stone) | Base Price
-:----- | :---------------- | :---------------------- | :-------------------- | ---------:
-01-04  | Grain, vegetables | 20 bags                 | 80                    |       10gp
-05-08  | Fish, preserved   | 10 barrels              | 80                    |       50gp
-09-12  | Wood, common      | 1 cord of logs          | 80                    |       50gp
-13-16  | Animals           | (Roll 1d6 on Animals)   | By Animal             |  By Animal
-17-20  | Salt              | 150 bricks              | 80                    |      100gp
-21-25  | Beer, ale         | 10 barrels              | 80                    |      100gp
-26-30  | Oil, lamp         | 5 jars                  | 30                    |      100gp
-31-35  | Textiles          | 4 bags                  | 20                    |      100gp
-36-39  | Hides, furs       | 10 bundles              | 30                    |      150gp
-40-43  | Tea or coffee     | 2 bags                  | 10                    |      150gp
-44-47  | Metals, common    | 200 ingots              | 100                   |      200gp
-48-51  | Meats, preserved  | 10 barrels              | 80                    |      200gp
-52-54  | Cloth             | 20 rolls                | 80                    |      200gp
-55-60  | Wine, spirits     | 1 barrel                | 16                    |      200gp
-61-63  | Pottery           | 2 crates                | 10                    |      200gp
-64-68  | Tools             | 1 crate                 | 10                    |      200gp
-69-73  | Armor, weapons    | 1 crate                 | 10                    |      225gp
-74-75  | Dye & pigments    | 5 jars                  | 25                    |      250gp
-76-80  | Glassware         | 2 crates                | 10                    |      400gp
-81-85  | Mounts            | (Roll 1d4+4 on Animals) | By Animal             |  By Animal
-86-100 | *Roll on*         | *Precious Merchandise*  | -                     |          -
+| Roll   | Merchandise       | 1 Load                  | Enc. per Load (stone) | Base Price
+| :----- | :---------------- | :---------------------- | :-------------------- | ---------:
+| 01-04  | Grain, vegetables | 20 bags                 | 80                    |       10gp
+| 05-08  | Fish, preserved   | 10 barrels              | 80                    |       50gp
+| 09-12  | Wood, common      | 1 cord of logs          | 80                    |       50gp
+| 13-16  | Animals           | (Roll 1d6 on Animals)   | By Animal             |  By Animal
+| 17-20  | Salt              | 150 bricks              | 80                    |      100gp
+| 21-25  | Beer, ale         | 10 barrels              | 80                    |      100gp
+| 26-30  | Oil, lamp         | 5 jars                  | 30                    |      100gp
+| 31-35  | Textiles          | 4 bags                  | 20                    |      100gp
+| 36-39  | Hides, furs       | 10 bundles              | 30                    |      150gp
+| 40-43  | Tea or coffee     | 2 bags                  | 10                    |      150gp
+| 44-47  | Metals, common    | 200 ingots              | 100                   |      200gp
+| 48-51  | Meats, preserved  | 10 barrels              | 80                    |      200gp
+| 52-54  | Cloth             | 20 rolls                | 80                    |      200gp
+| 55-60  | Wine, spirits     | 1 barrel                | 16                    |      200gp
+| 61-63  | Pottery           | 2 crates                | 10                    |      200gp
+| 64-68  | Tools             | 1 crate                 | 10                    |      200gp
+| 69-73  | Armor, weapons    | 1 crate                 | 10                    |      225gp
+| 74-75  | Dye & pigments    | 5 jars                  | 25                    |      250gp
+| 76-80  | Glassware         | 2 crates                | 10                    |      400gp
+| 81-85  | Mounts            | (Roll 1d4+4 on Animals) | By Animal             |  By Animal
+| 86-100 | *Roll on*         | *Precious Merchandise*  | -                     |          -
 
 
 #### Precious Merchandise
 
-Roll    | Merchandise         | 1 Load   | Enc. per Load (stone) | Base Price
-:------ | :------------------ | :------- | --------------------: | ---------:
-01-10   | Monster parts*      | 1 crate  |                     5 |      300gp
-11-25   | Wood, rare          | 1 cord   |                    16 |      500gp
-26-35   | Furs, rare          | 1 bundle |                     5 |      500gp
-36-45   | Metals, precious    | 2 ingots |                     4 |      600gp
-46-60   | Ivory               | 1 tusk   |                     8 |      800gp
-61-65   | Spices              | 1 jar    |                     1 |      800gp
-66-70   | Porcelain, fine     | 2 crates |                    10 |    1,000gp
-71-75   | Books, rare         | 1 box    |                     3 |    1,000gp
-76-90   | Silk                | 5 rolls  |                    20 |    2,000gp
-91-95   | Semiprecious stones | 1 box    |                     1 |    1,000gp
-96-100  | Gems                | 1 box    |                     1 |    3,000gp
+| Roll    | Merchandise         | 1 Load   | Enc. per Load (stone) | Base Price
+| :------ | :------------------ | :------- | --------------------: | ---------:
+| 01-10   | Monster parts*      | 1 crate  |                     5 |      300gp
+| 11-25   | Wood, rare          | 1 cord   |                    16 |      500gp
+| 26-35   | Furs, rare          | 1 bundle |                     5 |      500gp
+| 36-45   | Metals, precious    | 2 ingots |                     4 |      600gp
+| 46-60   | Ivory               | 1 tusk   |                     8 |      800gp
+| 61-65   | Spices              | 1 jar    |                     1 |      800gp
+| 66-70   | Porcelain, fine     | 2 crates |                    10 |    1,000gp
+| 71-75   | Books, rare         | 1 box    |                     3 |    1,000gp
+| 76-90   | Silk                | 5 rolls  |                    20 |    2,000gp
+| 91-95   | Semiprecious stones | 1 box    |                     1 |    1,000gp
+| 96-100  | Gems                | 1 box    |                     1 |    3,000gp
 
 *Roll on the [wandering monster](Chapter10.md#wandering-monsters-in-the-dungeon) table for the region to determine specific monster. Each monster's parts have a gp value equal to the monster's XP value$
 
 
 #### Animals
 
-Roll | Animal      | Encumbrance per Animal | Animals per Load | Fodder Cost per Load (10 stone) | Price per Load
-:--- | :---------- | :--------------------- | :--------------- | ------------------------------: | -------------:
-1    | Rabbit, hen | 1 stone per 2          | 200 (100 stone)  |                          5gp/wk |           60gp
-2    | Sheep       | 6 stone                | 30 (180 stone)   |                          5gp/wk |           60gp
-3    | Pig, goat   | 12 stone               | 20 (240 stone)   |                          5gp/wk |           60gp
-4    | Cattle      | 50 stone               | 5 (250 stone)    |                          5gp/wk |           50gp
-5-6  | Horse, yak  | 150 stone              | 2 (300 stone)    |                          5gp/wk |           80gp
-7    | Warhorse    | 200 stone              | 2 (400 stone)    |                          7gp/wk |          500gp
-8    | Elephant    | 1,000 stone            | 1 (1,000 stone)  |                         20gp/wk |        1,500gp
+| Roll | Animal      | Encumbrance per Animal | Animals per Load | Fodder Cost per Load (10 stone) | Price per Load
+| :--- | :---------- | :--------------------- | :--------------- | ------------------------------: | -------------:
+| 1    | Rabbit, hen | 1 stone per 2          | 200 (100 stone)  |                          5gp/wk |           60gp
+| 2    | Sheep       | 6 stone                | 30 (180 stone)   |                          5gp/wk |           60gp
+| 3    | Pig, goat   | 12 stone               | 20 (240 stone)   |                          5gp/wk |           60gp
+| 4    | Cattle      | 50 stone               | 5 (250 stone)    |                          5gp/wk |           50gp
+| 5-6  | Horse, yak  | 150 stone              | 2 (300 stone)    |                          5gp/wk |           80gp
+| 7    | Warhorse    | 200 stone              | 2 (400 stone)    |                          7gp/wk |          500gp
+| 8    | Elephant    | 1,000 stone            | 1 (1,000 stone)  |                         20gp/wk |        1,500gp
 
 
 Note: When quickly calculating average hauls, merchandise has an average base price of 300gp and an encumbrance of 70 stone per load. Common merchandise averages 180gp and 80 stone per load. Precious merchandise averages 1,000gp and 10 stone per load.
@@ -1408,22 +1408,22 @@ Domain income is the total of the ruler's land, service, tax, and vassal revenue
 
 #### XP from Domain and Mercantile Income
 
-Class Level | Gp Threshold
-----------: | -----------:
-1           |           25
-2           |           75
-3           |          150
-4           |          300
-5           |          650
-6           |        1,250
-7           |        2,500
-8           |        5,000
-9           |       12,000
-10          |       18,000
-11          |       40,000
-12          |       60,000
-13          |      150,000
-14          |      425,000
+| Class Level | Gp Threshold
+| ----------: | -----------:
+| 1           |           25
+| 2           |           75
+| 3           |          150
+| 4           |          300
+| 5           |          650
+| 6           |        1,250
+| 7           |        2,500
+| 8           |        5,000
+| 9           |       12,000
+| 10          |       18,000
+| 11          |       40,000
+| 12          |       60,000
+| 13          |      150,000
+| 14          |      425,000
 
 
 Mercantile income is the total of gp earned from selling goods and transporting cargo and passengers, less the cost of goods sold, wages, rations, tolls, custom duties, moorage and stabling, and labor fees. Mercantile income from arbitrage and transport expeditions is calculated when the character reaches his final destination (usually by returning to his point of origin). Divide the total revenue from the expedition by the number of months that have elapsed since the expedition began to determine monthly income. If monthly mercantile income exceeds the character's gp threshold, he earns XP equal to the difference per month of the expedition.

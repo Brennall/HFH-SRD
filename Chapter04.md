@@ -31,20 +31,20 @@ The Judge may impose limitations on the selection of certain proficiencies depen
 
 (C=class proficiency, G=general proficiency)
 
-Class               | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   | 11   | 12   | 13   | 14
-:------------------ | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- 
-Assassin            | C+G  | -    | C    | -    | G    | C    | -    | -    | C+G  | -    | -    | C    | G    | -
-Bard                | C+G  | -    | -    | C    | G    | -    | -    | C    | G    | -    | -    | C    | G    | -
-Blade Dancer        | C+G  | -    | -    | C    | G    | -    | -    | C    | G    | -    | -    | C    | G    | -
-Cleric              | C+G  | -    | -    | C    | G    | -    | -    | C    | G    | -    | -    | C    | G    | -
-Dwarven Craftpriest | C+G  | -    | -    | C    | G    | -    | -    | C    | G    | -    | *    | *    | *    | *
-Dwarven Vaultguard  | C+G  | -    | C    | -    | G    | C    | -    | -    | C+G  | -    | -    | C    | G    | *
-Elven Nightblade    | C+G  | -    | -    | C    | G    | -    | -    | C    | G    | -    | -    | *    | *    | *
-Elven Spellsword    | C+G  | -    | C    | -    | G    | C    | -    | -    | C+G  | -    | *    | *    | *    | *
-Explorer            | C+G  | -    | C    | -    | G    | C    | -    | -    | C+G  | -    | -    | C    | G    | -
-Fighter             | C+G  | -    | C    | -    | G    | C    | -    | -    | C+G  | -    | -    | C    | G    | -
-Mage                | C+G  | -    | -    | -    | G    | C    | -    | -    | G    | -    | -    | C    | G    | -
-Thief               | C+G  | -    | -    | C    | G    | -    | -    | C    | G    | -    | -    | C    | G    | -
+| Class               | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   | 11   | 12   | 13   | 14
+| :------------------ | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- 
+| Assassin            | C+G  | -    | C    | -    | G    | C    | -    | -    | C+G  | -    | -    | C    | G    | -
+| Bard                | C+G  | -    | -    | C    | G    | -    | -    | C    | G    | -    | -    | C    | G    | -
+| Blade Dancer        | C+G  | -    | -    | C    | G    | -    | -    | C    | G    | -    | -    | C    | G    | -
+| Cleric              | C+G  | -    | -    | C    | G    | -    | -    | C    | G    | -    | -    | C    | G    | -
+| Dwarven Craftpriest | C+G  | -    | -    | C    | G    | -    | -    | C    | G    | -    | *    | *    | *    | *
+| Dwarven Vaultguard  | C+G  | -    | C    | -    | G    | C    | -    | -    | C+G  | -    | -    | C    | G    | *
+| Elven Nightblade    | C+G  | -    | -    | C    | G    | -    | -    | C    | G    | -    | -    | *    | *    | *
+| Elven Spellsword    | C+G  | -    | C    | -    | G    | C    | -    | -    | C+G  | -    | *    | *    | *    | *
+| Explorer            | C+G  | -    | C    | -    | G    | C    | -    | -    | C+G  | -    | -    | C    | G    | -
+| Fighter             | C+G  | -    | C    | -    | G    | C    | -    | -    | C+G  | -    | -    | C    | G    | -
+| Mage                | C+G  | -    | -    | -    | G    | C    | -    | -    | G    | -    | -    | C    | G    | -
+| Thief               | C+G  | -    | -    | C    | G    | -    | -    | C    | G    | -    | -    | C    | G    | -
 
 
 ## Proficiency Lists
@@ -103,11 +103,11 @@ For ease of reference, proficiencies that appear on the general list are marked 
 
 #### Art Proficiency Progression
 
-Title         | Rank (# of times taken) | Gp Earned/Month | Number of Workers Allowed
-:------------ | ----------------------: | --------------: | :--------------------------
-Apprentice    | 1                       | 10gp            | N.A.
-Journeyman    | 2                       | 20gp            | 3 Apprentices
-Master Artist | 3                       | 40gp            | 2 Journeymen, 4 Apprentices
+| Title         | Rank (# of times taken) | Gp Earned/Month | Number of Workers Allowed
+| :------------ | ----------------------: | --------------: | :--------------------------
+| Apprentice    | 1                       | 10gp            | N.A.
+| Journeyman    | 2                       | 20gp            | 3 Apprentices
+| Master Artist | 3                       | 40gp            | 2 Journeymen, 4 Apprentices
 
 
 **Bargaining (G)**: The character gets the best deals available for goods, services, and information. Any items the character purchases costs 10% less than the listed price and any items he sells go for 10% more than the listed price. If both the buyer and seller have the Bargaining proficiency, the opposed Bargainers should make reaction rolls. Whichever character scores the higher result gets the discount. A character may select Bargaining multiple times if desired. Each time the proficiency is selected, the character receives a +2 bonus on his reaction roll when negotiating with other bargainers.
@@ -147,11 +147,11 @@ Master Artist | 3                       | 40gp            | 2 Journeymen, 4 Appr
 
 #### Craft Proficiency Progression
 
-Title            | Rank (# of times taken) | Gp Earned/Month | Number of Workers Allowed
-:--------------- | ----------------------: | --------------: | :--------------------------
-Apprentice       | 1                       | 10gp            | N.A.
-Journeyman       | 2                       | 20gp            | 3 Apprentices
-Master Craftsman | 3                       | 40gp            | 2 Journeymen, 4 Apprentices
+| Title            | Rank (# of times taken) | Gp Earned/Month | Number of Workers Allowed
+| :--------------- | ----------------------: | --------------: | :--------------------------
+| Apprentice       | 1                       | 10gp            | N.A.
+| Journeyman       | 2                       | 20gp            | 3 Apprentices
+| Master Craftsman | 3                       | 40gp            | 2 Journeymen, 4 Apprentices
 
 
 **Diplomacy (G)**: The character is smooth tongued and familiar with protocol. He receives a +2 bonus on all reaction rolls when he attempts to parley.
@@ -183,14 +183,14 @@ Master Craftsman | 3                       | 40gp            | 2 Journeymen, 4 A
 
 #### Fighting Styles
 
-Style             | Bonus
-:---------------- | :----------------------
-Pole weapon       | +1 to initiative rolls
-Missile weapon    | +1 to attack throws
-Single weapon     | +1 to attack throws
-Two weapons       | +1 to attack throws
-Two-handed weapon | +1 to damage rolls
-Weapon and shield | +1 to armor class
+| Style             | Bonus
+| :---------------- | :----------------------
+| Pole weapon       | +1 to initiative rolls
+| Missile weapon    | +1 to attack throws
+| Single weapon     | +1 to attack throws
+| Two weapons       | +1 to attack throws
+| Two-handed weapon | +1 to damage rolls
+| Weapon and shield | +1 to armor class
 
 
 Bonuses are in addition to the standard bonuses for fighting in the given manner. For instance, a character with weapon and shield fighting style proficiency gains a total improvement to his AC of 2 points. A character may take this proficiency multiple times, selecting an additional fighting style each time. If a character has two fighting styles that might be applicable in a given fight, he may only apply the bonus for one style in any given round. For example, if a character armed with a spear and a shield has both the pole weapon and weapon and shield fighting style proficiencies, he must choose between +1 initiative rolls or +1 to AC, but not both.
@@ -204,11 +204,11 @@ Bonuses are in addition to the standard bonuses for fighting in the given manner
 
 #### Healing Proficiency Progression
 
-Title     | Rank (# of times taken) | Gp Earned/Month | Patients/Day | Skills
-:-------- | ----------------------: | --------------: | -----------: | :-------------------------------------------------------------
-Healer    | 1                       | 25gp            | 3            | Identify 11+, extra 1d3 hit points per day
-Physicker | 2                       | 50gp            | 4            | Identify 7+, neutralize poison, cure disease, cure light 18+
-Chirugeon | 3                       | 100gp           | 5            | Identify 3+, neutralize poison, cure disease, cure serious 14+
+| Title     | Rank (# of times taken) | Gp Earned/Month | Patients/Day | Skills
+| :-------- | ----------------------: | --------------: | -----------: | :-------------------------------------------------------------
+| Healer    | 1                       | 25gp            | 3            | Identify 11+, extra 1d3 hit points per day
+| Physicker | 2                       | 50gp            | 4            | Identify 7+, neutralize poison, cure disease, cure light 18+
+| Chirugeon | 3                       | 100gp           | 5            | Identify 3+, neutralize poison, cure disease, cure serious 14+
 
 
 **Illusion Resistance**: The character is as hard to fool as the most cynical dwarf. The character receives +4 bonus on saving throws to disbelieve magical illusions.
@@ -262,11 +262,11 @@ Chirugeon | 3                       | 100gp           | 5            | Identify 
 
 #### Performance Proficiency Progression
 
-Title            | Rank (# of times taken) | Gp Earned/Month | Number of Workers Allowed
-:--------------- | ----------------------: | --------------: | :--------------------------
-Apprentice       | 1                       | 10gp            | N.A.
-Journeyman       | 2                       | 20gp            | 3 Apprentices
-Master Performer | 3                       | 40gp            | 2 Journeymen, 4 Apprentices
+| Title            | Rank (# of times taken) | Gp Earned/Month | Number of Workers Allowed
+| :--------------- | ----------------------: | --------------: | :--------------------------
+| Apprentice       | 1                       | 10gp            | N.A.
+| Journeyman       | 2                       | 20gp            | 3 Apprentices
+| Master Performer | 3                       | 40gp            | 2 Journeymen, 4 Apprentices
 
 
 **Precise Shooting**: The character may conduct missile attacks against opponents engaged in melee at a -4 penalty to his attack throw. A character may take this proficiency multiple times. Each time the proficiency is taken, the penalty to attack opponents in melee is reduced by 2. Characters without this proficiency cannot attack opponents engaged in melee with missile attacks.
@@ -278,11 +278,11 @@ Master Performer | 3                       | 40gp            | 2 Journeymen, 4 A
 
 #### Profession Proficiency Progression
 
-Title                 | Rank (# of times taken) | Gp Earned/Month | Number of Workers Allowed
-:-------------------- | ----------------------: | --------------: | :--------------------------
-Apprentice            | 1                       | 25gp            | N.A.
-Licensed Practitioner | 2                       | 50gp            | 3 Apprentices
-Master of Profession  | 3                       | 100gp           | 2 Journeymen, 4 Apprentices
+| Title                 | Rank (# of times taken) | Gp Earned/Month | Number of Workers Allowed
+| :-------------------- | ----------------------: | --------------: | :--------------------------
+| Apprentice            | 1                       | 25gp            | N.A.
+| Licensed Practitioner | 2                       | 50gp            | 3 Apprentices
+| Master of Profession  | 3                       | 100gp           | 2 Journeymen, 4 Apprentices
 
 
 **Prophecy**: The character is subject to premonitions and dreams of the past and future. The Judge will make these visions both cryptic and useful. Once per week, the character can commune (as the spell).

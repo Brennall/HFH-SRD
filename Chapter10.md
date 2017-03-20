@@ -37,29 +37,29 @@ To assign appropriate populations to domains of a given size, a useful guideline
 
 #### Realms by Type
 
-Type of Realm  | Realm Population (families)  | Realm Domains    | Realm Size (sq. miles)         | Realm Size (6-mile hexes)     | Realm Size (24-mile hexes)
-:------------- | ---------------------------: | ---------------: | -----------------------------: | ----------------------------: | ---------------------------:
-Empire         | 1.5M - 11.6M+                | 5,461-55,987     | 143,000-1,175,000+             | 4,600-38,000+                 | 286-2,350+
-Kingdom        | 364K - 2,000K                | 1,365-9,331      | 36,000-200,000                 | 1,150-6,300                   | 71-391
-Principality   | 87K - 322K                   | 341-1,555        | 8,775-32,500                   | 280-1,050                     | 18-65
-Duchy          | 20,000 - 52,000              | 85-259           | 2,000-5,500                    | 67-172                        | 4-11
-County         | 4,600 - 8,500                | 21-43            | 475-875                        | 15-30                         | 1-2
-March          | 960 - 1,280                  | 5-7              | 96-128                         | 3-4                           | Less than 1
-Barony         | 120-200                      | 1                | 12-20                          | 1                             | Less than 1
+| Type of Realm  | Realm Population (families)  | Realm Domains    | Realm Size (sq. miles)         | Realm Size (6-mile hexes)     | Realm Size (24-mile hexes)
+| :------------- | ---------------------------: | ---------------: | -----------------------------: | ----------------------------: | ---------------------------:
+| Empire         | 1.5M - 11.6M+                | 5,461-55,987     | 143,000-1,175,000+             | 4,600-38,000+                 | 286-2,350+
+| Kingdom        | 364K - 2,000K                | 1,365-9,331      | 36,000-200,000                 | 1,150-6,300                   | 71-391
+| Principality   | 87K - 322K                   | 341-1,555        | 8,775-32,500                   | 280-1,050                     | 18-65
+| Duchy          | 20,000 - 52,000              | 85-259           | 2,000-5,500                    | 67-172                        | 4-11
+| County         | 4,600 - 8,500                | 21-43            | 475-875                        | 15-30                         | 1-2
+| March          | 960 - 1,280                  | 5-7              | 96-128                         | 3-4                           | Less than 1
+| Barony         | 120-200                      | 1                | 12-20                          | 1                             | Less than 1
 
 
 
 #### Political Divisions of Realms
 
-Type of Realm      | Empires  | Kingdoms | Principalities | Duchies        | Counties       | Marches        | Baronies
-:----------------- | -------: | -------: | -------------: | -------------: | -------------: | -------------: | -------------:
-Empire             | 1        | 4-6      | 16-36          | 64-216         | 256-1,296      | 1,024-7,776    | 4,096-46,656
-Kingdom            | -        | 1        | 4-6            | 16-36          | 64-216         | 256-1,296      | 1,024-7,776
-Principality       | -        | -        | 1              | 4-6            | 16-36          | 64-216         | 256-1,296
-Duchy              | -        | -        | -              | 1              | 4-6            | 16-36          | 64-216
-County             | -        | -        | -              | -              | 1              | 4-6            | 16-36
-March              | -        | -        | -              | -              | -              | 1              | 4-6
-Barony             | -        | -        | -              | -              | -              | -              | 1
+| Type of Realm      | Empires  | Kingdoms | Principalities | Duchies        | Counties       | Marches        | Baronies
+| :----------------- | -------: | -------: | -------------: | -------------: | -------------: | -------------: | -------------:
+| Empire             | 1        | 4-6      | 16-36          | 64-216         | 256-1,296      | 1,024-7,776    | 4,096-46,656
+| Kingdom            | -        | 1        | 4-6            | 16-36          | 64-216         | 256-1,296      | 1,024-7,776
+| Principality       | -        | -        | 1              | 4-6            | 16-36          | 64-216         | 256-1,296
+| Duchy              | -        | -        | -              | 1              | 4-6            | 16-36          | 64-216
+| County             | -        | -        | -              | -              | 1              | 4-6            | 16-36
+| March              | -        | -        | -              | -              | -              | 1              | 4-6
+| Barony             | -        | -        | -              | -              | -              | -              | 1
 
 
 *Example*: On the Judge's campaign map, he has drawn a vast nation covering 1,130 24-mile hexes. This qualifies it as an "empire". At the suggested 5,000 families per 24-mile hex, the empire has a population of 5.6 million families. Following the [Political Divisions of Realms](Chapter10.md#political-divisions-of-realms) table, the Judge decides the empire is divided into 5 "exarchates" (kingdoms), each controlling 1.1 million families and spanning 226 24-mile hexes (113,000,000 square miles). He divides each exarchate into 6 "prefectures" (principalities), each controlling 183,000 families and spanning 37 24-mile hexes (18,500 square miles). He decides that he will further develop one of these prefectures as the starting region for the adventurers. His regional map should therefore assign the prefecture about 600 6-mile hexes of settled land (approximately 18,500 miles).
@@ -69,15 +69,15 @@ The [Revenue by Realm Type](Chapter10.md#revenue-by-realm-type) table below show
 
 #### Revenue by Realm Type
 
-Type of Realm  | Ruler's Personal Domain (families)  | Ruler's Stronghold Value (gp)  | Realm Population (families)  | Domain Income/Month (in gp)  | Urban Income /Month (in gp)
-:------------- | ----------------------------------: | -----------------------------: | ---------------------------: | ---------------------------: | ---------------------------:
-Empire         | 12,500                              | 720,000+                       | 1.5M - 11.6M+                | 250,000-425,000+             | 135,000-700,000+
-Kingdom        | 12,500                              | 480,000                        | 364K - 2,000K                | 120,000-171,000              | 17,500-112,000
-Principality   | 7,500                               | 360,000                        | 87K - 322K                   | 50,000-66,000                | 3,450-15,000
-Duchy          | 1,500                               | 115,000                        | 20,000 - 52,000              | 14,500-20,000                | 800-2,000
-County         | 780                                 | 70,000                         | 4,600 - 8,500                | 5,600-6,600                  | 0
-March          | 320                                 | 45,000                         | 960 - 1,280                  | 2,000-2,700                  | 0
-Barony         | 160                                 | 22,500                         | 120-200                      | 450-750                      | 0
+| Type of Realm  | Ruler's Personal Domain (families)  | Ruler's Stronghold Value (gp)  | Realm Population (families)  | Domain Income/Month (in gp)  | Urban Income /Month (in gp)
+| :------------- | ----------------------------------: | -----------------------------: | ---------------------------: | ---------------------------: | ---------------------------:
+| Empire         | 12,500                              | 720,000+                       | 1.5M - 11.6M+                | 250,000-425,000+             | 135,000-700,000+
+| Kingdom        | 12,500                              | 480,000                        | 364K - 2,000K                | 120,000-171,000              | 17,500-112,000
+| Principality   | 7,500                               | 360,000                        | 87K - 322K                   | 50,000-66,000                | 3,450-15,000
+| Duchy          | 1,500                               | 115,000                        | 20,000 - 52,000              | 14,500-20,000                | 800-2,000
+| County         | 780                                 | 70,000                         | 4,600 - 8,500                | 5,600-6,600                  | 0
+| March          | 320                                 | 45,000                         | 960 - 1,280                  | 2,000-2,700                  | 0
+| Barony         | 160                                 | 22,500                         | 120-200                      | 450-750                      | 0
 
 
 *Example*: The Judge needs to determine the realm of Lazar, an NPC Exarch of a southern Imperial province. He has already decided that the Southern province has a population of 3,000,000, which equates to 600,000 families. Reviewing the [Realms by Type](Chapter10.md#realms-by-type) table, he sees this is about 30% of the maximum size of a Kingdom. Exactly 30% of 7,776 is 2,332.8; he decides that the Southern province will consist of 2,300 domains. On the [Revenue by Realm Type](Chapter10.md#revenue-by-realm-type) table, he estimates that Exarch Lazar should earn about 140,000gp per month from his domains and another 25,000gp per month from various urban settlements.
@@ -88,13 +88,13 @@ Barony         | 160                                 | 22,500                   
 As noted above, ACKS generally assumes an average population density of around 50 people per square mile. This is roughly equivalent to the ancient world during the Roman era. The size of the realm can be increased if the Judge wants a world with a lower population density is lower. Conversely the size of the realm can be decreased if the Judge wants a world with a higher population density.
 
 
-Historical Era/Region  | Average Population Density   | Families per 6-mile Hex    | Families per 24-mile Hex
-:--------------------- | ---------------------------: | -------------------------: | ------------------------:
-Medieval England       | 40 people / square mile      | 250                        | 4,000
-Ancient Rome           | 50 people / square mile      | 300                        | 5,000
-Classic Greece         | 80 people / square mile      | 500                        | 8,000
-Holy Roman Empire      | 90 people / square mile      | 550                        | 9,000
-Medieval France        | 105 people / square mile     | 650                        | 10,000
+| Historical Era/Region  | Average Population Density   | Families per 6-mile Hex    | Families per 24-mile Hex
+| :--------------------- | ---------------------------: | -------------------------: | ------------------------:
+| Medieval England       | 40 people / square mile      | 250                        | 4,000
+| Ancient Rome           | 50 people / square mile      | 300                        | 5,000
+| Classic Greece         | 80 people / square mile      | 500                        | 8,000
+| Holy Roman Empire      | 90 people / square mile      | 550                        | 9,000
+| Medieval France        | 105 people / square mile     | 650                        | 10,000
 
 
 Note that hexes which have no settled inhabitants and which are not garrisoned do not affect its size or population density for these purposes. Many countries in an ACKS setting might claim vast tracts of land, but they don't really control it for game purposes.
@@ -113,22 +113,22 @@ The monthly revenue of various urban settlements has already been factored into 
 
 #### Villages, Towns, and Cities Placement
 
-Realm/Domain Population (families)    | Urban Population (families)    | Largest Settlement (families)  | Monthly Income  | Market Class
-------------------------------------: | -----------------------------: | -----------------------------: | --------------: | ------------:
-3,749-                                | 374-                           | Hamlets (74-)                  | -               | Class VI*
-3,750-4,999                           | 375-499                        | Small Village (75-99)          | 18-24gp         | Class VI
-5,000-7,999                           | 500-799                        | Village (100-159)              | 25-39gp         | Class VI
-8,000-12,499                          | 800-1,249                      | Village (160-249)              | 40-60gp         | Class VI
-12,500-22,499                         | 1,250-2,249                    | Large village (250-449)        | 150-264gp       | Class V
-22,500-31,249                         | 2,500-3,124                    | Small town (450-624)           | 265-369gp       | Class V
-31,250-62,499                         | 3,125-6,249                    | Large town (625-1,249)         | 370-739gp       | Class IV
-62,500-124,999                        | 6,250-12,499                   | Small city (1,250-2,499)       | 740-1,474gp     | Class IV
-125,000-249,999                       | 12,500-24,999                  | City (2,500-4,999)             | 1,475-2,950gp   | Class III
-250,000-499,999                       | 25,000-49,999                  | Large city (5,000-9,999)       | 4,700-9,399gp   | Class II
-500,000-749,999                       | 50,000-74,999                  | Large city (10,000-14,999)     | 9,400-14,099gp  | Class II
-750,000-1,999,999                     | 75,000-199,999                 | Large city (15,000-19,999)     | 14,100-18,800gp | Class II
-2,000,000-3,999,999                   | 200,000-399,999                | Metropolis (20,000-39,999)     | 25,800-51,599gp | Class I
-4,000,000+                            | 400,000+                       | Metropolis (40,000+)           | 51,600gp+       | Class I
+| Realm/Domain Population (families)    | Urban Population (families)    | Largest Settlement (families)  | Monthly Income  | Market Class
+| ------------------------------------: | -----------------------------: | -----------------------------: | --------------: | ------------:
+| 3,749-                                | 374-                           | Hamlets (74-)                  | -               | Class VI*
+| 3,750-4,999                           | 375-499                        | Small Village (75-99)          | 18-24gp         | Class VI
+| 5,000-7,999                           | 500-799                        | Village (100-159)              | 25-39gp         | Class VI
+| 8,000-12,499                          | 800-1,249                      | Village (160-249)              | 40-60gp         | Class VI
+| 12,500-22,499                         | 1,250-2,249                    | Large village (250-449)        | 150-264gp       | Class V
+| 22,500-31,249                         | 2,500-3,124                    | Small town (450-624)           | 265-369gp       | Class V
+| 31,250-62,499                         | 3,125-6,249                    | Large town (625-1,249)         | 370-739gp       | Class IV
+| 62,500-124,999                        | 6,250-12,499                   | Small city (1,250-2,499)       | 740-1,474gp     | Class IV
+| 125,000-249,999                       | 12,500-24,999                  | City (2,500-4,999)             | 1,475-2,950gp   | Class III
+| 250,000-499,999                       | 25,000-49,999                  | Large city (5,000-9,999)       | 4,700-9,399gp   | Class II
+| 500,000-749,999                       | 50,000-74,999                  | Large city (10,000-14,999)     | 9,400-14,099gp  | Class II
+| 750,000-1,999,999                     | 75,000-199,999                 | Large city (15,000-19,999)     | 14,100-18,800gp | Class II
+| 2,000,000-3,999,999                   | 200,000-399,999                | Metropolis (20,000-39,999)     | 25,800-51,599gp | Class I
+| 4,000,000+                            | 400,000+                       | Metropolis (40,000+)           | 51,600gp+       | Class I
 
 *A Class VI market will exist at the domain's stronghold only.
 
@@ -141,12 +141,12 @@ Realm/Domain Population (families)    | Urban Population (families)    | Largest
 ACKS generally assumes that around 10% of the population lives in urban communities and that around 20% of the realm's urban population lives in its largest settlement. However, these numbers can vary widely depending on many factors, such as the age of the realm's civilization, the division of the labor in the realm, and the extent of trade with other realms. The following table can be used to adjust a realm's urban demographics.
 
 
-Desired Urban Demographics        | Column Shift
-:-------------------------------- | :---------------------------------------
-Advanced, urban realm             | 1-2 rows downward on Urban Population
-Agrarian, pastoral realm          | 1-2 rows upward on Urban Population
-Centralized settlement pattern    | 1-2 rows downward on Largest Settlement
-Dispersed settlement pattern      | 1-2 rows upward on Largest Settlement
+| Desired Urban Demographics        | Column Shift
+| :-------------------------------- | :---------------------------------------
+| Advanced, urban realm             | 1-2 rows downward on Urban Population
+| Agrarian, pastoral realm          | 1-2 rows upward on Urban Population
+| Centralized settlement pattern    | 1-2 rows downward on Largest Settlement
+| Dispersed settlement pattern      | 1-2 rows upward on Largest Settlement
 
 
 If the Judge increases the size of the Largest Settlement, it will generally mean that the other urban communities must be adjusted in size in the opposite direction, and will be smaller. The converse is of course also true; a smaller central settlement will mean that the other urban communities must be larger.
@@ -178,15 +178,15 @@ As noted under Strongholds and Domains, each domain has land revenue of 3gp per 
 
 #### Domain Land
 
-Domain Land Revenue | Demand Modifiers
-------------------: | :-----------------------------------------------------------------------------------
-3gp                 | +1 Demand Modifier to 6 merchandise types, -1 Demand modifier to 1 merchandise type
-4gp                 | +1 Demand Modifier to 4 merchandise types, -1 Demand modifier to 1 merchandise type
-5gp                 | +1 Demand Modifier to 2 merchandise types, -1 Demand Modifier to 1 merchandise type
-6gp                 | +1 Demand Modifier to 1 merchandise type,  -1 Demand modifier to 1 merchandise type
-7gp                 | -1 Demand Modifier to 2 merchandise types, +1 Demand Modifier to 1 merchandise type
-8gp                 | -1 Demand Modifier to 4 merchandise types, +1 Demand Modifier to 1 merchandise type
-9gp                 | -1 Demand Modifier to 6 merchandise types, +1 Demand Modifier to 1 merchandise type
+| Domain Land Revenue | Demand Modifiers
+| ------------------: | :-----------------------------------------------------------------------------------
+| 3gp                 | +1 Demand Modifier to 6 merchandise types, -1 Demand modifier to 1 merchandise type
+| 4gp                 | +1 Demand Modifier to 4 merchandise types, -1 Demand modifier to 1 merchandise type
+| 5gp                 | +1 Demand Modifier to 2 merchandise types, -1 Demand Modifier to 1 merchandise type
+| 6gp                 | +1 Demand Modifier to 1 merchandise type,  -1 Demand modifier to 1 merchandise type
+| 7gp                 | -1 Demand Modifier to 2 merchandise types, +1 Demand Modifier to 1 merchandise type
+| 8gp                 | -1 Demand Modifier to 4 merchandise types, +1 Demand Modifier to 1 merchandise type
+| 9gp                 | -1 Demand Modifier to 6 merchandise types, +1 Demand Modifier to 1 merchandise type
 
 
 The specific types of merchandise affected can be determined randomly or selected to reflect the history and culture of the campaign setting. A domain in a pseudo-Chinese culture might have negative demand modifiers for porcelain and silk, but a positive demand modifier for mounts, while a domain in a pseudo-Viking culture might have a negative demand modifier for furs and fish, but a positive demand modifier for silk.
@@ -199,10 +199,10 @@ The specific types of merchandise affected can be determined randomly or selecte
 The demi-human races are noted for their production of certain merchandise, and their demand for others.
 
 
-Race          | Demand Modifiers
-------------: | :------------------------------------------------------------------------------------
-Dwarf         | -2 Demand Modifier to beer/ale, common metals, tools, armor/weapons, rare metals, semi-precious stones, and gems +2 Demand Modifier to grain/vegetables, common wood, oil, hides/furs, rare furs, rare woods, and ivory
-Elf           | -2 Demand Modifier to common wood, dyes/pigments, cloth, glassware, and porcelain +2 Demand Modifier to grain/vegetables, tea/coffee, rare books, silk, semi-precious stones, and gems
+| Race          | Demand Modifiers
+| ------------: | :------------------------------------------------------------------------------------
+| Dwarf         | -2 Demand Modifier to beer/ale, common metals, tools, armor/weapons, rare metals, semi-precious stones, and gems +2 Demand Modifier to grain/vegetables, common wood, oil, hides/furs, rare furs, rare woods, and ivory
+| Elf           | -2 Demand Modifier to common wood, dyes/pigments, cloth, glassware, and porcelain +2 Demand Modifier to grain/vegetables, tea/coffee, rare books, silk, semi-precious stones, and gems
 
 
 #### 5. Determine Trade Routes
@@ -210,14 +210,14 @@ Elf           | -2 Demand Modifier to common wood, dyes/pigments, cloth, glasswa
 Markets may enjoy a regular exchange of goods with other markets along a trade route. For a trade route to exist, two criteria must be met. First, the markets must be connected by a road, trail, or navigable waterway. Second, both markets must be within each other's range of trade, as listed on the Range of Trade table.
 
 
-Market Class | Range of Trade (Road) | Range of Trade (Water)
-:----------- | --------------------: | ---------------------:
-Class VI     |  24 miles ( 4 hexes)  |  48 miles ( 8 hexes)    
-Class V      |  48 miles ( 8 hexes)  |  96 miles (16 hexes)   
-Class IV     |  72 miles (12 hexes)  | 120 miles (20 hexes)  
-Class III    |  96 miles (18 hexes)  | 240 miles (40 hexes)  
-Class II     | 144 miles (24 hexes)  | 360 miles (60 hexes)  
-Class I      | 168 miles (28 hexes)  | 480 miles (80 hexes)  
+| Market Class | Range of Trade (Road) | Range of Trade (Water)
+| :----------- | --------------------: | ---------------------:
+| Class VI     |  24 miles ( 4 hexes)  |  48 miles ( 8 hexes)    
+| Class V      |  48 miles ( 8 hexes)  |  96 miles (16 hexes)   
+| Class IV     |  72 miles (12 hexes)  | 120 miles (20 hexes)  
+| Class III    |  96 miles (18 hexes)  | 240 miles (40 hexes)  
+| Class II     | 144 miles (24 hexes)  | 360 miles (60 hexes)  
+| Class I      | 168 miles (28 hexes)  | 480 miles (80 hexes)  
 
 
 *Example*: A castle (Class VI) is located along a road 24 miles from a large town (Class IV) and 96 miles from a city (Class III). The large town and the city are 72 miles apart. A trade route exists between the castle and the large town, and between the large town and the city, but not between the castle and the city, as the 96 mile distance is greater than the castle's range of trade.
@@ -225,14 +225,14 @@ Class I      | 168 miles (28 hexes)  | 480 miles (80 hexes)
 When a trade route connects two markets, the smaller market has all of its demand modifiers shifted by 2 points closer to the larger market's demand modifiers (or set equal to the larger market's demand modifiers if separated by less than 2 points). If the two markets connected by the trade route are of equal size, each shifts each of its demand modifiers by 1 point closer to the other market's demand modifiers.
 
 
-Demand Modifier | Cyfaraun | Samos (original) | Samos (trade route) |
-:-------------- | -------: | ---------------: | ------------------: |
-Wood, common    | -3       | -2               | -3                  | 
-Hides, furs     | -3       | -1               | -3                  | 
-Metals, common  | -2       | -3               | -2                  | 
-Grain           | +1       | -2               |  0                  | 
-Spices          | +1       |  0               | +1                  | 
-Silk            | +1       |  0               | +1                  | 
+| Demand Modifier | Cyfaraun | Samos (original) | Samos (trade route) |
+| :-------------- | -------: | ---------------: | ------------------: |
+| Wood, common    | -3       | -2               | -3                  | 
+| Hides, furs     | -3       | -1               | -3                  | 
+| Metals, common  | -2       | -3               | -2                  | 
+| Grain           | +1       | -2               |  0                  | 
+| Spices          | +1       |  0               | +1                  | 
+| Silk            | +1       |  0               | +1                  | 
 
 
 When shifting demand modifiers for a region, start with the largest market and work outward to its direct trade routes, and then from there to the next markets, and so on.
@@ -242,40 +242,40 @@ When shifting demand modifiers for a region, start with the largest market and w
 
 #### Environmental Adjustments to Demand
 
- --              |Age           | -              | -                 | -                   | -              |Water Source | -            | -            |Climate       | -         | -        | -        | -       | -            | -                  | -       | -        |Elevation | -       | -
-:----------------|-------------:|---------------:|------------------:|--------------------:|---------------:|------------:|-------------:|-------------:|-------------:|----------:|---------:|---------:|--------:|-------------:|-------------------:|--------:|---------:|---------:|--------:|------------:
-**Merchandise**  |**0-20 Years**|**21-100 years**|**101-1,000 years**|**1,001-2,000 years**|**2,001+ years**|**Sea Coast**|**Lake Shore**|**River Bank**|**Rainforest**|**Savanna**|**Desert**|**Steppe**|**Scrub**|**Grasslands**|**Deciduous Forest**|**Taiga**|**Tundra**|**Plains**|**Hills**|**Mountains**
-Grain, vegetables| -1           | -1             |  0                | +2                  | +3             |  0          |  0           | -1           |  0           | +1/2      | +1       | +1/2     | -1/2    | -1           | -1/2               | +1/2    | +1       | -1/2     |  0      | +1/2 
-Fish, preserved  | +1/2         | -1/2           | -1/2              | -1/2                | +1/2           | -1          | -1/2         | -1/2         |  0           | +1/2      | +1       | +1/2     |  0      | +1/2         | -1/2               |  0      |  0       |  0       | +1/2    | +1
-Wood, common     | -1           | -1/2           |  0                | +1                  | +2             |  0          |  0           |  0           | -1           |  0        | +1       | +1/2     |  0      | +1/2         | -1                 | -1      | +1       | -1/2     |  0      | +1/2 
-Animals          | +1/2         | -1/2           | -1/2              | -1/2                | +1/2           |  0          |  0           | -1/2         | +1           | -1/2      | +1       | -1       |  0      | -1/2         | -1                 |  0      | +1/2     |  0       |  0      | +1/2 
-Salt             | -1           | -1/2           |  0                | +1/2                | +1             | -1/2        | -1/2         | -1/2         | +1           |  0        | -1/2     | -1/2     |  0      |  0           |  0                 |  0      |  0       | -1/2     |  0      |  0
-Beer, ale        | +1/2         | -1/2           | -1/2              | -1/2                |  0             | -1/2        | -1/2         | -1/2         | +1           | +1        | +1       | +1       | -1/2    |  0           | -1/2               | +1      | +1       | -1/2     | -1/2    | -1/2 
-Oil, lamp        | +1/2         | -1/2           | -1/2              | -1/2                |  0             | -1/2        |  0           | -1/2         | -1/2         |  0        | +1/2     | +1/2     | -1      | +1           |  0                 | -1      |  0       | +1/2     | -1/2    |  0
-Textiles         | -1           | -1/2           |  0                | +1/2                | +1             |  0          |  0           | -1/2         | +1           | +1/2      | +1       | +1/2     |  0      | -1/2         | -1                 | -1      | +1/2     | -1/2     | -1/2    |  0
-Hides, furs      | -1           | -1/2           |  0                | +1/2                | +1             |  0          |  0           |  0           |  0           |  0        |  0       |  0       |  0      | -1/2         |  0                 | -1/2    | -1/2     | -1/2     |  0      |  0
-Tea or coffee    | -1           | -1/2           |  0                | +1/2                | +1             | -1/2        |  0           |  0           | -1           | -1/2      | -1/2     |  0       |  0      |  0           | +1/2               | +1      | +1       |  0       | -1/2    | -1/2 
-Metals, common   | -1           | -1/2           |  0                | +1/2                | +1             |  0          |  0           |  0           | -1/2         |  0        |  0       |  0       |  0      |  0           | +1/2               |  0      | -1/2     | +1/2     | -1/2    | -1/2 
-Meats, preserved | +1/2         | -1/2           | -1/2              | -1/2                | +1/2           |  0          |  0           |  0           | +1           |  0        | +1       | -1       |  0      | -1/2         | -1                 |  0      | -1/2     | -1/2     |  0      |  0
-Cloth            | -1           | -1/2           |  0                | +1/2                | +1             |  0          |  0           | -1           | -1/2         |  0        | +1/2     |  0       | -1/2    | -1/2         | -1/2               | +1      | +1       | -1/2     | -1/2    |  0
-Wine, spirits    | +1/2         | -1/2           | -1/2              | -1/2                |  0             | -1/2        | -1/2         | -1/2         | +1           | +1        | +1/2     | +1       | -1      | +1           | -1/2               | +1/2    | +1       | +1/2     | -1/2    | -1/2 
-Pottery          | +1           | +1/2           |  0                | -1/2                | -1             | -1/2        | -1/2         | -1/2         | +1           | +1        | -1/2     | -1/2     | -1/2    |  0           |  0                 |  0      |  0       |  0       | -1/2    |  0
-Tools            | +1           | +1/2           |  0                | -1/2                | -1             | -1/2        | -1/2         | -1/2         | +1           | +1        | +1       | +1       | -1/2    | -1/2         | -1/2               | +1      | +1       | -1/2     | -1/2    |  0
-Armor, weapons   | +1           | +1/2           |  0                | -1/2                | -1             | -1/2        | -1/2         | -1/2         | +1           | +1        | +1       | +1       | -1/2    | -1/2         | -1/2               | +1      | +1       | -1/2     | -1/2    |  0
-Dye & pigments   | +1           | +1/2           |  0                | -1/2                | -1             | -1/2        | -1/2         | -1/2         | -1/2         |  0        | -1/2     |  0       |  0      |  0           |  0                 | +1      | +1       |  0       | -1/2    |  0
-Glassware        | +1           | +1/2           |  0                | -1/2                | -1             | -1/2        | -1/2         | -1/2         | +1           | +1        | -1/2     |  0       | -1/2    |  0           |  0                 | +1      | +1       |  0       | -1/2    |  0
-Mounts           | +1/2         | -1/2           | -1/2              | -1/2                |  0             |  0          |  0           |  0           | +1           | +1/2      | -1/2     | -1       | -1/2    | -1           |  0                 | +1/2    | 1        | -1       | +1/2    | +1
-Monster parts    | -1           | -1/2           |  0                | +1/2                | +1             |  0          |  0           |  0           | -1/2         | -1/2      | -1/2     |  0       |  0      |  0           | -1/2               |  0      |  0       |  0       |  0      | -1
-Wood, rare       | -1 1/2       | -1/2           |  0                | +1                  | +2             |  0          |  0           |  0           | -1           |  0        | +1       | +1/2     |  0      | +1/2         | -1                 | -1      | +1       | -1/2     |  0      | +1/2 
-Furs, rare       | -1           | -1/2           |  0                | +1                  | +2             |  0          |  0           |  0           |  0           |  0        |  0       |  0       |  0      | -1/2         | -1/2               | -1/2    | -1       |  0       | -1/2    | -1/2 
-Metals, precious | -1 1/2       | -1/2           |  0                | +1/2                | +1 1/2         |  0          |  0           |  0           | -1/2         |  0        | -1/2     |  0       |  0      |  0           |  0                 |  0      |  0       |  0       | -1/2    | -1/2 
-Ivory            | -1           | -1/2           |  0                | +1                  | +2             |  0          |  0           |  0           | -1           | -1        | -1/2     | -1/2     | -1/2    | +1/2         | +1/2               | +1/2    |  0       |  0       | +1/2    | +1
-Spices           | +1/2         | -1/2           | -1/2              | -1/2                | +1             |  0          |  0           |  0           | -1           | -1/2      |  0       |  0       |  0      | +1/2         | +1                 | +1      | +1       | -1/2     | +1/2    | +1
-Porcelain, fine  | +1           | +1/2           |  0                | -1/2                | -1             | -1/2        | -1/2         | -1/2         | +1           | +1        | -1/2     | -1/2     | -1/2    |  0           |  0                 |  0      |  0       |  0       | -1/2    |  0
-Books, rare      | +1           | +1/2           |  0                | -1/2                | -1             | -1/2        | -1/2         | -1/2         | +1           | +1        | +1       | +1       |  0      |  0           | -1/2               | +1      | +1       |  0       | -1/2    |  0
-Silk             | +1/2         | -1/2           | -1/2              | -1/2                | +1             |  0          |  0           |  0           | -1           | -1/2      | +1/2     | +1/2     | -1/2    | +1           | -1/2               | +1      | +1       |  0       | -1/2    |  0
-Semipr. stones   | -1 1/2       | -1/2           |  0                | +1/2                | +2             |  0          |  0           |  0           | -1/2         |  0        | -1/2     |  0       | -1/2    |  0           |  0                 | -1/2    |  0       |  0       | -1/2    | -1/2 
-Gems             | -1 1/2       | -1/2           |  0                | +1/2                | +2             |  0          |  0           |  0           | -1/2         |  0        | -1/2     |  0       | -1/2    |  0           |  0                 | -1/2    |  0       |  0       | -1/2    | -1/2 
+|  --              |Age           | -              | -                 | -                   | -              |Water Source | -            | -            |Climate       | -         | -        | -        | -       | -            | -                  | -       | -        |Elevation | -       | -
+| :----------------|-------------:|---------------:|------------------:|--------------------:|---------------:|------------:|-------------:|-------------:|-------------:|----------:|---------:|---------:|--------:|-------------:|-------------------:|--------:|---------:|---------:|--------:|------------:
+| **Merchandise**  |**0-20 Years**|**21-100 years**|**101-1,000 years**|**1,001-2,000 years**|**2,001+ years**|**Sea Coast**|**Lake Shore**|**River Bank**|**Rainforest**|**Savanna**|**Desert**|**Steppe**|**Scrub**|**Grasslands**|**Deciduous Forest**|**Taiga**|**Tundra**|**Plains**|**Hills**|**Mountains**
+| Grain, vegetables| -1           | -1             |  0                | +2                  | +3             |  0          |  0           | -1           |  0           | +1/2      | +1       | +1/2     | -1/2    | -1           | -1/2               | +1/2    | +1       | -1/2     |  0      | +1/2 
+| Fish, preserved  | +1/2         | -1/2           | -1/2              | -1/2                | +1/2           | -1          | -1/2         | -1/2         |  0           | +1/2      | +1       | +1/2     |  0      | +1/2         | -1/2               |  0      |  0       |  0       | +1/2    | +1
+| Wood, common     | -1           | -1/2           |  0                | +1                  | +2             |  0          |  0           |  0           | -1           |  0        | +1       | +1/2     |  0      | +1/2         | -1                 | -1      | +1       | -1/2     |  0      | +1/2 
+| Animals          | +1/2         | -1/2           | -1/2              | -1/2                | +1/2           |  0          |  0           | -1/2         | +1           | -1/2      | +1       | -1       |  0      | -1/2         | -1                 |  0      | +1/2     |  0       |  0      | +1/2 
+| Salt             | -1           | -1/2           |  0                | +1/2                | +1             | -1/2        | -1/2         | -1/2         | +1           |  0        | -1/2     | -1/2     |  0      |  0           |  0                 |  0      |  0       | -1/2     |  0      |  0
+| Beer, ale        | +1/2         | -1/2           | -1/2              | -1/2                |  0             | -1/2        | -1/2         | -1/2         | +1           | +1        | +1       | +1       | -1/2    |  0           | -1/2               | +1      | +1       | -1/2     | -1/2    | -1/2 
+| Oil, lamp        | +1/2         | -1/2           | -1/2              | -1/2                |  0             | -1/2        |  0           | -1/2         | -1/2         |  0        | +1/2     | +1/2     | -1      | +1           |  0                 | -1      |  0       | +1/2     | -1/2    |  0
+| Textiles         | -1           | -1/2           |  0                | +1/2                | +1             |  0          |  0           | -1/2         | +1           | +1/2      | +1       | +1/2     |  0      | -1/2         | -1                 | -1      | +1/2     | -1/2     | -1/2    |  0
+| Hides, furs      | -1           | -1/2           |  0                | +1/2                | +1             |  0          |  0           |  0           |  0           |  0        |  0       |  0       |  0      | -1/2         |  0                 | -1/2    | -1/2     | -1/2     |  0      |  0
+| Tea or coffee    | -1           | -1/2           |  0                | +1/2                | +1             | -1/2        |  0           |  0           | -1           | -1/2      | -1/2     |  0       |  0      |  0           | +1/2               | +1      | +1       |  0       | -1/2    | -1/2 
+| Metals, common   | -1           | -1/2           |  0                | +1/2                | +1             |  0          |  0           |  0           | -1/2         |  0        |  0       |  0       |  0      |  0           | +1/2               |  0      | -1/2     | +1/2     | -1/2    | -1/2 
+| Meats, preserved | +1/2         | -1/2           | -1/2              | -1/2                | +1/2           |  0          |  0           |  0           | +1           |  0        | +1       | -1       |  0      | -1/2         | -1                 |  0      | -1/2     | -1/2     |  0      |  0
+| Cloth            | -1           | -1/2           |  0                | +1/2                | +1             |  0          |  0           | -1           | -1/2         |  0        | +1/2     |  0       | -1/2    | -1/2         | -1/2               | +1      | +1       | -1/2     | -1/2    |  0
+| Wine, spirits    | +1/2         | -1/2           | -1/2              | -1/2                |  0             | -1/2        | -1/2         | -1/2         | +1           | +1        | +1/2     | +1       | -1      | +1           | -1/2               | +1/2    | +1       | +1/2     | -1/2    | -1/2 
+| Pottery          | +1           | +1/2           |  0                | -1/2                | -1             | -1/2        | -1/2         | -1/2         | +1           | +1        | -1/2     | -1/2     | -1/2    |  0           |  0                 |  0      |  0       |  0       | -1/2    |  0
+| Tools            | +1           | +1/2           |  0                | -1/2                | -1             | -1/2        | -1/2         | -1/2         | +1           | +1        | +1       | +1       | -1/2    | -1/2         | -1/2               | +1      | +1       | -1/2     | -1/2    |  0
+| Armor, weapons   | +1           | +1/2           |  0                | -1/2                | -1             | -1/2        | -1/2         | -1/2         | +1           | +1        | +1       | +1       | -1/2    | -1/2         | -1/2               | +1      | +1       | -1/2     | -1/2    |  0
+| Dye & pigments   | +1           | +1/2           |  0                | -1/2                | -1             | -1/2        | -1/2         | -1/2         | -1/2         |  0        | -1/2     |  0       |  0      |  0           |  0                 | +1      | +1       |  0       | -1/2    |  0
+| Glassware        | +1           | +1/2           |  0                | -1/2                | -1             | -1/2        | -1/2         | -1/2         | +1           | +1        | -1/2     |  0       | -1/2    |  0           |  0                 | +1      | +1       |  0       | -1/2    |  0
+| Mounts           | +1/2         | -1/2           | -1/2              | -1/2                |  0             |  0          |  0           |  0           | +1           | +1/2      | -1/2     | -1       | -1/2    | -1           |  0                 | +1/2    | 1        | -1       | +1/2    | +1
+| Monster parts    | -1           | -1/2           |  0                | +1/2                | +1             |  0          |  0           |  0           | -1/2         | -1/2      | -1/2     |  0       |  0      |  0           | -1/2               |  0      |  0       |  0       |  0      | -1
+| Wood, rare       | -1 1/2       | -1/2           |  0                | +1                  | +2             |  0          |  0           |  0           | -1           |  0        | +1       | +1/2     |  0      | +1/2         | -1                 | -1      | +1       | -1/2     |  0      | +1/2 
+| Furs, rare       | -1           | -1/2           |  0                | +1                  | +2             |  0          |  0           |  0           |  0           |  0        |  0       |  0       |  0      | -1/2         | -1/2               | -1/2    | -1       |  0       | -1/2    | -1/2 
+| Metals, precious | -1 1/2       | -1/2           |  0                | +1/2                | +1 1/2         |  0          |  0           |  0           | -1/2         |  0        | -1/2     |  0       |  0      |  0           |  0                 |  0      |  0       |  0       | -1/2    | -1/2 
+| Ivory            | -1           | -1/2           |  0                | +1                  | +2             |  0          |  0           |  0           | -1           | -1        | -1/2     | -1/2     | -1/2    | +1/2         | +1/2               | +1/2    |  0       |  0       | +1/2    | +1
+| Spices           | +1/2         | -1/2           | -1/2              | -1/2                | +1             |  0          |  0           |  0           | -1           | -1/2      |  0       |  0       |  0      | +1/2         | +1                 | +1      | +1       | -1/2     | +1/2    | +1
+| Porcelain, fine  | +1           | +1/2           |  0                | -1/2                | -1             | -1/2        | -1/2         | -1/2         | +1           | +1        | -1/2     | -1/2     | -1/2    |  0           |  0                 |  0      |  0       |  0       | -1/2    |  0
+| Books, rare      | +1           | +1/2           |  0                | -1/2                | -1             | -1/2        | -1/2         | -1/2         | +1           | +1        | +1       | +1       |  0      |  0           | -1/2               | +1      | +1       |  0       | -1/2    |  0
+| Silk             | +1/2         | -1/2           | -1/2              | -1/2                | +1             |  0          |  0           |  0           | -1           | -1/2      | +1/2     | +1/2     | -1/2    | +1           | -1/2               | +1      | +1       |  0       | -1/2    |  0
+| Semipr. stones   | -1 1/2       | -1/2           |  0                | +1/2                | +2             |  0          |  0           |  0           | -1/2         |  0        | -1/2     |  0       | -1/2    |  0           |  0                 | -1/2    |  0       |  0       | -1/2    | -1/2 
+| Gems             | -1 1/2       | -1/2           |  0                | +1/2                | +2             |  0          |  0           |  0           | -1/2         |  0        | -1/2     |  0       | -1/2    |  0           |  0                 | -1/2    |  0       |  0       | -1/2    | -1/2 
 
 
 ### Assign NPC Rulers
@@ -287,43 +287,43 @@ The Judge does not need to assign every domain in his setting an NPC ruler in ad
 
 #### Demographics of Leveled Characters
 
-Level       | Frequency         | Possible Realm
-----------: | ----------------: | :---------------------------------
-1           | 1 in 20           | Extended Family
-2           | 1 in 50           | Hamlet
-3           | 1 in 150          | Small barony
-4           | 1 in 375          | Barony or village
-5           | 1 in 1,000        | Small march or large village
-6           | 1 in 3,000        | March or large town
-7           | 1 in 8,000        | County or city
-8           | 1 in 20,000       | Large county or city
-9           | 1 in 60,000       | Duchy or large city
-10          | 1 in 160,000      | Small principality or metropolis
-11          | 1 in 450,000      | Principality
-12          | 1 in 1,200,000    | Small kingdom
-13          | 1 in 3,250,000    | Kingdom
-14          | 1 in 10,000,000   | Empire
+| Level       | Frequency         | Possible Realm
+| ----------: | ----------------: | :---------------------------------
+| 1           | 1 in 20           | Extended Family
+| 2           | 1 in 50           | Hamlet
+| 3           | 1 in 150          | Small barony
+| 4           | 1 in 375          | Barony or village
+| 5           | 1 in 1,000        | Small march or large village
+| 6           | 1 in 3,000        | March or large town
+| 7           | 1 in 8,000        | County or city
+| 8           | 1 in 20,000       | Large county or city
+| 9           | 1 in 60,000       | Duchy or large city
+| 10          | 1 in 160,000      | Small principality or metropolis
+| 11          | 1 in 450,000      | Principality
+| 12          | 1 in 1,200,000    | Small kingdom
+| 13          | 1 in 3,250,000    | Kingdom
+| 14          | 1 in 10,000,000   | Empire
 
 
 #### Maximum NPC Population by Realm Type
 
 
-NPC Level             | Empire (28,000,000)     | Kingdom (6,000,000)    | Principality (1,050,000)       | Duchy (180,000)     | County (32,750)     | March (5,600)     | Barony (800)
---------------------: | ----------------------: | ---------------------: | -----------------------------: | ------------------: | ------------------: | ----------------: | ----------------------:
-1                     | 1,576,471               | 337,815                | 59,118                         | 10,134              | 1,844               | 315               | 45
-2                     | 573,262                 | 122,842                | 21,497                         | 3,685               | 671                 | 115               | 16
-3                     | 208,459                 | 44,670                 | 7,817                          | 1,340               | 244                 | 42                | 6
-4                     | 75,803                  | 16,244                 | 2,843                          | 487                 | 89                  | 15                | 2
-5                     | 27,565                  | 5,907                  | 1,034                          | 177                 | 32                  | 6                 | 1
-6                     | 10,024                  | 2,148                  | 376                            | 64                  | 12                  | 2                 | 0
-7                     | 3,645                   | 781                    | 137                            | 23                  | 4                   | 1                 | 0
-8                     | 1,325                   | 284                    | 50                             | 9                   | 2                   | 0                 | 0
-9                     | 482                     | 103                    | 18                             | 3                   | 1                   | 0                 | 0
-10                    | 175                     | 38                     | 7                              | 1                   | 0                   | 0                 | 0
-11                    | 64                      | 14                     | 2                              | 0                   | 0                   | 0                 | 0
-12                    | 23                      | 5                      | 1                              | 0                   | 0                   | 0                 | 0
-13                    | 8                       | 2                      | 0                              | 0                   | 0                   | 0                 | 0
-14                    | 3                       | 1                      | 0                              | 0                   | 0                   | 0                 | 0
+| NPC Level             | Empire (28,000,000)     | Kingdom (6,000,000)    | Principality (1,050,000)       | Duchy (180,000)     | County (32,750)     | March (5,600)     | Barony (800)
+| --------------------: | ----------------------: | ---------------------: | -----------------------------: | ------------------: | ------------------: | ----------------: | ----------------------:
+| 1                     | 1,576,471               | 337,815                | 59,118                         | 10,134              | 1,844               | 315               | 45
+| 2                     | 573,262                 | 122,842                | 21,497                         | 3,685               | 671                 | 115               | 16
+| 3                     | 208,459                 | 44,670                 | 7,817                          | 1,340               | 244                 | 42                | 6
+| 4                     | 75,803                  | 16,244                 | 2,843                          | 487                 | 89                  | 15                | 2
+| 5                     | 27,565                  | 5,907                  | 1,034                          | 177                 | 32                  | 6                 | 1
+| 6                     | 10,024                  | 2,148                  | 376                            | 64                  | 12                  | 2                 | 0
+| 7                     | 3,645                   | 781                    | 137                            | 23                  | 4                   | 1                 | 0
+| 8                     | 1,325                   | 284                    | 50                             | 9                   | 2                   | 0                 | 0
+| 9                     | 482                     | 103                    | 18                             | 3                   | 1                   | 0                 | 0
+| 10                    | 175                     | 38                     | 7                              | 1                   | 0                   | 0                 | 0
+| 11                    | 64                      | 14                     | 2                              | 0                   | 0                   | 0                 | 0
+| 12                    | 23                      | 5                      | 1                              | 0                   | 0                   | 0                 | 0
+| 13                    | 8                       | 2                      | 0                              | 0                   | 0                   | 0                 | 0
+| 14                    | 3                       | 1                      | 0                              | 0                   | 0                   | 0                 | 0
 
 ## Constructing the Region
 
@@ -369,18 +369,18 @@ The [Starting Cities](Chapter10.md#starting-cities) table, below, can help the J
 
 #### Starting Cities
 
-Settlement Population          | Settlement Type        | Minimum Ruler Level    | Market Class   | # of Fighters  | # of Thieves   | # of Clerics   | # of Mages
------------------------------: | :--------------------- | ---------------------: | :------------- | -------------: | -------------: | -------------: | -------------:
-74-                            | Hamlet                 | 2 (6)                  | -              | 6-             | 3-             | 3-             | 2-
-75-99                          | Small village          | 2 (7)                  | Class VI       | 12             | 6              | 6              | 3
-100-249                        | Village                | 3 (8)                  | Class VI       | 16             | 8              | 8              | 4
-250-449                        | Large village          | 4 (8)                  | Class V        | 40             | 20             | 20             | 10
-450-624                        | Small town             | 5 (9)                  | Class V        | 72             | 36             | 36             | 18
-625-1,240                      | Large town             | 6 (9)                  | Class IV       | 100            | 50             | 50             | 25
-1,250-2,499                    | Small city             | 7 (10)                 | Class IV       | 200            | 100            | 100            | 50
-2,500-4,999                    | City                   | 8 (10)                 | Class III      | 400            | 200            | 200            | 100
-5,000-19,999                   | Large city             | 9 (12)                 | Class II       | 800            | 400            | 400            | 200
-20,000+                        | Metropolis             | 10 (14)                | Class I        | 3,200+         | 1,600+         | 1,600+         | 800+
+| Settlement Population          | Settlement Type        | Minimum Ruler Level    | Market Class   | # of Fighters  | # of Thieves   | # of Clerics   | # of Mages
+| -----------------------------: | :--------------------- | ---------------------: | :------------- | -------------: | -------------: | -------------: | -------------:
+| 74-                            | Hamlet                 | 2 (6)                  | -              | 6-             | 3-             | 3-             | 2-
+| 75-99                          | Small village          | 2 (7)                  | Class VI       | 12             | 6              | 6              | 3
+| 100-249                        | Village                | 3 (8)                  | Class VI       | 16             | 8              | 8              | 4
+| 250-449                        | Large village          | 4 (8)                  | Class V        | 40             | 20             | 20             | 10
+| 450-624                        | Small town             | 5 (9)                  | Class V        | 72             | 36             | 36             | 18
+| 625-1,240                      | Large town             | 6 (9)                  | Class IV       | 100            | 50             | 50             | 25
+| 1,250-2,499                    | Small city             | 7 (10)                 | Class IV       | 200            | 100            | 100            | 50
+| 2,500-4,999                    | City                   | 8 (10)                 | Class III      | 400            | 200            | 200            | 100
+| 5,000-19,999                   | Large city             | 9 (12)                 | Class II       | 800            | 400            | 400            | 200
+| 20,000+                        | Metropolis             | 10 (14)                | Class I        | 3,200+         | 1,600+         | 1,600+         | 800+
 
 
 ### Determine Criminal Guilds
@@ -390,14 +390,14 @@ Given the unsavory nature of many adventurers, the thieves' guild and other crim
 
 #### Starting City Criminal Guilds
 
-Market Class          | Total Membership        | Highest Boss Level             | Monthly Syndicate Revenue (gp)         | Monthly Guild Revenue (gp)
-:-------------------- | ----------------------: | -----------------------------: | -------------------------------------: | ---------------------------:
-Class VI              | 16                      | 3 (5)                          | 1,500                                  | -
-Class V               | 42                      | 4 (7)                          | 3,350                                  | 4,850
-Class IV              | 100                     | 5 (7)                          | 7,350                                  | 12,250
-Class III             | 375                     | 6 (10)                         | 22,000                                 | 35,000
-Class II              | 750                     | 7 (12)                         | 40,000                                 | 75,000
-Class I               | 3,000                   | 8 (14)                         | 100,000                                | 175,000
+| Market Class          | Total Membership        | Highest Boss Level             | Monthly Syndicate Revenue (gp)         | Monthly Guild Revenue (gp)
+| :-------------------- | ----------------------: | -----------------------------: | -------------------------------------: | ---------------------------:
+| Class VI              | 16                      | 3 (5)                          | 1,500                                  | -
+| Class V               | 42                      | 4 (7)                          | 3,350                                  | 4,850
+| Class IV              | 100                     | 5 (7)                          | 7,350                                  | 12,250
+| Class III             | 375                     | 6 (10)                         | 22,000                                 | 35,000
+| Class II              | 750                     | 7 (12)                         | 40,000                                 | 75,000
+| Class I               | 3,000                   | 8 (14)                         | 100,000                                | 175,000
 
 
 Total Membership shows the total membership of the starting city's criminal guild(s) relative to its market class. 45% of the members of any criminal guild will be 0th level ruffians, 35% will be 1st level characters of appropriate classes (thieves, assassins, nightblades, etc.), 12.5% will be 2nd level, and 7.5% will be 3rd level or higher.
@@ -440,28 +440,28 @@ First, the Judge must choose the type of dungeon he is creating. Many dungeons a
 After the dungeon type is determined, the Judge must draw a map of the location. Square graph paper should be used. The assumed scale for ACKS is that each square on the graph paper equal 10'. If the Judge is using a large play mat with grids on it for using figurines, the map should be drawn at a scale of 1" equals 5'. This provides an appropriate scale for use with typical 25 mm scaled figurines. The map itself should be drawn to suit the type of dungeon, such as twisting tunnels in a cavern, endless rooms in a dank dungeon, or hallways and rooms in a ruined castle.
 
 
-Roll   | Dungeon Type
------: | :----------------
-1      | Abandoned mine
-2      | Barrow mound
-3      | Catacombs
-4      | Cliff city
-5      | Crumbling castle
-6      | Giant burrow
-7      | Giant insect hive
-8      | Humanoid warren
-9      | Maze
-10     | Monster lair
-11     | Natural caverns
-12     | Prison
-13     | Ruined manor
-14     | Sewers
-15     | Sunken city
-16     | Temple
-17     | Tomb
-18     | Tower
-19     | Underground river
-20     | Wizard's dungeon
+| Roll   | Dungeon Type
+| -----: | :----------------
+| 1      | Abandoned mine
+| 2      | Barrow mound
+| 3      | Catacombs
+| 4      | Cliff city
+| 5      | Crumbling castle
+| 6      | Giant burrow
+| 7      | Giant insect hive
+| 8      | Humanoid warren
+| 9      | Maze
+| 10     | Monster lair
+| 11     | Natural caverns
+| 12     | Prison
+| 13     | Ruined manor
+| 14     | Sewers
+| 15     | Sunken city
+| 16     | Temple
+| 17     | Tomb
+| 18     | Tower
+| 19     | Underground river
+| 20     | Wizard's dungeon
 
 
 ### Stocking the Dungeon
@@ -475,12 +475,12 @@ Roll on the [Dungeon Stocking](Chapter10.md#dungeon-stocking) table once for eac
 
 #### Dungeon Stocking
 
-Roll d100      | Contents       | Treasure
-:------------- | :------------- | :-------------
-01-30          | Empty          | 15%
-31-60          | Monster        | If Lair
-61-75          | Trap           | 30%
-76-100         | Unique         | As Needed
+| Roll d100      | Contents       | Treasure
+| :------------- | :------------- | :-------------
+| 01-30          | Empty          | 15%
+| 31-60          | Monster        | If Lair
+| 61-75          | Trap           | 30%
+| 76-100         | Unique         | As Needed
 
 
 
@@ -540,14 +540,14 @@ Not all unique rooms involve monsters, but the when the Judge chooses to do so, 
 
 #### Unique Monsters
 
-Dungeon Level  | Monsters
--------------: | :--------------------------------------
-1              | Rot grub, spitting cobra, skeleton
-2              | Green slime, wood golem, yellow mold
-3              | Gelatinous cube, gray ooze, animated statue (iron, crystal), doppelganger, shadow
-4              | Animated statue (stone), ochre jelly, rust monster
-5              | Golem (bone), invisible stalker, mummy
-6              | Golem (amber, bronze), black pudding, djinni, efreeti, elemental
+| Dungeon Level  | Monsters
+| -------------: | :--------------------------------------
+| 1              | Rot grub, spitting cobra, skeleton
+| 2              | Green slime, wood golem, yellow mold
+| 3              | Gelatinous cube, gray ooze, animated statue (iron, crystal), doppelganger, shadow
+| 4              | Animated statue (stone), ochre jelly, rust monster
+| 5              | Golem (bone), invisible stalker, mummy
+| 6              | Golem (amber, bronze), black pudding, djinni, efreeti, elemental
 
 
 ### Assigning Treasure
@@ -561,14 +561,14 @@ Monsters will have treasure if they are in their lair. Empty and trap rooms will
 
 1d6 Roll for Treasure Type
 
-Dungeon Level  | 1  | 2  | 3  | 4  | 5  | 6
--------------: |--: |--: |--: |--: |--: |--:
-1              | A  | B  | C  | D  | E  | F
-2              | C  | D  | E  | F  | G  | H
-3              | E  | F  | G  | H  | I  | J
-4              | G  | H  | I  | J  | K  | L
-5              | I  | J  | K  | L  | M  | N
-6              | M  | N  | O  | P  | Q  | R
+| Dungeon Level  | 1  | 2  | 3  | 4  | 5  | 6
+| -------------: |--: |--: |--: |--: |--: |--:
+| 1              | A  | B  | C  | D  | E  | F
+| 2              | C  | D  | E  | F  | G  | H
+| 3              | E  | F  | G  | H  | I  | J
+| 4              | G  | H  | I  | J  | K  | L
+| 5              | I  | J  | K  | L  | M  | N
+| 6              | M  | N  | O  | P  | Q  | R
 
 
 Treasure placed in monster lairs should make sense in the context of the monster. For instance, an owl bear's treasure might be just a pile of loose coin and goods intermixed with the bones of past victims, while a goblin band's treasure might be kept in a locked chest hidden by the goblin chief, with the key kept on his person.
@@ -614,45 +614,45 @@ Roll for surprise and reactions as described in Chapter 6, [Dungeon Encounters](
 
 #### Dungeon Wandering Monster Level
 
-Dungeon Level    | 1       | 2       | 3      | 4      | 5      | 6
----------------: | ------: | ------: | -----: | -----: | -----: | ------:
-1                | 1-9     | 10-11   | 12     | -      | -      | -
-2                | 1-3     | 4-9     | 10-11  | 12     | -      | -
-3                | 1       | 2-3     | 4-9    | 10-11  | 12     | -
-4                | -       | 1       | 2-3    | 4-9    | 10-11  | 12
-5                | -       | -       | 1      | 2-3    | 4-9    | 10-12
-6                | -       | -       | -      | 1      | 2-3    | 4-12
+| Dungeon Level    | 1       | 2       | 3      | 4      | 5      | 6
+| ---------------: | ------: | ------: | -----: | -----: | -----: | ------:
+| 1                | 1-9     | 10-11   | 12     | -      | -      | -
+| 2                | 1-3     | 4-9     | 10-11  | 12     | -      | -
+| 3                | 1       | 2-3     | 4-9    | 10-11  | 12     | -
+| 4                | -       | 1       | 2-3    | 4-9    | 10-11  | 12
+| 5                | -       | -       | 1      | 2-3    | 4-9    | 10-12
+| 6                | -       | -       | -      | 1      | 2-3    | 4-12
 
 
 
 #### Wandering Monster Table Guidelines
 
-Dungeon Level          | Party Level    | Monster XP Value
----------------------: | -------------: | -----------------:
-1                      | 1              | 1-15
-2                      | 2-3            | 20-47
-3                      | 4-5            | 50-150
-4                      | 6-7            | 175-475
-5                      | 8-9            | 500-1,140
-6                      | 10+            | 1,200+
+| Dungeon Level          | Party Level    | Monster XP Value
+| ---------------------: | -------------: | -----------------:
+| 1                      | 1              | 1-15
+| 2                      | 2-3            | 20-47
+| 3                      | 4-5            | 50-150
+| 4                      | 6-7            | 175-475
+| 5                      | 8-9            | 500-1,140
+| 6                      | 10+            | 1,200+
 
 
 #### Random Monsters by Level
 
-Roll | Monster Level 1           | Monster Level 2              | Monster Level 3             | Monster Level 4              | Monster Level 5           | Monster Level 6
----: | :------------------------ | :--------------------------- | :-------------------------- | :--------------------------- | :------------------------ | :-------------------------
-1    | Goblin (2d4)              | Gnoll (1d6)                  | Bugbear (2d4)               | Lycanthrope, Werebear (1d4)  | Ettin (1d2)               | Cyclops (1)
-2    | Kobold (4d4)              | Hobgoblin (1d6)              | Lycanthrope, Werewolf (1d6) | Lycanthrope, Weretiger (1d4) | Giant, Hill (1d4)         | Giant, Cloud (1d2)
-3    | Morlock (1d12)            | Lizardman (2d4)              | Ogre (1d6)                  | Minotaur (1d6)               | Giant, Stone (1d2)        | Purple Worm (1d2)
-4    | Orc (2d4)                 | Troglodyte (1d8)             | Throghrin (1d6)             | Boar, Giant (1d4)            | Troll (1d8)               | Demon Boar (1d4)
-5    | Beetle, Fire (1d8)        | Bat, Giant (1d10)            | Ant, Giant (2d4)            | Owl Bear (1d4)               | Ankheg (1d6)              | Dragon (20 HD) (1)
-6    | Centipede, Giant (2d4)    | Fly, Giant Carnivorous (1d8) | Lizard, Draco (1d3)         | Phase Tiger (1d4)            | Caecilian (1d3)           | Hydra (12 HD) (1)
-7    | Ferret, Giant (1d8)       | Locust, Cavern (1d10)        | Scorpion, Giant (1d6)       | Rhagodessa, Giant (1d4)      | Basilisk (1d6)            | Gorgon (1d2)
-8    | Rat, Giant (3d6)          | Snake, Pit Viper (1d8)       | Wolf, Dire (1d4)            | Snake, Giant Python (1d3)    | Hell Hound, Greater (2d4) | Lamia (1)
-9    | Men, Brigand (2d4)        | Ghoul (1d6)                  | Carcass Scavenger (1d3)     | Cockatrice (1d4)             | Salamander, Flame (1d4+1) | Remorhaz (15 HD) (1)
-10   | Skeleton (3d4)            | Men, Berserker (1d6)         | Gargoyle (1d6)              | Medusa (1d3)                 | Spectre (1d4)             | Skittering Maw (1)
-11   | Stirge (1d10)             | Zombie (2d4)                 | Wight (1d6)                 | Wraith (1d4)                 | Wyvern (1d2)              | Vampire (9 HD) (1d4)
-12   | NPC Party (Lvl 1) (1d4+2) | NPC Party (Lvl 2) (1d4+2)    | NPC Party (Lvl 4) (1d4+2)   | NPC Party (Lvl 5) (1d4+2)    | NPC Party (Lvl 8) (1d4+3) | NPC Party (Lvl 14) (1d4+3)
+| Roll | Monster Level 1           | Monster Level 2              | Monster Level 3             | Monster Level 4              | Monster Level 5           | Monster Level 6
+| ---: | :------------------------ | :--------------------------- | :-------------------------- | :--------------------------- | :------------------------ | :-------------------------
+| 1    | Goblin (2d4)              | Gnoll (1d6)                  | Bugbear (2d4)               | Lycanthrope, Werebear (1d4)  | Ettin (1d2)               | Cyclops (1)
+| 2    | Kobold (4d4)              | Hobgoblin (1d6)              | Lycanthrope, Werewolf (1d6) | Lycanthrope, Weretiger (1d4) | Giant, Hill (1d4)         | Giant, Cloud (1d2)
+| 3    | Morlock (1d12)            | Lizardman (2d4)              | Ogre (1d6)                  | Minotaur (1d6)               | Giant, Stone (1d2)        | Purple Worm (1d2)
+| 4    | Orc (2d4)                 | Troglodyte (1d8)             | Throghrin (1d6)             | Boar, Giant (1d4)            | Troll (1d8)               | Demon Boar (1d4)
+| 5    | Beetle, Fire (1d8)        | Bat, Giant (1d10)            | Ant, Giant (2d4)            | Owl Bear (1d4)               | Ankheg (1d6)              | Dragon (20 HD) (1)
+| 6    | Centipede, Giant (2d4)    | Fly, Giant Carnivorous (1d8) | Lizard, Draco (1d3)         | Phase Tiger (1d4)            | Caecilian (1d3)           | Hydra (12 HD) (1)
+| 7    | Ferret, Giant (1d8)       | Locust, Cavern (1d10)        | Scorpion, Giant (1d6)       | Rhagodessa, Giant (1d4)      | Basilisk (1d6)            | Gorgon (1d2)
+| 8    | Rat, Giant (3d6)          | Snake, Pit Viper (1d8)       | Wolf, Dire (1d4)            | Snake, Giant Python (1d3)    | Hell Hound, Greater (2d4) | Lamia (1)
+| 9    | Men, Brigand (2d4)        | Ghoul (1d6)                  | Carcass Scavenger (1d3)     | Cockatrice (1d4)             | Salamander, Flame (1d4+1) | Remorhaz (15 HD) (1)
+| 10   | Skeleton (3d4)            | Men, Berserker (1d6)         | Gargoyle (1d6)              | Medusa (1d3)                 | Spectre (1d4)             | Skittering Maw (1)
+| 11   | Stirge (1d10)             | Zombie (2d4)                 | Wight (1d6)                 | Wraith (1d4)                 | Wyvern (1d2)              | Vampire (9 HD) (1d4)
+| 12   | NPC Party (Lvl 1) (1d4+2) | NPC Party (Lvl 2) (1d4+2)    | NPC Party (Lvl 4) (1d4+2)   | NPC Party (Lvl 5) (1d4+2)    | NPC Party (Lvl 8) (1d4+3) | NPC Party (Lvl 14) (1d4+3)
 
 
 ### Creating Dungeon Wandering Monster Tables
@@ -675,11 +675,11 @@ When the characters in the wilderness, the Judge should make an encounter throw 
 
 #### Encounter Frequency by Terrain
 
-Terrain                                        | Encounter Throw
-:--------------------------------------------- | ----------------:
-City, Grasslands, Scrub, or Settled            | 6+
-Aerial, Hills, Ocean, Woods, or River          | 5+
-Barren, Desert, Jungle, Mountains, or Swamp    | 4+
+| Terrain                                        | Encounter Throw
+| :--------------------------------------------- | ----------------:
+| City, Grasslands, Scrub, or Settled            | 6+
+| Aerial, Hills, Ocean, Woods, or River          | 5+
+| Barren, Desert, Jungle, Mountains, or Swamp    | 4+
 
 
 When a wilderness wandering monster encounter occurs, the following steps should be followed:
@@ -701,194 +701,194 @@ When a wilderness wandering monster encounter occurs, the following steps should
 
 #### Wilderness Encounters by Terrain
 
-Roll      | Clear, Grass, Scrub   | Woods                  | River                  | Swamp                  | Mountains, Hills
---------: | :-------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
-1         | Men                   | Men                    | Men                    | Men                    | Men
-2         | Flyer                 | Flyer                  | Flyer                  | Flyer                  | Flyer
-3         | Humanoid              | Humanoid               | Humanoid               | Humanoid               | Humanoid
-4         | Animal                | Insect                 | Insect                 | Swimmer                | Unusual
-5         | Animal                | Unusual                | Swimmer                | Undead                 | Animal
-6         | Unusual               | Animal                 | Swimmer                | Undead                 | Humanoid
-7         | Dragon                | Animal                 | Animal                 | Insect                 | Dragon
-8         | Insect                | Dragon                 | Dragon                 | Dragon                 | Flyer
+| Roll      | Clear, Grass, Scrub   | Woods                  | River                  | Swamp                  | Mountains, Hills
+| --------: | :-------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
+| 1         | Men                   | Men                    | Men                    | Men                    | Men
+| 2         | Flyer                 | Flyer                  | Flyer                  | Flyer                  | Flyer
+| 3         | Humanoid              | Humanoid               | Humanoid               | Humanoid               | Humanoid
+| 4         | Animal                | Insect                 | Insect                 | Swimmer                | Unusual
+| 5         | Animal                | Unusual                | Swimmer                | Undead                 | Animal
+| 6         | Unusual               | Animal                 | Swimmer                | Undead                 | Humanoid
+| 7         | Dragon                | Animal                 | Animal                 | Insect                 | Dragon
+| 8         | Insect                | Dragon                 | Dragon                 | Dragon                 | Flyer
 
 
-Roll      | Barren, Desert        | Inhabited              | City                   | Ocean                  | Jungle
---------: | :-------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
-1         | Men                   | Men                    | Men                    | Men                    | Men
-2         | Flyer                 | Flyer                  | Undead                 | Flyer                  | Flyer
-3         | Humanoid              | Humanoid               | Humanoid               | Swimmer                | Insect
-4         | Humanoid              | Men                    | Men                    | Swimmer                | Insect
-5         | Animal                | Men                    | Men                    | Swimmer                | Humanoid
-6         | Dragon                | Insect                 | Men                    | Swimmer                | Animal
-7         | Undead                | Animal                 | Men                    | Swimmer                | Animal
-8         | Unusual               | Dragon                 | Men                    | Dragon                 | Dragon
+| Roll      | Barren, Desert        | Inhabited              | City                   | Ocean                  | Jungle
+| --------: | :-------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
+| 1         | Men                   | Men                    | Men                    | Men                    | Men
+| 2         | Flyer                 | Flyer                  | Undead                 | Flyer                  | Flyer
+| 3         | Humanoid              | Humanoid               | Humanoid               | Swimmer                | Insect
+| 4         | Humanoid              | Men                    | Men                    | Swimmer                | Insect
+| 5         | Animal                | Men                    | Men                    | Swimmer                | Humanoid
+| 6         | Dragon                | Insect                 | Men                    | Swimmer                | Animal
+| 7         | Undead                | Animal                 | Men                    | Swimmer                | Animal
+| 8         | Unusual               | Dragon                 | Men                    | Dragon                 | Dragon
 
 
 
 #### Wilderness Encounters: Men
 
-Roll      | Clear, Grass, Scrub   | Woods                  | River                  | Swamp                  | Barrens, Mountains, Hills
---------: | :-------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
-1         | Brigand               | Brigand                | Brigand                | Brigand                | Brigand
-2         | Noble                 | Thief*                 | Thief*                 | Thief*                 | Thief*
-3         | Mage*                 | NPC Party*             | NPC Party*             | NPC Party*             | NPC Party*
-4         | Fighter*              | Merchant               | Merchant               | NPC Party*             | Venturer*
-5         | Thief*                | Berserker              | Buccaneer              | Merchant               | Berserker
-6         | Cleric*               | Brigand                | Buccaneer              | Cleric*                | NPC Party*
-7         | Nomad                 | Cleric*                | Cleric*                | Venturer*              | Cleric*
-8         | Thief*                | Mage*                  | Mage*                  | Berserker              | Mage*
-9         | NPC Party*            | Fighter*               | Fighter*               | Fighter*               | Fighter*
-10        | Merchant              | Thief*                 | Merchant               | Mage*                  | Brigand
-11        | Berserker             | Brigand                | Buccaneer              | NPC Party*             | NPC Party*
-12        | Venturer*             | NPC Party*             | NPC Party*             | Thief*                 | Barbarian*
+| Roll      | Clear, Grass, Scrub   | Woods                  | River                  | Swamp                  | Barrens, Mountains, Hills
+| --------: | :-------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
+| 1         | Brigand               | Brigand                | Brigand                | Brigand                | Brigand
+| 2         | Noble                 | Thief*                 | Thief*                 | Thief*                 | Thief*
+| 3         | Mage*                 | NPC Party*             | NPC Party*             | NPC Party*             | NPC Party*
+| 4         | Fighter*              | Merchant               | Merchant               | NPC Party*             | Venturer*
+| 5         | Thief*                | Berserker              | Buccaneer              | Merchant               | Berserker
+| 6         | Cleric*               | Brigand                | Buccaneer              | Cleric*                | NPC Party*
+| 7         | Nomad                 | Cleric*                | Cleric*                | Venturer*              | Cleric*
+| 8         | Thief*                | Mage*                  | Mage*                  | Berserker              | Mage*
+| 9         | NPC Party*            | Fighter*               | Fighter*               | Fighter*               | Fighter*
+| 10        | Merchant              | Thief*                 | Merchant               | Mage*                  | Brigand
+| 11        | Berserker             | Brigand                | Buccaneer              | NPC Party*             | NPC Party*
+| 12        | Venturer*             | NPC Party*             | NPC Party*             | Thief*                 | Barbarian*
 
 
-Roll      | Desert                | Inhabited              | City                   | Ocean                  | Jungle
---------: | :-------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
-1         | Nomad                 | Thief*                 | Thief*                 | Buccaneer              | Brigand
-2         | Nomad                 | Venturer*              | Venturer*              | Pirate                 | Venturer*
-3         | NPC Party*            | NPC Party              | NPC Party              | Merchant               | Thief*
-4         | Merchant              | NPC Party              | NPC Party              | NPC Party*             | NPC Party*
-5         | Nomad                 | Merchant               | Merchant               | Pirate                 | Cleric*
-6         | Nomad                 | Fighter*               | Fighter*               | Merchant               | Fighter*
-7         | Cleric*               | Thief*                 | Merchant               | Merchant               | Medium
-8         | Mage*                 | Fighter*               | Fighter*               | Merchant               | Berserker
-9         | Fighter*              | Mage*                  | Mage*                  | Buccaneer              | Brigand
-10        | Noble                 | Cleric*                | Cleric*                | Pirate                 | Barbarian*
-11        | Nomad                 | Cleric*                | Cleric*                | Merchant               | NPC Party*
-12        | Nomad                 | Noble                  | Noble                  | Pirate                 | Brigand
+| Roll      | Desert                | Inhabited              | City                   | Ocean                  | Jungle
+| --------: | :-------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
+| 1         | Nomad                 | Thief*                 | Thief*                 | Buccaneer              | Brigand
+| 2         | Nomad                 | Venturer*              | Venturer*              | Pirate                 | Venturer*
+| 3         | NPC Party*            | NPC Party              | NPC Party              | Merchant               | Thief*
+| 4         | Merchant              | NPC Party              | NPC Party              | NPC Party*             | NPC Party*
+| 5         | Nomad                 | Merchant               | Merchant               | Pirate                 | Cleric*
+| 6         | Nomad                 | Fighter*               | Fighter*               | Merchant               | Fighter*
+| 7         | Cleric*               | Thief*                 | Merchant               | Merchant               | Medium
+| 8         | Mage*                 | Fighter*               | Fighter*               | Merchant               | Berserker
+| 9         | Fighter*              | Mage*                  | Mage*                  | Buccaneer              | Brigand
+| 10        | Noble                 | Cleric*                | Cleric*                | Pirate                 | Barbarian*
+| 11        | Nomad                 | Cleric*                | Cleric*                | Merchant               | NPC Party*
+| 12        | Nomad                 | Noble                  | Noble                  | Pirate                 | Brigand
 
 *Determine characteristics using the rules for NPC Parties.
 
 
 #### Wilderness Encounters: Humanoid
 
-Roll     | Clear, Grass, Scrub    | Woods                  | River                  | Swamp                  | Hills, Mountains
--------: | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
-1        | Bugbear                | Bugbear                | Bugbear                | Gnoll                  | Dwarf
-2        | Elf                    | Cyclops                | Elf                    | Goblin                 | Giant, Cloud
-3        | Gnoll                  | Dryad                  | Gnoll                  | Hobgoblin              | Giant, Frost
-4        | Goblin                 | Elf                    | Hobgoblin              | Lizard Man             | Giant, Hill
-5        | Halfling               | Giant, Hill            | Lizard Man             | Lizard Man             | Giant, Stone
-6        | Hobgoblin              | Gnoll                  | Lizard Man             | Lizard Man             | Giant, Storm
-7        | Kobold                 | Goblin                 | Naiad                  | Naiad                  | Goblin
-8        | Ogre                   | Hobgoblin              | Naiad                  | Ogre                   | Kobold
-9        | Orc                    | Ogre                   | Ogre                   | Orc                    | Ogre
-10       | Pixie                  | Orc                    | Orc                    | Troglodyte             | Orc
-11       | Throghrin              | Pixie                  | Sprite                 | Troll                  | Troglodyte
-12       | Troll                  | Troll                  | Troll                  | Troll                  | Troll
+| Roll     | Clear, Grass, Scrub    | Woods                  | River                  | Swamp                  | Hills, Mountains
+| -------: | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
+| 1        | Bugbear                | Bugbear                | Bugbear                | Gnoll                  | Dwarf
+| 2        | Elf                    | Cyclops                | Elf                    | Goblin                 | Giant, Cloud
+| 3        | Gnoll                  | Dryad                  | Gnoll                  | Hobgoblin              | Giant, Frost
+| 4        | Goblin                 | Elf                    | Hobgoblin              | Lizard Man             | Giant, Hill
+| 5        | Halfling               | Giant, Hill            | Lizard Man             | Lizard Man             | Giant, Stone
+| 6        | Hobgoblin              | Gnoll                  | Lizard Man             | Lizard Man             | Giant, Storm
+| 7        | Kobold                 | Goblin                 | Naiad                  | Naiad                  | Goblin
+| 8        | Ogre                   | Hobgoblin              | Naiad                  | Ogre                   | Kobold
+| 9        | Orc                    | Ogre                   | Ogre                   | Orc                    | Ogre
+| 10       | Pixie                  | Orc                    | Orc                    | Troglodyte             | Orc
+| 11       | Throghrin              | Pixie                  | Sprite                 | Troll                  | Troglodyte
+| 12       | Troll                  | Troll                  | Troll                  | Troll                  | Troll
 
 
-Roll     | Barrens                | Desert                 | City                   | Inhabited              | Jungle
--------: | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
-1        | Bugbear                | Bugbear                | Doppelganger           | Doppelganger           | Bugbear
-2        | Giant, Hill            | Gnoll                  | Dwarf                  | Dwarf                  | Cyclops
-3        | Goblin                 | Giant, Fire            | Elf                    | Elf                    | Elf
-4        | Gnoll                  | Hobgoblin              | Gnome                  | Gnome                  | Giant, Fire
-5        | Hobgoblin              | Hobgoblin              | Halfling               | Goblin                 | Giant, Hill
-6        | Hobgoblin              | Minotaur               | Pixie                  | Halfling               | Gnoll
-7        | Ogre                   | Ogre                   | Sprite                 | Kobold                 | Goblin
-8        | Ogre                   | Ogre                   | Werebear               | Ogre                   | Lizard Man
-9        | Orc                    | Orc                    | Wereboar               | Orc                    | Ogre
-10       | Orc                    | Orc                    | Wererat                | Pixie                  | Orc
-11       | Throghrin              | Troll                  | Weretiger              | Sprite                 | Troglodyte
-12       | Troll                  | Troll                  | Werewolf               | Wererat                | Troll
+| Roll     | Barrens                | Desert                 | City                   | Inhabited              | Jungle
+| -------: | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
+| 1        | Bugbear                | Bugbear                | Doppelganger           | Doppelganger           | Bugbear
+| 2        | Giant, Hill            | Gnoll                  | Dwarf                  | Dwarf                  | Cyclops
+| 3        | Goblin                 | Giant, Fire            | Elf                    | Elf                    | Elf
+| 4        | Gnoll                  | Hobgoblin              | Gnome                  | Gnome                  | Giant, Fire
+| 5        | Hobgoblin              | Hobgoblin              | Halfling               | Goblin                 | Giant, Hill
+| 6        | Hobgoblin              | Minotaur               | Pixie                  | Halfling               | Gnoll
+| 7        | Ogre                   | Ogre                   | Sprite                 | Kobold                 | Goblin
+| 8        | Ogre                   | Ogre                   | Werebear               | Ogre                   | Lizard Man
+| 9        | Orc                    | Orc                    | Wereboar               | Orc                    | Ogre
+| 10       | Orc                    | Orc                    | Wererat                | Pixie                  | Orc
+| 11       | Throghrin              | Troll                  | Weretiger              | Sprite                 | Troglodyte
+| 12       | Troll                  | Troll                  | Werewolf               | Wererat                | Troll
 
 
 
 #### Wilderness Encounters: Animal
 
-Roll     | Clear, Grass, Scrub    | Woods                  | River                  | Hills                  | Mountains
--------: | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
-1        | Herd Animal (Antelope) | Herd Animal (Antelope) | Herd Animal (Antelope) | Herd Animal (Antelope) | Herd Animal (Antelope)
-2        | Boar*                  | Bat*                   | Bear, Black            | Bear, Grizzly          | Bear, Cave
-3        | Cat, Lion              | Bear, Grizzly          | Boar*                  | Boar*                  | Cat, Mountain Lion
-4        | Cat, Panther           | Boar*                  | Cat, Panther           | Cat, Mountain Lion     | Eagle*
-5        | Elephant               | Cat, Panther           | Crab, Giant            | Eagle*                 | Herd Animal (Goat)
-6        | Hawk*                  | Hawk*                  | Crocodile*             | Hawk*                  | Hawk*
-7        | Horse, Light           | Owl*                   | Leech, Giant           | Horse, Light           | Mule (Donkey)
-8        | Lizard, Tuatara        | Snake, Pit Viper       | Piranha, Giant         | Herd Animal (Sheep)    | Baboon, Rock
-9        | Mule (Donkey)          | Spider, Black Widow    | Rat*                   | Snake, Pit Viper       | Snake, Pit Viper
-10       | Snake, Pit Viper       | Unicorn                | Shrew, Giant           | Owl*                   | Snake, Giant Rattler
-11       | Snake, Giant Rattler   | Wolf                   | Swan                   | Wolf                   | Wolf
-12       | Weasel, Giant          | Wolf, Dire             | Toad, Giant            | Wolf, Dire             | Wolf, Dire
+| Roll     | Clear, Grass, Scrub    | Woods                  | River                  | Hills                  | Mountains
+| -------: | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
+| 1        | Herd Animal (Antelope) | Herd Animal (Antelope) | Herd Animal (Antelope) | Herd Animal (Antelope) | Herd Animal (Antelope)
+| 2        | Boar*                  | Bat*                   | Bear, Black            | Bear, Grizzly          | Bear, Cave
+| 3        | Cat, Lion              | Bear, Grizzly          | Boar*                  | Boar*                  | Cat, Mountain Lion
+| 4        | Cat, Panther           | Boar*                  | Cat, Panther           | Cat, Mountain Lion     | Eagle*
+| 5        | Elephant               | Cat, Panther           | Crab, Giant            | Eagle*                 | Herd Animal (Goat)
+| 6        | Hawk*                  | Hawk*                  | Crocodile*             | Hawk*                  | Hawk*
+| 7        | Horse, Light           | Owl*                   | Leech, Giant           | Horse, Light           | Mule (Donkey)
+| 8        | Lizard, Tuatara        | Snake, Pit Viper       | Piranha, Giant         | Herd Animal (Sheep)    | Baboon, Rock
+| 9        | Mule (Donkey)          | Spider, Black Widow    | Rat*                   | Snake, Pit Viper       | Snake, Pit Viper
+| 10       | Snake, Pit Viper       | Unicorn                | Shrew, Giant           | Owl*                   | Snake, Giant Rattler
+| 11       | Snake, Giant Rattler   | Wolf                   | Swan                   | Wolf                   | Wolf
+| 12       | Weasel, Giant          | Wolf, Dire             | Toad, Giant            | Wolf, Dire             | Wolf, Dire
 
 
 
-Roll     | Barrens                | Desert                 | Inhabited              | Jungle                 | Prehistoric
--------: | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
-1        | Herd Animal (Antelope) | Herd Animal (Antelope) | Goat                   | Herd Animal (Antelope) | Bear, Cave
-2        | Bear, Cave             | Herd Animal (Antelope) | Boar*                  | Boar*                  | Cat, Sabre-Tooth Tiger
-3        | Cat, Mountain Lion     | Camel                  | Dog                    | Cat, Panther           | Crocodile, Giant
-4        | Eagle*                 | Camel                  | Ferret, Giant          | Lizard, Draco          | Mastodon
-5        | Goat, Wild             | Cat, Lion              | Hawk*                  | Lizard, Gecko          | Pteranodon
-6        | Hawk*                  | Hawk*                  | Horse, Light           | Lizard, Horned         | Rhino, Woolly
-7        | Rock Baboon            | Lizard, Gecko          | Mule (Donkey)          | Monkey                 | Snake, Python
-8        | Snake, Pit Viper       | Lizard, Tuatara        | Rat*                   | Shrew, Giant           | Stegosaurus
-9        | Snake, Giant Rattler   | Snake, Giant Rattler   | Snake, Pit Viper       | Snake, Pit Viper       | Titanothere
-10       | Spider, Crab           | Wolf (Wild Dog)        | Herd Animal (Sheep)    | Snake, Python          | Triceratops
-11       | Wolf, Dire             | Wolf, Dire             | Weasel, Giant          | Snake, Spitting Cobra  | Tyrannosaurus Rex
-12       | Vulture                | Vulture                | Wolf                   | Spider, Crab           | Wolf, Dire
+| Roll     | Barrens                | Desert                 | Inhabited              | Jungle                 | Prehistoric
+| -------: | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
+| 1        | Herd Animal (Antelope) | Herd Animal (Antelope) | Goat                   | Herd Animal (Antelope) | Bear, Cave
+| 2        | Bear, Cave             | Herd Animal (Antelope) | Boar*                  | Boar*                  | Cat, Sabre-Tooth Tiger
+| 3        | Cat, Mountain Lion     | Camel                  | Dog                    | Cat, Panther           | Crocodile, Giant
+| 4        | Eagle*                 | Camel                  | Ferret, Giant          | Lizard, Draco          | Mastodon
+| 5        | Goat, Wild             | Cat, Lion              | Hawk*                  | Lizard, Gecko          | Pteranodon
+| 6        | Hawk*                  | Hawk*                  | Horse, Light           | Lizard, Horned         | Rhino, Woolly
+| 7        | Rock Baboon            | Lizard, Gecko          | Mule (Donkey)          | Monkey                 | Snake, Python
+| 8        | Snake, Pit Viper       | Lizard, Tuatara        | Rat*                   | Shrew, Giant           | Stegosaurus
+| 9        | Snake, Giant Rattler   | Snake, Giant Rattler   | Snake, Pit Viper       | Snake, Pit Viper       | Titanothere
+| 10       | Spider, Crab           | Wolf (Wild Dog)        | Herd Animal (Sheep)    | Snake, Python          | Triceratops
+| 11       | Wolf, Dire             | Wolf, Dire             | Weasel, Giant          | Snake, Spitting Cobra  | Tyrannosaurus Rex
+| 12       | Vulture                | Vulture                | Wolf                   | Spider, Crab           | Wolf, Dire
 
 *Roll 1d6: 1-4 Normal or Swarm, 5-6 Giant
 
 
 #### Wilderness Encounters: Flyer
 
-Roll     | Barrens                | Desert                 | Mountains              | Woods                  | Other
--------: | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
-1        | Cockatrice             | Chimera                | Swarm, Bat             | Bat, Giant             | Cockatrice
-2        | Gargoyle               | Cockatrice             | Chimera                | Swarm, Bat             | Fly, Giant Carnivorous
-3        | Griffon                | Gargoyle               | Cockatrice             | Cockatrice             | Gargoyle
-4        | Harpy                  | Griffon                | Gargoyle               | Griffon                | Griffon
-5        | Hawk, Giant            | Hawk, Giant            | Griffon                | Hawk, Giant            | Hawk, Giant
-6        | Hippogriff             | Lammasu                | Harpy                  | Hippogriff             | Hippogriff
-7        | Lammasu                | Manticore              | Hawk, Giant            | Pegasus                | Bee, Killer Giant
-8        | Manticore              | Pterodactyl            | Hippogriff             | Owl, Giant             | Pegasus
-9        | Pegasus                | Roc, Small             | Manticore              | Pixie                  | Pixie
-10       | Roc, Small             | Sphinx                 | Pegasus                | Roc, Small             | Roc, Small
-11       | Stirge                 | Wyvern                 | Roc*                   | Sprite                 | Sprite
-12       | Wyvern                 | Vulture                | Wyvern                 | Stirge                 | Stirge
+| Roll     | Barrens                | Desert                 | Mountains              | Woods                  | Other
+| -------: | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------
+| 1        | Cockatrice             | Chimera                | Swarm, Bat             | Bat, Giant             | Cockatrice
+| 2        | Gargoyle               | Cockatrice             | Chimera                | Swarm, Bat             | Fly, Giant Carnivorous
+| 3        | Griffon                | Gargoyle               | Cockatrice             | Cockatrice             | Gargoyle
+| 4        | Harpy                  | Griffon                | Gargoyle               | Griffon                | Griffon
+| 5        | Hawk, Giant            | Hawk, Giant            | Griffon                | Hawk, Giant            | Hawk, Giant
+| 6        | Hippogriff             | Lammasu                | Harpy                  | Hippogriff             | Hippogriff
+| 7        | Lammasu                | Manticore              | Hawk, Giant            | Pegasus                | Bee, Killer Giant
+| 8        | Manticore              | Pterodactyl            | Hippogriff             | Owl, Giant             | Pegasus
+| 9        | Pegasus                | Roc, Small             | Manticore              | Pixie                  | Pixie
+| 10       | Roc, Small             | Sphinx                 | Pegasus                | Roc, Small             | Roc, Small
+| 11       | Stirge                 | Wyvern                 | Roc*                   | Sprite                 | Sprite
+| 12       | Wyvern                 | Vulture                | Wyvern                 | Stirge                 | Stirge
 
 *Roll 1d6: 1-3 Small, 4-5 Large, 6 Giant
 
 
 #### Wilderness Encounters: Swimmer
 
-Roll     | River, Lake                  | Ocean                  | Swamp
--------: | :--------------------------- | :--------------------- | :---------------------
-1        | Crab, Giant                  | Dragon Turtle          | Crab, Giant
-2        | Crocodile                    | Hydra, Sea             | Crocodile
-3        | Crocodile                    | Merman                 | Crocodile, Large
-4        | Crocodile, Large             | Octopus, Giant         | Crocodile, Giant
-5        | Fish, Catfish                | Sea Dragon             | Fish, Catfish
-6        | Fish, Piranha                | Sea Serpent            | Insect Swarm
-7        | Fish, Sturgeon               | Shark*                 | Insect Swarm
-8        | Leech, Giant                 | Shark*                 | Leech, Giant
-9        | Lizard Man                   | Skittering Maw         | Leech, Giant
-10       | Merman                       | Snake, Sea             | Lizard Man
-11       | Naiad                        | Squid, Giant           | Lizard Man
-12       | Skittering Maw               | Whale                  | Skittering Maw
+| Roll     | River, Lake                  | Ocean                  | Swamp
+| -------: | :--------------------------- | :--------------------- | :---------------------
+| 1        | Crab, Giant                  | Dragon Turtle          | Crab, Giant
+| 2        | Crocodile                    | Hydra, Sea             | Crocodile
+| 3        | Crocodile                    | Merman                 | Crocodile, Large
+| 4        | Crocodile, Large             | Octopus, Giant         | Crocodile, Giant
+| 5        | Fish, Catfish                | Sea Dragon             | Fish, Catfish
+| 6        | Fish, Piranha                | Sea Serpent            | Insect Swarm
+| 7        | Fish, Sturgeon               | Shark*                 | Insect Swarm
+| 8        | Leech, Giant                 | Shark*                 | Leech, Giant
+| 9        | Lizard Man                   | Skittering Maw         | Leech, Giant
+| 10       | Merman                       | Snake, Sea             | Lizard Man
+| 11       | Naiad                        | Squid, Giant           | Lizard Man
+| 12       | Skittering Maw               | Whale                  | Skittering Maw
 
 *Roll 1d6: 1-2 Bull Shark, 3-4 Mako Shark, 5-6 Great White Shark
 
 #### Wilderness Encounters: Other
 
-Roll           | Dragon                 | Insect                   | Undead                 | Unusual
--------------: | :--------------------- | :----------------------- | :--------------------- | :---------------------
-1              | Basilisk               | Beetle, Fire             | Ghoul                  | Basilisk
-2              | Caecilian              | Beetle, Giant Bombardier | Ghoul                  | Blink Dog
-3              | Chimera                | Beetle, Tiger            | Mummy                  | Centaur
-4              | Dragon*                | Carcass Scavenger        | Mummy                  | Gorgon
-5              | Dragon*                | Centipede, Giant         | Skeleton               | Hellhound
-6              | Sphinx                 | Ant, Giant               | Skeleton               | Lycanthrope
-7              | Hydra/Sea Hydra        | Fly, Giant Carnivorous   | Spectre                | Medusa
-8              | Lamia                  | Killer Bee               | Wight                  | Phase Tiger
-9              | Purple Worm            | Rhagodessa               | Wraith                 | Rust Monster
-10             | Snake, Python          | Scorpion, Giant          | Vampire                | Skittering Maw
-11             | Salamander             | Spider, Black Widow      | Zombie                 | Treant
-12             | Wyvern                 | Spider, Crab             | Zombie                 | Ape, White
+| Roll           | Dragon                 | Insect                   | Undead                 | Unusual
+| -------------: | :--------------------- | :----------------------- | :--------------------- | :---------------------
+| 1              | Basilisk               | Beetle, Fire             | Ghoul                  | Basilisk
+| 2              | Caecilian              | Beetle, Giant Bombardier | Ghoul                  | Blink Dog
+| 3              | Chimera                | Beetle, Tiger            | Mummy                  | Centaur
+| 4              | Dragon*                | Carcass Scavenger        | Mummy                  | Gorgon
+| 5              | Dragon*                | Centipede, Giant         | Skeleton               | Hellhound
+| 6              | Sphinx                 | Ant, Giant               | Skeleton               | Lycanthrope
+| 7              | Hydra/Sea Hydra        | Fly, Giant Carnivorous   | Spectre                | Medusa
+| 8              | Lamia                  | Killer Bee               | Wight                  | Phase Tiger
+| 9              | Purple Worm            | Rhagodessa               | Wraith                 | Rust Monster
+| 10             | Snake, Python          | Scorpion, Giant          | Vampire                | Skittering Maw
+| 11             | Salamander             | Spider, Black Widow      | Zombie                 | Treant
+| 12             | Wyvern                 | Spider, Crab             | Zombie                 | Ape, White
 
 *Always Black in Swamp, Blue in Mountains, Brown in Desert, Green in Woods, Red in Barrens, Sea in Oceans/Rivers/Lake. Otherwise roll 1d10: 1 Black, 2 Blue, 3 Brown, 4 Green, 5 Metallic, 6 Red, 7 Sea, 8 White, 9 Wyrm, 10 Judge’s Choice.
 
@@ -899,57 +899,57 @@ Wandering monsters may sometimes include parties of NPC adventures out seeking t
 Begin by establishing the number encountered by rolling 1d4+2. Then roll 3d6 on the table below to determine a class for each NPC:
 
 
-Roll  | NPC Class
-:---- | --------------------
-3-4   | Elven Nightblade
-5     | Elven Spellsword
-6     | Explorer
-7     | Bladedancer
-8     | Cleric
-9-11  | Fighter
-12    | Thief
-13    | Mage
-14    | Assassin
-15    | Bard
-16    | Dwarven Vaultguard
-17-18 | Dwarven Craftpriest
+| Roll  | NPC Class
+| :---- | --------------------
+| 3-4   | Elven Nightblade
+| 5     | Elven Spellsword
+| 6     | Explorer
+| 7     | Bladedancer
+| 8     | Cleric
+| 9-11  | Fighter
+| 12    | Thief
+| 13    | Mage
+| 14    | Assassin
+| 15    | Bard
+| 16    | Dwarven Vaultguard
+| 17-18 | Dwarven Craftpriest
 
 
-Roll | NPC Alignment
-:--- | -------------
-1-2  | Lawful
-3-5  | Neutral
-6    | Chaotic
+| Roll | NPC Alignment
+| :--- | -------------
+| 1-2  | Lawful
+| 3-5  | Neutral
+| 6    | Chaotic
 
 
-Roll | NPC Level
-:--- | :---------------------
-1    | Base level -2 (min. 1)
-2    | Base level -1 (min. 1)
-3-4  | Base level
-5    | Base level +1
-6    | Base level +2
+| Roll | NPC Level
+| :--- | :---------------------
+| 1    | Base level -2 (min. 1)
+| 2    | Base level -1 (min. 1)
+| 3-4  | Base level
+| 5    | Base level +1
+| 6    | Base level +2
 
 
 Once classes are established, roll 1d6 to randomly determine the alignment of the party. All NPCs will either be of this alignment, or within one step of it. For example, a Lawful party may have Lawful and Neutral adventurers.
 
 
-Level       | Treasure Type
-----------: | :-------------
-1           | B x1/4
-2           | B x1/2
-3           | B x1/2
-4           | B
-5           | D x1/2
-6           | D
-7           | H
-8           | J
-9           | J x2
-10          | N
-11          | O
-12          | N x2
-13          | Q
-14          | R
+| Level       | Treasure Type
+| ----------: | :-------------
+| 1           | B x1/4
+| 2           | B x1/2
+| 3           | B x1/2
+| 4           | B
+| 5           | D x1/2
+| 6           | D
+| 7           | H
+| 8           | J
+| 9           | J x2
+| 10          | N
+| 11          | O
+| 12          | N x2
+| 13          | Q
+| 14          | R
 
 
 Each NPC party will have a base level, which is the average for the party as a whole. When NPCs are encountered in a dungeon, their base level will be determined by the dungeon level they are encountered on, as shown on the [Random Monsters by Level](Chapter10.md#random-monsters-by-level) tables. When NPCs are encountered in a wilderness, their base level should be based on the maximum level of the nearest dungeon. When NPCs are encountered in a settlement, their base level is 7, less the settlement's market class. Once the base level of the party is determined, roll 1d6 on the NPC Level table to determine the level of each NPCs in the party.
@@ -975,14 +975,14 @@ If the Judge intends to run his campaign over the course of game years, adventur
 
 #### Character Starting Age
 
-Class                  | Starting Age | Class                    | Starting Age
-:--------------------- | :----------- | :----------------------- | :-----------
-Assassin               | 17+1d6       | Elven Nightblade         | 75+5d4
-Bard                   | 14+1d8       | Elven Spellsword         | 75+5d4
-Bladedancer            | 17+1d6       | Explorer                 | 17+1d6
-Cleric                 | 17+1d6       | Fighter                  | 15+1d8
-Dwarven Craftpriest    | 25+2d8       | Mage                     | 17+3d6
-Dwarven Vaultguard     | 23+3d4       | Thief                    | 15+1d8
+| Class                  | Starting Age | Class                    | Starting Age
+| :--------------------- | :----------- | :----------------------- | :-----------
+| Assassin               | 17+1d6       | Elven Nightblade         | 75+5d4
+| Bard                   | 14+1d8       | Elven Spellsword         | 75+5d4
+| Bladedancer            | 17+1d6       | Explorer                 | 17+1d6
+| Cleric                 | 17+1d6       | Fighter                  | 15+1d8
+| Dwarven Craftpriest    | 25+2d8       | Mage                     | 17+3d6
+| Dwarven Vaultguard     | 23+3d4       | Thief                    | 15+1d8
 
 
 The [Character Aging](Chapter10.md#character-aging) table shows the lifespan of the human, demi-human, and humanoid races, broken into five age categories (Youth, Adult, Middle Aged, Old, and Ancient). Elves, being ageless, never progress past adult.
@@ -990,14 +990,14 @@ The [Character Aging](Chapter10.md#character-aging) table shows the lifespan of 
 
 #### Character Aging
 
-Race           | Youth          | Adult          | Middle Aged            | Old            | Ancient
-:------------- | -------------: | -------------: | ---------------------: | -------------: | ---------:
-Beastman       | 12-15          | 16-30          | 31-45                  | 46-60          | 61-75
-Dwarf          | 15-25          | 26-50          | 51-75                  | 76-115         | 116-150
-Elf            | 15-50          | 51-200         | -                      | -              | -
-Gnome          | 15-25          | 26-62          | 63-95                  | 96-135         | 136-175
-Human          | 13-17          | 18-35          | 36-55                  | 56-75          | 76-95
-Halfling       | 14-21          | 22-42          | 43-65                  | 66-95          | 96-125
+| Race           | Youth          | Adult          | Middle Aged            | Old            | Ancient
+| :------------- | -------------: | -------------: | ---------------------: | -------------: | ---------:
+| Beastman       | 12-15          | 16-30          | 31-45                  | 46-60          | 61-75
+| Dwarf          | 15-25          | 26-50          | 51-75                  | 76-115         | 116-150
+| Elf            | 15-50          | 51-200         | -                      | -              | -
+| Gnome          | 15-25          | 26-62          | 63-95                  | 96-135         | 136-175
+| Human          | 13-17          | 18-35          | 36-55                  | 56-75          | 76-95
+| Halfling       | 14-21          | 22-42          | 43-65                  | 66-95          | 96-125
 
 
 At each stage, progressively adjust the character's ability scores as noted on the [Ability Score Adjustments by Age](Chapter10.md#ability-score-adjustments-by-age) table. For characters generated at an already advanced age, the cumulative ability score adjustments appropriate to the character's age can be used. Ability score adjustments from aging cannot reduce an ability score below a class minimum, and in no case lower than 3.
@@ -1006,13 +1006,13 @@ At each stage, progressively adjust the character's ability scores as noted on t
 #### Ability Score Adjustments by Age
 
 
-Age Category             | Progressive Ability Score Adjustments               | Cumulative Ability Score Adjustments
-:----------------------- | :-------------------------------------------------- | :-------------------------------------
-Youth                    | -2 STR, -2 INT, -2 WIS                              | -2 STR, -2 INT, -2 WIS
-Adult                    | +2 STR, +2 INT, +2 WIS                              | No adjustments
-Middle Aged              | -2 STR, -2 DEX, -2 CON                              | -2 STR, -2 DEX, -2 CON
-Old                      | -2 STR, -2 DEX, -2 CON, -2 CHA                      | -4 STR, -4 DEX, -4 CON, -2 CHA
-Ancient                  | -2 STR, -2 DEX, -2 CON, -2 CHA                      | -6 STR, -6 DEX, -6 CON, -4 CHA
+| Age Category             | Progressive Ability Score Adjustments               | Cumulative Ability Score Adjustments
+| :----------------------- | :-------------------------------------------------- | :-------------------------------------
+| Youth                    | -2 STR, -2 INT, -2 WIS                              | -2 STR, -2 INT, -2 WIS
+| Adult                    | +2 STR, +2 INT, +2 WIS                              | No adjustments
+| Middle Aged              | -2 STR, -2 DEX, -2 CON                              | -2 STR, -2 DEX, -2 CON
+| Old                      | -2 STR, -2 DEX, -2 CON, -2 CHA                      | -4 STR, -4 DEX, -4 CON, -2 CHA
+| Ancient                  | -2 STR, -2 DEX, -2 CON, -2 CHA                      | -6 STR, -6 DEX, -6 CON, -4 CHA
 
 
 #### Death from Old Age
@@ -1047,23 +1047,23 @@ The [Monster Venoms](Chapter10.md#monster-venoms-1) table shows the market cost,
 
 #### Monster Venoms
 
-Monster Venoms                 | Cost / Dose            | Onset Time             | Save Mod.              | Effect on Failed Save
-:----------------------------- | ---------------------: | :--------------------- | ---------------------: | :----------------------
-Giant Centipede                | 50gp                   | 1 turn                 | +2                     | Sickness 1d10 days*
-Spitting Cobra                 | 100gp                  | 1 turn                 | +2                     | 1d6 damage
-Giant Crab Spider              | 100gp                  | 1d10 turns             | +4                     | 1d10 damage
-Pit Viper                      | 200gp                  | 1d10 turns             | +2                     | 1d10 damage
-Giant Killer Bee               | 250gp                  | 1 turn                 | +2                     | 1d10 damage
-Carcass Scavenger              | 250gp                  | 1 turn                 | +2                     | Paralysis 2d4 turns
-Sea Snake                      | 275gp                  | 1d10 turns             | +2                     | 4d4 damage
-Giant Black Widow              | 300gp                  | 1d6 turns              | +2                     | 4d4 damage
-Giant Rattlesnake              | 300gp                  | 1d10 turns             | +2                     | 2d10 damage
-Giant Tarantula                | 350gp                  | 1d6 turns              | +2                     | 2d10 damage
-Giant Scorpion                 | 400gp                  | 1 turn                 | +2                     | 2d10 damage
-Rockfish                       | 500gp                  | 1 round                | +1                     | 4d6 damage
-Wyvern                         | 700gp                  | 1 round                | +1                     | 6d6 damage
-Purple Worm                    | 1,500gp                | Instant                | -                      | Death
-Dragon Blood                   | 1,500gp                | Instant                | -                      | Death
+| Monster Venoms                 | Cost / Dose            | Onset Time             | Save Mod.              | Effect on Failed Save
+| :----------------------------- | ---------------------: | :--------------------- | ---------------------: | :----------------------
+| Giant Centipede                | 50gp                   | 1 turn                 | +2                     | Sickness 1d10 days*
+| Spitting Cobra                 | 100gp                  | 1 turn                 | +2                     | 1d6 damage
+| Giant Crab Spider              | 100gp                  | 1d10 turns             | +4                     | 1d10 damage
+| Pit Viper                      | 200gp                  | 1d10 turns             | +2                     | 1d10 damage
+| Giant Killer Bee               | 250gp                  | 1 turn                 | +2                     | 1d10 damage
+| Carcass Scavenger              | 250gp                  | 1 turn                 | +2                     | Paralysis 2d4 turns
+| Sea Snake                      | 275gp                  | 1d10 turns             | +2                     | 4d4 damage
+| Giant Black Widow              | 300gp                  | 1d6 turns              | +2                     | 4d4 damage
+| Giant Rattlesnake              | 300gp                  | 1d10 turns             | +2                     | 2d10 damage
+| Giant Tarantula                | 350gp                  | 1d6 turns              | +2                     | 2d10 damage
+| Giant Scorpion                 | 400gp                  | 1 turn                 | +2                     | 2d10 damage
+| Rockfish                       | 500gp                  | 1 round                | +1                     | 4d6 damage
+| Wyvern                         | 700gp                  | 1 round                | +1                     | 6d6 damage
+| Purple Worm                    | 1,500gp                | Instant                | -                      | Death
+| Dragon Blood                   | 1,500gp                | Instant                | -                      | Death
 
 *Sickened characters move at 1/2 speed and cannot fight or perform other actions.
 
@@ -1079,16 +1079,16 @@ Each plant yields one dose of its toxin. Some plant toxins can be used to treat 
 
 #### Plant Toxins
 
-Plant Toxins           | Naturalism Throw       | Cost / Dose            | Onset Time                                     | Save Mod.   | Effect on Failed Save
-:--------------------- | ---------------------: | ---------------------: | :--------------------------------------------- | ----------: | :------------------------------------
-Belladonna             | 11+                    | 350gp                  | 1 turn (injury), 1d3 turns (ingestion)         | +2          | 2d8 damage and confusion 1d4 turns
-Curare                 | 20+                    | 1,500gp                | Instant (injury)                               | -           | 2d12 damage and paralysis 2d4 turns
-Foxglove               | 14+                    | 275gp                  | 1d6 turns (ingestion)                          | -3          | 2d8 damage and confusion 1d4 turns
-Hellebore              | 8+                     | 225gp                  | 1 turn (injury), 1d3 turns (ingestion)         | +2          | 1d6 damage and sickness 1d10 days*
-Hemlock                | 8+                     | 225gp                  | 2d4 turns (ingestion)                          | +4          | 2d12 damage and sickness 1d10 days*
-Henbane                | 8+                     | 350gp                  | 1 turn (injury), 1d6 turns (ingestion)         | +2          | 1d6 damage and feeblemind 1d4 hours
-Wolfsbane              | 11+                    | 350gp                  | 1 turn (injury), 2d4 turns (ingestion)         | +2          | 2d8 damage and paralysis 2d4 turns
-Yew                    | 4+                     | 200gp                  | 1 hour (injury), 1d6 hours (ingestion)         | +4          | 1d10 damage
+| Plant Toxins           | Naturalism Throw       | Cost / Dose            | Onset Time                                     | Save Mod.   | Effect on Failed Save
+| :--------------------- | ---------------------: | ---------------------: | :--------------------------------------------- | ----------: | :------------------------------------
+| Belladonna             | 11+                    | 350gp                  | 1 turn (injury), 1d3 turns (ingestion)         | +2          | 2d8 damage and confusion 1d4 turns
+| Curare                 | 20+                    | 1,500gp                | Instant (injury)                               | -           | 2d12 damage and paralysis 2d4 turns
+| Foxglove               | 14+                    | 275gp                  | 1d6 turns (ingestion)                          | -3          | 2d8 damage and confusion 1d4 turns
+| Hellebore              | 8+                     | 225gp                  | 1 turn (injury), 1d3 turns (ingestion)         | +2          | 1d6 damage and sickness 1d10 days*
+| Hemlock                | 8+                     | 225gp                  | 2d4 turns (ingestion)                          | +4          | 2d12 damage and sickness 1d10 days*
+| Henbane                | 8+                     | 350gp                  | 1 turn (injury), 1d6 turns (ingestion)         | +2          | 1d6 damage and feeblemind 1d4 hours
+| Wolfsbane              | 11+                    | 350gp                  | 1 turn (injury), 2d4 turns (ingestion)         | +2          | 2d8 damage and paralysis 2d4 turns
+| Yew                    | 4+                     | 200gp                  | 1 hour (injury), 1d6 hours (ingestion)         | +4          | 1d10 damage
 
 *Sickened characters move at 1/2 speed and cannot fight or perform other actions.
 
@@ -1120,22 +1120,22 @@ Slave soldiers are usually either born into slavery or enslaved in early childho
 
 (Gp Cost per Slave)
 
-Slave Troop Type                                                                              | Man    | Dwarf  | Elf    | Goblin     | Orc
-:-------------------------------------------------------------------------------------------- | -----: | -----: | -----: | ---------: | -----:
-Militia (spear)                                                                               | 40     | -      | -      | -          | -
-Light Infantry (3 javelins, short sword, shield, leather armor)                               | 215    | -      | 315    | 85         | 185
-Heavy Infantry (spear, sword, shield, banded plate armor)                                     | 415    | 650    | 800    | -          | 285
-Slingers (sling, short sword, shield, leather armor)                                          | 185    | -      | -      | 85         | -
-Bowman (short bow, short sword, leather armor)                                                | 275    | -      | 650    | 85         | 175
-Crossbowmen (arbalest, short sword, chainmail)                                                | 600    | 750    | -      | -          | 415
-Longbowmen (long bow, sword, chainmail)                                                       | 650    | -      | 1,400  | -          | -
-Light Cavalry (3 javelins, sword, shield, leather armor, light warhorse)                      | 1,150  | -      | 2,150  | -          | -
-Mounted Crossbowman (crossbow, short sword, chainmail, mule)                                  | -      | 1,575  | -      | -          | -
-Horse Archers (composite bow, scimitar, leather armor, light warhorse)                        | 1,700  | -      | 3,200  | -          | -
-Medium Cavalry (lance, sword, shield, lamellar, medium warhorse)                              | 1,800  | -      | -      | -          | -
-Heavy Cavalry (lance, sword, shield, plate armor, chain barded medium warhorse)               | 2,500  | -      | -      | -          | -
-Cataphract Cavalry (composite bow, sword, shield, plate, chain barded medium warhorse)        | 3,125  | -      | 5,250  | -          | -
-Beast Riders (spear, short sword, shield, leather or scale armor, dire wolf or giant boar)    | -      | -      | -      | 1,200      | -
+| Slave Troop Type                                                                              | Man    | Dwarf  | Elf    | Goblin     | Orc
+| :-------------------------------------------------------------------------------------------- | -----: | -----: | -----: | ---------: | -----:
+| Militia (spear)                                                                               | 40     | -      | -      | -          | -
+| Light Infantry (3 javelins, short sword, shield, leather armor)                               | 215    | -      | 315    | 85         | 185
+| Heavy Infantry (spear, sword, shield, banded plate armor)                                     | 415    | 650    | 800    | -          | 285
+| Slingers (sling, short sword, shield, leather armor)                                          | 185    | -      | -      | 85         | -
+| Bowman (short bow, short sword, leather armor)                                                | 275    | -      | 650    | 85         | 175
+| Crossbowmen (arbalest, short sword, chainmail)                                                | 600    | 750    | -      | -          | 415
+| Longbowmen (long bow, sword, chainmail)                                                       | 650    | -      | 1,400  | -          | -
+| Light Cavalry (3 javelins, sword, shield, leather armor, light warhorse)                      | 1,150  | -      | 2,150  | -          | -
+| Mounted Crossbowman (crossbow, short sword, chainmail, mule)                                  | -      | 1,575  | -      | -          | -
+| Horse Archers (composite bow, scimitar, leather armor, light warhorse)                        | 1,700  | -      | 3,200  | -          | -
+| Medium Cavalry (lance, sword, shield, lamellar, medium warhorse)                              | 1,800  | -      | -      | -          | -
+| Heavy Cavalry (lance, sword, shield, plate armor, chain barded medium warhorse)               | 2,500  | -      | -      | -          | -
+| Cataphract Cavalry (composite bow, sword, shield, plate, chain barded medium warhorse)        | 3,125  | -      | 5,250  | -          | -
+| Beast Riders (spear, short sword, shield, leather or scale armor, dire wolf or giant boar)    | -      | -      | -      | 1,200      | -
 
 
 Slave soldiers enslaved as children have the same morale scores as normal mercenaries of their type. Slave soldiers enslaved as adults have morale scores of -4 (and are a very bad idea). All slave soldiers cost 3gp per month in upkeep. Supplemental pay, better food, access to women, and so on can increase morale.
@@ -1156,16 +1156,16 @@ Some campaigns feature places that are corrupted by the energies of the Nether D
 
 #### Sinkholes of Evil
 
-Effect                                 | Shadowed          | Blighted          | Forsaken
-:------------------------------------- | :---------------- | :---------------- | :-------------------------------
-Corpse Reanimation                     | 10%/1d12 months   | 20%/1d4 days      | 80%/1d4 rounds
-Reversed/necromantic spell effects     | +2 class levels   | +2 class levels   | +2 class level
-Lawful divine spell effects            | No Effect         | No Effect         | -2 class levels
-Turning Undead                         | No Effect         | -4 class levels   | Forbidden
-Necromancy magic research              | +1 bonus          | +2 bonus          | +3 bonus
-Undead in Sinkhole                     | No Effect         | No Effect         | +2 attack, save, damage, AC
-Animating Undead                       | No Effect         | No Effect         | +2 hp/HD, 2x normal HD created
-Blood sacrifice                        | Yes               | Yes               | Yes
+| Effect                                 | Shadowed          | Blighted          | Forsaken
+| :------------------------------------- | :---------------- | :---------------- | :-------------------------------
+| Corpse Reanimation                     | 10%/1d12 months   | 20%/1d4 days      | 80%/1d4 rounds
+| Reversed/necromantic spell effects     | +2 class levels   | +2 class levels   | +2 class level
+| Lawful divine spell effects            | No Effect         | No Effect         | -2 class levels
+| Turning Undead                         | No Effect         | -4 class levels   | Forbidden
+| Necromancy magic research              | +1 bonus          | +2 bonus          | +3 bonus
+| Undead in Sinkhole                     | No Effect         | No Effect         | +2 attack, save, damage, AC
+| Animating Undead                       | No Effect         | No Effect         | +2 hp/HD, 2x normal HD created
+| Blood sacrifice                        | Yes               | Yes               | Yes
 
 
 #### Shadowed Sinkholes

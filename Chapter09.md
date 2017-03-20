@@ -43,26 +43,26 @@ It is always up to the Judge to decide how much treasure he wishes to allow into
 
 #### Treasure Type Table
 
-Type         | Avg. Value       | 1000s of Copper        | 1000s of Silver        | 1000s of Electrum      | 1000s of Gold    | 1000s of Platinum   | Gems                   | Jewelry            | Magic Items
-:----------- | ---------------: | :--------------------- | :--------------------- | :--------------------- | :----------------| :------------------ | :--------------------- | :----------------- | :---------------------
-A Incidental | 275gp            | None                   | 30% 1d4                | None                   | None             | None                | 30% 1d4 ornamentals    | 30% 1d4 trinkets   | 1% any 1
-B Hoarder    | 500gp            | None                   | 80% 1d6                | None                   | None             | None                | 70% 1d4 ornamentals    | 30% 1d4 trinkets   | 5% any 2
-C Incidental | 700gp            | None                   | None                   | 15% 1d4                | None             | None                | 40% 1d6 gems           | 30% 1d6 trinkets   | 5% any 1
-D Hoarder    | 1,000gp          | None                   | 80% 1d6                | 20% 1d4                | None             | None                | 80% 1d6 ornamentals    | 70% 1d4 trinkets   | 15% any 2
-E Raider     | 1,250gp          | 80% 2d20               | 7% 3d6                 | None                   | None             | None                | 60% 1d4 ornamentals    | 40% 1d4 trinkets   | 15% 1 sword, weapon or armor; 15% 1 potion; 5% any 1
-F Incidental | 1,500gp          | None                   | 30% 1d4                | None                   | 15% 1d4          | None                | 40% 1d6 gems           | 30% 1d4 jewelry    | 7% any 1
-G Raider     | 2,000gp          | 70% 2d20               | 70% 3d6                | 50% 1d4                | None             | None                | 50% 1d6 ornamentals    | 50% 1d6 trinkets   | 25% 1 sword, weapon or armor; 25% 1 potion; 10% any 1
-H Hoarder    | 2,500gp          | None                   | 25% 1d6                | 70% 1d6                | None             | None                | 80% 1d6 gems           | 80% 1d6 trinkets   | 25% any 3 + 1 potion + 1 scroll
-I Incidental | 3,250gp          | None                   | 25% 1d4                | None                   | 25% 1d6          | None                | 50% 2d4 gems           | 40% 1d8 jewelry    | 20% any 1
-J Raider     | 4,000gp          | 50% 3d6                | 70% 2d20               | 70% 1d8                | None             | None                | 50% 1d6 gems           | 50% 1d8 trinkets   | 50% 1 sword, weapon or armor; 45% 1 potion; 20% any 1
-K Incidental | 5,000gp          | None                   | None                   | 30% 1d4                | 25% 1d6          | None                | 25% 1d4 brilliants     | 50% 1d4 jewelry    | 40% any 1
-L Raider     | 6,000gp          | 40% 3d6                | 60% 2d10               | 75% 3d6                | None             | None                | 60% 1d6 gems           | 40% 1d4 jewelry    | 75% 1 sword, weapon or armor; 75% 1 potion; 30% any 1
-M Incidental | 8,000gp          | None                   | None                   | 25% 1d4                | None             | 15% 1d4             | 30% 1d6 brilliants     | 50% 1d6 jewelry    | 30% any 2
-N Hoarder    | 9,000gp          | None                   | 60% 1d8                | 60% 2d4                | 80% 1d6          | None                | 80% 1d8 gems           | 80% 1d8 jewelry    | 50% any 4 +1 potion + 1 scroll
-O Raider     | 12,000gp         | 30% 3d6                | 50% 3d6                | 60% 3d6                | 60% 2d6          | None                | 30% 1d4 brilliants     | 60% 1d4 jewelry    | 75% 1 sword, weapon or armor; 75% 2 potions; 50% any 2
-P Incidental | 17,000gp         | None                   | None                   | None                   | 30% 1d4          | 30% 1d4             | 40% 1d4 brilliants     | 30% 1d4 regalia    | 40% any 3
-Q Hoarder    | 22,000gp         | None                   | None                   | 50% 1d8                | 80% 2d6          | 40% 1d4             | 60% 1d6 brilliants     | 80% 1d4 jewelry    | 1d4 potions; 1d4 scrolls; 50% any 6
-R Hoarder    | 45,000gp         | None                   | None                   | 50% 1d6                | 60% 1d6          | 80% 1d8             | 70% 1d4 brilliants     | 60% 1d4 regalia    | 2d4 potions; 2d4 scrolls; 75% 1d3 of each category (swords, armor, miscellaneous weapon, wand/staff/rod, miscellaneous item, ring)
+| Type         | Avg. Value       | 1000s of Copper        | 1000s of Silver        | 1000s of Electrum      | 1000s of Gold    | 1000s of Platinum   | Gems                   | Jewelry            | Magic Items
+| :----------- | ---------------: | :--------------------- | :--------------------- | :--------------------- | :----------------| :------------------ | :--------------------- | :----------------- | :---------------------
+| A Incidental | 275gp            | None                   | 30% 1d4                | None                   | None             | None                | 30% 1d4 ornamentals    | 30% 1d4 trinkets   | 1% any 1
+| B Hoarder    | 500gp            | None                   | 80% 1d6                | None                   | None             | None                | 70% 1d4 ornamentals    | 30% 1d4 trinkets   | 5% any 2
+| C Incidental | 700gp            | None                   | None                   | 15% 1d4                | None             | None                | 40% 1d6 gems           | 30% 1d6 trinkets   | 5% any 1
+| D Hoarder    | 1,000gp          | None                   | 80% 1d6                | 20% 1d4                | None             | None                | 80% 1d6 ornamentals    | 70% 1d4 trinkets   | 15% any 2
+| E Raider     | 1,250gp          | 80% 2d20               | 7% 3d6                 | None                   | None             | None                | 60% 1d4 ornamentals    | 40% 1d4 trinkets   | 15% 1 sword, weapon or armor; 15% 1 potion; 5% any 1
+| F Incidental | 1,500gp          | None                   | 30% 1d4                | None                   | 15% 1d4          | None                | 40% 1d6 gems           | 30% 1d4 jewelry    | 7% any 1
+| G Raider     | 2,000gp          | 70% 2d20               | 70% 3d6                | 50% 1d4                | None             | None                | 50% 1d6 ornamentals    | 50% 1d6 trinkets   | 25% 1 sword, weapon or armor; 25% 1 potion; 10% any 1
+| H Hoarder    | 2,500gp          | None                   | 25% 1d6                | 70% 1d6                | None             | None                | 80% 1d6 gems           | 80% 1d6 trinkets   | 25% any 3 + 1 potion + 1 scroll
+| I Incidental | 3,250gp          | None                   | 25% 1d4                | None                   | 25% 1d6          | None                | 50% 2d4 gems           | 40% 1d8 jewelry    | 20% any 1
+| J Raider     | 4,000gp          | 50% 3d6                | 70% 2d20               | 70% 1d8                | None             | None                | 50% 1d6 gems           | 50% 1d8 trinkets   | 50% 1 sword, weapon or armor; 45% 1 potion; 20% any 1
+| K Incidental | 5,000gp          | None                   | None                   | 30% 1d4                | 25% 1d6          | None                | 25% 1d4 brilliants     | 50% 1d4 jewelry    | 40% any 1
+| L Raider     | 6,000gp          | 40% 3d6                | 60% 2d10               | 75% 3d6                | None             | None                | 60% 1d6 gems           | 40% 1d4 jewelry    | 75% 1 sword, weapon or armor; 75% 1 potion; 30% any 1
+| M Incidental | 8,000gp          | None                   | None                   | 25% 1d4                | None             | 15% 1d4             | 30% 1d6 brilliants     | 50% 1d6 jewelry    | 30% any 2
+| N Hoarder    | 9,000gp          | None                   | 60% 1d8                | 60% 2d4                | 80% 1d6          | None                | 80% 1d8 gems           | 80% 1d8 jewelry    | 50% any 4 +1 potion + 1 scroll
+| O Raider     | 12,000gp         | 30% 3d6                | 50% 3d6                | 60% 3d6                | 60% 2d6          | None                | 30% 1d4 brilliants     | 60% 1d4 jewelry    | 75% 1 sword, weapon or armor; 75% 2 potions; 50% any 2
+| P Incidental | 17,000gp         | None                   | None                   | None                   | 30% 1d4          | 30% 1d4             | 40% 1d4 brilliants     | 30% 1d4 regalia    | 40% any 3
+| Q Hoarder    | 22,000gp         | None                   | None                   | 50% 1d8                | 80% 2d6          | 40% 1d4             | 60% 1d6 brilliants     | 80% 1d4 jewelry    | 1d4 potions; 1d4 scrolls; 50% any 6
+| R Hoarder    | 45,000gp         | None                   | None                   | 50% 1d6                | 60% 1d6          | 80% 1d8             | 70% 1d4 brilliants     | 60% 1d4 regalia    | 2d4 potions; 2d4 scrolls; 75% 1d3 of each category (swords, armor, miscellaneous weapon, wand/staff/rod, miscellaneous item, ring)
 
 
 ### Gems
@@ -76,26 +76,26 @@ Gems appearing in a treasure hoard may be specified to be ornamentals or brillia
 
 #### Gem Value
 
-Roll           | Value (gp)     | Type
-:------------- | :------------- | :------------
-*2d20*         | *avg. 30*      | *Ornamental*
-*d100*         | *avg. 200*     | *Gem*
-*d100+80*      | *avg. 4,000*   | *Brilliant*
-01-10          | 10             | Azurite, hematite, malachite, obsidian, quartz
-11-25          | 25             | Agate, lapis lazuli, tiger eye, turquoise
-26-40          | 50             | Bloodstone, crystal, citrine, jasper, moonstone, onyx
-41-55          | 75             | Carnelian, chalcedony, sardonyx, zircon
-56-70          | 100            | Amber, amethyst, coral, jade, jet, tourmaline
-71-80          | 250            | Garnet, pearl, spinel
-81-90          | 500            | Aquamarine, alexandrite, topaz
-91-95          | 750            | Opal, star ruby, star sapphire, sunset amethyst, imperial topaz
-96-100         | 1,000          | Black sapphire, diamond, emerald, jacinth, ruby
-101-110        | 1,500          | Amber with preserved extinct creatures, whorled nephrite jade
-111-125        | 2,000          | Black pearl, baroque pearl, crystal geode
-126-145        | 4,000          | Facet cut imperial topaz, flawless diamond
-146-165        | 6,000          | Facet cut star sapphire or star ruby
-166-175        | 8,000          | Flawless facet cut diamond, emerald, jacinth or ruby
-176-180        | 10,000         | Flawless facet cut black sapphire or blue diamond
+| Roll           | Value (gp)     | Type
+| :------------- | :------------- | :------------
+| *2d20*         | *avg. 30*      | *Ornamental*
+| *d100*         | *avg. 200*     | *Gem*
+| *d100+80*      | *avg. 4,000*   | *Brilliant*
+| 01-10          | 10             | Azurite, hematite, malachite, obsidian, quartz
+| 11-25          | 25             | Agate, lapis lazuli, tiger eye, turquoise
+| 26-40          | 50             | Bloodstone, crystal, citrine, jasper, moonstone, onyx
+| 41-55          | 75             | Carnelian, chalcedony, sardonyx, zircon
+| 56-70          | 100            | Amber, amethyst, coral, jade, jet, tourmaline
+| 71-80          | 250            | Garnet, pearl, spinel
+| 81-90          | 500            | Aquamarine, alexandrite, topaz
+| 91-95          | 750            | Opal, star ruby, star sapphire, sunset amethyst, imperial topaz
+| 96-100         | 1,000          | Black sapphire, diamond, emerald, jacinth, ruby
+| 101-110        | 1,500          | Amber with preserved extinct creatures, whorled nephrite jade
+| 111-125        | 2,000          | Black pearl, baroque pearl, crystal geode
+| 126-145        | 4,000          | Facet cut imperial topaz, flawless diamond
+| 146-165        | 6,000          | Facet cut star sapphire or star ruby
+| 166-175        | 8,000          | Flawless facet cut diamond, emerald, jacinth or ruby
+| 176-180        | 10,000         | Flawless facet cut black sapphire or blue diamond
 
 
 ### Jewelry
@@ -107,24 +107,24 @@ Jewelry appearing in a treasure hoard may be specified to be trinkets or regalia
 
 #### Jewelry Value
 
-Roll           | Value (gp)     | Type
-:------------- | :------------- | :------------
-*2d20*         | *avg. 225*     | *Trinkets*
-*d100*         | *avg. 1,000*   | *Jewelry*
-*d100+80*      | *avg. 11,000*  | *Regalia*
-01-10          | 2d20           | Bone, scrimshaw, beast parts
-11-25          | 2d10x10        | Glass, shells, or wrought copper, brass, or bronze
-26-40          | 2d4x100        | Fine wood, porcelain, or wrought silver
-41-70          | 2d6x100        | Alabaster, chryselephantine, ivory, or wrought gold
-71-80          | 3d6x100        | Carved jade or wrought platinum
-81-95          | 1d4x1,000      | Wrought orichalcum, silver studded with turquoise, moonstone, or opal
-96-100         | 2d4x1,000      | Silver studded with jet, amber, or pearl
-101-125        | 3d4x1,000      | Gold studded with topaz, jacinth, ruby
-126-145        | 2d8x1,000      | Platinum studded with diamond, sapphire, emerald
-146-155        | 3d6x1,000      | Electrum or silver pendant with pearls and star rubies
-156-165        | 2d20x1,000     | Gold or platinum with diamonds and sapphires
-166-175        | 1d4x10,000     | Gold encrusted with flawless facet cut diamonds
-176-180        | 1d8x10,000     | Platinum encrusted with flawless black sapphires or blue diamonds
+| Roll           | Value (gp)     | Type
+| :------------- | :------------- | :------------
+| *2d20*         | *avg. 225*     | *Trinkets*
+| *d100*         | *avg. 1,000*   | *Jewelry*
+| *d100+80*      | *avg. 11,000*  | *Regalia*
+| 01-10          | 2d20           | Bone, scrimshaw, beast parts
+| 11-25          | 2d10x10        | Glass, shells, or wrought copper, brass, or bronze
+| 26-40          | 2d4x100        | Fine wood, porcelain, or wrought silver
+| 41-70          | 2d6x100        | Alabaster, chryselephantine, ivory, or wrought gold
+| 71-80          | 3d6x100        | Carved jade or wrought platinum
+| 81-95          | 1d4x1,000      | Wrought orichalcum, silver studded with turquoise, moonstone, or opal
+| 96-100         | 2d4x1,000      | Silver studded with jet, amber, or pearl
+| 101-125        | 3d4x1,000      | Gold studded with topaz, jacinth, ruby
+| 126-145        | 2d8x1,000      | Platinum studded with diamond, sapphire, emerald
+| 146-155        | 3d6x1,000      | Electrum or silver pendant with pearls and star rubies
+| 156-165        | 2d20x1,000     | Gold or platinum with diamonds and sapphires
+| 166-175        | 1d4x10,000     | Gold encrusted with flawless facet cut diamonds
+| 176-180        | 1d8x10,000     | Platinum encrusted with flawless black sapphires or blue diamonds
 
 
 ### Special Treasures
@@ -140,129 +140,129 @@ To include special treasures in a hoard, first calculate the treasure normally a
 
 #### Roll 1d20 per 1,000cp:
 
-d20    | Treasure
-:----- | :---------------------------------------------------------------------
-1      | 1d3 rugs or tapestries, worth 5gp each (2d6 stone per rug)
-2      | 1d3 barrels of preserved fish, worth 5gp each (8 stone each)
-3      | 1d3 tenths of a cord of hardwood log, worth 5gp each (8 stone each)
-4      | 1d3 barrels of beer, worth 10gp each (8 stone each)
-5      | 2d6 bricks of salt, worth 7sp each (1/2 stone each)
-6      | 2d4 gallons of lamp oil, worth 2gp each (1/2 stone each)
-7      | 1d3 rolls of cloth, worth 10gp each (4 stone each)
-8      | 3d6 ingots of common metals, worth 1gp each (1/2 stone each)
-9-20   | 1,000 copper pieces
+| d20    | Treasure
+| :----- | :---------------------------------------------------------------------
+| 1      | 1d3 rugs or tapestries, worth 5gp each (2d6 stone per rug)
+| 2      | 1d3 barrels of preserved fish, worth 5gp each (8 stone each)
+| 3      | 1d3 tenths of a cord of hardwood log, worth 5gp each (8 stone each)
+| 4      | 1d3 barrels of beer, worth 10gp each (8 stone each)
+| 5      | 2d6 bricks of salt, worth 7sp each (1/2 stone each)
+| 6      | 2d4 gallons of lamp oil, worth 2gp each (1/2 stone each)
+| 7      | 1d3 rolls of cloth, worth 10gp each (4 stone each)
+| 8      | 3d6 ingots of common metals, worth 1gp each (1/2 stone each)
+| 9-20   | 1,000 copper pieces
 
 
 #### Roll 1d20 per 1,000sp:
 
-d20    | Treasure
-:----- | :---------------------------------------------------------------------
-1      | 1d100 animal horns worth 2gp each (1 stone per 5 horns)
-2      | 2d4 jars of lamp oil, worth 20gp each (6 stone per jar)
-3      | 2d20 bottles of fine wine, worth 5gp each (1 stone per 5 bottles)
-4      | 3d6 rolls of garishly dyed cloth, worth 10gp each (4 stone each)
-5      | 1d3 jars of dyes and pigments, worth 50gp each (5 stone each)
-6      | 1d3 crates of terra-cotta pottery, worth 100gp each (5 stone each)
-7      | 1d3 bags of loose tea, worth 75gp each (5 stone each)
-8      | 2d6 bundles of fur pelts (such as bear, beaver, or fox), worth 15gp each (3 stone per bundle)
-9-20   | 1,000 silver pieces
+| d20    | Treasure
+| :----- | :---------------------------------------------------------------------
+| 1      | 1d100 animal horns worth 2gp each (1 stone per 5 horns)
+| 2      | 2d4 jars of lamp oil, worth 20gp each (6 stone per jar)
+| 3      | 2d20 bottles of fine wine, worth 5gp each (1 stone per 5 bottles)
+| 4      | 3d6 rolls of garishly dyed cloth, worth 10gp each (4 stone each)
+| 5      | 1d3 jars of dyes and pigments, worth 50gp each (5 stone each)
+| 6      | 1d3 crates of terra-cotta pottery, worth 100gp each (5 stone each)
+| 7      | 1d3 bags of loose tea, worth 75gp each (5 stone each)
+| 8      | 2d6 bundles of fur pelts (such as bear, beaver, or fox), worth 15gp each (3 stone per bundle)
+| 9-20   | 1,000 silver pieces
 
 
 #### Roll 1d10 per 1,000ep:
 
-d10    | Treasure
-:----- | :-----------------------------------------------------------------------
-1      | 1d4 barrels of fine spirits or liquor, worth 200gp each (16 stone each)
-2      | 1d3 crates of armor and weapons, worth 225gp each (10 stone each)
-3      | 1d4 crates of glassware, worth 200gp each (5 stone each)
-4      | 1d3 crates of monster parts, worth 300gp each (5 stone each)
-5-10   | 1,000 electrum pieces
+| d10    | Treasure
+| :----- | :-----------------------------------------------------------------------
+| 1      | 1d4 barrels of fine spirits or liquor, worth 200gp each (16 stone each)
+| 2      | 1d3 crates of armor and weapons, worth 225gp each (10 stone each)
+| 3      | 1d4 crates of glassware, worth 200gp each (5 stone each)
+| 4      | 1d3 crates of monster parts, worth 300gp each (5 stone each)
+| 5-10   | 1,000 electrum pieces
 
 
 #### Roll 1d20 per 1,000gp:
 
-d20    | Treasure
-:----- | :-----------------------------------------------------------------------------------------------
-1      | 1d3 bundles of rare fur pelts (such as ermine, mink, or sable), worth 500gp each (5 stone each)
-2      | 1d3 jars of spices, worth 800gp each (1 stone each)
-3      | 1d10x50 monster feathers, worth 1d6gp per feather (1 stone per 25 feathers)
-4      | 1d100 monster horns worth, 1d10 HD x 1d4+1gp/HD (1 stone per 20 HD)
-5      | 1d6 monster carcasses, worth 1d10 HD x 1d10x10gp/HD (1 stone per HD)
-6      | 1d4 crates of fine porcelain, worth 500gp each (2 stone each)
-7      | 2d20 pieces of ivory, worth 1d100gp per piece (1 stone per 100gp value)
-8      | 1d3 rolls of silk, worth 400gp each (4 stone each)
-9-20   | 1,000 gold pieces
+| d20    | Treasure
+| :----- | :-----------------------------------------------------------------------------------------------
+| 1      | 1d3 bundles of rare fur pelts (such as ermine, mink, or sable), worth 500gp each (5 stone each)
+| 2      | 1d3 jars of spices, worth 800gp each (1 stone each)
+| 3      | 1d10x50 monster feathers, worth 1d6gp per feather (1 stone per 25 feathers)
+| 4      | 1d100 monster horns worth, 1d10 HD x 1d4+1gp/HD (1 stone per 20 HD)
+| 5      | 1d6 monster carcasses, worth 1d10 HD x 1d10x10gp/HD (1 stone per HD)
+| 6      | 1d4 crates of fine porcelain, worth 500gp each (2 stone each)
+| 7      | 2d20 pieces of ivory, worth 1d100gp per piece (1 stone per 100gp value)
+| 8      | 1d3 rolls of silk, worth 400gp each (4 stone each)
+| 9-20   | 1,000 gold pieces
 
 
 #### Roll 1d10 per 1,000pp:
 
-d10    | Treasure
-:----- | :---------------------------------------------------------------------
-1      | 5d10 rare books, worth 150gp each(1 stone per 2 books)
-2      | 1d3 ornamental jars of rare spices, worth 2,500gp each (4 stone each)
-3      | 5d20 typical fur capes, worth 100gp each (1 stone each)
-4      | 4d8 ingots of precious metals, worth 300gp each (2 stone each)
-5-10   | 1,000 platinum pieces
+| d10    | Treasure
+| :----- | :---------------------------------------------------------------------
+| 1      | 5d10 rare books, worth 150gp each(1 stone per 2 books)
+| 2      | 1d3 ornamental jars of rare spices, worth 2,500gp each (4 stone each)
+| 3      | 5d20 typical fur capes, worth 100gp each (1 stone each)
+| 4      | 4d8 ingots of precious metals, worth 300gp each (2 stone each)
+| 5-10   | 1,000 platinum pieces
 
 
 #### Roll 1d8 per ornamental:
 
-d8     | Treasure
-:----- | :---------------------------------------------------------------------
-1      | 1d12 silver arrows, each worth 5gp
-2      | 1d6 pouches of belladonna or wolfsbane, each worth 10gp
-3      | 1d4 pouches of saffron, each worth 15gp
-4-8    | 1 ornamental
+| d8     | Treasure
+| :----- | :---------------------------------------------------------------------
+| 1      | 1d12 silver arrows, each worth 5gp
+| 2      | 1d6 pouches of belladonna or wolfsbane, each worth 10gp
+| 3      | 1d4 pouches of saffron, each worth 15gp
+| 4-8    | 1 ornamental
 
 
 #### Roll 1d8 per gem:
 
-d8     | Treasure
-:----- | :---------------------------------------------------------------------
-1      | 1d3 sets of engraved teeth, each worth 2d6x10gp (1 stone per 100 sets)
-2      | 1d10 sticks of rare incense, each worth 5d6gp (1 stone per 100 sticks)
-3      | d3 vials of rare perfume, each worth 1d6x25gp per vial ( stone per 100 vials)
-4-8    | 1 gem or 2d6 ornamentals
+| d8     | Treasure
+| :----- | :---------------------------------------------------------------------
+| 1      | 1d3 sets of engraved teeth, each worth 2d6x10gp (1 stone per 100 sets)
+| 2      | 1d10 sticks of rare incense, each worth 5d6gp (1 stone per 100 sticks)
+| 3      | d3 vials of rare perfume, each worth 1d6x25gp per vial ( stone per 100 vials)
+| 4-8    | 1 gem or 2d6 ornamentals
 
 
 #### Roll 1d8 per brilliant:
 
-d8     | Treasure
-:----- | :---------------------------------------------------------------------
-1      | 2d20 jade carvings of heroes, monsters, and gods, each worth 200gp
-2      | 1d8 opal cameo portraits and intaglio erotic tableaux, each worth 800gp
-3      | 1d6 amethyst cylinder seals depicting religious scenes, each worth 1,200gp
-4-8    | 1 brilliant or 4d8 gems
+| d8     | Treasure
+| :----- | :---------------------------------------------------------------------
+| 1      | 2d20 jade carvings of heroes, monsters, and gods, each worth 200gp
+| 2      | 1d8 opal cameo portraits and intaglio erotic tableaux, each worth 800gp
+| 3      | 1d6 amethyst cylinder seals depicting religious scenes, each worth 1,200gp
+| 4-8    | 1 brilliant or 4d8 gems
 
 
 #### Roll 1d8 per trinket:
 
-d8     | Treasure
-:----- | :---------------------------------------------------------------------
-1      | 2d6 glass eyes, lenses, or prisms, each worth 1d6x10gp
-2      | 1d4 silver holy/unholy symbols, each worth 2d8x10gp
-3      | 3d6 bone fetishes and figurines, each worth 2d20gp
-4-8    | 1 trinket
+| d8     | Treasure
+| :----- | :---------------------------------------------------------------------
+| 1      | 2d6 glass eyes, lenses, or prisms, each worth 1d6x10gp
+| 2      | 1d4 silver holy/unholy symbols, each worth 2d8x10gp
+| 3      | 3d6 bone fetishes and figurines, each worth 2d20gp
+| 4-8    | 1 trinket
 
 
 #### Roll 1d8 per piece of jewelry:
 
-d8     | Treasure
-:----- | :---------------------------------------------------------------------
-1      | 1 rich fur cape, worth 4d6x100gp (1 stone)
-2      | 1 rich fur coat, worth 1d6x1000gp (1 stone)
-3      | 1d3 statuettes, worth 1d10x100gp (1 stone per 1d3 statuettes)
-4-8    | 1 piece of jewelry
+| d8     | Treasure
+| :----- | :---------------------------------------------------------------------
+| 1      | 1 rich fur cape, worth 4d6x100gp (1 stone)
+| 2      | 1 rich fur coat, worth 1d6x1000gp (1 stone)
+| 3      | 1d3 statuettes, worth 1d10x100gp (1 stone per 1d3 statuettes)
+| 4-8    | 1 piece of jewelry
 
 
 #### Roll 1d8 per regalia:
 
-d8     | Treasure
-:----- | :---------------------------------------------------------------------
-1      | 2d10 alabaster and jet game pieces with jeweled eyes, worth 3d6x100gp each
-2      | 1d4 platinum reliquaries with crystal panes, worth 1d8x1000gp each
-3      | 1d8 carved ivory netsuke and figurines, worth 1d4x1000 each
-4-8    | 1 regalia or 4d8 pieces of jewelry
+| d8     | Treasure
+| :----- | :---------------------------------------------------------------------
+| 1      | 2d10 alabaster and jet game pieces with jeweled eyes, worth 3d6x100gp each
+| 2      | 1d4 platinum reliquaries with crystal panes, worth 1d8x1000gp each
+| 3      | 1d8 carved ivory netsuke and figurines, worth 1d4x1000 each
+| 4-8    | 1 regalia or 4d8 pieces of jewelry
 
 
 ### Scavenging Treasure
@@ -272,41 +272,41 @@ Poor or low level adventurers may be so desperate for treasure that they scaveng
 
 #### Bladed Weapons
 
-d20   | Category              | Effect                   | Value
-:---- | :-------------------- | :----------------------- | -----:
-1-2   | Serviceable           | --                       | 100%
-3-6   | Blade dented          | -1 damage                | -20%
-7-10  | Blade rusty           | -1 damage                | -20%
-11-14 | Off balance           | -1 to attacks            | -20%
-15-16 | Loose hilt/haft       | -1 to initiative         | -20%
-17-18 | Shoddy construction   | breaks                   | -20%
-19-20 | Roll again twice      | --                       | --
+| d20   | Category              | Effect                   | Value
+| :---- | :-------------------- | :----------------------- | -----:
+| 1-2   | Serviceable           | --                       | 100%
+| 3-6   | Blade dented          | -1 damage                | -20%
+| 7-10  | Blade rusty           | -1 damage                | -20%
+| 11-14 | Off balance           | -1 to attacks            | -20%
+| 15-16 | Loose hilt/haft       | -1 to initiative         | -20%
+| 17-18 | Shoddy construction   | breaks                   | -20%
+| 19-20 | Roll again twice      | --                       | --
 
 
 #### Blunt Weapons
 
-d20   | Category              | Effect                   | Value
-:---- | :-------------------- | :----------------------- | -----:
-1-2   | Serviceable           | --                       | 100%
-3-6   | Soft head             | -1 damage                | -20%
-7-10  | Wobbly head           | -1 damage                | -20%
-11-14 | Off balance           | -1 to attacks            | -20%
-15-16 | Wobbly head           | -1 to initiative         | -20%
-17-18 | Shoddy construction   | breaks                   | -20%
-19-20 | Roll again twice      | --                       | --
+| d20   | Category              | Effect                   | Value
+| :---- | :-------------------- | :----------------------- | -----:
+| 1-2   | Serviceable           | --                       | 100%
+| 3-6   | Soft head             | -1 damage                | -20%
+| 7-10  | Wobbly head           | -1 damage                | -20%
+| 11-14 | Off balance           | -1 to attacks            | -20%
+| 15-16 | Wobbly head           | -1 to initiative         | -20%
+| 17-18 | Shoddy construction   | breaks                   | -20%
+| 19-20 | Roll again twice      | --                       | --
 
 
 #### Armor and Equipment
 
-d20   | Category              | Effect                   | Value
-:---- | :-------------------- | :----------------------- | -----:
-1-2   | Serviceable           | --                       | 100%
-3-6   | Broken straps         | +1 stone encumbrance     | -20%
-7-10  | Rattles if moved      | Cannot move silently     | -20%
-11-14 | Rotting               | -1 Armor Class / breaks  | -20%
-15-16 | Makeshift work        | -1 Armor Class / breaks  | -20%
-17-18 | Torn / ripped         | Breaks                   | -20%
-19-20 | Roll again twice      | --                       | --
+| d20   | Category              | Effect                   | Value
+| :---- | :-------------------- | :----------------------- | -----:
+| 1-2   | Serviceable           | --                       | 100%
+| 3-6   | Broken straps         | +1 stone encumbrance     | -20%
+| 7-10  | Rattles if moved      | Cannot move silently     | -20%
+| 11-14 | Rotting               | -1 Armor Class / breaks  | -20%
+| 15-16 | Makeshift work        | -1 Armor Class / breaks  | -20%
+| 17-18 | Torn / ripped         | Breaks                   | -20%
+| 19-20 | Roll again twice      | --                       | --
 
 
 Damage penalties cannot reduce weapon damage to less than 1 point. Armor Class or attack throw penalties cannot be worse than -5. Weapons and equipment susceptible to breaks will be destroyed if the character rolls an unmodified 1 when using the item.
@@ -326,274 +326,274 @@ In order to use a magic item, a character must follow any procedures indicated i
 
 #### Random Magic Type
 
-Roll d100   | Magic Type
-:---------- | :------------------------
-01-20       | Potions
-21-25       | Rings
-26-56       | Scrolls
-57-61       | Rods, Staffs, and Wands
-62-66       | Miscellaneous Magic
-67-87       | Swords
-88-92       | Miscellaneous Weapon
-93-100      | Armor
+| Roll d100   | Magic Type
+| :---------- | :------------------------
+| 01-20       | Potions
+| 21-25       | Rings
+| 26-56       | Scrolls
+| 57-61       | Rods, Staffs, and Wands
+| 62-66       | Miscellaneous Magic
+| 67-87       | Swords
+| 88-92       | Miscellaneous Weapon
+| 93-100      | Armor
 
 
 #### Potions
 
-Roll d100   | Potion
-:---------- | :------------------------
-01-03       | Animal Control
-04-06       | Clairaudience
-07-09       | Clairvoyance
-10-12       | Climbing
-13-17       | Delusion
-18-20       | Diminution
-21-23       | Dragon Control
-24-26       | ESP
-27-28       | Extra-Healing
-29-31       | Fire Resistance
-32-36       | Flying
-37-40       | Gaseous Form
-41-43       | Giant Control
-44-47       | Giant Strength
-48-50       | Growth
-51-54       | Healing
-55-58       | Heroism
-59-61       | Human Control
-62-64       | Invisibility
-65-66       | Invulnerability
-67-69       | Levitation
-70-71       | Longevity
-72-73       | Oil of Sharpness
-74-75       | Oil of Slipperiness
-76-78       | Philter of Love
-79-81       | Plant Control
-82-83       | Poison
-84-85       | Polymorph
-86-88       | Speed
-89-90       | Super-Heroism
-91-93       | Sweet Water
-94-95       | Treasure Finding
-96-97       | Undead Control
-98-100      | Water Breathing
+| Roll d100   | Potion
+| :---------- | :------------------------
+| 01-03       | Animal Control
+| 04-06       | Clairaudience
+| 07-09       | Clairvoyance
+| 10-12       | Climbing
+| 13-17       | Delusion
+| 18-20       | Diminution
+| 21-23       | Dragon Control
+| 24-26       | ESP
+| 27-28       | Extra-Healing
+| 29-31       | Fire Resistance
+| 32-36       | Flying
+| 37-40       | Gaseous Form
+| 41-43       | Giant Control
+| 44-47       | Giant Strength
+| 48-50       | Growth
+| 51-54       | Healing
+| 55-58       | Heroism
+| 59-61       | Human Control
+| 62-64       | Invisibility
+| 65-66       | Invulnerability
+| 67-69       | Levitation
+| 70-71       | Longevity
+| 72-73       | Oil of Sharpness
+| 74-75       | Oil of Slipperiness
+| 76-78       | Philter of Love
+| 79-81       | Plant Control
+| 82-83       | Poison
+| 84-85       | Polymorph
+| 86-88       | Speed
+| 89-90       | Super-Heroism
+| 91-93       | Sweet Water
+| 94-95       | Treasure Finding
+| 96-97       | Undead Control
+| 98-100      | Water Breathing
 
 
 #### Rings
 
-Roll d100      | Ring
-:------------- | :------------------------
-01-04          | Command Animal
-05-09          | Command Human
-10-15          | Command Plant
-16-25          | Delusion
-26-27          | Djinni Calling
-28-38          | Fire Resistance
-39-49          | Invisibility
-50-70          | Protection
-71-72          | Regeneration
-73-74          | Spell Storing
-75-79          | Spell Turning
-80-81          | Telekinesis
-82-87          | Water Walking
-88-94          | Weakness
-95-97          | Wishes
-98-100         | X-Ray Vision
+| Roll d100      | Ring
+| :------------- | :------------------------
+| 01-04          | Command Animal
+| 05-09          | Command Human
+| 10-15          | Command Plant
+| 16-25          | Delusion
+| 26-27          | Djinni Calling
+| 28-38          | Fire Resistance
+| 39-49          | Invisibility
+| 50-70          | Protection
+| 71-72          | Regeneration
+| 73-74          | Spell Storing
+| 75-79          | Spell Turning
+| 80-81          | Telekinesis
+| 82-87          | Water Walking
+| 88-94          | Weakness
+| 95-97          | Wishes
+| 98-100         | X-Ray Vision
 
 
 #### Scrolls
 
-Roll d100      | Scroll
-:------------- | :------------------------
-01-05          | Cursed
-06-15          | Ward against Elementals
-16-25          | Ward against Lycanthropes
-26-30          | Ward against Magic
-31-40          | Ward against Undead
-41-55          | Spells (1)*
-56-66          | Spells (2)*
-67-69          | Spells (3)*
-70-72          | Spells (4)*
-73-74          | Spells (5)*
-75             | Spells (6)*
-76             | Spells (7)*
-77-80          | Treasure Map (to 1d4x1000gp)
-81-85          | Treasure Map (to 5d6x1000gp)
-86-87          | Treasure Map (to 6d6x1000gp)
-88-89          | Treasure Map (to 5d6x1000gp, 5d6 gems)
-90-91          | Treasure Map (to 1d6 gems, 2d10 jewelry)
-92-93          | Treasure Map (to 1 magic item)
-94-95          | Treasure Map (to 2 magic items)
-96             | Treasure Map (to 3 magic items, no weapons)
-97             | Treasure Map (to 3 magic items, 1 potion)
-98             | Treasure Map (to 3 mag. it., 1 potion, 1 scroll)
-99             | Treasure Map (to 5d6x1000gp, 1 magic item)
-100            | Treasure Map (to 5d6 gems, 2 magic items)
+| Roll d100      | Scroll
+| :------------- | :------------------------
+| 01-05          | Cursed
+| 06-15          | Ward against Elementals
+| 16-25          | Ward against Lycanthropes
+| 26-30          | Ward against Magic
+| 31-40          | Ward against Undead
+| 41-55          | Spells (1)*
+| 56-66          | Spells (2)*
+| 67-69          | Spells (3)*
+| 70-72          | Spells (4)*
+| 73-74          | Spells (5)*
+| 75             | Spells (6)*
+| 76             | Spells (7)*
+| 77-80          | Treasure Map (to 1d4x1000gp)
+| 81-85          | Treasure Map (to 5d6x1000gp)
+| 86-87          | Treasure Map (to 6d6x1000gp)
+| 88-89          | Treasure Map (to 5d6x1000gp, 5d6 gems)
+| 90-91          | Treasure Map (to 1d6 gems, 2d10 jewelry)
+| 92-93          | Treasure Map (to 1 magic item)
+| 94-95          | Treasure Map (to 2 magic items)
+| 96             | Treasure Map (to 3 magic items, no weapons)
+| 97             | Treasure Map (to 3 magic items, 1 potion)
+| 98             | Treasure Map (to 3 mag. it., 1 potion, 1 scroll)
+| 99             | Treasure Map (to 5d6x1000gp, 1 magic item)
+| 100            | Treasure Map (to 5d6 gems, 2 magic items)
 
 *Roll 1d4; 1-3, Arcane; 4, Divine. The number in parentheses is the number of spells on the scroll. Determine the spell level and specific spells randomly.
 
 
 #### Rods, Staffs, and Wands
 
-Roll d100      | Type
-:------------- | :------------------------
-01-06          | Rod of Cancellation
-07-08          | Rod of Resurrection \[D\]
-09-10          | Staff of Commanding \[D\]
-11-20          | Staff of Healing \[D\]
-21-22          | Staff of Power \[A\]
-23-26          | Staff of Striking \[D\]
-27-28          | Staff of Withering \[D\]
-29             | Staff of Wizardry \[A\]
-30-36          | Staff of the Serpent \[D\]
-37-40          | Wand of Cold
-41-45          | Wand of Detecting Enemies
-46-50          | Wand of Detecting Magic
-51-55          | Wand of Detecting Metals
-56-60          | Wand of Detecting Secret Doors
-61-64          | Wand of Detecting Traps
-65-69          | Wand of Device Negation
-70-74          | Wand of Fear
-75-79          | Wand of Fire Balls
-80-84          | Wand of Illusion
-85-88          | Wand of Lightning Bolts
-89-93          | Wand of Magic Missiles
-94-96          | Wand of Paralyzation
-97-100         | Wand of Polymorphing
+| Roll d100      | Type
+| :------------- | :------------------------
+| 01-06          | Rod of Cancellation
+| 07-08          | Rod of Resurrection \[D\]
+| 09-10          | Staff of Commanding \[D\]
+| 11-20          | Staff of Healing \[D\]
+| 21-22          | Staff of Power \[A\]
+| 23-26          | Staff of Striking \[D\]
+| 27-28          | Staff of Withering \[D\]
+| 29             | Staff of Wizardry \[A\]
+| 30-36          | Staff of the Serpent \[D\]
+| 37-40          | Wand of Cold
+| 41-45          | Wand of Detecting Enemies
+| 46-50          | Wand of Detecting Magic
+| 51-55          | Wand of Detecting Metals
+| 56-60          | Wand of Detecting Secret Doors
+| 61-64          | Wand of Detecting Traps
+| 65-69          | Wand of Device Negation
+| 70-74          | Wand of Fear
+| 75-79          | Wand of Fire Balls
+| 80-84          | Wand of Illusion
+| 85-88          | Wand of Lightning Bolts
+| 89-93          | Wand of Magic Missiles
+| 94-96          | Wand of Paralyzation
+| 97-100         | Wand of Polymorphing
 
 
 #### Swords
 
-Roll d100      | Item
-:------------- | :------------------------
-01-39          | Sword +1
-40-44          | Sword +1, +2 versus lycanthropes
-45-49          | Sword +1, +2 versus spell casters
-50-53          | Sword +1, +3 versus undead
-54-57          | Sword +1, +3 versus dragons
-58-62          | Sword +1, +3 versus regenerating monsters
-63-67          | Sword +1, +3 versus summoned creatures
-68-75          | Sword +1, light 30' radius
-76-80          | Sword +1, Flame Tongue
-81             | Sword +1, Life Drinker
-82-84          | Sword +1, locate objects
-85             | Sword +1, Luck Blade
-86-89          | Sword +2
-90-91          | Sword +2, charm person
-92-94          | Sword +3
-95             | Sword +3, Frost Brand
-96             | Sword +3, Vorpal
-97-98          | Sword -1 (cursed)
-99-100         | Sword -2 (cursed)
+| Roll d100      | Item
+| :------------- | :------------------------
+| 01-39          | Sword +1
+| 40-44          | Sword +1, +2 versus lycanthropes
+| 45-49          | Sword +1, +2 versus spell casters
+| 50-53          | Sword +1, +3 versus undead
+| 54-57          | Sword +1, +3 versus dragons
+| 58-62          | Sword +1, +3 versus regenerating monsters
+| 63-67          | Sword +1, +3 versus summoned creatures
+| 68-75          | Sword +1, light 30' radius
+| 76-80          | Sword +1, Flame Tongue
+| 81             | Sword +1, Life Drinker
+| 82-84          | Sword +1, locate objects
+| 85             | Sword +1, Luck Blade
+| 86-89          | Sword +2
+| 90-91          | Sword +2, charm person
+| 92-94          | Sword +3
+| 95             | Sword +3, Frost Brand
+| 96             | Sword +3, Vorpal
+| 97-98          | Sword -1 (cursed)
+| 99-100         | Sword -2 (cursed)
 
 
 #### Miscellaneous Magic Items
 
-Roll d100      | Item
-:------------- | :------------------------
-01-02          | Amulet versus Crystal Balls and ESP
-03             | Apparatus of the Crab
-04-05          | Bag of Devouring
-06-10          | Bag of Holding
-11             | Boat, Folding
-12-14          | Boots of Levitation
-15-17          | Boots of Speed
-18-20          | Boots of Traveling and Springing
-21             | Bowl of Commanding Water Elementals
-22-23          | Bracers of Armor
-24             | Brazier of Commanding Fire Elementals
-25-26          | Brooch of Shielding
-27-29          | Broom of Flying
-30             | Censer of Controlling Air Elementals
-31             | Chime of Opening
-32-33          | Cloak of Protection
-34-36          | Crystal Ball
-37-38          | Crystal Ball with Clairaudience
-39             | Crystal Ball with ESP
-40             | Cube of Force
-41             | Cube of Frost Resistance
-42-43          | Decanter of Endless Water
-44-45          | Displacer Cloak
-46             | Drums of Panic
-47-49          | Dust of Appearance
-50-52          | Dust of Disappearance
-53             | Efreeti Bottle
-54-57          | Elven Cloak
-58-61          | Elven Boots
-62             | Eyes of Charming
-63-64          | Eyes of the Eagle
-65-67          | Eyes of Petrification
-68-71          | Flying Carpet
-72-74          | Gauntlets of Ogre Power
-75-77          | Girdle of Giant Strength
-78-80          | Helm of Alignment Changing
-81-84          | Helm of Comprehending Languages
-85             | Helm of Telepathy
-86             | Helm of Teleportation
-87             | Horn of Blasting
-88-90          | Medallion of ESP
-91-92          | Medallion of ESP (90')
-93             | Mirror of Life Trapping
-94             | Mirror of Opposition
-95             | Necklace of Adaptation
-96-97          | Rope of Climbing
-98-99          | Scarab of Protection
-100            | Stone of Controlling Earth Elementals
+| Roll d100      | Item
+| :------------- | :------------------------
+| 01-02          | Amulet versus Crystal Balls and ESP
+| 03             | Apparatus of the Crab
+| 04-05          | Bag of Devouring
+| 06-10          | Bag of Holding
+| 11             | Boat, Folding
+| 12-14          | Boots of Levitation
+| 15-17          | Boots of Speed
+| 18-20          | Boots of Traveling and Springing
+| 21             | Bowl of Commanding Water Elementals
+| 22-23          | Bracers of Armor
+| 24             | Brazier of Commanding Fire Elementals
+| 25-26          | Brooch of Shielding
+| 27-29          | Broom of Flying
+| 30             | Censer of Controlling Air Elementals
+| 31             | Chime of Opening
+| 32-33          | Cloak of Protection
+| 34-36          | Crystal Ball
+| 37-38          | Crystal Ball with Clairaudience
+| 39             | Crystal Ball with ESP
+| 40             | Cube of Force
+| 41             | Cube of Frost Resistance
+| 42-43          | Decanter of Endless Water
+| 44-45          | Displacer Cloak
+| 46             | Drums of Panic
+| 47-49          | Dust of Appearance
+| 50-52          | Dust of Disappearance
+| 53             | Efreeti Bottle
+| 54-57          | Elven Cloak
+| 58-61          | Elven Boots
+| 62             | Eyes of Charming
+| 63-64          | Eyes of the Eagle
+| 65-67          | Eyes of Petrification
+| 68-71          | Flying Carpet
+| 72-74          | Gauntlets of Ogre Power
+| 75-77          | Girdle of Giant Strength
+| 78-80          | Helm of Alignment Changing
+| 81-84          | Helm of Comprehending Languages
+| 85             | Helm of Telepathy
+| 86             | Helm of Teleportation
+| 87             | Horn of Blasting
+| 88-90          | Medallion of ESP
+| 91-92          | Medallion of ESP (90')
+| 93             | Mirror of Life Trapping
+| 94             | Mirror of Opposition
+| 95             | Necklace of Adaptation
+| 96-97          | Rope of Climbing
+| 98-99          | Scarab of Protection
+| 100            | Stone of Controlling Earth Elementals
 
 
 #### Miscellaneous Weapons
 
-Roll d100      | Weapon
-:------------- | :------------------------
-01-10          | Arrows +1 (quantity 2d6)
-11-12          | Arrows +1 (quantity 3d10)
-13-18          | Arrows +2 (quantity 1d6)
-19-21          | Arrows +3 (quantity 1d4)
-22             | Arrow +3, Slaying Arrow
-23-31          | Axe +1
-32-34          | Axe +2
-35-41          | Bow +1
-42-51          | Crossbow Bolts +1 (quantity 2d6)
-52-53          | Crossbow Bolts +1 (quantity 3d10)
-54-60          | Crossbow Bolts +2 (quantity 1d6)
-61-63          | Crossbow Bolts +3 (quantity 1d4)
-64-68          | Dagger +1
-69             | Dagger +2, +3 versus beastmen
-70-75          | Sling +1
-76-82          | Spear +1
-83-86          | Spear +2
-87             | Spear +3
-88-94          | War Hammer +1
-95-99          | War Hammer +2
-100            | War Hammer +2, Dwarven Thrower
+| Roll d100      | Weapon
+| :------------- | :------------------------
+| 01-10          | Arrows +1 (quantity 2d6)
+| 11-12          | Arrows +1 (quantity 3d10)
+| 13-18          | Arrows +2 (quantity 1d6)
+| 19-21          | Arrows +3 (quantity 1d4)
+| 22             | Arrow +3, Slaying Arrow
+| 23-31          | Axe +1
+| 32-34          | Axe +2
+| 35-41          | Bow +1
+| 42-51          | Crossbow Bolts +1 (quantity 2d6)
+| 52-53          | Crossbow Bolts +1 (quantity 3d10)
+| 54-60          | Crossbow Bolts +2 (quantity 1d6)
+| 61-63          | Crossbow Bolts +3 (quantity 1d4)
+| 64-68          | Dagger +1
+| 69             | Dagger +2, +3 versus beastmen
+| 70-75          | Sling +1
+| 76-82          | Spear +1
+| 83-86          | Spear +2
+| 87             | Spear +3
+| 88-94          | War Hammer +1
+| 95-99          | War Hammer +2
+| 100            | War Hammer +2, Dwarven Thrower
 
 
 #### Armor
 
-Roll d100      | Type
-:------------- | :------------------------
-01-15          | Armor +1
-16-25          | Armor +1 and Shield +1
-26-27          | Armor +1 and Shield +2
-28             | Armor +1 and Shield +3
-29-32          | Armor +2
-33-35          | Armor +2 and Shield +1
-36-38          | Armor +2 and Shield +2
-39             | Armor +2 and Shield +3
-40             | Armor +3
-41             | Armor +3 and Shield +1
-42             | Armor +3 and Shield +2
-43             | Armor +3 and Shield +3
-44-63          | Shield +1
-64-73          | Shield +2
-74-79          | Shield +3
-80-82          | Armor -1 (cursed)
-83-85          | Armor -2 (cursed)
-86             | Armor -1 (cursed) and Shield +1
-87             | Armor -2 (cursed) and Shield +1
-88-90          | Armor AC 0 (cursed)
-91-94          | Shield -1 (cursed)
-95-97          | Shield -2 (cursed)
-98-100         | Shield AC 0 (cursed)
+| Roll d100      | Type
+| :------------- | :------------------------
+| 01-15          | Armor +1
+| 16-25          | Armor +1 and Shield +1
+| 26-27          | Armor +1 and Shield +2
+| 28             | Armor +1 and Shield +3
+| 29-32          | Armor +2
+| 33-35          | Armor +2 and Shield +1
+| 36-38          | Armor +2 and Shield +2
+| 39             | Armor +2 and Shield +3
+| 40             | Armor +3
+| 41             | Armor +3 and Shield +1
+| 42             | Armor +3 and Shield +2
+| 43             | Armor +3 and Shield +3
+| 44-63          | Shield +1
+| 64-73          | Shield +2
+| 74-79          | Shield +3
+| 80-82          | Armor -1 (cursed)
+| 83-85          | Armor -2 (cursed)
+| 86             | Armor -1 (cursed) and Shield +1
+| 87             | Armor -2 (cursed) and Shield +1
+| 88-90          | Armor AC 0 (cursed)
+| 91-94          | Shield -1 (cursed)
+| 95-97          | Shield -2 (cursed)
+| 98-100         | Shield AC 0 (cursed)
 
 
 ## Magic Item Descriptions
@@ -654,13 +654,13 @@ Drinking a potion takes one round. Potions take effect in the same round as thei
 **Heroism**: Only an assassin, dwarven vaultguard, elven spellsword, explorer, or fighter may use this potion. Extra levels and their accompanied benefits to combat are temporarily granted to the imbiber, determined by his experience level as shown in the table below. Note that extra hit points granted due to the level increase are subtracted first when the character is wounded.
 
 
-Imbiber Level | Levels Granted
-------------: | :-------------
-0             | 4 (Fighter)
-1-3           | 3
-4-7           | 2
-8-10          | 1
-11+           | 0
+| Imbiber Level | Levels Granted
+| ------------: | :-------------
+| 0             | 4 (Fighter)
+| 1-3           | 3
+| 4-7           | 2
+| 8-10          | 1
+| 11+           | 0
 
 
 **Human Control**: Once this potion is quaffed, the drinker is able to control up to 3d6 Hit Dice of humans, demi-humans, and humanoids within 60' as if using a charm monster spell (normal men count as 1/2 Hit Die each). The targets may resist the effect with a successful saving throw versus Staffs. The controlled creatures will do whatever is commanded of them, subject to the normal limits of charm monster. and the controlled creatures will be hostile when the control ends.
@@ -702,13 +702,13 @@ Imbiber Level | Levels Granted
 **Super-Heroism**: Only assassins, dwarven vaultguards, elven spellswords, explorers, and fighters may use this potion. Extra levels and their accompanied benefits to combat are temporarily granted to the imbiber, determined by his or her experience level as shown in the table below. In all other respects this potion is identical to heroism.
 
 
-Imbiber Level | Levels Granted
-------------: | :-------------
-0             | 6 (Fighter)
-1-3           | 5
-4-7           | 4
-8-10          | 3
-11-12         | 2
+| Imbiber Level | Levels Granted
+| ------------: | :-------------
+| 0             | 6 (Fighter)
+| 1-3           | 5
+| 4-7           | 4
+| 8-10          | 3
+| 11-12         | 2
 
 
 **Sweet Water**: This sweet-tasting liquid can be used to cleanse water (including turning saltwater into fresh water) or otherwise transform poisons, acid, and other non-potables into drinkable liquid. Further, sweet water will destroy other potions. For most liquids, this potion will affect up to 100,000 feet cubed. However, only 1,000 feet cubed of acid can be neutralized. The effects of sweet water are permanent, and once treated, liquid will resist spoilage or contamination for 5d4 rounds. After this time it can be contaminated once again.
@@ -751,13 +751,13 @@ All magical rings are usable by any character class. They must be worn on a digi
 **Protection**: This ring has several different power levels. For each "+", the ring will increase the wearer's AC by this amount, and grant the wearer this bonus to all saving throws. For example, if a character with an AC of 0 is wearing a ring of protection +2, his AC becomes 2 and all saving throws are rolled with a +2 bonus. When a ring of protection is found, roll on the table below to determine which kind.
 
 
-Roll d100  | Bonus
-:--------- | :-------------
-01-80      | +1
-81-91      | +2
-92         | +2, 5' radius
-93-99      | +3
-100        | +3, 5' radius
+| Roll d100  | Bonus
+| :--------- | :-------------
+| 01-80      | +1
+| 81-91      | +2
+| 92         | +2, 5' radius
+| 93-99      | +3
+| 100        | +3, 5' radius
 
 
 Where a radius is given, all creatures within the radius of the ring gain its bonus to saving throws. Only the wearer of the ring gains the ring's bonus to Armor Class.
@@ -794,14 +794,14 @@ Most scrolls are pieces of parchment, imbued with the magical writings of a spel
 A character must be able to read the language in which the scroll is written in order to use the scroll. An arcane spellcaster can use read languages to be able to use a scroll in an unfamiliar language. Some scrolls can be used by any character that can read them, while other scrolls have additional restrictions on their use beyond being able to read the language. These will be discussed below.
 
 
-Roll 1d100         | Language
-:----------------- | :------------
-01-20              | Old Common
-21-30              | Common
-31-50              | Draconic
-51-70              | Dwarven
-71-90              | Elven
-91-100             | Ancient
+| Roll 1d100         | Language
+| :----------------- | :------------
+| 01-20              | Old Common
+| 21-30              | Common
+| 31-50              | Draconic
+| 51-70              | Dwarven
+| 71-90              | Elven
+| 91-100             | Ancient
 
 
 #### Scroll of Spells
@@ -813,37 +813,37 @@ When determining the contents of a scroll of spells, roll first to determine the
 
 #### Scroll Type
 
-Roll d4        | Type
-:------------- | :------
-1-3            | Arcane
-4              | Divine
+| Roll d4        | Type
+| :------------- | :------
+| 1-3            | Arcane
+| 4              | Divine
 
 
 #### Arcane Spell Level
 
-Roll d100      | Spell Level            
-:------------- | :--------------------- 
-01-25          | 1                      
-26-50          | 2                      
-51-70          | 3                      
-71-85          | 4                      
-86-95          | 5                      
-96-97          | 6                      
-98             | 7                      
-99             | 8
-100            | 9
+| Roll d100      | Spell Level            
+| :------------- | :--------------------- 
+| 01-25          | 1                      
+| 26-50          | 2                      
+| 51-70          | 3                      
+| 71-85          | 4                      
+| 86-95          | 5                      
+| 96-97          | 6                      
+| 98             | 7                      
+| 99             | 8
+| 100            | 9
 
 #### Divine Spell Level
 
-Roll d100      | Spell Level   
-:------------- | :-----------  
-01-25          | 1             
-26-50          | 2             
-51-70          | 3             
-71-85          | 4             
-86-95          | 5             
-96-98          | 6             
-99-100         | 7             
+| Roll d100      | Spell Level   
+| :------------- | :-----------  
+| 01-25          | 1             
+| 26-50          | 2             
+| 51-70          | 3             
+| 71-85          | 4             
+| 86-95          | 5             
+| 96-98          | 6             
+| 99-100         | 7             
 
 
 #### Cursed Scroll
@@ -851,14 +851,14 @@ Roll d100      | Spell Level
 A cursed scroll inflicts a horrible curse upon the reader. The Judge has considerable flexibility in determining the effects of the curse. A curse may only be removed with the spell remove curse. The Judge might also allow the curse to be lifted if the character performs a special quest. Some possible curses are provided below, but any similar curse might be used instead.
 
 
-Roll d6 | Effect
-:------ | :-------------------------------------------------------------------
-1       | The victim loses a random magic item.
-2       | One random ability score suffers a -4 penalty.
-3       | The victim may not gain new experience.
-4       | The victim's level is reduced by 1.
-5       | The victim is polymorphed, as polymorph other, into a small animal.
-6       | The victim is rendered blind.
+| Roll d6 | Effect
+| :------ | :-------------------------------------------------------------------
+| 1       | The victim loses a random magic item.
+| 2       | One random ability score suffers a -4 penalty.
+| 3       | The victim may not gain new experience.
+| 4       | The victim's level is reduced by 1.
+| 5       | The victim is polymorphed, as polymorph other, into a small animal.
+| 6       | The victim is rendered blind.
 
 
 #### Scrolls of Warding
@@ -894,14 +894,14 @@ Each of these magic items generally uses a "charge" when its effect is triggered
 **Rod of Resurrection \[D\]**: A cleric or other divine spellcaster of any level may use this rod one time per day to raise beings from the dead as the resurrection ritual spell. The caster using this rod does not need to rest after expending charges from the rod. Different kinds of characters may be resurrected, and each type requires a different number of charges. When all charges from the rod are used, it crumbles into dust.
 
 
-Charges            | Character Type
-:----------------- | :---------------------
-2                  | Cleric or Bladedancer
-4                  | Dwarf (any)
-7                  | Elf (any)
-3                  | Fighter or Explorer
-4                  | Mage or Bard
-4                  | Thief or Assassin
+| Charges            | Character Type
+| :----------------- | :---------------------
+| 2                  | Cleric or Bladedancer
+| 4                  | Dwarf (any)
+| 7                  | Elf (any)
+| 3                  | Fighter or Explorer
+| 4                  | Mage or Bard
+| 4                  | Thief or Assassin
 
 
 **Staff of Commanding \[D\]**: This staff may be used to command plants, animals, and humans in the same manner as the rings command animal, command human, and command plant. Each use requires one charge.
@@ -976,18 +976,18 @@ Charges            | Character Type
 **Apparatus of the Crab**: This item appears to be a large, sealed iron barrel, but it has a secret catch that opens a hatch in one end. Anyone who crawls inside finds ten levers. The device has the following characteristics: hp 200; Move 30' forward, 60' backward; AC 0; #AT 2 pinchers; Dmg 2d6. When attacking with the pinchers, the attack throws required are the same as the operator's, and if a hit is scored, there is a chance that both pinchers strike, for a total of 4d6 points of damage (roll of 1-5 on 1d20).
 
 
-Lever    | Lever Function
-:------- | :-----------------------------------------------------
-1        | Extend/retract legs and tail
-2        | Uncover/cover forward porthole
-3        | Uncover/cover side portholes
-4        | Extend/retract pincers and feelers
-5        | Snap pincers
-6        | Move forward/backward
-7        | Turn left/right
-8        | Open "eyes" with continual light inside/close "eyes"
-9        | Rise/sink in water (levitate)
-10       | Open/close hatch
+| Lever    | Lever Function
+| :------- | :-----------------------------------------------------
+| 1        | Extend/retract legs and tail
+| 2        | Uncover/cover forward porthole
+| 3        | Uncover/cover side portholes
+| 4        | Extend/retract pincers and feelers
+| 5        | Snap pincers
+| 6        | Move forward/backward
+| 7        | Turn left/right
+| 8        | Open "eyes" with continual light inside/close "eyes"
+| 9        | Rise/sink in water (levitate)
+| 10       | Open/close hatch
 
 
 Two characters of human size can fit inside. The device can function in water up to 900 feet deep. It holds enough air for a crew of two to survive 1d4+1 hours (twice as long for a single occupant). When activated, the apparatus looks something like a giant lobster.
@@ -1017,15 +1017,15 @@ Two characters of human size can fit inside. The device can function in water up
 **Bracers of Armor**: These items appear to be wrist or arm guards. They grant the wearer an AC as though he were wearing armor. Both bracers must be worn for the magic to be effective, and no other armor may be worn with the bracers (magical or non-magical). Dexterity modifiers do apply. The protection offered by the bracers can be combined with other magical effects that alter AC, such as a ring of protection or cloak of protection. Roll on the table below to determine which kind of bracers are found.
 
 
-Roll d100 | AC Granted
-:-------- | :----------
-01-06     | 1
-07-16     | 2
-17-36     | 3
-37-51     | 4
-52-71     | 5
-72-86     | 6
-87-100    | 7
+| Roll d100 | AC Granted
+| :-------- | :----------
+| 01-06     | 1
+| 07-16     | 2
+| 17-36     | 3
+| 37-51     | 4
+| 52-71     | 5
+| 72-86     | 6
+| 87-100    | 7
 
 
 Some of these (5%) will be cursed, actually lowering the wearer's AC to 0, regardless of DEX modifiers or magical means of lowering AC. It will not be realized that the bracers are cursed until the wearer enters combat. These bracers may only be removed with the spell remove curse.
@@ -1049,11 +1049,11 @@ Some of these (5%) will be cursed, actually lowering the wearer's AC to 0, regar
 **Cloak of Protection**: This magical cloak appears to be an ordinary brown cloth or leather cloak. The cloak functions much like a ring of protection, offering a bonus to the wearer's AC and all saving throws. These bonuses are cumulative if the cloak is worn with a ring of protection.
 
 
-Roll d100 | Bonus
-:-------- | ----:
-01-80     | +1
-81-91     | +2
-92-100    | +3
+| Roll d100 | Bonus
+| :-------- | ----:
+| 01-80     | +1
+| 81-91     | +2
+| 92-100    | +3
 
 **Crystal Ball**: Any arcane spellcaster may use this coveted magic item to see images of distant creatures, objects, or places. The more familiar the user is with the creature, object or place viewed, the clearer the images will be. Each viewing can last for up to 1 turn, and the crystal ball may be used 3 times per day. The user of the crystal ball is unable to communicate to or cast spells at what he views.
 
@@ -1069,26 +1069,26 @@ Roll d100 | Bonus
 Spells that affect the integrity of the screen also drain extra charges. These spells (given in the list below) cannot be cast into or out of the cube:
 
 
-CubeFace   | Charge Cost Per Turn   | Maximum Speed        | Effect
----------: | ---------------------: | -------------------: | :-----------------------------
-1          | 1                      | 10'                  | Keeps out gases, wind, etc.
-2          | 2                      | 80'                  | Keeps out nonliving matter
-3          | 3                      | 60'                  | Keeps out living matter
-4          | 4                      | 40'                  | Keeps out magic
-5          | 6                      | 30'                  | Keeps out all things
-6          | 0                      | As normal            | Deactivates
+| CubeFace   | Charge Cost Per Turn   | Maximum Speed        | Effect
+| ---------: | ---------------------: | -------------------: | :-----------------------------
+| 1          | 1                      | 10'                  | Keeps out gases, wind, etc.
+| 2          | 2                      | 80'                  | Keeps out nonliving matter
+| 3          | 3                      | 60'                  | Keeps out living matter
+| 4          | 4                      | 40'                  | Keeps out magic
+| 5          | 6                      | 30'                  | Keeps out all things
+| 6          | 0                      | As normal            | Deactivates
 
 
-Attack Form           | Extra Charges     
-:-------------------- | --------------:   
-Horn of blasting      | 6
-Wall of fire          | 2
-Passwall              | 3
-Disintegrate          | 6
-Lightning bolt        | 4
-Lava, other hot fires | 2
-Magical fire          | 4
-Phase Door            | 5
+| Attack Form           | Extra Charges     
+| :-------------------- | --------------:   
+| Horn of blasting      | 6
+| Wall of fire          | 2
+| Passwall              | 3
+| Disintegrate          | 6
+| Lightning bolt        | 4
+| Lava, other hot fires | 2
+| Magical fire          | 4
+| Phase Door            | 5
 
 
 **Cube of Frost Resistance**: This cube is activated or deactivated by pressing one side. When activated, it creates a cube-shaped area 10' on a side centered on the possessor (or on the cube itself, if the item is later placed on a surface). The temperature within this area is always at least 65^0F. The field absorbs all cold-based attacks. However, if the field is subjected to more than 50 points of cold damage in 1 turn (from one or multiple attacks), it collapses into its portable form and cannot be reactivated for 1 hour. If the field absorbs more than 100 points of cold damage in a turn, the cube is destroyed.
@@ -1196,16 +1196,16 @@ Cursed items have the opposite effect, incurring penalties based on the negative
 Magical armor of the non-cursed variety is lighter and less cumbersome than other armor. Refer to the table below for magical armor weights and for rolling up the kind of armor found by a party. For each additional +1 after the first, reduce the weight by an additional stone, to a minimum of 0.
 
 
-Roll d100    | Armor Type       | Unmodified AC     | Magic Weight (stone)
-:----------- | :--------------- | ----------------: | ---------------------:
-01-05        | Hide Armor       | 1                 | 0
-06-30        | Leather Armor    | 2                 | 1
-31-35        | Ring Mail        | 3                 | 2
-36-40        | Scale Armor      | 3                 | 2
-41-65        | Chain Mail       | 4                 | 3
-66-70        | Banded Plate     | 5                 | 4
-71-75        | Lamellar Armor   | 5                 | 4
-76-100       | Plate Armor      | 6                 | 5
+| Roll d100    | Armor Type       | Unmodified AC     | Magic Weight (stone)
+| :----------- | :--------------- | ----------------: | ---------------------:
+| 01-05        | Hide Armor       | 1                 | 0
+| 06-30        | Leather Armor    | 2                 | 1
+| 31-35        | Ring Mail        | 3                 | 2
+| 36-40        | Scale Armor      | 3                 | 2
+| 41-65        | Chain Mail       | 4                 | 3
+| 66-70        | Banded Plate     | 5                 | 4
+| 71-75        | Lamellar Armor   | 5                 | 4
+| 76-100       | Plate Armor      | 6                 | 5
 
 
 ### Swords
@@ -1243,28 +1243,28 @@ Other powers beyond having a "+" to their attacks and damage sometimes apply to 
 **Arrow +3, Slaying Arrow**: This arrow +3 is keyed to a particular type of creature. If it strikes such a creature, the target instantly dies, with no saving throw. Against any other target the arrow functions as an arrow +3. These arrows are often adorned with decorations that imply the creature they can slay. To determine the type of creature the arrow is keyed to, roll on the table below. The Judge may add to this list, or choose an appropriate creature type for the situation.
 
 
-Roll 1d20  | Type
----------: | :----------------------
-1          | Avians*
-2          | Beastmen
-3          | Clerics
-4          | Dragons
-5          | Dwarves
-6          | Elementals
-7          | Elves
-8          | Fighters
-9          | Giants
-10         | Giant animals
-11         | Golems
-12         | Mages
-13         | Mammals*
-14         | Plant-like monsters
-15         | Regenerating monsters
-16         | Reptiles*
-17         | Sea creatures*
-18         | Thieves
-19         | Undead
-20         | Vermin*
+| Roll 1d20  | Type
+| ---------: | :----------------------
+| 1          | Avians*
+| 2          | Beastmen
+| 3          | Clerics
+| 4          | Dragons
+| 5          | Dwarves
+| 6          | Elementals
+| 7          | Elves
+| 8          | Fighters
+| 9          | Giants
+| 10         | Giant animals
+| 11         | Golems
+| 12         | Mages
+| 13         | Mammals*
+| 14         | Plant-like monsters
+| 15         | Regenerating monsters
+| 16         | Reptiles*
+| 17         | Sea creatures*
+| 18         | Thieves
+| 19         | Undead
+| 20         | Vermin*
 
 *Including normal and giant creatures of this type, but not sentient creatures
 
@@ -1285,14 +1285,14 @@ If a weapon is sentient, determine its Intelligence, Alignment, Ego, Willpower, 
 The first step to creating a sentient weapon is to roll for its Intelligence. The Intelligence ability score will determine how many additional powers the sword possesses. Consult the table below.
 
 
-Roll 1d6      | INT        | Detection Powers    | Spell-like Powers            | Communication
-------------: | ---------: | ------------------: | ---------------------------: | :-----------------------
-1             | 7          | 1                   | 0                            | Empathy
-2             | 8          | 2                   | 0                            | Empathy
-3             | 9          | 3                   | 0                            | Empathy
-4             | 10         | 3                   | 0                            | Speech
-5             | 11         | 3                   | 0                            | Speech, Read Languages
-6             | 12         | 3                   | 1                            | Speech, Read Languages
+| Roll 1d6      | INT        | Detection Powers    | Spell-like Powers            | Communication
+| ------------: | ---------: | ------------------: | ---------------------------: | :-----------------------
+| 1             | 7          | 1                   | 0                            | Empathy
+| 2             | 8          | 2                   | 0                            | Empathy
+| 3             | 9          | 3                   | 0                            | Empathy
+| 4             | 10         | 3                   | 0                            | Speech
+| 5             | 11         | 3                   | 0                            | Speech, Read Languages
+| 6             | 12         | 3                   | 1                            | Speech, Read Languages
 
 
 When a sword communicates through empathy, no actual words are exchanged between it and its wielder, but the wielder becomes intuitively aware of the powers the sword possesses and how these can be employed. A sword capable of speech actually produces an audible voice and speaks to those around it. Sentient weapons capable of read languages do so as the arcane spell, but the ability is always active.
@@ -1300,14 +1300,14 @@ When a sword communicates through empathy, no actual words are exchanged between
 In addition to knowing the language of its maker, sentient weapons will understand an additional number of languages to be determined below.
 
 
-Roll 1d20  | Languages Known
-:--------- | :---------------
-01-10      | 1
-11-14      | 2
-15-17      | 3
-18         | 4
-19         | 5
-20         | Roll twice and combine, ignoring this result
+| Roll 1d20  | Languages Known
+| :--------- | :---------------
+| 01-10      | 1
+| 11-14      | 2
+| 15-17      | 3
+| 18         | 4
+| 19         | 5
+| 20         | Roll twice and combine, ignoring this result
 
 
 #### Alignment
@@ -1315,11 +1315,11 @@ Roll 1d20  | Languages Known
 Every sentient weapon will have an alignment. This alignment is undetectable until the sword is touched. A character may only wield a sword that shares the same alignment, and if he attempts to handle a sword of a different alignment he will suffer damage each round. The severity of the damage is related to the degree of difference of alignment. For each degree of difference, the character will suffer 1d6 points of damage. For example, a chaotic sword will inflict 1d6 hp damage to a neutral character; it will inflict 2d6 hp damage to a lawful character. For this reason, a neutral sword will only ever inflict 1d6 points of damage. Roll on the chart below to determine a sentient weapon's alignment.
 
 
-Roll d100     | Sword Alignment
-:------------ | :---------------
-01-10         | Chaotic
-11-30         | Neutral
-31-100        | Lawful
+| Roll d100     | Sword Alignment
+| :------------ | :---------------
+| 01-10         | Chaotic
+| 11-30         | Neutral
+| 31-100        | Lawful
 
 
 #### Ego and Willpower
@@ -1349,18 +1349,18 @@ Sentient weapons have a 5% probability of having a particular motivation (roll 0
 
 Roll on the table below to determine a sentient weapon's motivation. Alternatively, the Judge may choose an opponent type based on differing characteristics (all reptiles, beings of a certain religion, etc.).
 
-Roll 1d10 | Destroy Opponent Type...
---------: | -------------------------
- 1        | Judge's choice
- 2        | Beastmen
- 3        | Constructs
- 4        | Fantastic Creatures
- 5        | Giant Humanoids
- 6        | Humans & Demi-humans
- 7        | Summoned Creatures
- 8        | Oozes & Vermin
- 9        | Undead
-10        | Opposed alignment (lawful if chaotic, chaotic if lawful, either if neutral
+| Roll 1d10 | Destroy Opponent Type...
+| --------: | -------------------------
+|  1        | Judge's choice
+|  2        | Beastmen
+|  3        | Constructs
+|  4        | Fantastic Creatures
+|  5        | Giant Humanoids
+|  6        | Humans & Demi-humans
+|  7        | Summoned Creatures
+|  8        | Oozes & Vermin
+|  9        | Undead
+| 10        | Opposed alignment (lawful if chaotic, chaotic if lawful, either if neutral
 
 
 When a sentient weapon is used to attack an opponent that fits its motivation, a special power is used against the opponent. These powers are determined by the alignment of the sword. A chaotic sword will energy drain an opponent of the appropriate type by one level per point of magical bonus. A lawful sword will strike an opponent of the appropriate type for one extra damage die per point of magical bonus. A neutral sword will grants the sword wielder a bonus to Armor Class and saving throws equals to its magical bonus when combating an appropriate opponent.
@@ -1377,38 +1377,38 @@ Detection powers allow the sword to detect any of a number of possible items or 
 
 #### Detection Powers
 
-Roll d100       | Detect                | Additional Details
-:-------------- | :-------------------- | :------------------
-01-10           | Enemies               | As the wand
-11-20           | Evil                  | As the spell
-21-30           | Good                  | As the spell
-31-45           | Magic                 | As the spell
-46-60           | Metals                | As the wand
-61-70           | Invisible or hidden   | As the spell
-71-80           | Secret doors          | As the wand
-81-90           | Traps                 | As the spell
-91-95           | Roll two times        | -
-96-100          | Spell-like Power (1)  | -
+| Roll d100       | Detect                | Additional Details
+| :-------------- | :-------------------- | :------------------
+| 01-10           | Enemies               | As the wand
+| 11-20           | Evil                  | As the spell
+| 21-30           | Good                  | As the spell
+| 31-45           | Magic                 | As the spell
+| 46-60           | Metals                | As the wand
+| 61-70           | Invisible or hidden   | As the spell
+| 71-80           | Secret doors          | As the wand
+| 81-90           | Traps                 | As the spell
+| 91-95           | Roll two times        | -
+| 96-100          | Spell-like Power (1)  | -
 
 
 #### Spell-like Powers
 
-Roll d100      | Power            | Additional Details
-:------------- | :--------------- | :-----------------------------------------------------
-01-10          | Clairaudience    | As clairvoyance, below, but audible instead of visual
-11-20          | Clairvoyance     | As the spell
-21-25          | Double damage    | See below*
-26-35          | ESP              | As the spell
-36-40          | Fly              | As the spell, for 9 turns
-41-45          | Regenerate       | See below**
-46-50          | Levitate         | As the spell, for 15 turns
-51-57          | Phant. Force     | As the spell
-58-67          | Telekinesis      | As a ring of telekinesis
-68-77          | Telepathy        | As a helm of telepathy
-78-86          | Teleportation    | As the spell
-87-96          | X-Ray Vision     | As a ring of x-ray vision
-97-99          | Roll twice       | -
-00             | Roll three times | -
+| Roll d100      | Power            | Additional Details
+| :------------- | :--------------- | :-----------------------------------------------------
+| 01-10          | Clairaudience    | As clairvoyance, below, but audible instead of visual
+| 11-20          | Clairvoyance     | As the spell
+| 21-25          | Double damage    | See below*
+| 26-35          | ESP              | As the spell
+| 36-40          | Fly              | As the spell, for 9 turns
+| 41-45          | Regenerate       | See below**
+| 46-50          | Levitate         | As the spell, for 15 turns
+| 51-57          | Phant. Force     | As the spell
+| 58-67          | Telekinesis      | As a ring of telekinesis
+| 68-77          | Telepathy        | As a helm of telepathy
+| 78-86          | Teleportation    | As the spell
+| 87-96          | X-Ray Vision     | As a ring of x-ray vision
+| 97-99          | Roll twice       | -
+| 00             | Roll three times | -
 
 
 *Damage is doubled for 1d10 rounds. This table result can be combined if rolled more than once. If rolled twice, damage is x4, if rolled three times, damage is x6. This effect does not influence the attack throw.
@@ -1422,14 +1422,14 @@ In any campaign, adventurers will seek to buy and sell magic items. ACKS assumes
 
 #### Magic Item Transactions by Market Class
 
-Price                  | Class I   | Class II  | Class III | Class IV | Class V   | Class VI
----------------------: | --------: | --------: | --------: | -------: | --------: | --------:
-1gp or less            | 1,700     | 585       | 260       | 65       | 30        | 10
-2gp-10gp               | 100       | 30        | 15        | 5        | 1         | 1
-11-100gp               | 15        | 5         | 2         | 1        | 25%       | 10%
-101-1,000gp            | 7         | 2         | 1         | 25%      | 10%       | 5%
-1,001-10,000gp         | 2         | 1         | 25%       | 10%      | 5%        | 1%
-10,001gp or more       | 10%       | 5%        | 2%        | NA       | NA        | NA
+| Price                  | Class I   | Class II  | Class III | Class IV | Class V   | Class VI
+| ---------------------: | --------: | --------: | --------: | -------: | --------: | --------:
+| 1gp or less            | 1,700     | 585       | 260       | 65       | 30        | 10
+| 2gp-10gp               | 100       | 30        | 15        | 5        | 1         | 1
+| 11-100gp               | 15        | 5         | 2         | 1        | 25%       | 10%
+| 101-1,000gp            | 7         | 2         | 1         | 25%      | 10%       | 5%
+| 1,001-10,000gp         | 2         | 1         | 25%       | 10%      | 5%        | 1%
+| 10,001gp or more       | 10%       | 5%        | 2%        | NA       | NA        | NA
 
 
 #### Selling Magic Items

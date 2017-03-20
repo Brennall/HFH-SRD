@@ -42,15 +42,15 @@ When complete, your character will have a score ranging from 3 to 18 in each of 
 
 #### Ability Score
 
-Ability Score | Bonus/Penalty
-:------------ | ------------:
-3             |            -3
-4-5           |            -2
-6-8           |            -1
-9-12          |             0
-13-15         |            +1
-16-17         |            +2
-18            |            +3
+| Ability Score | Bonus/Penalty
+| :------------ | ------------:
+| 3             |            -3
+| 4-5           |            -2
+| 6-8           |            -1
+| 9-12          |             0
+| 13-15         |            +1
+| 16-17         |            +2
+| 18            |            +3
 
 **Strength**: As the name implies, this ability measures the character's raw physical power. Strength is a prime requisite for assassins, explorers, dwarven vaultguards, elven spellswords, and fighters. Apply the ability bonus or penalty for Strength to all attack throws and damage rolls in melee (hand-to-hand) combat. Note that a penalty here will not reduce damage from a successful attack below one point, unless the target is otherwise invulnerable to the attack (see the [Adventures](Chapter06.md#chapter-6-adventures) chapter for details).
 
@@ -79,11 +79,11 @@ If a character's prime requisite ability is high enough, the character will rece
 
 #### Ability Prime Requisite
 
-Score | Experience Adjustment
-:---- | --------------------:
-9-12  |                    0%
-13-15 |                   +5%
-16-18 |                  +10%
+| Score | Experience Adjustment
+| :---- | --------------------:
+| 9-12  |                    0%
+| 13-15 |                   +5%
+| 16-18 |                  +10%
 
 Once a player has selected his character class, he may raise the class's prime requisite ability or abilities if desired by sacrificing points in other abilities. 2 ability points may be sacrificed from an ability to raise a prime requisite ability 1 point. This may be done more than once, but no ability can be lowered below 9, and no ability may be lowered if it is also a prime requisite for the class, even if there are a few points to spare above the minimum required score.
 
@@ -111,11 +111,11 @@ Selecting equipment and proficiencies can be time-consuming, especially for new 
 
 ### Fighter
 
-Prime Requisite: | STR
-:--------------- | :---
-Requirements:    | None
-Hit Dice:        | 1d8
-Maximum Level:   | 14
+| Prime Requisite: | STR
+| :--------------- | :---
+| Requirements:    | None
+| Hit Dice:        | 1d8
+| Maximum Level:   | 14
 
 Fighters are exclusively trained in the arts of combat and war. They are specialists at dealing physical blows. Fighters may have learned their arts as warriors, gladiators battling for glory in the arena, raiders, or sell-swords in the games of the noble houses.
 
@@ -126,59 +126,59 @@ When a fighter reaches 5th level (Exemplar), his battlefield prowess inspires ot
 At 9th level (Warlord), a fighter can, assuming enough gold is at hand, build a castle and become a great leader of men, taking a leadership rank in his society. When he does so, up 1d4+1x10 0th level mercenaries and 1d6 fighters of 1st-3rd level will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries. Through force of arms, the fighter may ultimately control several castles or even entire realms, but must be a capable, strong leader and provide protection. Additional rules for castles are detailed in the [Campaigns](Chapter07.md#chapter-7-campaigns) chapter.
 
 
-Template:           | Mercenary
-:------------------ | :--------
-Proficiencies:      | Combat Reflexes, Manual of Arms
-Starting Equipment: | Well-oiled sword, metal shield re-painted many times, slightly battered chainmail armor, crossbow, case with 20 quarrels,  military tunic, boots, backpack, 2 week's iron rations
+| Template:           | Mercenary
+| :------------------ | :--------
+| Proficiencies:      | Combat Reflexes, Manual of Arms
+| Starting Equipment: | Well-oiled sword, metal shield re-painted many times, slightly battered chainmail armor, crossbow, case with 20 quarrels,  military tunic, boots, backpack, 2 week's iron rations
 
 This pre-generated template represents a wary sellsword. The template is ready for adventure. However, if your fighter's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4).
 
 
 #### Fighter Level Progression
 
-Experience | Title             | Level | Hit Dice | Damage Bonus
----------: | :---------------- | ----: | :------- | -----------:
-         0 | Man-at-Arms       |     1 | 1d8      |           +1
-     2,000 | Warrior           |     2 | 2d8      |           +1
-     4,000 | Swordmaster       |     3 | 3d8      |           +2
-     8,000 | Hero              |     4 | 4d8      |           +2
-    16,000 | Exemplar          |     5 | 5d8      |           +2
-    32,000 | Myrmidon          |     6 | 6d8      |           +3
-    65,000 | Champion          |     7 | 7d8      |           +3
-   130,000 | Epic Hero         |     8 | 8d8      |           +3
-   250,000 | Warlord           |     9 | 9d8      |           +4
-   370,000 | Warlord, 10th lvl |    10 | 9d8+2*   |           +4
-   490,000 | Warlord, 11th lvl |    11 | 9d8+4*   |           +4
-   610,000 | Warlord, 12th lvl |    12 | 9d8+6*   |           +5
-   730,000 | Warlord, 13th lvl |    13 | 9d8+8*   |           +5
-   850,000 | Overlord          |    14 | 9d8+10*  |           +5
+| Experience | Title             | Level | Hit Dice | Damage Bonus
+| ---------: | :---------------- | ----: | :------- | -----------:
+|          0 | Man-at-Arms       |     1 | 1d8      |           +1
+|      2,000 | Warrior           |     2 | 2d8      |           +1
+|      4,000 | Swordmaster       |     3 | 3d8      |           +2
+|      8,000 | Hero              |     4 | 4d8      |           +2
+|     16,000 | Exemplar          |     5 | 5d8      |           +2
+|     32,000 | Myrmidon          |     6 | 6d8      |           +3
+|     65,000 | Champion          |     7 | 7d8      |           +3
+|    130,000 | Epic Hero         |     8 | 8d8      |           +3
+|    250,000 | Warlord           |     9 | 9d8      |           +4
+|    370,000 | Warlord, 10th lvl |    10 | 9d8+2*   |           +4
+|    490,000 | Warlord, 11th lvl |    11 | 9d8+4*   |           +4
+|    610,000 | Warlord, 12th lvl |    12 | 9d8+6*   |           +5
+|    730,000 | Warlord, 13th lvl |    13 | 9d8+8*   |           +5
+|    850,000 | Overlord          |    14 | 9d8+10*  |           +5
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Fighter Attack and Saving Throws
 
-Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-:---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
-1     |                       15+ |            14+ |            16+ |            16+ |    17+ |          10+
-2-3   |                       14+ |            13+ |            15+ |            15+ |    16+ |           9+
-4     |                       13+ |            12+ |            14+ |            14+ |    15+ |           8+
-5-6   |                       12+ |            11+ |            13+ |            13+ |    14+ |           7+
-7     |                       11+ |            10+ |            12+ |            12+ |    13+ |           6+
-8-9   |                       10+ |             9+ |            11+ |            11+ |    12+ |           5+
-10    |                        9+ |             8+ |            10+ |            10+ |    11+ |           4+
-11-12 |                        8+ |             7+ |             9+ |             9+ |    10+ |           3+
-13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+
-14    |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+| 1     |                       15+ |            14+ |            16+ |            16+ |    17+ |          10+
+| 2-3   |                       14+ |            13+ |            15+ |            15+ |    16+ |           9+
+| 4     |                       13+ |            12+ |            14+ |            14+ |    15+ |           8+
+| 5-6   |                       12+ |            11+ |            13+ |            13+ |    14+ |           7+
+| 7     |                       11+ |            10+ |            12+ |            12+ |    13+ |           6+
+| 8-9   |                       10+ |             9+ |            11+ |            11+ |    12+ |           5+
+| 10    |                        9+ |             8+ |            10+ |            10+ |    11+ |           4+
+| 11-12 |                        8+ |             7+ |             9+ |             9+ |    10+ |           3+
+| 13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+
+| 14    |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
 
 
 ### Mage
 
-Prime Requisite: | INT
-:--------------- | :---
-Requirements:    | None
-Hit Dice:        | 1d4
-Maximum Level:   | 14
+| Prime Requisite: | INT
+| :--------------- | :---
+| Requirements:    | None
+| Hit Dice:        | 1d4
+| Maximum Level:   | 14
 
 Sometimes called wizards, sorcerers, or magicians, mages study arcane secrets and cast spells. While early in their career mages have only limited power, experienced mages are able to cast a great number of powerful spells. A mage may be a wizard steeped in ancient lore, a sinister sorcerer, or a village witch or hedge wizard with strange charms and hodge-podge traditions.
 
@@ -191,54 +191,54 @@ When a mage reaches 5th level (Thaumaturge), he may begin to research spells, sc
 At 11th level, a mage may learn and cast ritual arcane spells of great power (7th, 8th, and 9th level), craft magical constructs, and create magical cross-breeds. If chaotic, the mage may create necromantic servants and become undead. These rules are in the [Campaigns](Chapter07.md#chapter-7-campaigns) chapter.
 
 
-Template:           | Magical Scholar
-:------------------ | :--------------
-Proficiencies:      | Loremastery, Collegiate Wizardry
-Starting Equipment: | Rune-etched quarterstaff, blue mage's cassock, shoes, backpack,  spell book with sleep, 2  week's iron rations, 85gp
+| Template:           | Magical Scholar
+| :------------------ | :--------------
+| Proficiencies:      | Loremastery, Collegiate Wizardry
+| Starting Equipment: | Rune-etched quarterstaff, blue mage's cassock, shoes, backpack,  spell book with sleep, 2  week's iron rations, 85gp
 
 This pre-generated template represents a curious magical scholar from an organized guild of mages. The template is ready for adventure. However, if your mage's INT is 13 or greater, you may pick one or more additional general proficiencies and starting spells before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4 and [Spell Repertoire](Chapter05.md#spell-repertoire) in Chapter 5).
 
 
 #### Mage Level and Spell Progression
 
-Experience | Title            | Level | Hit Dice |   1 |   2 |   3 |   4 |   5 |   6
----------: | :--------------- | ----: | :------- | --: | --: | --: | --: | --: | --:
-         0 | Arcanist         |     1 | 1d4      |   1 |   - |   - |   - |   - |   -
-     2,500 | Seer             |     2 | 2d4      |   2 |   - |   - |   - |   - |   -
-     5,000 | Theurgist        |     3 | 3d4      |   2 |   1 |   - |   - |   - |   -
-    10,000 | Magician         |     4 | 4d4      |   2 |   2 |   - |   - |   - |   -
-    20,000 | Thaumaturge      |     5 | 5d4      |   2 |   2 |   1 |   - |   - |   -
-    40,000 | Enchanter        |     6 | 6d4      |   2 |   2 |   2 |   - |   - |   -
-    80,000 | Sorcerer         |     7 | 7d4      |   3 |   2 |   2 |   1 |   - |   -
-   160,000 | Mage             |     8 | 8d4      |   3 |   3 |   2 |   2 |   - |   -
-   310,000 | Wizard           |     9 | 9d4      |   3 |   3 |   3 |   2 |   1 |   -
-   460,000 | Wizard, 10th lvl |    10 | 9d4+1*   |   3 |   3 |   3 |   3 |   2 |   -
-   610,000 | Wizard, 11th lvl |    11 | 9d4+2*   |   4 |   3 |   3 |   3 |   2 |   1
-   760,000 | Wizard, 12th lvl |    12 | 9d4+3*   |   4 |   4 |   3 |   3 |   3 |   2
-   910,000 | Wizard, 13th lvl |    13 | 9d4+4*   |   4 |   4 |   4 |   3 |   3 |   2
- 1,060,000 | Archmage         |    14 | 9d4+5*   |   4 |   4 |   4 |   4 |   3 |   3
+| Experience | Title            | Level | Hit Dice |   1 |   2 |   3 |   4 |   5 |   6
+| ---------: | :--------------- | ----: | :------- | --: | --: | --: | --: | --: | --:
+|          0 | Arcanist         |     1 | 1d4      |   1 |   - |   - |   - |   - |   -
+|      2,500 | Seer             |     2 | 2d4      |   2 |   - |   - |   - |   - |   -
+|      5,000 | Theurgist        |     3 | 3d4      |   2 |   1 |   - |   - |   - |   -
+|     10,000 | Magician         |     4 | 4d4      |   2 |   2 |   - |   - |   - |   -
+|     20,000 | Thaumaturge      |     5 | 5d4      |   2 |   2 |   1 |   - |   - |   -
+|     40,000 | Enchanter        |     6 | 6d4      |   2 |   2 |   2 |   - |   - |   -
+|     80,000 | Sorcerer         |     7 | 7d4      |   3 |   2 |   2 |   1 |   - |   -
+|    160,000 | Mage             |     8 | 8d4      |   3 |   3 |   2 |   2 |   - |   -
+|    310,000 | Wizard           |     9 | 9d4      |   3 |   3 |   3 |   2 |   1 |   -
+|    460,000 | Wizard, 10th lvl |    10 | 9d4+1*   |   3 |   3 |   3 |   3 |   2 |   -
+|    610,000 | Wizard, 11th lvl |    11 | 9d4+2*   |   4 |   3 |   3 |   3 |   2 |   1
+|    760,000 | Wizard, 12th lvl |    12 | 9d4+3*   |   4 |   4 |   3 |   3 |   3 |   2
+|    910,000 | Wizard, 13th lvl |    13 | 9d4+4*   |   4 |   4 |   4 |   3 |   3 |   2
+|  1,060,000 | Archmage         |    14 | 9d4+5*   |   4 |   4 |   4 |   4 |   3 |   3
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Mage Attack and Saving Throws
 
-Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-:---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
-1-3   |                       13+ |            13+ |            15+ |            11+ |    12+ |          10+
-4-6   |                       12+ |            12+ |            14+ |            10+ |    11+ |           9+
-7-9   |                       11+ |            11+ |            13+ |             9+ |    10+ |           8+
-10-12 |                       10+ |            10+ |            12+ |             8+ |     9+ |           7+
-13-14 |                        9+ |             9+ |            11+ |             7+ |     8+ |           6+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+| 1-3   |                       13+ |            13+ |            15+ |            11+ |    12+ |          10+
+| 4-6   |                       12+ |            12+ |            14+ |            10+ |    11+ |           9+
+| 7-9   |                       11+ |            11+ |            13+ |             9+ |    10+ |           8+
+| 10-12 |                       10+ |            10+ |            12+ |             8+ |     9+ |           7+
+| 13-14 |                        9+ |             9+ |            11+ |             7+ |     8+ |           6+
 
 
 ### Cleric
 
-Prime Requisite: | WIS
-:--------------- | :---
-Requirements:    | None
-Hit Dice:        | 1d6
-Maximum Level:   | 14
+| Prime Requisite: | WIS
+| :--------------- | :---
+| Requirements:    | None
+| Hit Dice:        | 1d6
+| Maximum Level:   | 14
 
 Clerics are holy crusaders, trained to fight to further the ends of their faith. Humans who become clerics have pledged their lives to serve a particular deity or religion. To this end, they conduct their lives in a way that furthers the desires and will of their gods or goddesses. A cleric may be a priest-militant, a cultist sworn to the chthonic powers of the Nether Darkness, or anything in between.
 
@@ -267,73 +267,73 @@ When a cleric reaches 5th level (Vicar), he may begin to research spells, scribe
 Upon attaining 9th level (Patriarch), a cleric may establish or build a fortified church. So long as the cleric is currently in favor with his god, he may buy or build his fortified church at half the normal price due to divine intervention. Once a fortified church is established, the cleric's reputation will spread and he will attract 5d6x10 0th level soldiers armed with various weapons, plus another 1d6 clerics of 1st-3rd level of the same religion to serve the order. They are completely loyal (morale +4). While in the cleric's service, his followers must be provided food and lodging, but need not be paid wages. The Judge determines which proportions of followers are archers, infantry, etc. Additional rules for fortified churches are detailed in the [Campaigns](Chapter07.md#chapter-7-campaigns) chapter.
 
 
-Template:           | Priest
-:------------------ | :-----
-Proficiencies:      | Divine Blessing, Theology
-Starting Equipment: | Mace, wooden shield, banded plate armor, priest's cassock, shoes, backpack, 2 week's iron rations, holy symbol, holy book
+| Template:           | Priest
+| :------------------ | :-----
+| Proficiencies:      | Divine Blessing, Theology
+| Starting Equipment: | Mace, wooden shield, banded plate armor, priest's cassock, shoes, backpack, 2 week's iron rations, holy symbol, holy book
 
 This pre-generated template represents a devout priest from an organized religious order. The template is ready for adventure. However, if your cleric's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4).
 
 
 #### Cleric Level and Spell Progression
 
-Experience | Title               | Level | Hit Dice |   1 |   2 |   3 |   4 |   5
----------: | :------------------ | ----: | :------- | --: | --: | --: | --: | --:
-         0 | Catechist           |     1 | 1d6      |   - |   - |   - |   - |   -
-     1,500 | Acolyte             |     2 | 2d6      |   1 |   - |   - |   - |   -
-     3,000 | Priest              |     3 | 3d6      |   2 |   - |   - |   - |   -
-     6,000 | Curate              |     4 | 4d6      |   2 |   1 |   - |   - |   -
-    12,000 | Vicar               |     5 | 5d6      |   2 |   2 |   - |   - |   -
-    24,000 | Rector              |     6 | 6d6      |   2 |   2 |   1 |   1 |   -
-    50,000 | Prelate             |     7 | 7d6      |   2 |   2 |   2 |   1 |   1
-   100,000 | Bishop              |     8 | 8d6      |   3 |   3 |   2 |   2 |   1
-   200,000 | Patriarch           |     9 | 9d6      |   3 |   3 |   3 |   2 |   2
-   300,000 | Patriarch, 10th lvl |    10 | 9d6+1*   |   4 |   4 |   3 |   3 |   2
-   400,000 | Patriarch, 11th lvl |    11 | 9d6+2*   |   4 |   4 |   4 |   3 |   3
-   500,000 | Patriarch, 12th lvl |    12 | 9d6+3*   |   5 |   5 |   4 |   4 |   3
-   600,000 | Patriarch, 13th lvl |    13 | 9d6+4*   |   5 |   5 |   5 |   4 |   3
-   700,000 | Theocrat            |    14 | 9d6+5*   |   6 |   5 |   5 |   5 |   4
+| Experience | Title               | Level | Hit Dice |   1 |   2 |   3 |   4 |   5
+| ---------: | :------------------ | ----: | :------- | --: | --: | --: | --: | --:
+|          0 | Catechist           |     1 | 1d6      |   - |   - |   - |   - |   -
+|      1,500 | Acolyte             |     2 | 2d6      |   1 |   - |   - |   - |   -
+|      3,000 | Priest              |     3 | 3d6      |   2 |   - |   - |   - |   -
+|      6,000 | Curate              |     4 | 4d6      |   2 |   1 |   - |   - |   -
+|     12,000 | Vicar               |     5 | 5d6      |   2 |   2 |   - |   - |   -
+|     24,000 | Rector              |     6 | 6d6      |   2 |   2 |   1 |   1 |   -
+|     50,000 | Prelate             |     7 | 7d6      |   2 |   2 |   2 |   1 |   1
+|    100,000 | Bishop              |     8 | 8d6      |   3 |   3 |   2 |   2 |   1
+|    200,000 | Patriarch           |     9 | 9d6      |   3 |   3 |   3 |   2 |   2
+|    300,000 | Patriarch, 10th lvl |    10 | 9d6+1*   |   4 |   4 |   3 |   3 |   2
+|    400,000 | Patriarch, 11th lvl |    11 | 9d6+2*   |   4 |   4 |   4 |   3 |   3
+|    500,000 | Patriarch, 12th lvl |    12 | 9d6+3*   |   5 |   5 |   4 |   4 |   3
+|    600,000 | Patriarch, 13th lvl |    13 | 9d6+4*   |   5 |   5 |   5 |   4 |   3
+|    700,000 | Theocrat            |    14 | 9d6+5*   |   6 |   5 |   5 |   5 |   4
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Cleric Attack and Saving Throws
 
-Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-:---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
-1-2   |                       13+ |            10+ |            16+ |            13+ |    15+ |          10+
-3-4   |                       12+ |             9+ |            15+ |            12+ |    14+ |           9+
-5-6   |                       11+ |             8+ |            14+ |            11+ |    13+ |           8+
-7-8   |                       10+ |             7+ |            13+ |            10+ |    12+ |           7+
-9-10  |                        9+ |             6+ |            12+ |             9+ |    11+ |           6+
-11-12 |                        8+ |             5+ |            11+ |             8+ |    10+ |           5+
-13-14 |                        7+ |             4+ |            10+ |             7+ |     9+ |           4+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+| 1-2   |                       13+ |            10+ |            16+ |            13+ |    15+ |          10+
+| 3-4   |                       12+ |             9+ |            15+ |            12+ |    14+ |           9+
+| 5-6   |                       11+ |             8+ |            14+ |            11+ |    13+ |           8+
+| 7-8   |                       10+ |             7+ |            13+ |            10+ |    12+ |           7+
+| 9-10  |                        9+ |             6+ |            12+ |             9+ |    11+ |           6+
+| 11-12 |                        8+ |             5+ |            11+ |             8+ |    10+ |           5+
+| 13-14 |                        7+ |             4+ |            10+ |             7+ |     9+ |           4+
 
 
 #### Cleric Turning Undead by Cleric Level
 
-Undead Type |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |  10 |  11 |  12 |  13 | 14+
-:---------- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --:
-Skeleton    | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D |   D |   D
-Zombie      | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D |   D
-Ghoul       | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D
-Wight       | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D
-Wraith      |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D
-Mummy       |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D
-Spectre     |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D
-Vampire     |   - |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D
-Infernal*   |   - |   - |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D
+| Undead Type |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |  10 |  11 |  12 |  13 | 14+
+| :---------- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --:
+| Skeleton    | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D |   D |   D
+| Zombie      | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D |   D
+| Ghoul       | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D
+| Wight       | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D
+| Wraith      |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D
+| Mummy       |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D
+| Spectre     |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D
+| Vampire     |   - |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D
+| Infernal*   |   - |   - |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D
 
 *This category includes very powerful undead, or unholy beings such as demons and devils
 
 
 ### Thief
 
-Prime Requisite: | DEX
-:--------------- | :---
-Requirements:    | None
-Hit Dice:        | 1d4
-Maximum Level:   | 14
+| Prime Requisite: | DEX
+| :--------------- | :---
+| Requirements:    | None
+| Hit Dice:        | 1d4
+| Maximum Level:   | 14
 
 Thieves have a range of unique skills associated with their profession that make them very handy companions in adventures. However, thieves can be a bit shady and they sometimes are not as trustworthy as other classes. A thief will usually belong to a Thieves' Guild from the character's local town, where he can seek shelter and information between adventures. At the Judge's discretion, a thief may have to forfeit a portion of his earnings to the guild in exchange for protection. Thieves are everywhere, from the slums to the highest halls of the government.
 
@@ -364,67 +364,67 @@ When a thief attains 9th level (Master Thief), he can establish a hideout, and 2
 At 10th level, a thief can read and cast magic from arcane scrolls with a proficiency throw of 3+ on 1d20. However, a failed throw means the spell does not function as expected, and can create a horrible effect at the Judge's discretion.
 
 
-Template:           | Tomb Raider
-:------------------ | :----------
-Proficiencies:      | Trap Finding, Mapping
-Starting Equipment: | 10' pole, short sword, 2 throwing daggers,  crossbow, case with 20 quarrels, sturdy leather armor, tanned brown cloak, thick tunic and leggings, high boots, backpack, 2 large treasure sacks, thieves' tools, 50' rope, tinderbox, lantern, hammer and 12 iron spikes, 2 flasks of military oil, wineskin, 2 week's iron rations, 20sp
+| Template:           | Tomb Raider
+| :------------------ | :----------
+| Proficiencies:      | Trap Finding, Mapping
+| Starting Equipment: | 10' pole, short sword, 2 throwing daggers,  crossbow, case with 20 quarrels, sturdy leather armor, tanned brown cloak, thick tunic and leggings, high boots, backpack, 2 large treasure sacks, thieves' tools, 50' rope, tinderbox, lantern, hammer and 12 iron spikes, 2 flasks of military oil, wineskin, 2 week's iron rations, 20sp
 
 This pre-generated template represents a bold tomb raider. The template is ready for adventure. However, if your thief's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4).
 
 
 #### Thief Level Progression
 
-Experience | Title                    | Level | Hit Dice | Backstab
----------: | :----------------------- | ----: | :------- | -------:
-         0 | Footpad                  |     1 | 1d4      |       x2
-     1,250 | Hood                     |     2 | 2d4      |       x2
-     2,500 | Robber                   |     3 | 3d4      |       x2
-     5,000 | Burglar                  |     4 | 4d4      |       x2
-    10,000 | Rogue                    |     5 | 5d4      |       x3
-    20,000 | Scoundrel                |     6 | 6d4      |       x3
-    40,000 | Pilferer                 |     7 | 7d4      |       x3
-    80,000 | Thief                    |     8 | 8d4      |       x3
-   180,000 | Master Thief             |     9 | 9d4      |       x4
-   280,000 | Master Thief, 10th level |    10 | 9d4+2*   |       x4
-   380,000 | Master Thief, 11th level |    11 | 9d4+4*   |       x4
-   480,000 | Master Thief, 12th level |    12 | 9d4+6*   |       x4
-   580,000 | Master Thief, 13th level |    13 | 9d4+8*   |       x5
-   680,000 | Prince of Thieves        |    14 | 9d4+10*  |       x5
+| Experience | Title                    | Level | Hit Dice | Backstab
+| ---------: | :----------------------- | ----: | :------- | -------:
+|          0 | Footpad                  |     1 | 1d4      |       x2
+|      1,250 | Hood                     |     2 | 2d4      |       x2
+|      2,500 | Robber                   |     3 | 3d4      |       x2
+|      5,000 | Burglar                  |     4 | 4d4      |       x2
+|     10,000 | Rogue                    |     5 | 5d4      |       x3
+|     20,000 | Scoundrel                |     6 | 6d4      |       x3
+|     40,000 | Pilferer                 |     7 | 7d4      |       x3
+|     80,000 | Thief                    |     8 | 8d4      |       x3
+|    180,000 | Master Thief             |     9 | 9d4      |       x4
+|    280,000 | Master Thief, 10th level |    10 | 9d4+2*   |       x4
+|    380,000 | Master Thief, 11th level |    11 | 9d4+4*   |       x4
+|    480,000 | Master Thief, 12th level |    12 | 9d4+6*   |       x4
+|    580,000 | Master Thief, 13th level |    13 | 9d4+8*   |       x5
+|    680,000 | Prince of Thieves        |    14 | 9d4+10*  |       x5
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Thief Attack and Saving Throws
 
-Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-:----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
-1-2    |                       13+ |            13+ |            16+ |            14+ |    15+ |          10+
-3-4    |                       12+ |            12+ |            15+ |            13+ |    14+ |           9+
-5-6    |                       11+ |            11+ |            14+ |            12+ |    13+ |           8+
-7-8    |                       10+ |            10+ |            13+ |            11+ |    12+ |           7+
-9-10   |                        9+ |             9+ |            12+ |            10+ |    11+ |           6+
-11-12  |                        8+ |             8+ |            11+ |             9+ |    10+ |           5+
-13-14+ |                        7+ |             7+ |            10+ |             8+ |     9+ |           4+
+| Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+| 1-2    |                       13+ |            13+ |            16+ |            14+ |    15+ |          10+
+| 3-4    |                       12+ |            12+ |            15+ |            13+ |    14+ |           9+
+| 5-6    |                       11+ |            11+ |            14+ |            12+ |    13+ |           8+
+| 7-8    |                       10+ |            10+ |            13+ |            11+ |    12+ |           7+
+| 9-10   |                        9+ |             9+ |            12+ |            10+ |    11+ |           6+
+| 11-12  |                        8+ |             8+ |            11+ |             9+ |    10+ |           5+
+| 13-14+ |                        7+ |             7+ |            10+ |             8+ |     9+ |           4+
 
 
 #### Thief Skills
 
-Level | Open Locks | Find and Remove Traps | Pick Pockets* | Move Silently | Climb Walls | Hide in Shadows | Hear Noise
-:---- | ---------: | --------------------: | ------------: | ------------: | ----------: | --------------: | ---------:
-    1 |        18+ |                   18+ |           17+ |           17+ |          6+ |             19+ |        14+
-    2 |        17+ |                   17+ |           16+ |           16+ |          5+ |             18+ |        13+
-    3 |        16+ |                   16+ |           15+ |           15+ |          5+ |             17+ |        12+
-    4 |        15+ |                   15+ |           14+ |           14+ |          4+ |             16+ |        11+
-    5 |        14+ |                   14+ |           13+ |           13+ |          4+ |             15+ |        10+
-    6 |        12+ |                   13+ |           12+ |           12+ |          4+ |             14+ |         9+
-    7 |        10+ |                   11+ |           10+ |           10+ |          3+ |             12+ |         8+
-    8 |         8+ |                    9+ |            8+ |            8+ |          3+ |             10+ |         7+
-    9 |         6+ |                    7+ |            6+ |            6+ |          3+ |              8+ |         6+
-   10 |         4+ |                    5+ |            4+ |            4+ |          3+ |              6+ |         5+
-   11 |         3+ |                    3+ |            2+ |            2+ |          2+ |              4+ |         4+
-   12 |         2+ |                    2+ |           -1+ |            2+ |          2+ |              3+ |         3+
-   13 |         1+ |                    2+ |           -3+ |            1+ |          1+ |              2+ |         2+
-   14 |         1+ |                    1+ |           -5+ |            1+ |          1+ |              1+ |         1+
+| Level | Open Locks | Find and Remove Traps | Pick Pockets* | Move Silently | Climb Walls | Hide in Shadows | Hear Noise
+| :---- | ---------: | --------------------: | ------------: | ------------: | ----------: | --------------: | ---------:
+|     1 |        18+ |                   18+ |           17+ |           17+ |          6+ |             19+ |        14+
+|     2 |        17+ |                   17+ |           16+ |           16+ |          5+ |             18+ |        13+
+|     3 |        16+ |                   16+ |           15+ |           15+ |          5+ |             17+ |        12+
+|     4 |        15+ |                   15+ |           14+ |           14+ |          4+ |             16+ |        11+
+|     5 |        14+ |                   14+ |           13+ |           13+ |          4+ |             15+ |        10+
+|     6 |        12+ |                   13+ |           12+ |           12+ |          4+ |             14+ |         9+
+|     7 |        10+ |                   11+ |           10+ |           10+ |          3+ |             12+ |         8+
+|     8 |         8+ |                    9+ |            8+ |            8+ |          3+ |             10+ |         7+
+|     9 |         6+ |                    7+ |            6+ |            6+ |          3+ |              8+ |         6+
+|    10 |         4+ |                    5+ |            4+ |            4+ |          3+ |              6+ |         5+
+|    11 |         3+ |                    3+ |            2+ |            2+ |          2+ |              4+ |         4+
+|    12 |         2+ |                    2+ |           -1+ |            2+ |          2+ |              3+ |         3+
+|    13 |         1+ |                    2+ |           -3+ |            1+ |          1+ |              2+ |         2+
+|    14 |         1+ |                    1+ |           -5+ |            1+ |          1+ |              1+ |         1+
 
 *-1 penalty on the proficiency throw per each level the thief is lower than the victim.
 
@@ -434,11 +434,11 @@ Level | Open Locks | Find and Remove Traps | Pick Pockets* | Move Silently | Cli
 
 ### Assassin
 
-Prime Requisite: | STR and DEX
-:--------------- | :----------
-Requirements:    | None
-Hit Dice:        | 1d6
-Maximum Level:   | 14
+| Prime Requisite: | STR and DEX
+| :--------------- | :----------
+| Requirements:    | None
+| Hit Dice:        | 1d6
+| Maximum Level:   | 14
 
 Assassins are humans who train to kill by ambush and treachery. Assassins may be back-alley brawlers, violent thugs, or members of an organized guild. Some assassins are members of an order of Assassins, a religious brotherhood of trained killers, or are simply murders-for-hire or rogues with a taste for violence.
 
@@ -451,59 +451,59 @@ Assassins may wear any type of armor, but most favor stealth over steel. When we
 Upon reaching 9th level (Assassin), an assassin may construct a hideout. When an assassin builds a hideout, he will gain 2d6 1st level assassin apprentices, come to learn under a master. If hired, they must be paid standard rates for ruffians. These thugs will serve the character with some loyalty, though at least one will be an infiltrator working for the assassin's local rivals, sent to keep an eye on the character. Additional rules for hideouts are detailed in the [Campaigns](Chapter07.md#chapter-7-campaigns) chapter.
 
 
-Template:           | Bravo
-:------------------ | :----
-Proficiencies:      | Fighting Style (Two-Weapon Fighting), Intimidation
-Starting Equipment: | Serrated sword, left-hand dagger, black leather armor, armiger's tunic, duelist's cloak, high boots, belt pouch with bone dice made from last foe, backpack, 2 week's iron rations, 36gp
+| Template:           | Bravo
+| :------------------ | :----
+| Proficiencies:      | Fighting Style (Two-Weapon Fighting), Intimidation
+| Starting Equipment: | Serrated sword, left-hand dagger, black leather armor, armiger's tunic, duelist's cloak, high boots, belt pouch with bone dice made from last foe, backpack, 2 week's iron rations, 36gp
 
 This pre-generated template represents a swaggering killer-for-hire. The template is ready for adventure. However, if your assassin's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4).
 
 
 #### Assassin Level Progression
 
-Experience | Title                       | Level | Hit Dice | Damage Bonus | Backstab
----------: | :-------------------------- | ----: | :------- | -----------: | -------:
-         0 | Thug                        |     1 | 1d6      |           +1 |       x2
-     1,700 | Enforcer                    |     2 | 2d6      |           +1 |       x2
-     3,400 | Torturer                    |     3 | 3d6      |           +2 |       x2
-     6,800 | Slayer                      |     4 | 4d6      |           +2 |       x2
-    14,000 | Destroyer                   |     5 | 5d6      |           +2 |       x3
-    28,000 | Executioner                 |     6 | 6d6      |           +3 |       x3
-    55,000 | Blackguard                  |     7 | 7d6      |           +3 |       x3
-   110,000 | Assassin                    |     8 | 8d6      |           +3 |       x3
-   230,000 | Master Assassin             |     9 | 9d6      |           +4 |       x4
-   350,000 | Master Assassin, 10th level |    10 | 9d6+2*   |           +4 |       x4
-   470,000 | Master Assassin, 11th level |    11 | 9d6+4*   |           +4 |       x4
-   590,000 | Master Assassin, 12th level |    12 | 9d6+6*   |           +5 |       x4
-   710,000 | Master Assassin, 13th level |    13 | 9d6+8*   |           +5 |       x5
-   830,000 | Grandfather of Assassins    |    14 | 9d6+10*  |           +5 |       x5
+| Experience | Title                       | Level | Hit Dice | Damage Bonus | Backstab
+| ---------: | :-------------------------- | ----: | :------- | -----------: | -------:
+|          0 | Thug                        |     1 | 1d6      |           +1 |       x2
+|      1,700 | Enforcer                    |     2 | 2d6      |           +1 |       x2
+|      3,400 | Torturer                    |     3 | 3d6      |           +2 |       x2
+|      6,800 | Slayer                      |     4 | 4d6      |           +2 |       x2
+|     14,000 | Destroyer                   |     5 | 5d6      |           +2 |       x3
+|     28,000 | Executioner                 |     6 | 6d6      |           +3 |       x3
+|     55,000 | Blackguard                  |     7 | 7d6      |           +3 |       x3
+|    110,000 | Assassin                    |     8 | 8d6      |           +3 |       x3
+|    230,000 | Master Assassin             |     9 | 9d6      |           +4 |       x4
+|    350,000 | Master Assassin, 10th level |    10 | 9d6+2*   |           +4 |       x4
+|    470,000 | Master Assassin, 11th level |    11 | 9d6+4*   |           +4 |       x4
+|    590,000 | Master Assassin, 12th level |    12 | 9d6+6*   |           +5 |       x4
+|    710,000 | Master Assassin, 13th level |    13 | 9d6+8*   |           +5 |       x5
+|    830,000 | Grandfather of Assassins    |    14 | 9d6+10*  |           +5 |       x5
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Assassin (Fighter) Attack and Saving Throws
 
-Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-:---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
-1     |                       15+ |            14+ |            16+ |            16+ |    17+ |          10+
-2-3   |                       14+ |            13+ |            15+ |            15+ |    16+ |           9+
-4     |                       13+ |            12+ |            14+ |            14+ |    15+ |           8+
-5-6   |                       12+ |            11+ |            13+ |            13+ |    14+ |           7+
-7     |                       11+ |            10+ |            12+ |            12+ |    13+ |           6+
-8-9   |                       10+ |             9+ |            11+ |            11+ |    12+ |           5+
-10    |                        9+ |             8+ |            10+ |            10+ |    11+ |           4+
-11-12 |                        8+ |             7+ |             9+ |             9+ |    10+ |           3+
-13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+
-14    |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+| 1     |                       15+ |            14+ |            16+ |            16+ |    17+ |          10+
+| 2-3   |                       14+ |            13+ |            15+ |            15+ |    16+ |           9+
+| 4     |                       13+ |            12+ |            14+ |            14+ |    15+ |           8+
+| 5-6   |                       12+ |            11+ |            13+ |            13+ |    14+ |           7+
+| 7     |                       11+ |            10+ |            12+ |            12+ |    13+ |           6+
+| 8-9   |                       10+ |             9+ |            11+ |            11+ |    12+ |           5+
+| 10    |                        9+ |             8+ |            10+ |            10+ |    11+ |           4+
+| 11-12 |                        8+ |             7+ |             9+ |             9+ |    10+ |           3+
+| 13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+
+| 14    |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
 
 
 ### Bard
 
-Prime Requisite: | DEX and CHA
-:--------------- | :----------
-Requirements:    | None
-Hit Dice:        | 1d6
-Maximum Level:   | 14
+| Prime Requisite: | DEX and CHA
+| :--------------- | :----------
+| Requirements:    | None
+| Hit Dice:        | 1d6
+| Maximum Level:   | 14
 
 Successful adventurers live forever in the sagas and songs about their deeds. Remembering and recounting these sagas is the profession of bards. Most bards are content to recite the deeds of others, but some bold few participate in the dangers themselves and become inspiring heroes in their own right. A bard might be an adventuring minstrel with a sword in his hand and a song at his lips, a warrior-skald, or haughty aristocrat.
 
@@ -526,75 +526,75 @@ Upon reaching 9th level (Bard), a bard can build a hall and become a ruler. When
 At 10th level, the bard can read and cast magic from arcane scrolls with a proficiency throw of 3+ on 1d20. However, a failed throw means the spell does not function as expected, and can create a horrible effect at the Judge's discretion.
 
 
-Template:           | Wandering Minstrel
-:------------------ | :-----------------
-Proficiencies:      | Magical Music, Diplomacy
-Starting Equipment: | Crossbow, quiver with 20 bolts, short sword, dagger, well-maintained leather armor, traveler's tunic and sturdy boots, backpack, musical instrument, 2 week's iron rations
+| Template:           | Wandering Minstrel
+| :------------------ | :-----------------
+| Proficiencies:      | Magical Music, Diplomacy
+| Starting Equipment: | Crossbow, quiver with 20 bolts, short sword, dagger, well-maintained leather armor, traveler's tunic and sturdy boots, backpack, musical instrument, 2 week's iron rations
 
 This pre-generated template represents a wandering minstrel with magic in his song. The template is ready for adventure. However, if your bard's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4).
 
 
 #### Bard Level Progression
 
-Experience | Title            | Level | Hit Dice | Arcane Dabbling | Loremastery
----------: | :--------------- | ----: | :------- | --------------: | ----------:
-         0 | Reciter          |     1 | 1d6      |             18+ |         18+
-     1,400 | Versifier        |     2 | 2d6      |             16+ |         17+
-     2,800 | Archivist        |     3 | 3d6      |             14+ |         16+
-     5,600 | Annalist         |     4 | 4d6      |             12+ |         15+
-    11,200 | Chronicler       |     5 | 5d6      |             10+ |         14+
-    22,400 | Panegyrist       |     6 | 6d6      |              8+ |         13+
-    45,000 | Skald            |     7 | 7d6      |              6+ |         12+
-    90,000 | Rhapsodist       |     8 | 8d6      |              4+ |         11+
-   190,000 | Bard             |     9 | 9d6      |              3+ |         10+
-   290,000 | Bard, 10th level |    10 | 9d6+2*   |              3+ |          9+
-   390,000 | Bard, 11th level |    11 | 9d6+4*   |              3+ |          8+
-   490,000 | Bard, 12th level |    12 | 9d6+6*   |              3+ |          7+
-   590,000 | Bard, 13th level |    13 | 9d6+8*   |              3+ |          6+
-   690,000 | Master Bard      |    14 | 9d6+10*  |              3+ |          5+
+| Experience | Title            | Level | Hit Dice | Arcane Dabbling | Loremastery
+| ---------: | :--------------- | ----: | :------- | --------------: | ----------:
+|          0 | Reciter          |     1 | 1d6      |             18+ |         18+
+|      1,400 | Versifier        |     2 | 2d6      |             16+ |         17+
+|      2,800 | Archivist        |     3 | 3d6      |             14+ |         16+
+|      5,600 | Annalist         |     4 | 4d6      |             12+ |         15+
+|     11,200 | Chronicler       |     5 | 5d6      |             10+ |         14+
+|     22,400 | Panegyrist       |     6 | 6d6      |              8+ |         13+
+|     45,000 | Skald            |     7 | 7d6      |              6+ |         12+
+|     90,000 | Rhapsodist       |     8 | 8d6      |              4+ |         11+
+|    190,000 | Bard             |     9 | 9d6      |              3+ |         10+
+|    290,000 | Bard, 10th level |    10 | 9d6+2*   |              3+ |          9+
+|    390,000 | Bard, 11th level |    11 | 9d6+4*   |              3+ |          8+
+|    490,000 | Bard, 12th level |    12 | 9d6+6*   |              3+ |          7+
+|    590,000 | Bard, 13th level |    13 | 9d6+8*   |              3+ |          6+
+|    690,000 | Master Bard      |    14 | 9d6+10*  |              3+ |          5+
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Bard (Thief) Attack and Saving Throws
 
-Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-:----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
-1-2    |                       13+ |            13+ |            16+ |            14+ |    15+ |          10+
-3-4    |                       12+ |            12+ |            15+ |            13+ |    14+ |           9+
-5-6    |                       11+ |            11+ |            14+ |            12+ |    13+ |           8+
-7-8    |                       10+ |            10+ |            13+ |            11+ |    12+ |           7+
-9-10   |                        9+ |             9+ |            12+ |            10+ |    11+ |           6+
-11-12  |                        8+ |             8+ |            11+ |             9+ |    10+ |           5+
-13-14+ |                        7+ |             7+ |            10+ |             8+ |     9+ |           4+
+| Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+| 1-2    |                       13+ |            13+ |            16+ |            14+ |    15+ |          10+
+| 3-4    |                       12+ |            12+ |            15+ |            13+ |    14+ |           9+
+| 5-6    |                       11+ |            11+ |            14+ |            12+ |    13+ |           8+
+| 7-8    |                       10+ |            10+ |            13+ |            11+ |    12+ |           7+
+| 9-10   |                        9+ |             9+ |            12+ |            10+ |    11+ |           6+
+| 11-12  |                        8+ |             8+ |            11+ |             9+ |    10+ |           5+
+| 13-14+ |                        7+ |             7+ |            10+ |             8+ |     9+ |           4+
 
 
 #### Bard Skills
 
-Level | Arcane Dabbling | Loremastery
-----: | --------------: | ----------:
-    1 |             18+ |         18+
-    2 |             16+ |         17+
-    3 |             14+ |         16+
-    4 |             12+ |         15+
-    5 |             10+ |         14+
-    6 |              8+ |         13+
-    7 |              6+ |         12+
-    8 |              4+ |         11+
-    9 |              3+ |         10+
-   10 |              3+ |          9+
-   11 |              3+ |          8+
-   12 |              3+ |          7+
-   13 |              3+ |          6+
-   14 |              3+ |          5+
+| Level | Arcane Dabbling | Loremastery
+| ----: | --------------: | ----------:
+|     1 |             18+ |         18+
+|     2 |             16+ |         17+
+|     3 |             14+ |         16+
+|     4 |             12+ |         15+
+|     5 |             10+ |         14+
+|     6 |              8+ |         13+
+|     7 |              6+ |         12+
+|     8 |              4+ |         11+
+|     9 |              3+ |         10+
+|    10 |              3+ |          9+
+|    11 |              3+ |          8+
+|    12 |              3+ |          7+
+|    13 |              3+ |          6+
+|    14 |              3+ |          5+
     
 ### Bladedancer
 
-Prime Requisite: | WIS and DEX
-:--------------- | :----------
-Requirements:    | None
-Hit Dice:        | 1d6
-Maximum Level:   | 14
+| Prime Requisite: | WIS and DEX
+| :--------------- | :----------
+| Requirements:    | None
+| Hit Dice:        | 1d6
+| Maximum Level:   | 14
 
 Bladedancers are human women who have dedicated themselves to the service of a goddess of war. They belong to military clerical orders, where they are trained in fighting and casting spells. Most bladedancers are trained to the art from a young age at the Temples of the Goddess of Love and War. A fully trained bladedancer is highly coveted as a bodyguard and escort by the great noble houses.
 
@@ -609,56 +609,56 @@ When a bladedancer reaches 5th level (Blade-Sister), she may begin to research s
 When a bladedancer reaches 9th level (Blade-Mistress), she may choose to construct a temple as a stronghold. If she has not lost the favor of her deity, the cost of building the temple will be half the normal amount due to miraculous assistance from the bladedancer's honored deity. Once the temple is completed, fanatically loyal bladedancers called the "faithful," who need never check morale, will come to defend the Blade-Mistress. There will be 5d6x10 0th level soldiers armed with various weapons, plus another 1d6 bladedancers of 1st-3rd level to serve the order. While in the bladedancer's service, her followers must be provided food and lodging, but need not be paid wages. Additional rules for temples are detailed in the [Campaigns](Chapter07.md#chapter-7-campaigns) chapter.
 
 
-Template:           | Temple Bladedancer
-:------------------ | :-----------------
-Proficiencies:      | Swashbuckler, Performance (Dance)
-Starting Equipment: | Pair of gracefully curved swords, polished leather armor, golden silk cloak, bladedancer's head dress (20gp value), holy symbol, backpack, 2 week's iron rations
+| Template:           | Temple Bladedancer
+| :------------------ | :-----------------
+| Proficiencies:      | Swashbuckler, Performance (Dance)
+| Starting Equipment: | Pair of gracefully curved swords, polished leather armor, golden silk cloak, bladedancer's head dress (20gp value), holy symbol, backpack, 2 week's iron rations
 
 This pre-generated template represents a temple-trained bladedancer. The template is ready for adventure. However, if your bladedancer's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4).
 
 
 #### Bladedancer Level and Spell Progression
 
-Experience | Title                      | Level | Hit Dice | AC Bonus |   1 |   2 |   3 |   4 |   5
----------: | :------------------------- | ----: | :------- | -------: | --: | --: | --: | --: | --:
-         0 | Blade-Initiate             |     1 | 1d6      |       +1 |   0 |   0 |   0 |   0 |   0
-     1,500 | Blade-Daughter             |     2 | 2d6      |       +1 |   1 |   0 |   0 |   0 |   0
-     3,000 | Blade-Singer               |     3 | 3d6      |       +1 |   2 |   0 |   0 |   0 |   0
-     6,000 | Blade-Weaver               |     4 | 4d6      |       +1 |   2 |   1 |   0 |   0 |   0
-    12,000 | Blade-Sister               |     5 | 5d6      |       +1 |   2 |   2 |   0 |   0 |   0
-    24,000 | Blade-Adept                |     6 | 6d6      |       +1 |   2 |   2 |   1 |   1 |   0
-    50,000 | Blade-Dancer               |     7 | 7d6      |       +2 |   2 |   2 |   2 |   1 |   1
-   100,000 | Blade-Priestess            |     8 | 8d6      |       +2 |   3 |   3 |   2 |   2 |   1
-   200,000 | Blade-Mistress             |     9 | 9d6      |       +2 |   3 |   3 |   3 |   2 |   2
-   300,000 | Blade-Mistress, 10th level |    10 | 9d6+1*   |       +2 |   4 |   4 |   3 |   3 |   2
-   400,000 | Blade-Mistress, 11th level |    11 | 9d6+2*   |       +2 |   4 |   4 |   4 |   3 |   3
-   500,000 | Blade-Mistress, 12th level |    12 | 9d6+3*   |       +2 |   5 |   5 |   4 |   4 |   3
-   600,000 | Blade-Mistress, 13th level |    13 | 9d6+4*   |       +3 |   5 |   5 |   5 |   4 |   3
-   700,000 | Mistress of All Blades     |    14 | 9d6+5*   |       +3 |   6 |   5 |   5 |   5 |   4
+| Experience | Title                      | Level | Hit Dice | AC Bonus |   1 |   2 |   3 |   4 |   5
+| ---------: | :------------------------- | ----: | :------- | -------: | --: | --: | --: | --: | --:
+|          0 | Blade-Initiate             |     1 | 1d6      |       +1 |   0 |   0 |   0 |   0 |   0
+|      1,500 | Blade-Daughter             |     2 | 2d6      |       +1 |   1 |   0 |   0 |   0 |   0
+|      3,000 | Blade-Singer               |     3 | 3d6      |       +1 |   2 |   0 |   0 |   0 |   0
+|      6,000 | Blade-Weaver               |     4 | 4d6      |       +1 |   2 |   1 |   0 |   0 |   0
+|     12,000 | Blade-Sister               |     5 | 5d6      |       +1 |   2 |   2 |   0 |   0 |   0
+|     24,000 | Blade-Adept                |     6 | 6d6      |       +1 |   2 |   2 |   1 |   1 |   0
+|     50,000 | Blade-Dancer               |     7 | 7d6      |       +2 |   2 |   2 |   2 |   1 |   1
+|    100,000 | Blade-Priestess            |     8 | 8d6      |       +2 |   3 |   3 |   2 |   2 |   1
+|    200,000 | Blade-Mistress             |     9 | 9d6      |       +2 |   3 |   3 |   3 |   2 |   2
+|    300,000 | Blade-Mistress, 10th level |    10 | 9d6+1*   |       +2 |   4 |   4 |   3 |   3 |   2
+|    400,000 | Blade-Mistress, 11th level |    11 | 9d6+2*   |       +2 |   4 |   4 |   4 |   3 |   3
+|    500,000 | Blade-Mistress, 12th level |    12 | 9d6+3*   |       +2 |   5 |   5 |   4 |   4 |   3
+|    600,000 | Blade-Mistress, 13th level |    13 | 9d6+4*   |       +3 |   5 |   5 |   5 |   4 |   3
+|    700,000 | Mistress of All Blades     |    14 | 9d6+5*   |       +3 |   6 |   5 |   5 |   5 |   4
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Bladedancer (Cleric) Attack and Saving Throws
 
-Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-:----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
-1-2    |                       13+ |            10+ |            16+ |            13+ |    15+ |          10+
-3-4    |                       12+ |             9+ |            15+ |            12+ |    14+ |           9+
-5-6    |                       11+ |             8+ |            14+ |            11+ |    13+ |           8+
-7-8    |                       10+ |             7+ |            13+ |            10+ |    12+ |           7+
-9-10   |                        9+ |             6+ |            12+ |             9+ |    11+ |           6+
-11-12  |                        8+ |             5+ |            11+ |             8+ |    10+ |           5+
-13-14+ |                        7+ |             4+ |            10+ |             7+ |     9+ |           4+
+| Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+| 1-2    |                       13+ |            10+ |            16+ |            13+ |    15+ |          10+
+| 3-4    |                       12+ |             9+ |            15+ |            12+ |    14+ |           9+
+| 5-6    |                       11+ |             8+ |            14+ |            11+ |    13+ |           8+
+| 7-8    |                       10+ |             7+ |            13+ |            10+ |    12+ |           7+
+| 9-10   |                        9+ |             6+ |            12+ |             9+ |    11+ |           6+
+| 11-12  |                        8+ |             5+ |            11+ |             8+ |    10+ |           5+
+| 13-14+ |                        7+ |             4+ |            10+ |             7+ |     9+ |           4+
 
 
 ### Explorer
 
-Prime Requisite: | STR and DEX
-:--------------- | :----------
-Requirements:    | None
-Hit Dice:        | 1d6
-Maximum Level:   | 14
+| Prime Requisite: | STR and DEX
+| :--------------- | :----------
+| Requirements:    | None
+| Hit Dice:        | 1d6
+| Maximum Level:   | 14
 
 Explorers are scouts and trackers, adept at both woodcraft and archery. Few adventuring parties would dare the wilderness without an experienced explorer to guide them. An explorer might be a long range scout, a barbarian hunter from the northern forests, or a settler pushing past the borders civilization.
 
@@ -675,50 +675,50 @@ When an explorer reaches 5th level (Guide), his experience and hardiness reassur
 When an explorer reaches 9th level (Warden), he may decide to build a border fort in the borderlands or wilderness. When he does so, up to 1d4+1 x10 0th level mercenaries and 1d6 explorers of 1st - 3rd level will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries. The character becomes the warden of any nearby settlers, and will attract more settlers over time. These people will look to the Warden as their leader, responsible for the growth and safety of their settlement. Additional rules for border forts are detailed in the [Campaigns](Chapter07.md#chapter-7-campaigns) chapter.
 
 
-Template:           | Pathfinder
-:------------------ | :---------
-Proficiencies:      | Precise Shot, Tracking
-Starting Equipment: | Sturdy longbow, quiver with 20 arrows, spear, short sword, dagger, chainmail armor, wind-battered fur cloak, boots, backpack, 2 week's iron rations, wineskin, lantern, tinderbox, 2 flasks of common oil, blanket, 50' rope, 12 iron spikes, small hammer and 20sp
+| Template:           | Pathfinder
+| :------------------ | :---------
+| Proficiencies:      | Precise Shot, Tracking
+| Starting Equipment: | Sturdy longbow, quiver with 20 arrows, spear, short sword, dagger, chainmail armor, wind-battered fur cloak, boots, backpack, 2 week's iron rations, wineskin, lantern, tinderbox, 2 flasks of common oil, blanket, 50' rope, 12 iron spikes, small hammer and 20sp
 
 This pre-generated template represents a keen-eyed archer and tracker. The template is ready for adventure. However, if your explorer's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4).
 
 
 #### Explorer Level Progression
 
-Experience    | Title                   | Level  | Hit Dice       | Damage Bonus
-------------: | :---------------------- | -----: | :------------- | -----------:
-            0 | Scout                   |      1 | 1d6            |           +1
-        2,000 | Outrider                |      2 | 2d6            |           +1
-        4,000 | Forester                |      3 | 3d6            |           +2
-        8,000 | Explorer                |      4 | 4d6            |           +2
-       16,000 | Guide                   |      5 | 5d6            |           +2
-       32,000 | Tracker                 |      6 | 6d6            |           +3
-       65,000 | Pathfinder              |      7 | 7d6            |           +3
-      130,000 | Ranger                  |      8 | 8d6            |           +3
-      250,000 | Warden                  |      9 | 9d6            |           +4
-      370,000 | Warden, 10th level      |     10 | 9d6+2*         |           +4
-      490,000 | Warden, 11th level      |     11 | 9d6+4*         |           +4
-      610,000 | Warden, 12th level      |     12 | 9d6+6*         |           +5
-      730,000 | Warden, 13th level      |     13 | 9d6+8*         |           +5
-      850,000 | Lord Warden             |     14 | 9d6+10*        |           +5
+| Experience    | Title                   | Level  | Hit Dice       | Damage Bonus
+| ------------: | :---------------------- | -----: | :------------- | -----------:
+|             0 | Scout                   |      1 | 1d6            |           +1
+|         2,000 | Outrider                |      2 | 2d6            |           +1
+|         4,000 | Forester                |      3 | 3d6            |           +2
+|         8,000 | Explorer                |      4 | 4d6            |           +2
+|        16,000 | Guide                   |      5 | 5d6            |           +2
+|        32,000 | Tracker                 |      6 | 6d6            |           +3
+|        65,000 | Pathfinder              |      7 | 7d6            |           +3
+|       130,000 | Ranger                  |      8 | 8d6            |           +3
+|       250,000 | Warden                  |      9 | 9d6            |           +4
+|       370,000 | Warden, 10th level      |     10 | 9d6+2*         |           +4
+|       490,000 | Warden, 11th level      |     11 | 9d6+4*         |           +4
+|       610,000 | Warden, 12th level      |     12 | 9d6+6*         |           +5
+|       730,000 | Warden, 13th level      |     13 | 9d6+8*         |           +5
+|       850,000 | Lord Warden             |     14 | 9d6+10*        |           +5
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Explorer (Fighter) Attack and Saving Throws
 
-Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-:---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
-1     |                       15+ |            14+ |            16+ |            16+ |    17+ |          10+
-2-3   |                       14+ |            13+ |            15+ |            15+ |    16+ |           9+
-4     |                       13+ |            12+ |            14+ |            14+ |    15+ |           8+
-5-6   |                       12+ |            11+ |            13+ |            13+ |    14+ |           7+
-7     |                       11+ |            10+ |            12+ |            12+ |    13+ |           6+
-8-9   |                       10+ |             9+ |            11+ |            11+ |    12+ |           5+
-10    |                        9+ |             8+ |            10+ |            10+ |    11+ |           4+
-11-12 |                        8+ |             7+ |             9+ |             9+ |    10+ |           3+
-13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+
-14+   |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+| 1     |                       15+ |            14+ |            16+ |            16+ |    17+ |          10+
+| 2-3   |                       14+ |            13+ |            15+ |            15+ |    16+ |           9+
+| 4     |                       13+ |            12+ |            14+ |            14+ |    15+ |           8+
+| 5-6   |                       12+ |            11+ |            13+ |            13+ |    14+ |           7+
+| 7     |                       11+ |            10+ |            12+ |            12+ |    13+ |           6+
+| 8-9   |                       10+ |             9+ |            11+ |            11+ |    12+ |           5+
+| 10    |                        9+ |             8+ |            10+ |            10+ |    11+ |           4+
+| 11-12 |                        8+ |             7+ |             9+ |             9+ |    10+ |           3+
+| 13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+
+| 14+   |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
 
 
 ## Demi-Human Classes
@@ -726,11 +726,11 @@ Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & W
 
 ### Dwarven Vaultguard
 
-Prime Requisite: | STR
-:--------------- | :----
-Requirements:    | CON 9
-Hit Dice:        | 1d8
-Maximum Level:   | 13
+| Prime Requisite: | STR
+| :--------------- | :----
+| Requirements:    | CON 9
+| Hit Dice:        | 1d8
+| Maximum Level:   | 13
 
 Dwarves are stout, short, bearded demi-humans who average a height of approximately 4' and weigh about 150lb. Perhaps not surprisingly, they have skin, hair and eye colors in earth tones. Dwarves have a reputation for having surly attitudes, and are particularly gruff with elves. They value precious metals and stones, and live in deep underground vaults, where they endure constant raids from the orcs, trolls, and even worse denizens of the darkness below.
 
@@ -745,57 +745,57 @@ In addition to these abilities, dwarves are particularly hardy people. The targe
 When a dwarven vaultguard reaches 9th level (Vaultlord), he can attract dwarves from far and wide by constructing his own underground vault. Dwarves usually live in clans, so dwarves of the character's clan will be the first to live under his roof, but dwarves from other clans will also come and live nearby to be ruled by the character. A total of 3d6x10 1st level NPCs of the same race will move in to help maintain and defend the vault at no cost to the character. A dwarven vaultguard is expected to employ only soldiers of dwarven descent, but may hire members of other races for other tasks. Additional rules for dwarven vaults are detailed in the [Campaigns](Chapter07.md#chapter-7-campaigns) chapter.
 
 
-Template:           | Goblin Slayer
-:------------------ | :------------
-Proficiencies:      | Goblin-Slaying, Caving
-Starting Equipment: | Dwarven battle axe, brace of 3 hand axes, rust-free banded plate armor, large steel shield with painted vault insignia, backpack, 2 week's iron rations, lantern, 2 flasks of military oil, 3 flasks of common oil, tinder box
+| Template:           | Goblin Slayer
+| :------------------ | :------------
+| Proficiencies:      | Goblin-Slaying, Caving
+| Starting Equipment: | Dwarven battle axe, brace of 3 hand axes, rust-free banded plate armor, large steel shield with painted vault insignia, backpack, 2 week's iron rations, lantern, 2 flasks of military oil, 3 flasks of common oil, tinder box
 
 This pre-generated template represents a dwarven vaultguard specializing in fighting goblins, kobolds, and other denizens of the darkness below. The template is ready for adventure. However, if your dwarven vaultguard's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4).
 
 
 #### Dwarven Vaultguard Level Progression
 
-Experience | Title               | Level | Hit Dice | Damage Bonus
----------: | :------------------ | ----: | :------- | -----------:
-         0 | Sentry              |     1 | 1d8      |           +1
-     2,200 | Warden              |     2 | 2d8      |           +1
-     4,400 | Shieldbearer        |     3 | 3d8      |           +2
-     8,800 | Defender            |     4 | 4d8      |           +2
-    17,500 | Sentinel            |     5 | 5d8      |           +2
-    35,000 | Guardian            |     6 | 6d8      |           +3
-    70,000 | Champion            |     7 | 7d8      |           +3
-   140,000 | Vaultguard          |     8 | 8d8      |           +3
-   270,000 | Vaultlord           |     9 | 9d8      |           +4
-   400,000 | Vaultlord, 10th lvl |    10 | 9d8+3*   |           +4
-   530,000 | Vaultlord, 11th lvl |    11 | 9d8+6*   |           +4
-   660,000 | Vaultlord, 12th lvl |    12 | 9d8+9*   |           +5
-   790,000 | Vaultlord, 13th lvl |    13 | 9d8+12*  |           +5
+| Experience | Title               | Level | Hit Dice | Damage Bonus
+| ---------: | :------------------ | ----: | :------- | -----------:
+|          0 | Sentry              |     1 | 1d8      |           +1
+|      2,200 | Warden              |     2 | 2d8      |           +1
+|      4,400 | Shieldbearer        |     3 | 3d8      |           +2
+|      8,800 | Defender            |     4 | 4d8      |           +2
+|     17,500 | Sentinel            |     5 | 5d8      |           +2
+|     35,000 | Guardian            |     6 | 6d8      |           +3
+|     70,000 | Champion            |     7 | 7d8      |           +3
+|    140,000 | Vaultguard          |     8 | 8d8      |           +3
+|    270,000 | Vaultlord           |     9 | 9d8      |           +4
+|    400,000 | Vaultlord, 10th lvl |    10 | 9d8+3*   |           +4
+|    530,000 | Vaultlord, 11th lvl |    11 | 9d8+6*   |           +4
+|    660,000 | Vaultlord, 12th lvl |    12 | 9d8+9*   |           +5
+|    790,000 | Vaultlord, 13th lvl |    13 | 9d8+12*  |           +5
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Dwarven Vaultguard (Fighter) Attack and Saving Throws
 
-Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-:---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
-1     |                       11+ |            10+ |            13+ |            12+ |    13+ |          10+
-2-3   |                       10+ |             9+ |            12+ |            11+ |    12+ |           9+
-4     |                        9+ |             8+ |            11+ |            10+ |    11+ |           8+
-5-6   |                        8+ |             7+ |            10+ |             9+ |    10+ |           7+
-7     |                        7+ |             6+ |             9+ |             8+ |     9+ |           6+
-8-9   |                        6+ |             5+ |             8+ |             7+ |     8+ |           5+
-10    |                        5+ |             4+ |             7+ |             6+ |     7+ |           4+
-11-12 |                        4+ |             3+ |             6+ |             5+ |     6+ |           3+
-13    |                        3+ |             2+ |             5+ |             4+ |     5+ |           2+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+| 1     |                       11+ |            10+ |            13+ |            12+ |    13+ |          10+
+| 2-3   |                       10+ |             9+ |            12+ |            11+ |    12+ |           9+
+| 4     |                        9+ |             8+ |            11+ |            10+ |    11+ |           8+
+| 5-6   |                        8+ |             7+ |            10+ |             9+ |    10+ |           7+
+| 7     |                        7+ |             6+ |             9+ |             8+ |     9+ |           6+
+| 8-9   |                        6+ |             5+ |             8+ |             7+ |     8+ |           5+
+| 10    |                        5+ |             4+ |             7+ |             6+ |     7+ |           4+
+| 11-12 |                        4+ |             3+ |             6+ |             5+ |     6+ |           3+
+| 13    |                        3+ |             2+ |             5+ |             4+ |     5+ |           2+
 
 
 ### Dwarven Craftpriest
 
-Prime Requisite: | WIS
-:--------------- | :----
-Requirements:    | CON 9
-Hit Dice:        | 1d6
-Maximum Level:   | 10
+| Prime Requisite: | WIS
+| :--------------- | :----
+| Requirements:    | CON 9
+| Hit Dice:        | 1d6
+| Maximum Level:   | 10
 
 Nothing is so revered among the dwarven people as craftsmanship. A dwarf's work is his life, and the spirits of great dwarven artisans are believed to live on forever in their masterpieces. The veneration of these relics falls to the care of a caste of dwarves known as craftpriests. While most craftpriests attend to the shrines and monuments of their clan, young craftpriests are sometimes sent forth to recover monuments to the glorious past from the ancient ruins and wastelands of the world. This class represents such a craftpriest.
 
@@ -811,50 +811,50 @@ Starting at 5th level (Craft-Vicar), a craftpriest may begin to research spells,
 
 
 
-Template:              | Reclaimer
-:--------------------- | :--------
-Proficiencies:         | Magical Engineering, Knowledge (History)
-Starting Equipment:    | Warhammer with carved head, engraved banded plate armor, steel shield with craft insignia, steel holy symbol (craft insignia), backpack, 2 week's iron rations, craftsman's tools
+| Template:              | Reclaimer
+| :--------------------- | :--------
+| Proficiencies:         | Magical Engineering, Knowledge (History)
+| Starting Equipment:    | Warhammer with carved head, engraved banded plate armor, steel shield with craft insignia, steel holy symbol (craft insignia), backpack, 2 week's iron rations, craftsman's tools
 
 This pre-generated template represents a craftpriest focused on reclaiming lost artifacts from evil forces. The template is ready for adventure. However, if your dwarven craftpriest's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4).
 
 
 #### Craftpriest Level and Spell Progression
 
-Experience | Title                        | Level | Hit Dice |   1 |   2 |   3 |   4 |   5
----------: | :--------------------------- | ----: | :------- | --: | --: | --: | --: | --:
-         0 | Dwarven Craft-Catechist      |     1 | 1d6      |   0 |   0 |   0 |   0 |   0
-     2,400 | Dwarven Craft-Acolyte        |     2 | 2d6      |   1 |   0 |   0 |   0 |   0
-     4,800 | Dwarven Craftpriest          |     3 | 3d6      |   2 |   0 |   0 |   0 |   0
-     9,600 | Dwarven Craft-Curate         |     4 | 4d6      |   2 |   1 |   0 |   0 |   0
-    19,200 | Dwarven Craft-Vicar          |     5 | 5d6      |   2 |   2 |   0 |   0 |   0
-    38,400 | Dwarven Craft-Rector         |     6 | 6d6      |   2 |   2 |   1 |   1 |   0
-    75,000 | Dwarven Craft-Prelate        |     7 | 7d6      |   2 |   2 |   2 |   1 |   1
-   150,000 | Dwarven Craft-Bishop         |     8 | 8d6      |   3 |   3 |   2 |   2 |   1
-   280,000 | Dwarven Craft-Lord           |     9 | 9d6      |   3 |   3 |   3 |   2 |   2
-   410,000 | Dwarven Craft-Lord, 10th lvl |    10 | 9d6+2*   |   4 |   4 |   3 |   3 |   2
+| Experience | Title                        | Level | Hit Dice |   1 |   2 |   3 |   4 |   5
+| ---------: | :--------------------------- | ----: | :------- | --: | --: | --: | --: | --:
+|          0 | Dwarven Craft-Catechist      |     1 | 1d6      |   0 |   0 |   0 |   0 |   0
+|      2,400 | Dwarven Craft-Acolyte        |     2 | 2d6      |   1 |   0 |   0 |   0 |   0
+|      4,800 | Dwarven Craftpriest          |     3 | 3d6      |   2 |   0 |   0 |   0 |   0
+|      9,600 | Dwarven Craft-Curate         |     4 | 4d6      |   2 |   1 |   0 |   0 |   0
+|     19,200 | Dwarven Craft-Vicar          |     5 | 5d6      |   2 |   2 |   0 |   0 |   0
+|     38,400 | Dwarven Craft-Rector         |     6 | 6d6      |   2 |   2 |   1 |   1 |   0
+|     75,000 | Dwarven Craft-Prelate        |     7 | 7d6      |   2 |   2 |   2 |   1 |   1
+|    150,000 | Dwarven Craft-Bishop         |     8 | 8d6      |   3 |   3 |   2 |   2 |   1
+|    280,000 | Dwarven Craft-Lord           |     9 | 9d6      |   3 |   3 |   3 |   2 |   2
+|    410,000 | Dwarven Craft-Lord, 10th lvl |    10 | 9d6+2*   |   4 |   4 |   3 |   3 |   2
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Dwarven Craftpriest (Cleric) Attack and Saving Throws
 
-Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-:---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
-1-2   |                        9+ |             6+ |            13+ |             9+ |    11+ |          10+
-3-4   |                        8+ |             5+ |            12+ |             8+ |    10+ |           9+
-5-6   |                        7+ |             4+ |            11+ |             7+ |     9+ |           8+
-7-8   |                        6+ |             3+ |            10+ |             6+ |     8+ |           7+
-9-10  |                        5+ |             2+ |             9+ |             5+ |     7+ |           6+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+| 1-2   |                        9+ |             6+ |            13+ |             9+ |    11+ |          10+
+| 3-4   |                        8+ |             5+ |            12+ |             8+ |    10+ |           9+
+| 5-6   |                        7+ |             4+ |            11+ |             7+ |     9+ |           8+
+| 7-8   |                        6+ |             3+ |            10+ |             6+ |     8+ |           7+
+| 9-10  |                        5+ |             2+ |             9+ |             5+ |     7+ |           6+
 
 
 ### Elven Spellsword
 
-Prime Requisite: | STR and INT
-:--------------- | :----------
-Requirements:    | None
-Hit Dice:        | 1d6
-Maximum Level:   | 10
+| Prime Requisite: | STR and INT
+| :--------------- | :----------
+| Requirements:    | None
+| Hit Dice:        | 1d6
+| Maximum Level:   | 10
 
 Elves are lithe, fey beings with pointed ears, delicate features, and graceful movement. They typically weigh about 130lb and stand between 5  1/2 ' and 6' tall. Humans envy their long lifespans and seeming agelessness. Though elves are a peaceful people that enjoy poetry and art, they are also very talented fighters and skilled mages. The elven spellsword class represents one such remarkable elf, trained in the arts of both fighters and mages.
 
@@ -869,52 +869,52 @@ Starting at 5th level (Thaumaturge-Exemplar), elven spellswords may begin to res
 At 9th level (Wizard-Lord), elven spellswords can also establish a fastness in a natural setting, such as a forest or glen. Rather than impose upon nature, this keep must blend seamlessly with it. A total of 3d6x10 1st level elven NPCs will move in to help with it and defend the fastness at no cost to the character. Additional rules for elven fastnesses are detailed in the [Campaigns](Chapter07.md#chapter-7-campaigns) chapter.
 
 
-Template:             | Fighter-Mage
-:-------------------- | :-----------
-Proficiencies:        | Battle Magic, Military Strategy
-Starting Equipment:   | Gracefully curved sword and dagger, elven composite bow, quiver with 20 arrows, chainmail armor, embroidered cloak, boots, backpack, 2 week's iron rations, spell book with magic missile
+| Template:             | Fighter-Mage
+| :-------------------- | :-----------
+| Proficiencies:        | Battle Magic, Military Strategy
+| Starting Equipment:   | Gracefully curved sword and dagger, elven composite bow, quiver with 20 arrows, chainmail armor, embroidered cloak, boots, backpack, 2 week's iron rations, spell book with magic missile
 
 This pre-generated template represents a traditional fighter-mage of elven heritage. The template is ready for adventure. However, if your elven spellsword's INT is 13 or greater, you may pick one or more additional general proficiencies and starting Spells before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4 and [Spell Repertoire](Chapter05.md#spell-repertoire) in Chapter 5).
 
 
 #### Spellsword Level and Spell Progression
 
-Experience | Title                   | Level | Hit Dice |   1 |   2 |   3 |   4 |   5
----------: | :---------------------- | ----: | :------- | --: | --: | --: | --: | --:
-         0 | Arcanist-Guardian       |     1 | 1d6      |   1 |   - |   - |   - |   -
-     4,000 | Warrior-Seer            |     2 | 2d6      |   2 |   - |   - |   - |   -
-     8,000 | Theurgist-Swordmaster   |     3 | 3d6      |   2 |   1 |   - |   - |   -
-    16,000 | Magician-Hero           |     4 | 4d6      |   2 |   2 |   - |   - |   -
-    32,000 | Thaumaturge-Exemplar    |     5 | 5d6      |   2 |   2 |   1 |   - |   -
-    64,000 | Myrmidon-Enchanter      |     6 | 6d6      |   2 |   2 |   2 |   - |   -
-   130,000 | Sorcerer-Champion       |     7 | 7d6      |   3 |   2 |   2 |   1 |   -
-   260,000 | Epic Hero-Mage          |     8 | 8d6      |   3 |   3 |   2 |   2 |   -
-   430,000 | Wizard-Lord             |     9 | 9d6      |   3 |   3 |   3 |   2 |   1
-   600,000 | Wizard-Lord, 10th level |    10 | 9d6+2*   |   3 |   3 |   3 |   3 |   2
+| Experience | Title                   | Level | Hit Dice |   1 |   2 |   3 |   4 |   5
+| ---------: | :---------------------- | ----: | :------- | --: | --: | --: | --: | --:
+|          0 | Arcanist-Guardian       |     1 | 1d6      |   1 |   - |   - |   - |   -
+|      4,000 | Warrior-Seer            |     2 | 2d6      |   2 |   - |   - |   - |   -
+|      8,000 | Theurgist-Swordmaster   |     3 | 3d6      |   2 |   1 |   - |   - |   -
+|     16,000 | Magician-Hero           |     4 | 4d6      |   2 |   2 |   - |   - |   -
+|     32,000 | Thaumaturge-Exemplar    |     5 | 5d6      |   2 |   2 |   1 |   - |   -
+|     64,000 | Myrmidon-Enchanter      |     6 | 6d6      |   2 |   2 |   2 |   - |   -
+|    130,000 | Sorcerer-Champion       |     7 | 7d6      |   3 |   2 |   2 |   1 |   -
+|    260,000 | Epic Hero-Mage          |     8 | 8d6      |   3 |   3 |   2 |   2 |   -
+|    430,000 | Wizard-Lord             |     9 | 9d6      |   3 |   3 |   3 |   2 |   1
+|    600,000 | Wizard-Lord, 10th level |    10 | 9d6+2*   |   3 |   3 |   3 |   3 |   2
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Elven Spellsword (Fighter) Attack and Saving Throws
 
-Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-:---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
-1     |                       14+ |            14+ |            16+ |            16+ |    16+ |          10+
-2-3   |                       13+ |            13+ |            15+ |            15+ |    15+ |           9+
-4     |                       12+ |            12+ |            14+ |            14+ |    14+ |           8+
-5-6   |                       11+ |            11+ |            13+ |            13+ |    13+ |           7+
-7     |                       10+ |            10+ |            12+ |            12+ |    12+ |           6+
-8-9   |                        9+ |             9+ |            11+ |            11+ |    11+ |           5+
-10    |                        8+ |             8+ |            10+ |            10+ |    10+ |           4+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+| 1     |                       14+ |            14+ |            16+ |            16+ |    16+ |          10+
+| 2-3   |                       13+ |            13+ |            15+ |            15+ |    15+ |           9+
+| 4     |                       12+ |            12+ |            14+ |            14+ |    14+ |           8+
+| 5-6   |                       11+ |            11+ |            13+ |            13+ |    13+ |           7+
+| 7     |                       10+ |            10+ |            12+ |            12+ |    12+ |           6+
+| 8-9   |                        9+ |             9+ |            11+ |            11+ |    11+ |           5+
+| 10    |                        8+ |             8+ |            10+ |            10+ |    10+ |           4+
 
 
 ### Elven Nightblade
 
-Prime Requisite: | DEX and INT
-:--------------- | :----------
-Requirements:    | None
-Hit Dice:        | 1d6
-Maximum Level:   | 11
+| Prime Requisite: | DEX and INT
+| :--------------- | :----------
+| Requirements:    | None
+| Hit Dice:        | 1d6
+| Maximum Level:   | 11
 
 Elves are a subtle race, and never does their gift for finesse and subtlety so reveal itself as in the practice of death-dealing. Cunning, deadly, and rarely seen, the elven nightblade is an assassin and sorcerer whose art is murder. Most nightblades practice their work in the courts of elven nobility.
 
@@ -931,43 +931,43 @@ When they reach 9th level (Nightblade), elven nightblades may construct a hideou
 When they reach 10th level, elven nightblades may begin to research spells, scribe magical scrolls, and brew potions, as if they were 5th level mages.
 
 
-Template:              | Silent Slayer
-:--------------------- | :------------
-Proficiencies:         | Skulking, Alchemy
-Starting Equipment:    | Crossbow, case with 20 quarrels, sword, dagger, leather armor, dark hooded cloak, backpack, 2 week's iron rations, grappling hook, 50' rope, crowbar, flask of military oil, tinder box
+| Template:              | Silent Slayer
+| :--------------------- | :------------
+| Proficiencies:         | Skulking, Alchemy
+| Starting Equipment:    | Crossbow, case with 20 quarrels, sword, dagger, leather armor, dark hooded cloak, backpack, 2 week's iron rations, grappling hook, 50' rope, crowbar, flask of military oil, tinder box
 
 This pre-generated template represents a silent killer with a penchant for poisons and potions. The template is ready for adventure. However, if your elven nightblade's INT is 13 or greater, you may pick one or more additional general proficiencies and starting spells before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4).
 
 
 #### Nightblade Level and Spell Progression
 
-Experience | Title                  | Level  | Hit Dice | Acrobatics |   1 |   2 |   3
----------: | :--------------------- | -----: | :------- | ---------: | --: | --: | --:
-         0 | Arcanist-Avenger       |      1 | 1d6      |        20+ |   - |   - |   -
-     2,775 | Seer-Enforcer          |      2 | 2d6      |        19+ |   1 |   - |   -
-     5,550 | Theurgist-Torturer     |      3 | 3d6      |        18+ |   2 |   - |   -
-    11,100 | Magician-Slayer        |      4 | 4d6      |        17+ |   2 |   - |   -
-    22,200 | Thaumaturge-Destroyer  |      5 | 5d6      |        16+ |   2 |   1 |   -
-    45,000 | Enchanter-Executioner  |      6 | 6d6      |        15+ |   2 |   1 |   -
-    90,000 | Sorcerer-Blackguard    |      7 | 7d6      |        14+ |   2 |   2 |   -
-   180,000 | Mage-Assassin          |      8 | 8d6      |        13+ |   2 |   2 |   -
-   330,000 | Nightblade             |      9 | 9d6      |        12+ |   2 |   2 |   1
-   480,000 | Nightblade, 10th level |     10 | 9d6+2*   |        11+ |   2 |   2 |   1
-   630,000 | Nightblade, 11th level |     11 | 9d6+4*   |        10+ |   2 |   2 |   2
+| Experience | Title                  | Level  | Hit Dice | Acrobatics |   1 |   2 |   3
+| ---------: | :--------------------- | -----: | :------- | ---------: | --: | --: | --:
+|          0 | Arcanist-Avenger       |      1 | 1d6      |        20+ |   - |   - |   -
+|      2,775 | Seer-Enforcer          |      2 | 2d6      |        19+ |   1 |   - |   -
+|      5,550 | Theurgist-Torturer     |      3 | 3d6      |        18+ |   2 |   - |   -
+|     11,100 | Magician-Slayer        |      4 | 4d6      |        17+ |   2 |   - |   -
+|     22,200 | Thaumaturge-Destroyer  |      5 | 5d6      |        16+ |   2 |   1 |   -
+|     45,000 | Enchanter-Executioner  |      6 | 6d6      |        15+ |   2 |   1 |   -
+|     90,000 | Sorcerer-Blackguard    |      7 | 7d6      |        14+ |   2 |   2 |   -
+|    180,000 | Mage-Assassin          |      8 | 8d6      |        13+ |   2 |   2 |   -
+|    330,000 | Nightblade             |      9 | 9d6      |        12+ |   2 |   2 |   1
+|    480,000 | Nightblade, 10th level |     10 | 9d6+2*   |        11+ |   2 |   2 |   1
+|    630,000 | Nightblade, 11th level |     11 | 9d6+4*   |        10+ |   2 |   2 |   2
 
 *Hit point modifiers from constitution are ignored
 
 
 #### Elven Nightblade (Thief) Attack and Saving Throws
 
-Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-:---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
-1-2   |                       12+ |            13+ |            16+ |            14+ |    14+ |          10+
-3-4   |                       11+ |            12+ |            15+ |            13+ |    13+ |           9+
-5-6   |                       10+ |            11+ |            14+ |            12+ |    12+ |           8+
-7-8   |                        9+ |            10+ |            13+ |            11+ |    11+ |           7+
-9-10  |                        8+ |             9+ |            12+ |            10+ |    10+ |           6+
-11    |                        7+ |             8+ |            11+ |             9+ |     9+ |           5+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+| 1-2   |                       12+ |            13+ |            16+ |            14+ |    14+ |          10+
+| 3-4   |                       11+ |            12+ |            15+ |            13+ |    13+ |           9+
+| 5-6   |                       10+ |            11+ |            14+ |            12+ |    12+ |           8+
+| 7-8   |                        9+ |            10+ |            13+ |            11+ |    11+ |           7+
+| 9-10  |                        8+ |             9+ |            12+ |            10+ |    10+ |           6+
+| 11    |                        7+ |             8+ |            11+ |             9+ |     9+ |           5+
 
 
 ## Alignment
