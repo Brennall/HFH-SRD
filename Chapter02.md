@@ -59,6 +59,29 @@ EXAMPLE: Athelstan has 12 hp. His base healing rate is 1d4 hp per day. With a fu
 |141-170	    |           5d10
 |171+	        |           6d10, plus 1d10 per 30hp past 170
 
+Characters with the Healing proficiency can shorten their patient’s recovery time. A patient under treatment of Healing recovers twice his base healing rate in hp each day of rest.
+
+EXAMPLE: If Athelstan were the patient of a character with Healing proficiency, he would recover twice his base healing rate of 1d4 hp per day of rest, i.e. 2d4 hp per day of rest.  
+
+Healing also occurs through magic, such as potions or spells. This kind of healing is instantaneous and will typically be equal to one or more days of rest, as shown on the Magical Healing table. Magical healing and natural healing can be combined. 
+
+EXAMPLE: Athelstan (with 12 hp and a base healing rate of 1d4 hp) has sustained 9 points of damage, leaving him with 3 hp. A cleric treats him with comfrey. Comfrey heals its target by half as much as if he had rested for one day, rounded up. Athelstan’s base healing rate is 1d4 hp per day, so he will heal 1d4/2 hp. The result of the roll is a 3, so Athelstan is healed (3 / 2) 1.5 hp, rounded up to 2 hp. The cleric then casts cure moderate wounds on Athelstan. Cure moderate wounds heals its target as if he had rested for two days, so Athelstan will heal 2d4 hp. The result of the roll is a 5, so Athelstan is healed 5 points. He now has 10 hp of his maximum of 12. 
+
+|Spell/Magic Item	Effect*
+|:------------|------------:
+|Salving Rest   |	The target’s base healing rate is doubled for non-magical healing.
+|Cure Light Wounds  |	The target is healed as if he had rested for one day.
+|Cure Moderate Wounds   |	The target is healed as if he had rested for two days.
+|Cure Major Wounds  |	The target is healed as if he had rested for three days.
+|Cure Serious Wounds    |	The target is healed as if he had rested for four days.
+|Cure Critical Wounds   |	The target is healed as if he had rested for five days.
+|Spirit of Healing  |	Each round, the target is healed as if he had rested for one day.
+|Lay on Hands   |	The target is healed as if he had rested for one day per two levels of the healer (rounded up).
+|Comfrey    |	The target is healed by half as much as if he had rested for one day (rounded up). 
+|Potion of Healing  |	The target is healed as if he had rested for one day.
+|Potion of Extra-Healing    |	The target is healed as if he had rested for three days.
+|*These effects occur instead of the spell or magic item’s effect under the ACKS core rules.
+
 
 
 ## Character Abilities
