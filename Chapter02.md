@@ -1,9 +1,14 @@
-[Previous](Chapter01.md#chapter-1-introduction) [Top](Chapter00.md#table-of-contents) [Next](Chapter03.md#chapter-3-equipment)
+[Previous](Chapter01.md#chapter-1-introduction) [Top](Chapter00.md#table-of-contents) [Next](Chapter03.md#chapter-3-heroic-deeds)
 
 * * *
 
 
-# Chapter 2: Characters
+# Chapter 2: Heroes
+
+<i>Hers was a hero, destin'd to command 
+A martial race, and rule the Latian land, 
+Who should his ancient line from Teucer draw, 
+And on the conquer'd world impose the law.</i> – The Aeneid, Book IV (Virgil)
 
 
 ## Creating a Character
