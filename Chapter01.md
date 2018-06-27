@@ -1,45 +1,42 @@
-[Previous](Chapter00.md#table-of-contents) [Top](Chapter00.md#table-of-contents) [Next](Chapter02.md#chapter-2-characters)
+[Previous](Chapter00.md#table-of-contents) [Top](Chapter00.md#table-of-contents) [Next](Chapter02.md#chapter-2-heroes)
 
 * * *
 
 
 # Chapter 1: Introduction
 
-It is an age when empires totter on the brink of war, and terrible monsters tear at the fragile borderlands of men; when decaying cities teem with chaos and corruption, where nubile maidens are sacrificed to chthonic cults and nobles live in decadent pleasure on the toil of slaves; when heroes, wizards, and rogues risk everything in pursuit of glory, fortune, and power. These are days when adventurers can become conquerors... and conquerors can become kings!
+<i>‘Heroic fantasy’ is the name I have given to… a story of action and adventure laid in a more or less imaginary world, where magic works and where modern science and technology have not yet been discovered. The setting may... be this Earth as it is conceived to have been long ago, or as it will be in the remote future, or it may be another planet or another dimension. Such a story combines the color and dash of the historical costume romance with the atavistic supernatural thrills of the weird, occult, or ghost story. When well done, it provides the purest fun of fiction of any kind. It is escape fiction wherein one escapes clear out of the real world into one where all men are strong, all women beautiful, all life adventurous, and all problems simple…</i> - L. Sprague de Camp, in the Introduction to Conan (R.E. Howard) 
 
+<i>J.R.R. Tolkien defines one end of heroic fantasy, Robert E. Howard defines the other. The two exist on the same genre spectrum, as it were, but still remain far removed from one another and distinct.</i> The Demarcation of Sword and Sorcery (Joseph A. McCullough V)
 
-## About the Game
+The <i><b>Heroic Fantasy Handbook</b></i> is a rules supplement that brings the flavor of heroic fantasy to your favorite role-playing game. But what do we mean by “flavor of heroic fantasy”? What’s “heroic fantasy,” exactly? As the quotes above make clear, arguing about fantasy genres is of course a beloved pastime in our community, and we make no claim to offering <i>the</i>, or even <i>a</i>, definitive definition of genre. But for purposes of <i>this book</i>, we define “heroic fantasy” as what the works of J.R.R. Tolkien and Robert E. Howard have in common, once you remove what’s different. 
 
-The Adventurer Conqueror King System (ACKS) is a set of rules for role-playing in a world of swords, sorcery, and strongholds, where you take on the role of an adventurer in an imaginary land drawn from the epics and legends of the past.
+Now these two great luminaries are usually considered opposites – Tolkien writing British literary high fantasy, Howard writing American pulp swords & sorcery – and in some ways, that’s true. But though they are opposites, they are opposite faces of the same coin; and that coin is what we call heroic fantasy. Tolkien and Howard have more in common with each other, and with the epics, sagas, and heroic elegies of the past, and with contemporary luminaries such as E.R. Burroughs, Clark Ashton Smith, and H.P. Lovecraft, than with many of their contemporary epigones. 
 
-The Adventurer Conqueror King System provides a complete toolkit for enjoying a wide variety of heroic fantasy settings. It covers character creation, spells and magic, encounters and combat, monsters and treasure, and all the associated game mechanics necessary for swords-and-sorcery adventure. 
+What do these works have in common? They are set in a world like our own world, one that often is our world, in its distant past or far future. Their heroes, though men and women of extraordinary talent and drive, have none of the “super powers” that have become common in contemporary fantasy (especially games). They do not typically teleport, fly, shoot fire, or raise the dead. Magic in these works is more subtle and nuanced than in contemporary fantasy. It works with what is, rather than creating what is not. A magician cannot teleport straight to his friend’s distant castle, though his whispered dreams might reach his friend across the black gulfs of space. A magician will not fling magic missiles, but he might call down lightning from a storm, or capsize a boat with a wave. Working magic might require lengthy ceremonies, terrible sacrifices, or the power of primeval places. And those who use magic risk corruption. Even the wisest can lose their mind, body, and soul if they tamper with dark magic. That’s what we mean by heroic fantasy.  
 
-Whatever setting your adventures inhabit, with the Adventurer Conqueror King System, you can seek fame, wealth, and power by conquering foes, gathering treasure, and accumulating land and followers. If you are skilled and lucky, you may rise to become a mighty overlord, a wizard-king, or theocrat, holding the destiny of thousands in your hands. If not, the wages of your adventures will be merely death...
+As amply demonstrated by Jeffro Johnson’s <i>Appendix N: The Literary History of Dungeons & Dragons</i>, the original fantasy role-playing was heavily influenced by writers such as Howard, Tolkien, Smith, and Burroughs. But contemporary editions of most d20-based RPGs draw more heavily on the tropes of contemporary fantasy, and the tropes of contemporary fantasy developed in a post¬¬-D&D world. Today’s fantasy games have drifted far from the original heroic fantasy foundations. The <i><b>Heroic Fantasy Handbook</b></i> cleaves away decades worth of accumulated tropes, assumptions, and expectations in order to unearth a more heroic way. It is a new supplement, but one born of old roots.
 
 
 ## How to Use This Book
 
-This rulebook contains the complete rules of the Adventurer Conqueror King System, organized into the following parts.
+You must have a copy of <i><b>Adventurer Conqueror King System (ACKS)</i></b> or a similar D20-based fantasy role-playing game to use this supplement. The supplement is organized into the following parts:
 
-[Chapter 1, Introduction](Chapter01.md#chapter-1-introduction), explains the concept of role-playing and defines the most important terms used in the rulebook. 
+[Chapter 1, Introduction](Chapter01.md#chapter-1-introduction), details the purpose, inspiration, and sources for the Heroic Fantasy Handbook.
 
-[Chapter 2, Characters](Chapter02.md#chapter-2-characters), provides numbered, easy to follow steps to create a player character, along with lists of equipment. 
+[Chapter 2, Heroes](Chapter02.md#chapter-2-heroes), provides new rules for character generation and 17 new character classes to expand your Adventurer Conqueror King System campaigns, including the beastmaster, berserker, chosen, ecclesiastic, elven spellsinger, halfling bounder, halfling burglar, loremaster, Nobiran champion, Nobiran wizard, occultist, runemaster, Thrassian deathchanter, venturer, warmistress, Zaharan darklord, and Zaharan sorcerer. 
 
-[Chapter 3, Equipment](Chapter03.md#chapter-3-equipment), provides prices and statistics for the various weapons, armor, and other equipment available in the game. 
+[Chapter 3, Heroic Deeds](Chapter03.md#chapter-3-heroic-deeds), adds new game mechanics designed to emulate heroic tropes such as the influence of fate, the impact of heroic funerals, and the influence of warrior codes. 
 
-[Chapter 4, Proficiencies](Chapter04.md#chapter-4-proficiencies), details the various proficiencies that characters may acquire, along with information on the game mechanics of all proficiencies. 
+[Chapter 4, Heroic Adventuring](Chapter04.md#chapter-4-heroic-adventuring), provides new rules for exploration and combat that add heroic flavor to key game activities. 
 
-[Chapter 5, Spells](Chapter05.md#chapter-5-spells), lists the various spells that different characters may learn and cast, along with a detailed description of each spell's effect in the game. 
+[Chapter 5, Heroic Magic](Chapter05.md#chapter-5-heroic-magic), revised the entire magic system of the game, offering a new type of magic (eldritch magic), two new ways of performing magic (ceremonial magic and spellsinging), and over 155 new spells. 
 
-[Chapter 6, Adventures](Chapter06.md#chapter-6-adventures), provides rules for exploration, encounters, and combat in the dangerous and violent world that the player characters will adventure within.
+[Chapter 6, Heroic Monsters](Chapter06.md#chapter-6-heroic-monsters), includes a dozen new monsters drawn from mythic, legendary, and literary inspirations.
 
-[Chapter 7, Campaigns](Chapter07.md#chapter-7-campaigns), covers the long-range pursuits of characters as they adventure, including conducting magical research, building strongholds, and establishing domains and realms.
+[Chapter 7, Heroic Treasure](Chapter07.md#chapter-7-heroic-treasure), updates the treasure tables in ACKS with new mundane and magical items with heroic flavor. 
 
-[Chapter 8, Monsters](Chapter08.md#chapter-8-monsters), contains a roster of over 100 creatures, some malefic and others benevolent, arranged alphabetically.
-
-[Chapter 9, Treasure](Chapter09.md#chapter-9-treasure), contains descriptions and explanations of the different types of treasure, including rare and wondrous magic items, which adventures may find.
-
-[Chapter 10, Secrets](Chapter10.md#chapter-10-secrets), provides guidelines for the Judge on constructing campaign settings, designing dungeons, and judging the game. 
+[Chapter 8, Heroic Secrets](Chapter08.md#chapter-8-heroic-secrets), explains how the new races, classes, spells, and magic types of the Heroic Fantasy Handbook were created, so that Judges can use the ACKS toolkits to customize them to their taste. 
 
 
 ## The Basics of The Game
