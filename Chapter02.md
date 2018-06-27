@@ -25,18 +25,18 @@ Heroic characters will have ability scores in approximately the same range as th
 
 EXAMPLE: Newton is creating an adventurer for use in a heroic campaign. The Judge has decided to use the optional “Legendary Ability Scores” and “Generating Multiple Characters” rules. Newton therefore will generate five characters; for each character, he will generate six ability scores, rolling 5d6 for each in order and dropping the lowest 2 dice. This combination of optional rules creates very powerful characters! Newton’s results are, in order for STR, INT, WIS, DEX, CON, and CHA: #1 STR 13, INT 17, WIS 11, DEX 15, CON 13, CHA 13;  #2 STR 13, INT 11, WIS 15, DEX 16, CON 11, CHA 15; #3 STR 6, INT 14, WIS 16, DEX 12, CON 12, CHA 13; #4  STR 14, INT 9, WIS 16, DEX 14, CON 17, CHA 14; #5 STR 15, INT 15, WIS 16, DEX 13, CON 14, CHA 17. He decides to select character #5. He selects Elven Spellsinger as his character class, reducing STR to 13 to increase CHA to 18. His final character has STR 13, INT 15, WIS 16, DEX 13, CON 14, CHA 18.
 
-###Wisom Modifier
+### Wisom Modifier
 
 In heroic fantasy campaigns, a character’s WIS modifier should be applied to all saving throws, not just saving throws versus magic.
 
 
-##Hit Points
+## Hit Points
 
 Hit points are a measure of a character’s ability to survive in combat. Hit points are not a direct representation of the character’s capacity to receive physical injury. A character with 40 hp cannot survive eight sword stabs to the stomach! Rather, they represent a holistic combination of fighting skill, stamina, luck, and the favor of the gods, all of which contribute to helping the character roll with blows and survive attacks that would have killed a lesser combatant. Therefore, the amount of damage a weapon deals must be understood relative to the hit points of the character struck. It is the percentage of hit points lost, not the raw number lost, that indicates how physically wounded a character or monster is. 
 
 However, in virtually every retro-clone (including ACKS), the elegant abstraction of hit points is marred by an asymmetry between damage and healing. Consider two characters, a normal man with 5 hp and an epic hero with 40 hp. When the normal man is dealt 4 points of damage by a sword, this is a grievous blow (80% of his hit points); when the epic hero is dealt the same 4 points of damage, this is merely a flesh wound (10% of his hp). This is exactly as it should be. Yet when the epic hero is treated with cure light wounds, he recovers 1d6+1 points of damage – enough to repair a light wound, as the spell suggests; while when the normal man is treated with cure light wounds, he is likely to recover from what we just said was a grievous blow that brought him near death. To fix this asymmetry, The Heroic Fantasy Handbook offers rules for proportional healing. 
 
-###Healing
+### Healing
 
 All beings recover hit points through rest. For each full day of complete rest in reasonably sanitary conditions, a creature will recover its base healing rate (BHR). If its rest is interrupted, the creature will not heal that day. A creature’s base healing rate is based on its maximum hit points, as shown on the Base Healing Rate table. A character’s BHR should be recorded on its character sheet, and updated each time the character gains additional hit points. 
 
@@ -85,7 +85,7 @@ EXAMPLE: Athelstan (with 12 hp and a base healing rate of 1d4 hp) has sustained 
 
 <b>Heroic Breakfast Memorial Rule (Optional):</b> Once per day a character can recover his base healing rate in hp by consuming a meal accompanied by alcohol, coffee, or tea. This recovery is in addition to any hit points gained from complete rest. Halfling characters may consume a second breakfast for an additional recovery of hp. 
 
-###Mortal Wounds
+### Mortal Wounds
 
 When a creature’s hit points drop to 0 or fewer, the creature is unconscious and possibly dead. The creature’s condition will not be determined until an ally treats its wounds. When this occurs, the unconscious creature must roll 1d20+1d6 on the Mortal Wounds table and apply any appropriate modifiers listed. The modified 1d20 roll determines the unconscious creature’s condition while the modified 1d6 roll determines whether any permanent wounds are suffered. Characters not treated within 24 hours of being unconscious must roll, with no bonus for treatment and at the full -10 penalty for being treated 1 day later. 
 
@@ -103,19 +103,19 @@ If a character dies, he can be revived with restore life and limb, reincarnation
 
 <b>Khal Drogo Memorial Rule (Optional):</b> In worlds where wounds can fester and grow foul there is no assurance that an injured hero will recover. Each day that a character rests while recovering from incapacitation, he must make a saving throw versus Death. Apply the character’s CON modifier to the saving throw. If the save succeeds, the day counts towards his period of bed rest. If the save fails, the character’s condition does not improve. If the save fails by 5 or more, or with a natural 1, the character’s condition worsens and the period of bed rest required advances by one day.  If the remaining period of bed rest required ever reaches more than 45 days, the character dies of sepsis, shock, or system failure. This optional rule does not apply to magical healing, but if you’re using this rule, you’re probably not allowing that anyway!
 
-###Temporary Hit Points
+### Temporary Hit Points
 
 Temporary hit points represent temporary blessings or inspiration during which character’s fighting skill, stamina, luck, and the favor of the gods is improved. Temporary hit points are not actual hit points; they are a buffer against damage.  Characters with temporary hit points who take damage lose the temporary hit points first, with any leftover damage carrying over to their normal hit points. For example, if you have 5 temporary hit points and take 7 damage, you lose the temporary hit points and then take 2 damage. A character can be at full hit points and receive temporary hit points. Healing can’t restore temporary hit points, and they can’t be added together. If a character has 0 or fewer hit points, receiving temporary hit points does not count as healing. 
 
-##New and Modified Character Classes
+## New and Modified Character Classes
 
 In order to better represent the archetypes that appear in heroic fantasy, the Heroic Fantasy Handbook introduces several new campaign and racial classes. The core, campaign, and racial character classes presented in the Adventurer Conqueror King System and the Player’s Companion can also be used in Heroic Fantasy Handbook campaigns, although we recommend that some classes be modified or replaced, as noted below. To avoid forcing players to flip between multiple books, we have included complete descriptions of class powers such as turn undead even if they have already appeared elsewhere.
 
-###New Character Classes
+### New Character Classes
 
 The new classes in this book include the beastmaster, berserker,  chosen, ecclesiastic, elven spellsinger, freebooter, halfling bounder, halfling burglar, loremaster, Nobiran champion, Nobiran wizard, occultist, runemaker, Thrassian deathchanter, warmistress, Zaharan darklord, and Zaharan sorcerer. In addition, a revised magic-free version of the venturer (originally appearing in the Player’s Companion) is presented.
 
-###Beastmaster
+### Beastmaster
 
 <i>His straight and perfect figure, muscled as the best of the ancient Roman gladiators must have been muscled, and yet with the soft and sinuous curves of a Greek god, told at a glance the wondrous combination of enormous strength with suppleness and speed. A personification, was Tarzan of the Apes, of the primitive man, the hunter, the warrior. With the noble poise of his handsome head upon those broad shoulders, and the fire of life and intelligence in those fine, clear eyes, he might readily have typified some demigod of a wild and warlike bygone people of his ancient forest.</i> – Tarzan of the Apes (E.R. Burroughs)
 
@@ -184,13 +184,7 @@ Wolfpack Runner Template: This pre-generated template represents a beastmaster r
 | Starting Equipment: | Bone-and-wood spear, sling with 30 stones,  pair of bone “claws” (hand axes), wolf skin wrapped around loins (15gp value), trained wolf henchman  
 
 
-
----------------------
-
-
-
-
-#### Fighter Attack and Saving Throws
+#### Beastmaster Attack and Saving Throws
 
 | Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
 | :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
@@ -204,6 +198,7 @@ Wolfpack Runner Template: This pre-generated template represents a beastmaster r
 | 11-12 |                        8+ |             7+ |             9+ |             9+ |    10+ |           3+
 | 13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+
 | 14    |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
+
 
 
 
