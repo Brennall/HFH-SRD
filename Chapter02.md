@@ -67,7 +67,7 @@ Healing also occurs through magic, such as potions or spells. This kind of heali
 
 EXAMPLE: Athelstan (with 12 hp and a base healing rate of 1d4 hp) has sustained 9 points of damage, leaving him with 3 hp. A cleric treats him with comfrey. Comfrey heals its target by half as much as if he had rested for one day, rounded up. Athelstan’s base healing rate is 1d4 hp per day, so he will heal 1d4/2 hp. The result of the roll is a 3, so Athelstan is healed (3 / 2) 1.5 hp, rounded up to 2 hp. The cleric then casts cure moderate wounds on Athelstan. Cure moderate wounds heals its target as if he had rested for two days, so Athelstan will heal 2d4 hp. The result of the roll is a 5, so Athelstan is healed 5 points. He now has 10 hp of his maximum of 12. 
 
-|Spell/Magic Item	Effect*
+|Spell/Magic Item	|   Effect*
 |:------------|------------:
 |Salving Rest   |	The target’s base healing rate is doubled for non-magical healing.
 |Cure Light Wounds  |	The target is healed as if he had rested for one day.
@@ -80,7 +80,7 @@ EXAMPLE: Athelstan (with 12 hp and a base healing rate of 1d4 hp) has sustained 
 |Comfrey    |	The target is healed by half as much as if he had rested for one day (rounded up). 
 |Potion of Healing  |	The target is healed as if he had rested for one day.
 |Potion of Extra-Healing    |	The target is healed as if he had rested for three days.
-|*These effects occur instead of the spell or magic item’s effect under the ACKS core rules.
+*These effects occur instead of the spell or magic item’s effect under the ACKS core rules.
 
 
 
