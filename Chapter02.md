@@ -175,14 +175,12 @@ At 9th level (Lord of the Wild), a beastmaster can establish an encampment in a 
 <b>Beastmaster Proficiency List:</b> Alertness, Animal Husbandry, Animal Training, Berserkergang, Blind Fighting, Combat Trickery (disarm, incapacitate, knock down, overrun), Dungeon Bashing, Endurance, Fighting Style, Land Surveying, Mountaineering, Naturalism, Navigation, Passing Without Trace, Precise Shooting, Riding, Running, Skirmishing, Sniping, Survival, Swashbuckling, Trapping, Wakefulness, Weapon Finesse, Weapon Focus*
 *Modified or new proficiency described on p. XX.
 
-
-Wolfpack Runner Template: This pre-generated template represents a beastmaster raised by a wolf pack. The template is ready for adventure.  However, if your beastmaster’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4 of ACKS). 
-
 | Template:           | Wolfpack Runner
 | :------------------ | :--------
 | Proficiencies:      | Running, Tracking
 | Starting Equipment: | Bone-and-wood spear, sling with 30 stones,  pair of bone “claws” (hand axes), wolf skin wrapped around loins (15gp value), trained wolf henchman  
 
+Wolfpack Runner Template: This pre-generated template represents a beastmaster raised by a wolf pack. The template is ready for adventure.  However, if your beastmaster’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4 of ACKS). 
 
 #### Beastmaster Attack and Saving Throws
 
@@ -242,33 +240,53 @@ Berserkers enter battle without care for life and limb, and may only wear leathe
 | Skysostan | Composite bow, dagger, hand axe, javelin, lance, net, sling, short sword (scimitar), spear, whip | Weapon & shield, two weapons
 | Ivory Kingdoms | Bola, club, dart, dagger, hand axe, javelin, net, shortbow, short sword, spear | Weapon & shield, two weapons
 
+Like the hardy barbarians from which they are drawn, berserkers resist injury with savage resilience. When a berserker is required to consult the Mortal Wounds table, the player may roll twice and choose the preferred result to apply. Berserkers subtract their class level from the number of days of bed rest required to recover.
 
+What sets the berserker apart from his barbarian kin is his ability to enter berserkergang, the killing rage of mayhem and madness. A berserker’s rage encompasses both lesser and greater states. A berserker may enter a lesser berserkergang at will. Entering a lesser berserkergang does not count as an action, so the berserker may freely go berserker, move, and attack on the same round. While in a lesser berserkergang, a berserker gains a +2 bonus to attack throws and becomes immune to fear. However, the berserker suffers a -2 penalty to AC and cannot retreat from combat. Once it has begun, a lesser berserkergang cannot be ended until combat ends. 
 
+While some ferocious fighters and brutal barbarians also learn to enter the lesser berserkergang (by selecting the Berserkergang proficiency) the greater berserkergang is unique to the berserker class. A berserker may enter the greater  berserkergang only once per day. (A berserker who selects ranks of the Berserkergang proficiency increases the number of times per day he can enter greater berserkergang by one per rank.) Entering a greater berserkergang requires 1 full round (10 seconds), during which time the berserker works himself into a frenzy, biting on his shield, foaming at the mouth, and howling like a wild animal. While in a greater berserkergang, the berserker gains a +2 bonus to attack throws and damage rolls and becomes immune to fear. Additionally the berserker decreases the damage from any non-magical attacks by 1 point per die. (Damage can be reduced to 0, but not less than 0, on each die. Attacks from monsters of 5 HD or more are considered magical attacks due to the monster’s ferocity.) This protection increases to 2 points per die at 7th level and 3 points per die at 13th level. 
 
+EXAMPLE: Beorn is a 7th level berserker. He is struck by an ogre, dealing 2d6 damage. The damage roll is a 3 and a 5, but Beorn reduces the damage from non-magical attacks by 2 points per die, so he takes 1 and 3. Beorn therefore only takes 4 damage from the ogre. The damage reduction is applied per die. 
 
+However, a berserker in a state of greater berserkergang cannot retreat from combat, and has trouble distinguishing friend from foe. If a berserker in a greater berserkergang rolls a natural 1 on an attack throw, he automatically hits a nearby ally within 5’ in lieu of his preferred target. Once begun, a greater berserkergang cannot be ended until combat ends. When the greater berserkergang ends, the berserker is immediately exhausted. While exhausted, the berserker cannot charge or run, and suffers a -1 penalty on attack and proficiency throws. A berserker can recover from exhaustion by resting for 1 turn (10 minutes). 
 
+Outsiders may view a berserker’s rage as a curse or madness, but berserkers know that their powers are actually gifts granted by the pagan gods. The berserker’s relationship to the gods is embodied in a totem animal such as bear totem, boar totem, or wolf totem.  At 1st level (Hunter), a berserker discovers the nature of his totem and gains its totem benefit, a bonus proficiency related to the totem. The berserker’s totem should be appropriate to the character’s ability scores and tribal traditions. At a minimum, the berserker must possess an ability score of at least 9 in his totem’s key ability. Over time, the berserker will come to resemble his totem animal. For instance, a bear berserker might become burly and hirsute, a wolf berserker might become yellow-eyed, lean, and toothy, and a hyena berserker may develop a hunchback and braying laugh. Berserkers often organize themselves into warrior-cults dedicated to their particular totem animal. 
 
+The Totem Animals table, below, lists the key abilities and totem benefits of several sample totems. The Judge may create additional totems at his discretion. Berserkers from Jutland traditionally select either bear, boar, or wolf; from Skysostan, either eagle, hyena, or tiger; and from the Ivory Kingdoms, bull, lion, or panther. 
 
+Starting at 5th level (reaver), a berserker gains the ability to shapechange into his totem animal. The berserker remains in his new shape until he changes back. A 5th level berserker can initially shapechange once per day. For example, if he begins the day in human form, he can shapechange into his totem animal form, but he then has to remain in totem animal form until the following day, when he can change back to his human shape. With each level of experience gained, the berserker can change shape one additional time per day. When in totem animal form, the berserker has the movement, armor class, attacks, damage, and powers listed on the Totem Animals table, below. He retains his normal Hit Dice, hit points, attack throws, and saving throws. If the berserker is of greater Hit Dice than his animal type, he will appear as a bigger, stronger version of the animal, to a maximum of twice normal size. For example, a 10th level berserker in lion shape would appear as a huge predator, twice the mass of a normal lion. A larger-than normal totem animal form increases each damage die by +1. Apart from size, the berserker is indistinguishable from a normal animal. The totem animal shape does not detect as magical, is not detected by spells that reveal illusions, and cannot be dispelled. Changing shape can be performed during combat in lieu of making an attack. Alternatively, a berserker may expend a use of shapechange to enter into a greater berserkergang, tapping into his animal spirit to unleash his inner savagery.
 
+Note that while a berserker’s relationship to his totem animal resembles that of a shaman’s, berserkers do not acquire an actual animal companion – they merely take on some of the characteristics of their totem.
 
+|Totem Animal | Key Ability | Totem Benefit | Shapechanged Characteristics
+|:----------- | :---------- | :---------------- | :---------------------------
+|Bear         | STR         | Berserkergang     | Move 120’, AC3, HD 4ǂ, #AT 3, Dmg 1d3/1d3/1d6, bear hug
+|Boar         | CON         | Kin-Slaying       | Move 150', AC2, HD 3ǂ, #AT 1, Dmg 2d4, charge
+|Bull         | STR         | Dungeon Bashing   | Move 240’, AC2, HD 3ǂ, #AT 1, Dmg 1d6
+|Eagle        | CHA         | Command           | Move 480’ fly, HD 1ǂ, AC1, #AT 2, Dmg 1d2/1d2, swoop attack
+|Hyena        | DEX         | Weapon Focus      | Move 120’, AC2, HD 2+1ǂ, #AT 1, Dmg 1d8 + bone-crush
+|Lion         | CHA         | Beast Friendship  | Move 150’, AC3, HD 5ǂ, #AT 3, Dmg 1d4+1/1d4+1/1d10
+|Panther      | DEX         | Weapon Finesse    | Move 210’, AC5, HD 4ǂ, #AT 3, Dmg 1d4/1d4/1d8
+|Tiger        | STR         | Ambushing         | Move 150’, AC3, HD 6ǂ, #AT 3, Dmg 1d6/1d6/2d6, - 2 surprise rolls
+|Wolf         | CON         | Running           | Move 180’, AC2, HD 2+2ǂ, #AT 1, Dmg 1d6
+ǂ Berserker retains his normal HD and hp; but if berserker’s HD exceed totem animal form’s HD, increase damage die by +1
 
+At 5th level a berserker’s animal magnetism also begins to inspire those who follow him. Any henchmen and mercenaries hired by the berserker gain a +1 bonus to their morale score whenever he personally leads them. This bonus stacks with any modifiers from the berserker’s Charisma or proficiencies.
 
-------
+Upon reaching 9th level (Warchief), a berserker can build or claim a chieftain’s hall. When the berserker establishes his hall, 1d4+1x10 0th level mercenaries and 1d6 berserkers of 1st-3rd level will serve him. The berserkers will be of the same region and totem animal as their warchief. If hired, they must be paid standard rates for mercenaries. Chieftains’ halls are otherwise identical to fighters’ castles, as detailed in the Campaign chapter of the ACKS Rulebook.
 
+At 9th level a  berserker also gains the ability to spiritwalk. After 1 turn (10 minutes) of chanting, the berserker enters a deep trance during which his spirit walks free of his body. Once a spiritwalk begins, it continues until the berserker’s spirit returns to his body, to a maximum duration of 1 hour per level. A spiritwalking berserker’s spirit can assume either human or totem animal shape as desired. In either shape, the berserker can see and hear normally, move around at his shape’s normal movement rate, and pass through solid objects without difficulty. However, the spiritwalking berserker cannot see into, hear sounds from, or move through an area warded by an anti-magic shell or protection from evil spell or similar effect. The spiritwalking berserker is incorporeal and invisible, but can be detected with detect invisible or true seeing, harmed by spells and magic weapons if detected, and forced to return to his body with dispel evil. If the berserker’s body is destroyed, the character dies at the end of the spiritwalk. If the berserker’s spirit is destroyed, his body falls into a catatonic slumber that can only be lifted with restore life and limb, resurrection, or wish. Spiritwalking is so taxing that it can be performed but once per week.
 
-<b>Beastmaster Proficiency List:</b> Alertness, Animal Husbandry, Animal Training, Berserkergang, Blind Fighting, Combat Trickery (disarm, incapacitate, knock down, overrun), Dungeon Bashing, Endurance, Fighting Style, Land Surveying, Mountaineering, Naturalism, Navigation, Passing Without Trace, Precise Shooting, Riding, Running, Skirmishing, Sniping, Survival, Swashbuckling, Trapping, Wakefulness, Weapon Finesse, Weapon Focus*
-*Modified or new proficiency described on p. XX.
+**Berserker Proficiency List:** Alertness, Ambushing, Beast Friendship, Berserkergang, Blind Fighting, Climbing, Combat Reflexes, Combat Trickery (force back, knock down, overrun, wrestling), Command, Divine Blessing, Divine Health, Endurance, Fighting Style, Mountaineering, Passing Without Trace, Precise Shooting, Riding, Running, Seafaring, Skirmishing, Sniping, Survival, Swashbuckling, Weapon Finesse, Weapon Focus
 
-
-Wolfpack Runner Template: This pre-generated template represents a beastmaster raised by a wolf pack. The template is ready for adventure.  However, if your beastmaster’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4 of ACKS). 
-
-| Template:           | Wolfpack Runner
+| Template:           | Bear-Cult Warrior
 | :------------------ | :--------
-| Proficiencies:      | Running, Tracking
-| Starting Equipment: | Bone-and-wood spear, sling with 30 stones,  pair of bone “claws” (hand axes), wolf skin wrapped around loins (15gp value), trained wolf henchman  
+| Proficiencies:      | Fighting Style (weapon & Shield), Endurance, *Berserkergang*
+| Starting Equipment: | Bearded axe, shield, francisca, bearskin leather armor, wool tunic and pants, leather belt,  low boots, silver arm-bands (45gp value), wineskin with strong ale, small sack, 50’ rope, grappling hook, 1 weeks’ iron rations  
 
+Bear-Cult Warrior Template: This pre-generated template represents a pagan warrior of the bear-cult. The template is ready for adventure.  However, if your berserker’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4 of ACKS). 
 
-#### Beastmaster Attack and Saving Throws
+#### Berserker Attack and Saving Throws
 
 | Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
 | :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
@@ -284,11 +302,54 @@ Wolfpack Runner Template: This pre-generated template represents a beastmaster r
 | 14    |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
 
 
+### Chosen
+
+*“My friend, it is in my heart that you were chosen by the Creator. That is our hope. Lord Foul taught Drool to do the summoning because he desired white gold. But Drool’s hands were on the Staff, not Lord Foul’s. The Despiser could not control who was summoned. So if you were chosen, you were chosen by the Creator…. The Creator believes your uncoerced volition and strength will save us in the end. If he is wrong, he has put the weapon of his own destruction into Lord Foul’s hands.”* - Lord Mhoram in The Illearth War (S.R. Donaldson) 
+
+| Prime Requisite: | Lowest Ability Score
+| :--------------- | :---
+| Requirements:    | Any ability score 18
+| Hit Dice:        | 1d6
+| Maximum Level:   | 14
+
+Some men, whether out of desire for wealth, or fame, or power, or mere wanderlust, choose to be adventurers. But others are chosen, their paths guided by great powers toward heroic roads that lead them to everlasting glory—or ignominious death. A chosen can appear anywhere and at any time. The humblest farm boy is as likely to be marked by fate as the scion of a king. Chosen are, however, quite rare; fewer than 1 in 1,000 adventurers are chosen, and most people will live their entire lives without ever seeing one. When they do appear, they inevitably draw the attention of the great powers of light and darkness, ever ready to anoint a new champion or preemptively slay a new foe before he can come into the fullness of his power. 
+
+To qualify as a chosen, a character must have at least one natural ability score of 18. The chosen’s prime requisite is his lowest ability score. Since a character must have an ability score of at least 9 in a class’s prime requisite(s) in order to choose a particular class, a character must have at least 9 in every ability score or he cannot become a chosen. A chosen must always be of Lawful alignment. A chosen who changes to Neutral or Chaotic alignment loses all his gifts. (At the Judge’s discretion, Chaotic chosen may be permitted, who work for the powers of darkness.)
+
+Chosen are blessed with an instinctive natural aptitude for combat. At first level, chosen hit an unarmored foe (AC 0) with an attack throw of 10+. Like fighters, they advance in attack throws and saving throws by two points every three levels of experience. Whether from preternatural skill or uncanny link, chosen increase their base damage roll from successful melee and missile attacks by +1 at 1st level and by an additional +1 at 3rd, 6th, 9th, and 12th level. A chosen can fight with a two-handed weapon, a weapon in each hand, or a weapon and shield, as desired.
+
+Despite their talents, most chosen begin their adventuring careers with limited knowledge of arms and armor. Chosen may only wear hide or lighter armor, and may only fight with bolas, clubs, daggers, darts, javelins, nets, slings, saps, and staffs. However, a chosen may use one or more gifts (see below) to train in the use of better armor or weapons, either at 1st level or later. 
+
+#### Chosen Level Progression
+
+| Experience | Title              | Level | Hit Dice | Damage | Gifts    |
+| ---------: | :------------------| ----: | :------- | -----: | -------: |
+|          0 | Innocent           |     1 | 1d6      |     +1 |        3 |
+|      2,600 | Journeyer          |     2 | 2d6      |     +1 |        4 |
+|      5,200 | Adventurer         |     3 | 3d6      |     +2 |        5 |
+|     10,400 | Hero               |     4 | 4d6      |     +2 |        6 |
+|     20,800 | Exemplar           |     5 | 5d6      |     +2 |        7 |
+|     41,600 | Champion           |     6 | 6d6      |     +3 |        8 |
+|     85,000 | Protagonist        |     7 | 7d6      |     +3 |        9 |
+|    170,000 | Epic Hero          |     8 | 8d6      |     +3 |       10 |
+|    290,000 | Chosen             |     9 | 9d6      |     +4 |       11 |
+|    410,000 | Chosen, 10th level |    10 | 9d6+1*   |     +4 |       12 |
+|    530,000 | Chosen, 11th level |    11 | 9d6+2*   |     +4 |       13 |
+|    650,000 | Chosen, 12th level |    12 | 9d6+3*   |     +5 |       14 |
+|    770,000 | Chosen, 13th level |    13 | 9d6+4*   |     +5 |       15 |
+|    890,000 | The On             |    14 | 9d6+5*   |     +5 |       16 |
+
+*Hit point modifiers from constitution are ignored
 
 
 
 
---------
+
+
+------
+
+
+
 ## Core Classes
 
 
