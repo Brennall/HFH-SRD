@@ -200,12 +200,95 @@ Wolfpack Runner Template: This pre-generated template represents a beastmaster r
 | 14    |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
 
 
+### Berserker
+
+*Soon the Berserkergang began to come on Valgard, he trembled and frothed and gnawed the rim of his shield, he rushed forward howling and slaying. His ax was a red blur, he did not feel weapons bite him, and the sheer terror of his rage-twisted face froze many men even while he cut them down. When the fit was over he was weak, but he had heaped corpses high.* – The Broken Sword (Poul Anderson)
+
+| Prime Requisite: | STR and CON
+| :--------------- | :---
+| Requirements:    | None
+| Hit Dice:        | 1d8
+| Maximum Level:   | 14
+
+Berserkers are barbarian warriors blessed by pagan gods with the power to enter a trance-like battle rage known as the berserkergang. While enraged, a berserker fights with bear-like ferocity and can shrug off blows that would fell normal men. Berserkers are feared even by their allies, for in the grip of the berserkergang, a man may cut down his dearest friend as easily as his bitterest foe. Some berserkers find their gift brings ruin on themselves, ending up as outlaws and kin-slayers without family or friend; but most are recruited into warrior-cults of like-minded brothers, where they learn to master their fury. In time, berserkers may become famous raiders, housecarls, or even great chieftains. In the Auran Empire, berserkers might be reavers from the bleak wastes of northern Jutland, fierce lancers from Skysostan, or savage tribesmen from the Ivory Kingdom jungles of Keita, Munde, and Kushtu. 
+
+#### Berserker Level Progression
+
+| Experience | Title                        | Level | Hit Dice | Damage Bonus 
+| ---------: | :--------------------------- | ----: | :------- | -----------: 
+|          0 | Hunter                       |     1 | 1d8      |           +1 
+|      2,750 | Raider                       |     2 | 2d8      |           +1 
+|      5,500 | Marauder                     |     3 | 3d8      |           +2 
+|     11,000 | Plunderer                    |     4 | 4d8      |           +2 
+|     22,000 | Reaver                       |     5 | 5d8      |           +2 
+|     44,000 | Bloodletter                  |     6 | 6d8      |           +3 
+|     90,000 | Menace                       |     7 | 7d8      |           +3 
+|    180,000 | Scourge                      |     8 | 8d8      |           +3 
+|    300,000 | Warchief                     |     9 | 9d8      |           +4 
+|    420,000 | Warchief, 10th lvl           |    10 | 9d8+2*   |           +4 
+|    540,000 | Warchief, 11th lvl           |    11 | 9d8+4*   |           +4 
+|    660,000 | Warchief, 12th lvl           |    12 | 9d8+6*   |           +5 
+|    780,000 | Warchief, 13th level         |    13 | 9d8+8*   |           +5 
+|    900,000 | Great Chieftain              |    14 | 9d8+10*  |           +5 
+
+*Hit point modifiers from constitution are ignored
+
+At first level, berserkers hit an unarmored foe (AC 0) with an attack throw of 10+. Like fighters, they advance in attack throws and saving throws by two points every three levels of experience. Berserkers increase their base damage roll from successful melee attacks by +1 at 1st level and by an additional +1 at 3rd, 6th, 9th, and 12th level. Although sometimes skilled with missile and especially thrown weapons, a berserker revels in close combat, fighting his enemies eye to eye, not at a distance.
+Berserkers enter battle without care for life and limb, and may only wear leather or lighter armor. Like their barbarian kinsmen, they are limited to fighting with the traditional weapons and styles of their tribe. When a berserker is created, select a region of origin for the character from the Regional Origin table below and note down the permitted weapons and fighting styles. The Judge may create other regions of origin within his own campaign setting where necessary. (Note that berserkers do not share their barbarian kinsmen’s natural proficiency. Some berserkers may choose to use a class proficiency to match their kinsmen, while other berserkers choose to stand apart from their kinsmen and learn different skills.) Berserkers may only use magic items usable by fighters.
+
+| Region  | Weapons Permitted | Fighting Styles Permitted 
+| :------ | :---------------------------- | :---------------- |
+| Jutland | Battle axe, club, dagger, great axe, hand axe, shortbow, spear, sword, two-handed sword, war hammer | Weapon & shield, two-handed weapon
+| Skysostan | Composite bow, dagger, hand axe, javelin, lance, net, sling, short sword (scimitar), spear, whip | Weapon & shield, two weapons
+| Ivory Kingdoms | Bola, club, dart, dagger, hand axe, javelin, net, shortbow, short sword, spear | Weapon & shield, two weapons
 
 
 
 
 
 
+
+
+
+
+
+
+------
+
+
+<b>Beastmaster Proficiency List:</b> Alertness, Animal Husbandry, Animal Training, Berserkergang, Blind Fighting, Combat Trickery (disarm, incapacitate, knock down, overrun), Dungeon Bashing, Endurance, Fighting Style, Land Surveying, Mountaineering, Naturalism, Navigation, Passing Without Trace, Precise Shooting, Riding, Running, Skirmishing, Sniping, Survival, Swashbuckling, Trapping, Wakefulness, Weapon Finesse, Weapon Focus*
+*Modified or new proficiency described on p. XX.
+
+
+Wolfpack Runner Template: This pre-generated template represents a beastmaster raised by a wolf pack. The template is ready for adventure.  However, if your beastmaster’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4 of ACKS). 
+
+| Template:           | Wolfpack Runner
+| :------------------ | :--------
+| Proficiencies:      | Running, Tracking
+| Starting Equipment: | Bone-and-wood spear, sling with 30 stones,  pair of bone “claws” (hand axes), wolf skin wrapped around loins (15gp value), trained wolf henchman  
+
+
+#### Beastmaster Attack and Saving Throws
+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+| 1     |                       15+ |            14+ |            16+ |            16+ |    17+ |          10+
+| 2-3   |                       14+ |            13+ |            15+ |            15+ |    16+ |           9+
+| 4     |                       13+ |            12+ |            14+ |            14+ |    15+ |           8+
+| 5-6   |                       12+ |            11+ |            13+ |            13+ |    14+ |           7+
+| 7     |                       11+ |            10+ |            12+ |            12+ |    13+ |           6+
+| 8-9   |                       10+ |             9+ |            11+ |            11+ |    12+ |           5+
+| 10    |                        9+ |             8+ |            10+ |            10+ |    11+ |           4+
+| 11-12 |                        8+ |             7+ |             9+ |             9+ |    10+ |           3+
+| 13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+
+| 14    |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
+
+
+
+
+
+
+--------
 ## Core Classes
 
 
