@@ -269,6 +269,7 @@ Note that while a berserker’s relationship to his totem animal resembles that 
 |Panther      | DEX         | Weapon Finesse    | Move 210’, AC5, HD 4ǂ, #AT 3, Dmg 1d4/1d4/1d8
 |Tiger        | STR         | Ambushing         | Move 150’, AC3, HD 6ǂ, #AT 3, Dmg 1d6/1d6/2d6, - 2 surprise rolls
 |Wolf         | CON         | Running           | Move 180’, AC2, HD 2+2ǂ, #AT 1, Dmg 1d6
+
 ǂ Berserker retains his normal HD and hp; but if berserker’s HD exceed totem animal form’s HD, increase damage die by +1
 
 At 5th level a berserker’s animal magnetism also begins to inspire those who follow him. Any henchmen and mercenaries hired by the berserker gain a +1 bonus to their morale score whenever he personally leads them. This bonus stacks with any modifiers from the berserker’s Charisma or proficiencies.
@@ -341,7 +342,13 @@ Despite their talents, most chosen begin their adventuring careers with limited 
 
 *Hit point modifiers from constitution are ignored
 
+Every chosen receives gifts from the powers that have chosen him. Some gifts reveal themselves in overtly magical displays; other gifts may manifest as merely an instinctive aptitude for learning of particular skills, enabling the chosen to master in mere months what takes others a lifetime to learn.
 
+At 1st level (Innocent), a chosen begins with three gifts. With each level of experienced gained thereafter, the number of gifts bestowed upon by the chosen increases, as shown on the Chosen Level Progression table. 
+
+Just as each chosen has a different destiny, so each has a different set of gifts. Chosen select their gifts from the list below. All selections must be approved by the Judge. Some gifts may be banned from particular settings where they are inappropriate or where they refer to optional rules that the Judge has opted not to use. Chosen can only select the same gift multiple times at the same level with the Judge’s approval.
+
+#### Chosen Gifts
 
 
 
