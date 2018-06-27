@@ -80,6 +80,7 @@ EXAMPLE: Athelstan (with 12 hp and a base healing rate of 1d4 hp) has sustained 
 |Comfrey    |	The target is healed by half as much as if he had rested for one day (rounded up). 
 |Potion of Healing  |	The target is healed as if he had rested for one day.
 |Potion of Extra-Healing    |	The target is healed as if he had rested for three days.
+
 *These effects occur instead of the spell or magic item’s effect under the ACKS core rules.
 
 
