@@ -83,78 +83,132 @@ EXAMPLE: Athelstan (with 12 hp and a base healing rate of 1d4 hp) has sustained 
 
 *These effects occur instead of the spell or magic item’s effect under the ACKS core rules.
 
+<b>Heroic Breakfast Memorial Rule (Optional):</b> Once per day a character can recover his base healing rate in hp by consuming a meal accompanied by alcohol, coffee, or tea. This recovery is in addition to any hit points gained from complete rest. Halfling characters may consume a second breakfast for an additional recovery of hp. 
+
+###Mortal Wounds
+
+When a creature’s hit points drop to 0 or fewer, the creature is unconscious and possibly dead. The creature’s condition will not be determined until an ally treats its wounds. When this occurs, the unconscious creature must roll 1d20+1d6 on the Mortal Wounds table and apply any appropriate modifiers listed. The modified 1d20 roll determines the unconscious creature’s condition while the modified 1d6 roll determines whether any permanent wounds are suffered. Characters not treated within 24 hours of being unconscious must roll, with no bonus for treatment and at the full -10 penalty for being treated 1 day later. 
+
+<b>Heroic Survival:</b> In heroic fantasy campaigns, heroes are considerably more likely to survive mortal wounds than ordinary men. Adventurers with d6 HD add +2 to their 1d20 roll on the Mortal Wounds table. Adventurers with d8 HD add +4, adventurers with d10 HD add +6, and adventurers with d12 HD add +8.
+
+Some results on the Mortal Wounds table will indicate that a character needs a period of bed rest to recover. During this time, the character cannot recover to more than 1 hp and cannot take any action other than speaking and moving at half speed. The period of bed rest can be shortened with magical healing – simply count the days of rest from the magical healing towards the recovery period. However, a character cannot benefit from more than one type of magical healing per day when recovering from mortal wounds.  
+
+EXAMPLE: A fight goes badly, and Athelstan suffers grievous wounds; he will require 14 days of bed rest to recover. The party hires the patriarch of the local temple to cast cure critical wounds on Athelstan. This heals Athelstan as if he had rested for 5 days. Athelstan now requires (14-5) 9 days of bed rest to recover. 
+
+If a character suffers permanent wounds, powerful healing magic such as a restore life and limb spell, regeneration spell, or ring of regeneration can eliminate any penalties caused. If applied swiftly, other types of healing can also eliminate the penalties from permanent wounds. If healing (magic or proficiency) restores the character to 1 hit point within 1 turn (10 minutes) of receiving the permanent wound, then the penalties from the permanent wound will be eliminated once the character completes the required bed rest. The permanent wound’s effects will still be present during the recovery period, however.  
+
+EXAMPLE: During a defense of the town from orc raiders, Athelstan is reduced to -9 hp and must roll on the Mortal Wounds table. The roll goes badly – grievous wounds resulting in one of his arms being crushed. Fortunately, the patriarch of the local temple is nearby, and able to cast cure critical wounds on Athelstan just a few rounds after he is injured. Since Athelstan’s base healing rate is 1d4 hp, cure critical wounds heals him of 5d4 hp. The roll is a 10, enough to raise him to 1 hp. When Athelstan finishes his period of bed rest (2 weeks), he will regain use of his arm. 
+
+If a character dies, he can be revived with restore life and limb, reincarnation, or other magical effect that restores the dead to life. Characters treated with restore life and limb often need extensive periods of time to recover, and may suffer strange side effects. The character must roll 1d20+1d6 on the Tampering with Mortality table and apply any appropriate modifiers listed. The resulting side effects are permanent and can only be removed with a wish spell. The recovery period, if any, from tampering with mortality can be shorted with magical healing as described above. Note that magic which can restore the dead to life is very rare in campaigns using the Heroic Fantasy Handbook.
+
+<b>Khal Drogo Memorial Rule (Optional):</b> In worlds where wounds can fester and grow foul there is no assurance that an injured hero will recover. Each day that a character rests while recovering from incapacitation, he must make a saving throw versus Death. Apply the character’s CON modifier to the saving throw. If the save succeeds, the day counts towards his period of bed rest. If the save fails, the character’s condition does not improve. If the save fails by 5 or more, or with a natural 1, the character’s condition worsens and the period of bed rest required advances by one day.  If the remaining period of bed rest required ever reaches more than 45 days, the character dies of sepsis, shock, or system failure. This optional rule does not apply to magical healing, but if you’re using this rule, you’re probably not allowing that anyway!
+
+###Temporary Hit Points
+
+Temporary hit points represent temporary blessings or inspiration during which character’s fighting skill, stamina, luck, and the favor of the gods is improved. Temporary hit points are not actual hit points; they are a buffer against damage.  Characters with temporary hit points who take damage lose the temporary hit points first, with any leftover damage carrying over to their normal hit points. For example, if you have 5 temporary hit points and take 7 damage, you lose the temporary hit points and then take 2 damage. A character can be at full hit points and receive temporary hit points. Healing can’t restore temporary hit points, and they can’t be added together. If a character has 0 or fewer hit points, receiving temporary hit points does not count as healing. 
+
+##New and Modified Character Classes
+
+In order to better represent the archetypes that appear in heroic fantasy, the Heroic Fantasy Handbook introduces several new campaign and racial classes. The core, campaign, and racial character classes presented in the Adventurer Conqueror King System and the Player’s Companion can also be used in Heroic Fantasy Handbook campaigns, although we recommend that some classes be modified or replaced, as noted below. To avoid forcing players to flip between multiple books, we have included complete descriptions of class powers such as turn undead even if they have already appeared elsewhere.
+
+###New Character Classes
+
+The new classes in this book include the beastmaster, berserker,  chosen, ecclesiastic, elven spellsinger, freebooter, halfling bounder, halfling burglar, loremaster, Nobiran champion, Nobiran wizard, occultist, runemaker, Thrassian deathchanter, warmistress, Zaharan darklord, and Zaharan sorcerer. In addition, a revised magic-free version of the venturer (originally appearing in the Player’s Companion) is presented.
+
+###Beastmaster
+
+<i>His straight and perfect figure, muscled as the best of the ancient Roman gladiators must have been muscled, and yet with the soft and sinuous curves of a Greek god, told at a glance the wondrous combination of enormous strength with suppleness and speed. A personification, was Tarzan of the Apes, of the primitive man, the hunter, the warrior. With the noble poise of his handsome head upon those broad shoulders, and the fire of life and intelligence in those fine, clear eyes, he might readily have typified some demigod of a wild and warlike bygone people of his ancient forest.</i> – Tarzan of the Apes (E.R. Burroughs)
+
+| Prime Requisite: | STR, DEX, CON, CHA
+| :--------------- | :---
+| Requirements:    | None
+| Hit Dice:        | 1d6
+| Maximum Level:   | 14
+
+Some kings and heroes, dreadful in aspect and demeanor, are whispered to have been raised by beasts, suckled by wolves, adopted by the wild. Such tales are rarely true. Most feral children live short and brutish lives, dying young without ever seeing another of their own kind; even if found, they have often regressed into a state of savagery from which their natural humanity cannot free them. But from time to time, a child, abandoned or lost to civilization and adopted by beasts, may be endowed with the strength and character to transcend both man and beast and become something greater. Such children, if they survive, become beastmasters – lords of the wild, combining the ferocity and toughness of a predator with the cunning and courage of a hero. 
+
+#### Beastmaster Level Progression
+
+| Experience | Title                        | Level | Hit Dice | Damage | Backstab | Acrobatics | Climbing | Hear Noise
+| ---------: | :--------------------------- | ----: | :------- | -----: | -------: | ---------: | -------: | ---------:
+|          0 | Savage Stripling             |     1 | 1d6      |     +1 |       x2 |        20+ |       6+ |        14+
+|      2,900 | Young Hunter                 |     2 | 2d6      |     +1 |       x2 |        19+ |       5+ |        13+
+|      5,800 | Proven Hunter                |     3 | 3d6      |     +2 |       x2 |        18+ |       5+ |        12+
+|     11,600 | Great Hunter                 |     4 | 4d6      |     +2 |       x2 |        17+ |       4+ |        11+
+|     23,200 | Mighty Warrior               |     5 | 5d6      |     +2 |       x3 |        16+ |       4+ |        10+
+|     46,400 | Tribal Champion              |     6 | 6d6      |     +3 |       x3 |        15+ |       4+ |         9+
+|     95,000 | Tribal Hero                  |     7 | 7d6      |     +3 |       x3 |        14+ |       3+ |         8+
+|    190,000 | Tribal Chieftain             |     8 | 8d6      |     +3 |       x3 |        13+ |       3+ |         7+
+|    310,000 | Lord of the Wild             |     9 | 9d6      |     +4 |       x4 |        12+ |       3+ |         6+
+|    430,000 | Lord of the Wild, 10th level |    10 | 9d6+2*   |     +4 |       x4 |        11+ |       3+ |         5+
+|    550,000 | Lord of the Wild, 11th level |    11 | 9d6+4*   |     +4 |       x4 |        10+ |       2+ |         4+
+|    670,000 | Lord of the Wild, 12th level |    12 | 9d6+6*   |     +5 |       x4 |         9+ |       2+ |         3+
+|    790,000 | Lord of the Wild, 13th level |    13 | 9d6+8*   |     +5 |       x5 |         8+ |       1+ |         2+
+|    910,000 | King of the Beasts           |    14 | 9d6+10*  |     +5 |       x5 |         7+ |       1+ |         1+
+
+*Hit point modifiers from constitution are ignored
+
+Beastmasters fight with the instincts and aggression of natural predators. At first level, beastmasters hit an unarmored foe (AC 0) with an attack throw of 10+. Like fighters, they advance in attack throws and saving throws by two points every three levels of experience. They increase their damage from attacks by +1 at 1st level, and by an additional +1 at 3rd, 6th, 9th, and 12th level.  Beastmasters care nothing for civilized concepts such as chivalric combat, preferring to attack with surprise whenever possible. They may backstab as thieves of their class level. 
+
+However, beastmasters lack formal training in arms and armor, and can wield only primitive weapons of the sort they could have fashioned in the wild: spears, hand axes, daggers, bolas, darts, nets, slings, saps, and staves. They may fight wielding a weapon two-handed, and wielding a weapon in each had, but may not use shields nor wear armor.  They may use only magic items usable by fighters.
+
+Due to their savage upbringing, beastmasters have animal reflexes, gaining +1 bonus to initiative and a +1 bonus to surprise rolls. They are constantly alert to danger, and can hear noises as a thief of their class level. From the unspeakable hardships they have endured, beastmasters gain savage resilience. When a beastmaster is required to consult the Mortal Wounds table, the player may roll twice and choose the preferred result to apply.  Beastmasters also subtract their class level from the number of days of bed rest required to recover. 
+
+At a young age, beastmasters learn to clamber up trees, cliffs, and other vertical services with the agility of a monkey. As a result, all beastmasters can climb as a thief of their class level. They also can perform feats of acrobatics such as swinging on vines or leaping over foes. In lieu of moving during a round, a beastmaster may attempt a proficiency throw of 20+ to tumble behind an opponent in melee. The proficiency throw required for the tumble is reduced by 1 per level of experience the character possesses. If successful, the beastmaster is now behind his opponent. The opponent loses the benefit of his shield, if any, and the beastmaster can backstab his opponent (gaining +4 to his attack throw and bonus damage based on his level). Beastmasters also gain a +2 bonus to saving throws where agility would help avoid the situation, such as tilting floors and pit traps.
+
+Like other predators of the night, beastmasters are naturally stealthy, and opponents suffer a -1 penalty to surprise rolls when encountering them. Outdoors, beastmasters are difficult to spot, having the ability to seemingly disappear into woods and underbrush with a proficiency throw of 3+ on 1d20. In dungeons, a beastmaster who is motionless and quiet in cover can escape detection with a proficiency throw of 14+ on 1d20. 
+
+As natives of the wild, beastmasters bring significant advantages to parties on wilderness adventures. Any time the beastmaster’s party is in country familiar to the beastmaster, they get a +4 bonus on proficiency throws to avoid getting lost. In any terrain except clear and grassland terrain, the beastmaster’s party receives a +5 bonus to proficiency throws to evade wilderness encounters. A party guided by a beastmaster can evade wilderness encounters even when surprised on a proficiency throw of 19+.  
+
+Once per day, a beastmaster may shout a bestial cry that can be heard up to 750’ away.  Hostile ordinary animals hearing the cry must immediately make a successful morale roll or run away from the beastmaster. Other ordinary animals hearing the beastmaster’s cry may come to his assistance. If the animal is friendly to the beastmaster (e.g. if it is a henchman, a trained animal, or resident within 5 miles of his encampment) it will automatically run or fly to his assistance as quickly as possible. Otherwise, the Judge should make a reaction roll for each animal, with a Friendly result indicating the creature comes to the beastmaster’s assistance. 
+
+Having been raised by and with animals, all beastmasters are friends of birds and beasts. They understand the subtle body language and moods of normal animals (though the animals may not understand the character), which grants beastmasters a +2 to all reaction rolls when encountering normal animals and allows them to take animals as henchmen. They also can identify flora and fauna with a proficiency throw of 11+.
+
+Conversely, all beastmasters are discomfited by civilization. The sights, smells, and ways of cities are foreign and offensive to them. A beastmaster suffers a penalty to reaction rolls when in urban settlements equal to 7 minus the settlement’s market value. 
+
+When purchasing starting equipment, a beastmaster may only select primitive weapons, animal parts (from Lairs & Encounters) blankets, healing herbs, ropes, poles, rations, sacks, stakes, tents, torches, and trained animals. However, any trained animals that the beastmaster begins play with may be immediately recruited as henchmen if desired. Any unspent coin is lost.
+
+When a beastmaster reaches 5th level (Mighty Warrior), his animal magnetism begins to inspire the men and beasts that follow him. Any henchmen of the beastmaster, and any guard or hunting animals handled by the beastmaster, gain a +1 bonus to their morale score whenever he personally leads them. This bonus stacks with any modifiers from the beastmaster’s Charisma or proficiencies.
+
+At 9th level (Lord of the Wild), a beastmaster can establish an encampment in a wilderness hex. A beastmaster’s encampment is often centered on a wooden cabin or house perched in the highest branches of a great tree. A beastmaster does not attract followers when he establishes an encampment, but he does gain the fellowship of animals: all ordinary animals within 5 miles of it become kind and helpful (as per an elven fastness). 
+
+<b>Beastmaster Proficiency List:</b> Alertness, Animal Husbandry, Animal Training, Berserkergang, Blind Fighting, Combat Trickery (disarm, incapacitate, knock down, overrun), Dungeon Bashing, Endurance, Fighting Style, Land Surveying, Mountaineering, Naturalism, Navigation, Passing Without Trace, Precise Shooting, Riding, Running, Skirmishing, Sniping, Survival, Swashbuckling, Trapping, Wakefulness, Weapon Finesse, Weapon Focus*
+*Modified or new proficiency described on p. XX.
 
 
-## Character Abilities
+Wolfpack Runner Template: This pre-generated template represents a beastmaster raised by a wolf pack. The template is ready for adventure.  However, if your beastmaster’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4 of ACKS). 
 
-Character Abilities must be determined by rolling randomly. Roll 3d6 for each ability in the order listed below. As an optional rule, the Judge may allow you to roll 6 scores and then assign them to your abilities in any order you desire.
-
-When complete, your character will have a score ranging from 3 to 18 in each of the following abilities. A bonus or penalty is associated with each score, as shown on the table below. Each class has one or more prime requisite ability scores, which affect the rate at which the character will earn experience points. Some class may have other minimum ability requirements which must be met in addition.
-
-#### Ability Score
-
-| Ability Score | Bonus/Penalty
-| :------------ | ------------:
-| 3             |            -3
-| 4-5           |            -2
-| 6-8           |            -1
-| 9-12          |             0
-| 13-15         |            +1
-| 16-17         |            +2
-| 18            |            +3
-
-**Strength**: As the name implies, this ability measures the character's raw physical power. Strength is a prime requisite for assassins, explorers, dwarven vaultguards, elven spellswords, and fighters. Apply the ability bonus or penalty for Strength to all attack throws and damage rolls in melee (hand-to-hand) combat. Note that a penalty here will not reduce damage from a successful attack below one point, unless the target is otherwise invulnerable to the attack (see the [Adventures](Chapter06.md#chapter-6-adventures) chapter for details).
-
-**Intelligence**: This is the ability to learn and apply knowledge. Intelligence is a prime requisite for elven nightblades, elven spellswords, and mages. The ability bonus for Intelligence is added to the number of proficiencies the character begins play with (see the [Proficiencies](Chapter04.md#chapter-4-proficiencies) chapter for details) and the number of languages the character is able to learn to read and write, as described below. Mages, elven nightblades, and elven spellswords increase the number of spells of each level in their repertoire by their Intelligence bonus (see the [Spells](Chapter05.md#chapter-5-spells) chapter for details).
-
-All characters begin the game knowing their native language. In most campaign worlds, the majority of humans speak a common language, often called "Common."  The demi-human races (elves and dwarves) have their own languages, and members of these  races normally begin play knowing their racial language, Common (or the local human language if it isn't called Common), and certain other languages based on the race.
-
-A character with an Intelligence penalty will only know his native language, and cannot read more than a word or two. Characters with at least average Intelligence (9-12) will be literate in any languages they can speak. Characters with an Intelligence bonus may begin the game knowing one or more languages other than those given above; the number of additional languages that may be learned is equal to the Intelligence bonus (+1, +2, or +3). The player may also choose to leave one or more bonus language "slots" open, to be filled during play.
-
-The languages available to characters include the demi-human languages (Elven, Dwarven, Gnomish, and Halfling) and the various beastmen dialects (e.g. Orc, Goblin). At the Judge's discretion, player characters may also begin play knowing ancient or archaic tongues, or exotic languages such as Draconic (the language of dragons). The specific languages available will depend on the campaign setting.
-
-**Wisdom**: A combination of intuition, willpower and common sense. Wisdom is a prime requisite for bladedancers, clerics, and dwarven craftpriests. The Wisdom bonus or penalty applies to saving throws caused by spells or magic items. This would include, e.g., a save versus Blast against a fireball or a save versus Death from a finger of death, but not a save versus Petrification against a medusa's gaze.
-
-**Dexterity**: This ability measures the character's quickness and balance as well as his aptitude with tools. Dexterity is a prime requisite for assassins, bards, bladedancers, elven nightblades, explorers, and thieves. A character's Dexterity bonus or penalty is applied to his attack throws with missile weapons, Armor Class value, and Initiative die rolls.
-
-**Constitution**: Constitution is a combination of general health and vitality. Apply the Constitution bonus or penalty to each Hit Die rolled by the character. Note that a penalty here cannot reduce any Hit Die roll to less than 1 point.
-
-**Charisma**: This is the ability to influence or even lead people; those with high Charisma are well-liked, or at least highly respected. Charisma is a prime requisite for bards. Apply the Charisma bonus or penalty to the character's reaction rolls. Charisma also determines the maximum number of henchmen the character may employ, and modifies their morale. The number of henchmen a character may hire is equal to 4 plus the Charisma bonus or penalty (and therefore ranges from 1 to 7); the average morale of any such henchmen will be 0, modified by the character's Charisma bonus or penalty.
+| Template:           | Wolfpack Runner
+| :------------------ | :--------
+| Proficiencies:      | Running, Tracking
+| Starting Equipment: | Bone-and-wood spear, sling with 30 stones,  pair of bone “claws” (hand axes), wolf skin wrapped around loins (15gp value), trained wolf henchman  
 
 
-### Classes and Ability Scores
 
-Once abilities have been determined, each player must choose a class. Each class has one or more prime requisite ability scores. A character must have an ability score of at least 9 in a class's prime requisite(s) in order to choose a particular class. Some classes have additional minimum ability score requirements. A character must have the minimum required ability, if one is indicated, in order to choose a particular class.
-
-If a character's prime requisite ability is high enough, the character will receive a bonus to experience points earned during play. The [Ability Prime Requisite](Chapter02.md#ability-prime-requisite) table, below, details the effect a score in a prime requisite has on experience points earned by characters. If a class has two prime requisites, calculate the character's experience adjustment based on whichever prime requisite has the lower ability score.
-
-#### Ability Prime Requisite
-
-| Score | Experience Adjustment
-| :---- | --------------------:
-| 9-12  |                    0%
-| 13-15 |                   +5%
-| 16-18 |                  +10%
-
-Once a player has selected his character class, he may raise the class's prime requisite ability or abilities if desired by sacrificing points in other abilities. 2 ability points may be sacrificed from an ability to raise a prime requisite ability 1 point. This may be done more than once, but no ability can be lowered below 9, and no ability may be lowered if it is also a prime requisite for the class, even if there are a few points to spare above the minimum required score.
+---------------------
 
 
-## Hit Points
-
-Hit points are a measure of a character's ability to survive in combat. When a character, or any other being, is reduced to 0 or fewer hit points, he is incapacitated and possibly dead. Hit points are not a direct representation of the character's capacity to receive physical injury. Rather, they represent a holistic combination of fighting skill, stamina, luck, and the favor of the gods, all of which contribute to helping the character roll with blows and survive attacks that would have killed a lesser combatant.
-
-Each character class rolls a different kind of die to determine hit points, as noted in the [Character Classes](Chapter02.md#character-classes) section, based on their toughness in battle. One die is rolled at first level, and further dice are rolled and cumulatively added to the total hp for each level of experience, unless otherwise noted. One optional rule, to allow first level characters to be hardier, is for the Judge to allow all hp rolls for first level characters to be considered the maximum result (e.g. an 8 for fighters or a 6 for clerics.)
 
 
-## Character Classes
+#### Fighter Attack and Saving Throws
 
-In the Adventurer Conqueror King System, there are two types of classes: human classes and demi-human classes. Humans are the most widespread of all races. Their ambition, cunning, and courage have led them to settle most of the known world, so most characters in the game will belong to one of the human classes.
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+| 1     |                       15+ |            14+ |            16+ |            16+ |    17+ |          10+
+| 2-3   |                       14+ |            13+ |            15+ |            15+ |    16+ |           9+
+| 4     |                       13+ |            12+ |            14+ |            14+ |    15+ |           8+
+| 5-6   |                       12+ |            11+ |            13+ |            13+ |    14+ |           7+
+| 7     |                       11+ |            10+ |            12+ |            12+ |    13+ |           6+
+| 8-9   |                       10+ |             9+ |            11+ |            11+ |    12+ |           5+
+| 10    |                        9+ |             8+ |            10+ |            10+ |    11+ |           4+
+| 11-12 |                        8+ |             7+ |             9+ |             9+ |    10+ |           3+
+| 13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+
+| 14    |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
 
-The core human classes described in these rules are the fighter, mage, cleric, and thief. Four additional human classes, the assassin, bard, bladedancer, and explorer, are provided to show how the core classes can be customized for specific archetypes within a campaign setting.
 
-Compared to humans, demi-humans are rare, and generally more specialized. Demi-human classes are defined by their race, with different classes available for dwarves, elves, and other demi-humans. The demi-human classes described in these rules are the dwarven vaultguard, dwarven craftpriest, elven spellsword, and elven nightblade.
 
-Selecting equipment and proficiencies can be time-consuming, especially for new players. As a faster alternative, we offer a pre-generated template for each class, with weapons, armor, equipment, proficiencies, and spells ready for play. If you want to use these templates, you can skip step 8 (picking proficiencies and spells) and 9 (rolling for starting wealth and purchasing equipment) of character generation and simply use the template. A variety of additional templates, new classes, and rules for creating customized classes are available in the Adventurer Conqueror King System Player's Companion, available separately from Autarch.
+
+
 
 
 ## Core Classes
