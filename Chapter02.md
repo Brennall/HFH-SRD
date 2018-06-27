@@ -5,9 +5,9 @@
 
 # Chapter 2: Heroes
 
-<i>Hers was a hero, destin'd to command 
-A martial race, and rule the Latian land, 
-Who should his ancient line from Teucer draw, 
+<i>Hers was a hero, destin'd to command <br>
+A martial race, and rule the Latian land, <br>
+Who should his ancient line from Teucer draw, <br>
 And on the conquer'd world impose the law.</i> – The Aeneid, Book IV (Virgil)
 
 
