@@ -636,23 +636,24 @@ Elven Spellsinger Proficiency List: Alchemy*, Art*, Beast Friendship, Bright Lor
 Siren Template: This pre-generated template represents an alluring enchantress. The template is ready for adventure. However, if your spellsinger’s INT is 13 or greater, you may pick one or more additional general proficiencies and starting spells before play if you’d like. 
 
 
-#### Elven Spellsinger Level Progression
+#### Elven Spellsinger Level Progression 
 
-| Experience | Title                 | Level | Hit Dice | Special Abilities
-| ---------: | :-------------------- | ----: | :------- | :----------------
-|          0 | Glamourer             |     1 | 1d4      | Perform, Irresistible voice, spellsinging
-|      2,700 | Charmer               |     2 | 2d4      | -
-|      5,400 | Beguiler              |     3 | 3d4      | -
-|     10,800 | Spellbinder           |     4 | 4d4      | -
-|     21,600 | Bewitcher             |     5 | 5d4      | Magic research (minor)
-|     43,200 | Ensorceller           |     6 | 6d4      | -
-|     85,000 | Illusionist           |     7 | 7d4	    | -
-|    170,000 | Enchanter             |     8 | 8d4	    | -
-|    370,000 | Spellsinger           |     9 | 9d4      | Fastness, magic research
-|    570,000 | Spellsinger, 10th lvl |    10 | 9d4+1*   |	-
-|    770,000 | Spellsinger, 11th lvl |    11 | 9d4+2*   |	Magic research (advanced)
-|    970,000 | Spellsinger, 12th lvl |    12 | 9d4+3*   |	-
+| Experience | Title                 | Level | Hit Dice | Special Abilities | Spell Points | 1 | 2 | 3 | 4 | 5 | 6
+| ---------: | :-------------------- | ----: | :------- | :---------------- | :----- | :- | :- | :- | :- | :- | :- 
+|          0 | Glamourer             |     1 | 1d4      | Perform, Irresistible voice, spellsinging | 2 | 2
+|      2,700 | Charmer               |     2 | 2d4      | - | 3 | 3
+|      5,400 | Beguiler              |     3 | 3d4      | - | 5 | 3 | 1
+|     10,800 | Spellbinder           |     4 | 4d4      | - | 7 | 3 | 2
+|     21,600 | Bewitcher             |     5 | 5d4      | Magic research (minor) | 10 | 3 | 2 | 1
+|     43,200 | Ensorceller           |     6 | 6d4      | - | 15 | 3 | 3 | 2
+|     85,000 | Illusionist           |     7 | 7d4	    | - | 21 | 4 | 3 | 2 | 1
+|    170,000 | Enchanter             |     8 | 8d4	    | - | 29 | 4 | 3 | 3 | 2
+|    370,000 | Spellsinger           |     9 | 9d4      | Fastness, magic research | 38 | 4 | 4 | 3 | 2 | 1
+|    570,000 | Spellsinger, 10th lvl |    10 | 9d4+1*   |	- | 50 | 4 | 4 | 3 | 3 | 2
+|    770,000 | Spellsinger, 11th lvl |    11 | 9d4+2*   |	Magic research (advanced) | 64 | 5 | 4 | 4 | 3 | 2 | 1
+|    970,000 | Spellsinger, 12th lvl |    12 | 9d4+3*   |	- | 81 | 5 | 4 | 4 | 3 | 3 | 2
 
+*Hit point modifiers from constitution are ignored
 
 
 
