@@ -127,27 +127,6 @@ The new classes in this book include the beastmaster, berserker,  chosen, eccles
 
 Some kings and heroes, dreadful in aspect and demeanor, are whispered to have been raised by beasts, suckled by wolves, adopted by the wild. Such tales are rarely true. Most feral children live short and brutish lives, dying young without ever seeing another of their own kind; even if found, they have often regressed into a state of savagery from which their natural humanity cannot free them. But from time to time, a child, abandoned or lost to civilization and adopted by beasts, may be endowed with the strength and character to transcend both man and beast and become something greater. Such children, if they survive, become beastmasters – lords of the wild, combining the ferocity and toughness of a predator with the cunning and courage of a hero. 
 
-#### Beastmaster Level Progression
-
-| Experience | Title                        | Level | Hit Dice | Damage | Backstab | Acrobatics | Climbing | Hear Noise
-| ---------: | :--------------------------- | ----: | :------- | -----: | -------: | ---------: | -------: | ---------:
-|          0 | Savage Stripling             |     1 | 1d6      |     +1 |       x2 |        20+ |       6+ |        14+
-|      2,900 | Young Hunter                 |     2 | 2d6      |     +1 |       x2 |        19+ |       5+ |        13+
-|      5,800 | Proven Hunter                |     3 | 3d6      |     +2 |       x2 |        18+ |       5+ |        12+
-|     11,600 | Great Hunter                 |     4 | 4d6      |     +2 |       x2 |        17+ |       4+ |        11+
-|     23,200 | Mighty Warrior               |     5 | 5d6      |     +2 |       x3 |        16+ |       4+ |        10+
-|     46,400 | Tribal Champion              |     6 | 6d6      |     +3 |       x3 |        15+ |       4+ |         9+
-|     95,000 | Tribal Hero                  |     7 | 7d6      |     +3 |       x3 |        14+ |       3+ |         8+
-|    190,000 | Tribal Chieftain             |     8 | 8d6      |     +3 |       x3 |        13+ |       3+ |         7+
-|    310,000 | Lord of the Wild             |     9 | 9d6      |     +4 |       x4 |        12+ |       3+ |         6+
-|    430,000 | Lord of the Wild, 10th level |    10 | 9d6+2*   |     +4 |       x4 |        11+ |       3+ |         5+
-|    550,000 | Lord of the Wild, 11th level |    11 | 9d6+4*   |     +4 |       x4 |        10+ |       2+ |         4+
-|    670,000 | Lord of the Wild, 12th level |    12 | 9d6+6*   |     +5 |       x4 |         9+ |       2+ |         3+
-|    790,000 | Lord of the Wild, 13th level |    13 | 9d6+8*   |     +5 |       x5 |         8+ |       1+ |         2+
-|    910,000 | King of the Beasts           |    14 | 9d6+10*  |     +5 |       x5 |         7+ |       1+ |         1+
-
-*Hit point modifiers from constitution are ignored
-
 Beastmasters fight with the instincts and aggression of natural predators. At first level, beastmasters hit an unarmored foe (AC 0) with an attack throw of 10+. Like fighters, they advance in attack throws and saving throws by two points every three levels of experience. They increase their damage from attacks by +1 at 1st level, and by an additional +1 at 3rd, 6th, 9th, and 12th level.  Beastmasters care nothing for civilized concepts such as chivalric combat, preferring to attack with surprise whenever possible. They may backstab as thieves of their class level. 
 
 However, beastmasters lack formal training in arms and armor, and can wield only primitive weapons of the sort they could have fashioned in the wild: spears, hand axes, daggers, bolas, darts, nets, slings, saps, and staves. They may fight wielding a weapon two-handed, and wielding a weapon in each had, but may not use shields nor wear armor.  They may use only magic items usable by fighters.
@@ -182,6 +161,28 @@ At 9th level (Lord of the Wild), a beastmaster can establish an encampment in a 
 
 Wolfpack Runner Template: This pre-generated template represents a beastmaster raised by a wolf pack. The template is ready for adventure.  However, if your beastmaster’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4 of ACKS). 
 
+#### Beastmaster Level Progression
+
+| Experience | Title                        | Level | Hit Dice | Damage | Backstab | Acrobatics | Climbing | Hear Noise
+| ---------: | :--------------------------- | ----: | :------- | -----: | -------: | ---------: | -------: | ---------:
+|          0 | Savage Stripling             |     1 | 1d6      |     +1 |       x2 |        20+ |       6+ |        14+
+|      2,900 | Young Hunter                 |     2 | 2d6      |     +1 |       x2 |        19+ |       5+ |        13+
+|      5,800 | Proven Hunter                |     3 | 3d6      |     +2 |       x2 |        18+ |       5+ |        12+
+|     11,600 | Great Hunter                 |     4 | 4d6      |     +2 |       x2 |        17+ |       4+ |        11+
+|     23,200 | Mighty Warrior               |     5 | 5d6      |     +2 |       x3 |        16+ |       4+ |        10+
+|     46,400 | Tribal Champion              |     6 | 6d6      |     +3 |       x3 |        15+ |       4+ |         9+
+|     95,000 | Tribal Hero                  |     7 | 7d6      |     +3 |       x3 |        14+ |       3+ |         8+
+|    190,000 | Tribal Chieftain             |     8 | 8d6      |     +3 |       x3 |        13+ |       3+ |         7+
+|    310,000 | Lord of the Wild             |     9 | 9d6      |     +4 |       x4 |        12+ |       3+ |         6+
+|    430,000 | Lord of the Wild, 10th level |    10 | 9d6+2*   |     +4 |       x4 |        11+ |       3+ |         5+
+|    550,000 | Lord of the Wild, 11th level |    11 | 9d6+4*   |     +4 |       x4 |        10+ |       2+ |         4+
+|    670,000 | Lord of the Wild, 12th level |    12 | 9d6+6*   |     +5 |       x4 |         9+ |       2+ |         3+
+|    790,000 | Lord of the Wild, 13th level |    13 | 9d6+8*   |     +5 |       x5 |         8+ |       1+ |         2+
+|    910,000 | King of the Beasts           |    14 | 9d6+10*  |     +5 |       x5 |         7+ |       1+ |         1+
+
+*Hit point modifiers from constitution are ignored
+
+
 #### Beastmaster Attack and Saving Throws
 
 | Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
@@ -210,27 +211,6 @@ Wolfpack Runner Template: This pre-generated template represents a beastmaster r
 
 Berserkers are barbarian warriors blessed by pagan gods with the power to enter a trance-like battle rage known as the berserkergang. While enraged, a berserker fights with bear-like ferocity and can shrug off blows that would fell normal men. Berserkers are feared even by their allies, for in the grip of the berserkergang, a man may cut down his dearest friend as easily as his bitterest foe. Some berserkers find their gift brings ruin on themselves, ending up as outlaws and kin-slayers without family or friend; but most are recruited into warrior-cults of like-minded brothers, where they learn to master their fury. In time, berserkers may become famous raiders, housecarls, or even great chieftains. In the Auran Empire, berserkers might be reavers from the bleak wastes of northern Jutland, fierce lancers from Skysostan, or savage tribesmen from the Ivory Kingdom jungles of Keita, Munde, and Kushtu. 
 
-#### Berserker Level Progression
-
-| Experience | Title                        | Level | Hit Dice | Damage Bonus 
-| ---------: | :--------------------------- | ----: | :------- | -----------: 
-|          0 | Hunter                       |     1 | 1d8      |           +1 
-|      2,750 | Raider                       |     2 | 2d8      |           +1 
-|      5,500 | Marauder                     |     3 | 3d8      |           +2 
-|     11,000 | Plunderer                    |     4 | 4d8      |           +2 
-|     22,000 | Reaver                       |     5 | 5d8      |           +2 
-|     44,000 | Bloodletter                  |     6 | 6d8      |           +3 
-|     90,000 | Menace                       |     7 | 7d8      |           +3 
-|    180,000 | Scourge                      |     8 | 8d8      |           +3 
-|    300,000 | Warchief                     |     9 | 9d8      |           +4 
-|    420,000 | Warchief, 10th lvl           |    10 | 9d8+2*   |           +4 
-|    540,000 | Warchief, 11th lvl           |    11 | 9d8+4*   |           +4 
-|    660,000 | Warchief, 12th lvl           |    12 | 9d8+6*   |           +5 
-|    780,000 | Warchief, 13th level         |    13 | 9d8+8*   |           +5 
-|    900,000 | Great Chieftain              |    14 | 9d8+10*  |           +5 
-
-*Hit point modifiers from constitution are ignored
-
 At first level, berserkers hit an unarmored foe (AC 0) with an attack throw of 10+. Like fighters, they advance in attack throws and saving throws by two points every three levels of experience. Berserkers increase their base damage roll from successful melee attacks by +1 at 1st level and by an additional +1 at 3rd, 6th, 9th, and 12th level. Although sometimes skilled with missile and especially thrown weapons, a berserker revels in close combat, fighting his enemies eye to eye, not at a distance.
 Berserkers enter battle without care for life and limb, and may only wear leather or lighter armor. Like their barbarian kinsmen, they are limited to fighting with the traditional weapons and styles of their tribe. When a berserker is created, select a region of origin for the character from the Regional Origin table below and note down the permitted weapons and fighting styles. The Judge may create other regions of origin within his own campaign setting where necessary. (Note that berserkers do not share their barbarian kinsmen’s natural proficiency. Some berserkers may choose to use a class proficiency to match their kinsmen, while other berserkers choose to stand apart from their kinsmen and learn different skills.) Berserkers may only use magic items usable by fighters.
 
@@ -258,6 +238,7 @@ Starting at 5th level (reaver), a berserker gains the ability to shapechange int
 
 Note that while a berserker’s relationship to his totem animal resembles that of a shaman’s, berserkers do not acquire an actual animal companion – they merely take on some of the characteristics of their totem.
 
+
 |Totem Animal | Key Ability | Totem Benefit | Shapechanged Characteristics
 |:----------- | :---------- | :---------------- | :---------------------------
 |Bear         | STR         | Berserkergang     | Move 120’, AC3, HD 4ǂ, #AT 3, Dmg 1d3/1d3/1d6, bear hug
@@ -271,6 +252,7 @@ Note that while a berserker’s relationship to his totem animal resembles that 
 |Wolf         | CON         | Running           | Move 180’, AC2, HD 2+2ǂ, #AT 1, Dmg 1d6
 
 ǂ Berserker retains his normal HD and hp; but if berserker’s HD exceed totem animal form’s HD, increase damage die by +1
+
 
 At 5th level a berserker’s animal magnetism also begins to inspire those who follow him. Any henchmen and mercenaries hired by the berserker gain a +1 bonus to their morale score whenever he personally leads them. This bonus stacks with any modifiers from the berserker’s Charisma or proficiencies.
 
@@ -286,6 +268,30 @@ At 9th level a  berserker also gains the ability to spiritwalk. After 1 turn (10
 | Starting Equipment: | Bearded axe, shield, francisca, bearskin leather armor, wool tunic and pants, leather belt,  low boots, silver arm-bands (45gp value), wineskin with strong ale, small sack, 50’ rope, grappling hook, 1 weeks’ iron rations  
 
 Bear-Cult Warrior Template: This pre-generated template represents a pagan warrior of the bear-cult. The template is ready for adventure.  However, if your berserker’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4 of ACKS). 
+
+
+#### Berserker Level Progression
+
+| Experience | Title                        | Level | Hit Dice | Damage Bonus 
+| ---------: | :--------------------------- | ----: | :------- | -----------: 
+|          0 | Hunter                       |     1 | 1d8      |           +1 
+|      2,750 | Raider                       |     2 | 2d8      |           +1 
+|      5,500 | Marauder                     |     3 | 3d8      |           +2 
+|     11,000 | Plunderer                    |     4 | 4d8      |           +2 
+|     22,000 | Reaver                       |     5 | 5d8      |           +2 
+|     44,000 | Bloodletter                  |     6 | 6d8      |           +3 
+|     90,000 | Menace                       |     7 | 7d8      |           +3 
+|    180,000 | Scourge                      |     8 | 8d8      |           +3 
+|    300,000 | Warchief                     |     9 | 9d8      |           +4 
+|    420,000 | Warchief, 10th lvl           |    10 | 9d8+2*   |           +4 
+|    540,000 | Warchief, 11th lvl           |    11 | 9d8+4*   |           +4 
+|    660,000 | Warchief, 12th lvl           |    12 | 9d8+6*   |           +5 
+|    780,000 | Warchief, 13th level         |    13 | 9d8+8*   |           +5 
+|    900,000 | Great Chieftain              |    14 | 9d8+10*  |           +5 
+
+*Hit point modifiers from constitution are ignored
+
+
 
 #### Berserker Attack and Saving Throws
 
@@ -321,32 +327,13 @@ Chosen are blessed with an instinctive natural aptitude for combat. At first lev
 
 Despite their talents, most chosen begin their adventuring careers with limited knowledge of arms and armor. Chosen may only wear hide or lighter armor, and may only fight with bolas, clubs, daggers, darts, javelins, nets, slings, saps, and staffs. However, a chosen may use one or more gifts (see below) to train in the use of better armor or weapons, either at 1st level or later. 
 
-#### Chosen Level Progression
-
-| Experience | Title              | Level | Hit Dice | Damage | Gifts    |
-| ---------: | :------------------| ----: | :------- | -----: | -------: |
-|          0 | Innocent           |     1 | 1d6      |     +1 |        3 |
-|      2,600 | Journeyer          |     2 | 2d6      |     +1 |        4 |
-|      5,200 | Adventurer         |     3 | 3d6      |     +2 |        5 |
-|     10,400 | Hero               |     4 | 4d6      |     +2 |        6 |
-|     20,800 | Exemplar           |     5 | 5d6      |     +2 |        7 |
-|     41,600 | Champion           |     6 | 6d6      |     +3 |        8 |
-|     85,000 | Protagonist        |     7 | 7d6      |     +3 |        9 |
-|    170,000 | Epic Hero          |     8 | 8d6      |     +3 |       10 |
-|    290,000 | Chosen             |     9 | 9d6      |     +4 |       11 |
-|    410,000 | Chosen, 10th level |    10 | 9d6+1*   |     +4 |       12 |
-|    530,000 | Chosen, 11th level |    11 | 9d6+2*   |     +4 |       13 |
-|    650,000 | Chosen, 12th level |    12 | 9d6+3*   |     +5 |       14 |
-|    770,000 | Chosen, 13th level |    13 | 9d6+4*   |     +5 |       15 |
-|    890,000 | The On             |    14 | 9d6+5*   |     +5 |       16 |
-
-*Hit point modifiers from constitution are ignored
 
 Every chosen receives gifts from the powers that have chosen him. Some gifts reveal themselves in overtly magical displays; other gifts may manifest as merely an instinctive aptitude for learning of particular skills, enabling the chosen to master in mere months what takes others a lifetime to learn.
 
 At 1st level (Innocent), a chosen begins with three gifts. With each level of experienced gained thereafter, the number of gifts bestowed upon by the chosen increases, as shown on the Chosen Level Progression table. 
 
 Just as each chosen has a different destiny, so each has a different set of gifts. Chosen select their gifts from the list below. All selections must be approved by the Judge. Some gifts may be banned from particular settings where they are inappropriate or where they refer to optional rules that the Judge has opted not to use. Chosen can only select the same gift multiple times at the same level with the Judge’s approval.
+
 
 #### Chosen Gifts
 
@@ -443,6 +430,29 @@ Chosen Proficiency List: Alertness, Arcane Dabbling, Armor Training, Beast Frien
 
 Inheritor Template: This pre-generated template represents the inheritor of a chosen weapon handed down by a heroic ancestor. The template is ready for adventure. However, if your Chosen’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4 of ACKS). 
 
+
+#### Chosen Level Progression
+
+| Experience | Title              | Level | Hit Dice | Damage | Gifts    |
+| ---------: | :------------------| ----: | :------- | -----: | -------: |
+|          0 | Innocent           |     1 | 1d6      |     +1 |        3 |
+|      2,600 | Journeyer          |     2 | 2d6      |     +1 |        4 |
+|      5,200 | Adventurer         |     3 | 3d6      |     +2 |        5 |
+|     10,400 | Hero               |     4 | 4d6      |     +2 |        6 |
+|     20,800 | Exemplar           |     5 | 5d6      |     +2 |        7 |
+|     41,600 | Champion           |     6 | 6d6      |     +3 |        8 |
+|     85,000 | Protagonist        |     7 | 7d6      |     +3 |        9 |
+|    170,000 | Epic Hero          |     8 | 8d6      |     +3 |       10 |
+|    290,000 | Chosen             |     9 | 9d6      |     +4 |       11 |
+|    410,000 | Chosen, 10th level |    10 | 9d6+1*   |     +4 |       12 |
+|    530,000 | Chosen, 11th level |    11 | 9d6+2*   |     +4 |       13 |
+|    650,000 | Chosen, 12th level |    12 | 9d6+3*   |     +5 |       14 |
+|    770,000 | Chosen, 13th level |    13 | 9d6+4*   |     +5 |       15 |
+|    890,000 | The On             |    14 | 9d6+5*   |     +5 |       16 |
+
+*Hit point modifiers from constitution are ignored
+
+
 #### Chosen Attack and Saving Throws
 
 | Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
@@ -473,27 +483,6 @@ Ecclesiastics are human men and women dedicated to the service of a religious or
 Ecclesiastics receive little combat training. At first level, ecclesiastics hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws only two points every six levels of experience (i.e. the same as mages), but they advance in saving throws by two points every four levels of experience (i.e. as clerics). They may only fight with quarterstaffs, clubs, daggers, or darts. They are unable to use shields, fight with two weapons, or wear any kind of armor. 
 Although they cannot cast spells like clerics, ecclesiastics may learn and perform eldritch ceremonies in the liturgical tradition starting at 1st level (Acolyte). An ecclesiastic’s selection of ceremonies is limited to the ceremonies in his repertoire. An ecclesiastic’s repertoire can include a number of eldritch ceremonies up to the number and level of ceremonies listed for his level, increased by his Intelligence bonus. More information on ceremonial magic, and individual spell descriptions, can be found in the [Heroic Magic](Chapter05.md#chapter-5-heroic-magic) chapter.
 
-#### Ecclesiastic Level and Spell Progression
-
-| Experience | Title               | Level | Hit Dice | Special Abilities |   1 |   2 |   3 |   4 |   5 |   6
-| ---------: | :------------------ | ----: | :------- | :---------------- | --: | --: | --: | --: | --: | --:
-|          0 | Catechist           |     1 | 1d4      | Comfort & console, rally the faithful, theology, turn | 1 |   - |   - |   - |   - |   -
-|      1,250 | Acolyte             |     2 | 2d4      | -                 | 2 |   - |   - |   - |   - |   -
-|      2,500 | Priest              |     3 | 3d4      | -                 | 2 |   1 |   - |   - |   - |   -
-|      5,000 | Curate              |     4 | 4d4      | Magic research (minor) | 2 |   2 |   - |   - |   - |   -
-|     10,000 | Vicar               |     5 | 5d4      | -                 | 2 |   2 |   1 |   - |   - |   -
-|     20,000 | Rector              |     6 | 6d4      | -                 | 2 |   2 |   2 |   - |   - |   -
-|     40,000 | Prelate             |     7 | 7d4      | -                 | 3 |   2 |   2 |   1 |   - |   -
-|     80,000 | Bishop              |     8 | 8d4      | -                 | 3 |   3 |   2 |   2 |   - |   -
-|    180,000 | Patriarch           |     9 | 9d4      | Cathedral, magic research | 3 |   3 |   3 |   2 |   1 |   -
-|    280,000 | Patriarch, 10th lvl |    10 | 9d4+1*   | -                 | 3 |   3 |   3 |   3 |   2 |   -
-|    380,000 | Patriarch, 11th lvl |    11 | 9d4+2*   | Magic research (advanced) | 4 |   3 |   3 |   3 |   2 |   1
-|    480,000 | Patriarch, 12th lvl |    12 | 9d4+3*   | -                 | 4 |   4 |   3 |   3 |   3 |   2
-|    580,000 | Patriarch, 13th lvl |    13 | 9d4+4*   | -                 | 4 |   4 |   4 |   3 |   3 |   2
-|    680,000 | Saint               |    14 | 9d4+5*   | -                 | 4 |   4 |   4 |   4 |   3 |   3
-
-*Hit point modifiers from constitution are ignored
-
 As they advance in level, ecclesiastics may add new ceremonies to their repertoire by visiting a temple of their order and spending one game week per ceremony. Each ecclesiastic’s order will require that the ecclesiastic learn particular ceremonies at each level, and will refuse to teach certain ceremonies it deems sacrilegious. Ecclesiastics who wish to learn such ceremonies must find or research them on their own. The specific ceremonies taught by any given order should be determined by the Judge based on his setting. 
 
 EXAMPLE: Balbus, an ecclesiastic, has advanced to 2nd level, increasing his repertoire from one to two 1st level ceremonies. He visits the local Temple of the Winged Sun and impudently inquires of his Patriarch whether he might learn choking grip or weave smoke. After a stern lecture on upholding Light and Law, Balbus is offered a choice of illumination or command word.  
@@ -515,21 +504,6 @@ There is no limit to how often an ecclesiastic may attempt to turn undead each d
 
 Certain chaotic sects teach their ecclesiastics to control undead rather than turn them. The undead are controlled for 1 turn per level of the character. If the undead would have been destroyed, the undead are controlled for 1 day per level of the ecclesiastic instead. Controlled undead behave as if charmed, obeying the ecclesiastic as if they were friends. However, if the controlled undead are turned or destroyed by an ecclesiastic during the duration of the control, the control is dispelled immediately. If the duration of the control ends without incident, the undead will flee (as if turned).
 
-#### Ecclesiastic Turning Undead
-
-| Undead Type |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |  10 |  11 |  12 |  13 | 14+
-| :---------- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --:
-| Skeleton    | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D |   D |   D
-| Zombie      | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D |   D
-| Ghoul       | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D
-| Wight       | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D
-| Wraith      |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D
-| Mummy       |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D
-| Spectre     |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D
-| Vampire     |   - |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D
-| Infernal*   |   - |   - |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D
-
-*This category includes very powerful undead, or unholy beings such as demons and devils
 
 An ecclesiastic can use any magic items usable by mages or clerics. When an ecclesiastic reaches 5th level (Vicar), he may begin to research spells, scribe scrolls, and brew potions. Ecclesiastics may collect and use divine power as clerics in order to fuel their magical research. 
  
@@ -548,6 +522,29 @@ Ecclesiastic Proficiency List: Alchemy, Animal Husbandry, Apostasy*, Beast Frien
 
 Priest Template: This pre-generated template represents a devout priest from an organized religious order. The template is ready for adventure. However, if your ecclesiastic’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4).
 
+
+#### Ecclesiastic Level and Spell Progression
+
+| Experience | Title               | Level | Hit Dice | Special Abilities |   1 |   2 |   3 |   4 |   5 |   6
+| ---------: | :------------------ | ----: | :------- | :---------------- | --: | --: | --: | --: | --: | --:
+|          0 | Catechist           |     1 | 1d4      | Comfort & console, rally the faithful, theology, turn | 1 |   - |   - |   - |   - |   -
+|      1,250 | Acolyte             |     2 | 2d4      | -                 | 2 |   - |   - |   - |   - |   -
+|      2,500 | Priest              |     3 | 3d4      | -                 | 2 |   1 |   - |   - |   - |   -
+|      5,000 | Curate              |     4 | 4d4      | Magic research (minor) | 2 |   2 |   - |   - |   - |   -
+|     10,000 | Vicar               |     5 | 5d4      | -                 | 2 |   2 |   1 |   - |   - |   -
+|     20,000 | Rector              |     6 | 6d4      | -                 | 2 |   2 |   2 |   - |   - |   -
+|     40,000 | Prelate             |     7 | 7d4      | -                 | 3 |   2 |   2 |   1 |   - |   -
+|     80,000 | Bishop              |     8 | 8d4      | -                 | 3 |   3 |   2 |   2 |   - |   -
+|    180,000 | Patriarch           |     9 | 9d4      | Cathedral, magic research | 3 |   3 |   3 |   2 |   1 |   -
+|    280,000 | Patriarch, 10th lvl |    10 | 9d4+1*   | -                 | 3 |   3 |   3 |   3 |   2 |   -
+|    380,000 | Patriarch, 11th lvl |    11 | 9d4+2*   | Magic research (advanced) | 4 |   3 |   3 |   3 |   2 |   1
+|    480,000 | Patriarch, 12th lvl |    12 | 9d4+3*   | -                 | 4 |   4 |   3 |   3 |   3 |   2
+|    580,000 | Patriarch, 13th lvl |    13 | 9d4+4*   | -                 | 4 |   4 |   4 |   3 |   3 |   2
+|    680,000 | Saint               |    14 | 9d4+5*   | -                 | 4 |   4 |   4 |   4 |   3 |   3
+
+*Hit point modifiers from constitution are ignored
+
+
 #### Ecclesiastic Saving Throws
 
 | Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands 
@@ -560,9 +557,100 @@ Priest Template: This pre-generated template represents a devout priest from an 
 | 11-12 |                        8+ |             5+ |            11+ |             8+ 
 | 13-14 |                        7+ |             4+ |            10+ |             7+ 
 
+
 #### Ecclesiastic Attack Throws
 
+| Level | Attack Throw  |
+| :---- | :------------ |
+| 1-3   | 10+           |
+| 4-6   | 9+            |
+| 7-9   | 8+            |
+| 10-12 | 7+            |
+| 13+   | 6+            |
 
+#### Ecclesiastic Turning Undead
+
+| Undead Type |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |  10 |  11 |  12 |  13 | 14+
+| :---------- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --:
+| Skeleton    | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D |   D |   D
+| Zombie      | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D |   D
+| Ghoul       | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D
+| Wight       | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D
+| Wraith      |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D
+| Mummy       |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D
+| Spectre     |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D
+| Vampire     |   - |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D
+| Infernal*   |   - |   - |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D
+
+*This category includes very powerful undead, or unholy beings such as demons and devils
+
+
+### Elven Spellsinger
+
+*In that hour Lúthien came, and standing upon the bridge that led to Sauron’s isle she sang a song that no walls of stone could hinder. Beren heard, and he thought that he dreamed; for the stars shone above him, and in the trees nightingales were singing. And in answer he sang a song of challenge… Then all strength left him and he fell down into darkness. But Lúthien heard his answering voice, and she sang then a song of greater power. The wolves howled, and the isle trembled.* – Of Beren and Lúthien, The Silmarillion (J.R.R. Tolkien)
+
+
+| Prime Requisite: | INT and CHA
+| :--------------- | :---
+| Requirements:    | INT 9
+| Hit Dice:        | 1d4
+| Maximum Level:   | 12
+
+According to elven myth, the world began with a song – a mighty anthem sung by the gods themselves by which all things were created. Whether this myth is true, not even the wisest sages can say; but it is true that elf-song can carry great magical power, through which the world can be re-made in accordance with the will of the singer. Elves who have mastered this art are known as spellsingers, and they are counted among the mightiest of magicians. Though most elven spellsingers live out their long lives in the high fastnesses of their people, some enter the realms of men, called forth by a desire to experience awe and terror, a quest for rare and forgotten magic, or merely the lure of adventure. 
+
+Elven spellsingers receive limited combat training. At first level, spellsingers hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws only two points every six levels of experience (i.e. the same as mages), though they advance in saving throws by two points every four levels (i.e. as clerics). They may fight with daggers, swords, short swords, composite bows, long bows, and quarterstaffs. They may fight wielding a weapon two-handed but are unable to use shields, fight with two weapons, or wear any kind of armor.  
+
+The voices of all elves sound lilting and lyrical to the ears of men; that of the spellsinger is beautiful enough to work magic. Every elven spellsinger begins with one rank of Perform (singing) proficiency; additional ranks may be accumulated as class or general proficiency selections. Because of her irresistible voice, an elven spellsinger gains a +2 bonus to reaction rolls with creatures she speaks to. If this bonus results in a total of 12 or more, the subjects act as if charmed while in her presence. Creatures with a WIS greater than the spellsinger’s CHA are immune to this power (and the elven spellsinger will know they are immune).
+
+All elven spellsingers practice the art of spellsinging from which they derive their name. Spellsinging is a method of casting eldritch spells by reciting lyrics laced with words of power. Spellsingers perform magic by spending spell points (SP)  rather than by expending daily spell castings. Each spell costs a certain number of spell points to sing. The higher the level of the spell, the more points it costs. The Spell Point Costs table describes each spell’s cost.  The spellsingers’ use of spell points gives them the flexibility to choose to cast a large number of low level spells, a small number of high level spells, or any combination in between. See p. XX of the Heroic Magic chapter for details on spellsinging. 
+
+| Spell Level | Spell Point Cost |
+| :---------- | :---------- |
+| 1st         | 1           |
+| 2nd         |	2           |
+| 3rd         |	3           |
+| 4th         |	5           |
+| 5th         |	7           |
+| 6th         |	10          |
+
+Spellsingers recover their spell points in the same way spellcasters recover their daily spell castings, by spending eight hours resting without interruption and one hour concentrating on prayer or study. Spell points can only be recovered by resting once every 24 hours. Spellsingers can also tap ambient magic to fuel their spells without expending their own SPs. See p. XX of the Heroic Magic chapter for details on tapping ambient magic.
+
+Like other eldritch casters, a spellsinger’s spell selection is limited to the spells in his repertoire. A spellsinger’s repertoire can include a number of spells up to the number and level of spells listed for his level, increased by his Intelligence bonus, and functions exactly like an arcane/eldritch caster’s repertoire in all respects. Unlike other casters, however, spellsingers can cast spells that are not in their repertoire by extemporaneously singing spells. See p. XX of the Heroic Magic chapter for details on extemporaneous spellsinging. 
+
+When an elven spellsinger reaches 5th level (Spellbinder), she may begin to research spells, scribe magical scrolls, and brew potions. Elven spellsingers may collect and use divine power as clerics in order to fuel their magical research. When an elven spellsinger reaches 9th level (Spellsinger), she is able to create more powerful magic items such as weapons, rings, and staffs. 
+
+At 9th level, an elven spellsinger can also establish a fastness in a natural setting, such as a forest or glen. Rather than impose upon nature, this keep must blend seamlessly with it. A total of 3d6x10 1st level elven NPCs will move in to help with it and defend the fastness at no cost to the character. Additional rules for elven fastnesses are detailed in the Campaign chapter of ACKS.
+
+At 11th level, an elven spellsinger may learn and cast ritual spells of great power (7th, 8th, and 9th level), craft magical constructs, and create magical cross-breeds. If chaotic, the spellsinger may create necromantic servants and become undead, though such a choice is understandably rarer among the ageless elves. 
+
+Like other elves, spellsingers gain a +1 bonus to surprise rolls when in the wilderness due to their attunement to nature. Elves have keen eyes that allow them to detect hidden and secret doors with a proficiency throw of 8+ on 1d20 when actively searching, or 14+ on casual inspection. Because of their connection to nature, elves are completely unaffected by the paralysis ghouls can inflict, and the target values for all their saving throws versus Petrification/Paralysis and Spells are reduced by 1. (These adjustments are already factored into the saving throws on the table below.) All elves can speak the Common, Elven, Gnoll, Hobgoblin, and Orc languages.
+
+Elven Spellsinger Proficiency List: Alchemy*, Art*, Beast Friendship, Bright Lore of Aura*, Ceremonial Magic*, Contemplation*, Craft*, Diplomacy, Familiar, Farseeing*, Healing, Knowledge, Laying on Hands, Loremastery, Magical Engineering, Magical Music*, Mastery of Charms and Illusions*, Naturalism, Quiet Magic, Passing Without Trace, Performance, Prophecy*, Prestidigitation, Second Sight*, Sensing Evil, Sensing Power, Swashbuckling, Transmogrification, Unflappable Casting, Wakefulness
+*Modified or new proficiency described on p. XX.
+
+| Template:           | Siren
+| :------------------ | :--------
+| Proficiencies:      | Mastery of Charms and Illusions, Seduction
+| Starting Equipment: | Silk stitched spellbook with ensorcellement, dagger, blue silk cloak, veil, sash, white silk dress, long leather gloves, silver bangles (10gp value), silver earrings (10gp), high boots, backpack, quill and ink, 2 weeks’ iron rations, 4gp
+
+Siren Template: This pre-generated template represents an alluring enchantress. The template is ready for adventure. However, if your spellsinger’s INT is 13 or greater, you may pick one or more additional general proficiencies and starting spells before play if you’d like. 
+
+
+####Elven Spellsinger Level Progression
+
+| Experience | Title        | Level | Hit Dice | Special Abilities
+| 0          | Glamourer    |	1   | 1d4      | Perform, Irresistible voice, spellsinging
+| 2,700      | Charmer      |	2	| 2d4      | -
+| 5,400      | Beguiler     |	3	| 3d4      | -
+| 10,800     | Spellbinder  |	4	| 4d4      | -
+| 21,600     | Bewitcher    |	5	| 5d4      | Magic research (minor)
+| 43,200     | Ensorceller  |	6	| 6d4      | -
+| 85,000     | Illusionist  |	7	| 7d4	   | -
+| 170,000    | Enchanter    |	8	| 8d4	   | -
+| 370,000    | Spellsinger  |	9	| 9d4      | Fastness, magic research
+| 570,000    | Spellsinger, 10th lvl |	10	| 9d4+1* |	-
+| 770,000    | Spellsinger, 11th lvl |	11	| 9d4+2* |	Magic research (advanced)
+| 970,000    | Spellsinger, 12th lvl |	12	| 9d4+3* |	-
 
 
 
