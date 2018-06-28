@@ -636,9 +636,10 @@ Elven Spellsinger Proficiency List: Alchemy*, Art*, Beast Friendship, Bright Lor
 Siren Template: This pre-generated template represents an alluring enchantress. The template is ready for adventure. However, if your spellsinger’s INT is 13 or greater, you may pick one or more additional general proficiencies and starting spells before play if you’d like. 
 
 
-####Elven Spellsinger Level Progression
+#### Elven Spellsinger Level Progression
 
 | Experience | Title        | Level | Hit Dice | Special Abilities
+| :--------- | :----------- | : --- | :------- | :----------------
 | 0          | Glamourer    |	1   | 1d4      | Perform, Irresistible voice, spellsinging
 | 2,700      | Charmer      |	2	| 2d4      | -
 | 5,400      | Beguiler     |	3	| 3d4      | -
