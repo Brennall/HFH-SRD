@@ -428,6 +428,147 @@ Just as each chosen has a different destiny, so each has a different set of gift
 
 *Wholeness of Body:* The chosen is immune to all forms of poison, including magical poisons.
 
+When a chosen reaches 5th level (Exemplar), his sense of destiny inspires others to follow him. Any henchmen and mercenaries hired by the chosen gain a +1 bonus to their morale score whenever he personally leads them. This bonus stacks with any modifiers from the chosen’s Charisma, proficiencies, or class powers.
+
+At 9th level (Chosen), a chosen can establish a stronghold and become a protector of men. When he does so, up to 1d4+1x10 0th level mercenaries will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries.
+
+Chosen Proficiency List: Alertness, Arcane Dabbling, Armor Training, Beast Friendship, Blind Fighting, Combat Reflexes, Combat Trickery (force back, overrun, sunder), Command, Diplomacy, Divine Blessing, Endurance, Farseeing*, Fighting Style, Goblin-Slaying, Healing, Laying on Hands, Leadership, Military Strategy, Mystic Aura, Passing Without Trace, Prophecy*, Running, Second Sight*, Skirmishing, Weapon Finesse, Weapon Focus* 
+
+*Modified or new proficiency described on p. XX.
+
+| Template:           | Inheritor
+| :------------------ | :--------
+| Proficiencies:      | Weapon Focus (swords), Manual of Arms, *Armor Training*, *Chosen Weapon*, *Martial Training (swords/daggers)*
+| Starting Equipment: | *Chosen sword +1* in finely-made scabbard (25gp value), dagger, leather armor, shield, armiger’s tunic and pants, low leather boots, leather belt, backpack, 2 flasks of military oil, 2 weeks’ iron rations, 15gp  
+
+Inheritor Template: This pre-generated template represents the inheritor of a chosen weapon handed down by a heroic ancestor. The template is ready for adventure. However, if your Chosen’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4 of ACKS). 
+
+#### Chosen Attack and Saving Throws
+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+| 1     |                       15+ |            14+ |            16+ |            16+ |    17+ |          10+
+| 2-3   |                       14+ |            13+ |            15+ |            15+ |    16+ |           9+
+| 4     |                       13+ |            12+ |            14+ |            14+ |    15+ |           8+
+| 5-6   |                       12+ |            11+ |            13+ |            13+ |    14+ |           7+
+| 7     |                       11+ |            10+ |            12+ |            12+ |    13+ |           6+
+| 8-9   |                       10+ |             9+ |            11+ |            11+ |    12+ |           5+
+| 10    |                        9+ |             8+ |            10+ |            10+ |    11+ |           4+
+| 11-12 |                        8+ |             7+ |             9+ |             9+ |    10+ |           3+
+| 13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+
+| 14    |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
+
+
+### Ecclesiastic 
+
+*Armed with holy water and aspergillus, and accompanied by many of the towns-people carrying torches, staves and halberds, the priest was led by Maspier to the place of the horror; and there they had found the body of Mazzal, with fearfully mangled face, and throat and bosom lined with bloody lacerations. The demoniac assailant had flown, and it was not seen or encountered again that night; but those who had beheld its work returned aghast to their homes, feeling that a creature of nethermost hell had come to visit the city, and perchance to abide therein. Consternation was rife on the morrow, when the story became generally known; and rites of exorcism against the invading demon were performed by the clergy in all public places and before thresholds.* – The Maker of Gargoyles (C. A. Smith)
+
+| Prime Requisite: | WIS
+| :--------------- | :---
+| Requirements:    | None
+| Hit Dice:        | 1d4
+| Maximum Level:   | 14
+
+Ecclesiastics are human men and women dedicated to the service of a religious order. If your Judge has not specified particular religious orders in his campaign, the default ecclesiastic is assumed to be a member of the Temple of the Winged Sun, devoted to Ammonar, God of Law and Light. Whatever order they serve, the majority of ecclesiastics never adventure, preferring to dedicate themselves to ministry, prayer, and sacramental duties. Only a few venture forth from their parishes into the dangers of the world, traveling as mendicants, proselytizers, missionaries, or crusaders. Most of these ecclesiastics lose their lives or their faith to darkness or decadence. Those ecclesiastics who succeed in bringing the light of faith into dark places are recorded by later generations as saints and prophets of their god.
+Ecclesiastics receive little combat training. At first level, ecclesiastics hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws only two points every six levels of experience (i.e. the same as mages), but they advance in saving throws by two points every four levels of experience (i.e. as clerics). They may only fight with quarterstaffs, clubs, daggers, or darts. They are unable to use shields, fight with two weapons, or wear any kind of armor. 
+Although they cannot cast spells like clerics, ecclesiastics may learn and perform eldritch ceremonies in the liturgical tradition starting at 1st level (Acolyte). An ecclesiastic’s selection of ceremonies is limited to the ceremonies in his repertoire. An ecclesiastic’s repertoire can include a number of eldritch ceremonies up to the number and level of ceremonies listed for his level, increased by his Intelligence bonus. More information on ceremonial magic, and individual spell descriptions, can be found in the [Heroic Magic](Chapter05.md#chapter-5-heroic-magic) chapter.
+
+#### Ecclesiastic Level and Spell Progression
+
+| Experience | Title               | Level | Hit Dice | Special Abilities |   1 |   2 |   3 |   4 |   5 |   6
+| ---------: | :------------------ | ----: | :------- | :---------------- | --: | --: | --: | --: | --: | --:
+|          0 | Catechist           |     1 | 1d4      | Comfort & console, rally the faithful, theology, turn | 1 |   - |   - |   - |   - |   -
+|      1,250 | Acolyte             |     2 | 2d4      | -                 | 2 |   - |   - |   - |   - |   -
+|      2,500 | Priest              |     3 | 3d4      | -                 | 2 |   1 |   - |   - |   - |   -
+|      5,000 | Curate              |     4 | 4d4      | Magic research (minor) | 2 |   2 |   - |   - |   - |   -
+|     10,000 | Vicar               |     5 | 5d4      | -                 | 2 |   2 |   1 |   - |   - |   -
+|     20,000 | Rector              |     6 | 6d4      | -                 | 2 |   2 |   2 |   - |   - |   -
+|     40,000 | Prelate             |     7 | 7d4      | -                 | 3 |   2 |   2 |   1 |   - |   -
+|     80,000 | Bishop              |     8 | 8d4      | -                 | 3 |   3 |   2 |   2 |   - |   -
+|    180,000 | Patriarch           |     9 | 9d4      | Cathedral, magic research | 3 |   3 |   3 |   2 |   1 |   -
+|    280,000 | Patriarch, 10th lvl |    10 | 9d4+1*   | -                 | 3 |   3 |   3 |   3 |   2 |   -
+|    380,000 | Patriarch, 11th lvl |    11 | 9d4+2*   | Magic research (advanced) | 4 |   3 |   3 |   3 |   2 |   1
+|    480,000 | Patriarch, 12th lvl |    12 | 9d4+3*   | -                 | 4 |   4 |   3 |   3 |   3 |   2
+|    580,000 | Patriarch, 13th lvl |    13 | 9d4+4*   | -                 | 4 |   4 |   4 |   3 |   3 |   2
+|    680,000 | Saint               |    14 | 9d4+5*   | -                 | 4 |   4 |   4 |   4 |   3 |   3
+
+*Hit point modifiers from constitution are ignored
+
+As they advance in level, ecclesiastics may add new ceremonies to their repertoire by visiting a temple of their order and spending one game week per ceremony. Each ecclesiastic’s order will require that the ecclesiastic learn particular ceremonies at each level, and will refuse to teach certain ceremonies it deems sacrilegious. Ecclesiastics who wish to learn such ceremonies must find or research them on their own. The specific ceremonies taught by any given order should be determined by the Judge based on his setting. 
+
+EXAMPLE: Balbus, an ecclesiastic, has advanced to 2nd level, increasing his repertoire from one to two 1st level ceremonies. He visits the local Temple of the Winged Sun and impudently inquires of his Patriarch whether he might learn choking grip or weave smoke. After a stern lecture on upholding Light and Law, Balbus is offered a choice of illumination or command word.  
+
+Ecclesiastics must uphold the doctrines of their faith in order to remain members of their religious order. If an ecclesiastic is found breaking the rules of his order, he may be disciplined or even separated from his order. An ecclesiastic who is separated from his order may not return to the order when they advance in level to learn new ceremonies, and will not receive aid or followers when building a cathedral (see below). Other penalties are entirely up to the Judge.
+
+Ecclesiastics are among the most educated and respected members of their society. All ecclesiastics learn theology at a seminary or monastery (as per the Theology proficiency). They can automatically identify religious symbols, spell signatures, trappings, and holy days of their own faith, and can recognize those of other faiths with a proficiency throw of 11+. Rare or occult cults may be harder to recognize (Judge’s discretion). An ecclesiastic may select additional ranks in the Theology proficiency to improve his proficiency throw if desired. 
+
+Ecclesiastics can comfort and console the wounded, helping the faithful to better endure pain and suffering while they heal. Each use of the ability requires 1 turn (10 minutes), during which the target creature is reassured through prayer and pastoral guidance. Once comforted and consoled, the creature’s base healing rate from resting is doubled for the next day. An ecclesiastic cannot comfort and console wounded creatures of a different alignment or religion, nor can he comfort and console creatures of animal intelligence. This ability only applies to healing from resting. It does not stack with the effects of the salving rest spell nor with rallying the faithful.
+By reciting a sermon or singing a hymn of battle, an ecclesiastics can rally the faithful. Rallying the faithful requires  a few moments of oration (one round), and grants allied creatures within 30’ a pool of temporary hit points equal to the lower of the ecclesiastic’s or the subject’s base healing rate. These temporary hit points last for one turn (10 minutes) or until lost to damage, whichever comes first. To benefit from this spell, the subjects must either be of the same alignment and religion of the ecclesiastic, or must have personally benefited from his magic in the past. An ecclesiastic can rally the faithful once per day per level.  
+ 
+EXAMPLE: Balbus, now a 5th level ecclesiastic, has a base healing rate of 1d8. He is adventuring with Athelstan (a paladin with 12 hp and a base healing rate of 1d4) and Raknar Red-Handed (a barbarian with 17 hp and a base healing rate of 1d6). The adventurers confront an ogre, which hits Raknar for 8 points of damage, reducing him to 9 hp. On his action, Balbus rallies the faithful, granting Athelstan and Balbus temporary hit points. Each character receives the temporary hit points equal to the lower of Balbus’ or their own base healing rate; for both characters that is their own healing rate. Athelstan rolls 1d4 and receives 2 temporary hit points, putting him at 12 hp and 2 temporary hp. Balbus rolls 1d6 and receives 6 temporary hp, putting him at 9 (of 17) hp and 6 temporary hp. These temporary hp will be lost first if the adventurers are hit. Otherwise they will last one turn.
+
+Finally, all ecclesiastics have the ability to turn undead, calling upon the liturgy of their faith to drive back, and even destroy, undead. The potency of this ability is determined by level. On the Turning Undead table, there will be a dash, a “T”, a “D”, or a number corresponding to the type of undead monster and the level of the ecclesiastic. A dash means that the ecclesiastic has not attained high enough level to turn the undead type. A “T” means that the ecclesiastic automatically turns the undead, and a “D” means that the undead will be destroyed automatically. A number indicates that the player must roll that number or higher on 1d20 in order to turn the undead. If this roll is successful, or there is a “T” in the chart, the player rolls 2d6 and the result equals the number of total Hit Dice of undead monsters turned. A “D” in the chart requires the same roll to determine how many HD of undead are destroyed. No matter what the dice roll result, at least one undead monster will always be turned or destroyed, as appropriate, on a successful use of turning. 
+
+Turned undead flee the area for 10 rounds by the best and fastest means available to them. If they cannot flee, they cower in terror, taking no actions and suffering a -2 penalty to AC. If the ecclesiastic attacks turned undead in melee combat, the turning effect is broken, but he can use spells or missile weapons against them, and other characters may attack them in any fashion, without breaking the turning effect. Destroyed undead are immediately turned to ash. 
+
+There is no limit to how often an ecclesiastic may attempt to turn undead each day, but if an attempt to turn undead fails during an encounter, the ecclesiastic may not attempt to turn undead again for the remainder of that encounter.
+
+Certain chaotic sects teach their ecclesiastics to control undead rather than turn them. The undead are controlled for 1 turn per level of the character. If the undead would have been destroyed, the undead are controlled for 1 day per level of the ecclesiastic instead. Controlled undead behave as if charmed, obeying the ecclesiastic as if they were friends. However, if the controlled undead are turned or destroyed by an ecclesiastic during the duration of the control, the control is dispelled immediately. If the duration of the control ends without incident, the undead will flee (as if turned).
+
+#### Ecclesiastic Turning Undead
+
+| Undead Type |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |  10 |  11 |  12 |  13 | 14+
+| :---------- | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --:
+| Skeleton    | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D |   D |   D
+| Zombie      | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D |   D
+| Ghoul       | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D |   D
+| Wight       | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D |   D
+| Wraith      |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D |   D
+| Mummy       |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D |   D
+| Spectre     |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D |   D
+| Vampire     |   - |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D |   D
+| Infernal*   |   - |   - |   - |   - |   - | 19+ | 16+ | 13+ | 10+ |  7+ |  4+ |   T |   T |   D
+
+*This category includes very powerful undead, or unholy beings such as demons and devils
+
+An ecclesiastic can use any magic items usable by mages or clerics. When an ecclesiastic reaches 5th level (Vicar), he may begin to research spells, scribe scrolls, and brew potions. Ecclesiastics may collect and use divine power as clerics in order to fuel their magical research. 
+ 
+At 9th level (Patriarch), he is able to create more powerful magic items such as weapons, rings, and staffs. Also upon attaining 9th level (Patriarch), an ecclesiastic may establish or build a cathedral. So long as the ecclesiastic is currently a member in good standing of his order, he may buy or build his cathedral at half the normal price due to aid from his order. Once a cathedral is established, the ecclesiastic’s reputation will spread and he will attract 5d6x10 0th level soldiers armed with various weapons, plus another 1d6 ecclesiastics of 1st-3rd level of the same religion to serve the order. They are completely loyal (morale +4). While in the ecclesiastic’s service, his followers must be provided food and lodging, but need not be paid wages. The Judge determines which proportions of followers are archers, infantry, etc. Ecclesiastic’s cathedrals are otherwise identical to cleric’s fortified temples, as detailed in the Campaign chapter of the ACKS Rulebook.
+
+At 11th level, an ecclesiastic may learn and cast ritual eldritch pells of great power (6th and 7th level), craft magical constructs, and create magical cross-breads. If chaotic, the ecclesiastic will become able to create necromantic servants and even become undead himself.
+
+Ecclesiastic Proficiency List: Alchemy, Animal Husbandry, Apostasy*, Beast Friendship, Ceremonial Magic*, Command, Divine Blessing, Divine Health, Farseeing*, Healing*, Knowledge, Laying on Hands, Loremastery, Magical Engineering, Magical Music*, Mystic Aura, Naturalism, Performance, Personal Talisman*, Prestidigitation, Profession, Prophecy*, Quiet Magic, Righteous Turning, Second Sight*, Sensing Evil, Sensing Power, Unflappable Casting
+
+*Modified or new proficiency described on p. XX.
+
+| Template:           | Priest
+| :------------------ | :--------
+| Proficiencies:      | Divine Blessing, Performance (oration)
+| Starting Equipment: | Bronze-shod staff, white cassock, gold silk sash, high boots, backpack, liturgical implements (level 1), holy symbol (winged sun of Ammonar), holy book (The Laws of the Light), 2 weeks’ iron rations, 1gp
+
+Priest Template: This pre-generated template represents a devout priest from an organized religious order. The template is ready for adventure. However, if your ecclesiastic’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4).
+
+#### Ecclesiastic Saving Throws
+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands 
+| :---- | ------------------------: | -------------: | -------------: | -------------: 
+| 1-2   |                       13+ |            10+ |            16+ |            13+ 
+| 3-4   |                       12+ |             9+ |            15+ |            12+ 
+| 5-6   |                       11+ |             8+ |            14+ |            11+ 
+| 7-8   |                       10+ |             7+ |            13+ |            10+ 
+| 9-10  |                        9+ |             6+ |            12+ |             9+ 
+| 11-12 |                        8+ |             5+ |            11+ |             8+ 
+| 13-14 |                        7+ |             4+ |            10+ |             7+ 
+
+#### Ecclesiastic Attack Throws
+
+
+
+
+
+
+
+
 
 
 
