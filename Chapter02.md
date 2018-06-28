@@ -1197,7 +1197,126 @@ Warden Template: This pre-generated template represents a keen-eyed ranger, frie
 | 14    |                        4+ |             3+ |             5+ |             5+ |     6+ |           1+
 
 
+### Nobiran Wizard
 
+*“You need not thank me,” said the lady, with a dulcet smile. “I am Moriamis, the enchantress, and the Druids fear my magic, which is more sovereign and more excellent than theirs, though I use it only for the welfare of men and not for their bale or bane.”* – The Holiness of Azédarac (C.A. Smith)
+
+| Prime Requisite: | INT and WIS
+| :--------------- | :---
+| Requirements:    | STR 11, INT 11, WIS 11, DEX 11, CON 11, CHA 11
+| Hit Dice:        | 1d4
+| Maximum Level:   | 14
+
+Gifted from birth with power beyond other men, Nobiran wizards are feared and respected by all. The blood of gods and great heroes runs in their veins, and their lives are not those of mortals. A Nobiran wizard has no need for the potions, fetishes, and ceremonies of a shaman or occultist. Even the lowliest wizard can utter a word of power to sunder the sword of his foe, or kindle flame with a gesture. The mightiest wizards can shatter the gate of a fortress with a blow from their staff, and summon up a thunder-storm with a song. Some Nobiran wizards succumb to the temptations of their great power, and are counted among the enemies of men; but most use their knowledge to advise, guide, and protect the realm from the evils that assail it.
+
+At first level, Nobiran wizards hit an unarmored foe (AC 0) with an attack throw of 10+. Like mages, they advance in attack throws and saving throws by two points every six levels of experience. Nobiran wizards are limited to fighting with the weapons taught by their college (see below), and are unable to use shields, fight with two weapons, or wear any kind of armor.
+
+The earliest manifestation of a wizard’s gift is prestidigitation, the ability to magically accomplish simple illusions and sleight of hand tricks suitable for impressing peasants, such as lighting a candle or shaping a smoke ring, at will. To perform these effects, the wizard merely must be able to perform the task physically, and be free to speak and gesture. He may use prestidigitation to pick pockets as a thief of one half his class level.
+
+As they grow in power, Nobiran wizards are able to learn and cast eldritch spells. The number and levels of spells the wizard can use in a single day are listed on the Wizard Spell Progression table. A wizard’s spell selection is limited to the spells in his repertoire. A wizard’s repertoire can include a number of spells up to the number and level of spells listed for his level, increased by his Intelligence bonus. All wizards can use any magic items usable by mages or clerics.  More information on casting eldritch spells, and individual spell descriptions, can be found in the Magic chapter (p. XX).
+
+A wizard’s advancement in the magical arts is shaped by his college of wizardry. The origin of the colleges of wizardry is lost in the mists of time. However, the colleges of Artifice, Fellowship, Lore, and Nature are believed to be the oldest of the colleges. Graduates of these colleges are known for their white, grey, blue and brown robes, respectively. 
+
+When a Nobiran wizard is created, select a college for the character from the College table below, and write down the proficiencies and powers of the college. Each college teaches the use of a selection of four weapons for self-defense, four proficiency selections which are added to the Wizard Proficiency List as potential class proficiency choices, and five special abilities earned as they advance in level. (Chaotic wizard may also select one of the paths of the Zaharan sorcerer, if desired.)
+
+| College | Description
+| :--- | :----------
+| Artifice	| The college of Artifice sees magic as a mechanical process to be studied systematically in order to decipher its operations and improve upon them. Its wizards frequently seek out the company of dwarves, who share their fascination with artificial things made with metal and fire.
+| Fellowship | The college of Fellowship teaches that magic is a manifestation of the divine spark within every sapient creature. Its wizards are often found in adventuring parties, carrying divine light into the shadowed places of the world.  
+| Lore | The college of Lore teaches that magic is governed by secret laws and esoteric principles. Its wizards seek out forgotten knowledge and share insights with sages and scholars. 
+| Nature | The college of Nature views magic as a force of nature, created and sustained by life. Its wizards live in the wild places of earth, and find friendship with birds, beasts, elves, and shamans.
+
+**Wizard of Artifice**<br>
+Class Proficiencies: Bargaining, Bribery, Command, Siege Engineering <br>
+Weapons: Dagger, dart, staff, whip<br>
+1st level: The wizard has studied the craft of magic and the methods by which it is worked into objects. The wizard gains one rank of Magical Engineering proficiency.<br>
+3rd level: The mechanisms of war are among the most intricate ever crafted by man, and worthy of deep study. The wizard gains one rank of Siege Engineering proficiency.<br>
+5th level: The science of making reveals the art of unmaking. Once per day the wizard can cast dispel magic (as the 3rd level spell). The casting time is one round (10 seconds).<br>
+9th level: Years of careful laboratory work begin to pay off as the wizard develops flawless precision. When conducting ordinary magic research (i.e. not using experimental methods), the wizard avoids automatic failures on unmodified die rolls of 2-3. An unmodified die roll of 1 is still an automatic failure, however. <br>
+11th level: The wizard is capable of creating marvelous machines that blend science and magic. The wizard is able to design and build constructs at half the usual base time and cost.<br>
+
+**Wizard of Fellowship**<br>
+Class Proficiencies: Command, Divine Blessing, Leadership, Military Strategy<br>
+Weapons: Club, dagger, dart, staff<br>
+1st level: The wizard is an ever-present reminder of light and hope in a dark world. He gains the ability to inspire courage. Inspiring courage requires  a few moments of oration (one round), and grants the wizard’s allies within a 50' radius a +1 bonus to attack throws, damage rolls, morale rolls (for monsters or NPCs allied with the caster), and saving throws against magical fear. The bonus lasts for 10 minutes (1 turn). The wizard can inspire courage in any given character once per day per class level. The wizard cannot inspire courage in characters who are already engaged in combat or in characters of different alignment.<br>
+3rd level: The wizard is ready to take the battle to the enemy. He gains the Martial Training proficiency, learning the use of short swords, swords, and two-handed swords.<br>
+5th level: Though he may take a humble mien as he walks among the common man, a wizard in the fullness of his power is a luminous being that the dark cannot stand against. Once per day the wizard can cast inspire awe (as the 3rd level spell). The casting time is one round (10 seconds).<br>
+9th level: The wizard is blessed with an aura of protection that grants a +1 bonus to AC and a +1 bonus on saving throws against attacks made or effects created by evil creatures. The wizard’s aura of protection appears as a golden halo when viewed with magic.<br>
+11th level: The powers of darkness cannot stand before the wizard’s bright lore. The character can turn undead as an ecclesiastic of one-half his class level. If the character casts spells that require a saving throw versus Paralysis, his targets suffer a -2 penalty on the save. When the character casts protection spells, the spell effects are calculated as if he were two class levels higher than his actual level of experience. This class power stacks with the White Lore of Aura class proficiency (see p. XX). <br>
+ 
+**Wizard of Lore**<br>
+Class Proficiencies: Mapping, Navigation, Riding, Seafaring<br>
+Weapons: Dagger, dart, sling, staff<br>
+1st level: The wizard has undertaken a careful study of ancient annals and occult mysteries. He gains the Loremastery proficiency. <br>
+3rd level: Few books and scrolls of interest to the wizard are written in the Common tongue, so the wizard must master obscure scripts, codes, and languages. He may read languages (including ciphers, treasure maps, and dead languages, but not magical writings) with a proficiency throw of 5+ on 1d20. If the roll does not succeed, the wizard may not try to read that particular piece of writing until he reaches a higher level of experience.<br>
+5th level: In his studies, the wizard has learned ancient runes of power. Once per day, he can cast glyphs of warding (as the 3rd level spell). The casting time ins one round (10 seconds).<br>
+9th level: The wizard can unveil esoteric meaning hidden in mundane texts. The gp value of the wizard’s library is doubled for purposes of magical research, and he is eligible for a bonus of up to +5 (instead of +3) from library value.<br>
+11th level: By studying astrology and metaphysics, the wizard masters the lore of the stars and spheres. The wizard is able to learn and cast ritual magic at half the usual base time and cost.<br>
+
+**Wizard of Nature**<br>
+Class Proficiencies: Animal Husbandry, Contemplation, Divine Health, Survival<br>
+Weapons: Club, dagger, sling, staff<br>
+1st level: As a friend of birds and beasts, the wizard can understand the subtle language of normal animals. He gains a +2 to all reaction rolls when encountering animals, and may take them as henchmen. He can identify flora and fauna with a proficiency throw of 11+. This class power stacks with Beast Friendship proficiency (see p. XX).<br>
+3rd level: The ways of the wild include the art of the hunt. The wizard gains Martial Training proficiency, learning the use of short bows, short swords, and spears.<br>
+5th level: So close has the wizard grown to his wild kin that their shape is as natural to him as his own skin. Once per day, the wizard can cast skinchange (as the 3rd level spell). The casting time is one round (10 seconds).<br>
+9th level: The spirits of nature reward the wizard with an animal companion. A wizard of nature’s animal companion is mechanically identical to a shaman’s totem animal, including totem benefit (see Player’s Companion, p. XX) <br>
+11th level: Due to his attunement to nature, the wizard gains a +1 bonus to surprise rolls when in the wilderness. All ordinary animals within 5 miles of the wizard’s home or sanctum become kind and helpful, knowing him as a steward of the wild.
+
+When a Nobiran wizard of any college reaches 5th level (Thaumaturge), he may begin to research spells, scribe magical scrolls, and brew potions. Nobiran Wizards may collect and use divine power as clerics in order to fuel their magical research.
+
+When a wizard reaches 9th level (Wizard), he is able to create more powerful magic items such as weapons, rings, and staffs. A Nobiran wizard may also build a wizard’s tower when he reaches 9th level. He will then attract 1d6 apprentice wizards of 1st-3rd level plus 2d6 young Nobirans seeking to become wizards. Their intelligence scores will be above average, but many will become discouraged from the rigorous mental training and quit after 1d6 months. While in the wizard’s service, apprentices must be provided food and lodging, but need not be paid wages. If the wizard builds a dungeon beneath or near his tower, monsters will start to arrive to dwell within, followed shortly by adventurers seeking to fight them. 
+
+At 11th level, a Nobiran wizard may learn and cast ritual spells of great power (7th, 8th, and 9th level), craft magical constructs, and create magical cross-breeds. If chaotic, a Nobiran wizard may create necromantic servants and even become undead himself, though few of their long-lived race choose to do so. 
+
+The Nobiran’s ancestry offers more gifts than just spellcasting. The blood of ancient kings flows in every Nobiran. The character may hire one more henchman than his Charisma would otherwise permit, and the base morale score of any henchmen is increased by 1.  Due to the favor of the gods, all Nobirans receive a +2 bonus to all saving throws. (This adjustment is already factored into the saving throws on the Nobiran Wizard Saving Throws table below.)   They are also ageless, enjoying a lifespan three times longer than that of normal men, free from decrepitude and weariness. Like elves, they are immune to ghoul paralysis. They also enjoy divine health that renders them immune to all forms of disease, including magical diseases caused by spells, mummies, or lycanthropes.  
+ 
+Wizard Proficiency List: Alchemy*, Battle Magic, Beast Friendship*, Black Lore of Zahar*, Bright Lore of Aura*, Ceremonial Magic*, Collegiate Wizardry, Crafting*, Elementalism, Familiar, Healing, Language, Laying on Hands, Magical Engineering, Mastery of Charms and Illusions*, Mystic Aura, Naturalism, Quiet Magic, Second Sight*, Sensing Evil, Sensing Power, Soothsaying*, Transmogrification, Unflappable Casting,
+
+*Modified or new proficiency described on p. XX.
+
+| Template:           | Servant of Fire (Fellowship path)
+| :------------------ | :--------
+| Proficiencies:      | Elementalism, Theology
+| Starting Equipment: | Red leather spellbook with blinding flash, holy symbol (ivory torch), gnarled oaken quarterstaff, 5 darts, flame red cassock with hood, leather belt, low boots, backpack, quill and ink, flask of holy water, 2 weeks’ iron rations, 7gp
+
+Servant of Fire: This pre-generated template represents an elementalist in the service of light and law. The template is ready for adventure. However, if your wizard’s INT is 13 or greater, you may pick one or more additional general proficiencies and starting spells before play if you’d like (see Starting Proficiencies in Chapter 4 and Spell Repertoire in Chapter 5 of ACKS).
+
+
+#### Nobiran Wizard Level Progression
+
+| Experience | Title             | Level | Hit Dice | Special Abilities | 1 | 2 | 3 | 4 | 5 | 6
+| ---------: | :---------------- | ----: | :------- | :---------------- | :- | :- | :- | :- | :- | :-
+|          0 | Initiate          |     1 | 1d4      | Nobiran, college, prestidigitation | 2
+|      2,625 | Adept             |     2 | 2d4      | - | 3
+|      5,250 | Theurgist         |     3 | 3d4      | College | 3 | 1
+|     10,500 | Magician          |     4 | 4d4      | - | 3 | 2
+|     21,000 | Thaumaturge       |     5 | 5d4      | Magic research (minor), college | 3 | 2 | 1
+|     42,000 | Enchanter         |     6 | 6d4      | - | 3 | 3 | 2
+|     85,000 | Conjurer          |     7 | 7d4      | - | 4 | 3 | 2 | 1
+|    170,000 | Mage              |     8 | 8d4      | - | 4 | 3 | 3 | 2 
+|    360,000 | Wizard            |     9 | 9d4      | Magic research, college, tower | 4 | 4 | 3 | 2 | 1 
+|    550,000 | Wizard, 10th lvl  |    10 | 9d4+1*   | - | 4 | 4 | 3 | 3 | 2 | 
+|    740,000 | Wizard, 11th lvl  |    11 | 9d4+2*   | Magic research (advanced), college | 5 | 4 | 4 | 3 | 2 | 1
+|    930,000 | Wizard, 12th lvl  |    12 | 9d4+3*   | - | 5 | 5 | 4 | 3 | 3 | 2
+|  1,120,000 | Wizard, 13th lvl  |    13 | 9d4+4*   | - | 5 | 5 | 4 | 4 | 3 | 2
+|  1,310,000 | Wizard of the Council     |    14 | 9d4+5*  | - | 6 | 5 | 4 | 4 | 3 | 3
+
+*Hit point modifiers from constitution are ignored
+
+
+#### Nobiran Wizard Attack and Saving Throws
+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells |    | Level | Attack Throw
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | :- | :---- | -----------:
+| 1-2   |                       11+ |             8+ |            14+ |            11+ |    15+ |    | 1-3   |    10+
+| 3-4   |                       10+ |             7+ |            13+ |            10+ |    14+ |    | 4-6   |     9+
+| 5-6   |                        9+ |             6+ |            12+ |             9+ |    13+ |    | 7-9   |     8+
+| 7-8   |                        8+ |             5+ |            11+ |             8+ |    12+ |    | 10-12 |     7+
+| 9-10  |                        7+ |             4+ |            10+ |             7+ |    11+ |    | 13+   |     6+
+| 11-12 |                        6+ |             3+ |             9+ |             6+ |    10+ |
+| 13-14 |                        5+ |             2+ |             8+ |             5+ |     9+ |
+
+**Note:** Judges may wish to allow human wizards that cast eldritch spells. Human wizards are identical to Nobiran wizards, except that they use the mage experience point progression and lose the Nobiran racial powers (don’t forget to increase the target value of all of their saving throws by 2 points).  If the Judge has Axioms Issue 1, he can also use the alternative wizard class in that book, but should replace the arcane spells with eldritch spells and the eldritch spell progression.
 
 
 
