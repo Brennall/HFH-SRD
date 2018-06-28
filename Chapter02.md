@@ -1075,13 +1075,130 @@ Loremaster Proficiency List: Alchemy*, Battle Magic, Beast Friendship, Black Lor
 
 | Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | | Level | Attack Throw
 | :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | | ----: | -----------:
-| 1-2   |                       13+ |            10+ |            16+ |            13+ |    15+ | | 1-3 |     10+
-| 3-4   |                       12+ |             9+ |            15+ |            12+ |    14+ | | 4-6 |      9+
-| 5-6   |                       11+ |             8+ |            14+ |            11+ |    13+ | | 7-9 |      8+
+| 1-2   |                       13+ |            10+ |            16+ |            13+ |    15+ | | 1-3   |   10+
+| 3-4   |                       12+ |             9+ |            15+ |            12+ |    14+ | | 4-6   |    9+
+| 5-6   |                       11+ |             8+ |            14+ |            11+ |    13+ | | 7-9   |    8+
 | 7-8   |                       10+ |             7+ |            13+ |            10+ |    12+ | | 10-12 |    7+
-| 9-10  |                        9+ |             6+ |            12+ |             9+ |    11+ | | 13+ |      6+
+| 9-10  |                        9+ |             6+ |            12+ |             9+ |    11+ | | 13+   |    6+
 | 11-12 |                        8+ |             5+ |            11+ |             8+ |    10+ 
 | 13-14 |                        7+ |             4+ |            10+ |             7+ |     9+ 
+
+
+### Nobiran Champion
+
+*“Many evil things there are that your strong walls and bright swords do not stay. You know little of the lands beyond your bounds. Peace and freedom, you say? The North would have known them little but for us. Fear would have destroyed them. But when dark things come from the houseless hills, or creep from the sunless woods, they fly from us.”* – Aragorn, in The Lord of the Rings (J.R.R. Tolkien)
+
+
+| Prime Requisite: | STR and CHA
+| :--------------- | :---
+| Requirements:    | STR 11, INT 11, WIS 11, DEX 11, CON 11, CHA 11
+| Hit Dice:        | 1d8
+| Maximum Level:   | 14
+
+**Note:** Nobirans are a race of divinely-blessed men from the Auran Empire campaign setting. Outside of the Auran Empire campaign setting, Nobirans could be used to model any demi-human race of exceptional power and nobility, such as the half-human, half-divine demigods of Greek myth, the Aasimar of the Forgotten Realms, or the Dúnedain of Tolkien’s Middle Earth. In settings where normal men cannot become spellcasters, Nobirans can also represent those mortals born with a gift for magical talent arising from benign or divine sources. 
+
+Civilization is ever under threat – barbarians, beastmen, the very forces of Chaos itself ever assail the realms of man. Against these threats, the Nobiran champion stands firm and ever-watchful, shield high and sword in hand. Descended from the very heroes who first carved the realm from the wilderness, Nobiran champions are sometimes found among the old nobility, but most are lonely wanderers who protect realms that have forgotten their kings of old. 
+
+Some Nobiran champions eventually become renowned for their glorious deeds and claim high places as leaders of men. Others, scorned by the very people they defend, defect to the Enemy and become terrible foes of the realm. Most die in forlorn battles, remembered only by the brothers, sons, and comrades who pick up the swords of the fallen and continue to fight the long defeat.
+
+Nobiran champions are raised to be warriors from a young age. At first level, champions hit an unarmored foe (AC 0) with an attack throw of 10+. Like fighters, they advance in attack throws and saving throws by two points every three levels of experience. All Nobiran champions may wear chainmail armor or lighter, and may wield daggers, lances, javelins, pole arms, spears, short swords, swords, and two-handed-swords, as well as five other weapons determined by their calling (see below). They may fight wielding a weapon and shield, wielding a weapon two-handed, and wielding a weapon in each hand.  They may use any magic item usable by fighters.
+
+Nobiran champions increase their damage from their choice of either missile or melee attacks by +1 at 1st level, and by an additional +1 at 3rd, 6th, 9th, and 12th level. The champion must choose which type of attack will receive the damage bonus at 1st level, and may not change the choice as he advances (i.e. they may choose to be either melee or missile specialists). 
+
+A champion’s martial talents are shaped by his calling of arms. There are three callings of arms available to a champion: Armiger, Herald, and Ranger. Each calling offers a different set of abilities reflecting that calling’s specific viewpoint on the duties of a champion. When a Nobiran champion is created, select a calling for the character from the Calling of Arms table below, and write down the proficiencies and powers of the calling. Each calling teaches the use of a selection of five additional weapons, adds four proficiency selections to the Nobiran Champion Proficiency List as potential class proficiency choices, and unlocks four special abilities earned as the character advances in level.
+
+| Calling | Description
+| :--- | :----------
+| Armiger	| The realms of man are defended, not with words or wits, but with warriors with steel armor and iron will. It is the calling of the armiger to devote himself to the study of armored combat on the battlefield. 
+| Herald | The agents of chaos ceaselessly sow discord and hatred, and through their treachery wars can be lost even if every battle is won. It is the calling of the herald to forge the alliances and craft the strategies that unite kingdoms and win wars.  
+| Ranger | Dark things lurk at the borders of civilization, ever encroaching when they sense weakness. It is the calling of the ranger to hunt them down in their forests, swamps, and hidden places before they can threaten the heartland.   
+
+**Calling of Armiger**<br>
+Class Proficiencies: Combat Trickery (knock down), Dungeon Bashing, Martial Training, Riding<br>
+Weapons: battle axe, flail, great axe, morning star, war hammer<br>
+1st level: The armiger has devoted himself to the study of armored combat. This armor training permits him to wear banded, lamellar, and/or plate armor rather than just chainmail.<br>
+3rd level: Years of fighting in a panoply of steel has taught the armiger to endure heavy loads. He reduces his effective encumbrance by 2 stone for purposes of determining his movement rate. <br>
+7th level: The armiger has learned to mitigate damage by absorbing the blow on his armor or shield. When an armiger mitigates damage, the damage dealt by the attack is reduced to 1 point. The excess damage is absorbed by the armiger’s armor or shield, which is reduced in effectiveness (AC) by 1 point per 10 points of damage mitigated (rounded up). In addition, if the amount of damage mitigated is greater than the armiger’s current hit points, then he is also knocked prone. The armiger cannot mitigate damage if he is backstabbed, frightened, helpless, infuriated, mesmerized, prone, surprised, or stunned. Special maneuvers cannot be mitigated, nor can damage from critical hits, magic, or area of effect attacks. Armor and/or shields that are reduced to 0 or less effectiveness are ruined and cannot be repaired. Otherwise an armorer with a workshop can repair the damage to an armiger’s armor and shield at a cost of 10gp per point of effectiveness.<br>
+11th level: The armiger is a lion-hearted leader whose courage inspires his men to fight on. If the armiger is fighting on the battlefield with an army, the army automatically stands firm on its first morale roll, or rallies if it would have stood firm. This benefit is lost for the duration of the battle, however, if the armiger himself routs, flees, or leads from the rear (see Domains at War: Battles, p. XX). 
+
+**Calling of Herald**<br>
+Class Proficiencies: Armor Training, Leadership, Mystic Aura, Siege Engineering<br>
+Weapons: battle axe, composite bow, flail, mace, war hammer<br>
+1st level: The herald has the ability to inspire courage. Inspiring courage requires  a few moments of oration (one round), and grants the herald’s allies within a 50' radius a +1 bonus to attack throws, damage rolls, morale rolls (for monsters or NPCs allied with the character), and saving throws against magical fear. The bonus lasts for 10 minutes (1 turn). The herald can inspire courage in any given character once per day per class level. The herald cannot inspire courage in characters who are already engaged in combat or in characters of different alignment.<br>
+3rd level:. As an envoy to lords and rulers, the herald has become conversant in the tongues of all the great civilizations. The character gains the ability to speak, read, and write four bonus languages. The languages chosen must be in common use by his realm’s historical allies or enemies (Judge’s discretion).<br>
+7th level: The herald knows that the greatest victories come without fighting. In lieu of moving or attacking on his initiative, the herald may demand surrender from a group of hostile creatures. The group can be of any size, but the creatures must be able to see, hear, and understand the herald, and must be either outnumbered or surprised by the herald and his allies in order to be affected. Affected creatures must make an immediate morale roll with a penalty equal to the herald’s CHA bonus. A result of Retreat or Fighting Withdrawal will lead to their immediate surrender. If the demand fails, a herald may not demand surrender from the same creature or creatures again until other circumstances have triggered a morale roll by the creature or creatures. This ability can be used at the start of a D@W battle if the opposing army is surprised or outnumbered by the herald’s army.<br>
+11th level: The herald is a clarion commander who can rouse the populace in times of danger. When the herald issues a call to arms to his vassals, he can ask them to muster their full garrison without provoking a Henchman Morale roll. When the herald levies the peasant militia of his domain, or when his vassals levy their militias in response to his call to arms, morale of the domain does not suffer a penalty. All militia levied by the herald, or by his vassals in response to the herald’s call to arms, gain a +1 bonus to their morale scores, for the duration of the call. (This bonus does not stack if both the ruler and a vassal are heralds.) 
+
+**Calling of Ranger**<br>
+Class Proficiencies: Ambushing, Land Surveying, Precise Shooting, Sniping<br>
+Weapons: composite bow, hand axe, long bow, staff, short bow <br>
+1st level: The ranger is difficult to spot in the wilderness, having the ability to seemingly disappear into woods and underbrush with a proficiency throw of 3+ on 1d20. In dungeons, the ranger can escape detection with a proficiency throw of 14+ on 1d20 if he remains quiet and motionless. <br>
+3rd level: Years of pursuing his foe have taught the ranger to be a highly proficient tracker. He gains the Tracking proficiency, if he does not have it already. If he already has one or more ranks of Tracking, then this class power grants the ranger the ability to move at full speed while tracking.<br>
+7th level: The ranger is an expert scout trained to find monster lairs in the wilderness (see Lairs & Encounters, p. XX). When searching a hex, the ranger receives a searching throw to discover a lair every 30 minutes instead of every hour (or every 15 minutes if aerial). When first arriving in a hex, the ranger may attempt to assess the total number of lairs in the hex as if he had Land Surveying proficiency. If the ranger already has or later gains Land Surveying, this class power stacks with the proficiency to grant the ranger a +4 bonus to his assessment throws.<br>
+11th level: The ranger is a cunning and flexible reconnoiter who excels in scouting and screening the enemy. Whenever the ranger is commander of the scouting or screening units in an army, or its overall leader, the army treats any opposing army as if it were one row more proximate on the Results of Reconnaissance Rolls table. If the opposing army is already in the same 6-mile hex, then the army treats its degree of success as one column better instead. Any opposing army treats the ranger’s army as if it were one row less proximate for reconnaissance results, or if already at maximum distance, as if its degree of success were one column worse.<br>
+
+**Note:** The 11th level class power for each calling is designed for use with the Domains at War rules for mass combat. The 7th level class power for the ranger calling is designed for use with the Lairs & Encounters rules for wilderness exploration. If the Judge is not using these rules in his campaign, then the Nobiran champion should receive a bonus class proficiency instead of the listed class power.
+
+At 5th level (Guardian), a Nobiran champion’s battlefield prowess inspires others to follow him. Any henchmen and mercenaries hired by the champion gain a +1 bonus to their morale score whenever he personally leads them. This bonus stacks with any modifiers from the champion’s Charisma, proficiencies, or class powers.
+
+When a Nobiran champion reaches 9th level (Captain), he undertakes a study of war. The Nobiran champion gains one rank in one of the following proficiencies: Command, Military Strategy, Leadership, or Siege Engineering. Such military knowledge is quite timely, because at 9th level a champion can also found or capture a stronghold and become a protector of men. When he does so, up to 1d4+1x10 0th level mercenaries and 1d6 Nobiran champions of 1st-3rd level will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries.
+ 
+When he reaches 13th level (Captain), a Nobiran champion achieves oneness of land and lord. The Nobiran champion’s hit points are increased by 2 x the current morale score of his domain (a negative morale score will decrease his hp). Provided the champion remains Lawful, healthy, and free of corrupting weaknesses (see p. XX), his domain’s Land Value is increased by 2gp, as if it were benefitting from a Harvest ritual. If the champion is Neutral, but otherwise healthy and uncorrupted, there is no effect. If the champion is suffering from a curse, disease, or corrupting weakness, then his domain’s Land Value is decreased by 2gp, as if it were suffering from a Ravage ritual. This class power has no effect if the champion is not the ruler of a domain.
+
+In addition to the abilities they gain from their class, Nobiran are also born with certain gifts. The blood of ancient kings flows in Nobiran veins. All Nobirans may hire one more henchman than their Charisma would otherwise permit, and the base morale score of any henchmen is increased by 1.  Due to the favor of the gods, all Nobirans receive a +2 bonus to all saving throws. (This adjustment is already factored into the saving throws on the Nobiran Champion Saving Throws table below.) Nobirans are also ageless, enjoying a lifespan three times longer than that of normal men, free from decrepitude and weariness. Like elves, they are immune to ghoul paralysis. Finally, they enjoy divine health that renders them immune to all forms of disease, including magical diseases caused by spells, mummies, or lycanthropes.  
+
+Nobiran Champion Proficiency List: Alertness, Arcane Dabbling, Beast Friendship, Blind Fighting, Combat Reflexes, Combat Trickery (force back, overrun, sunder), Command, Diplomacy, Endurance, Farseeing*, Fighting Style, Goblin-Slaying, Healing, Laying on Hands, Military Strategy, Passing Without Trace, Prophecy*, Running, Second Sight*, Skirmishing, Weapon Finesse, Weapon Focus* 
+
+*Modified or new proficiency described on p. XX.
+
+| Template:           | Warden (Ranger calling)
+| :------------------ | :--------
+| Proficiencies:      | Beast Friendship, Tracking
+| Starting Equipment: | Sturdy longbow, quiver with 20 arrows, iron-tipped spear, archaic sword, dagger, chain mail armor, wind-battered fur cloak, wool tunic and pants, leather belt, low boots, backpack, lantern, tinderbox, 2 flasks of common oil, blanket, 50’ rope, 12 iron spikes, small hammer, wineskin, 1 week’s iron rations, 7gp
+
+Warden Template: This pre-generated template represents a keen-eyed ranger, friend to birds and beast, defending the borders of civilization. The template is ready for adventure.  However, if your Nobiran champion’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4 of ACKS). 
+
+
+#### Nobiran Champion Level Progression
+
+| Experience | Title             | Level | Hit Dice | Damage Bonus | Special Abilities
+| ---------: | :---------------- | ----: | :------- | -----------: | :----------------
+|          0 | Bulwark           |     1 | 1d8      |           +1 | Calling of arms, Nobiran
+|      2,575 | Warder            |     2 | 2d8      |           +1 | -
+|      5,150 | Defender          |     3 | 3d8      |           +2 | Calling of arms
+|     10,300 | Protector         |     4 | 4d8      |           +2 | -
+|     20,600 | Guardian          |     5 | 5d8      |           +2 | Battlefield prowess
+|     41,200 | Sentinel          |     6 | 6d8      |           +3 | -
+|     80,000 | Justiciar         |     7 | 7d8      |           +3 | Calling of arms
+|    160,000 | Champion          |     8 | 8d8      |           +3 | -
+|    320,000 | Captain           |     9 | 9d8      |           +4 | Study of war, stronghold
+|    480,000 | Captain, 10th lvl |    10 | 9d8+2*   |           +4 | -
+|    640,000 | Captain, 11th lvl |    11 | 9d8+4*   |           +4 | Calling of arms
+|    800,000 | Captain, 12th lvl |    12 | 9d8+6*   |           +5 | -
+|    960,000 | Captain, 13th lvl |    13 | 9d8+8*   |           +5 | Oneness of lord and land
+|  1,120,000 | Great Captain     |    14 | 9d8+10*  |           +5 | -
+
+*Hit point modifiers from constitution are ignored
+
+
+#### Nobiran Champion Attack and Saving Throws
+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+| 1     |                       13+ |            12+ |            14+ |            14+ |    15+ |          10+
+| 2-3   |                       12+ |            11+ |            13+ |            13+ |    14+ |           9+
+| 4     |                       11+ |            10+ |            12+ |            12+ |    13+ |           8+
+| 5-6   |                       10+ |             9+ |            11+ |            11+ |    12+ |           7+
+| 7     |                        9+ |             8+ |            10+ |            10+ |    11+ |           6+
+| 8-9   |                        8+ |             7+ |             9+ |             9+ |    10+ |           5+
+| 10    |                        7+ |             6+ |             8+ |             8+ |     9+ |           4+
+| 11-12 |                        6+ |             5+ |             7+ |             7+ |     8+ |           3+
+| 13    |                        5+ |             4+ |             6+ |             6+ |     7+ |           2+
+| 14    |                        4+ |             3+ |             5+ |             5+ |     6+ |           1+
+
+
+
+
 
 
 
