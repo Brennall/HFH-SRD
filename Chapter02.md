@@ -669,6 +669,78 @@ Siren Template: This pre-generated template represents an alluring enchantress. 
 
 
 
+### Freebooter
+
+*They lived by thievery, robbery, bodyguarding, brief commissions as couriers and agents—commissions they always, or almost always, fulfilled punctiliously—and by showmanship, the Mouser entertaining by legerdemain, juggling, and buffoonery, while Fafhrd with his gift for tongues and training as a singing skald excelled at minstrelsy. They never worked as cooks, clerks, carpenters, tree-fellers, or common servants...*  – The Circle Curse, in Swords Against Death (Fritz Leiber)
+
+| Prime Requisite: | DEX (plus one ability score determined by path)
+| :--------------- | :---
+| Requirements:    | None
+| Hit Dice:        | 1d4
+| Maximum Level:   | 14
+
+Freebooters are a motley assortment of adventurers who live and die for plunder. Some freebooters are dauntless expeditionaries who raid tombs for ancient treasures. Others may be brutal ruffians who rob and ravage the weak and foolish, cunning scoundrels with the charisma to convince their marks to hand over their wealth willingly, or hardy wayfarers who exact a toll on any who cross the roads and trails of their wilderness homes. Whatever their particular path to plunder, wayfarers share a lust for adventure, a taste for gold, and a willingness to resort to subterfuge and backhanded tactics without hesitation.  
+
+Like thieves, freebooters often belong to a criminal guild which offers shelter and information between heists. At the Judge’s discretion, a freebooter may have to forfeit a portion of his earnings to the guild in exchange for protection. In the Auran Empire, freebooters are everywhere, from the slums of the ports of Kushtu to the highest halls of the Senate in Aura. 
+
+Freebooters are ruthless, dirty combatants. At first level, freebooters hit an unarmored foe (AC 0) with an attack throw of 10+. Like fighters, they advance in attack throws by two points every three levels of experience. However they advance in saving throws like thieves, by two points every four levels of experience. 
+
+All freebooters may wear leather armor or lighter, and may wield crossbows, daggers, shortbows, short swords, and swords, as well as five other weapons determined by their path (see below). They may fight wielding a weapon two-handed and wielding a weapon in each hand, but may not use shields.  They may only use magic items usable by thieves.
+
+Lacking the staying power of fighters, freebooters prefer to strike from ambush and finish their foes quickly. A freebooter whose opponent is unaware of his presence can backstab him. When backstabbing, the freebooter receives an attack bonus of +4 and, if successful, deals additional damage for every four levels he has attained. A freebooter at 1st through 4th levels does double the normal damage, at 5th-8th levels does triple the normal damage, at 9th-12th levels does quadruple the normal damage, and at 13th level or higher does quintuple the normal damage. 
+
+Freebooters increase their damage from their choice of either missile or melee attacks by +1 at 1st level, and by an additional +1 at 3rd, 6th, 9th, and 12th level. The freebooter must choose which type of attack will receive the damage bonus at 1st level, and may not change the choice as he advances (i.e. they may choose to be either melee or missile specialists). 
+
+A freebooter’s plundering pursuits are shaped by his path to wealth. There are four paths to wealth available to a freebooter: Expeditionary, Ruffian, Scoundrel, and Wayfarer. Each path offers a different set of abilities reflecting that path’s preferred methods to accumulate wealth. When a freebooter is created, select a path for the character from the Paths to Wealth table below, and write down the proficiencies and powers of the path. Each path teaches the use of a selection of five additional weapons, trains the character in four thief skills, and grants five bonus proficiencies. Note that each path has its own prime requisite in addition to DEX.
+
+| Path | Description
+| :--- | :----------
+| Expeditionary	| A looter of tombs and a delver of dungeons, skilled in scouting, trap-finding, and lock-picking.
+| Ruffian | A cut-throat and killer, skilled in breaking and entering, robbery, and intimidation.
+| Scoundrel | A gentleman thief, skilled in subterfuge and disguise.
+| Wayfarer | A highwayman, outrider, or scout, skilled in hunting, trapping, and survival. 
+
+At the Judge’s discretion, a freebooter may follow a unique path, outside of the four listed above. The player and Judge should collaborate to choose five weapons, four thief skills, and five bonus proficiencies that are appropriate to the freebooter.
+
+**Path of Expeditionary**
+Prime Requisite: WIS
+Weapons:  hand axe, pole arm, spear, staff, war hammer
+Thief Skills:  find traps, open locks, move silently, remove traps
+Bonus Proficiencies:  Alertness, Climbing, Dungeon Bashing, Mapping, Trap Finding
+
+The expeditionary is a looter of tombs and a delver of dungeons. He often serves as point-man on dungeon delves due to his ability to find both secret doors and traps more effectively than almost any other adventurer. His ability to climb walls and move silently allows him to scout ahead undetected by listening guards, while his training in disarming traps, opening locks, and bashing doors enables him to penetrate almost any obstacle in his path to plunder. Expeditionaries are also excellent map-makers and most treasure maps are created by them.
+
+**Path of Ruffian**
+Prime Requisite: STR 
+Weapons: battle axe, club, morning star, sap, whip
+Thief Skills: hide in shadows, move silently, open locks, pick pockets
+Bonus Proficiencies: Dungeon Bashing, Fighting Style (ruffian’s choice), Intimidation, Skulking, Swashbuckling
+
+The ruffian is a cut-throat and killer. A ruffian can cut the purses of passersby, skulk in the shadows to waylay unsuspecting victims, break into homes and burglarize their valuables, or simply rely on his threatening demeanor and martial prowess to rob victims at sword-point. Most freebooters are ruffians, and they can be found in great numbers in any den of scum and villainy.
+
+**Path of Scoundrel**
+Prime Requisite: CHA
+Weapons: arbalest, dart, mace, sap, whip
+Thief Skills: hide in shadows, move silently, open locks, pick pockets
+Bonus Proficiencies: Cat Burglary, Climbing, Disguise, Eavesdropping, Lip Reading
+
+The scoundrel is a gentleman thief. His ability to scale walls, open locks, hide in shadows, and move silently enables him to function as nigh-undetectable cat burglar, stealing his victims’ most precious treasures without need for violence. An expert in disguise, he can blend in to any crowd, where his graceful sleight-of-hand can relieve his marks of their important papers and burdensome purses. Skilled eavesdroppers and lip readers, scoundrels often work as spies and secret agents, uncovering secrets that the powerful wish to keep hidden.
+
+**Path of Wayfarer**
+Prime Requisite: CON
+Weapons: bola, hand axe, longbow, net, staff
+Thief Skills: climb walls, hear noise, hide in shadows, move silently
+Bonus Proficiencies: Land Surveying, Running, Sniping, Skirmishing, Tracking
+
+The wayfarer is a highwayman, outrider, and scout. He excels at hit-and-run attacks, sniping from the cover of darkness and brush, then falling back swiftly and silently into the wilderness. He has the ability to move through the wilderness at great speed, and can navigate mountainous terrain, climb trees, and scale precipices that halt pursuers. If inclined to law, wayfarers may use their expertise in tracking and land surveying to discover monster lairs in the wilderness for adventuring parties or local garrisons.
+
+While each path of freebooter knows different thief skills, all follow the same progression of improvement, as shown on the Freebooter (Thief) Skill Progression table, below.
+
+
+
+
+
+
 
 
 
