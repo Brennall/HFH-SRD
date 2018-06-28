@@ -703,10 +703,11 @@ A freebooter’s plundering pursuits are shaped by his path to wealth. There are
 At the Judge’s discretion, a freebooter may follow a unique path, outside of the four listed above. The player and Judge should collaborate to choose five weapons, four thief skills, and five bonus proficiencies that are appropriate to the freebooter.
 
 **Path of Expeditionary**
-Prime Requisite: WIS
-Weapons:  hand axe, pole arm, spear, staff, war hammer
-Thief Skills:  find traps, open locks, move silently, remove traps
-Bonus Proficiencies:  Alertness, Climbing, Dungeon Bashing, Mapping, Trap Finding
+| Prime Requisite | WIS
+| :-------------- | :--
+| Weapons | hand axe, pole arm, spear, staff, war hammer
+| Thief Skills | find traps, open locks, move silently, remove traps
+| Bonus Proficiencies | Alertness, Climbing, Dungeon Bashing, Mapping, Trap Finding
 
 The expeditionary is a looter of tombs and a delver of dungeons. He often serves as point-man on dungeon delves due to his ability to find both secret doors and traps more effectively than almost any other adventurer. His ability to climb walls and move silently allows him to scout ahead undetected by listening guards, while his training in disarming traps, opening locks, and bashing doors enables him to penetrate almost any obstacle in his path to plunder. Expeditionaries are also excellent map-makers and most treasure maps are created by them.
 
