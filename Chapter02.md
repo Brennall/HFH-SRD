@@ -656,6 +656,16 @@ Siren Template: This pre-generated template represents an alluring enchantress. 
 *Hit point modifiers from constitution are ignored
 
 
+#### Elven Spellsinger Attack and Saving Throws
+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells |    | Attack Throw
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | :- | -----------:
+| 1-2   |                       12+ |            10+ |            16+ |            13+ |    14+ |    |          10+
+| 3-4   |                       11+ |             9+ |            15+ |            12+ |    13+ |    |           9+
+| 5-6   |                       10+ |             8+ |            14+ |            11+ |    12+ |    |           8+
+| 7-8   |                        9+ |             7+ |            13+ |            10+ |    11+ |    |           7+
+| 9-10  |                        8+ |             6+ |            12+ |             9+ |    10+ |    |           6+
+| 11    |                        7+ |             5+ |            11+ |             8+ |     9+ |    |           5+
 
 
 
