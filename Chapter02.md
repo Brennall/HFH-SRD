@@ -350,6 +350,85 @@ Just as each chosen has a different destiny, so each has a different set of gift
 
 #### Chosen Gifts
 
+*Armor Training:* The chosen trains to fight in armor. This gift may be selected multiple times. If selected once, the chosen can wear leather armor. If selected twice, the chosen can wear chain mail armor. If selected thrice, the chosen can wear plate armor.
+
+*Aura of Protection:* The chosen gains a +1 bonus to AC and a +1 bonus on saving throws against attacks made or effects created by evil creatures. The chosen’s aura of protection appears as a golden halo when viewed with detect good, detect magic, or true seeing.
+
+*Boon Companion:* Whenever an ally within 30’ makes an attack throw, proficiency throw, or saving throw, the chosen may spend a Fate Point to allow the ally to re-roll the throw. The chosen can spend additional Fate Points to allow further re-rolls if desired. However, the ally can never re-roll a natural 1.
+
+*Ceremonial Magic:* The chosen has learned the ceremonies of a particular tradition of ceremonial magic (antiquarian, liturgical, runic, sylvan, shamanic, or theurgical). The chosen must choose the tradition at the time he chooses the gift. When this gift is selected, the chosen becomes a 1st level ceremonialist with a repertoire of one 1st level ceremony. He can perform ceremonies in the tradition and create and use trinkets and talismans in the tradition as a 1st level ceremonialist, and can identify trinkets or talismans created by a ceremonialist of the tradition with a proficiency throw of 11+ and of other traditions with an 18+. This gift can be selected multiple times. Each subsequent time it is selected, the chosen can either reduce the proficiency throw required to identify trinkets and talismans of a tradition he already knows by 4; learn another tradition; add one ceremony (of any level he can perform) to his repertoire; or increase his ceremonialist caster level by two, up to a maximum of his class level. Spells learned from other gifts (such as Eldritch Talent) are not included in the chosen’s repertoire of ceremonies. 
+
+*Charismatic Ferocity:* When attacking with one-handed melee weapons or thrown weapons, the chosen may apply his CHA modifier instead of his STR modifier on his damage rolls.
+
+*Chosen Weapon:* The chosen can designate a particular individual weapon as his chosen weapon. The chosen weapon must be given a name (e.g. “Excalibur” or “Anduril”). When the chosen wields his chosen weapon, it is treated as if its magical bonus to attack and damage were 1 point greater. This gift may be selected multiple times, but no more than once at 1st to 4th level, twice at 5th to 9th level, and thrice at 10th level and above. Each time it is selected the chosen can increase the bonus of his chosen weapon or designate an additional weapon as a chosen weapon.
+
+*Cleansing Touch:* By touching a creature and spending a Fate Point, the chosen can instantly remove a curse or dispel a harmful magical effect. The chosen must be of equal or greater level than the spellcaster who cast the curse or effect. 
+
+*Courage:* The chosen has mastered his fear and will never shirk from his destiny. He is immune to normal and magical fear effects.
+
+*Destined:* The chosen gains two Fate Points. This gift may be selected multiple times.
+
+*Determined:* The chosen may spend a Fate Point after making an attack throw, proficiency throw, or saving throw to set the result of the throw to 10 (instead of re-rolling). The chosen cannot spend a Fate Point in this manner if the original roll was a natural 1, however. 
+
+*Divine Proficiency:* The chosen can select one class proficiency, choosing from Divine Blessing, Divine Health, Laying on Hands, Prophecy, and Sensing Evil. This gift can be selected multiple times, selecting an additional proficiency each time, to a maximum limit of three selections. Note that some proficiencies available with this gift are not useful unless the chosen has selected the Eldritch Talent gift.
+
+*Eldritch Talent:* The chosen manifests the ability to cast an eldritch spell at certain intervals. The spell selected may be of any level, up to the chosen’s level of experience. The spell is cast as if the chosen were of the minimum caster level for the spell. The frequency with which the chosen can cast is determined by the spells’ level. 1st – once per hour; 2nd – once per 8 hours; 3rd – once per day; 4th – once per week; 5th – once per month; 6th – once per year.  The chosen does not have a spellbook and cannot change his repertoire. This gift does not allow the chosen to use scrolls or magic items usable only by mages or clerics. This proficiency can be selected multiple times to gain the ability to cast additional spells. (In traditional ACKS campaigns, arcane or divine magic can be substituted for eldritch magic.)
+
+*Eldritch Warrior:* When the chosen successfully strikes a target with a melee attack, he can expend a spell to increase damage. Damage is increased by 1d6 per level of the spell expended. The chosen must have gained spellcasting abilities from the Eldritch Talent gift before selecting this gift.
+
+*Farseeing:* The chosen can see the fates of mortals. He may determine how many Fate Points a character has after 10 minutes (1 turn) of casual interaction or observation. Once per week, the chosen may cast fate (as the spell) with a casting time of 10 minutes (1 turn).
+
+*Friends of Birds and Beasts:* The chosen can understand the subtle body language and moods of normal animals (though the animals may not understand the character). This gives the chosen a +2 to all reaction rolls when encountering normal animals, and allows him to take animals as henchmen. The chosen can also identify flora and fauna with a proficiency throw of 11+. 
+
+*Gift of Tongues:* The chosen has a gift for learning new tongues. Each time this gift is selected, he may learn four additional languages.
+
+*Hard to Kill:* When a chosen is required to consult the Mortal Wounds table, the player may roll twice and choose the preferred result to apply.  The chosen also subtract his class level from the number of days of bed rest required to recover.
+
+*Healing Touch:* By touching a creature and spending a Fate Point, the chosen can instantly heal the creature by an amount equal to his Base Healing Rate or the creature’s Base Healing Rate, whichever is less.
+
+*Inspiring:* By reciting heroic lays or stirring words for a few moments before a battle (one round), a chosen can grant his allies within a 50' radius a +1 bonus to attack throws, damage rolls, morale rolls (for monsters or NPCs allied with the character), and saving throws against magical fear. The bonus lasts for 10 minutes (1 turn). A chosen can inspire courage in any given character once per day per class level.  A chosen cannot inspire courage on characters who are already engaged in combat.
+
+*Invulnerable:* The chosen is blessed with partial invulnerability  to harm. Any damage the chosen suffers from non-magical attacks is reduced by 1 point per die. The damage reduction is applied per die. Damage can be reduced to 0, but not less than 0, on each die. Attacks from monsters of 5 HD or more are considered magical attacks due to the monster’s ferocity. This gift can be selected up to three times. Each additional time the gift is selected, damage suffered is reduced by 1 additional point per die, to a maximum of 3 points per die.
+
+*Lion-Hearted:* If the chosen is serving as a commander or hero on the battlefield with an army, the army automatically stands firm on its first morale roll, or rallies if it would have stood firm. This benefit is lost for the duration of the battle, however, if the chosen himself routs, flees, or leads from the rear (see Domains at War: Battles, p. XX).
+
+*Lucky:* When re-rolling attack throws, proficiency throws, or saving throws using Fate Points, the chosen may roll the die twice and choose the better value.
+
+*Keen Eyes:* The chosen can detect hidden and secret doors with a proficiency throw of 8+ on 1d20 when actively searching, or 14+ on casual inspection.
+
+*Magical Music:* The chosen gains the ability to sing spells. He gets two spell points and has one 1st level eldritch spell in his repertoire, which he casts as a 1st level spellsinger. This gift can be selected multiple times. Each time the gif its selected, the character can either increase his caster level by two, up to a maximum of his class level; or gain two spell points and add one additional eldritch spell (of any level he can spellsing) to his repertoire. Spells learned from other gifts (such as Eldritch Talent) are not included in the chosen’s repertoire of spellsinging spells. 
+
+*Magical Proficiency:* The chosen can select one class proficiency, choosing from Alchemy, Arcane Dabbling, Battle Magic, Collegiate Wizardry, Elementalism, Loremastery, Magical Engineering, Prestidigitation, Quiet Magic, Sensing Power, Soothsaying, Transmogrification, or Unflappable Casting. This gift can be selected multiple times, selecting an additional proficiency each time, to a maximum limit of three selections. Note that some proficiencies available with this gift are not useful unless the chosen has selected the Eldritch Talent gift.
+
+*Martial Proficiency:* The chosen can select one class proficiency, choosing from Alertness, Blind Fighting, Combat Reflexes, Combat Trickery, Fighting Style, Precise Shooting, Skirmishing, Swashbuckling, Weapon Finesse, and Weapon Focus. This gift can be selected multiple times, selecting an additional proficiency each time, to a maximum limit of three selections. 
+
+*Martial Talent:* The chosen has a native aptitude for weapons. The chosen gains a +1 bonus to attack throws with his choice of either melee or missile attacks. This gift can be selected twice, once for melee and once for missile attacks.
+
+*Martial Training:* The chosen has had training in use of arms. This gift may be selected multiple times. Each time it is selected, choose one of the following types of weapons and add these to the list of weapons permitted to the character: (1) axes; (2) bows/crossbows; (3) flails/hammers/maces; (4) swords/daggers; (5) spears/pole arms; (6) any four weapons.
+
+*Meditative Focus:* The chosen can go into a state of intense Zen-like focus once per day per level of experience. While in focus, the character gains a +1 bonus to all attack throws, proficiency throws, saving throws, and initiative rolls. A meditative focus lasts for 1 turn (10 minutes).
+
+*Military Genius:* The chosen commands the battlefield like a god of war. He gains a permanent +1 bonus to his strategic ability, leadership ability, and morale modifier when commanding troops on the battlefield. 
+
+*Mystical Bloodline:* The chosen is the scion of an otherworldly or inhuman power. When this gift is selected, the chosen’s lifespan is extend to three times longer than normal, and he ceases to show further signs of aging. He also gains the elf’s immunity to paralysis. When this gift is selected, the chosen’s ancestry manifests somehow in his appearance (pointed ears, golden eyes, a strange birthmark, or other unusual trait.)
+
+*Scion of Kings:* The blood of ancient lords flows in the chosen’s veins. The character may hire one more henchman than his Charisma would otherwise permit, and the base morale score of any henchmen is increased by 1.  
+
+*Second Sight:* The chosen has a connection to the hidden world, and can see innately or magically invisible creatures within 60’. Invisible creatures are aware that the chosen can see them, and may often take a particular interest in him as a result. Second Sight does not provide the ability to see characters hiding in shadows, secret doors, traps, or other creatures or objects hidden through cover and concealment, but does provide a +4 bonus to saving throws to disbelieve illusions.  
+
+*Student of War:* The chosen can select one proficiency, choosing Command, Military Strategy, Leadership, or Siege Engineering. This gift can be selected multiple times, selecting an additional proficiency or proficiency rank each time.
+
+*Sworn Foe:* When this gift is selected, the chosen must designate one specific individual monster or NPC by its name or unique physical characteristic (e.g. “the six-fingered man”). That creature becomes his sworn foe. The chosen gains a +2 bonus to attack throws and saving throws when confronting his sworn foe. If the chosen lands a successful attack on his sworn foe (including spells), the chosen can spend a Fate Point to deal double damage with the attack. If the sworn foe lands a successful attack on the chosen, the chosen can spend a Fate Point to halve the damage dealt by the attack. Once a chosen defeats his sworn foe, he may name a new sworn foe at any time thereafter. A sworn foe must have at least equal HD or levels of experience than the chosen; if the chosen ever surpasses his sworn foe in level or HD, he must select a new foe.
+
+*Thievery Proficiency:* The chosen can select one class proficiency, choosing from Acrobatics, Alertness, Ambushing, Cat Burglary, Climbing, Contortionism, Eavesdropping, Lip Reading, Lockpicking, Passing Without Trace, Running, Skulking, and Trap Finding. This gift can be selected multiple times, selecting an additional proficiency each time, to a maximum limit of three selections. 
+
+*Thievery Training:* The chosen can select one thief skill, choosing from Find Traps, Hide in Shadows, Move Silently, Open Locks, Pick Pockets, and Remove Traps. Thereafter the chosen can perform this skill as a thief of his level. This proficiency may be selected multiple times to gain additional thief skills, to a maximum limit of three selections. 
+
+*Tribulating Adversary:* Whenever an enemy within 30’ makes an attack throw, proficiency throw, or saving throw, the chosen may spend a Fate Point to force the enemy to re-roll the throw. The chosen can spend additional Fate Points to allow further re-rolls if desired. However, the chosen can never force a re-roll of a natural 20.
+
+*Wholeness of Body:* The chosen is immune to all forms of poison, including magical poisons.
+
+
 
 
 
