@@ -711,33 +711,377 @@ Bonus Proficiencies:  Alertness, Climbing, Dungeon Bashing, Mapping, Trap Findin
 
 The expeditionary is a looter of tombs and a delver of dungeons. He often serves as point-man on dungeon delves due to his ability to find both secret doors and traps more effectively than almost any other adventurer. His ability to climb walls and move silently allows him to scout ahead undetected by listening guards, while his training in disarming traps, opening locks, and bashing doors enables him to penetrate almost any obstacle in his path to plunder. Expeditionaries are also excellent map-makers and most treasure maps are created by them.
 
-**Path of Ruffian**
-Prime Requisite: STR 
-Weapons: battle axe, club, morning star, sap, whip
-Thief Skills: hide in shadows, move silently, open locks, pick pockets
+**Path of Ruffian**<br>
+Prime Requisite: STR <br>
+Weapons: battle axe, club, morning star, sap, whip<br>
+Thief Skills: hide in shadows, move silently, open locks, pick pockets<br>
 Bonus Proficiencies: Dungeon Bashing, Fighting Style (ruffian’s choice), Intimidation, Skulking, Swashbuckling
 
 The ruffian is a cut-throat and killer. A ruffian can cut the purses of passersby, skulk in the shadows to waylay unsuspecting victims, break into homes and burglarize their valuables, or simply rely on his threatening demeanor and martial prowess to rob victims at sword-point. Most freebooters are ruffians, and they can be found in great numbers in any den of scum and villainy.
 
-**Path of Scoundrel**
-Prime Requisite: CHA
-Weapons: arbalest, dart, mace, sap, whip
-Thief Skills: hide in shadows, move silently, open locks, pick pockets
+**Path of Scoundrel**<br>
+Prime Requisite: CHA<br>
+Weapons: arbalest, dart, mace, sap, whip<br>
+Thief Skills: hide in shadows, move silently, open locks, pick pockets<br>
 Bonus Proficiencies: Cat Burglary, Climbing, Disguise, Eavesdropping, Lip Reading
 
 The scoundrel is a gentleman thief. His ability to scale walls, open locks, hide in shadows, and move silently enables him to function as nigh-undetectable cat burglar, stealing his victims’ most precious treasures without need for violence. An expert in disguise, he can blend in to any crowd, where his graceful sleight-of-hand can relieve his marks of their important papers and burdensome purses. Skilled eavesdroppers and lip readers, scoundrels often work as spies and secret agents, uncovering secrets that the powerful wish to keep hidden.
 
-**Path of Wayfarer**
-Prime Requisite: CON
-Weapons: bola, hand axe, longbow, net, staff
-Thief Skills: climb walls, hear noise, hide in shadows, move silently
+**Path of Wayfarer**<br>
+Prime Requisite: CON<br>
+Weapons: bola, hand axe, longbow, net, staff<br>
+Thief Skills: climb walls, hear noise, hide in shadows, move silently<br>
 Bonus Proficiencies: Land Surveying, Running, Sniping, Skirmishing, Tracking
 
 The wayfarer is a highwayman, outrider, and scout. He excels at hit-and-run attacks, sniping from the cover of darkness and brush, then falling back swiftly and silently into the wilderness. He has the ability to move through the wilderness at great speed, and can navigate mountainous terrain, climb trees, and scale precipices that halt pursuers. If inclined to law, wayfarers may use their expertise in tracking and land surveying to discover monster lairs in the wilderness for adventuring parties or local garrisons.
 
 While each path of freebooter knows different thief skills, all follow the same progression of improvement, as shown on the Freebooter (Thief) Skill Progression table, below.
 
+When a freebooter attains 9th level (Freebooter Captain), he can establish a hideout, and 2d6 freebooter apprentices of 1st level will come to work with the character. The freebooters will be of the same path as their captain. If hired, they must be paid standard rates. Additional rules for hideouts are detailed in the Campaign chapter.
 
+Freebooter Proficiency List: Acrobatics, Alertness, Arcane Dabbling, Blind Fighting, Bribery, Cat Burglary, Ceremonial Magic, Combat Reflexes, Combat Trickery (disarm, incapacitate), Contortionism, Fighting Style, Lip Reading, Lockpicking, Loremastery, Magical Music, Martial Training, Mountaineering, Passing Without Trace, Precise Shooting, Running, Skirmishing, Skulking, Sniping, Swashbuckling, Trap Finding, Weapon Finesse, Weapon Focus*
+
+*Modified or new proficiency described on p. XX.
+
+
+| Template:           | Spelunker (Expeditionary path)
+| :------------------ | :--------
+| Proficiencies:      | Mountaineering, Caving
+| Starting Equipment: | Crossbow, case with 20 bolts, 10’ pole, short sword, 2 throwing daggers, sturdy leather armor, tanned brown cloak, thick tunic and pants, leather belt, low boots, backpack, 2 large treasure sacks, thieves’ tools, grappling hook, 50’ rope, tinderbox, lantern, small hammer, 12 iron spikes, 2 flasks of military oil, wineskin, 2 weeks’ iron rations
+
+
+#### Freebooter Level Progression
+
+| Experience | Title                          | Level | Hit Dice | Damage Bonus | Backstab
+| ---------: | :----------------------------- | ----: | :------- | :----        | -------:
+|          0 | Scrounger                      |     1 | 1d4      | +1 |      x2
+|      2,150 | Looter                         |     2 | 2d4      | +1 |      x2
+|      4,300 | Pilferer                       |     3 | 3d4      | +2 |      x2
+|      8,600 | Purloiner                      |     4 | 4d4      | +2 |      x2
+|     17,200 | Defalcator                     |     5 | 5d4      | +2 |      x3
+|     34,400 | Ransacker                      |     6 | 6d4      | +3 |      x3
+|     70,000 | Plunderer                      |     7 | 7d4      | +3 |      x3
+|    140,000 | Freebooter                     |     8 | 8d4      | +3 |      x3
+|    240,000 | Freebooter Captain             |     9 | 9d4      | +4 |      x4
+|    340,000 | Freebooter Captain, 10th level |    10 | 9d4+2*   | +4 |      x4
+|    440,000 | Freebooter Captain, 11th level |    11 | 9d4+4*   | +4 |      x4
+|    540,000 | Freebooter Captain, 12th level |    12 | 9d4+6*   | +5 |      x4
+|    640,000 | Freebooter Captain, 13th level |    13 | 9d4+8*   | +5 |      x5
+|    740,000 | Prince of Plunder              |    14 | 9d4+10*  | +5 |      x5
+
+*Hit point modifiers from constitution are ignored
+
+
+#### Freebooter Saving Throws
+
+| Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells 
+| :----- | ------------------------: | -------------: | -------------: | -------------: | -----: 
+| 1-2    |                       13+ |            13+ |            16+ |            14+ |    15+ 
+| 3-4    |                       12+ |            12+ |            15+ |            13+ |    14+ 
+| 5-6    |                       11+ |            11+ |            14+ |            12+ |    13+ 
+| 7-8    |                       10+ |            10+ |            13+ |            11+ |    12+ 
+| 9-10   |                        9+ |             9+ |            12+ |            10+ |    11+ 
+| 11-12  |                        8+ |             8+ |            11+ |             9+ |    10+ 
+| 13-14+ |                        7+ |             7+ |            10+ |             8+ |     9+ 
+
+
+#### Freebooter Attack Throws
+
+| Level | Attack Throw
+| :---- |
+| 1     |	10+
+| 2-3   |	9+
+| 4     |	8+
+| 5-6   |	7+
+| 7     |	6+
+| 8-9   |	5+
+| 10    |	4+
+| 11-12 |	3+
+| 13    |	2+
+| 14    |	1+
+
+
+#### Freebooter (Thief) Skills
+
+| Level | Open Locks | Find and Remove Traps | Pick Pockets* | Move Silently | Climb Walls | Hide in Shadows | Hear Noise
+| :---- | ---------: | --------------------: | ------------: | ------------: | ----------: | --------------: | ---------:
+|     1 |        18+ |                   18+ |           17+ |           17+ |          6+ |             19+ |        14+
+|     2 |        17+ |                   17+ |           16+ |           16+ |          5+ |             18+ |        13+
+|     3 |        16+ |                   16+ |           15+ |           15+ |          5+ |             17+ |        12+
+|     4 |        15+ |                   15+ |           14+ |           14+ |          4+ |             16+ |        11+
+|     5 |        14+ |                   14+ |           13+ |           13+ |          4+ |             15+ |        10+
+|     6 |        12+ |                   13+ |           12+ |           12+ |          4+ |             14+ |         9+
+|     7 |        10+ |                   11+ |           10+ |           10+ |          3+ |             12+ |         8+
+|     8 |         8+ |                    9+ |            8+ |            8+ |          3+ |             10+ |         7+
+|     9 |         6+ |                    7+ |            6+ |            6+ |          3+ |              8+ |         6+
+|    10 |         4+ |                    5+ |            4+ |            4+ |          3+ |              6+ |         5+
+|    11 |         3+ |                    3+ |            2+ |            2+ |          2+ |              4+ |         4+
+|    12 |         2+ |                    2+ |           -1+ |            2+ |          2+ |              3+ |         3+
+|    13 |         1+ |                    2+ |           -3+ |            1+ |          1+ |              2+ |         2+
+|    14 |         1+ |                    1+ |           -5+ |            1+ |          1+ |              1+ |         1+
+
+*-1 penalty on the proficiency throw per each level the thief is lower than the victim.
+
+
+### Halfling Bounder
+
+| Prime Requisite: | STR, DEX
+| :--------------- | :---
+| Requirements:    | DEX 9
+| Hit Dice:        | 1d6
+| Maximum Level:   | 8
+
+*The Shirriffs was the name that [halflings] gave to their police… There were in all the Shire only twelve of them, three in each Farthing. A rather larger body, varying at need, was employed ‘to beat the bounds’, and to see that Outsiders of any kind, great or small, did not makes themselves a nuisance. At the time when this story begins, the Bounders, as they were called, had been greatly increased. There were many reports and complaints of strange persons and creatures prowling about the borders, or over them: the first sign that all was not quite as it should be, and always had been except in tales and legends of long ago.!* - The Fellowship of the Rings (J.R.R. Tolkien)
+
+Halflings are a race of diminutive and insular humanoids noted for their love of food, wealth, and comfort and their dislike of big people, strangers, and travel. Descending from human and dwarven stock, they stand about 3’ tall, with ruddy skin, dark hair, and brown or black eyes.  Among the most hirsute of the humanoid races, halflings cultivate their body hair the way dwarves cultivate their beards. Well-groomed foot hair is the mark of a halfling of fine breeding. Halflings live in hill burrows with big, round windows which are known as a “halfling holes”, and are a compromise between a dwarven heritage that craves the security of thick earth overhead and a human bloodline clamoring for sun and space. Halflings organize themselves in small, close-knit communities known as shires, typically made up of 500 to 600 halflings but sometimes having as many as 3,000 denizens.
+
+The safety and security of the shire is entrusted to the bounders, a militia-like organization of volunteers that watch over the areas outside the shire, and help keep order within. Bounders tend to be among the biggest and boldest halflings around, and as such are more likely than other members of their homebodied race to be found as adventurers. Some bounders adventure from an excess of wanderlust, others in order to bring to justice a trespasser against the shire, and others in order to gain the wealth needed to become respected gentlemen of their community. 
+
+Halfling bounders are the best-trained combatants of their race. At first level, bounders hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws and saving throws by two points every three levels of experience (i.e. the same as fighters). In addition, they gain an accuracy bonus of +1 to all attack throws with missile weapons. 
+
+They are trained with battle axes, bolas, crossbows, daggers, hand axes, javelins, slings, short bows, short swords, and swords. They can fight with a small weapon and halfling-size shield, with a small weapon in each hand, or with a medium-sized weapon used  two-handed. Due to their careful aim, they increase their base damage roll from successful missile and melee attacks by +1 at 1st level, and by an additional +1 at 3rd and 6th level. Bounders can wear any armor. 
+
+Despite their combat training, halfling bounders prefer not to confront powerful enemies alone. A bounder may instead placate his opponents use disarming  words, glib talk, or submissive body language, until help arrives. The bounder may not attack while placating, but may walk at half speed, or perform an action in lieu of moving, such as standing up from being knocked down, picking an item off the ground, or retrieving an item from a pack or sack. A halfling bounder may not placate if he, or any other halflings in his party, have already attacked an opponent during the present encounter. 
+
+When a halfling bounder is placating, any opponent attempting to strike or otherwise directly attack him must attempt a saving throw versus Spells. If the save succeeds, the opponent can attack the halfling bounder normally that round. If the save fails, the opponent will not attack the bounder that round and will attack another creature instead. Area effects may still affect the halfling. Mindless creatures and fantastic creatures of animal intelligence cannot be placated, but ordinary animals and all sapient creatures are susceptible to a halfling burglar's cringing placation. 
+
+Halfling bounders are ever alert for threats to their shire. Their nervous watchfulness grants bounders a +1 bonus to initiative and a +1 bonus against surprise. As they must constantly patrol the perimeter of the shire, halfling bounders learn to maintain a bounding march that affords them a movement rate of 120’ per turn and 24 miles per day. 
+
+Like burglars, halfling bounders are difficult to spot outdoors, having the ability to seemingly disappear into woods and underbrush with a proficiency throw of 3+ on 1d20. In dungeons, a halfling bounder who is motionless and quiet in cover can escape detection with a proficiency throw of 14+ on 1d20. 
+
+All halflings are perceived as child-like by members of the larger races. A halflings suffer a -2 penalty to loyalty and morale with non-halfling henchman, but gains a +2 bonus to loyalty and morale with halfling henchman. This modifier does not affect their reaction rolls, as some people like kids.
+
+Due to their dwarven ancestry, halflings gain a +1 bonus on saving throws versus Petrification/Paralysis and Spells. These adjustments are already factored into the saving throws on the Halfling Burglar Attack and Saving Throws table below. 
+
+As naturally chatty folk, all halfling characters will speak the Common tongue, their native tongue, and three bonus languages, selected from the following list based on their shire’s proximity to other races and realms: Bugbear, Dwarf, Elf, Gnome, Goblin, Human (various), Hobgoblin, Kobold, Orc.
+
+Halflings have notoriously large appetites and are famous for their heroic breakfasts. Once per day a halfling can recover his base healing rate in hp by consuming a meal accompanied by alcohol, coffee, or tea. This recovery is in addition to any hit points gained from complete rest.
+
+Halfling crave comfort and security far to much to be able to descend into dastardly wickedness. They are difficult to corrupt, suffering only ½ the usual amount of Corruption from spending time in sinkholes of evil (p. XX), using evil magic items (p. XX), or from the effects of corrupting dreams (p. XX). 
+
+While spiritually strong, halflings are physically weak and suffer a -4 penalty to proficiency throws to open doors and other feats of strength. For the same reason halflings are easily encumbered. They can only carry 3 stone without becoming encumbered. When carrying 4 stone their encounter movement rate is reduced to 90’. When carrying 5-6 stone, their encounter movement rate is reduced to 60’. When carrying 7 stone or more, their encounter movement rate is reduced to 30’. A halfling can carry a maximum of 12 stone, modified by his Strength bonus or penalty.
+
+Because of their small size, halflings can get underfoot of large, clumsy creatures. Monsters of larger than man-sized suffer a -2 penalty to their attack throws against halflings.
+
+Halfling bounders cannot attain 9th level, and therefore never attract followers by establishing a stronghold.
+
+Halfling Bounder Proficiency List: Acrobatics, Alertness, Ambushing, Animal Training, Blind Fighting, Combat Reflexes, Combat Trickery (disarm, knockdown, incapacitate, underrun), Command, Contortionism, Craft*, Diplomacy, Endurance, Fighting Style, Goblin-Slaying, Land Surveying, Leadership, Lip Reading, Mapping, Military Strategy, Mountaineering, Navigation, Passing Without Trace, Precise Shooting, Riding, Signaling, Skirmishing, Sniping, Swashbuckling, Tracking, Weapon Finesse, Weapon Focus*
+
+*Modified or new proficiency described on p. XX.
+
+
+| Template:           | Kennelmaster
+| :------------------ | :--------
+| Proficiencies:      | Precise Shot, Animal Training (dogs)
+| Starting Equipment: | Shortbow, quiver with 20 arrows, short sword, 3 daggers, chainmail armor, small shield, tanned brown cloak, thick tunic and pants, leather belt, backpack, blanket, lantern, 3 flasks of common oil, 2 weeks’ iron rations,  waterskin, 3 cute but fierce hunting dogs
+
+Kennelmaster Template: This pre-generated template represents a halfling kennelmaster trained to fight alongside his dogs. The Template is ready for adventure. However, if your halfling bounder’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4 of ACKS).
+
+
+#### Halfling Bounder Level Progression
+
+| Experience |	Level | Title |	Hit Dice |	Damage Bonus
+| :--------- | :----- | :---- | :------- | :----
+| 0 |	1 |	Halfling Bounder |	1d6	+1
+| 2,000 |	2 |	Halfling Reeve |	2d6	+1
+| 4,000 |	3 |	Halfling Constable |	3d6	+2
+| 8,000 |	4 |	Halfling Bailiff |	4d6	+2
+| 16,000 |	5 |	Halfling Steward |	5d6	+2
+| 32,000 |	6 |	Halfling Warden |	6d6	+3
+| 65,000 |	7 |	Halfling Marshall |	7d6	+3
+| 130,000 |	8 |	Halfling Sheriff |	8d6	+3
+
+
+#### Halfling Bounder Attack and Saving Throws
+
+| Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+| 1      |                       14+ |            14+ |            16+ |            16+ |    16+ |          10+
+| 2-3    |                       13+ |            13+ |            15+ |            15+ |    15+ |           9+
+| 4      |                       12+ |            12+ |            14+ |            14+ |    14+ |           8+
+| 5-6    |                       11+ |            11+ |            13+ |            13+ |    13+ |           7+
+| 7      |                       10+ |            10+ |            12+ |            12+ |    12+ |           6+
+| 8      |                        9+ |             9+ |            11+ |            11+ |    11+ |           5+
+
+
+### Halfling Burglar
+
+*His small hand would not close about it for it was a large and heavy gem; but he lifted it, shut his eyes, and put it in his deepest pocket. "Now I am a burglar indeed!" thought he. "But I suppose I must tell the dwarves about it-some time. They did say I could pick and choose my own share; and I think I would choose this, if they took all the rest!* – Bilbo Baggins, in The Hobbit (J.R.R. Tolkien)
+
+
+| Prime Requisite: | DEX
+| :--------------- | :---
+| Requirements:    | DEX 9
+| Hit Dice:        | 1d4
+| Maximum Level:   | 10
+
+
+Legend has it that the first halfling burglar was nothing of the sort, merely some hapless shire-dweller drawn into an expedition by the machinations of a meddlesome Nobiran wizard and a band of dwarven delvers. Legend also has it that the halfling later returned home from his expeditions richer than any halfling in history and established himself as a leading gentleman in his shire. The tale has two endings; in the happy version of the tale, the halfling burglar ended his years in luxurious retirement, training his nephew and nephew’s friends in the tricks he had learned. The tragic ending claims that the burglar was corrupted by dark magic and abandoned his friends and family to dwell forever in cavernous darkness.
+
+Learned sages are confident this story is just a faery-tale, and that no such halfling ever existed. Nevertheless, the tale’s influence has been profound. More than one young halfling, despite belonging to a race utterly unsuited for adventuring, has left the comforts of his family hobbit-hole to seek out fame and fortune. Of course, most of these halflings are never seen again, but sometimes – not often, mind you, but just often enough – a halfling burglar will return, baggage laden with gold, brimming with tales of adventurer and excitement. Such halflings typically establish themselves as bourgeois gentlemen in their shire, and furtively train other young halflings in their skills. Their disciples may in time become adventurers themselves, though as often as not they simply use their craft to trespass, annoy, and meddle in the affairs of their betters. More law-abiding halflings are thus quick to point out to visiting strangers where “that sort” can be found, and generally cheer when they are recruited to join adventuring parties.
+
+Halfling burglars are good combatants, as far as halflings go, although not as skilled as halfling bounders. At first level, burglars hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws and saving throws by two points every four levels of experience (i.e. the same as thieves). They are trained with bolas, daggers, darts, slings, short bows, and short swords. They can fight with a halfling-size shield or with a weapon in each hand, but cannot fight two-handed. 
+
+Burglars never wear armor heavier than leather. Because they stay constantly light on their feet, all halfling burglars gain Swashbuckling as a bonus proficiency, providing a +1 bonus to AC at 1st level, increasing to +2 AC at 7th level. 
+
+When outdoors, halfling burglars are difficult to spot, having the ability to seemingly disappear into woods and underbrush with a proficiency throw of 3+ on 1d20. In dungeons, a halfling who is motionless and quiet in cover can escape detection with a proficiency throw of 14+ on 1d20. 
+
+When confronted by enemies, a halfling burglar may placate them use disarming  words, glib talk, or submissive body language to avoid being attacked. The burglar may not attack while placating, but may walk at half speed, or perform an action in lieu of moving, such as standing up from being knocked down, picking an item off the ground, or retrieving an item from a pack or sack. A halfling burglar may not placate if he, or any other halflings in his party, have already attacked an opponent during the present encounter. 
+
+When a halfling burglar is placating, any opponent attempting to strike or otherwise directly attack him must attempt a saving throw versus Spells. If the save succeeds, the opponent can attack the halfling burglar normally that round. If the save fails, the opponent will not attack the burglar that round and will attack another creature instead. Area effects may still affect the halfling. Mindless creatures and fantastic creatures of animal intelligence cannot be placated, but ordinary animals and all sapient creatures are susceptible to a halfling burglar's cringing placation. 
+
+Uncharitable human adventurers often claim that a halfling burglar’s abilities are limited to dodging, hiding, and pleading for his life. In actuality, halfling burglars have a range of other skills that are useful for trespassing, pilfering, eavesdropping, or being a meddling nuisance. These skills improve as the burglar gains levels according to the progression on the Halfling Burglar Skills table, below.
+
+All halflings are perceived as child-like by members of the larger races. A halflings suffer a -2 penalty to loyalty and morale with non-halfling henchman, but gains a +2 bonus to loyalty and morale with halfling henchman. This modifier does not affect their reaction rolls, as some people like kids.
+
+Due to their dwarven ancestry, halflings gain a +1 bonus on saving throws versus Petrification/Paralysis and Spells. These adjustments are already factored into the saving throws on the Halfling Burglar Attack and Saving Throws table below. 
+
+As naturally chatty folk, all halfling characters will speak the Common tongue, their native tongue, and three bonus languages, selected from the following list based on their shire’s proximity to other races and realms: Bugbear, Dwarf, Elf, Gnome, Goblin, Human (various), Hobgoblin, Kobold, Orc.
+
+Halflings have notoriously large appetites and are famous for their heroic breakfasts. Once per day a halfling can recover his base healing rate in hp by consuming a meal accompanied by alcohol, coffee, or tea. This recovery is in addition to any hit points gained from complete rest.
+
+Halfling crave comfort and security far to much to be able to descend into dastardly wickedness. They are difficult to corrupt, suffering only ½ the usual amount of Corruption from spending time in sinkholes of evil (p. XX), using evil magic items (p. XX), or from the effects of corrupting dreams (p. XX). 
+
+While spiritually resilient, halflings are physically weak and suffer a -4 penalty to proficiency throws to open doors and other feats of strength. For the same reason halflings are easily encumbered. They have a base movement rate of just 90’ and can only carry 3 stone without becoming encumbered. When carrying 4 stone their encounter movement rate is reduced to 60’. When carrying 5-6 stone, their encounter movement rate is reduced to 45’. When carrying 7 stone or more, their encounter movement rate is reduced to 30’. A halfling can carry a maximum of 12 stone, modified by his Strength bonus or penalty.
+
+Because of their small size, halflings can get underfoot of large, clumsy creatures. Monsters of larger than man-sized suffer a -2 penalty to their attack throws against halflings.
+
+When a burglar attains 9th level (Bourgeois Burglar), he can establish a hidey-hole, and 2d6 halfling burglar apprentices of 1st level will offer to work for him. If hired, they must be paid standard rates for ruffians. Many burglars use these followers to start a profitable crime syndicate, and thereafter stay at home, get fat, and pretend to be respectable bourgeoisie of their shire. A burglar’s hidey-hole is otherwise identical to a thief’s hideout. See the Hideouts & Hijinks section of Chapter 7 of ACKS. 
+
+Halfling Burglar Proficiency List: Acrobatics, Alertness, Ambushing, Arcane Dabbling*, Bargaining, Blind Fighting, Cat Burglary, Caving, Combat Reflexes, Combat Trickery (disarm, knockdown, underrun), Contortionism, Craft*, Gambling, Lip Reading, Lockpicking, Mapping, Mountaineering, Navigation, Passing Without Trace, Precise Shooting, Riding, Running, Skirmishing, Skulking, Sniping, Swashbuckling, Trap Finding, Trapping, Weapon Finesse, Weapon Focus*
+
+*Modified or new proficiency described on p. XX.
+
+
+
+
+#### Halfling Burglar Level Progression
+
+| Experience |	Level |	Title |	Hit Dice
+| :--------- | :----- | :---- | :------
+| 0 |	1 |	Hairfootpad |	1d4
+| 1,175 |	2 |	First-Story Halfling |	2d4
+| 2,350 |	3 |	Snooper |	3d4
+| 4,700 |	4 |	Prowler |	4d4
+| 9,400 |	5 |	Sneaker |	5d4
+| 18,800 |	6 |	Filcher |	6d4
+| 40,000 |	7 |	Pilferer |	7d4
+| 80,000 |	8 |	Burglar |	8d4
+| 155,000 |	9 |	Bourgeois Burglar |	9d4
+| 235,000 |	10 |	Bourgeois Burglar, 10th level |	9d4+2*
+
+
+#### Halfling Burglar Attack and Saving Throws
+
+| Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+| 1-2    |                       12+ |            13+ |            16+ |            14+ |    14+ |          10+
+| 3-4    |                       11+ |            12+ |            15+ |            13+ |    13+ |           9+
+| 5-6    |                       10+ |            11+ |            14+ |            12+ |    12+ |           8+
+| 7-8    |                        9+ |            10+ |            13+ |            11+ |    11+ |           7+
+| 9-10   |                        8+ |             9+ |            12+ |            10+ |    10+ |           6+
+
+
+
+#### Halfling Burglar Skills
+
+| Level | Open Locks | Find and Remove Traps | Pick Pockets* | Move Silently | Climb Walls | Hide in Shadows | Hear Noise
+| :---- | ---------: | --------------------: | ------------: | ------------: | ----------: | --------------: | ---------:
+|     1 |        18+ |                   18+ |           17+ |           17+ |          6+ |             19+ |        14+
+|     2 |        17+ |                   17+ |           16+ |           16+ |          5+ |             18+ |        13+
+|     3 |        16+ |                   16+ |           15+ |           15+ |          5+ |             17+ |        12+
+|     4 |        15+ |                   15+ |           14+ |           14+ |          4+ |             16+ |        11+
+|     5 |        14+ |                   14+ |           13+ |           13+ |          4+ |             15+ |        10+
+|     6 |        12+ |                   13+ |           12+ |           12+ |          4+ |             14+ |         9+
+|     7 |        10+ |                   11+ |           10+ |           10+ |          3+ |             12+ |         8+
+|     8 |         8+ |                    9+ |            8+ |            8+ |          3+ |             10+ |         7+
+|     9 |         6+ |                    7+ |            6+ |            6+ |          3+ |              8+ |         6+
+|    10 |         4+ |                    5+ |            4+ |            4+ |          3+ |              6+ |         5+
+|    11 |         3+ |                    3+ |            2+ |            2+ |          2+ |              4+ |         4+
+|    12 |         2+ |                    2+ |           -1+ |            2+ |          2+ |              3+ |         3+
+|    13 |         1+ |                    2+ |           -3+ |            1+ |          1+ |              2+ |         2+
+|    14 |         1+ |                    1+ |           -5+ |            1+ |          1+ |              1+ |         1+
+
+*-1 penalty on the proficiency throw per each level the thief is lower than the victim.
+
+
+| Template:           | Rumormonger
+| :------------------ | :--------
+| Proficiencies:      | Skulking, Lip Reading
+| Starting Equipment: | Shortbow, quiver with 20 arrows, short sword, 3 daggers, leather armor, tanned brown cloak, thick tunic and pants, leather belt, adventurer’s harness, ear trumpet, lantern, 3 flasks of common oil, thieves’ tools, 2 weeks’ iron rations,  waterskin, 2gp
+
+
+
+### Loremaster
+
+| Prime Requisite: | INT and WIS
+| :--------------- | :---
+| Requirements:    | None
+| Hit Dice:        | 1d4
+| Maximum Level:   | 14
+
+Loremasters pursue knowledge and preserve ancient wisdom handed down from time immemorial. Most loremasters live ascetic lives devoted to annotating and studying the books and scrolls collected by their predecessors. But the boldest and most ambitious become adventurers, delving into the dungeons and tombs of past kingdoms in search of knowledge which has been lost. Wielding secrets forgotten for centuries, these loremasters become the most powerful of their kind, legends whose deeds will become the subject of study by the annalists of the future. 
+
+Because of their devotion to study, loremasters receive limited combat training. At first level, loremasters hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws only two points every six levels of experience (i.e. half as fast as fighters), though they advance in saving throws by two points every four levels (i.e. as clerics). They may only fight with quarterstaffs, clubs, daggers, and darts. They are unable to use shields, fight with two weapons, or wear any kind of armor. For these reasons, loremasters are quite vulnerable to physical danger, and in an adventuring group they should be protected.
+
+The books and scrolls of interest to the loremaster are virtually never written in the Common tongue so loremasters soon become familiar with even the most obscure scripts, codes, and languages. At 1st level, a loremaster may read languages unfamiliar to them (including ciphers, treasure maps, and dead languages, but not magical writings) with a proficiency throw of 5+ on 1d20. If the roll does not succeed, the loremaster may not try to read that particular piece of writing until he reaches a higher level of experience.
+
+From careful study of ancient annals and legends, loremasters can decipher occult mysteries, remember ancient history, identify historic artifacts, and similar tasks. At 1st level, a loremaster must make a proficiency throw of 18+ on 1d20 to succeed in loremastery. The proficiency throw for loremastery reduces by 1 per level. 
+
+Most importantly, the scholarly pursuits of loremasters allow them to learn and perform eldritch ceremonies in the theurgical tradition. A loremaster’s selection of ceremonies is limited to the ceremonies in his repertoire. A loremaster’s repertoire can include a number of eldritch ceremonies up to the number and level of ceremonies listed for his level, increased by his Intelligence bonus. A loremaster can use any magic items usable by mages or clerics, and can make trinkets to aid his performance of ceremonies. More information on ceremonial magic, and individual spell descriptions, can be found in the Heroic Magic chapter (p. XX).
+
+As they advance in level, loremasters may add new ceremonies to their repertoire by visiting an athenaeum or other place of learning (see below) and spending one game week per ceremony. Particular athenaeums may only offer particular ceremonies at each level, either due to the limitations of their libraries or doctrinal beliefs. Loremasters who wish to learn unavailable ceremonies must find or research them on their own. The specific ceremonies taught at any given athenaeum should be determined by the Judge based on his setting. 
+
+As part of his training in ceremonial magic, every loremaster creates a personal talisman to aid him in performing ceremonies. The  loremaster’s personal talisman provides a +1 bonus to ceremony throws for ceremonies of one particular type. (The loremaster may choose from death & necromancy; detection; elemental air; elemental earth; elemental fire; elemental water; enchantment & illusion; healing; movement; protection; summoning; and transmogrification). When the loremaster advances to 3rd level, his personal talisman can increase its bonus by +1 for ceremonies of one particular type (e.g. increase the bonus to +2 for the current type or add a bonus of +1 with a new type). When the loremaster reaches 11th level, his personal talisman can increase its bonus by another +1 for ceremonies of one particular type (e.g. increase a +2 bonus to +3 for a current type, or increase a +1 bonus to +2 for a current type, or add a bonus of +1 with a new type). If desired, the loremaster may increase the bonus afforded by, or number of ceremony types covered by, his personal talisman by  selecting the Personal Talisman proficiency (see p. XX). More information on talismans can be found in the Ceremonial Talismans section of the Heroic Magic chapter  (p. XX). 
+
+When a loremaster reaches 5th level (Scholar), he may begin to research ceremonies, scribe scrolls, brew potions, and make talismans. Loremasters may collect and use divine power as clerics in order to fuel their magical research.
+
+When a loremaster reaches 9th level (Loremaster), he is able to create more powerful magic items such as weapons, rings, and staffs. A loremaster may also build an athenaeum, typically a great library, when he reaches 9th level. He will then attract 1d6 apprentices of 1st-3rd level plus 2d6 normal men seeking to become loremasters. Their intelligence scores will be above average, but many will become discouraged from the rigorous mental training and quit after 1d6 months. While in the loremaster’s service, apprentices must be provided food and lodging, but need not be paid wages. If the loremaster builds a menagerie beneath or near his athenaeum, monsters may be collected therein. Loremaster’s athenaeum and menageries are otherwise identical to mages’ sanctums and dungeons, as detailed in the Campaign chapter of the ACKS Rulebook.
+
+At 11th level, a loremaster may create learn and cast ritual eldritch spells of great power (7th, 8th, and 9th level), craft magical constructs, and create magical cross-breeds. If chaotic, the loremaster may create necromantic servants and become undead. 
+
+Loremaster Proficiency List: Alchemy*, Battle Magic, Beast Friendship, Black Lore of Zahar, Bright Lore of Aura*, Ceremonial Magic*, Collegiate Wizardry, Contemplation*, Craft*, Diplomacy, Elementalism, Elven Bloodline, Engineering, Familiar, Farseeing*, Healing, Knowledge, Magical Engineering, Mystic Aura, Naturalism, Personal Talisman*, Prestidigitation, Prophecy*, Second Sight*, Sensing Power, Transmogrification, Soothsaying*, Unflappable Casting
+
+*Modified or new proficiency described on p. XX.
+
+
+| Template:           | Magical Scholar
+| :------------------ | :--------
+| Proficiencies:      | Magical Engineering, Collegiate Wizardry
+| Starting Equipment: | Well-kept ceremonial codex with **slumber**, rune-etched staff, blue mage’s cassock, leather belt, low boots, backpack, theurgical implements (level 1), quill and ink, 1 week’s iron rations, 55gp
+
+
+#### Loremaster Level Progression		#### Loremaster Ceremony Progression
+| ---------: | :---- | :---- | :------- | :--------------- | :- | :- | :- | :- | :- | :-
+| Experience |	Title |	Level |	Hit Dice |	Special Abilities |	1 |	2 |	3 |	4 |	5 |	6
+| 0 |	Learner |	1 |	1d4 |	Loremastery, personal talisman, read languages | 2 | - | - | - |	- |	- 
+| 2,000 |	Disciple |	2 |	2d4 | 	- | 	3 | - | - | - | - | - 
+| 4,000 |	Scholastic |	3 |	3d4 |	Personal talisman 2 |	3 |	1 |	- |	- |	- |	- 
+| 8,000 |	Archivist |	4 |	4d4 |	- |	3 |	2 |	- |	- |	- |	-
+| 16,000 |	Scholar |	5 |	5d4 |	Magic research (minor) |	3 |	2 |	1 |	- |	- |	- 
+| 32,000 |	Antiquarian |	6 |	6d4 |	- |	3 |	3 |	2 |	- |	- |	-
+| 65,000 |	Annalist |	7 |	7d4 |	- |	4 |	3 |	2 |	1 |	- |	- 
+| 130,000 |	Savant |	8 |	8d4 |	- |	4 |	3 |	3 |	2 |	- |	-
+| 230,000 |	Loremaster |	9 |	9d4 |	Athenaeum, magic research |	4 |	4 |	3 |	2 |	1 |	-
+| 330,000 |	Loremaster, 10th lvl |	10 |	9d4+1* |		4 |	4 |	3 |	3 |	2 |	-
+| 430,000 |	Loremaster, 11th lvl |	11 |	9d4+2* |	Magic research (advanced), personal talisman 3 |	5 |	4 |	4 |	3 |	2 |	1
+| 530,000 |	Loremaster, 12th lvl |	12 |	9d4+3* |	- |	5 |	4 |	4 |	3 |	3 |	2
+| 630,000 |	Loremaster, 13th lvl |	13 |	9d4+4* |	- |	5 |	5 |	4 |	4 |	3 |	2
+| 730,000 |	Sage |	14 |	9d4+5* |	- |	6 |	5 |	4 |	4 |	3 |	3
+
+*Hit point modifiers from constitution are ignored
+
+#### Loremaster Saving Throws
+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | | Level | Attack Throw
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | | ----: | -----------:
+| 1-2   |                       13+ |            10+ |            16+ |            13+ |    15+ | | 1-3 |     10+
+| 3-4   |                       12+ |             9+ |            15+ |            12+ |    14+ | | 4-6 |      9+
+| 5-6   |                       11+ |             8+ |            14+ |            11+ |    13+ | | 7-9 |      8+
+| 7-8   |                       10+ |             7+ |            13+ |            10+ |    12+ | | 10-12 |    7+
+| 9-10  |                        9+ |             6+ |            12+ |             9+ |    11+ | | 13+ |      6+
+| 11-12 |                        8+ |             5+ |            11+ |             8+ |    10+ 
+| 13-14 |                        7+ |             4+ |            10+ |             7+ |     9+ 
 
 
 
