@@ -1319,12 +1319,81 @@ Servant of Fire: This pre-generated template represents an elementalist in the s
 **Note:** Judges may wish to allow human wizards that cast eldritch spells. Human wizards are identical to Nobiran wizards, except that they use the mage experience point progression and lose the Nobiran racial powers (don’t forget to increase the target value of all of their saving throws by 2 points).  If the Judge has Axioms Issue 1, he can also use the alternative wizard class in that book, but should replace the arcane spells with eldritch spells and the eldritch spell progression.
 
 
+### Occultist
+
+*“I will rouse them, will waken them, will learn their forgotten wisdom, the knowledge locked in those withered skulls. By the lore of the dead we shall enslave the living! Aye, kings and generals and wizards of eld shall be our helpers and our slaves. Who shall stand before us?”* – Thutothmes, in The Hour of the Dragon (R.E. Howard)
+
+| Prime Requisite: | INT and WIS
+| :--------------- | :---
+| Requirements:    | None
+| Hit Dice:        | 1d4
+| Maximum Level:   | 14
+
+A loremaster seeks knowledge; an occultist seeks power, and stops at nothing in this pursuit. He will make alliances with dark beings, pursue forbidden lore, and even sacrifice his own humanity for the sake of eldritch might. Many occultists become adventurers to plumb the secrets of dusty tombs, forgotten crypts, and hidden sanctums. Few do so for heroic motives. These practices leave occultists reviled and condemned in every Lawful society. More sinister societies revere and respect the occultist, and many assume positions of power in those civilizations.
+
+Occultists consider physical combat beneath them, and undergo little training in it. At first level, occultists hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws only two points every six levels of experience (i.e. the same progression as mages), though they advance in saving throws by two points every four levels (i.e. as clerics). They may only fight with daggers, darts, quarterstaffs, or whips. They are unable to use shields, fight with two weapons, or wear any kind of armor. For these reasons, occultists tend to avoid personally fighting, and many occultists prefer for their party members or minions to do the dirty work. 
+
+The chief power of occultists is their ability to learn and perform eldritch ceremonies in the chthonic tradition. An occultist’s selection of ceremonies is limited to the ceremonies in his repertoire. The number and levels of ceremonies the occultist can include in his repertoire is summarized on the Occultist Ceremony Progression table, but is increased by his Intelligence bonus. An occultist can use any magic items usable by mages or clerics, , and can make trinkets to aid his performance of ceremonies. More information on ceremonial magic, and individual spell descriptions, can be found in the Heroic Magic chapter (p. XX).
+
+As they advance in level, occultists may add new ceremonies to their repertoire by visiting a cult temple (see below) and spending one game week per ceremony. Particular cult temples may only offer particular ceremonies at each level, either due to the limitations of their libraries or doctrinal beliefs. Occultists who wish to learn unavailable ceremonies must find or research them on their own. The specific ceremonies taught at any given cult temple should be determined by the Judge based on his setting. 
+
+As part of his training in ceremonial magic, every occultist creates a personal talisman to aid him in performing ceremonies. The  occultist’s personal talisman provides a +1 bonus to ceremony throws for ceremonies of one particular type. (The occultist may choose from death & necromancy; detection; elemental air; elemental earth; elemental fire; elemental water; enchantment & illusion; healing; movement; protection; summoning; and transmogrification).  When the occultist advances to 3rd level, his personal talisman can increase its bonus by +1 for ceremonies of one particular type (e.g. increase the bonus to +2 for the current type or add a bonus of +1 with a new type). When the occultist reaches 11th level, his personal talisman can increase its bonus by another +1 for ceremonies of one particular type (e.g. increase a +2 bonus to +3 for a current type, or increase a +1 bonus to +2 for a current type, or add a bonus of +1 with a new type). If desired, the occultist may increase the bonus afforded by or number of ceremony types covered by his personal talisman by  selecting the Personal Talisman proficiency (see p. XX). More information on talismans can be found in the Ceremonial Talismans section of the Heroic Magic chapter  (p. XX).
+
+The occultist also begins to unlock the secrets of the dark arts at 1st level. He may control undead as a Chaotic cleric of one half his class level (round up). If the occultist casts spells that require a saving throw versus Death, his targets suffer a -2 penalty on the save. When the occultist casts necromancy spells, the spell effects are calculated as if he were two levels higher than his actual caster level.  This class power stacks with the Black Lore of Zahar proficiency (see p. XX).
+ 
+When an occultist reaches 5th level (Warlock), he may begin to research ceremonies, scribe scrolls, brew potions, and make talismans. Like clerics, occultists may collect and use divine power in order to fuel their magical research. He also learns to contact dark powers such as demons and evil spirits. These beings possess near omniscience, but contact with them can be mind-shattering. Contacting the dark powers takes 1 turn (10 minutes) and is so taxing that the occultist may only do so once per week. The effect is resolved as per the 5th level black eldritch spell contact other sphere.
+
+At 9th level (Occultist) an occultist gains the ability to create magic items such as weapons, rings, and staffs as a mage. He also learns to summon infernal creatures to perform tasks for him. It takes 1 turn (10 minutes) for the summoning to be completed, during which time the warlock may take no other actions. The creature summoned might be an invisible stalker (as per the ACKS core rules), a chaos hulk, or other Chaotic creature of the Judge’s devising. The summoned creature will serve until dispel evil is cast on the creature, it is slain, or its task is fulfilled. Infernal creatures resent being summoned and may attempt to pervert their instructions if the task is protracted or dangerous. A warlock may perform a summoning but once per month.
+
+At this time he may also establish a cult temple. The occultist may buy or build his cult temple at half the normal price due to patronage from those eager to secure his occult intervention. Once a cult temple is established, the occultist’s reputation will spread and he will attract 5d6x10 0th level soldiers armed with various weapons, plus another 1d6 occultists of 1st-3rd level of the same tradition to serve his cult. The occultist’s followers are completely loyal (morale +4), and need not be paid wages. Occultists’ cult temples are otherwise identical to cleric’s fortified temples, as detailed in the Campaign chapter of the ACKS Rulebook.
+
+At 11th level, an occultist may cast ritual arcane spells of great power (7th, 8th, and 9th level), craft magical constructs, create magical cross-breeds, create necromantic servants, and become undead. Of those few occultists who reach this level of power, many sacrifice body and soul in pursuit of power and become undead.
+Occultist Proficiency List: Alchemy*, Battle Magic, Ceremonial Magic*, Collegiate Wizardry, Contemplation*, Craft*, Elementalism, Elven Bloodline, Engineering, Familiar, Farseeing*, Healing, Knowledge, Language, Loremastery, Magical Engineering, Mastery of Charms and Illusions*, Mystic Aura, Naturalism, Personal Talisman*, Prestidigitation, Prophecy*, Second Sight*, Sensing Evil, Sensing Power, Transmogrification, Soothsaying*, Unflappable Casting
+
+*Modified or new proficiency described on p. XX.
 
 
+| Template:           | Corrupt Scholar
+| :------------------ | :--------
+| Proficiencies:      | Loremastery, Knowledge (occult)
+| Starting Equipment: | Bloodstained ceremonial codex with **summon manes**, rune-etched staff, silver dagger, chthonic implements (level 1), grey occultist’s cassock, leather belt, low boots, backpack, quill and ink, 1 week’s iron rations, 25gp
+
+Corrupt Scholar Template: This pre-generated template represents a former loremaster corrupted by investigation into blasphemous, alien powers.  The template is ready for adventure. However, if your occultist’s INT is 13 or greater, you may pick one or more additional general proficiencies and starting spells before play if you’d like. 
 
 
+#### Occultist Level Progression
+
+| Experience | Title             | Level | Hit Dice | Special Abilities                     | 1 | 2 | 3 | 4 | 5 | 6
+| ---------: | :---------------- | ----: | :------- | :----------------                     | :- | :- | :- | :- | :- | :-
+|          0 | Spiritualist      |     1 | 1d4      | Personal talisman, secrets of the dark arts    | 2
+|      2,000 | Medium            |     2 | 2d4      | -                                     | 3
+|      4,000 | Incantationist    |     3 | 3d4      | Personal talisman 2                   | 3 | 1
+|      8,000 | Malefactor        |     4 | 4d4      | -                                     | 3 | 2
+|     16,000 | Warlock           |     5 | 5d4      | Contact dark powers, magic research (minor)       | 3 | 2 | 1
+|     32,000 | Cursebringer      |     6 | 6d4      | -                                     | 3 | 3 | 2
+|     65,000 | Necromancer       |     7 | 7d4      | -                                     | 4 | 3 | 2 | 1
+|    130,000 | Black Magician    |     8 | 8d4      | -                                     | 4 | 3 | 3 | 2 
+|    230,000 | Occultist         |     9 | 9d4      | Cult temple, magic research, summon infernal creature  | 4 | 4 | 3 | 2 | 1 
+|    330,000 | Occultist, 10th lvl |  10 | 9d4+1*   | -                                     | 4 | 4 | 3 | 3 | 2 | 
+|    430,000 | Occultist, 11th lvl |  11 | 9d4+2*   | Magic research (advanced), personal talisman 3 | 5 | 4 | 4 | 3 | 2 | 1
+|    530,000 | Occultist, 12th lvl |  12 | 9d4+3*   | -                                     | 5 | 5 | 4 | 3 | 3 | 2
+|    630,000 | Occultist, 13th lvl |  13 | 9d4+4*   | -                                     | 5 | 5 | 4 | 4 | 3 | 2
+|    730,000 | Hierophant        |    14 | 9d4+5*   | -                                     | 6 | 5 | 4 | 4 | 3 | 3
+
+*Hit point modifiers from constitution are ignored
 
 
+#### Occultist Attack and Saving Throws
+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells |    | Level | Attack Throw
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | :- | :---- | -----------:
+| 1-2   |                       13+ |            10+ |            16+ |            13+ |    15+ |    | 1-3   |    10+
+| 3-4   |                       12+ |             9+ |            15+ |            12+ |    14+ |    | 4-6   |     9+
+| 5-6   |                       11+ |             8+ |            14+ |            11+ |    13+ |    | 7-9   |     8+
+| 7-8   |                       10+ |             7+ |            13+ |            10+ |    12+ |    | 10-12 |     7+
+| 9-10  |                        9+ |             6+ |            12+ |             9+ |    11+ |    | 13+   |     6+
+| 11-12 |                        8+ |             5+ |            11+ |             8+ |    10+ |
+| 13-14 |                        7+ |             4+ |            10+ |             7+ |     9+ |
 
 ------
 
