@@ -702,7 +702,8 @@ A freebooter’s plundering pursuits are shaped by his path to wealth. There are
 
 At the Judge’s discretion, a freebooter may follow a unique path, outside of the four listed above. The player and Judge should collaborate to choose five weapons, four thief skills, and five bonus proficiencies that are appropriate to the freebooter.
 
-**Path of Expeditionary**<br>
+#### Path of Expeditionary
+
 Prime Requisite: WIS<br>
 Weapons:  hand axe, pole arm, spear, staff, war hammer<br>
 Thief Skills:  find traps, open locks, move silently, remove traps<br>
@@ -711,7 +712,7 @@ Bonus Proficiencies:  Alertness, Climbing, Dungeon Bashing, Mapping, Trap Findin
 
 The expeditionary is a looter of tombs and a delver of dungeons. He often serves as point-man on dungeon delves due to his ability to find both secret doors and traps more effectively than almost any other adventurer. His ability to climb walls and move silently allows him to scout ahead undetected by listening guards, while his training in disarming traps, opening locks, and bashing doors enables him to penetrate almost any obstacle in his path to plunder. Expeditionaries are also excellent map-makers and most treasure maps are created by them.
 
-**Path of Ruffian**<br>
+#### Path of Ruffian
 Prime Requisite: STR <br>
 Weapons: battle axe, club, morning star, sap, whip<br>
 Thief Skills: hide in shadows, move silently, open locks, pick pockets<br>
@@ -719,7 +720,7 @@ Bonus Proficiencies: Dungeon Bashing, Fighting Style (ruffian’s choice), Intim
 
 The ruffian is a cut-throat and killer. A ruffian can cut the purses of passersby, skulk in the shadows to waylay unsuspecting victims, break into homes and burglarize their valuables, or simply rely on his threatening demeanor and martial prowess to rob victims at sword-point. Most freebooters are ruffians, and they can be found in great numbers in any den of scum and villainy.
 
-**Path of Scoundrel**<br>
+#### Path of Scoundrel
 Prime Requisite: CHA<br>
 Weapons: arbalest, dart, mace, sap, whip<br>
 Thief Skills: hide in shadows, move silently, open locks, pick pockets<br>
@@ -727,7 +728,7 @@ Bonus Proficiencies: Cat Burglary, Climbing, Disguise, Eavesdropping, Lip Readin
 
 The scoundrel is a gentleman thief. His ability to scale walls, open locks, hide in shadows, and move silently enables him to function as nigh-undetectable cat burglar, stealing his victims’ most precious treasures without need for violence. An expert in disguise, he can blend in to any crowd, where his graceful sleight-of-hand can relieve his marks of their important papers and burdensome purses. Skilled eavesdroppers and lip readers, scoundrels often work as spies and secret agents, uncovering secrets that the powerful wish to keep hidden.
 
-**Path of Wayfarer**<br>
+#### Path of Wayfarer
 Prime Requisite: CON<br>
 Weapons: bola, hand axe, longbow, net, staff<br>
 Thief Skills: climb walls, hear noise, hide in shadows, move silently<br>
@@ -1051,9 +1052,10 @@ Loremaster Proficiency List: Alchemy*, Battle Magic, Beast Friendship, Black Lor
 | Starting Equipment: | Well-kept ceremonial codex with **slumber**, rune-etched staff, blue mage’s cassock, leather belt, low boots, backpack, theurgical implements (level 1), quill and ink, 1 week’s iron rations, 55gp
 
 
-#### Loremaster Level Progression		#### Loremaster Ceremony Progression
-| ---------: | :---- | :---- | :------- | :--------------- | :- | :- | :- | :- | :- | :-
+#### Loremaster Level and Ceremony Progression		
+
 | Experience |	Title |	Level |	Hit Dice |	Special Abilities |	1 |	2 |	3 |	4 |	5 |	6
+| ---------: | :---- | :---- | :------- | :--------------- | :- | :- | :- | :- | :- | :-
 | 0 |	Learner |	1 |	1d4 |	Loremastery, personal talisman, read languages | 2 | - | - | - |	- |	-
 | 2,000 |	Disciple |	2 |	2d4 | 	- | 	3 | - | - | - | - | -
 | 4,000 |	Scholastic |	3 |	3d4 |	Personal talisman 2 |	3 |	1 |	- |	- |	- |	-
@@ -1113,7 +1115,7 @@ A champion’s martial talents are shaped by his calling of arms. There are thre
 | Herald | The agents of chaos ceaselessly sow discord and hatred, and through their treachery wars can be lost even if every battle is won. It is the calling of the herald to forge the alliances and craft the strategies that unite kingdoms and win wars.  
 | Ranger | Dark things lurk at the borders of civilization, ever encroaching when they sense weakness. It is the calling of the ranger to hunt them down in their forests, swamps, and hidden places before they can threaten the heartland.   
 
-**Calling of Armiger**<br>
+#### Calling of Armiger
 Class Proficiencies: Combat Trickery (knock down), Dungeon Bashing, Martial Training, Riding<br>
 Weapons: battle axe, flail, great axe, morning star, war hammer<br>
 1st level: The armiger has devoted himself to the study of armored combat. This armor training permits him to wear banded, lamellar, and/or plate armor rather than just chainmail.<br>
@@ -1121,7 +1123,7 @@ Weapons: battle axe, flail, great axe, morning star, war hammer<br>
 7th level: The armiger has learned to mitigate damage by absorbing the blow on his armor or shield. When an armiger mitigates damage, the damage dealt by the attack is reduced to 1 point. The excess damage is absorbed by the armiger’s armor or shield, which is reduced in effectiveness (AC) by 1 point per 10 points of damage mitigated (rounded up). In addition, if the amount of damage mitigated is greater than the armiger’s current hit points, then he is also knocked prone. The armiger cannot mitigate damage if he is backstabbed, frightened, helpless, infuriated, mesmerized, prone, surprised, or stunned. Special maneuvers cannot be mitigated, nor can damage from critical hits, magic, or area of effect attacks. Armor and/or shields that are reduced to 0 or less effectiveness are ruined and cannot be repaired. Otherwise an armorer with a workshop can repair the damage to an armiger’s armor and shield at a cost of 10gp per point of effectiveness.<br>
 11th level: The armiger is a lion-hearted leader whose courage inspires his men to fight on. If the armiger is fighting on the battlefield with an army, the army automatically stands firm on its first morale roll, or rallies if it would have stood firm. This benefit is lost for the duration of the battle, however, if the armiger himself routs, flees, or leads from the rear (see Domains at War: Battles, p. XX).
 
-**Calling of Herald**<br>
+#### Calling of Herald
 Class Proficiencies: Armor Training, Leadership, Mystic Aura, Siege Engineering<br>
 Weapons: battle axe, composite bow, flail, mace, war hammer<br>
 1st level: The herald has the ability to inspire courage. Inspiring courage requires  a few moments of oration (one round), and grants the herald’s allies within a 50' radius a +1 bonus to attack throws, damage rolls, morale rolls (for monsters or NPCs allied with the character), and saving throws against magical fear. The bonus lasts for 10 minutes (1 turn). The herald can inspire courage in any given character once per day per class level. The herald cannot inspire courage in characters who are already engaged in combat or in characters of different alignment.<br>
@@ -1129,7 +1131,7 @@ Weapons: battle axe, composite bow, flail, mace, war hammer<br>
 7th level: The herald knows that the greatest victories come without fighting. In lieu of moving or attacking on his initiative, the herald may demand surrender from a group of hostile creatures. The group can be of any size, but the creatures must be able to see, hear, and understand the herald, and must be either outnumbered or surprised by the herald and his allies in order to be affected. Affected creatures must make an immediate morale roll with a penalty equal to the herald’s CHA bonus. A result of Retreat or Fighting Withdrawal will lead to their immediate surrender. If the demand fails, a herald may not demand surrender from the same creature or creatures again until other circumstances have triggered a morale roll by the creature or creatures. This ability can be used at the start of a D@W battle if the opposing army is surprised or outnumbered by the herald’s army.<br>
 11th level: The herald is a clarion commander who can rouse the populace in times of danger. When the herald issues a call to arms to his vassals, he can ask them to muster their full garrison without provoking a Henchman Morale roll. When the herald levies the peasant militia of his domain, or when his vassals levy their militias in response to his call to arms, morale of the domain does not suffer a penalty. All militia levied by the herald, or by his vassals in response to the herald’s call to arms, gain a +1 bonus to their morale scores, for the duration of the call. (This bonus does not stack if both the ruler and a vassal are heralds.)
 
-**Calling of Ranger**<br>
+#### Calling of Ranger
 Class Proficiencies: Ambushing, Land Surveying, Precise Shooting, Sniping<br>
 Weapons: composite bow, hand axe, long bow, staff, short bow <br>
 1st level: The ranger is difficult to spot in the wilderness, having the ability to seemingly disappear into woods and underbrush with a proficiency throw of 3+ on 1d20. In dungeons, the ranger can escape detection with a proficiency throw of 14+ on 1d20 if he remains quiet and motionless. <br>
@@ -1226,7 +1228,7 @@ When a Nobiran wizard is created, select a college for the character from the Co
 | Lore | The college of Lore teaches that magic is governed by secret laws and esoteric principles. Its wizards seek out forgotten knowledge and share insights with sages and scholars.
 | Nature | The college of Nature views magic as a force of nature, created and sustained by life. Its wizards live in the wild places of earth, and find friendship with birds, beasts, elves, and shamans.
 
-**Wizard of Artifice**<br>
+#### Wizard of Artifice
 Class Proficiencies: Bargaining, Bribery, Command, Siege Engineering <br>
 Weapons: Dagger, dart, staff, whip<br>
 1st level: The wizard has studied the craft of magic and the methods by which it is worked into objects. The wizard gains one rank of Magical Engineering proficiency.<br>
@@ -1235,7 +1237,7 @@ Weapons: Dagger, dart, staff, whip<br>
 9th level: Years of careful laboratory work begin to pay off as the wizard develops flawless precision. When conducting ordinary magic research (i.e. not using experimental methods), the wizard avoids automatic failures on unmodified die rolls of 2-3. An unmodified die roll of 1 is still an automatic failure, however. <br>
 11th level: The wizard is capable of creating marvelous machines that blend science and magic. The wizard is able to design and build constructs at half the usual base time and cost.<br>
 
-**Wizard of Fellowship**<br>
+#### Wizard of Fellowship
 Class Proficiencies: Command, Divine Blessing, Leadership, Military Strategy<br>
 Weapons: Club, dagger, dart, staff<br>
 1st level: The wizard is an ever-present reminder of light and hope in a dark world. He gains the ability to inspire courage. Inspiring courage requires  a few moments of oration (one round), and grants the wizard’s allies within a 50' radius a +1 bonus to attack throws, damage rolls, morale rolls (for monsters or NPCs allied with the caster), and saving throws against magical fear. The bonus lasts for 10 minutes (1 turn). The wizard can inspire courage in any given character once per day per class level. The wizard cannot inspire courage in characters who are already engaged in combat or in characters of different alignment.<br>
@@ -1244,7 +1246,7 @@ Weapons: Club, dagger, dart, staff<br>
 9th level: The wizard is blessed with an aura of protection that grants a +1 bonus to AC and a +1 bonus on saving throws against attacks made or effects created by evil creatures. The wizard’s aura of protection appears as a golden halo when viewed with magic.<br>
 11th level: The powers of darkness cannot stand before the wizard’s bright lore. The character can turn undead as an ecclesiastic of one-half his class level. If the character casts spells that require a saving throw versus Paralysis, his targets suffer a -2 penalty on the save. When the character casts protection spells, the spell effects are calculated as if he were two class levels higher than his actual level of experience. This class power stacks with the White Lore of Aura class proficiency (see p. XX). <br>
  
-**Wizard of Lore**<br>
+#### Wizard of Lore
 Class Proficiencies: Mapping, Navigation, Riding, Seafaring<br>
 Weapons: Dagger, dart, sling, staff<br>
 1st level: The wizard has undertaken a careful study of ancient annals and occult mysteries. He gains the Loremastery proficiency. <br>
@@ -1253,7 +1255,7 @@ Weapons: Dagger, dart, sling, staff<br>
 9th level: The wizard can unveil esoteric meaning hidden in mundane texts. The gp value of the wizard’s library is doubled for purposes of magical research, and he is eligible for a bonus of up to +5 (instead of +3) from library value.<br>
 11th level: By studying astrology and metaphysics, the wizard masters the lore of the stars and spheres. The wizard is able to learn and cast ritual magic at half the usual base time and cost.<br>
 
-**Wizard of Nature**<br>
+#### Wizard of Nature
 Class Proficiencies: Animal Husbandry, Contemplation, Divine Health, Survival<br>
 Weapons: Club, dagger, sling, staff<br>
 1st level: As a friend of birds and beasts, the wizard can understand the subtle language of normal animals. He gains a +2 to all reaction rolls when encountering animals, and may take them as henchmen. He can identify flora and fauna with a proficiency throw of 11+. This class power stacks with Beast Friendship proficiency (see p. XX).<br>
@@ -1920,7 +1922,7 @@ Weapons: Club, dagger, staff, whip
 9th level: The dominator’s iron will and terrifying ruthlessness grant him utter domination over his minions. The sorcerer’s henchmen have base morale scores of +4 and no longer make morale rolls upon suffering calamities. (Unlike Command proficiency or Battlefield Prowess power, this power does not affect mercenaries).
 11th level: The dominator is a master of domination and deception. When the character casts enchantments or illusions, the spell effects are calculated as if he were two class levels higher than his actual level of experience. Targets of his enchantments suffer a -2 penalty to their saving throw, as do those who attempt to disbelieve his illusions. This class power stacks with the Mastery of Charms and Illusions proficiency (see p. XX).
 
-**Sorcerer of Necromancy**<br>
+#### Sorcerer of Necromancy
 Class Proficiencies: Apostasy, Righteous Turning, Sensing Evil, Theology <br>
 Weapons: Club, dagger, dart, staff<br>
 1st level: The necromancer has studied the secrets of the dark arts. He may control undead as a Chaotic cleric of one half his class level (round up). If the sorcerer casts spells that require a saving throw versus Death, his targets suffer a -2 penalty on the save. When the sorcerer casts necromancy spells, the spell effects are calculated as if he were two levels higher than his actual caster level.  This class power stacks with the Black Lore of Zahar proficiency (see p. XX).<br>
@@ -1929,7 +1931,7 @@ Weapons: Club, dagger, dart, staff<br>
 9th level: In black tomes and evil liturgies, the necromancer has gained lordship over the undead. Whenever the character succeeds in controlling undead (whether from a roll or automatically from a “T” result), the undead are controlled for 1 day per level  instead of the usual 1 turn per level. If the undead would have been controlled for 1 day per level (from a “D” result), the undead are instead controlled indefinitely. <br>
 11th  level: The necromancer has finally unlocked the secrets of life and death. The sorcerer is able to perform necromancy at half the usual base time and cost.
 
-**Sorcerer of Summoning**<br>
+#### Sorcerer of Summoning
 Class Proficiencies: Command, Contemplation, Sensing Evil, Theology<br>
 Weapons: Dagger, dart, staff, whip<br>
 1st level: The summoner has brought forth a demon from the Outer Darkness and bound it in the form of an animal. The sorcerer gains the Familiar proficiency. Although the familiar will resemble a normal animal in most respects, there will be something alien or infernal about it, such as glowing eyes, sulfurous scent, etc.<br>
@@ -1938,7 +1940,7 @@ Weapons: Dagger, dart, staff, whip<br>
 9th level: The summoner knows words of command and obedience that compel creatures to his inexorable will. Any creatures summoned by the sorcerer will obey him to the best of their ability rather than seek to pervert his intention. Any creatures he conjures will depart without harming him if his concentration is broken.<br>
 11th level: Bargaining with the infernal powers has taught the summoner the power of sacrifice. He gains double normal divine power from blood sacrifices, and can store divine power from blood sacrifices indefinitely, even when not actively performing magical research. See the rules for Blood Sacrifice in ACKS on p. XX and in this book on p. XX for more details.
 
-**Sorcerer of Transmogrification**<br>
+#### Sorcerer of Transmogrification
 Class Proficiencies: Animal Husbandry, Animal Training, Beast Friendship, Riding<br>
 Weapons: Club, dagger, dart, whip<br>
 1st level: The grotesque arts of transformation demand constant study. The character gains the Transmogrification proficiency.<br>
@@ -2065,7 +2067,7 @@ Some proficiencies that appear in the ACKS Core Rules and ACKS Player’s Compan
 **Proficiencies Gained per Level (C=Class, G=General, B=Bonus Class)**
 
 | Classes       | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14
-| :------------ |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--
+| :------------ |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--
 | Beastmaster   |	C+G|	|	C|	|	G|	C	|	|	|C+G| | |	C |	G  |	|
 | Berserker     |	C+G|	|	C|	|	G|	C	|	|	|C+G| | |	C |	G  |	|
 | Chosen        |	C+G|	|	C|	|	G|	C	|	|	|C+G| | |	C |	G  |	|
@@ -2187,7 +2189,7 @@ If the character’s personal talisman is ever lost or destroyed, the character 
 
 **Second Sight:** The character has a connection to the hidden world, and can see innately or magically invisible creatures within 60’. Invisible creatures are aware that the character can see them, and may often take a particular interest in him as a result. Second sight does not provide the ability to see characters hiding in shadows, secret doors, traps, or other creatures or objects hidden through cover and concealment, but does provide a +4 bonus to saving throws to disbelieve illusions. This proficiency replaces Illusion Resistance in ACKS.
 
-## New and Modified Weapons, Armor, & Equipment
+## New and Modified Weapons, Armor, and Equipment
 
 ### Weapons and Armor
 

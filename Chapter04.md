@@ -44,7 +44,7 @@ The attacker determines the critical effect dealt by rolling 1d10 on the appropr
 | 9	| Wrestle/Clamber	| Wrestle/Clamber
 | 10 | 	Attacker’s Choice |	Attacker’s Choice
 
-#### Critical Effects
+### Critical Effects
 
 **Attacker’s Choice:** The attacker may choose any desired critical effect from the appropriate column (Character or Monster).
 
