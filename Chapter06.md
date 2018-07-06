@@ -30,7 +30,7 @@ Plants are sentient vegetable creatures. Plans are immune to all charm, sleep, a
 | Vermin	| Giant Slug
 <br>
 
-#### BÁLEYGR [Baleygr] ####
+#### BÁLEYGR [Baleygr]
 |% In Lair:|	35%
 |:
 |Dungeon Enc:	|Solitary (1) / Fist (1d4)
