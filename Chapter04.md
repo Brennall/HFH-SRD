@@ -32,7 +32,7 @@ The attacker determines the critical effect dealt by rolling 1d10 on the appropr
 
 
 | Die Roll |	Effect v. Character	| Effect v. Monster
-| :-------
+| :------- | :------ | :-
 | 1	| Brawling  |	Brawling
 | 2	| Damage Shield |	Fatigued
 | 3	| Damage Armor  |	Injure Hide
@@ -132,7 +132,7 @@ All monsters larger than men suffer an attack throw penalty based on their size 
 In most cases, a monster will be attacking a foe with more armor than its armor penetration, and the attack throw penalty and armor penetration will cancel each other out. However, when a target is wearing less armor than the monster’s armor penetration, it will have a relatively harder time hitting the target. This is much to the benefit of heroic fantasy archetypes such as barbarians in loincloths, bladedancers in chainmail bikinis, and thieves in leather armor.
 
 | Size Category  |	Attack Throw Penalty  |	Armor Penetration
-| :
+| :- | :- | :-
 | Man-sized (399 lbs or less) |	0 |	0
 | Large (400 – 1,999 lbs) | 	-2 |	2
 | Huge (2,000 – 7,999 lbs)  |	-4  |	4

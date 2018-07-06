@@ -80,6 +80,7 @@
   - [Modified Proficiencies](Chapter02.md#modified-proficiencies)
   - [New Proficiencies](Chapter02.md#new-proficiencies)
 - [New and Modified Weapons, Armor, & Equipment](Chapter02.md#new-and-modified-weapons-armor-and-equipment)
+- [New and Modified Weapons, Armor, & Equipment](Chapter02.md#new-and-modified-weapons-armor-&-equipment)
 
 ### [Chapter 3 Heroic Deeds](Chapter03.md#chapter-3-heroic-deeds)
 

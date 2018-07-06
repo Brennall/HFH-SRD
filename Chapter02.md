@@ -25,7 +25,7 @@ Heroic characters will have ability scores in approximately the same range as th
 
 EXAMPLE: Newton is creating an adventurer for use in a heroic campaign. The Judge has decided to use the optional “Legendary Ability Scores” and “Generating Multiple Characters” rules. Newton therefore will generate five characters; for each character, he will generate six ability scores, rolling 5d6 for each in order and dropping the lowest 2 dice. This combination of optional rules creates very powerful characters! Newton’s results are, in order for STR, INT, WIS, DEX, CON, and CHA: #1 STR 13, INT 17, WIS 11, DEX 15, CON 13, CHA 13;  #2 STR 13, INT 11, WIS 15, DEX 16, CON 11, CHA 15; #3 STR 6, INT 14, WIS 16, DEX 12, CON 12, CHA 13; #4  STR 14, INT 9, WIS 16, DEX 14, CON 17, CHA 14; #5 STR 15, INT 15, WIS 16, DEX 13, CON 14, CHA 17. He decides to select character #5. He selects Elven Spellsinger as his character class, reducing STR to 13 to increase CHA to 18. His final character has STR 13, INT 15, WIS 16, DEX 13, CON 14, CHA 18.
 
-### Wisom Modifier
+### Wisdom Modifier
 
 In heroic fantasy campaigns, a character’s WIS modifier should be applied to all saving throws, not just saving throws versus magic.
 
@@ -1913,7 +1913,9 @@ A sorcerer’s advancement in the magical arts is shaped by his path of sorcery.
 
 
 When a Zaharan sorcerer is created, select a path for the character from the Path table below, and write down the proficiencies and powers of the path. Each path teaches the use of a selection of four weapons, four proficiency selections which are added to the Sorcerer Proficiency List as potential class proficiency choices, and five special abilities earned as they advance in level. (Soft-hearted Zaharan sorcerers who fear to walk the dark path can also select one of the colleges of the Nobiran wizard, if desired.)
-Sorcerer of Dominion
+
+#### Sorcerer of Dominion
+
 Class Proficiencies: Command, Intimidation, Leadership, Military Strategy
 Weapons: Club, dagger, staff, whip
 1st level:  With grim threats of woe and doom, the dominator can inspire dread in his foes. Inspiring dread requires  a few moments of oration (one round), and gives the sorcerer’s opponents within a 50' radius a -1 penalty to attack throws, damage rolls, morale rolls, and saving throws against magical fear. The penalty lasts for 10 minutes (1 turn). The sorcerer can only attempt to inspire dread in any given character once per day per class level. Opponents may save versus Spells to resist the effect.
@@ -1923,6 +1925,10 @@ Weapons: Club, dagger, staff, whip
 11th level: The dominator is a master of domination and deception. When the character casts enchantments or illusions, the spell effects are calculated as if he were two class levels higher than his actual level of experience. Targets of his enchantments suffer a -2 penalty to their saving throw, as do those who attempt to disbelieve his illusions. This class power stacks with the Mastery of Charms and Illusions proficiency (see p. XX).
 
 #### Sorcerer of Necromancy
+<<<<<<< HEAD
+=======
+
+>>>>>>> c6e3294de53baab8d76262417d222f49b1516517
 Class Proficiencies: Apostasy, Righteous Turning, Sensing Evil, Theology <br>
 Weapons: Club, dagger, dart, staff<br>
 1st level: The necromancer has studied the secrets of the dark arts. He may control undead as a Chaotic cleric of one half his class level (round up). If the sorcerer casts spells that require a saving throw versus Death, his targets suffer a -2 penalty on the save. When the sorcerer casts necromancy spells, the spell effects are calculated as if he were two levels higher than his actual caster level.  This class power stacks with the Black Lore of Zahar proficiency (see p. XX).<br>
@@ -1932,6 +1938,10 @@ Weapons: Club, dagger, dart, staff<br>
 11th  level: The necromancer has finally unlocked the secrets of life and death. The sorcerer is able to perform necromancy at half the usual base time and cost.
 
 #### Sorcerer of Summoning
+<<<<<<< HEAD
+=======
+
+>>>>>>> c6e3294de53baab8d76262417d222f49b1516517
 Class Proficiencies: Command, Contemplation, Sensing Evil, Theology<br>
 Weapons: Dagger, dart, staff, whip<br>
 1st level: The summoner has brought forth a demon from the Outer Darkness and bound it in the form of an animal. The sorcerer gains the Familiar proficiency. Although the familiar will resemble a normal animal in most respects, there will be something alien or infernal about it, such as glowing eyes, sulfurous scent, etc.<br>
