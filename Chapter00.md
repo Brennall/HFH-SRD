@@ -174,7 +174,7 @@
 ### [Chapter 8 Heroic Secrets](Chapter08.md#heroic-secrets)
 
 - [Custom Classes](Chapter08.md#custom-classes)
-- [Build Points and Class Categories](Chapter08.md#build-points-and-class-catagories)
+- [Build Points and Class Categories](Chapter08.md#build-points-and-class-categories)
 - [Eldritch Value](Chapter08.md#eldritch-value)
 - [Ceremonial Value](Chapter08.md#ceremonial-value)
 - [Halfling Custom Classes](Chapter08.md#halfling-custom-classes)
