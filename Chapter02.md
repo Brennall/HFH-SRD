@@ -1831,7 +1831,7 @@ Zaharan Darklord Proficiency List: Alchemy, Ambushing, Battle Magic, Berserkerga
 #### Zaharan Darklord Level Progression
 
 | Experience | Title             | Level | Hit Dice | Special Abilities | 1 | 2 | 3 | 4 | 5 | 6
-| ---------: | :---------------- | :---: | :------- | :-----------      | :-: | | | | | |
+| ---------: | :---------------- | :---: | :------- | :-----------      | :-: |:-: |:-: |:-: |:-: |:-:
 |          0 | Perpetrator       |     1 | 1d4      | Dominate beastmen, Zaharan        | 2 | | | | | |
 |      3,400 | Evildoer          |     2 | 2d4      | Inspire dread  | 3 | | | | | |
 |      6,800 | Chaosbringer      |     3 | 3d4      | -              | 3 | 1 | | | | |
