@@ -129,7 +129,7 @@
   - [Ceremonial Magic versus Cast Magic](Chapter05.md#ceremonial-magic-versus-cast-magic)
   - [Repertoire](Chapter05.md#repertoire)
   - [Ceremonial Traditions](Chapter05.md#ceremonial-traditions)
-  - [Performing Ceremonies](Chapter05.md#-performing-ceremonies)
+  - [Performing Ceremonies](Chapter05.md#performing-ceremonies)
   - [The Stigma of Failure](Chapter05.md#the-stigma-of-failure)
   - [Ceremonial Magic Research](Chapter05.md#ceremonial-magic-research)
   - [Ceremonial Trinkets](Chapter05.md#ceremonial-trinkets)
