@@ -1911,7 +1911,9 @@ A sorcerer’s advancement in the magical arts is shaped by his path of sorcery.
 
 
 When a Zaharan sorcerer is created, select a path for the character from the Path table below, and write down the proficiencies and powers of the path. Each path teaches the use of a selection of four weapons, four proficiency selections which are added to the Sorcerer Proficiency List as potential class proficiency choices, and five special abilities earned as they advance in level. (Soft-hearted Zaharan sorcerers who fear to walk the dark path can also select one of the colleges of the Nobiran wizard, if desired.)
-Sorcerer of Dominion
+
+#### Sorcerer of Dominion
+
 Class Proficiencies: Command, Intimidation, Leadership, Military Strategy
 Weapons: Club, dagger, staff, whip
 1st level:  With grim threats of woe and doom, the dominator can inspire dread in his foes. Inspiring dread requires  a few moments of oration (one round), and gives the sorcerer’s opponents within a 50' radius a -1 penalty to attack throws, damage rolls, morale rolls, and saving throws against magical fear. The penalty lasts for 10 minutes (1 turn). The sorcerer can only attempt to inspire dread in any given character once per day per class level. Opponents may save versus Spells to resist the effect.
@@ -1920,7 +1922,8 @@ Weapons: Club, dagger, staff, whip
 9th level: The dominator’s iron will and terrifying ruthlessness grant him utter domination over his minions. The sorcerer’s henchmen have base morale scores of +4 and no longer make morale rolls upon suffering calamities. (Unlike Command proficiency or Battlefield Prowess power, this power does not affect mercenaries).
 11th level: The dominator is a master of domination and deception. When the character casts enchantments or illusions, the spell effects are calculated as if he were two class levels higher than his actual level of experience. Targets of his enchantments suffer a -2 penalty to their saving throw, as do those who attempt to disbelieve his illusions. This class power stacks with the Mastery of Charms and Illusions proficiency (see p. XX).
 
-**Sorcerer of Necromancy**<br>
+#### Sorcerer of Necromancy
+
 Class Proficiencies: Apostasy, Righteous Turning, Sensing Evil, Theology <br>
 Weapons: Club, dagger, dart, staff<br>
 1st level: The necromancer has studied the secrets of the dark arts. He may control undead as a Chaotic cleric of one half his class level (round up). If the sorcerer casts spells that require a saving throw versus Death, his targets suffer a -2 penalty on the save. When the sorcerer casts necromancy spells, the spell effects are calculated as if he were two levels higher than his actual caster level.  This class power stacks with the Black Lore of Zahar proficiency (see p. XX).<br>
@@ -1929,7 +1932,8 @@ Weapons: Club, dagger, dart, staff<br>
 9th level: In black tomes and evil liturgies, the necromancer has gained lordship over the undead. Whenever the character succeeds in controlling undead (whether from a roll or automatically from a “T” result), the undead are controlled for 1 day per level  instead of the usual 1 turn per level. If the undead would have been controlled for 1 day per level (from a “D” result), the undead are instead controlled indefinitely. <br>
 11th  level: The necromancer has finally unlocked the secrets of life and death. The sorcerer is able to perform necromancy at half the usual base time and cost.
 
-**Sorcerer of Summoning**<br>
+#### Sorcerer of Summoning
+
 Class Proficiencies: Command, Contemplation, Sensing Evil, Theology<br>
 Weapons: Dagger, dart, staff, whip<br>
 1st level: The summoner has brought forth a demon from the Outer Darkness and bound it in the form of an animal. The sorcerer gains the Familiar proficiency. Although the familiar will resemble a normal animal in most respects, there will be something alien or infernal about it, such as glowing eyes, sulfurous scent, etc.<br>
@@ -1938,7 +1942,7 @@ Weapons: Dagger, dart, staff, whip<br>
 9th level: The summoner knows words of command and obedience that compel creatures to his inexorable will. Any creatures summoned by the sorcerer will obey him to the best of their ability rather than seek to pervert his intention. Any creatures he conjures will depart without harming him if his concentration is broken.<br>
 11th level: Bargaining with the infernal powers has taught the summoner the power of sacrifice. He gains double normal divine power from blood sacrifices, and can store divine power from blood sacrifices indefinitely, even when not actively performing magical research. See the rules for Blood Sacrifice in ACKS on p. XX and in this book on p. XX for more details.
 
-**Sorcerer of Transmogrification**<br>
+#### Sorcerer of Transmogrification
 Class Proficiencies: Animal Husbandry, Animal Training, Beast Friendship, Riding<br>
 Weapons: Club, dagger, dart, whip<br>
 1st level: The grotesque arts of transformation demand constant study. The character gains the Transmogrification proficiency.<br>
