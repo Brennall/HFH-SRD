@@ -25,7 +25,7 @@ Heroic characters will have ability scores in approximately the same range as th
 
 EXAMPLE: Newton is creating an adventurer for use in a heroic campaign. The Judge has decided to use the optional “Legendary Ability Scores” and “Generating Multiple Characters” rules. Newton therefore will generate five characters; for each character, he will generate six ability scores, rolling 5d6 for each in order and dropping the lowest 2 dice. This combination of optional rules creates very powerful characters! Newton’s results are, in order for STR, INT, WIS, DEX, CON, and CHA: #1 STR 13, INT 17, WIS 11, DEX 15, CON 13, CHA 13;  #2 STR 13, INT 11, WIS 15, DEX 16, CON 11, CHA 15; #3 STR 6, INT 14, WIS 16, DEX 12, CON 12, CHA 13; #4  STR 14, INT 9, WIS 16, DEX 14, CON 17, CHA 14; #5 STR 15, INT 15, WIS 16, DEX 13, CON 14, CHA 17. He decides to select character #5. He selects Elven Spellsinger as his character class, reducing STR to 13 to increase CHA to 18. His final character has STR 13, INT 15, WIS 16, DEX 13, CON 14, CHA 18.
 
-### Wisom Modifier
+### Wisdom Modifier
 
 In heroic fantasy campaigns, a character’s WIS modifier should be applied to all saving throws, not just saving throws versus magic.
 
