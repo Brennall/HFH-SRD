@@ -697,7 +697,7 @@ If a ceremonialist finds and identifies rechargeable trinket of his own traditio
 EXAMPLE: IF Ra-Ramses were a theurgical ceremonialist with phoenix aura in his repertoire, he could perform that ceremony to recharge the eagle statuette and thereafter make use of the trinket as if it were of his own make.
 
 
-### Ceremonial Talisman
+### Ceremonial Talismans
 
 *Sharajasha lifted one arm to brush aside the brushes, and the young barbarian saw that his long fingers bore many sigils and talismanic rings of power. One was a hoop of iron, embossed with a curious glyph. Another was carved of red jade, engraved with wedge-shaped runes in some unknown tongue. Other rings flashed upon his long, sensitive hands… Each ring was fashioned from a different substance: crystal, metal, stone, or wood. With the power locked in these talismanic rings, Thongor grimly surmised, the wizard could invoke and command spirits and elemental forces.* – Thongor and the Wizard of Lemuria (Lin Carter)
 
