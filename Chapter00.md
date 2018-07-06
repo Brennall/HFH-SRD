@@ -145,7 +145,7 @@
 
 ### [Chapter 6 Heroic Monsters](Chapter06.md#chapter-6-heroic-monsters)
 
-- [New Monsters by Type](Chapter06.md#chapter-6-new-monsters-by-type)
+- [New Monsters by Type](Chapter06.md#new-monsters-by-type)
 - [Báleygr](Chapter06.md#báleygr)
 - [Cacodemon](Chapter06.md#cacodemon)
 - [Cave Kraken](Chapter06.md#cave-kraken)
