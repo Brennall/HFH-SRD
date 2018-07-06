@@ -16,7 +16,7 @@ All Human Classes have 4 (four) build points to spend on five class categories: 
 ### Eldritch Value
 
 |Value|	Eldritch|	XP Cost
-| :
+| : | : | :
 |4|	Wizard + 4 class powers	|2500
 |3|	⅔ level Wizard + 3 class powers	|1875
 |2|	½ level Wizard + 2 class powers	|1250
@@ -53,7 +53,7 @@ Eldritch classes (e.g. those for which the Eldritch category is the highest rati
 
 Since the XP Cost for the Arcane and Eldritch Values are identical, classes from ACKS Core or Player’s Companion with 1 or more points in the Arcane Value can be converted into Heroic Fantasy classes by substituting an equivalent number of points in the Eldritch value. The class’s level progression, Hit Dice, and attack throw progression are unchanged. If the class uses the mage saving throw progression and proficiency progression, substitute the cleric progression instead. Replace the mage spell progression (or fraction thereof) with the Nobiran wizard spell progression (or fraction thereof). Instead of selecting its spell repertoire from the arcane spell list, the class selects from the eldritch spells list (p. XX), and it becomes subject to the rules for the shades of magic (p. XX). In exchange, the class gains either spellsinging or bonus class powers.
 
-###Ceremonial Value
+### Ceremonial Value
 
 |Value|	Ceremonial|	XP Cost
 | :
