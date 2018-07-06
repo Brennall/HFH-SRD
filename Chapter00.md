@@ -151,7 +151,7 @@
 - [Cave Kraken](Chapter06.md#cave-kraken)
 - [Dragon, Heroic Fantasy Variant](Chapter06.md#dragon-heroic-fantasy-variant)
 - [Manes](Chapter06.md#manes)
-- [Slug, Giant](Chapter05.md#slug-giant)
+- [Slug, Giant](Chapter06.md#slug-giant)
 - [Snake, Giant Constricting Viper](Chapter06.md#snake-giant-constricting-viper)
 - [Stymph](Chapter06.md#stymph)
 - [Troll, Stone](Chapter06.md#troll-stone)
