@@ -867,10 +867,10 @@ When a proficiency from the knowledge category is used to create a trinket or ta
 
 In the spell lists below, the following superscripts are used to designate particular types of spells. This can be helpful to the Judge in determining which spells are affected by various proficiencies and class powers such as Elementalism, Transmogrification, and so on. If the Judge introduces new spells or new powers that affect different types of spells, the Judge can use the Spell Power Guidelines in this chapter to categorize such innovations.
 
-| | | | | | 
-| :- | :- | :- | :- | :- | :- 
+
 |<sup>dth</sup> | 	death |	<sup>ill</sup> | 	illusion |	<sup>trn</sup> | 	transmogrification
-| <sup>elm()</sup> | 	elemental (type) | <sup>nec</sup>| 	necromancy |	<sup>#</sup> |	spell modified from earlier version
+| :- | :- | :- | :- | :- | :- 
+| <sup>elm()</sup> | 	elemental (type) | <sup>nec</sup>| 	necromancy |	# |	spell modified from earlier version
 | enc | 	enchantment |	<sup>pro</sup> | 	protection |	* | 	reversible spell
 
 Spells detailed in the ACKS core rules are noted in regular font; spells detailed in the Player’s Companion are noted by being italicized; and spells detailed in this supplement are noted by being bolded. Reversible spells are listed separately if they sit on different lists. Some of the new spells are unique to eldritch casters. Others are similar to existing arcane or divine spells, but with modified effects that take into account the limits of eldritch magic (typically by requiring an elemental source). Finally, some spells (noted with #) are pre-existing arcane and divine spells that are presented here with updated effects, either to reflect new rules introduced in this supplement (such as base healing rate or corruption) or simply for clarity from insights gained in actual play that has occurred since the spell first appeared. For instance, we have clarified how choking grip works in the combat round structure. The new mechanics of these spells should apply to any spellcaster who uses them, not just eldritch spellcasters.
