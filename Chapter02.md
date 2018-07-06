@@ -1459,7 +1459,7 @@ Watcher Template: This pre-generated template represents a watcher who guards th
 #### Runemaker Level Progression
 
 | Experience | Title             | Level | Hit Dice | Special Abilities | 1 | 2 | 3 | 4 | 5 | 6
-| ---------: | :---------------- | :---: | :------- | :-----------      | :-: | | | | | |
+| ---------: | :---------------- | :---: | :------- | :-----------      | :-: |:-:|:-:|:-:|:-:|:-:|
 |          0 | Runelearner       |     1 | 1d6      | Cast runes        |  | | | | | |
 |      1,500 | Runecarver        |     2 | 2d6      | Ceremonial magic  | 1 | | | | | |
 |      3,000 | Runegiver         |     3 | 3d6      | Curse             | 2 |  | | | | |
@@ -1925,10 +1925,7 @@ Weapons: Club, dagger, staff, whip
 11th level: The dominator is a master of domination and deception. When the character casts enchantments or illusions, the spell effects are calculated as if he were two class levels higher than his actual level of experience. Targets of his enchantments suffer a -2 penalty to their saving throw, as do those who attempt to disbelieve his illusions. This class power stacks with the Mastery of Charms and Illusions proficiency (see p. XX).
 
 #### Sorcerer of Necromancy
-<<<<<<< HEAD
-=======
 
->>>>>>> c6e3294de53baab8d76262417d222f49b1516517
 Class Proficiencies: Apostasy, Righteous Turning, Sensing Evil, Theology <br>
 Weapons: Club, dagger, dart, staff<br>
 1st level: The necromancer has studied the secrets of the dark arts. He may control undead as a Chaotic cleric of one half his class level (round up). If the sorcerer casts spells that require a saving throw versus Death, his targets suffer a -2 penalty on the save. When the sorcerer casts necromancy spells, the spell effects are calculated as if he were two levels higher than his actual caster level.  This class power stacks with the Black Lore of Zahar proficiency (see p. XX).<br>
@@ -1938,10 +1935,7 @@ Weapons: Club, dagger, dart, staff<br>
 11th  level: The necromancer has finally unlocked the secrets of life and death. The sorcerer is able to perform necromancy at half the usual base time and cost.
 
 #### Sorcerer of Summoning
-<<<<<<< HEAD
-=======
 
->>>>>>> c6e3294de53baab8d76262417d222f49b1516517
 Class Proficiencies: Command, Contemplation, Sensing Evil, Theology<br>
 Weapons: Dagger, dart, staff, whip<br>
 1st level: The summoner has brought forth a demon from the Outer Darkness and bound it in the form of an animal. The sorcerer gains the Familiar proficiency. Although the familiar will resemble a normal animal in most respects, there will be something alien or infernal about it, such as glowing eyes, sulfurous scent, etc.<br>
@@ -1993,7 +1987,7 @@ Mortificationist: This pre-generated template represents a zealot devoted to the
 #### Zaharan Sorcerer Level Progression
 
 | Experience | Title                 | Level | Hit Dice | Special Abilities | 1 | 2 | 3 | 4 | 5 | 6
-| ---------: | :-------------------- | ----: | :------- | :---------------- | :----- | :- | :- | :- | :- | :- | :-
+| ---------: | :-------------------- | ----: | :------- | :---------------- | :----- | :- | :- | :- | :- | :- |
 |          0 | Spiritualist          |     1 | 1d4      | Ceremonial magic, path, sense power, Zaharan | 2
 |      2,700 | Medium                |     2 | 2d4      | - | 3
 |      5,400 | Incantationist        |     3 | 3d4      | path | 3 | 1
@@ -2013,7 +2007,7 @@ Mortificationist: This pre-generated template represents a zealot devoted to the
 ψ14th level is only available if the sorcerer becomes intelligent undead. See After the Flesh, below.
 
 
-#### Occultist Attack and Saving Throws
+#### Zaharan Sorcerer Attack and Saving Throws
 
 | Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells |    | Level | Attack Throw
 | :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | :- | :---- | -----------:
@@ -2146,7 +2140,7 @@ When items made by grand masters or above are discovered, their mark or style wi
 #### Art/Craft Proficiency Progression
 
 | Title |	Rank (# of times taken) | 	Gp Earned/Month |	Number of Workers Allowed
-| :---- | :---- | :---- |
+| :---- | :---- | :---- | :----
 | Apprentice |	1 |	10gp |	N.A.
 | Journeyman| 	2 |	20gp |	3 Apprentices
 | Master | 	3 |	40gp |	2 Journeymen, 4 Apprentices
@@ -2204,7 +2198,7 @@ If the character’s personal talisman is ever lost or destroyed, the character 
 ### Weapons and Armor
 
 | Weapons & Armor |	Cost |	Description
-| :--
+| :-- | :-- | :--
 | Arena Armor, Heavy |	50gp |	AC 4
 | Arena Armor, Light |	30gp |	AC 2
 | Cestus |	3gp |	Lethal brawling damage
@@ -2227,7 +2221,7 @@ If the character’s personal talisman is ever lost or destroyed, the character 
 ### Herbs and Powders
 
 | Herbs and Powders |	Cost
-| :---
+| :--- | :---
 | Aloe |	10gp
 | Bitterwood |	10gp
 | Black Lotus | 	200gp
@@ -2254,7 +2248,7 @@ If the character’s personal talisman is ever lost or destroyed, the character 
 ### Adventuring Equipment
 
 | Adventuring Equipment |	Cost
-| :-
+| :- | :-
 | Adventurer’s Harness |	10gp
 | Ear Trumpet |	15gp
 | Metamphora  |	5gp / 60gp value
