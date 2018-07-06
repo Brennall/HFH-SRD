@@ -810,7 +810,7 @@ As a general rule, transmogrification spell effects only transform like into lik
 
 **Weave Wood (4):** Wall, substance is impermeable to creatures (25), substance is impermeable to vision and light (10), affected as wood by physical and magical effects (x0.4), wall may be readily shaped by reducing area (x1), wall may be bonded to surrounding area (x1.2), wall must be solidly supported (x0.75),  is elemental – earth (x1), target 1,200 square feet (x1.5), 1” thick (x0.75), may not be evoked where objects/creatures are (x1), spell manipulates existing volume with noted characteristics (x0.67), range 120’ (x1), duration indefinite (x2.66), no saving throw (x1), eldritch (x1.5), total cost 37.9
 
-### Recommended Material for Heroic Fantasy Campaign
+### Recommended Material for Heroic Fantasy Campaigns
 
 #### Recommended Books
 
