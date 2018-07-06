@@ -16,7 +16,7 @@ All Human Classes have 4 (four) build points to spend on five class categories: 
 ### Eldritch Value
 
 |Value|	Eldritch|	XP Cost
-| : | : | :
+| :- | :- | :-
 |4|	Wizard + 4 class powers	|2500
 |3|	⅔ level Wizard + 3 class powers	|1875
 |2|	½ level Wizard + 2 class powers	|1250
