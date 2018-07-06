@@ -13,6 +13,8 @@ Demons are creatures summoned from the Outer Darkness. Demons are resistant (tak
 
 Plants are sentient vegetable creatures. Plans are immune to all charm, sleep, and hold spells, to stunning, and to poisons not designed to work on plants. They are vulnerable to spells that affect plants.
 
+#### New Monsters by Type
+
 | Type|	Monsters
 | :
 | Animal|	Giant Constricting Viper
