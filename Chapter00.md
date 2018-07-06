@@ -113,7 +113,7 @@
 - [Eldritch Magic](Chapter05.md#eldritch-magic)
   - [Eldritch Magic Research](Chapter05.md#eldritch-magic-research)
   - [Eldritch and Arcane](Chapter05.md#eldritch-and-arcane)
-- [The Shades of Magic](Chapter05.md#shades-of-magic)
+- [The Shades of Magic](Chapter05.md#the-shades-of-magic)
 - [Corruption](Chapter05.md#corruption)
 - [Places of Power](Chapter05.md#places-of-power)
   - [Sinkholes of Evil](Chapter05.md#sinkholes-of-evil)  
