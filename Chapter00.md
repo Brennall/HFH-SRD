@@ -166,7 +166,7 @@
   - [Armor, Swords, and Weapons](Chapter07.md#armor-swords-and-weapons)
   - [Miscellaneous Magic Items](Chapter07.md#miscellaneous-magic-items)
   - [Potions, Philters, and Oils](Chapter07.md#potions-philters-and-oils)
-  - [Rings](Chapter07.md#chapter-7-rings)
+  - [Rings](Chapter07.md#rings)
   - [Rods, Staffs, and Wands](Chapter07.md#rods-staffs-and-wands)
   - [Scrolls](Chapter07.md#scrolls)
   - [Trinkets and Talismans](Chapter07.md#trinkets-and-talismans)
