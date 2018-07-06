@@ -128,7 +128,7 @@ In the worlds of heroic fantasy there lie places of power, where the border betw
 There are six sources of power: chaos, law, elemental air, elemental earth, elemental fire, and elemental water. There are three ranks of power: minor, major, and supreme. The interaction of source and rank yields 18 different types of places of power, shown on the Places of Power table. The game effects of each are detailed below the table.
 
 | Source  |	Minor |	Major |	Supreme |	Name
-| :
+| :- | :- | :- | :- | :- 
 | Chaos |	Shadowed  |	Blighted  |	Forsaken  |	Sinkhole of Evil
 | Law |	Illuminated |	Hallowed  |	Sacrosanct  |	Pinnacle of Good
 | Air |	Gusting |	Roaring |	Howling |	Aerie of Elemental Air
@@ -143,7 +143,7 @@ Places corrupted by the energies of the Outer Darkness are known as sinkholes of
 
 
 | Effect  |	Shadowed  |	Blighted  |	Forsaken
-| :
+| :- | :- | :- | :- 
 | Corruption  |	1 point/season  |	1 point/month |	1 point/week
 | Corpse Reanimation  |	10%/1d12 months |	20%/1d4 days  |	80%/1d4 rounds
 | Black Magic Spell Effects |	+2 class levels |	+2 class levels |	+2 class level
@@ -196,7 +196,7 @@ A forsaken sinkhole can only be cleansed by ritual magic. As such areas develop 
 Places of beauty and serenity, respites from the chaos and corruption of the world around them, are known as pinnacles of good. The forces of life are stronger there, while dark forces are kept at bay. Light is brighter, sounds are crisper, and colors more vivid; harmony and a sense of order prevail. Pinnacles of good can be illuminated, hallowed, or sacrosanct. The table below summarizes the effects of the various types:
 
 | Effect  |	Illuminated	| Hallowed  |	Sacrosanct
-| :
+| :- | :- | :- | :- 
 |Purification of Corruption |	1 point/season  |	1/month |	1/week
 | White Magic Spell Effects |	+2 class levels |	+2 class levels |	+2 class level
 | Black Magic Spell Effects |	No Effect |	No Effect |	-2 class levels
@@ -253,6 +253,7 @@ The size of places of elemental power can vary widely. To determine randomly, ro
 **Note:** The Judge may wonder how we decided how many places of elemental power there are in the world. On our own Earth, there are 11 naturally-burning eternal flames, 600 active volcanoes, and 1000 active geysers in the world - that suggests 1,611 places of elemental fire spread across the earth’s 5,300,000 square mile land mass. That’s one place of elemental fire per 3,295 square miles. Since each 6-mile hex is 32 square miles, that’s one place of elemental fire per 102 hexes, or about 12 places on a typical 1,200-hex regional map.
 
 | Effect  |	Minor |	Major |	Supreme
+| :- | :- | :- | :- 
 | Elemental Incursion |	10%/1d12 days/1d4 days  |	20%/1d12 days/1d4 weeks |	80%/1d12 days/Permanent
 | Elemental Spell Effects |	+2 class levels |	+2 class levels |	+2 class level
 | Other Elemental Spell Effects |	No Effect	| No Effect |	-2 class levels
@@ -292,7 +293,7 @@ Spellsingers recover their spell points in the same way spellcasters recover the
 **Spells Points per Day by Level of Experience**
 
 | Caster Progression  |	1|	2|	3|	4|	5|	6|	7|	8|	9|	10|	11|	12|	13|	14
-| :
+| :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- 
 | Arcane 4  |	1|	2|	4|	6|	9|	12|	18|	25|	35|	47|	58|	77|	80|	95
 | Arcane 3  |	1|	2|	3|	4|	5|	6|	8|	10|	12|	18|	25|	30|	35|	40
 | Arcane 2  |	0|	1|	2|	3|	4|	5|	6|	8|	9|	10|	12|	15|	18|	21
@@ -320,7 +321,7 @@ When a spell is sung in combat, the spellsinger must announce the intention to s
 Like a traditional spellcaster, a spellsinger must be able to move his hands and speak freely in order to work magic. A spellsinger cannot sing spells if he is gagged, his hands are tied, or he is in an area under the effects of a noiselessness spell. (A spellsinger who possesses Quiet Magic proficiency can sing spells quietly by subvocalizing, but still cannot do so if under noiselessness.) Except where otherwise noted, a spellsinger must have the intended target of a spell within visual range while singing a spell. If after beginning to sing, a spellsinger loses his ability to move his hands and speak freely, or loses his line of sight on the intended target, the song is disrupted and the spell points are wasted.
 
 | Spell Level |	Spell Point Cost
-| :
+| :- | :- 
 | 1st |	1
 | 2nd | 	2
 | 3rd | 	3
@@ -342,7 +343,7 @@ In order to successfully sing an extemporaneous spell, a spellsinger must make a
 
 
 | Spell Level |	1|	2|	3|	4|	5|	6|	7|	8|	9|	10|	11|	12|	13|	14
-| ----:
+| ----: | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- 
 | 1st|	14+|	13+|	12+|	11+|	10+|	9+|	8+|	7+|	6+|	5+|	4+|	3+|	2+|	1+
 | 2nd|	16+|	15+|	14+|	13+|	12+|	11+|	10+|	9+|	8+|	7+|	6+|	5+|	4+|	3+
 | 3rd	|18+|	17+|	16+|	15+|	14+|	13+|	12+|	11+|	10+|	9+|	8+|	7+|	6+|	5+
@@ -375,7 +376,7 @@ EXAMPLE: Arwen has found the Sky of the Earth, a resilient edifice of elemental 
 **Ambient Power**<br>
 
 | Rank  |	Power / Day
-| --:
+| --: | :- 
 | Minor |	1 SP per 2,000 square feet
 | Major |	1 SP per 1,000 square feet
 | Supreme |	1 SP per 200 square feet
@@ -397,7 +398,7 @@ To find out if a mishap occurs, the spellsinger must make a mishap throw - anoth
 When a mishap occurs, the spellsinger must roll 1d10 on the Spellsinging Mishaps table and suffer the effect listed in the column matching the degree of mishap. The degree of the mishap depends on the level of the spell that caused the mishap. If the spell was 1st, 2nd, or 3rd level, a minor mishap occurs. If the spell was 4th or 5th level, a major mishap occurs. If the spell was 6th level, a catastrophic mishap occurs.
 
 | Roll| Minor Mishap | Major Mishap | Catastrophic Mishap
-| :--:|
+| :--: | :- | :- | :- 
 |   1 | You accidentally open a gate to the elemental spheres. An 8 HD elemental appears adjacent to you and attacks. | You accidentally open a gate to the elemental spheres. A 12 HD elemental appears adjacent to you and attacks. | You accidentally open a gate to the elemental spheres. A 16 HD elemental appears adjacent to you and attacks.
 | 2 | Your spell signature acquires an annoying side effect. Roll 1d10 on the spell signature sub-table. Only a wish or miracle can remove the side effect. | Your spell signature acquires a deleterious side effect. Roll 1d10+5 on the spell signature sub-table. Only a wish or miracle can remove the side effect. | Your spell signature acquires a debilitating side effect. Roll 1d10+10 on the spell signature sub-table. Only a wish or miracle can remove the side effect.
 | 3 | You are drained by the energy coursing through you. You are incapacitated for 1 day per level of the spell. | You are exhausted by the energy coursing through you. You are incapacitated for 1 week per level of the spell. | Your very soul is exhausted by the energy coursing through you. You are incapacitated permanently. Only a miracle or wish can awaken you from your coma.
@@ -465,7 +466,7 @@ To practice within a tradition means that the ceremonialist can:
 The Ceremonial Tradition table describes several different traditions available to ceremonialists. The Judge may create other traditions for his own campaign setting.
 
 | Tradition |	Description |	Historical Inspirations  |	Classes
-| :
+| :- | :- | :- | :- 
 | Antiquarian |	Wise men and women who focus on providing healing and protection from dark magic through charms, herbal remedies, potions, and spells.  |	European cunning folk, Caribbean-American hoodoo men  | 	Antiquarian Witches, Priestesses
 | Chthonic  |	Malefic sorcerers and witches who consort with the darkest of powers, reveling in corruption and depravity. |	Caribbean bokors, Goetic magicians, Norse  seiðkona, Roman malefactors, Renaissance nigromancers  | 	Chthonic Witches, Occultists, Zaharan Sorcerers
 | Liturgical |  Divine casters who invoke spells through formal sacraments and liturgies. |	Abrahamic miracle-workers, Egyptian magicians, Zoroastrian magi |	Clerics, Priestesses
@@ -482,7 +483,7 @@ Traditional Implements are the various paraphernalia, fetishes, and accoutrement
 Each type of ceremonial tradition has its own implements; the Traditional Implement table on the following page provides a list of items associated with the implements of various traditions. A ceremonialist cannot use implements of a tradition he does not know.
 
 | Level |	Cost
-| :
+| :- | :- 
 | 1 |	25gp
 | 2 |	100gp
 | 3 |	225gp
@@ -513,7 +514,7 @@ When the ceremony has been performed, the ceremonialist makes a ceremony throw t
 **Ceremony Performance by Ceremonialist Level**
 
 |Ceremony Level| 	1|	2|	3|	4|	5|	6|	7|	8|	9|	10|	11|	12|	13|	14
-| :
+| :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- 
 |1st|	10+|	9+|	8+|	7+|	6+|	5+|	4+|	3+|	2+|	1+|	0+|	-1+|	-2+|	-3+
 |2nd|	12+|	11+|	10+|	9+|	8+|	7+|	6+|	5+|	4+|	3+|	2+|	1+|	0+|	-1+
 |3rd|	14+|	13+|	12+|	11+|	10+|	9+|	8+|	7+|	6+|	5+|	4+|	3+|	2+|	1+
@@ -536,7 +537,7 @@ When a ceremony throw automatically fails (e.g. due to a roll of natural 1 or if
 When a mishap occurs, the ceremonialist must roll 1d10 on the Ceremony Mishaps table for his tradition and suffer the effect listed in the column matching the degree of mishap. The degree of the mishap depends on the level of the ceremony that was botched. If the ceremony was 1st, 2nd, or 3rd level, a minor mishap occurs. If the ceremony was 4th or 5th level, a major mishap occurs. If the ceremony was 6th level, a catastrophic mishap occurs.
 
 | Ceremony Level |	Degree of Mishap
-| :
+| :- | :- 
 |1-3 |	Minor
 |4-5 |	Major
 | 6 |	Catastrophic
@@ -567,7 +568,7 @@ Collaborative ceremonies (see below) cannot be performed hastily. Ceremonies can
 
 
 |Ceremony Pace|	Time Required|	Throw Modifier|	Automatic Failure|	Degree of Mishap
-| :
+| :- | :- | :- | :- | :- 
 |Hasty|	1 round (10 seconds)|	-4|	1-3|	By ceremony level
 |Regular|	1 turn (10 minutes)|	0|	1|	By ceremony level
 |Methodical|	36 turns (6 hours)|	+4|	1|	By ceremony level, reduced by 1
@@ -634,7 +635,7 @@ In addition, ceremonialists may create special types of magic items that are exc
 To create a trinket, a ceremonialist must first secure an object sufficiently valuable to store the desired ceremony. The value of the object must equal or exceed the base cost shown for the desired ceremony level and trinket type on the adjoining Trinket Cost table. Objects commonly used as disposable trinkets include various sorts of emollients, herbs, ointments, powders, and unguents. Objects commonly used as rechargeable trinkets include baubles, beads, bones, phylacteries, skulls, stones, teeth, and tiny figurines, as well as various objects found in traditional implements.
 
 |Level|	Disposable Trinket|	Rechargeable Trinket
-| :
+| :- | :- | :- 
 |1|	5gp|	50gp
 |2|	10gp|	100gp
 |3|	15gp|	150gp
@@ -719,7 +720,7 @@ EXAMPLE: Ra-Ramses is a 9th level occultist with INT 16 and WIS 16.. He decides 
 
 
 |Bonus|	Base Cost|	Time
-| :
+| :- | :- | :- 
 |+1|	5,000gp per type| 	1 month per type
 |+2|	10,000gp per type|	2 months per type
 |+3|	15,000gp per type|	3 months per type
@@ -767,7 +768,7 @@ For purposes of ceremonial magic, proficiencies are divided into three categorie
 
 
 |Category|	Useful Proficiencies
-| :
+| :- | :- 
 |Crafting|	Alchemy, Art (illumination, mosaic, painting, sculpting) Craft (armor-making, bookbinding, brewing, calligraphy, carpentry, doll-making, leatherwork, jewelling, rune-carving, stonemasonry, tinkering, weaving, weapon-smithing)
 |Knowledge|	Collegiate Wizardry, Knowledge (astrology, history, metaphysics, natural philosophy, occult), Naturalism, Theology
 |Performance|	Performance (chanting, dancing, epic poetry, playing instruments, singing, storytelling)
@@ -790,7 +791,7 @@ When a proficiency from the knowledge category is used to create a trinket or ta
 **1d10**
 
 |Roll|	Minor Mishap|	Major Mishap|	Catastrophic Mishap
-| :
+| :- | :- | :- | :- 
 |1|	You accidentally open a gate to the elemental spheres. An 8 HD elemental appears adjacent to you and attacks. If not destroyed, the elemental returns to its sphere after 10 rounds.|	You accidentally open a gate to the elemental spheres. A 12 HD elemental appears adjacent to you and attacks. If not destroyed, the elemental returns to its sphere after 8 hours.|	You accidentally open a gate to the elemental spheres. A 16 HD elemental appears adjacent to you and attacks. If not destroyed, the elemental returns to its sphere after 1 month.
 |2|	Your spell signature acquires an annoying side effect. Roll 1d10 on the spell signature sub-table. Only a wish or miracle can remove the side effect.|	Your spell signature acquires a deleterious side effect. Roll 1d10+5 on the spell signature sub-table. Only a wish or miracle can remove the side effect.|	Your spell signature acquires a debilitating side effect. Roll 1d10+10 on the spell signature sub-table. Only a wish or miracle can remove the side effect.
 |3|	The failure of your ceremony gives you a nervous breakdown. You go insane 1 day per level of the ceremony.|	Your failure teaches you unthinkable truths. You go insane for 1 week per level of the ceremony.|	The unspeakable horror you witness drives you permanently insane. Only a miracle or wish can cure you.
@@ -809,7 +810,7 @@ When a proficiency from the knowledge category is used to create a trinket or ta
 **1d10**
 
 |Roll|	Minor Mishap|	Major Mishap|	Catastrophic Mishap
-| :
+| :- | :- | :- | :- 
 |1|	Darkness gathers. 1d4 shadows appear and attack. If not destroyed, the shadows vanish after 10 rounds. The area in a 5’ radius is shadowed until they are dealt with or depart.|	Great darkness looms. 1d6 wraiths appear in and attack. If not destroyed, the wraiths vanish after 8 hours. The area in a 10’ radius blighted until they are dealt with or depart.|	Terrible darkness storms over you. 1d8 specters appear and attack. If not destroyed, the spectres vanish after 1 month. The area in a 20’ radius is forsaken until they are dealt with.
 |2|	Tampering with life energy costs you 1 level of experience unless you save versus Death.| 	Tampering with life energy costs you 1 level of experience.|	Tampering with life energy costs you 2 levels of experience.
 |3|	The failure of your ceremony gives you a nervous breakdown. You go insane for 1 day per level of the ceremony.|	Your failure teaches you unthinkable truths. You go insane for 1 week per level of the ceremony.|	The unspeakable horror you witness drives you permanently insane. Only a miracle or wish can cure you.
@@ -828,7 +829,7 @@ When a proficiency from the knowledge category is used to create a trinket or ta
 **1d10**
 
 |Roll|	Minor Mishap|	Major Mishap|	Catastrophic Mishap
-| :
+| :- | :- | :- | :- 
 |1|	You accidentally open a gate to the elemental spheres. An 8 HD elemental appears adjacent to you and attacks. If not destroyed, the elemental returns to its sphere after 10 rounds.|	You accidentally open a gate to the elemental spheres. A 12 HD elemental appears adjacent to you and attacks. If not destroyed, the elemental returns to its sphere after 8 hours.|	You accidentally open a gate to the elemental spheres. A 16 HD elemental appears adjacent to you and attacks. If not destroyed, the elemental returns to its sphere after 1 month.
 |2|	Your spell signature acquires an annoying side effect. Roll 1d10 on the spell signature sub-table. Only a wish or miracle can remove the side effect.|	Your spell signature acquires a deleterious side effect. Roll 1d10+5 on the spell signature sub-table. Only a wish or miracle can remove the side effect.|	Your spell signature acquires a debilitating side effect. Roll 1d10+10 on the spell signature sub-table. Only a wish or miracle can remove the side effect.
 |3|	The failure of your ceremony gives you a nervous breakdown. You for insane for 1 day per level of the ceremony.|	Your failure teaches you unthinkable truths. You go insane for 1 week per level of the ceremony.|	The unspeakable horror you witness drives you permanently insane. Only a miracle or wish can cure you.
@@ -847,7 +848,7 @@ When a proficiency from the knowledge category is used to create a trinket or ta
 **1d10**
 
 |Roll|	Minor Mishap|	Major Mishap|	Catastrophic Mishap
-| :
+| :- | :- | :- | :- 
 |1|	You accidentally open a gate to the outer spheres. An invisible stalker appears adjacent to you and attacks. If not destroyed, the stalker returns to its sphere after 10 rounds.|	You accidentally open a gate to the outer spheres. 1d4 invisible stalkers appear adjacent to you and attack. If not destroyed, the stalkers return to their sphere after 8 hours.|	You accidentally open a gate to the outer spheres. 2d4 invisible stalkers appear adjacent to you and attack. If not destroyed, the stalkers return to their sphere after 1 month.
 |2|	Your spell signature acquires an annoying side effect. Roll 1d10 on the spell signature sub-table. Only a wish or miracle can remove the side effect.|	Your spell signature acquires a deleterious side effect. Roll 1d10+5 on the spell signature sub-table. Only a wish or miracle can remove the side effect.|	Your spell signature acquires a debilitating side effect. Roll 1d10+10 on the spell signature sub-table. Only a wish or miracle can remove the side effect.
 |3|	The failure of your experiment gives you a nervous breakdown. You go insane for 1 day per level of the ceremony.|	Your failure teaches you unthinkable truths. You go insane for 1 week per level of the ceremony.|	The unspeakable horror you witness drives you permanently insane. Only a miracle or wish can cure you.
@@ -866,8 +867,8 @@ When a proficiency from the knowledge category is used to create a trinket or ta
 
 In the spell lists below, the following superscripts are used to designate particular types of spells. This can be helpful to the Judge in determining which spells are affected by various proficiencies and class powers such as Elementalism, Transmogrification, and so on. If the Judge introduces new spells or new powers that affect different types of spells, the Judge can use the Spell Power Guidelines in this chapter to categorize such innovations.
 
-| | | | | | |
-| :
+| | | | | | 
+| :- | :- | :- | :- | :- | :- 
 |<sup>dth</sup> | 	death |	<sup>ill</sup> | 	illusion |	<sup>trn</sup> | 	transmogrification
 | <sup>elm()</sup> | 	elemental (type) | <sup>nec</sup>| 	necromancy |	<sup>#</sup> |	spell modified from earlier version
 | enc | 	enchantment |	<sup>pro</sup> | 	protection |	* | 	reversible spell
@@ -879,7 +880,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **First Level Eldritch Spells (Black)**
 
 | # | Spell
-| :
+| :- | :- 
 | 1	| Charm Person <sup>enc</sup>
 | 2	| Cause Fear* <sup>enc</sup>
 | 3	| **Cause Light Wounds** *#
@@ -899,7 +900,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **Second Level Eldritch Spells (Black)**
 
 | # | Spell
-| :
+| :- | :- 
 | 1 |	Bane*
 | 2	| **Blindness** <sup>dth</sup>
 | 3	| **Bloody Flux** <sup>dth</sup>
@@ -919,7 +920,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **Third Level Eldritch Spells (Black)**
 
 | # | Spell
-| :
+| :- | :- 
 | 1	| Bestow Curse*
 | 2	| Cause Disease*
 | 3	| **Cause Major Wounds** *#
@@ -939,62 +940,62 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **Fourth Level Eldritch Spells (Black)**
 
 | # | Spell
-| :
-| 1	| Animate Dead <sup>nec
-| 2	| Charm Monster <sup>enc
-| 3	| *Control Undead* <sup>enc nec
+| :- | :- 
+| 1	| Animate Dead <sup>nec</sup>
+| 2	| Charm Monster <sup>enc</sup>
+| 3	| *Control Undead* <sup>enc nec</sup>
 | 4	| **Cause Serious Wounds** *#
 | 5	| **Conjure Dybbuk**
-| 6	| **Drain Life II** <sup>dth
+| 6	| **Drain Life II** <sup>dth</sup>
 | 7	| *Fear* <sup>enc
-| 8	| **Flesh to Ashes** <sup>dth
-| 9	| **Endless Slumber** <sup>enc
-| 10	| **Iron Maiden** <sup>dth
+| 8	| **Flesh to Ashes** <sup>dth</sup>
+| 9	| **Endless Slumber** <sup>enc</sup>
+| 10	| **Iron Maiden** <sup>dth</sup>
 | 11	| Poison*
 | 12	| Protection from Good, Sustained*
-| 13	| **Shrieking Skull** <sup>nec
+| 13	| **Shrieking Skull** <sup>nec</sup>
 | 14	| **Summon Shadows**
 | 15	| Wizard Eye
 
 **Fifth Level Eldritch Spells (Black)**
 
 | # | Spell
-| :
+| :- | :- 
 | 1	| **Cause Critical Wounds** *#
-| 2	| **Circle of Agony** <sup>dth
-| 3	| **Conjure Elemental** <sup>elm
+| 2	| **Circle of Agony** <sup>dth</sup>
+| 3	| **Conjure Elemental** <sup>elm</sup>
 | 4	| **Contact Other Sphere**
-| 5	| *Curse of Swine* <sup>trn
+| 5	| *Curse of Swine* <sup>trn</sup>
 | 6	| Feeblemind enc
-| 7	| **Fillet and Serve** <sup>nec
-| 8	| **Flay the Slain** <sup>nec
-| 9	| **Inflict Lycanthropy** <sup>trn
-| 10	| Magic Jar <sup>nec
-| 11	| *Panic* <sup>enc
-| 12	| *Phantasmal Killer* <sup>ill
+| 7	| **Fillet and Serve** <sup>nec</sup>
+| 8	| **Flay the Slain** <sup>nec</sup>
+| 9	| **Inflict Lycanthropy** <sup>trn</sup>
+| 10	| Magic Jar <sup>nec</sup>
+| 11	| *Panic* <sup>enc</sup>
+| 12	| *Phantasmal Killer* <sup>ill</sup>
 | 13	| **Sorcerous Blast**
-| 14	| **Summon Hell Hounds** <sup>elm(fire)
+| 14	| **Summon Hell Hounds** <sup>elm(fire)</sup>
 | 15	| Weakness of Mind*
 
 **Sixth Level Eldritch Spells (Black)**
 
 | # | Spell
-| :
-| 1	| **Body Swap** <sup>nec trn
-| 2	| **Conjure Genie** <sup>elm
+| :- | :- 
+| 1	| **Body Swap** <sup>nec trn</sup>
+| 2	| **Conjure Genie** <sup>elm</sup>
 | 3	| **Conjure Fiend**
-| 4	| **Corrupting Dream** <sup>enc
-| 5	| Death Spell <sup>dth
-| 6	| Disintegrate <sup>dth
-| 7	| **Drain Life III** <sup>dth
-| 8	| *Enslave* <sup>enc
-| 9	| Geas* <sup>enc
+| 4	| **Corrupting Dream** <sup>enc</sup>
+| 5	| Death Spell <sup>dth</sup>
+| 6	| Disintegrate <sup>dth</sup>
+| 7	| **Drain Life III** <sup>dth</sup>
+| 8	| *Enslave* <sup>enc</sup>
+| 9	| Geas* <sup>enc</sup>
 | 10	| **Necromantic Invulnerability**
-| 11	| **Reflesh of the Bones** <sup>nec trn
-| 12	| **Restore Semblance of Life** <sup>nec
-| 13	| **Soul Eating** <sup>dth nec
+| 11	| **Reflesh of the Bones** <sup>nec trn</sup>
+| 12	| **Restore Semblance of Life** <sup>nec</sup>
+| 13	| **Soul Eating** <sup>dth nec</sup>
 | 14	| **Summon Invisible Stalker**
-| 15	| *Torpor* <sup>nec
+| 15	| *Torpor* <sup>nec</sup>
 
 
 ### Grey Spell List
@@ -1002,139 +1003,139 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **First Level Eldritch Spells (Grey)**
 
 | # | Spell
-| :
-| 1	| **Auditory Illusion** <sup>ill
-| 2	| **Blinding Flash** <sup>elm(fire)
-| 3	| Command Word <sup>enc
-| 4	| **Display of Power** <sup>enc
-| 5	| **Ensorcellement** <sup>enc
-| 6	| Faerie Fire <sup>elm(fire)
-| 7	| **Hypnotism** <sup>enc
-| 8	| **Ice Floe** <sup>elm(water)
-| 9	| **Kindle Flame** * <sup>elm(fire)
-| 10	| **Shatter Blade** <sup>elm(earth)
-| 11	| **Sling Stone** <sup>elm(earth)
-| 12	| *Slipperiness* <sup>elm(water)
-| 13	| **Slumber** <sup>enc
-| 14	| **Thunderclap** <sup>elm(air)
-| 15	| **Weave Smoke** <sup>elm(air)
+| :- | :- 
+| 1	| **Auditory Illusion** <sup>ill</sup>
+| 2	| **Blinding Flash** <sup>elm(fire)</sup>
+| 3	| Command Word <sup>enc</sup>
+| 4	| **Display of Power** <sup>enc</sup>
+| 5	| **Ensorcellement** <sup>enc</sup>
+| 6	| Faerie Fire <sup>elm(fire)</sup>
+| 7	| **Hypnotism** <sup>enc</sup>
+| 8	| **Ice Floe** <sup>elm(water)</sup>
+| 9	| **Kindle Flame** * <sup>elm(fire)</sup>
+| 10	| **Shatter Blade** <sup>elm(earth)</sup>
+| 11	| **Sling Stone** <sup>elm(earth)</sup>
+| 12	| *Slipperiness* <sup>elm(water)</sup>
+| 13	| **Slumber** <sup>enc</sup>
+| 14	| **Thunderclap** <sup>elm(air)</sup>
+| 15	| **Weave Smoke** <sup>elm(air)</sup>
 | 16	| *Unseen Servant*
 
 **Second Level Eldritch Spells (Grey)**
 
 | # | Spell
-| :
-| 1	| **Burning Sparks** <sup>elm(fire)
-| 2	| Charm Animal <sup>enc   
-| 3	| **Circling Winds** <sup>elm(air)
-| 4	| **Earth’s Excrescence** <sup>elm(earth)
-| 5	| *Enthrall* <sup>enc
+| :- | :- 
+| 1	| **Burning Sparks** <sup>elm(fire)</sup>
+| 2	| Charm Animal <sup>enc   </sup>
+| 3	| **Circling Winds** <sup>elm(air)</sup>
+| 4	| **Earth’s Excrescence** <sup>elm(earth)</sup>
+| 5	| *Enthrall* <sup>enc</sup>
 | 6	| ESP
-| 7	| Hold Person <sup>enc
-| 8	| Mirror Image <sup>ill
-| 9	| **Illusory Interior** <sup>ill
-| 10	| Phantasmal Force <sup>ill
-| 11	| **Shrouding Fog** <sup>elm(air)
-| 12	| **Ring of Fire** <sup>elm(fire)
-| 13	| Snake Charm <sup>enc
-| 14	| **Vitriolic Infusion** <sup>elm(water) trn
-| 15	| **Voice of Persuasion** <sup>enc
-| 16	| **Wave of Earth** <sup>elm(earth)
+| 7	| Hold Person <sup>enc</sup>
+| 8	| Mirror Image <sup>ill</sup>
+| 9	| **Illusory Interior** <sup>ill</sup>
+| 10	| Phantasmal Force <sup>ill</sup>
+| 11	| **Shrouding Fog** <sup>elm(air)</sup>
+| 12	| **Ring of Fire** <sup>elm(fire)</sup>
+| 13	| Snake Charm <sup>enc</sup>
+| 14	| **Vitriolic Infusion** <sup>elm(water) trn</sup>
+| 15	| **Voice of Persuasion** <sup>enc</sup>
+| 16	| **Wave of Earth** <sup>elm(earth)</sup>
 
 **Third Level Eldritch Spells (Grey)**
 
 | # | Spell
-| :
-| 1	| **Battering Ram** <sup>elm(earth)
-| 2	| **Brazen Bull** <sup>elm(fire)
-| 3	| *Call Lightning* <sup>elm(air)
-| 4	| *Command Animals* <sup>enc  
-| 5	| *Chimerical Force* <sup>ill
-| 6	| **Earth’s Maw** <sup>elm(earth)
-| 7	| **Fangs of the Earth** <sup>elm(earth)
-| 8	| *Gaseous Form* <sup>elm(air) trn
-| 9	| *Glitterdust* <sup>elm(fire)
+| :- | :- 
+| 1	| **Battering Ram** <sup>elm(earth)</sup>
+| 2	| **Brazen Bull** <sup>elm(fire)</sup>
+| 3	| *Call Lightning* <sup>elm(air)</sup>
+| 4	| *Command Animals* <sup>enc</sup>
+| 5	| *Chimerical Force* <sup>ill</sup>
+| 6	| **Earth’s Maw** <sup>elm(earth)</sup>
+| 7	| **Fangs of the Earth** <sup>elm(earth)</sup>
+| 8	| *Gaseous Form* <sup>elm(air) trn</sup>
+| 9	| *Glitterdust* <sup>elm(fire)</sup>
 | 10	| Glyph of Warding
-| 11	| *Hypnotic Pattern* <sup>enc
-| 12	| **Noxious Cloud** <sup>elm(air)
-| 13	| **Paralyze** <sup>enc
-| 14	| **Rain of Vitriol** <sup>elm(water)
-| 15	| **Slag Armor** <sup>elm(fire)
+| 11	| *Hypnotic Pattern* <sup>enc</sup>
+| 12	| **Noxious Cloud** <sup>elm(air)</sup>
+| 13	| **Paralyze** <sup>enc</sup>
+| 14	| **Rain of Vitriol** <sup>elm(water)</sup>
+| 15	| **Slag Armor** <sup>elm(fire)</sup>
 | 16	| *Telepathy*
 
 **Fourth Level Eldritch Spells (Grey)**
 
 | # | Spell
-| :
-| 1	| *Command Plants* <sup>enc
-| 2	| *Control Animals* <sup>enc
-| 3	| **Gusting Gale** <sup>elm(air)
-| 4	| Hallucinatory Terrain <sup>ill
-| 5	| Hold Monster <sup>enc
-| 6	| *Inaudibility* <sup>ill
-| 7	| Invisibility <sup>ill
-| 8	| Massmorph <sup>ill
+| :- | :- 
+| 1	| *Command Plants* <sup>enc</sup>
+| 2	| *Control Animals* <sup>enc</sup>
+| 3	| **Gusting Gale** <sup>elm(air)</sup>
+| 4	| Hallucinatory Terrain <sup>ill</sup>
+| 5	| Hold Monster <sup>enc</sup>
+| 6	| *Inaudibility* <sup>ill</sup>
+| 7	| Invisibility <sup>ill</sup>
+| 8	| Massmorph <sup>ill</sup>
 | 9	| *Scry*
-| 10	| *Spectral Force* <sup>ill
-| 11	| Sticks to Snakes <sup>trn
+| 10	| *Spectral Force* <sup>ill</sup>
+| 11	| Sticks to Snakes <sup>trn</sup>
 | 12	| *Uncanny Gyration*
-| 13	| **Voice of Command** <sup>enc
-| 14	| **Weave Fire** <sup>elm(fire)
-| 15	| **Weave Wood** <sup>elm(earth)
-| 16	| **Weave Water** <sup>elm(water)
+| 13	| **Voice of Command** <sup>enc</sup>
+| 14	| **Weave Fire** <sup>elm(fire)</sup>
+| 15	| **Weave Wood** <sup>elm(earth)</sup>
+| 16	| **Weave Water** <sup>elm(water)</sup>
 
 **Fifth Level Eldritch Spells (Grey)**
 
 | # | Spell
-| :
-| 1	| **Blood Boil**  <sup>elm(fire)
-| 2	| *Control Winds* <sup>elm(air)
-| 3	| **Cone of Frost** <sup>elm(water)
-| 4	| *Cone of Paralysis* <sup>enc
+| :- | :- 
+| 1	| **Blood Boil**  <sup>elm(fire)</sup>
+| 2	| *Control Winds* <sup>elm(air)</sup>
+| 3	| **Cone of Frost** <sup>elm(water)</sup>
+| 4	| *Cone of Paralysis* <sup>enc</sup>
 | 5	| **Force of Impetus**
-| 6	| **Forest Enchantment** <sup>enc
-| 7	| **Forgetfulness** <sup>enc
-| 8	| **Ice Sheet** <sup>elm(water)
+| 6	| **Forest Enchantment** <sup>enc</sup>
+| 7	| **Forgetfulness** <sup>enc</sup>
+| 8	| **Ice Sheet** <sup>elm(water)</sup>
 | 9	| **Mirage ill**
-| 10	| **Pillar of Fire** <sup>elm(fire)
-| 11	| **Phoenix Aura**  <sup>elm(fire)
-| 12	| **Scouring Zephyr** <sup>elm(air)
-| 13	| **Spectral Legion** <sup>ill
+| 10	| **Pillar of Fire** <sup>elm(fire)</sup>
+| 11	| **Phoenix Aura**  <sup>elm(fire)</sup>
+| 12	| **Scouring Zephyr** <sup>elm(air)</sup>
+| 13	| **Spectral Legion** <sup>ill</sup>
 | 14	| **Summon Weather** <sup>elm(air)</sup> #
-| 15	| **Tremor** <sup>elm(earth)
-| 16	| **Weave Stone** <sup>elm(earth)
+| 15	| **Tremor** <sup>elm(earth)</sup>
+| 16	| **Weave Stone** <sup>elm(earth)</sup>
 
 **Sixth Level Eldritch Spells (Grey)**
 
 | # | Spell
-| :
-| 1	| **Arrows of the Sun**  <sup>elm(fire)
-| 2	| **Capsizing Wave** <sup>elm(water)
-| 3	| *Control Plants* <sup>enc
-| 4	| Control Weather <sup>elm(air)
-| 5	| **Cloud of Poison** <sup>elm(air)
-| 6	| **Ice Storm** <sup>elm(water)
-| 7	| **Inferno** <sup>elm(fire)
-| 8	| Lower Water <sup>elm(water)
-| 9	| Move Earth <sup>elm(earth)
-| 10	| *Permanent Illusion* <sup>ill
-| 11	| *Programmed Illusion* <sup>ill
-| 12	| **Starfall** <sup>elm(fire)
-| 13	| **Sunder Structure** <sup>elm(earth)
-| 14	| **Thunderbolt** <sup>elm(air)
-| 15	| **Transform Other** <sup>trn
-| 16	| **Weave Metal** <sup>elm(earth)
+| :- | :- 
+| 1	| **Arrows of the Sun**  <sup>elm(fire)</sup>
+| 2	| **Capsizing Wave** <sup>elm(water)</sup>
+| 3	| *Control Plants* <sup>enc</sup>
+| 4	| Control Weather <sup>elm(air)</sup>
+| 5	| **Cloud of Poison** <sup>elm(air)</sup>
+| 6	| **Ice Storm** <sup>elm(water)</sup>
+| 7	| **Inferno** <sup>elm(fire)</sup>
+| 8	| Lower Water <sup>elm(water)</sup>
+| 9	| Move Earth <sup>elm(earth)</sup>
+| 10	| *Permanent Illusion* <sup>ill</sup>
+| 11	| *Programmed Illusion* <sup>ill</sup>
+| 12	| **Starfall** <sup>elm(fire)</sup>
+| 13	| **Sunder Structure** <sup>elm(earth)</sup>
+| 14	| **Thunderbolt** <sup>elm(air)</sup>
+| 15	| **Transform Other** <sup>trn</sup>
+| 16	| **Weave Metal** <sup>elm(earth)</sup>
 
 ### White Spell List
 
 **First Level Eldritch Spells (White)**
 
 | # | Spell
-| :
-| 1	| *Angelic Choir* <sup>ill
-| 2	| **Bane-rune** <sup>trn
+| :- | :- 
+| 1	| *Angelic Choir* <sup>ill</sup>
+| 2	| **Bane-rune** <sup>trn</sup>
 | 3	| **Call of the Wolf**
-| 4	| *Chameleon* <sup>trn
+| 4	| *Chameleon* <sup>trn</sup>
 | 5	| **Counterspell**
 | 6	| **Cure Light Wounds** * #
 | 7	| *Delay Disease*
@@ -1145,25 +1146,25 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 | 12	| **Illumination**
 | 13	| Locate Animal or Plant
 | 14	| *Jump* trn
-| 15	| Magic Mouth <sup>ill
+| 15	| Magic Mouth <sup>ill</sup>
 | 16	| Magic Rope
 | 17	| *Pass Without Trace*
 | 18	| *Predict Weather*
 | 19	| Protection from Evil*
-| 20	| Purify Food and Water* <sup>trn
+| 20	| Purify Food and Water* <sup>trn</sup>
 | 21	| Remove Fear*
 | 22	| *Salving Rest*
-| 23	| *Sharpness* <sup>trn
-| 24	| *Silent Step* <sup>trn
-| 25	| *Spider Climb* <sup>trn
+| 23	| *Sharpness* <sup>trn</sup>
+| 24	| *Silent Step* <sup>trn</sup>
+| 25	| *Spider Climb* <sup>trn</sup>
 | 26	| *Trance*
-| 27	| Ventriloquism <sup>ill
+| 27	| Ventriloquism <sup>ill</sup>
 
 **Second Level Eldritch Spells (White)**
 
 | # | Spell
-| :
-| 1	| *Alter Self* <sup>trn
+| :- | :- 
+| 1	| *Alter Self* <sup>trn</sup>
 | 2	| Bless*
 | 3	| **Call of the Wolf Pack**
 | 4	| **Continual Illumination**
@@ -1178,23 +1179,23 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 | 13	| Holy Chant
 | 14	| Knock
 | 15	| Locate Object
-| 16	| **Noiselessness** <sup>ill
-| 17	| *Ogre Power* <sup>trn
-| 18	| **Resist Acid** <sup>elm(earth)
-| 19	| Resist Cold <sup>elm(water)
-| 20	| **Resist Electricity** <sup>elm(air)
-| 21	| Resist Fire <sup>elm(fire)
-| 22	| *Righteous Wrath* <sup>trn
+| 16	| **Noiselessness** <sup>ill</sup>
+| 17	| *Ogre Power* <sup>trn</sup>
+| 18	| **Resist Acid** <sup>elm(earth)</sup>
+| 19	| Resist Cold <sup>elm(water)</sup>
+| 20	| **Resist Electricity** <sup>elm(air)</sup>
+| 21	| Resist Fire <sup>elm(fire)</sup>
+| 22	| *Righteous Wrath* <sup>trn</sup>
 | 23	| Speak with Animals
-| 24	| *Swift Sword* <sup>trn
-| 25	| **Swimming** <sup>elm(water) trn
-| 26	| *Warp Wood* <sup>elm(earth) trn
+| 24	| *Swift Sword* <sup>trn</sup>
+| 25	| **Swimming** <sup>elm(water) trn</sup>
+| 26	| *Warp Wood* <sup>elm(earth) trn</sup>
 | 27	| Wizard Lock
 
 **Third Level Eldritch Spells (White)**
 
 | # | Level
-| :
+| :- | :- 
 | 1	| Augury
 | 2	| **Avian Messenger**
 | 3	| **Call of the Wild Bear**
@@ -1206,56 +1207,56 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 | 9	| *Detect Curse* *
 | 10	| Dispel Magic
 | 11	| **Eldritch Protection**
-| 12	| *Eyes of the Eagle* <sup>trn
-| 13	| *Growth* * <sup>trn
-| 14	| Growth of Animals <sup>trn
-| 15	| **Inspire Awe** * <sup>enc
+| 12	| *Eyes of the Eagle* <sup>trn</sup>
+| 13	| *Growth* * <sup>trn</sup>
+| 14	| Growth of Animals <sup>trn</sup>
+| 15	| **Inspire Awe** * <sup>enc</sup>
 | 16	| *Invulnerability to Evil*
-| 17	| *Nondetection* <sup>ill
+| 17	| *Nondetection* <sup>ill</sup>
 | 18	| Prayer
 | 19	| Protection from Evil, Sustained
 | 20	| Protection from Normal Missiles
 | 21	| Remove Curse*
 | 22	| **Shared Dream**
-| 23	| *Skinchange* <sup>trn
+| 23	| *Skinchange* <sup>trn</sup>
 | 24	| **Spellward**
 | 25	| *Sphere of Visibility*
-| 26	| Striking <sup>trn
-| 27	| Water Breathing <sup>elm(water) trn
+| 26	| Striking <sup>trn</sup>
+| 27	| Water Breathing <sup>elm(water) trn</sup>
 
 **Fourth Level Eldritch Spells (White)**
 
 | # | Spell
-| :
+| :- | :- 
 | 1	| **Call of the Galloping Herd**
 | 2	| **Cure Serious Wounds** * #
 | 3	| **Crafting**
 | 4	| *Death Ward*
 | 5	| *Find Treasure*
-| 6	| *Giant Strength* <sup>trn
-| 7	| Growth of Plants* <sup>trn
-| 8	| **Guise Self** <sup>trn
-| 9	| **Immunity to Acid** <sup>elm(earth)
-| 10	| **Immunity to Cold** <sup>elm(water)
-| 11	| **Immunity to Electricity** <sup>elm(air)
-| 12	| **Immunity to Fire** <sup>elm(fire)
-| 13	| Infravision <sup>trn
+| 6	| *Giant Strength* <sup>trn</sup>
+| 7	| Growth of Plants* <sup>trn</sup>
+| 8	| **Guise Self** <sup>trn</sup>
+| 9	| **Immunity to Acid** <sup>elm(earth)</sup>
+| 10	| **Immunity to Cold** <sup>elm(water)</sup>
+| 11	| **Immunity to Electricity** <sup>elm(air)</sup>
+| 12	| **Immunity to Fire** <sup>elm(fire)</sup>
+| 13	| Infravision <sup>trn</sup>
 | 14	| Levitate
 | 15	| *Minor Globe of Invulnerability*
 | 16	| Neutralize Poison*
 | 17	| **Safe Travels**
 | 18	| **Spellward Other**
-| 19	| *Smite Undead* * <sup>nec
+| 19	| *Smite Undead* * <sup>nec</sup>
 | 20	| Speak with Plants
 | 21	| Vigor
-| 22	| *Water Walking* <sup>elm(water)
+| 22	| *Water Walking* <sup>elm(water)</sup>
 
 **Fifth Level Eldritch Spells (White)**
 
 | # | Spell
-| :
-| 1	| **Angelic Aura** <sup>nec
-| 2	| **Bath of the Goddess** <sup>trn
+| :- | :- 
+| 1	| **Angelic Aura** <sup>nec</sup>
+| 2	| **Bath of the Goddess** <sup>trn</sup>
 | 3	| **Call of the Great Cats**
 | 4	| **Call of the Ancient Tusk**
 | 5	| **Cure Critical Wounds** * #
@@ -1264,7 +1265,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 | 8	| Dispel Evil
 | 9	| Divination
 | 10	| *Fate*
-| 11	|** Guise Other** <sup>trn
+| 11	|** Guise Other** <sup>trn</sup>
 | 12	| Haste
 | 13	| **Healing Circle**
 | 14	| **Lay of the Land**
@@ -1272,15 +1273,15 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 | 16	| *Protection from Normal Weapons*
 | 17	| **Spirit Walk**
 | 18	| *Strength of Mind* *
-| 19	| Transmute Rock to Mud* <sup>elm(earth) trn
+| 19	| Transmute Rock to Mud* <sup>elm(earth) trn</sup>
 | 20	| True Seeing
-| 21	| **Turn to Dust** <sup>dth
-| 22	| *Winged Flight* <sup>trn
+| 21	| **Turn to Dust** <sup>dth</sup>
+| 22	| *Winged Flight* <sup>trn</sup>
 
 **Sixth Level Eldritch Spells (White)**
 
 | # | Spell
-| :
+| :- | :- 
 | 1	| Anti-Magic Shell
 | 2	| **Atonement** ǂ #  
 | 3	| **Banner of Invincibility**
@@ -1296,50 +1297,50 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 | 13	| **Locate Distant Object**
 | 14	| **Prophetic Dream**
 | 15	| **Protection from Blast, Sustained**
-| 16	| Projected Image <sup>ill
+| 16	| Projected Image <sup>ill</sup>
 | 17	| Reincarnation
-| 18	| Remove Geas* <sup>enc
+| 18	| Remove Geas* <sup>enc</sup>
 | 19	| **Spellwarded Zone**
-| 20	| Stone to Flesh* <sup>trn
-| 21	| **Transform Self** <sup>trn
-| 22	| *Trollblood* <sup>trn
+| 20	| Stone to Flesh* <sup>trn</sup>
+| 21	| **Transform Self** <sup>trn</sup>
+| 22	| *Trollblood* <sup>trn</sup>
 
 ### Ritual Spell List
 
 **Seventh Level Eldritch Rituals**
 
 | # | Spell
-| :
+| :- | :- 
 | 1	| *Cancellation*
 | 2	| Commune
-| 3	| *Energy Drain* <sup>dth nec
-| 4	| Harvest* <sup>elm(earth)
-| 5	| **Holy Word** * <sup>dth enc
+| 3	| *Energy Drain* <sup>dth nec</sup>
+| 4	| Harvest* <sup>elm(earth)</sup>
+| 5	| **Holy Word** * <sup>dth enc</sup>
 | 6	| Restore Life and Limb
 
 
 **Eight Level Eldritch Rituals**
 
 | # | Spell
-| :
-| 1	| *Life Trapping* <sup>nec
+| :- | :- 
+| 1	| *Life Trapping* <sup>nec</sup>
 | 2	| Permanency
-| 3	| *Regeneration* <sup>dth
-| 4	| Resurrection <sup>dth
-| 5	| *Summon Efreeti* <sup>elm(fire)
-| 6	| **Symbol** <sup>dth
+| 3	| *Regeneration* <sup>dth</sup>
+| 4	| Resurrection <sup>dth</sup>
+| 5	| *Summon Efreeti* <sup>elm(fire)</sup>
+| 6	| **Symbol** <sup>dth</sup>
 
 
 **Ninth Level Eldritch Rituals**
 
 | # | Spell
-| :
-| 1	| *Cataclysm* <sup>elm (any)
+| :- | :- 
+| 1	| *Cataclysm* <sup>elm (any)</sup>
 | 2	| **Gate**
 | 3	| **Lair of Power**
 | 4	| *Miracle*
-| 5	| *Plague* <sup>dth
-| 6	| *Undead Legion* <sup>nec
+| 5	| *Plague* <sup>dth</sup>
+| 6	| *Undead Legion* <sup>nec</sup>
 
 ### New and Updated Spells
 
@@ -1358,31 +1359,35 @@ This spell creates a glowing aura of empyrean power around the caster in a 15’
 | :-------- | :---
 | Eldritch  | 1 (Grey)
 | Duration: | 1 turn
+
 This spell creates a false sound. The sound can be centered anywhere within range, and within that range the sound can fluctuate and move, imitating approaching or receding footsteps, laughter, voices, and other possibilities. The sound produced can be as loud as the noise produced by thirty man-sized creatures. The auditory illusion does not have to be human-like, but could be animal or monster sounds. The Judge should determine how much sound and how many individuals it might represent. For instance, the sounds of thirty humans might be approximately that of sixty children, or eight ogres. Creatures who hear the sound are allowed a saving throw versus Spells to realize that the effect is illusory, but only if they actively attempt to disbelieve.
 
 #### Arrows of the Sun
 
 | Range:    | 120’
-| :
+| :-------- | :---
 | Eldritch  | 6 (Grey)
 | Duration: | 1 round
+
 This spell sets aflame the nocked arrows of friendly archers within range. Up to 20 arrows of the sun can be created per caster level.  An arrow of the sun deals an extra 1d6 points of fire damage on a successful attack. If an arrow of the sun is not immediately shot, its flame extinguishes at the end of the round, returning the arrow to an ordinary weapon.
 
 This spell was created for battlefield use. In Domains at War: Battles, it can affect a friendly bow-equipped unit within six hexes of the caster’s hex.  That unit deals an extra point of damage on each successful bow attack throw during its next attack sequence.
 
 #### Atonement
 | Range:    |	0’
-| :
+| :-------- | :---
 | Eldritch  | 6 (White)
 | Duration: |	permanent
+
 This spell removes the burden of evil acts or misdeeds from the subject. If the subject has suffered an involuntary alignment change due to magic, atonement will immediately restore the character’s original alignment. If the subject has suffered an alignment change due to accumulated corruption, atonement requires a period of spiritual purity, during which the subject must avoid any Chaotic actions and any further corruption. If the subject remains spiritually pure for a number of weeks equal to his number of accumulated corruption points, the atonement reduces his accumulated corruption by his Wisdom score and either restores his original alignment or removes one corrupting weakness. A subject can make another atonement to continue to reduce his corruption only after gaining a level of experience without acquiring any further corruption. Atonement is a complex spell requiring 1 turn to cast.
 
 #### Avian Messenger
 
 | Range:  |	special
-| :
+| :-------- | :---
 | Eldritch  | 3 (White)
 | Duration: |	12 hours
+
 This spell allows the caster to relay a message to a designated recipient by means of an avian messenger. The messenger will be a small winged creature capable of long-distance flight. The spell will conscript the nearest suitable creature to serve as the avian messenger so it might be, e.g., a pigeon, a raven, a bat, or even a dragonfly, depending on what is nearby when the spell is cast. As soon as the spell is cast, the avian messenger will begin traveling to the caster, typically arriving within 2d6 rounds. If the avian messenger is somehow prevented from reaching the caster (e.g. if he is imprisoned deep underground), it will circle in the vicinity until it is able to reach him or until the spell expires.
 
 Once the avian messenger reaches the caster, it will wait up to 10 minutes (one turn) for the caster to whisper his desired message into its ear. If the caster fails to whisper a message into the messenger’s ear within 10 minutes, the spell ends and the creature flies off.  The avian messenger can understand any language(s) the caster speaks, and remember a message up to 10 seconds (one round) long per level of the caster.
@@ -1392,16 +1397,18 @@ Once the caster has finished whispering his message, he must designate a recipie
 #### Bane-rune
 
 | Range:    | touch
-| :
+| :-------- | :---
 | Eldritch  | 1 (White)
 | Duration: | 1 turn
+
 By magically inscribing a baleful glyph onto the striking head of a weapon, this spell temporarily enhances it to the equivalent of a magic weapon +2 against a particular type of creature or being, choosing from animals, beastmen, enchanted creatures, dragons, fantastic creatures (excluding dragons), giants, oozes, undead, and vermin. The caster must specify the type of creature affected. Weapons that are already enchanted gain an additional +2 against the type of creature while the spell is in effect. A single casting will effect 20 arrows, 2 one-handed weapons, or 1 two-handed weapon.
 
 #### Banner of Invincibility
 | Range:    | touch
-| :
+| :-------- | :---
 | Eldritch  | 6 (White)
 | Duration: | 1 turn
+
 This spell imbues the banner, pennant, standard , or other flag of an adventuring party or military unit with powerful protective magic. While the spell is in effect, the bearer of the flag and all friendly creatures within 10’ of the flag are immune to normal weapons. Magic or silver weapons can harm the protected creatures, but any number of normal swords, arrows, clubs, or natural weapons will be fended off. Monsters which themselves can only be affected by silver or magical weapons can still harm the protected creatures, however, as can monsters with 5 HD or more through natural ferocity.
 
 Bearing a flag counts as wielding a weapon or shield (e.g. the flag bearer can bear the flag in one hand and either wield a one-handed weapon or a shield in his other hand). The spell ends if the bearer drops the flag (voluntarily or involuntarily), if the flag is destroyed, if the spell is dispelled, or when the duration expires.
@@ -1410,9 +1417,10 @@ If used during a battle, the banner of invincibility can protect all man-sized c
  
 #### Bath of the Goddess
 | Range:    | touch
-| :
+| :-------- | :---
 | Eldritch  | 5 (White)
 | Duration: | permanent
+
 When cast, bath of the goddess instantly transforms a willing living creature into a creature of the same type but opposite sex. The creature gains all of the primary and secondary characteristics of its new sex (external and internal, including reproductive capacity if of breeding age), resembling an opposite-gender twin of its old self.
 
 If cast on a creature that has been sexually altered (e.g. a eunuch), the creature will suffer an equivalent alteration to its new form. If cast on a creature of a species that has only one sex, the spell has no effect. If cast on a creature of a species that has multiple sexes, or on an intersexed creature of a predominantly sex-binary species, the caster may choose the sex that results. (A male or female creature could be transformed into an intersexed creature by this spell if desired. It is rumored that some mystery cults require this of their high-level religious figures.)  The subject must be willing to accept the change.
@@ -1421,23 +1429,26 @@ The spell is permanent until dispelled by either dispel magic or a second castin
 
 #### Battering Ram
 | Range:| 90’
-| :
+| :-------- | :---
 |Eldritch| 3 (Grey)
 |Duration: | instantaneous
+
 With this spell, the caster smashes a wooden or stone object or structure as if with an invisible battering ram. The spell deals 1d4 shp of damage to the object or structure struck – sufficient to knock down an oak door, break off a parapet, etc. The impact of the battering ram will blast shards of stone or splinters of wood from the object structure, dealing 5d6 damage to all creatures within 5’. Affected creatures that make a successful saving throw versus Blast reduce damage by half. The battering ram cannot directly target creatures or areas of open ground. An interior floor can be targeted as a structure only if the caster is at least one story above it.
 
 #### Blindness		
 | Range:| 60’
-| :
+| :-------- | :---
 |Eldritch| 2 (Black)
 |Duration:| instantaneous
+
 This spell can magically destroy a target creature’s eyes. If the target fails a saving throw versus Death, it is rendered permanently blind. A blinded creature suffers -2 to surprise rolls and -4 to all attack throws and has its movement reduced to ¼ its normal rate. Only cure blindness or other magical healing can restore the target’s sight.
 
 #### Body Swap
 |Range: |	touch
-|:
+|:-------- | :---
 |Eldritch| 6 (Black)
 |Duration:|	permanent
+
 This spell can cause a pair of living creatures to permanently take on each other’s forms. Each target gains the physical capabilities, statistics, physical attacks, and special abilities of the new form while retaining its own mental abilities. Each target retains the same number of hit points it previously had, regardless of the Hit Dice of the form assumed.
 
 Incorporeal and gaseous creatures cannot be targeted by this spell, nor can creatures with more HD than the caster’s level of experience. The caster must touch both creatures when casting the spell. Touching an unwilling creature requires a successful attack throw, so this spell is usually cast only when one or both of the creatures are willing and/or helpless. Each creature may make a saving throw versus Spells to resist the body swap. If either creature saves, the spell has no effect.
@@ -1447,9 +1458,10 @@ Once the body swap occurs, it lasts indefinitely. If dispelled by dispel magic, 
 #### Boil Blood		
 
 |Range:| 150’
-| :
+| :-------- | :---
 |Eldritch| 5 (Grey)
 | Duration:| instantaneous
+
 This spell can boil the blood of a living creature, thereby inflicting terrible wounds and great suffering, and possibly causing it to explode like an overheated furnace. The target must make a saving throw versus Blast. If the save fails, the creature suffers 8d8 points of damage and is stunned during its next initiative. If the save succeeds the creature suffers half damage and is not stunned.
 
 In either case, if the target is reduced to 0 hp or less by the spell, it detonates in an explosion of boiling blood, scalding puss, and melted organs. The explosion kills the target instantly. Each creature or object within 5’ of the exploding target suffers 1d6 points of damage, or half that on a successful saving throw versus Blast.
@@ -1457,20 +1469,22 @@ In either case, if the target is reduced to 0 hp or less by the spell, it detona
 #### Bloody Flux
 
 | Range: |90’
-| :
+| :-------- | :---
 |Eldritch| 2 (Black)
 | Duration:| special
+
 The caster calls down a bloody flux on a target creature within range. The target must make a saving throw versus Death. On a successful save, this spell has no effect. On a failed save, the target begins vomiting blood. A vomiting creature cannot take attack, cast spells, move, speak or take any other action (though it can defend itself). When its initiative number comes up, a vomiting creature suffers 1d12 points of damage from its gory retching, then makes another saving throw. If the save succeeds, the spell ends.  If the save fails, the target continues vomiting blood. The bloody flux continues until the effect is dispelled, the creature dies, or the creature successfully saves. The caster does not need to concentrate to maintain the effect.
 
 #### Burning Sparks		
 | Range:| 30’
-| :
+| :-------- | :---
 | Eldritch| 2 (Grey)
 | Duration:| instantaneous
+
 With this spell, the caster inflames an existing fire, causing it to cast out scorching embers at those nearby. All creatures within 5’ of the fire can be targeted by the spell, but the caster can select fewer targets to be harmed if he desires. The damage dealt by this spell is dependent on the size of the fire used as its source, per the accompanying table. A successful saving throw versus Blast will reduce damage by half.
 
 | Fire Size|	Damage
-| :
+| :-------- | :---
 | Candle|	1 (1 target only)
 | Torch|	1d3
 | Campfire |	1d6
@@ -1480,21 +1494,23 @@ With this spell, the caster inflames an existing fire, causing it to cast out sc
 #### Blinding Flash
 
 | Range: | 60’
-|:
+|:-------- | :---
 | Eldritch| 1 (Grey)
 | Duration: | 1 round per level
+
 When this spell is cast, a bright flash of light dazzles everything and everyone within a 10’ radius area. Creatures within the area of effect must make a saving throw versus Blast or be blinded for the duration of the spell.
 
 #### Brazen Bull
 
 |Range:| 10’
-| :
+| :-------- | :---
 | Eldritch| 3 (Grey)
 | Duration:| special
+
 This spell summons a fire elemental out of an existing source of flame within range. The AC, HD, and damage characteristics of the fire elemental are determined by the size of the fire source used to summon it. See the entry under Elementals in the Monsters chapter of ACKS for other statistics. The flame is consumed by the summoning process. By default, the shape of the summoned fire elemental is that of a brazen bull, but the elemental can take the shape of any non-flying creature held sacred by the gods of the caster’s faith.  Once the elemental appears, it serves the caster indefinitely, provided that the caster concentrates on nothing but controlling the creature. Spell casting, combat, or movement over half the normal rate results in loss of concentration. The caster, while in control of an elemental, can dismiss it to its native sphere at will (doing so on his Initiative if in combat). If the caster loses concentration, control of the conjured elemental is lost and cannot be regained. The uncontrolled elemental will immediately return to its own sphere.
 
 | Fire Size |	Elemental Characteristics
-| :
+| :-------- | :---
 | Torch |	AC 1, 1 HD, Dmg 1d3
 | Campfire |	AC 3, HD 2, Dmg 1d4
 | Small bonfire |	AC 5, HD 4, Dmg 1d6
@@ -1503,9 +1519,10 @@ This spell summons a fire elemental out of an existing source of flame within ra
 #### Call of the Ancient Tusk
 
 |Range:|	Special
-| :
+| :-------- | :---
 |Eldritch| 5 (White)|
 |Duration:|	1 day
+
 This spell calls a mastodon to the caster to serve as a companion and/or mount (see the Monsters chapter of Adventurer Conqueror King System for details). In regions where mastodons are extinct, the spell calls a very large and powerful elephant with characteristics identical to a mastodon.
 
 When called, the mastodon will travel to the caster’s destination at its wilderness movement rate. If the spell is cast in a wilderness hex of terrain with an indigenous mastodon or elephant population, the mastodon will take 1d6 turns to arrive. If the spell is cast in any other type of hex, the time to arrive is increased by 120 minutes (12 turns) per 6-mile hex between the caster’s hex and the nearest wilderness hex of native terrain. The time to arrival may be much shorter if the Judge has determined that a mastodon lair is nearby. If called while the caster is unreachable (deep in a dungeon, for example), the mastodon will travel as close as it can to the caster and then wait in that vicinity.
@@ -1517,9 +1534,10 @@ This spell does not conjure up saddle and tack, nor does it automatically grant 
 #### Call of the Galloping Herd
 
 | Range:|	Special
-| :
+| :-------- | :---
 | Eldritch | 4 (White)
 | Duration: |	1 day
+
 This spell calls one or more horses to the caster to serve as steeds for him and his companions (see the Monsters chapter of Adventurer Conqueror King System for details). The number of horses called by the spell is determined by the type of horse called and the caster’s level.
 
 The adjoining table shows the types of horses that can be called, the number of each type called by caster level. When called, the horses will travel to the caster’s destination at their wilderness movement rate. The caster can freely choose the type of horses called. If the spell is cast in a hex of inhabited terrain, or in a borderlands or wilderness hex of clear, grass, hills, or scrub terrain, the horses will take 1d6 turns to arrive. If the spell is cast in any other type of hex, the time to arrive is increased by 90 minutes (9 turns) per 6-mile hex between the caster’s hex and the nearest such hex. The time to arrival may be much shorter if the Judge has determined that a herd of horses is nearby. If called while the caster is unreachable (deep in a dungeon, for example), the horses will travel as close as they can to the caster and then wait in that vicinity.
@@ -1531,16 +1549,17 @@ This spell does *not* conjure up saddle and tack, nor does it automatically gran
 **No. Called by Caster Level**
 
 | Horse | 	7| 	8| 	9| 	10| 	11| 	12| 	13| 	14|
-| :
+| :-------- | :---
 | Light Horse| 	7| 	8| 	9| 	10| 	11| 	12| 	13| 	14|
 | Medium Horse| 	4| 	5| 	6| 	6| 	7| 	8| 	8| 	9
 | Heavy Horse| 	3| 	4| 	4| 	5| 	5| 	6| 	6| 	7
 
 #### Call of the Giant Eagle
 | Range:|	Special
-| :
+| :-------- | :---
 |Eldritch| 6 (White)
 |Duration:|	1 day
+
 This spell calls a large roc to the caster to serve as a winged steed (see the Monsters chapter of Adventurer Conqueror King System for details). When called, the roc will travel by air to the caster’s destination at its flying movement rate. If called in a 24-mile wilderness hex of mountains terrain, the roc will take 1d6 hours to arrive. If the roc is called outside a wilderness hex of mountains terrain, the time to arrive is increased by 1 hour per 24-mile hex between the caster’s hex and the nearest 24-mile wilderness hex of mountains terrain. If called while the caster is unreachable (deep in a dungeon, for example), the roc will travel as close as it can to the caster and then circle the sky in that vicinity.
 
 For the duration of the spell, the roc will understand the spellcaster’s speech and - provided that the caster is Lawful - will serve as a loyal mount for him or another that the caster directs. The roc will only grudgingly serve a Neutral caster or rider, however, and if asked to perform a Chaotic action or assist a Chaotic creature it will immediately depart. Otherwise, the spell persists until the roc is slain, the spell is dispelled, or one day passes (at which time the roc departs).  If the spell is cast again when the roc is about to depart, it will remain for another day.
@@ -1550,9 +1569,10 @@ This spell does not conjure up saddle and tack, nor does it automatically grant 
 #### Call of the Great Cats
 
 |Range:|	Special
-| :
+| :-------- | :---
 | Eldritch| 5 (White)
 |Duration:|	1 day
+
 This spell calls one or more large cats to the caster to serve as companions (see the Monsters chapter of Adventurer Conqueror King System for details). The number of cats called by the spell is determined by the type of cat called and the caster’s level.
 
 The adjoining table shows the types of cats that can be called, the number of each type called by caster level, and the native terrain for each type. When called, the cats will travel to the caster’s destination at their wilderness movement rate. The caster can freely choose the type of cats called, but the time required for them to arrive will be greater if the spell is cast outside of their native terrain because the cats will have further to travel. If the spell is cast in a wilderness hex of their native terrain, the cats will take 1d6 turns to arrive. If the spell is cast in any other type of hex, the time to arrive is increased by 90 minutes (9 turns) per 6-mile hex between the caster’s hex and the nearest wilderness hex of native terrain. The time to arrival may be much shorter if the Judge has determined that a lair of large cats is nearby. If called while the caster is unreachable (deep in a dungeon, for example), the cats will travel as close as they can to the caster and then wait in that vicinity.
@@ -1562,7 +1582,7 @@ For the duration of the spell, the cats will understand the spellcaster’s spee
 **No. Called by Caster Level**
 
 | Type of Large Cat |	9|	10|	11|	12|	13|	14|	Native Terrain
-|:
+|:-------- | :---
 | Mountain Lion |	5|	6|	6|	7|	7|	8|	Hills, Mountains, Barren
 |Panther|	4|	5|	6|	6|	6|	7|	Clear, Grass, Scrub, Woods, River, Jungle
 |Lion|	4|	4|	4|	5|	5|	6|	Clear, Grass, Scrub, Desert, Jungle
@@ -1571,45 +1591,50 @@ For the duration of the spell, the cats will understand the spellcaster’s spee
 #### Call of the Leviathan
 
 |Range:|	Special
-| :
+| :-------- | :---
 | Eldritch| 6 (White)
 |Duration:|	1 day
+
 This spell calls a sperm whale to the caster to serve as a companion (see the Monsters chapter of Adventurer Conqueror King System for details). When called, the sperm whale will travel to the caster’s destination at its wilderness movement rate. The spell can only be cast in an ocean hex, or from a point in a hex adjacent to an ocean hex with line of sight to the ocean. The whale will take 4d6 turns to arrive. The time to arrival may be much shorter if the Judge has determined that a pod of whales is nearby. The whale will travel as close as it can to the caster (just off shore, near his boat, etc.) and then wait in that vicinity. For the duration of the spell, the whale will understand the spellcaster’s speech and serve as his loyal friend and companion. It will sing for him, allow him to ride on it as it swims through the waves, and even attack enemy vessels or sea monsters at his request. The spell persists until the whale is slain, the spell is dispelled, or either one day passes (at which time the whale departs). The whale will also depart after any fight in which it loses ½ or more of its hit points. If the spell is cast again when the whale is about to depart, it will remain for another day.
 
 #### Call of the Wild Bear
 |Range:|	Special
-| :
+| :-------- | :---
 |Eldritch| 3 (White)
 |Duration:|	1 day
+
 This spell calls a bear to the caster to serve as a companion (see the Monsters chapter of Adventurer Conqueror King System for details). The adjoining table shows the types of bears that can be called and the native terrain for each type. When called, the bear will travel to the caster’s destination at its wilderness movement rate. The caster can freely choose the type of bear called, but the time required for it to arrive will be greater if the spell is cast outside of its native terrain because the bear will have further to travel. If the spell is cast in a wilderness hex of its native terrain, the bear will take 1d6 turns to arrive. If the spell is cast in any other type of hex, the time to arrive is increased by 120 minutes (12 turns) per 6-mile hex between the caster’s hex and the nearest wilderness hex of native terrain. The time to arrival may be much shorter if the Judge has determined that a bear den is nearby. If called while the caster is unreachable (deep in a dungeon, for example), the bear will travel as close as it can to the caster and then wait in that vicinity.
 
 For the duration of the spell, the bear will understand the spellcaster’s speech and serve as his loyal friend and companion. The spell persists until the bear is slain, the spell is dispelled, or one day passes (at which time the bear departs). If the spell is cast again when the bear is about to depart, it will remain for another day.
 
 |Type of Bear|	Native Terrain
-|:
+|:-------- | :---
 |Black bear|	River
 |Grizzly bear|	Woods, Hills
 |Cave bear|	Mountains, Barrens
 
 #### Call of the Wolf
 | Range: |	Special
-| :
+| :-------- | :---
 | Eldritch| 1 (White)
 | Duration:|	1 day
+
 This spell calls a wolf to the caster to serve as a companion (see the Monsters chapter of Adventurer Conqueror King System for details). When called, the wolf will travel to the caster’s destination at its wilderness movement rate. If the spell is cast in a wilderness hex of a wolf’s native terrain (woods, hills, or mountains), the wolf will take 1d6 turns to arrive. If the spell is cast in any other type of hex, the time to arrive is increased by 90 minutes (9 turns) per 6-mile hex between the caster’s hex and the nearest wilderness hex of native terrain. The time to arrival may be much shorter if the Judge has determined that a wolf den is nearby. If called while the caster is unreachable (deep in a dungeon, for example), the wolf will travel as close as it can to the caster and then wait in that vicinity. For the duration of the spell, the wolf will understand the spellcaster’s speech and serve as his loyal friend and companion. The spell persists until the wolf is slain, the spell is dispelled, or one day passes (at which time the wolf departs). If the spell is cast again when the wolf is about to depart, it will remain for another day.
 
 #### Call of the Wolf Pack
 |Range:|	Special
-| :
+| :-------- | :---
 | Eldritch| 2 (White)
 | Duration:|	1 day
+
 This spell calls a pack of wolves to the caster to serve as companions (see the Monsters chapter of Adventurer Conqueror King System for details). One wolf will respond to the call plus one additional wolf for every two levels of experience the caster possesses, rounded down. When called, the wolves will travel to the caster’s destination at their wilderness movement rate. If called in a wilderness hex of their native terrain (woods, hills, or mountains), the wolves will take 1d6 turns to arrive. If the spell is cast in any other type of hex, the time to arrive is increased by 90 minutes (9 turns) per 6-mile hex between the caster’s hex and the nearest wilderness hex of native terrain.  The time to arrival may be much shorter if the Judge has determined that a wolf den is nearby. If called while the caster is unreachable (deep in a dungeon, for example), the wolves will travel as close as it can to the caster and then wait in that vicinity. For the duration of the spell, the wolves will understand the spellcaster’s speech and serve as his loyal friends and companions. The spell persists until all the wolves are slain, the spell is dispelled, or one day passes (at which time the wolf departs). If the spell is cast again when the wolves are about to depart, they will remain for another day.
  
 #### Capsizing Wave
 | Range:| 150’
-| :
+| :-------- | :---
 |Eldritch| 6 (Grey)
 |Duration:| instantaneous
+
 This spell smashes a sea vessel within range with a capsizing wave capable of sinking even the largest sailing ships. The wave is approximately 150’ long, 15’ high, and 4’ thick. On his initiative number, the captain of the target vessel may use his action to  attempt to steer through the wave. Steering through the wave requires a Seafaring proficiency throw. The target value of the proficiency throw is based on the speed of the vessel, as shown on the accompanying table. Master mariners (characters with Seafaring rank 3) gain a +5 bonus on the throw.
 
 If the captain does not attempt to steer the vessel through the wave, or if the captain’s proficiency throw fails, the vessel is struck on its broadside by the wave. It suffers 50-80 (1d4+4 x 10) shp of damage. Each crewmember on deck must make a saving throw versus Blast. Crewmembers that fail their saving throws suffer 1d6 points of damage and are swept overboard. If the captain’s proficiency throw succeeds, the vessel suffers only 25-40 (1d4+4 x 5) shp of damage, and the crewmembers are not affected.
@@ -1620,7 +1645,7 @@ EXAMPLE: Ra-Ramses sees Raknar the Red-Handed sailing towards his island sanctum
 Meanwhile, Raknar and his 75 crew must each make a saving throw versus Blast. Those that fail suffer 1d6 points of damage and are swept overboard. Raknar’s ill-luck continues as he fails his saving throw. The barbarian is carried into the murky waters…
 
 | Vessel Movement Rate |	Seafaring Throw
-| :
+| :-------- | :---
 | 150’/round or faster|	5+
 |120’/round|	11+
 |90’/round|	13+
@@ -1631,27 +1656,30 @@ Meanwhile, Raknar and his 75 crew must each make a saving throw versus Blast. Th
 #### Choking Grip		
 
 |Range:| 30’
-| :
+| :-------- | :---
 |Eldritch| 1 (Black)
 |Duration: |special
+
 This spell creates an invisible grip around the throat of the target creature. The target must make a saving throw versus Death. If the target’s saving throw succeeds, it resists the spell. If the target’s saving throw fails, it begins choking. A choking creature suffers 1d6 points of damage and cannot attack, cast spells, move, speak, or take any other action (although it can still defend itself).
 
 When the caster’s next initiative number comes up, if the caster maintains concentration on the spell, then the choking target must make another saving throw. On a successful save, the spell ends. On a failed save, the target continues choking. It suffers another 1d6 points of damage and still cannot take any action.  The choking grip lasts until dispelled, the caster stops concentrating upon it, or the target makes a successful saving throw and ends the spell.
 
 #### Circle of Agony		
 |Range:| 30’
-| :
+| :-------- | :---
 |Eldritch| 5 (Black)
 |Duration:| special
+
 This spell can inflict agonizing pain on one or more target creatures within range. The caster may target one creature per level of experience. Each target must make a saving throw versus Death. On a successful save, the spell has no effect on the target. On a failed save, the target is agonized. While agonized, a creature is helpless and cannot attack, cast spells, or move. It gains no benefit to its AC from its DEX or shield (if any). It can be ambushed or backstabbed by creatures capable of doing so. All attack throws against agonized creatures gain a +2 bonus, or a +4 bonus if the attacker ambushes or backstabs it. The agonized creature is dealt the attack’s ordinary damage, or the attack’s ordinary damage multiplied by two or more from ambush or backstab. Melee attack throws against agonized creatures automatically hit if the If the attacker is of the same or larger size category than the helpless creature. If the attacker is not engaged, and his attack is capable of damaging the agonized creature, then the agonized creature may be automatically slain. The attacker may not cleave thereafter, however. Otherwise, the helpless creature may be dealt the attack’s ordinary damage.
 
 When its initiative number comes up, an agonized creature suffers 1d4 points of damage from the body-wracking pain, then makes another saving throw. If the save succeeds, the spell ends. If the save fails, the creature remains agonized. The effects of a circle of agony continue until dispelled, or the target(s) either die(s) or successfully save(s). The caster does not need to concentrate to maintain the effects.
 
 #### Circling Winds		
 |Range:| 0’
-|:
+|:-------- | :---
 |Eldritch |2 (Grey)		
 |Duration: |concentration
+
 The caster raises up a sphere of howling winds that surrounds him in a 10’ radius. Any creatures approaching within 5’ of the exterior of the circling winds are subject to attack as if from a 2 HD monster with one attack dealing 1d8 points of damage. Any creature attempting to pass into the circling winds must make a saving throw versus Paralysis or be forced back 5’. (Creatures of Large size or greater gain a +4 bonus to the saving throw per size category above man-sized.)  The circling winds also completely block small non-magical missile attacks, such as normal arrows, sling bullets, crossbow bolts, and thrown daggers, from passing inside. The circling winds do not block missile attacks made by creatures inside the winds, nor do they prevent creatures inside the winds from exiting. The circling winds may be evoked so that they appear where creatures already are; creatures who make a successful saving throw versus Blast are able to dive into or out of the circling winds (their choice) without being harmed. The circling winds spell lasts as long as the caster remains stationary and concentrates on it, unless dispelled.
 
 ####Clairaudience, Greater
