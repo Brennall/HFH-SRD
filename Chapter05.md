@@ -13,7 +13,7 @@ Those who see an illusion believe it to be real unless they succeed on a saving 
 EXAMPLE: A fighter is struck by an illusion of a fireball conjured by phantasmal force. Because phantasmal force does not create the sounds, smells, textures, or temperatures of an actual fireball, the fighter gains a +16 bonus on his saving throw.
 
 
-## Eldritch Magic
+## Eldritch Magic [eldritch-magic] ##
 
 Magic in heroic fantasy is more subtle than the spectacular effects which are commonplace in traditional ACKS games. Spells tend to work with the existing environment, rather than conjure effects from thin air. Enchantments and illusion are commonplace, while elemental blasts are less so. This subtle, but powerful magic, is called eldritch magic, and it constitutes a new type of magic that has facets of both arcane and divine magic.
 
