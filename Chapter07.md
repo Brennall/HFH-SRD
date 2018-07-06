@@ -654,7 +654,7 @@ Each day that the iron crown of the sorcerer-kings is worn, its wearer accumulat
 
 A bladedancer or warmistress equipped with at least two of the four components of the panoply gains the ability to cast swift sword once per day. If equipped with at least three of the four components, she gains the ability to cast striking once per day. If equipped with the entire panoply, she gains the ability to cast winged flight once per day. (The set power cost was calculated by dividing the base cost of each of the three daily effects by the corresponding number of items in the set required to access that power, then applying that cost to all items in the set.)
 
-### Potions, Philters, & Oils
+### Potions, Philters, and Oils
 
 Drinking a potion causes the listed spell effect to target the imbiber for a duration of 1d6+6 turns, or the duration of the spell granted by the potion, whichever is shorter. There are three exceptions to this rule.
 
