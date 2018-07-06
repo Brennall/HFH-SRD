@@ -2069,7 +2069,7 @@ Some proficiencies that appear in the ACKS Core Rules and ACKS Player’s Compan
 **Proficiencies Gained per Level (C=Class, G=General, B=Bonus Class)**
 
 | Classes       | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14
-| :------------ |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--
+| :------------ |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--
 | Beastmaster   |	C+G|	|	C|	|	G|	C	|	|	|C+G| | |	C |	G  |	|
 | Berserker     |	C+G|	|	C|	|	G|	C	|	|	|C+G| | |	C |	G  |	|
 | Chosen        |	C+G|	|	C|	|	G|	C	|	|	|C+G| | |	C |	G  |	|
