@@ -1929,7 +1929,7 @@ The caster may also invent his own whisper, but it should be no more powerful th
 This spell can magically destroys a target creature’s ears. If the target fails a saving throw versus Death, it is rendered permanently deaf. A deaf creature is easy to sneak up on, and suffers a -2 penalty to surprise rolls. Due to its inability to hear itself, it has a -4 penalty on ceremony throws and spellsinging throws. It has a 2 in 6 chance of failing any attempt to cast a spell, read a scroll, or utter a command word. Other penalties may apply in certain social settings or circumstances at the Judge’s discretion. Only magical healing can restore the hearing of a target affected by this spell.
 
 #### Deathless Minion
-|Range: 	30’
+|Range: |	30’
 | :-------- | :---
 |Arcane| 2
 |Duration:|	1 hour
