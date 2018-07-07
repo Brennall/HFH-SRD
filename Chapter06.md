@@ -489,21 +489,21 @@ Like other constrictor snakes, the constricting viper hunts by biting its prey, 
 On a successful bite, the giant constricting viper also automatically constricts the bitten victim for an additional 5d6 points of damage. Thereafter, constriction continues on subsequent rounds. A constricted character may break the snake’s hold with a successful saving throw versus Paralysis at -4; breaking the hold takes a full round during which no other actions can be made. (Maddened characters will not attempt to break free.) Due to its great size, the  constricting viper can simultaneously constrict up two different man-sized creatures.
 
 #### STYMPH
-|% In Lair: 	40%
+|% In Lair: |	40%
 |:- | :-
-|Dungeon Enc:	Flock (1d12) / Nest (4d12)
-|Wilderness Enc:	Storm (4d12) / Nest (4d12)
-|Alignment: 	Neutral
-|Movement: 	30’ (10’)
-|Fly	360’ (120’)
-|Armor Class: 	5
-|Hit Dice: 	1**
-|Attacks:		2 (flung flight feathers) or 1 (beak)
-|Damage: 	1d4 or 1d6
-|Save: 		F2
-|Morale: 		-2
-|Treasure Type: 	F
-|XP: 		16
+|Dungeon Enc:	|Flock (1d12) / Nest (4d12)
+|Wilderness Enc:|	Storm (4d12) / Nest (4d12)
+|Alignment: |	Neutral
+|Movement (Walking): |	30’ (10’)
+|Movement (Flying): |	360’ (120’)
+|Armor Class: |	5
+|Hit Dice: |	1**
+|Attacks:	|	2 (flung flight feathers) or 1 (beak)
+|Damage: |	1d4 or 1d6
+|Save: |		F2
+|Morale: 	|	-2
+|Treasure Type: |	F
+|XP: |		16
 
 Stymphs are man-eating cranes with brazen beaks and feathers. Their flight feathers are particularly large and sharp, and can be flung like darts to wound their prey. A stymph can throw two flight feathers per round while airborne. Flight feathers can hit targets up to 180’ away and deal 1d4 points of damage each. A stymph can throw up to 6 flight feathers without losing its capability to flight; a stymph will typically have 2d3 feathers available at the start of an encounter. Once a stymph has flung all of its available feathers, it will attack its prey in melee with its beak. The beak is armor-piercing, granting a +2 bonus to the stymph’s attack throws.
 
