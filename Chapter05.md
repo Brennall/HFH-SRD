@@ -1682,42 +1682,47 @@ When its initiative number comes up, an agonized creature suffers 1d4 points of 
 
 The caster raises up a sphere of howling winds that surrounds him in a 10’ radius. Any creatures approaching within 5’ of the exterior of the circling winds are subject to attack as if from a 2 HD monster with one attack dealing 1d8 points of damage. Any creature attempting to pass into the circling winds must make a saving throw versus Paralysis or be forced back 5’. (Creatures of Large size or greater gain a +4 bonus to the saving throw per size category above man-sized.)  The circling winds also completely block small non-magical missile attacks, such as normal arrows, sling bullets, crossbow bolts, and thrown daggers, from passing inside. The circling winds do not block missile attacks made by creatures inside the winds, nor do they prevent creatures inside the winds from exiting. The circling winds may be evoked so that they appear where creatures already are; creatures who make a successful saving throw versus Blast are able to dive into or out of the circling winds (their choice) without being harmed. The circling winds spell lasts as long as the caster remains stationary and concentrates on it, unless dispelled.
 
-####Clairaudience, Greater
+#### Clairaudience, Greater
 
 |Range:| 500 miles
-| :
+| :-------- | :---
 |Eldritch| 6 (White)
 |Duration:| concentration
+
 This spell enables the caster to hear the sounds in another area through the ears of a selected type of living creatures, such as bats, hawks, or rats. The caster must specify the direction and approximate distance, up to a maximum of 500 miles away, of the first creature he wishes to clairaudiently contact. If there is no appropriate creature in that area, the next closest creature of the appropriate type will be contacted instead. No saving throw is allowed, and the subject is unaware that it is being so used. The caster may choose another subject creature after at least a turn has passed, enabling multiple locations to be heard. If the subject creature moves out of range, contact is lost, and the caster must choose another subject in this case. A lead barrier between the caster and the subject creature(s) will block the effect. This spell is difficult to cast, taking one full turn, and is so draining that it can be used but once per day.
 
 #### Clairvoyance, Greater
 
 |Range:	|500 miles
-| :
+| :-------- | :---
 |Eldritch| 6 (White)
 | Duration:|	concentration
+
 This spell enables the caster to see into other areas through the eyes of a selected type of living creatures, such as bats, hawks, or rats. The caster must specify the direction and approximate distance, up to a maximum of 500 miles away, of the first creature he wishes to clairvoyantly contact. If there is no appropriate creature in that area, the next closest creature of the appropriate type will be contacted instead. No saving throw is allowed, and the subject is unaware that it is being so used. The caster may choose another subject creature after at least a turn has passed, enabling multiple locations to be viewed. If the subject creature moves out of range, contact is lost, and the caster must choose another subject in this case. A lead barrier between the caster and the subject creature(s) will block the effect. This spell is difficult to cast, taking one full turn, and is so draining that it can be used but once per day.
 
 #### Cloud of Poison
 
 |Range:|	special
-| :
+| :-------- | :---
 | Eldritch| 6 (Grey)
 | Duration:|	 6 turns
+
 This spell draws together a cloud of poison from the foul miasmas of the atmosphere. Because the spell draws its power from natural miasmas, it can only be cast outdoors or in a ventilated room. The cloud is 30’ in diameter and spreads out from the caster’s fingertips. The cloud moves at a rate of 20' per round away from the caster. The poison gas is heavier than air and will sink down holes or slide downhill; it is broken up by trees or thick vegetation. Each round they are within the cloud, creatures of fewer than 5 Hit Dice or levels must save versus Poison or die, taking 1 point of damage even if the save is successful. Creatures having 5 or more Hit Dice or levels take 1 point of damage each round they are within the cloud. The cloud persists until dispelled by magic, dispersed by strong winds, or 6 turns elapse.
  
 #### Cone of Frost		
 |Range:| 0’
-| :
+| :-------- | :---
 |Eldritch| 5 (Grey)
 |Duration: |instantaneous
+
 This spell conjures a cone of freezing water 60’ long and 30’ wide stretching from the caster’s hands. The cone of frost deals 6d4 points of damage to all creatures within its area of effect. Creatures who make a successful saving throw versus Blast suffer half damage. The cone of frost also damages objects in the area and extinguishes any small normal fires (campfires, torches, etc.).
 
 #### Conjure Cacodemon Spawm
 |Range: |	240'
-| :
+| :-------- | :---
 |Eldritch| 1 (Black)
 | Duration: |	special (1 day)
+
 A portal to the Outer Darkness is opened, allowing the spellcaster to conjure a cacodemon spawn with 2 HD and two special abilities. Only one cacodemon spawn may be conjured by the caster in a given day. Once the cacodemon spawn appears, it serves the caster for up to one full day, provided that the caster concentrates on nothing but controlling the creature. Spell casting, combat, or movement over half the normal rate results in loss of concentration. The caster, while in control of the cacodemon spawn, can dismiss it to its native sphere at will (doing so on his Initiative if in combat). If the caster loses concentration, control of the conjured cacodemon spawn is lost and cannot be regained. The creature then seeks to attack the caster and all others in its path. Only dispel magic or dispel evil will banish the cacodemon spawn once control has been lost. An uncontrolled cacodemon spawn may, of course, choose to return to its home sphere on its own; such creatures will never choose to remain away from their sphere of existence for long.
 
 Cacodemons are highly variable in form and abilities. The first time this spell is cast, the caster should choose the form of the cacodemon spawn conjured, while the Judge should roll or choose its special abilities. The cacodemon spawn should then be assigned a name for later reference. Thereafter, the caster can choose to conjure any named spawn he has previously conjured and safely dispelled, or conjure a new spawn with a different form and special abilities. See the Cacodemon entry in the Heroic Monsters chapter for statistics for more information.
@@ -1727,49 +1732,55 @@ EXAMPLE: The first time Ra-Ramses conjures a cacodemon spawn, he selects the mon
 #### Conjure Elemental		
 
 | Range:|	240'
-| :
+| :-------- | :---
 | Eldritch| 5 (Black)
 |Duration:|	special (indefinite)
+
 A portal to one of the Elemental Spheres of Air, Earth, Fire, or Water is opened, allowing the spellcaster to conjure a 16-HD elemental from that sphere. See the entry under Elementals in the Monsters chapter of ACKS for statistics for the conjured elemental. At most one elemental of each type may be conjured by the caster in a given day. Once the elemental appears, it serves the caster indefinitely, provided that the caster concentrates on nothing but controlling the creature. Spell casting, combat, or movement over half the normal rate results in loss of concentration. The caster, while in control of an elemental, can dismiss it to its native sphere at will (doing so on his Initiative if in combat). If the caster loses concentration, control of the conjured elemental is lost and cannot be regained. The creature then seeks to attack the caster and all others in its path. Only dispel magic or dispel evil will banish the elemental once control has been lost. An uncontrolled elemental may, of course, choose to return to its home sphere on its own; such creatures will never choose to remain away from their sphere of existence for long.
 
 #### Conjure Dybbuk
 |Range:|	240'
-| :
+| :-------- | :---
 | Eldritch| 4 (Black)
 |Duration:|	special (12 turns)
+
 A portal to the Outer Darkness is opened, allowing the spellcaster to conjure a dybbuk with 14 HD and three special abilities. Only one dybbuk may be conjured by the caster in a given day. Once the dybbuk appears, it serves the caster for up to two hours (12 turns), provided that the caster concentrates on nothing but controlling the creature. This spell is otherwise identical to conjure cacodemon spawn.
 
 #### Conjure Fiend
 |Range:|	240'
-|:
+|:-------- | :---
 |Eldritch| 6 (Black)
 |Duration:|	special (12 turns)
+
 A portal to the Outer Darkness is opened, allowing the spellcaster to conjure a fiend with 18 HD and four special abilities. Only one fiend may be conjured by the caster in a given day. Once the fiend appears, it serves the caster for up to two hours (12 turns), provided that the caster concentrates on nothing but controlling the creature. This spell is otherwise identical to conjure cacodemon spawn.
 
 #### Conjure Genie
 |Range:|	240'
-| :
+| :-------- | :---
 |Eldritch| 6 (Black)
 |Duration:|	special (indefinite)
+
 A portal to one of the Elemental Spheres of Air, Earth, Fire, or Water is opened, allowing the spellcaster to conjure a genie from that sphere. See the entries for Djinn and Efreeti in *ACKS* and for Dao and Marid in *Lairs & Encounters* for statistics for the conjured genie. At most one genie of each type may be conjured by the caster in a given day. Once the genie appears, it serves the caster indefinitely, provided that the caster concentrates on nothing but controlling the creature. Spell casting, combat, or movement over half the normal rate results in loss of concentration. The caster, while in control of the genie, can dismiss it to its native sphere at will (doing so on his Initiative if in combat). If the caster loses concentration, control of the conjured genie is lost and cannot be regained. The creature then seeks to attack the caster and all others in its path. Only dispel magic or dispel evil will banish the genie once control has been lost. An uncontrolled genie may, of course, choose to return to its home sphere on its own; such creatures will never choose to remain away from their sphere of existence for long. A conjured genie is not under sufficient control to be forced to cast wish.
 
 #### Conjure Hellion
 |Range:|	240'
-| :
+| :-------- | :---
 |Eldritch| 3 (Black)
 |Duration:|	special (1 day)
+
 A portal to the Outer Darkness is opened, allowing the spellcaster to conjure a hellion with 8 HD and two special abilities. Only one hellion may be conjured by the caster in a given day. Once the hellion appears, it serves the caster for up to one full day, provided that the caster concentrates on nothing but controlling the creature. This spell is otherwise identical to conjure cacodemon spawn.
 
 #### Conjure Imp
 |Range:|	240'
-| :
+| :-------- | :---
 | Eldritch| 2 (Black)
 |	Duration:|	special (1 day)
+
 A portal to the Outer Darkness is opened, allowing the spellcaster to conjure an imp with 4 HD and two special abilities. Only one imp may be conjured by the caster in a given day. Once the imp appears, it serves the caster for up to one full day, provided that the caster concentrates on nothing but controlling the creature. This spell is otherwise identical to conjure cacodemon spawn.
 
 #### Contact Other Sphere
 |Range: | self
-| :
+| :-------- | :---
 | Eldritch| 5 (Black)		
 |Duration:| special
 
@@ -1788,7 +1799,7 @@ When the caster has finished asking his questions, roll to see if he goes insane
 **Eldritch Dreams of Clark Ashton Smith Memorial Rule (Optional):** In lieu of asking for advice or information, the caster of Contact Other Sphere may ask the power to provide him with the formula to an eldritch spell (or ceremony). Asking for a spell formula counts as asking one question per level (e.g. asking for a 1st level spell counts as asking one question). Note that acquiring the spell formula is not the same as learning the spell. The spell may be added to the caster’s repertoire if the character can still learn new spells of that level. If the character’s repertoire is full, or if the spell is of too high level for him to learn, then the spell cannot be put into the repertoire, but the formula may be saved to be put into the repertoire in the future. It takes one week of study to add a spell to the character’s repertoire from the formula.
 
 |Sphere|	Don’t Know|	True Answer|	Insanity
-| :
+| :-------- | :--- | :- | :-
 |1|	85%|	40%|	1%
 |2|	80%|	45%|	3%
 |3|	75%|	50%|	5%
@@ -1805,16 +1816,18 @@ When the caster has finished asking his questions, roll to see if he goes insane
 #### Counterspell		
 
 |Range:| 120’
-| :
+| :-------- | :---
 |Eldritch| 1 (White)
 |Duration:| instantaneous
+
 The caster can use counterspell to dispel a single ongoing spell that has been cast on a creature or object within range. If counterspell is used on a hostile creature, or on an object held by a hostile creature, the creature can ignore the counterspell with a successful saving throw versus Spells. Otherwise, one spell or effect cast by a character of equal or lower level than the counterspell caster's level is ended automatically. (If the creature or object is affected by multiple spells or effects, roll randomly to determine which one is cancelled.) Spells or effects created by higher level casters might not be canceled; there is a 5% chance the counterspell will fail for each level the spell or effect exceeds the caster level. For example, a 10th level caster counterspelling magic created by a 14th level caster has a 20% chance of failure. Some spells cannot be ended by counterspell; this specifically includes any magical disease, geas, quest, petrification from a flesh to stone spell, and any curse, including those created by bestow curse (the reverse of remove curse) as well as by cursed items.
 
 #### Corrupting Dream
 | Range:| 500 miles
-| :
+| :-------- | :---
 |Eldritch| 6 (Black)
 |Duration:| 1 round per level
+
 This spell permits the caster to influence a target character within range by means of a corrupting dream. The caster must be able to identify the target – referencing a correct name (“Audarius Tarkaun”), unique title (“the Tarkaun of Aura”), or unique possession (“the owner of the Sword of the Dawn”) will suffice. The caster then spends 10 minutes (1 turn) casting the spell, during which time he enters a state of lucid dreaming. The caster is unaware of his surroundings and completely helpless while in this dream state.
 
 If the target is awake when the caster completes the spellcasting, the caster knows it, and can either end his dream-state (and the spell) or can remain in the dream state while waiting for the target to fall asleep, at which point the spell begins.
@@ -1828,17 +1841,19 @@ A target cannot be affected by corrupting dream if he sleeps within a pinnacle o
 #### Crafting
 
 |Range:| touch
-| :
+| :-------- | :---
 |Eldritch| 4 (White)
 |Duration:| special
+
 This dweomer improves the target’s Art or Crafting proficiency by one rank for purposes of completing one project (e.g. forging one sword, painting one painting, composing one song). Unproficient characters become apprentices, apprentices become journeymen, journeymen become masters, masters become grand masters, and grand masters become capable of creating magic items at twice the base time and cost of a mage. The spell expires when the project is completed or when a day passes without the target working on the project for at least 8 hours.
 
 #### Cure Critical Wounds*
 
 |Range:| touch
-| :
+| :-------- | :---
 |Eldritch| 5 (White)
 |Duration:| instantaneous
+
 The caster heals the creature touched. The creature instantly regains hit points as if it had rested for five days. The spell may also be used to cure paralysis, but does not then cure any points of damage. The spell will never increase a creature’s hit points beyond the normal amount.
 
 EXAMPLE: Marcus has 42 hp. According to the Base Healing Rate table, he will recover 2d6 hp per day of rest.  He has recently been mauled by an ogre, and has taken 37 points of damage, reducing him to 5 hp. Balbus, a 14th level caster, casts cure critical wounds on Marcus. Marcus recovers as if he had rested for five days. Marcus rolls 5 x 2d6 or 10d6, and recovers 38 hp. That’s more than the damage he suffered, so he is restored to his full 42 hp.
@@ -1852,7 +1867,7 @@ Undead are affected by this spell and its reverse in opposite fashion; they are 
 #### Cure Light Wounds*
 
 |Range:|	touch
-|:
+|:-------- | :---
 |Eldritch| 1
 |Duration:| instantaneous
 
@@ -1862,7 +1877,7 @@ EXAMPLE: Had Balbus cast cure light wounds, Marcus would have recovered 2d6 hp.
 
 #### Cure Major Wounds*
 |Range:| touch
-|:
+|:-------- | :---
 |Eldritch| 3 (White)		
 |Duration: |instantaneous
 
@@ -1872,27 +1887,30 @@ EXAMPLE: Had Balbus cast cure major wounds, Marcus would have recovered 6d6 hp.
  
 #### Cure Moderate Wounds*
 |Range:| touch
-|:
+|:-------- | :---
 |Eldritch| 2 (White)		
 |Duration:| instantaneous
+
 This spell works exactly like cure critical wounds, save that the creature touched regains hit points equal to twice its Base Healing Rate, as if it had rested for two days. The reverse, cause moderate wounds, also works exactly like cause critical wounds, except that the creature touched loses hit points equal to twice its Base Healing Rate, the amount it would have gained had it rested for two days.
 
 EXAMPLE: Had Balbus cast cure moderate wounds, Marcus would have recovered 4d6 hp.
 
 #### Cure Serious Wounds*
 |Range:	|touch
-|:
+|:-------- | :---
 |Divine| 4	(White)		
 |Duration: |instantaneous
+
 This spell works exactly like cure critical wounds, save that the creature touched regains hit points as if it had rested for four days. The reverse, cause serious wounds, also works exactly like cause critical wounds, except that the creature touched loses hit points equal to the amount it would have gained had it rested for four days
-.
+
 EXAMPLE: Had Balbus cast cure serious wounds, Marcus would have recovered 8d6 hp.
 
 #### Dark Whisper
 |Range:| touch
-|:
+|:-------- | :---
 |Eldritch| 2 (Black)		
 |Duration:| instantaneous
+
 With this spell, the caster can damage the soul of a target creature by whispering terrible words into its ear. A successful attack throw is required unless the target creature is helpless. Upon hearing the dark whisper the target creature must make a saving throw versus Death. If the saving throw succeeds, the spell has no effect. If the saving throw fails, the creature suffers one of the following effects, selected by the caster:
 
 *	Plagued by whispers from beyond the grave, the creature suffers a -2 to hear noise throws and -2 to surprise rolls.
@@ -1904,16 +1922,18 @@ The caster may also invent his own whisper, but it should be no more powerful th
 
 #### Deafness
 |Range:|	60’
-|:
+|:-------- | :---
 |Eldritch| 2 (Black)
 |Duration:|	instantaneous
+
 This spell can magically destroys a target creature’s ears. If the target fails a saving throw versus Death, it is rendered permanently deaf. A deaf creature is easy to sneak up on, and suffers a -2 penalty to surprise rolls. Due to its inability to hear itself, it has a -4 penalty on ceremony throws and spellsinging throws. It has a 2 in 6 chance of failing any attempt to cast a spell, read a scroll, or utter a command word. Other penalties may apply in certain social settings or circumstances at the Judge’s discretion. Only magical healing can restore the hearing of a target affected by this spell.
 
 #### Deathless Minion
 |Range: 	30’
-| :
+| :-------- | :---
 |Arcane| 2
 |Duration:|	1 hour
+
 This spell raises the bones or body of a single dead creature within range as an undead skeleton or zombie that follows the caster's spoken commands. An animated skeleton can be created only from a mostly intact skeleton; a zombie can be created only from a mostly intact corpse.
 
 Skeletons will have Hit Dice equal to the number the monster had in life; for skeletons of humans or demi-humans, this means one Hit Die, regardless of the character level of the deceased. Zombies will have one more Hit Die than the monster had in life. Unlike animate dead, the HD of the skeleton or zombie created are not limited by the caster’s level. However, a deathless minion lasts for just one hour, after which it crumbles to dust.
@@ -1923,67 +1943,75 @@ Skeletons will have Hit Dice equal to the number the monster had in life; for sk
 
 #### Destroy Dead
 |Range:| 150’
-| :
+| :-------- | :---
 |Eldritch| 1 (Black)
 |Duration:| Instantaneous
+
 This spell can destroy the bones or body of a single undead skeleton or zombie of 8 Hit Dice or less within range. If the target fails a saving throw versus Death, it immediately crumbles to dust. If cast on an unanimated skeleton or cadaver, the skeleton or cadaver crumbles to dust without a saving throw. The spell has no effect on living creatures or on undead other than skeletons and zombies.
 
 ##### Delay Death
 |Range:|	touch
-|:
+|:-------- | :---
 |Eldritch| 5 (White)
 |Duration:|	special
+
 This spell extends the time period available to prevent a critically wounded, grievously wounded, or mortally wounded character from dying. A critically wounded character normally will die unless healed to 1hp within one day; if delay death is cast on the character, the time is extended to one week. A grievously wounded character normally will die unless healed to 1 hp within one turn; with delay death, the time is extended to one day. A mortally wounded character normally will die unless healed to 1 hp within one round; with delay death, the time is extended to one hour. Delay death cannot aid a character who has been instantly killed, nor does it heal permanent wounds suffered. If cast on a healthy character (with 1 hp or more), delay death has no effect at all; it cannot “prevent” death.
 
 #### Display of Power
 |Range:|	self
-|:
+|:-------- | :---
 |Eldritch| 1 (Grey)
 |Duration:|	6 turns
+
 The caster summons forth his magical power in a display that leaves none in doubt as to his magical capacity. The exact effect will depend on the caster’s spell signature. For the duration of the spell, the caster gains a +2 bonus to reaction rolls with creatures he encounters. (This bonus stacks with any bonuses provided by the caster’s ability scores, class, and proficiencies.) If this bonus results in a total of 12 or more, the subjects act as if charmed while in his presence.
 
 #### Drain Life
 |Range:| 0’
-|:
+|:-------- | :---
 |Eldritch| 2 (Black)
 |Duration:| instantaneous
+
 This spell drains life energy from the target creature and uses that energy to heal the caster. The caster must touch the target creature, necessitating a melee attack throw against the target if it is an unwilling subject of the spell. When touched, the target may make a saving throw versus Death. If the save fails, the target loses hit points equal to its Base Healing Rate (the amount it would have gained had it rested for one day). If the save succeeds, the target loses hit points equal to one-half its Base Healing Rate. In either case, the caster is simultaneously healed by twice the amount of hit points that the target loses.
 
 EXAMPLE: Ra-Ramses has suffered 11 points of damage in battle with an ogre. On his initiative, he casts drain life on the ogre. Since the ogre is an unwilling target, he must first succeed on a melee attack throw against the ogre to touch it. His attack throw succeeds, so now the ogre may make a saving throw versus Death to resist. The ogre’s saving throw fails, so its loses hit points equal to its Base Healing Rate and Ra-Ramses is simultaneously healed by twice that amount. The ogre has 21 hp, granting it a Base Healing Rate of 1d6.  Ra-Ramses rolls 1d6 and the result is a 4. The ogre suffers 4 hp of damage and Ra-Ramses is healed 8 hp of damage.
 
 #### Drain Life II
 |Range:| 0’
-|:
+|:-------- | :---
 |Eldritch| 4 (Black)
 |Duration:| instantaneous
+
 This spell works exactly like drain life except that the creature touched loses hit points equal to its Base Healing Rate x 2, or equal to its Base Healing Rate if its saving throw succeeds. The caster is simultaneously healed by twice the amount of hit points that the target loses.
 
 #### Drain Life III
 |Range:| 0’
-|:
+|:-------- | :---
 |Eldritch| 6 (Black)
 |Duration:| instantaneous
+
 This spell works exactly like drain life except that the creature touched loses hit points equal to its Base Healing Rate x 3, or equal to its Base Healing Rate x 1.5 if its saving throw succeeds. The caster is simultaneously healed by twice the amount of hit points that the target loses.
 
 #### Earth’s Excrescence
 |Range:|	60’
-|:
+|:-------- | :---
 |Eldritch| 2 (Grey)
 |Duration:|	instantaneous
+
 This spell causes an area of earth 15’ in diameter to burst like a swollen boil, casting forth chunks of stone, dirt, and hot mud. All creatures within the area of effect must make a saving throw versus Blast. Creatures that fail the saving throw suffer 3d6 points of damage and are knocked down. Creatures that succeed on the saving throw suffer half damage and retain their footing. Creatures of Huge size or greater cannot be knocked down by this spell, but still suffer damage. The earth’s excrescence can only be brought forth from an area of soil, sand, silt, clay, or uncut, unworked rock. The spell does not function on worked stone, wood, cement, concrete, metal, or magical materials.
 
 #### Earth’s Maw
 |Range:|	60’
-|:
+|:-------- | :---
 |Eldritch| 3 (Grey)
 |Duration:|	indefinite
+
 This spell causes a 10’ x 10’ area of earth within range to collapse into a pit 10’ deep. The earth’s maw may be created underfoot of creatures if desired. Any creatures in the area of effect must make a saving throw versus Blast. Those that succeed on the saving throw leap to safety. Those that fail the saving throw fall into the pit, suffering 1d6 points of falling damage if not otherwise protected (e.g. by flight or levitation). The earth’s maw can only affect volumes of soil, sand, silt, clay, or uncut, unworked rock. The spell does not function on worked stone, wood, cement, concrete, metal, or magical material.
 
 Once created, an earth’s maw remains indefinitely. It can be filled manually or dispelled. Dispelling an earth’s maw causes the earth to bubble upward violently and reform. Creatures within a maw that is dispelled are deposited on the surface, but must save versus Blast or suffer 1d6 points of damage and be knocked prone by the roiling tremor.
 
 #### Eldritch Armor
 |Range:| self
-| :
+| :-------- | :---
 |Eldritch| 2 (White)
 |Duration:| 6 turns
 
@@ -1991,67 +2019,76 @@ This spell protects the caster with invisible armor of magical force. It grants 
 
 #### Eldritch Protection
 |Range:| 0’
-|:
+|:-------- | :---
 |Eldritch| 3 (White)
 |Duration:| 9 turns
+
 This spell protects a creature with wards and charms of protection and safety. For the duration of the spell, the target receives a +2 bonus to AC and +2 bonus to all saving throws. The bonus to AC stacks with both worn armor and any other enhancements to AC.
 
 #### Endless Slumber
 |Range:| 60’
-|:
+|:-------- | :---
 |Eldritch| 3 (Black)
 |Duration:| until dispelled
+
 This spell places the target creature into a deep, magical sleep. The target can resist the effect with a successful saving throw versus Spells. If the saving throw fails, the target will immediately fall asleep, and thereafter cannot be awoken by any natural means. A dispel magic or remove curse might rouse the affected creature from its bewitched slumber; there is a 5% chance of failure for every level the caster is lower than whoever cast the endless slumber.
  
 If desired, the spellcaster may dictate a specific condition under which the target will automatically awaken. Receiving a kiss from royalty of the opposite sex is the most well-known condition associated with endless slumber; others are left to the caster’s imagination and the Judge’s discretion. The condition must be spoken aloud when the spell is cast, and must be something actually possible without resort to magic. A wakening condition is not required, but if one is offered it strengths the spell; an endless slumber with an awakening condition can only be magically lifted by a caster of greater level than the original spellcaster. A divination or fate spell cast upon the affected creature will reveal the specific condition to awaken it (if any).
 
 #### Ensorcellement		
 |Range:| 30’
-|:
+|:-------- | :---
 |Eldritch| 1 (Grey)
 |Duration:| 12 rounds
+
 By means of this spell, the caster can mesmerize a humanoid creature of up to 4+1 HD. The target creature must make a saving throw versus Spells. If the save succeeds, the spell has no effect. If the save fails, the target creature is mesmerized. A mesmerized creature cannot attack, cast spells, move, or speak, and gains no benefit to its AC from its DEX or shield (if any). It can be ambushed or backstabbed by creatures capable of doing so. All attack throws against mesmerized creatures gain a +2 bonus, or a +4 bonus if the attacker ambushes or backstabs the mesmerized creature. The mesmerized creature is dealt the attack’s ordinary damage, or the attack’s ordinary damage multiplied by two or more from ambush or backstab. The ensorcellement ends only when the creature is slain, the effect is dispelled, or the duration expires.
 
 #### Fangs of the Earth
 |Range:| 120’
-|:
+|:-------- | :---
 |Eldritch| 3 (Grey)
 |Duration:| instantaneous
+
 When this spell is cast, several fang-like pillars of jagged rock erupt from the earth, possibly impaling up to one creature per level of the caster for 5d6 points of damage each. All of the target creatures must be within a 30’ diameter area of effect, and the spellcaster must make a successful attack throw against each target. The caster may choose which creatures in the area of effect are targeted. The fangs of the earth immediately crumble to dust after damage is dealt. The fangs of the earth can only be brought forth from an area of soil, sand, silt, clay, or uncut, unworked rock. The spell does not function on worked stone, wood, cement, concrete, metal, or magical materials.
 
 #### Fillet and Serve
 |Range:| 90’
-|:
+|:-------- | :---
 |Eldritch| 5 (Black)
 |Duration:| special
+
 This spell can debone a living creature and then animate its extracted skeleton. The target of fillet and serve must make a saving throw versus Death. If the save succeeds, the spell has no effect. If the save fails, the target’s own skeleton rips itself out of its body, killing the creature instantly. The extracted skeleton is then animated as an undead creature with Hit Dice equal to the number the monster had in life (for skeletons of humans or demi-humans, this means one Hit Die, regardless of the character level of the deceased). The animated skeleton mindlessly obeys the caster until dispelled or destroyed, or until one day elapses, whereupon the skeleton de-animates and the bones clatter to the floor.
 
 #### Find Place of Power
 |Range:|	12 miles
-|:
+|:-------- | :---
 |Eldritch| 6 (White)
 |Duration:|	concentration
+
 This spell allows the caster to sense the direction and approximate distance to the most potent place of power within 12 miles (i.e. within the area of a 24-mile hex). The caster can search for places of power in general, in which case the spell will reveal the type of place it detects as well as direction and distance. Alternatively, he may specify a particular type of place (e.g. “sinkholes of evil”), in which case the spell will reveal the direction and distance to the most potent place of that type. Find place of power is a complex spell that requires 1 turn (10 minutes) to cast.
  
 #### Flay the Slain		
 |Range:| 30’
-|:
+|:-------- | :---
 |Eldritch| 5 (Black)
 |Duration:| 1 day
+
 This horrific spell flays the flesh off of one or more eligible corpses in range, then animates the bloody skins as flay fiends (see *Lairs & Encounters*, p. XX, for characteristics). The caster may flay and animate a number of dead corpses up to his caster level each time he casts the spell. A flay fiend can only be created from the corpse of a humanoid of 1 HD or less with mostly intact skin; burned corpses, decayed corpses older than 2 weeks, and corpses of larger humanoids cannot be used. The flay fiends created by this spell last until destroyed or dispelled, or until one day elapses. The flay fiends thereafter crumble into dust.
 
 #### Flesh to Ashes		
 |Range:| 90’
-|:
+|:-------- | :---
 |Eldritch| 4 (Black)
 |Duration:| instantaneous
+
 This spell can reduce a target creature to ash and dust. The target creature may make a saving throw versus Death to resist the spell. If the save succeeds, the spell has no effect. If the save fails, the target creature and its carried gear are disintegrated. Only creatures made of flesh can be targeted by this spell. Creatures of 8 or more Hit Dice or levels are immune to the spell, as are undead monsters, golems, and any other creature that is not truly alive or made of flesh.
 
 #### Force of Impetus
 |Range:|	60’
-|:
+|:-------- | :---
 |Eldritch| 5 (Grey)
 |Duration:|	instantaneous
+
 By means of a magical force, the caster flings one or more objects or creatures within range a distance of up to 20’. The caster can target one creature or object per level of experience. Each object or creature must weigh 2 stone (20lb) per caster level or less. Alternatively, the caster can target a single creature or object weighing 2 stone (20lb) per caster level squared. Each targeted creature can resist the effect on itself or any objects it hold or has on its body with a successful save versus Spells.
 
 The affected creatures or objects can be flung in any direction the caster chooses. If the caster wishes to fling one or more of the affected creatures or objects into another creature, or onto a specific hard-to-reach location (such as a balcony or pit), he must make a successful attack throw. A throw of a single creature or object may be aimed without penalty, but each additional object or creature imposes a cumulative -1 penalty to the caster’s attack throws. If an aimed throw misses, it scatters like thrown oil.
@@ -2073,9 +2110,10 @@ EXAMPLE: Baldur, a 9th level Nobiran wizard, is supporting a company of mercenar
 
 #### Forest Enchantment
 | Range:| 0’
-|:
+|:-------- | :---
 | Eldritch| 5 (Grey)
 |Duration:| special
+
 This spell is a favorite of elven spellsingers and Nobiran wizards of nature, who commonly cast it in the vicinity of their fastnesses and towers. When cast, it charms all of the plants in a 240’ radius around the caster. Thereafter the caster, and any characters he “introduces” to the plants as friends, can move among the normal plants in the area of effect free from intentional or accidental harm – rose bushes will twist so that their thorns do not pierce him, poisonous ivy will not leak oil onto him, tree branches and roots will shift slightly so as not to trip him, and so on. In addition, the charmed plants will be hostile to enemies of the caster who intrude upon the area; trespassers will find that thorns bite them, branches and roots entangle them, and leaves whistle where they pass. In game terms, the caster and his allies gain a +1 bonus to surprise rolls and improved movement multipliers in the area of effect, while enemies suffer a -1 penalty to surprise rolls and worsened movement multipliers in the area of effect.
 
 Normal plants receive no saving throw when the spell is cast, but each season thereafter they receive a saving throw to break the spell; the Judge should roll once for all normal plants in the area of effect as if they were a 1 HD monster. If the caster does severe damage to the plants in the area of effect (such as clear cutting the trees), the spell immediately ends, but gathering fallen wood, picking fruit and flowers, trimming leaves, and similar gardening does not end the forest enchantment.
@@ -2084,52 +2122,58 @@ The spell can also affect any plant monsters that happen to be within the area o
 
 
 |Terrain |	Allied Move Multiplier |	Enemy Move Multiplier
-| :
+| :-------- | :--- | :--------
 | Hills, forest, scrub |	x1 |	x1/2
 | Jungle, swamps |	x2/3 |	x1/3
 
 #### Forgetfulness
 |Range:| 15’
-|:
+|:-------- | :---
 |Eldritch| 5 (Grey)
 |Duration:| special
+
 This spell induces forgetfulness in one or more living creatures within range. Up to 3d6 HD of living creatures of up to 4 HD each can be affected. Creatures with the fewest HD are affected first. Affected creatures lose all memory of the preceding 30 rounds (5 minutes) before the spell was cast and form no memories of anything that happens during the subsequent 30 rounds (5 minutes) after the spell was cast. While under the influence of the spell, the affected creatures are passive and distracted, as if lost in thought or day dreaming. If attacked, they will defend themselves, but otherwise they will not interfere with the activities of other creatures. When the spell ends, the creatures are not aware of having been affected; they simply feel as if they have come out of a day dream or lapse in attention. Memories lost to this spell can return to the creature if the effect is dispelled or if the creature succeeds on a subsequent saving throw versus Spells. An affected creature receives a saving throw to recover its memories after a day has passed if it has an Intelligence of 13 or greater, after a week if its Intelligence is 9-12, or after a month it its Intelligence is 8 or less.
 
 EXAMPLE: Arwen, an elven spellsinger, has infiltrated into the Temple of Dirgion in order to steal the Talisman of the Fiery Eye. She disguises herself with the grey robes of a priestess of Dirgion and enters the Temple. In the reliquary, she is confronted by a trio of bugbear guards, Borgat, Shigor, and Nassim. The bugbears attack her because she fails to offer the correct password. On her initiative, Arwen casts forgetfulness on the bugbears. She throws 3d6 to determine the HD of creatures she can target, and rolls a 13 – more than enough to affect all three bugbears. The beastmen forget they saw her, and stand passively daydreaming as she rummages through the reliquary, finds the Talisman of the Fiery Eye, and departs. A month later, Borgat, Shigor, and Nassim receive saving throws versus Spells to recover their memories. Borgat makes his saving throw and remembers what happened. Shigor and Nassim fail their saves, and can’t corroborate his story. Borgat is executed as the likely culprit.
  
 #### Frighten Beasts
 |Range:| 60’
-| :
+| :-------- | :---
 |Eldritch| 1 (Black)
 |Duration:| 30 rounds
+
 This spell can frighten one or more animals (including giant animals) within range. Up to 6 HD of animals can be affected. Animals with the fewest HD are affected first. Affected animals become frightened. A frightened animal cannot attack, cast spells, or speak (except to bay, howl, or yip in fear). A frightened animal will run from the source of its fear at its full movement rate for the duration of the spell. If a frightened animal cannot flee, its cower in terror. An engaged animal that is frightened will cower in terror until it is able to disengage with defensive movement. It suffers a -2 penalty to AC and cannot attack, cast spells, move, or take any other actions until the condition ends. Intelligent animals may make a saving throw versus Spells to resist the spell.
 
 #### Gentle Repose
 |Range:| touch
-|:
+|:-------- | :---
 |Eldritch| 2 (Black)
 |Duration:| 1 day per level
+
 This spell preserves the remains of a dead creature so they do not decay. Doing so effectively extends the time limit on raising that creature from the dead or animating it as a zombie. Days spent under the influence of this spell don’t count against such time limits. (This spell also makes transporting a fallen comrade more pleasant!)
 
 #### Guise Other
 |Range:| touch
-| :
+| :-------- | :---
 |Eldritch| 5 (White)
 |Duration: |1 day
+
 This spell grants the caster the ability to alter a willing target’s shape into that of any other humanoid creature. The caster can control the target’s new shape’s physical qualities (such as height, weight, gender, hair color, hair texture, and skin color) within the normal ranges for a creature of its kind. The target’s equipment, if any, remains worn or held where possible, and otherwise melds into the new form. If used in conjunction with a successful Disguise proficiency throw, guise other can allow the target to appear as a specific individual.
 
 #### Guise Self
 |	Range:| self
-| :
+| :-------- | :---
 |Eldritch| 4 (White)
 |		Duration:| 1 day
+
 This spell grants the caster the ability to alter his shape into that of any other humanoid creature. The caster can control his new shape’s physical qualities (such as height, weight, gender, hair color, hair texture, and skin color) within the normal ranges for a creature of its kind. His equipment, if any, remains worn or held where possible, and otherwise melds into the new form. If used in conjunction with a successful Disguise proficiency throw, guise self can allow the caster to appear as a specific individual.  
 
 #### Gusting Gale
 |		Range:| 0’
-|:
+|:-------- | :---
 |Eldritch| 4 (Grey)
 |		Duration:| Concentration to maximum 1 round per level
+
 This spell creates a strong blast of air that originates from the caster and affects all creatures in a line 10’ wide and 60’ long. Because the spell draws its power from natural air, it can only be cast outdoors or in a well-ventilated room.  The effect of the gusting gale depends on the size of the creatures.
 
 Tiny creatures (the size of a house pet or smaller) are knocked down and rolled 1d4x10’, taking 1d4 points of nonlethal damage per 10’. If flying, a tiny or smaller creature is blown back 2d6x10’ feet and takes 2d6 points of nonlethal damage due to battering and buffeting. Small creatures, such as halflings or goblins, are knocked prone by the force of the wind, or if flying are knocked back 1d6x10’ feet. Man-sized creatures are unable to move forward against the force of the wind, or if flying are knocked back 1d6x5’ feet. Large creatures may move normally within a gusting gale. Creatures which make a successful saving throw versus Blast are not affected by the wind.
@@ -2138,30 +2182,34 @@ Missile attack throws within or through a gusting gale are at a -4 penalty, as a
  
 #### Healing Circle
 |Range:| 30’
-| :
+| :-------- | :---
 |Eldritch| 5 (White)
 |		Duration:| instantaneous
+
 This spell immediately heals one or more creatures within 30’ of the caster. The healing circle can affect one creature, plus an additional two creatures per five additional caster levels after 1st (e.g. an 11th level caster can affect five creatures within his healing circle). All effected creatures instantly regains hit points as if each had rested for one day. The spell may also be used to cure paralysis in one, some, or all of the affected creatures, but does not then cure any points of damage. The spell will never increase a creature’s hit points beyond the normal amount.
 
 #### Home Ward
 |Range:| 15’
-|:
+|:-------- | :---
 |Eldritch| 6 (White)
 |		Duration:| special
+
 The caster places a protective ward on a structure up to 20,000 cubic feet in size. (Larger structures can be protected by multiple wards.) Once placed, a home ward remains until either dispelled or triggered by a summoned creature entering the structure it wards. When the home ward is triggered, the summoned creature that triggered it must make a saving throw versus Spells. If the save fails, the creature is dispelled back to its home plane. If the save succeeds, the spell has no effect. In either case, the home ward vanishes. A home ward leaves no visible mark on the structure it protects, but its presence can be revealed by detect magic, true seeing, or similar spells.
 
 #### Hypnotism
 |Range:| 15’
-|:
+|:-------- | :---
 |Eldritch |1 (Grey)
 |		Duration:| 1 round per level
+
 By means of mesmerizing gestures and droning incantations, the caster can hypnotize 1d4 living creatures in range. Creatures with fewest HD are affected first. Affected creatures may resist the spell with a saving throw versus Spells. Hypnotized creatures can be given a one sentence suggestion, which they will carry out to the best of their ability. The suggestion must be worded in such a manner as to make the activity sound reasonable. Asking the creature to do some obviously harmful act automatically negates the effect of the spell. However, a target may be led to believe that an action is not harmful; for instance, a creature might be told to drink a poisonous potion by suggesting the potion is actually beneficial. Each hypnotized creature will continue carrying out the suggestion until the activity is complete or the duration expires, whichever comes first. Note that the caster must be able to speak the language of the creatures or otherwise communicate effectively in order to issue suggestions.
 
 #### Ice Floe
 |Range:| touch
-|:
+|:-------- | :---
 |Eldritch |1 (Grey)
 |Duration:| 8 hours
+
 This spell instantly freezes a portion of a body of water that the caster touches, creating a flat pack of ice that floats on the remaining water. The ice floe created by the spell may be up to 10’ long and 10’ wide and up to 1’ thick, for a total volume of up to 100 cubic feet. The ice floe’s length, width, and thickness cannot exceed the length, width, and depth of the body of water from which it is created. It cannot be evoked so that it appears where objects or creatures already are. The water inside a living creature cannot be turned into an ice floe, no matter how large the creature is.
 
 As ice is less dense than water, the top of the ice floe will be about 10% higher than the surface of the water. A typical 1’ thick ice floe will stick up about 1.25” above the water. The ice floe can support up to 5lbs of creatures or objects per cubic foot while remaining afloat, but any additional weight will cause the ice floe to sink below the surface of the water. If the caster concentrates while touching the ice floe, he can magically move it across the water at an encounter movement rate of 20’ per turn.
@@ -2172,9 +2220,10 @@ When an ice floe is created in above-freezing temperatures, it will melt after 8
 
 #### Ice Sheet		
 |Range:| 30’
-|:
+|:-------- | :---
 |Eldritch| 5 (Grey)
 |Duration:| permanent
+
 This spell instantly freezes a large volume of water, creating a thick sheet of ice that floats on the remaining water. The ice sheet created by the spell can be either 1”, 4”, 1’, or 10’ thick.
 
 A 1” thick ice sheet can have a maximum surface area of 180,000 square feet (approximately 240’ radius), a 4” thick sheet can have a maximum surface area of 45,000 square feet (approximately 120’ radius), a 1’ thick sheet can have a maximum surface area of 15,000 square feet (approximately 70’ radius), and a 10’ thick sheet can have a maximum surface area of 1,500 square feet (approximately 20’ radius).
@@ -2195,9 +2244,10 @@ Once created an ice sheet is permanent until dispelled.
 
 #### Ice Storm
 |Range:| 240’
-|:
+|:-------- | :---
 |Eldritch| 6 (Grey)
 |		Duration:| 1 round
+
 This spell conjures a 20’ diameter storm of freezing, razor-sharp hail that rains down from the heavens onto the target location. Any creatures or objects that begin their initiative in, or enter, the ice storm suffer 1d4 points of cold damage per caster level, or half that amount with a successful saving throw versus Blast. Any movement through the ice storm’s area of effect is at half normal rate.
 
 If this spell is cast indoors or underground, the ice storm will strike the ceiling or surface above the desired area of effect. If the damage caused to an interposing barrier shatters or breaks through it, the ice storm may continue beyond the barrier in order to attain its full volume.
