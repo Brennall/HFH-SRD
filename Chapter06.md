@@ -165,7 +165,7 @@ In addition, all cacodemons have at least two other special abilities, one of th
 
 Spell-like special abilities count as fractions of a special ability each. Multiply ¼ x the level of the spell-like ability by the usage factor shown on the adjoining table.
 
-EXAMPLE: A particular cacodemon can cast illusion at will (4th level, usage 1), command word at will (1st level, usage 1), mirror image once per day (2nd level, usage 0.4), and charm person once per day (1st level, usage 0.4). Its spell-like abilities count as [ (1/4 x 4 x 1) + (1/4 x 1 x 1) + (1/4 x 2 x 0.4) + (1/4 x 1 x 0.4) ] 1.55 abilities, rounded to 2.  
+>EXAMPLE: A particular cacodemon can cast illusion at will (4th level, usage 1), command word at will (1st level, usage 1), mirror image once per day (2nd level, usage 0.4), and charm person once per day (1st level, usage 0.4). Its spell-like abilities count as [ (1/4 x 4 x 1) + (1/4 x 1 x 1) + (1/4 x 2 x 0.4) + (1/4 x 1 x 0.4) ] 1.55 abilities, rounded to 2.  
 
 Whatever their special abilities, cacodemons are unholy beings that can be held at bay by protection from evil, dispelled with dispel evil and turned by clerics as Infernal.
 
