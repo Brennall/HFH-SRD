@@ -20,7 +20,7 @@ While admirably helpful to low-level characters, it actually penalizes character
 
 ## Critical Hits
 
-If the result of an attacker’s attack throw exceeds its target value by 10 or more, the attacker has dealt a critical hit to its target. When a critical hit is dealt, the target suffers double damage and must make an immediate saving throw v. Paralysis. If the save fails, the target suffers a critical effect in addition to double damage. The target’s saving throw should be modified by 4 points per category of size difference between the attacker and the target, as per ACKS p. XX.
+If the result of an attacker’s attack throw exceeds its target value by 10 or more, the attacker has dealt a critical hit to its target. When a critical hit is dealt, the target suffers double damage and must make an immediate saving throw v. Paralysis. If the save fails, the target suffers a critical effect in addition to double damage. The target’s saving throw should be modified by 4 points per category of size difference between the attacker and the target, as per ACKS p. 110.
 
 The attacker determines the critical effect dealt by rolling 1d10 on the appropriate column on the Critical Effects table. For purposes of the Critical Effects table, “characters” are combatants equipped with arms and armor, while “monsters” are combatants relying on natural weapons and toughness.  
 
@@ -113,7 +113,7 @@ Adroit and nimble thieves are more likely to succeed than their less-gifted bret
 Thieves, and other classes which use thief skills, benefit from being light on their feet. If the character’s encumbrance is 5 stones or less, he gains a +2 bonus on proficiency throws to climb walls, hide in shadows, and move silently. If the character’s encumbrance is 2 stones or less, the bonus is increased to +4. The bonuses do not apply to hijinks.
 
 ### Equipment for Thieves
-The following new items, found in the Equipment section (p. XX) are of benefit to thieves and related classes: adventurer’s harness, ear trumpet, padded shoes, thieves’ garb, thieves’ tools companion kit, superior thieves’ tools, and masterwork thieves’ tools.
+The following new items, found in the [Equipment](chapter02#new-and-modified-weapons-armor-and-equipment) section are of benefit to thieves and related classes: adventurer’s harness, ear trumpet, padded shoes, thieves’ garb, thieves’ tools companion kit, superior thieves’ tools, and masterwork thieves’ tools.
 
 ### Revised Thief Skills
 **Open Locks:** Picking a lock requires one turn and a successful proficiency throw. Characters can pick locks in one round instead of one turn at a -10 penalty. (Characters with Lockpicking proficiency can pick locks in one round at a -4 penalty.) The thief may try again if the throw fails. However, if the thief ever fails the throw by 10 or more, or with a natural 1,  he immediately breaks his thieves' tools. Broken thieves’ tools are useless.
