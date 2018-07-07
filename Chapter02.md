@@ -377,7 +377,7 @@ Just as each chosen has a different destiny, so each has a different set of gift
 
 *Invulnerable:* The chosen is blessed with partial invulnerability  to harm. Any damage the chosen suffers from non-magical attacks is reduced by 1 point per die. The damage reduction is applied per die. Damage can be reduced to 0, but not less than 0, on each die. Attacks from monsters of 5 HD or more are considered magical attacks due to the monster’s ferocity. This gift can be selected up to three times. Each additional time the gift is selected, damage suffered is reduced by 1 additional point per die, to a maximum of 3 points per die.
 
-*Lion-Hearted:* If the chosen is serving as a commander or hero on the battlefield with an army, the army automatically stands firm on its first morale roll, or rallies if it would have stood firm. This benefit is lost for the duration of the battle, however, if the chosen himself routs, flees, or leads from the rear (see Domains at War: Battles, p. XX).
+*Lion-Hearted:* If the chosen is serving as a commander or hero on the battlefield with an army, the army automatically stands firm on its first morale roll, or rallies if it would have stood firm. This benefit is lost for the duration of the battle, however, if the chosen himself routs, flees, or leads from the rear (see Domains at War: Battles, p. 25).
 
 *Lucky:* When re-rolling attack throws, proficiency throws, or saving throws using Fate Points, the chosen may roll the die twice and choose the better value.
 
@@ -421,7 +421,7 @@ At 9th level (Chosen), a chosen can establish a stronghold and become a protecto
 
 Chosen Proficiency List: Alertness, Arcane Dabbling, Armor Training, Beast Friendship, Blind Fighting, Combat Reflexes, Combat Trickery (force back, overrun, sunder), Command, Diplomacy, Divine Blessing, Endurance, Farseeing*, Fighting Style, Goblin-Slaying, Healing, Laying on Hands, Leadership, Military Strategy, Mystic Aura, Passing Without Trace, Prophecy*, Running, Second Sight*, Skirmishing, Weapon Finesse, Weapon Focus*
 
-*Modified or new proficiency described on p. XX.
+*Modified or new proficiency described in [New and Modified Proficiencies](#new-and-modified-proficiencies).
 
 | Template:           | Inheritor
 | :------------------ | :--------
@@ -513,7 +513,7 @@ At 11th level, an ecclesiastic may learn and cast ritual eldritch pells of great
 
 Ecclesiastic Proficiency List: Alchemy, Animal Husbandry, Apostasy*, Beast Friendship, Ceremonial Magic*, Command, Divine Blessing, Divine Health, Farseeing*, Healing*, Knowledge, Laying on Hands, Loremastery, Magical Engineering, Magical Music*, Mystic Aura, Naturalism, Performance, Personal Talisman*, Prestidigitation, Profession, Prophecy*, Quiet Magic, Righteous Turning, Second Sight*, Sensing Evil, Sensing Power, Unflappable Casting
 
-*Modified or new proficiency described on p. XX.
+*Modified or new proficiency described in [New and Modified Proficiencies](#new-and-modified-proficiencies).
 
 | Template:           | Priest
 | :------------------ | :--------
@@ -602,7 +602,7 @@ Elven spellsingers receive limited combat training. At first level, spellsingers
 
 The voices of all elves sound lilting and lyrical to the ears of men; that of the spellsinger is beautiful enough to work magic. Every elven spellsinger begins with one rank of Perform (singing) proficiency; additional ranks may be accumulated as class or general proficiency selections. Because of her irresistible voice, an elven spellsinger gains a +2 bonus to reaction rolls with creatures she speaks to. If this bonus results in a total of 12 or more, the subjects act as if charmed while in her presence. Creatures with a WIS greater than the spellsinger’s CHA are immune to this power (and the elven spellsinger will know they are immune).
 
-All elven spellsingers practice the art of spellsinging from which they derive their name. Spellsinging is a method of casting eldritch spells by reciting lyrics laced with words of power. Spellsingers perform magic by spending spell points (SP)  rather than by expending daily spell castings. Each spell costs a certain number of spell points to sing. The higher the level of the spell, the more points it costs. The Spell Point Costs table describes each spell’s cost.  The spellsingers’ use of spell points gives them the flexibility to choose to cast a large number of low level spells, a small number of high level spells, or any combination in between. See p. XX of the Heroic Magic chapter for details on spellsinging.
+All elven spellsingers practice the art of spellsinging from which they derive their name. Spellsinging is a method of casting eldritch spells by reciting lyrics laced with words of power. Spellsingers perform magic by spending spell points (SP)  rather than by expending daily spell castings. Each spell costs a certain number of spell points to sing. The higher the level of the spell, the more points it costs. The Spell Point Costs table describes each spell’s cost.  The spellsingers’ use of spell points gives them the flexibility to choose to cast a large number of low level spells, a small number of high level spells, or any combination in between. See [Spellsinging](chapter06.md#spellsinging) of the Heroic Magic chapter for details on spellsinging.
 
 | Spell Level | Spell Point Cost |
 | :---------- | :---------- |
@@ -613,9 +613,9 @@ All elven spellsingers practice the art of spellsinging from which they derive t
 | 5th         |	7           |
 | 6th         |	10          |
 
-Spellsingers recover their spell points in the same way spellcasters recover their daily spell castings, by spending eight hours resting without interruption and one hour concentrating on prayer or study. Spell points can only be recovered by resting once every 24 hours. Spellsingers can also tap ambient magic to fuel their spells without expending their own SPs. See p. XX of the Heroic Magic chapter for details on tapping ambient magic.
+Spellsingers recover their spell points in the same way spellcasters recover their daily spell castings, by spending eight hours resting without interruption and one hour concentrating on prayer or study. Spell points can only be recovered by resting once every 24 hours. Spellsingers can also tap ambient magic to fuel their spells without expending their own SPs. See [Tapping Power](chapter06.md#tapping-power) of the Heroic Magic chapter for details on tapping ambient magic.
 
-Like other eldritch casters, a spellsinger’s spell selection is limited to the spells in his repertoire. A spellsinger’s repertoire can include a number of spells up to the number and level of spells listed for his level, increased by his Intelligence bonus, and functions exactly like an arcane/eldritch caster’s repertoire in all respects. Unlike other casters, however, spellsingers can cast spells that are not in their repertoire by extemporaneously singing spells. See p. XX of the Heroic Magic chapter for details on extemporaneous spellsinging.
+Like other eldritch casters, a spellsinger’s spell selection is limited to the spells in his repertoire. A spellsinger’s repertoire can include a number of spells up to the number and level of spells listed for his level, increased by his Intelligence bonus, and functions exactly like an arcane/eldritch caster’s repertoire in all respects. Unlike other casters, however, spellsingers can cast spells that are not in their repertoire by extemporaneously singing spells. See [Extemporaneous Spellsinging](chapter06.md#extemporaneous-spellsinging) of the Heroic Magic chapter for details on extemporaneous spellsinging.
 
 When an elven spellsinger reaches 5th level (Spellbinder), she may begin to research spells, scribe magical scrolls, and brew potions. Elven spellsingers may collect and use divine power as clerics in order to fuel their magical research. When an elven spellsinger reaches 9th level (Spellsinger), she is able to create more powerful magic items such as weapons, rings, and staffs.
 
@@ -626,7 +626,7 @@ At 11th level, an elven spellsinger may learn and cast ritual spells of great po
 Like other elves, spellsingers gain a +1 bonus to surprise rolls when in the wilderness due to their attunement to nature. Elves have keen eyes that allow them to detect hidden and secret doors with a proficiency throw of 8+ on 1d20 when actively searching, or 14+ on casual inspection. Because of their connection to nature, elves are completely unaffected by the paralysis ghouls can inflict, and the target values for all their saving throws versus Petrification/Paralysis and Spells are reduced by 1. (These adjustments are already factored into the saving throws on the table below.) All elves can speak the Common, Elven, Gnoll, Hobgoblin, and Orc languages.
 
 Elven Spellsinger Proficiency List: Alchemy*, Art*, Beast Friendship, Bright Lore of Aura*, Ceremonial Magic*, Contemplation*, Craft*, Diplomacy, Familiar, Farseeing*, Healing, Knowledge, Laying on Hands, Loremastery, Magical Engineering, Magical Music*, Mastery of Charms and Illusions*, Naturalism, Quiet Magic, Passing Without Trace, Performance, Prophecy*, Prestidigitation, Second Sight*, Sensing Evil, Sensing Power, Swashbuckling, Transmogrification, Unflappable Casting, Wakefulness
-*Modified or new proficiency described on p. XX.
+*Modified or new proficiency described in [New and Modified Proficiencies](#new-and-modified-proficiencies).
 
 | Template:           | Siren
 | :------------------ | :--------
@@ -742,7 +742,7 @@ When a freebooter attains 9th level (Freebooter Captain), he can establish a hid
 
 Freebooter Proficiency List: Acrobatics, Alertness, Arcane Dabbling, Blind Fighting, Bribery, Cat Burglary, Ceremonial Magic, Combat Reflexes, Combat Trickery (disarm, incapacitate), Contortionism, Fighting Style, Lip Reading, Lockpicking, Loremastery, Magical Music, Martial Training, Mountaineering, Passing Without Trace, Precise Shooting, Running, Skirmishing, Skulking, Sniping, Swashbuckling, Trap Finding, Weapon Finesse, Weapon Focus*
 
-*Modified or new proficiency described on p. XX.
+*Modified or new proficiency described in [New and Modified Proficiencies](#new-and-modified-proficiencies).
 
 
 | Template:           | Spelunker (Expeditionary path)
@@ -858,7 +858,7 @@ As naturally chatty folk, all halfling characters will speak the Common tongue, 
 
 Halflings have notoriously large appetites and are famous for their heroic breakfasts. Once per day a halfling can recover his base healing rate in hp by consuming a meal accompanied by alcohol, coffee, or tea. This recovery is in addition to any hit points gained from complete rest.
 
-Halfling crave comfort and security far to much to be able to descend into dastardly wickedness. They are difficult to corrupt, suffering only ½ the usual amount of Corruption from spending time in sinkholes of evil (p. XX), using evil magic items (p. XX), or from the effects of corrupting dreams (p. XX).
+Halfling crave comfort and security far too much to be able to descend into dastardly wickedness. They are difficult to corrupt, suffering only ½ the usual amount of Corruption from spending time in [sinkholes of evil](Chapter05.md#sinkholes-of-evil), using [evil magic items](Chapter05.md#corruption), or from the effects of [corrupting dreams](Chapter05.md#corrupting-dream).
 
 While spiritually strong, halflings are physically weak and suffer a -4 penalty to proficiency throws to open doors and other feats of strength. For the same reason halflings are easily encumbered. They can only carry 3 stone without becoming encumbered. When carrying 4 stone their encounter movement rate is reduced to 90’. When carrying 5-6 stone, their encounter movement rate is reduced to 60’. When carrying 7 stone or more, their encounter movement rate is reduced to 30’. A halfling can carry a maximum of 12 stone, modified by his Strength bonus or penalty.
 
@@ -868,7 +868,7 @@ Halfling bounders cannot attain 9th level, and therefore never attract followers
 
 Halfling Bounder Proficiency List: Acrobatics, Alertness, Ambushing, Animal Training, Blind Fighting, Combat Reflexes, Combat Trickery (disarm, knockdown, incapacitate, underrun), Command, Contortionism, Craft*, Diplomacy, Endurance, Fighting Style, Goblin-Slaying, Land Surveying, Leadership, Lip Reading, Mapping, Military Strategy, Mountaineering, Navigation, Passing Without Trace, Precise Shooting, Riding, Signaling, Skirmishing, Sniping, Swashbuckling, Tracking, Weapon Finesse, Weapon Focus*
 
-*Modified or new proficiency described on p. XX.
+*Modified or new proficiency described in [New and Modified Proficiencies](#new-and-modified-proficiencies).
 
 
 | Template:           | Kennelmaster
@@ -941,7 +941,7 @@ As naturally chatty folk, all halfling characters will speak the Common tongue, 
 
 Halflings have notoriously large appetites and are famous for their heroic breakfasts. Once per day a halfling can recover his base healing rate in hp by consuming a meal accompanied by alcohol, coffee, or tea. This recovery is in addition to any hit points gained from complete rest.
 
-Halfling crave comfort and security far to much to be able to descend into dastardly wickedness. They are difficult to corrupt, suffering only ½ the usual amount of Corruption from spending time in sinkholes of evil (p. XX), using evil magic items (p. XX), or from the effects of corrupting dreams (p. XX).
+Halfling crave comfort and security far to much to be able to descend into dastardly wickedness. They are difficult to corrupt, suffering only ½ the usual amount of Corruption from spending time in [sinkholes of evil](Chapter05.md#sinkholes-of-evil), using [evil magic items](Chapter05.md#corruption), or from the effects of [corrupting dreams](Chapter05.md#corrupting-dream).
 
 While spiritually resilient, halflings are physically weak and suffer a -4 penalty to proficiency throws to open doors and other feats of strength. For the same reason halflings are easily encumbered. They have a base movement rate of just 90’ and can only carry 3 stone without becoming encumbered. When carrying 4 stone their encounter movement rate is reduced to 60’. When carrying 5-6 stone, their encounter movement rate is reduced to 45’. When carrying 7 stone or more, their encounter movement rate is reduced to 30’. A halfling can carry a maximum of 12 stone, modified by his Strength bonus or penalty.
 
@@ -951,7 +951,7 @@ When a burglar attains 9th level (Bourgeois Burglar), he can establish a hidey-h
 
 Halfling Burglar Proficiency List: Acrobatics, Alertness, Ambushing, Arcane Dabbling*, Bargaining, Blind Fighting, Cat Burglary, Caving, Combat Reflexes, Combat Trickery (disarm, knockdown, underrun), Contortionism, Craft*, Gambling, Lip Reading, Lockpicking, Mapping, Mountaineering, Navigation, Passing Without Trace, Precise Shooting, Riding, Running, Skirmishing, Skulking, Sniping, Swashbuckling, Trap Finding, Trapping, Weapon Finesse, Weapon Focus*
 
-*Modified or new proficiency described on p. XX.
+*Modified or new proficiency described in [New and Modified Proficiencies](#new-and-modified-proficiencies).
 
 
 
@@ -1029,11 +1029,11 @@ The books and scrolls of interest to the loremaster are virtually never written 
 
 From careful study of ancient annals and legends, loremasters can decipher occult mysteries, remember ancient history, identify historic artifacts, and similar tasks. At 1st level, a loremaster must make a proficiency throw of 18+ on 1d20 to succeed in loremastery. The proficiency throw for loremastery reduces by 1 per level.
 
-Most importantly, the scholarly pursuits of loremasters allow them to learn and perform eldritch ceremonies in the theurgical tradition. A loremaster’s selection of ceremonies is limited to the ceremonies in his repertoire. A loremaster’s repertoire can include a number of eldritch ceremonies up to the number and level of ceremonies listed for his level, increased by his Intelligence bonus. A loremaster can use any magic items usable by mages or clerics, and can make trinkets to aid his performance of ceremonies. More information on ceremonial magic, and individual spell descriptions, can be found in the Heroic Magic chapter (p. XX).
+Most importantly, the scholarly pursuits of loremasters allow them to learn and perform eldritch ceremonies in the theurgical tradition. A loremaster’s selection of ceremonies is limited to the ceremonies in his repertoire. A loremaster’s repertoire can include a number of eldritch ceremonies up to the number and level of ceremonies listed for his level, increased by his Intelligence bonus. A loremaster can use any magic items usable by mages or clerics, and can make trinkets to aid his performance of ceremonies. More information on ceremonial magic, and individual spell descriptions, can be found in the [Heroic Magic chapter](chapter05.md#ceremonial-magic).
 
 As they advance in level, loremasters may add new ceremonies to their repertoire by visiting an athenaeum or other place of learning (see below) and spending one game week per ceremony. Particular athenaeums may only offer particular ceremonies at each level, either due to the limitations of their libraries or doctrinal beliefs. Loremasters who wish to learn unavailable ceremonies must find or research them on their own. The specific ceremonies taught at any given athenaeum should be determined by the Judge based on his setting.
 
-As part of his training in ceremonial magic, every loremaster creates a personal talisman to aid him in performing ceremonies. The  loremaster’s personal talisman provides a +1 bonus to ceremony throws for ceremonies of one particular type. (The loremaster may choose from death & necromancy; detection; elemental air; elemental earth; elemental fire; elemental water; enchantment & illusion; healing; movement; protection; summoning; and transmogrification). When the loremaster advances to 3rd level, his personal talisman can increase its bonus by +1 for ceremonies of one particular type (e.g. increase the bonus to +2 for the current type or add a bonus of +1 with a new type). When the loremaster reaches 11th level, his personal talisman can increase its bonus by another +1 for ceremonies of one particular type (e.g. increase a +2 bonus to +3 for a current type, or increase a +1 bonus to +2 for a current type, or add a bonus of +1 with a new type). If desired, the loremaster may increase the bonus afforded by, or number of ceremony types covered by, his personal talisman by  selecting the Personal Talisman proficiency (see p. XX). More information on talismans can be found in the Ceremonial Talismans section of the Heroic Magic chapter  (p. XX).
+As part of his training in ceremonial magic, every loremaster creates a personal talisman to aid him in performing ceremonies. The  loremaster’s personal talisman provides a +1 bonus to ceremony throws for ceremonies of one particular type. (The loremaster may choose from death & necromancy; detection; elemental air; elemental earth; elemental fire; elemental water; enchantment & illusion; healing; movement; protection; summoning; and transmogrification). When the loremaster advances to 3rd level, his personal talisman can increase its bonus by +1 for ceremonies of one particular type (e.g. increase the bonus to +2 for the current type or add a bonus of +1 with a new type). When the loremaster reaches 11th level, his personal talisman can increase its bonus by another +1 for ceremonies of one particular type (e.g. increase a +2 bonus to +3 for a current type, or increase a +1 bonus to +2 for a current type, or add a bonus of +1 with a new type). If desired, the loremaster may increase the bonus afforded by, or number of ceremony types covered by, his personal talisman by  selecting the [Personal Talisman](#personal-talsman) proficiency (see p. XX). More information on talismans can be found in the Ceremonial Talismans section of the Heroic Magic chapter  (p. XX).
 
 When a loremaster reaches 5th level (Scholar), he may begin to research ceremonies, scribe scrolls, brew potions, and make talismans. Loremasters may collect and use divine power as clerics in order to fuel their magical research.
 
@@ -2186,7 +2186,7 @@ See the rules for Ceremonial Magic in the Magic section (p. XX) for more details
 
 **Mastery of Charms and Illusions:** When the character casts enchantment spells (such as charm person) or illusion spells (such as phantasmal force), the spell effects are calculated as if he were two class levels higher than his actual level of experience. Targets of his enchantment spells suffer a -2 penalty to their saving throw, as do those who attempt to disbelieve his illusions. If the character has this proficiency and the mastery of domination and deception class power, the character can cast enchantments and illusions as if he were three (rather than two) caster levels higher than his actual caster level, and targets suffer a -3 penalty to their saving throws.
 
-**Personal Talisman:** A ceremonialist with the Personal Talisman proficiency has created a special magic item, his personal talisman, which he uses to aid him in performing ceremonies. When the proficiency is first taken, the character immediately gains a talisman of his own tradition which provides a +1 bonus to ceremony throws for ceremonies of one particular type. The character may choose from death & necromancy; detection; elemental air; elemental earth; elemental fire; elemental water; enchantment & illusion; healing; movement; protection; summoning; and transmogrification. Each time the proficiency is selected thereafter, the personal talisman can increase its bonus by +1 for one type of ceremony. A character may never have more than one personal talisman at a time, and a personal talisman may never be used by anyone other than the character.  
+**<a name="personal-talisman"></a>Personal Talisman:** A ceremonialist with the Personal Talisman proficiency has created a special magic item, his personal talisman, which he uses to aid him in performing ceremonies. When the proficiency is first taken, the character immediately gains a talisman of his own tradition which provides a +1 bonus to ceremony throws for ceremonies of one particular type. The character may choose from death & necromancy; detection; elemental air; elemental earth; elemental fire; elemental water; enchantment & illusion; healing; movement; protection; summoning; and transmogrification. Each time the proficiency is selected thereafter, the personal talisman can increase its bonus by +1 for one type of ceremony. A character may never have more than one personal talisman at a time, and a personal talisman may never be used by anyone other than the character.  
 
 If the character’s personal talisman is ever lost or destroyed, the character may make a new one. Making a new personal talisman costs 5,000gp less than normal per rank in the proficiency, with the equivalent reductions in time, special components, and workshop requirements. Any magic research throws to make the personal talisman are always successful.
 

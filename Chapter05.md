@@ -17,7 +17,7 @@ Those who see an illusion believe it to be real unless they succeed on a saving 
 
 Magic in heroic fantasy is more subtle than the spectacular effects which are commonplace in traditional ACKS games. Spells tend to work with the existing environment, rather than conjure effects from thin air. Enchantments and illusion are commonplace, while elemental blasts are less so. This subtle, but powerful magic, is called eldritch magic, and it constitutes a new type of magic that has facets of both arcane and divine magic.
 
-The spells on the three Eldritch Spells lists (on p. XX) represent the common spells known to the practitioners of the eldritch arts. These are by no means meant to be complete lists, for eldritch spellcasters are a secretive lot that do not share their knowledge easily; and many spells that were once known have been forgotten, existing only in dusty tomes and rare grimoires, or in the minds of slumbering undead lords.
+The spells on the three Eldritch Spells lists (on p. XX) represent the common spells known to the practitioners of the eldritch arts. These are by no means meant to be complete lists, for eldritch spellcasters are a secretive lot that do not share their knowledge easily; and many spells that were once known have been forgotten, existing only in dusty tomes and rare grimoires, or in the minds of -slumbering undead lords.
 
 Any spells on the Eldritch Spells list can be learned when advancing in level. Spells not on the Eldritch Spells lists cannot be learned when advancing in level, only by studying with teacher, reading a book or scroll, or researching the spell in the campaign world.
 
@@ -128,7 +128,7 @@ In the worlds of heroic fantasy there lie places of power, where the border betw
 There are six sources of power: chaos, law, elemental air, elemental earth, elemental fire, and elemental water. There are three ranks of power: minor, major, and supreme. The interaction of source and rank yields 18 different types of places of power, shown on the Places of Power table. The game effects of each are detailed below the table.
 
 | Source  |	Minor |	Major |	Supreme |	Name
-| :- | :- | :- | :- | :- 
+| :- | :- | :- | :- | :-
 | Chaos |	Shadowed  |	Blighted  |	Forsaken  |	Sinkhole of Evil
 | Law |	Illuminated |	Hallowed  |	Sacrosanct  |	Pinnacle of Good
 | Air |	Gusting |	Roaring |	Howling |	Aerie of Elemental Air
@@ -143,7 +143,7 @@ Places corrupted by the energies of the Outer Darkness are known as sinkholes of
 
 
 | Effect  |	Shadowed  |	Blighted  |	Forsaken
-| :- | :- | :- | :- 
+| :- | :- | :- | :-
 | Corruption  |	1 point/season  |	1 point/month |	1 point/week
 | Corpse Reanimation  |	10%/1d12 months |	20%/1d4 days  |	80%/1d4 rounds
 | Black Magic Spell Effects |	+2 class levels |	+2 class levels |	+2 class level
@@ -196,7 +196,7 @@ A forsaken sinkhole can only be cleansed by ritual magic. As such areas develop 
 Places of beauty and serenity, respites from the chaos and corruption of the world around them, are known as pinnacles of good. The forces of life are stronger there, while dark forces are kept at bay. Light is brighter, sounds are crisper, and colors more vivid; harmony and a sense of order prevail. Pinnacles of good can be illuminated, hallowed, or sacrosanct. The table below summarizes the effects of the various types:
 
 | Effect  |	Illuminated	| Hallowed  |	Sacrosanct
-| :- | :- | :- | :- 
+| :- | :- | :- | :-
 |Purification of Corruption |	1 point/season  |	1/month |	1/week
 | White Magic Spell Effects |	+2 class levels |	+2 class levels |	+2 class level
 | Black Magic Spell Effects |	No Effect |	No Effect |	-2 class levels
@@ -253,7 +253,7 @@ The size of places of elemental power can vary widely. To determine randomly, ro
 >**Note:** The Judge may wonder how we decided how many places of elemental power there are in the world. On our own Earth, there are 11 naturally-burning eternal flames, 600 active volcanoes, and 1000 active geysers in the world - that suggests 1,611 places of elemental fire spread across the earth’s 5,300,000 square mile land mass. That’s one place of elemental fire per 3,295 square miles. Since each 6-mile hex is 32 square miles, that’s one place of elemental fire per 102 hexes, or about 12 places on a typical 1,200-hex regional map.
 
 | Effect  |	Minor |	Major |	Supreme
-| :- | :- | :- | :- 
+| :- | :- | :- | :-
 | Elemental Incursion |	10%/1d12 days/1d4 days  |	20%/1d12 days/1d4 weeks |	80%/1d12 days/Permanent
 | Elemental Spell Effects |	+2 class levels |	+2 class levels |	+2 class level
 | Other Elemental Spell Effects |	No Effect	| No Effect |	-2 class levels
@@ -293,7 +293,7 @@ Spellsingers recover their spell points in the same way spellcasters recover the
 **Spells Points per Day by Level of Experience**
 
 | Caster Progression  |	1|	2|	3|	4|	5|	6|	7|	8|	9|	10|	11|	12|	13|	14
-| :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- 
+| :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :-
 | Arcane 4  |	1|	2|	4|	6|	9|	12|	18|	25|	35|	47|	58|	77|	80|	95
 | Arcane 3  |	1|	2|	3|	4|	5|	6|	8|	10|	12|	18|	25|	30|	35|	40
 | Arcane 2  |	0|	1|	2|	3|	4|	5|	6|	8|	9|	10|	12|	15|	18|	21
@@ -321,7 +321,7 @@ When a spell is sung in combat, the spellsinger must announce the intention to s
 Like a traditional spellcaster, a spellsinger must be able to move his hands and speak freely in order to work magic. A spellsinger cannot sing spells if he is gagged, his hands are tied, or he is in an area under the effects of a noiselessness spell. (A spellsinger who possesses Quiet Magic proficiency can sing spells quietly by subvocalizing, but still cannot do so if under noiselessness.) Except where otherwise noted, a spellsinger must have the intended target of a spell within visual range while singing a spell. If after beginning to sing, a spellsinger loses his ability to move his hands and speak freely, or loses his line of sight on the intended target, the song is disrupted and the spell points are wasted.
 
 | Spell Level |	Spell Point Cost
-| :- | :- 
+| :- | :-
 | 1st |	1
 | 2nd | 	2
 | 3rd | 	3
@@ -343,7 +343,7 @@ In order to successfully sing an extemporaneous spell, a spellsinger must make a
 
 
 | Spell Level |	1|	2|	3|	4|	5|	6|	7|	8|	9|	10|	11|	12|	13|	14
-| ----: | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- 
+| ----: | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :-
 | 1st|	14+|	13+|	12+|	11+|	10+|	9+|	8+|	7+|	6+|	5+|	4+|	3+|	2+|	1+
 | 2nd|	16+|	15+|	14+|	13+|	12+|	11+|	10+|	9+|	8+|	7+|	6+|	5+|	4+|	3+
 | 3rd	|18+|	17+|	16+|	15+|	14+|	13+|	12+|	11+|	10+|	9+|	8+|	7+|	6+|	5+
@@ -376,7 +376,7 @@ If the throw succeeds, the spell has been successfully cast and immediately take
 **Ambient Power**<br>
 
 | Rank  |	Power / Day
-| --: | :- 
+| --: | :-
 | Minor |	1 SP per 2,000 square feet
 | Major |	1 SP per 1,000 square feet
 | Supreme |	1 SP per 200 square feet
@@ -398,7 +398,7 @@ To find out if a mishap occurs, the spellsinger must make a mishap throw - anoth
 When a mishap occurs, the spellsinger must roll 1d10 on the Spellsinging Mishaps table and suffer the effect listed in the column matching the degree of mishap. The degree of the mishap depends on the level of the spell that caused the mishap. If the spell was 1st, 2nd, or 3rd level, a minor mishap occurs. If the spell was 4th or 5th level, a major mishap occurs. If the spell was 6th level, a catastrophic mishap occurs.
 
 | Roll| Minor Mishap | Major Mishap | Catastrophic Mishap
-| :--: | :- | :- | :- 
+| :--: | :- | :- | :-
 |   1 | You accidentally open a gate to the elemental spheres. An 8 HD elemental appears adjacent to you and attacks. | You accidentally open a gate to the elemental spheres. A 12 HD elemental appears adjacent to you and attacks. | You accidentally open a gate to the elemental spheres. A 16 HD elemental appears adjacent to you and attacks.
 | 2 | Your spell signature acquires an annoying side effect. Roll 1d10 on the spell signature sub-table. Only a wish or miracle can remove the side effect. | Your spell signature acquires a deleterious side effect. Roll 1d10+5 on the spell signature sub-table. Only a wish or miracle can remove the side effect. | Your spell signature acquires a debilitating side effect. Roll 1d10+10 on the spell signature sub-table. Only a wish or miracle can remove the side effect.
 | 3 | You are drained by the energy coursing through you. You are incapacitated for 1 day per level of the spell. | You are exhausted by the energy coursing through you. You are incapacitated for 1 week per level of the spell. | Your very soul is exhausted by the energy coursing through you. You are incapacitated permanently. Only a miracle or wish can awaken you from your coma.
@@ -466,7 +466,7 @@ To practice within a tradition means that the ceremonialist can:
 The Ceremonial Tradition table describes several different traditions available to ceremonialists. The Judge may create other traditions for his own campaign setting.
 
 | Tradition |	Description |	Historical Inspirations  |	Classes
-| :- | :- | :- | :- 
+| :- | :- | :- | :-
 | Antiquarian |	Wise men and women who focus on providing healing and protection from dark magic through charms, herbal remedies, potions, and spells.  |	European cunning folk, Caribbean-American hoodoo men  | 	Antiquarian Witches, Priestesses
 | Chthonic  |	Malefic sorcerers and witches who consort with the darkest of powers, reveling in corruption and depravity. |	Caribbean bokors, Goetic magicians, Norse  seiðkona, Roman malefactors, Renaissance nigromancers  | 	Chthonic Witches, Occultists, Zaharan Sorcerers
 | Liturgical |  Divine casters who invoke spells through formal sacraments and liturgies. |	Abrahamic miracle-workers, Egyptian magicians, Zoroastrian magi |	Clerics, Priestesses
@@ -483,7 +483,7 @@ Traditional Implements are the various paraphernalia, fetishes, and accoutrement
 Each type of ceremonial tradition has its own implements; the Traditional Implement table on the following page provides a list of items associated with the implements of various traditions. A ceremonialist cannot use implements of a tradition he does not know.
 
 | Level |	Cost
-| :- | :- 
+| :- | :-
 | 1 |	25gp
 | 2 |	100gp
 | 3 |	225gp
@@ -514,7 +514,7 @@ When the ceremony has been performed, the ceremonialist makes a ceremony throw t
 **Ceremony Performance by Ceremonialist Level**
 
 |Ceremony Level| 	1|	2|	3|	4|	5|	6|	7|	8|	9|	10|	11|	12|	13|	14
-| :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- 
+| :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :-
 |1st|	10+|	9+|	8+|	7+|	6+|	5+|	4+|	3+|	2+|	1+|	0+|	-1+|	-2+|	-3+
 |2nd|	12+|	11+|	10+|	9+|	8+|	7+|	6+|	5+|	4+|	3+|	2+|	1+|	0+|	-1+
 |3rd|	14+|	13+|	12+|	11+|	10+|	9+|	8+|	7+|	6+|	5+|	4+|	3+|	2+|	1+
@@ -537,7 +537,7 @@ When a ceremony throw automatically fails (e.g. due to a roll of natural 1 or if
 When a mishap occurs, the ceremonialist must roll 1d10 on the Ceremony Mishaps table for his tradition and suffer the effect listed in the column matching the degree of mishap. The degree of the mishap depends on the level of the ceremony that was botched. If the ceremony was 1st, 2nd, or 3rd level, a minor mishap occurs. If the ceremony was 4th or 5th level, a major mishap occurs. If the ceremony was 6th level, a catastrophic mishap occurs.
 
 | Ceremony Level |	Degree of Mishap
-| :- | :- 
+| :- | :-
 |1-3 |	Minor
 |4-5 |	Major
 | 6 |	Catastrophic
@@ -567,7 +567,7 @@ Collaborative ceremonies (see below) cannot be performed hastily. Ceremonies can
 
 
 |Ceremony Pace|	Time Required|	Throw Modifier|	Automatic Failure|	Degree of Mishap
-| :- | :- | :- | :- | :- 
+| :- | :- | :- | :- | :-
 |Hasty|	1 round (10 seconds)|	-4|	1-3|	By ceremony level
 |Regular|	1 turn (10 minutes)|	0|	1|	By ceremony level
 |Methodical|	36 turns (6 hours)|	+4|	1|	By ceremony level, reduced by 1
@@ -634,7 +634,7 @@ In addition, ceremonialists may create special types of magic items that are exc
 To create a trinket, a ceremonialist must first secure an object sufficiently valuable to store the desired ceremony. The value of the object must equal or exceed the base cost shown for the desired ceremony level and trinket type on the adjoining Trinket Cost table. Objects commonly used as disposable trinkets include various sorts of emollients, herbs, ointments, powders, and unguents. Objects commonly used as rechargeable trinkets include baubles, beads, bones, phylacteries, skulls, stones, teeth, and tiny figurines, as well as various objects found in traditional implements.
 
 |Level|	Disposable Trinket|	Rechargeable Trinket
-| :- | :- | :- 
+| :- | :- | :-
 |1|	5gp|	50gp
 |2|	10gp|	100gp
 |3|	15gp|	150gp
@@ -719,7 +719,7 @@ If the throw fails, the ceremonialist has failed to create the talisman. The tim
 
 
 |Bonus|	Base Cost|	Time
-| :- | :- | :- 
+| :- | :- | :-
 |+1|	5,000gp per type| 	1 month per type
 |+2|	10,000gp per type|	2 months per type
 |+3|	15,000gp per type|	3 months per type
@@ -767,7 +767,7 @@ For purposes of ceremonial magic, proficiencies are divided into three categorie
 
 
 |Category|	Useful Proficiencies
-| :- | :- 
+| :- | :-
 |Crafting|	Alchemy, Art (illumination, mosaic, painting, sculpting) Craft (armor-making, bookbinding, brewing, calligraphy, carpentry, doll-making, leatherwork, jewelling, rune-carving, stonemasonry, tinkering, weaving, weapon-smithing)
 |Knowledge|	Collegiate Wizardry, Knowledge (astrology, history, metaphysics, natural philosophy, occult), Naturalism, Theology
 |Performance|	Performance (chanting, dancing, epic poetry, playing instruments, singing, storytelling)
@@ -790,7 +790,7 @@ When a proficiency from the knowledge category is used to create a trinket or ta
 **1d10**
 
 |Roll|	Minor Mishap|	Major Mishap|	Catastrophic Mishap
-| :- | :- | :- | :- 
+| :- | :- | :- | :-
 |1|	You accidentally open a gate to the elemental spheres. An 8 HD elemental appears adjacent to you and attacks. If not destroyed, the elemental returns to its sphere after 10 rounds.|	You accidentally open a gate to the elemental spheres. A 12 HD elemental appears adjacent to you and attacks. If not destroyed, the elemental returns to its sphere after 8 hours.|	You accidentally open a gate to the elemental spheres. A 16 HD elemental appears adjacent to you and attacks. If not destroyed, the elemental returns to its sphere after 1 month.
 |2|	Your spell signature acquires an annoying side effect. Roll 1d10 on the spell signature sub-table. Only a wish or miracle can remove the side effect.|	Your spell signature acquires a deleterious side effect. Roll 1d10+5 on the spell signature sub-table. Only a wish or miracle can remove the side effect.|	Your spell signature acquires a debilitating side effect. Roll 1d10+10 on the spell signature sub-table. Only a wish or miracle can remove the side effect.
 |3|	The failure of your ceremony gives you a nervous breakdown. You go insane 1 day per level of the ceremony.|	Your failure teaches you unthinkable truths. You go insane for 1 week per level of the ceremony.|	The unspeakable horror you witness drives you permanently insane. Only a miracle or wish can cure you.
@@ -809,7 +809,7 @@ When a proficiency from the knowledge category is used to create a trinket or ta
 **1d10**
 
 |Roll|	Minor Mishap|	Major Mishap|	Catastrophic Mishap
-| :- | :- | :- | :- 
+| :- | :- | :- | :-
 |1|	Darkness gathers. 1d4 shadows appear and attack. If not destroyed, the shadows vanish after 10 rounds. The area in a 5’ radius is shadowed until they are dealt with or depart.|	Great darkness looms. 1d6 wraiths appear in and attack. If not destroyed, the wraiths vanish after 8 hours. The area in a 10’ radius blighted until they are dealt with or depart.|	Terrible darkness storms over you. 1d8 specters appear and attack. If not destroyed, the spectres vanish after 1 month. The area in a 20’ radius is forsaken until they are dealt with.
 |2|	Tampering with life energy costs you 1 level of experience unless you save versus Death.| 	Tampering with life energy costs you 1 level of experience.|	Tampering with life energy costs you 2 levels of experience.
 |3|	The failure of your ceremony gives you a nervous breakdown. You go insane for 1 day per level of the ceremony.|	Your failure teaches you unthinkable truths. You go insane for 1 week per level of the ceremony.|	The unspeakable horror you witness drives you permanently insane. Only a miracle or wish can cure you.
@@ -828,7 +828,7 @@ When a proficiency from the knowledge category is used to create a trinket or ta
 **1d10**
 
 |Roll|	Minor Mishap|	Major Mishap|	Catastrophic Mishap
-| :- | :- | :- | :- 
+| :- | :- | :- | :-
 |1|	You accidentally open a gate to the elemental spheres. An 8 HD elemental appears adjacent to you and attacks. If not destroyed, the elemental returns to its sphere after 10 rounds.|	You accidentally open a gate to the elemental spheres. A 12 HD elemental appears adjacent to you and attacks. If not destroyed, the elemental returns to its sphere after 8 hours.|	You accidentally open a gate to the elemental spheres. A 16 HD elemental appears adjacent to you and attacks. If not destroyed, the elemental returns to its sphere after 1 month.
 |2|	Your spell signature acquires an annoying side effect. Roll 1d10 on the spell signature sub-table. Only a wish or miracle can remove the side effect.|	Your spell signature acquires a deleterious side effect. Roll 1d10+5 on the spell signature sub-table. Only a wish or miracle can remove the side effect.|	Your spell signature acquires a debilitating side effect. Roll 1d10+10 on the spell signature sub-table. Only a wish or miracle can remove the side effect.
 |3|	The failure of your ceremony gives you a nervous breakdown. You for insane for 1 day per level of the ceremony.|	Your failure teaches you unthinkable truths. You go insane for 1 week per level of the ceremony.|	The unspeakable horror you witness drives you permanently insane. Only a miracle or wish can cure you.
@@ -847,7 +847,7 @@ When a proficiency from the knowledge category is used to create a trinket or ta
 **1d10**
 
 |Roll|	Minor Mishap|	Major Mishap|	Catastrophic Mishap
-| :- | :- | :- | :- 
+| :- | :- | :- | :-
 |1|	You accidentally open a gate to the outer spheres. An invisible stalker appears adjacent to you and attacks. If not destroyed, the stalker returns to its sphere after 10 rounds.|	You accidentally open a gate to the outer spheres. 1d4 invisible stalkers appear adjacent to you and attack. If not destroyed, the stalkers return to their sphere after 8 hours.|	You accidentally open a gate to the outer spheres. 2d4 invisible stalkers appear adjacent to you and attack. If not destroyed, the stalkers return to their sphere after 1 month.
 |2|	Your spell signature acquires an annoying side effect. Roll 1d10 on the spell signature sub-table. Only a wish or miracle can remove the side effect.|	Your spell signature acquires a deleterious side effect. Roll 1d10+5 on the spell signature sub-table. Only a wish or miracle can remove the side effect.|	Your spell signature acquires a debilitating side effect. Roll 1d10+10 on the spell signature sub-table. Only a wish or miracle can remove the side effect.
 |3|	The failure of your experiment gives you a nervous breakdown. You go insane for 1 day per level of the ceremony.|	Your failure teaches you unthinkable truths. You go insane for 1 week per level of the ceremony.|	The unspeakable horror you witness drives you permanently insane. Only a miracle or wish can cure you.
@@ -868,7 +868,7 @@ In the spell lists below, the following superscripts are used to designate parti
 
 
 |<sup>dth</sup> | 	death |	<sup>ill</sup> | 	illusion |	<sup>trn</sup> | 	transmogrification
-| :- | :- | :- | :- | :- | :- 
+| :- | :- | :- | :- | :- | :-
 | <sup>elm()</sup> | 	elemental (type) | <sup>nec</sup>| 	necromancy |	# |	spell modified from earlier version
 | enc | 	enchantment |	<sup>pro</sup> | 	protection |	* | 	reversible spell
 
@@ -879,7 +879,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **First Level Eldritch Spells (Black)**
 
 | # | Spell
-| :- | :- 
+| :- | :-
 | 1	| Charm Person <sup>enc</sup>
 | 2	| Cause Fear* <sup>enc</sup>
 | 3	| **Cause Light Wounds** *#
@@ -899,7 +899,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **Second Level Eldritch Spells (Black)**
 
 | # | Spell
-| :- | :- 
+| :- | :-
 | 1 |	Bane*
 | 2	| **Blindness** <sup>dth</sup>
 | 3	| **Bloody Flux** <sup>dth</sup>
@@ -919,7 +919,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **Third Level Eldritch Spells (Black)**
 
 | # | Spell
-| :- | :- 
+| :- | :-
 | 1	| Bestow Curse*
 | 2	| Cause Disease*
 | 3	| **Cause Major Wounds** *#
@@ -939,7 +939,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **Fourth Level Eldritch Spells (Black)**
 
 | # | Spell
-| :- | :- 
+| :- | :-
 | 1	| Animate Dead <sup>nec</sup>
 | 2	| Charm Monster <sup>enc</sup>
 | 3	| *Control Undead* <sup>enc nec</sup>
@@ -959,7 +959,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **Fifth Level Eldritch Spells (Black)**
 
 | # | Spell
-| :- | :- 
+| :- | :-
 | 1	| **Cause Critical Wounds** *#
 | 2	| **Circle of Agony** <sup>dth</sup>
 | 3	| **Conjure Elemental** <sup>elm</sup>
@@ -979,7 +979,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **Sixth Level Eldritch Spells (Black)**
 
 | # | Spell
-| :- | :- 
+| :- | :-
 | 1	| **Body Swap** <sup>nec trn</sup>
 | 2	| **Conjure Genie** <sup>elm</sup>
 | 3	| **Conjure Fiend**
@@ -1002,7 +1002,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **First Level Eldritch Spells (Grey)**
 
 | # | Spell
-| :- | :- 
+| :- | :-
 | 1	| **Auditory Illusion** <sup>ill</sup>
 | 2	| **Blinding Flash** <sup>elm(fire)</sup>
 | 3	| Command Word <sup>enc</sup>
@@ -1023,7 +1023,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **Second Level Eldritch Spells (Grey)**
 
 | # | Spell
-| :- | :- 
+| :- | :-
 | 1	| **Burning Sparks** <sup>elm(fire)</sup>
 | 2	| Charm Animal <sup>enc   </sup>
 | 3	| **Circling Winds** <sup>elm(air)</sup>
@@ -1044,7 +1044,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **Third Level Eldritch Spells (Grey)**
 
 | # | Spell
-| :- | :- 
+| :- | :-
 | 1	| **Battering Ram** <sup>elm(earth)</sup>
 | 2	| **Brazen Bull** <sup>elm(fire)</sup>
 | 3	| *Call Lightning* <sup>elm(air)</sup>
@@ -1065,7 +1065,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **Fourth Level Eldritch Spells (Grey)**
 
 | # | Spell
-| :- | :- 
+| :- | :-
 | 1	| *Command Plants* <sup>enc</sup>
 | 2	| *Control Animals* <sup>enc</sup>
 | 3	| **Gusting Gale** <sup>elm(air)</sup>
@@ -1086,7 +1086,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **Fifth Level Eldritch Spells (Grey)**
 
 | # | Spell
-| :- | :- 
+| :- | :-
 | 1	| **Blood Boil**  <sup>elm(fire)</sup>
 | 2	| *Control Winds* <sup>elm(air)</sup>
 | 3	| **Cone of Frost** <sup>elm(water)</sup>
@@ -1107,7 +1107,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **Sixth Level Eldritch Spells (Grey)**
 
 | # | Spell
-| :- | :- 
+| :- | :-
 | 1	| **Arrows of the Sun**  <sup>elm(fire)</sup>
 | 2	| **Capsizing Wave** <sup>elm(water)</sup>
 | 3	| *Control Plants* <sup>enc</sup>
@@ -1130,7 +1130,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **First Level Eldritch Spells (White)**
 
 | # | Spell
-| :- | :- 
+| :- | :-
 | 1	| *Angelic Choir* <sup>ill</sup>
 | 2	| **Bane-rune** <sup>trn</sup>
 | 3	| **Call of the Wolf**
@@ -1162,7 +1162,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **Second Level Eldritch Spells (White)**
 
 | # | Spell
-| :- | :- 
+| :- | :-
 | 1	| *Alter Self* <sup>trn</sup>
 | 2	| Bless*
 | 3	| **Call of the Wolf Pack**
@@ -1194,7 +1194,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **Third Level Eldritch Spells (White)**
 
 | # | Level
-| :- | :- 
+| :- | :-
 | 1	| Augury
 | 2	| **Avian Messenger**
 | 3	| **Call of the Wild Bear**
@@ -1226,7 +1226,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **Fourth Level Eldritch Spells (White)**
 
 | # | Spell
-| :- | :- 
+| :- | :-
 | 1	| **Call of the Galloping Herd**
 | 2	| **Cure Serious Wounds** * #
 | 3	| **Crafting**
@@ -1253,7 +1253,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **Fifth Level Eldritch Spells (White)**
 
 | # | Spell
-| :- | :- 
+| :- | :-
 | 1	| **Angelic Aura** <sup>nec</sup>
 | 2	| **Bath of the Goddess** <sup>trn</sup>
 | 3	| **Call of the Great Cats**
@@ -1280,7 +1280,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **Sixth Level Eldritch Spells (White)**
 
 | # | Spell
-| :- | :- 
+| :- | :-
 | 1	| Anti-Magic Shell
 | 2	| **Atonement** ǂ #  
 | 3	| **Banner of Invincibility**
@@ -1309,7 +1309,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **Seventh Level Eldritch Rituals**
 
 | # | Spell
-| :- | :- 
+| :- | :-
 | 1	| *Cancellation*
 | 2	| Commune
 | 3	| *Energy Drain* <sup>dth nec</sup>
@@ -1321,7 +1321,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **Eight Level Eldritch Rituals**
 
 | # | Spell
-| :- | :- 
+| :- | :-
 | 1	| *Life Trapping* <sup>nec</sup>
 | 2	| Permanency
 | 3	| *Regeneration* <sup>dth</sup>
@@ -1333,7 +1333,7 @@ Spells detailed in the ACKS core rules are noted in regular font; spells detaile
 **Ninth Level Eldritch Rituals**
 
 | # | Spell
-| :- | :- 
+| :- | :-
 | 1	| *Cataclysm* <sup>elm (any)</sup>
 | 2	| **Gate**
 | 3	| **Lair of Power**
