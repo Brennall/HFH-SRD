@@ -56,7 +56,7 @@ Since the XP Cost for the Arcane and Eldritch Values are identical, classes from
 ### Ceremonial Value
 
 |Value|	Ceremonial|	XP Cost
-| :
+| :- | :- | :-
 |4|	Loremaster|	2,000
 |3|	Mage|	1,000
 |2|	Runemaker|	500
@@ -124,7 +124,7 @@ All halfling classes require a minimum Dexterity 9 or better.
 When building a halfling custom class, assign between 0 and 4 build points to the class’s Halfling Value. These points represent the degree by which the members of the class embody archetypical halfling characteristics.
 
 |Value|	Halfling|	XP Cost
-| :
+| :- | :- | :-
 |4|	Halfling 4|	-150
 |3|	Halfling 3|	-225
 |2|	Halfling 2|	-300
@@ -172,7 +172,7 @@ As the table shows, the symmetries of the math extend into the progressions of t
 **Runemaker**
 
 |Class Level|	Spell Levels|	Discount Rate| 	Discounted Spell Levels|
-| :
+| :- | :-| :-| :-
 |1|	0|	1.00|	0.93
 |2|	1|	0.93|	1.72
 |3|	2|	0.86|	3.16
@@ -192,7 +192,7 @@ As the table shows, the symmetries of the math extend into the progressions of t
 **Mage**
 
 |Class Level| Spell Levels|	Discount Rate|	Discounted Spell Levels
-| :
+| :- | :-| :-| :-
 |1| 1	|1.00|	1
 |2| 2	|0.93	|1.86
 |3| 4	|0.86	|3.44
@@ -212,7 +212,7 @@ As the table shows, the symmetries of the math extend into the progressions of t
 **Loremaster / Nobiran Wizard**
 
 |Class Level| Spell Levels |	Discount Rate	| Discounted Spell Levels
-| :
+| :- | :-| :-| :-
 |1| 2 |	1.00  |	2
 |2| 3|	0.93	| 2.79
 |3| 5|	0.86	| 4.29
@@ -232,7 +232,7 @@ As the table shows, the symmetries of the math extend into the progressions of t
 ### Custom Class Builds
 
 |Class|	HD|	Fighting|	Thievery|	Eldritch|	Ceremonial|	Elf| Halfling|	Nobiran|	Thrassian|	Zaharan
-| :
+| :- | :-| :-| :-| :-| :-| :-| :-| :-| :-| :-
 |Beastmaster|	1|	2|	1|	0|	0|	-|	-|	-|	-|	-
 |Berserker|	2|	2|	0|	0|	0|	-|	-|	-|	-|	-
 |Chosen|	1|	2|	1|	0|	0|	-|	-|	-|	-|	-
