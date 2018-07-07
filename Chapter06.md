@@ -16,7 +16,7 @@ Plants are sentient vegetable creatures. Plans are immune to all charm, sleep, a
 #### New Monsters by Type
 
 | Type|	Monsters
-| :
+| :- | :- |
 | Animal|	Giant Constricting Viper
 | Beastman | 	-
 | Construct | 	-
@@ -32,13 +32,13 @@ Plants are sentient vegetable creatures. Plans are immune to all charm, sleep, a
 
 #### BALEYGR
 |% In Lair:|	35%
-|:
+|:- | :- |
 |Dungeon Enc:	|Solitary (1) / Fist (1d4)
 |Wilderness Enc:|	Fist (1d4) / Legion (2d4 Fists)
 |Alignment:|	Chaotic
 |Movement:	|120’ (40’)
 |Armor Class:	|10
-|Hit Dice:	|	12****
+|Hit Dice:	|	12\*\*\*\*
 |Attacks:	|	1 (weapon or whip)
 |Damage:|	4d6/2d6, drag
 |Save:	|	F12
@@ -62,7 +62,7 @@ Tales of a dark overlord fielding entire armies of báleygr mounted on dragons a
 
 #### CACODEMON
 |% In Lair:	|Varies
-|:
+|:- | :- |:- | :- |:- | :- |:- | :- |
 |Dungeon Enc:|Varies
 |Wilderness Enc:	|Varies
 |Alignment:|	Any
@@ -86,22 +86,22 @@ Cacodemons range in power from chaotic spawn, no more fearsome than a gnoll, to 
 **Primary Cacodemon Attributes**
 
 |Rank|	% In Lair|	AC	|HD|	Save|	Morale|	Treasure Type|	XP
-|:
-|Spawn	|90%	|3|	2**|	F2|	0	|B|	29
-|Imp|	70%|	4	|4**|	F4|	0|	H	|190
-|Gremlin|	50%|	5|	6**|	F6|	0|	N|	820
-|Hellion	|40%	|6|	8**	|F8|	0|	Q|	1,600
-|Incubus|	40%|	7|	10***|	F10|	+1|	Q, N|	2,950
-|Demon|	30%|	8|	12***|	F12|	+1|	Q, N|	3,900
-|Dybbuk|	40%|	9	|14***|	F14	|+1|	R|	4,900
-|Devil|	50%|	10	|16****|	F16	|+2|	R|	7,200
-|Fiend|	70%|	11	|18******|	F18	|+2|	R, N|	9,800
-|Archfiend|	90%|	12	|20*******|	F20|	+3|	R, Q|	15,400
+|:- | :- |:- | :- | :- | :- | :- | :-
+|Spawn	|90%	|3|	2\*\*|	F2|	0	|B|	29
+|Imp|	70%|	4	|4\*\*|	F4|	0|	H	|190
+|Gremlin|	50%|	5|	6\*\*|	F6|	0|	N|	820
+|Hellion	|40%	|6|	8\*\*	|F8|	0|	Q|	1,600
+|Incubus|	40%|	7|	10\*\*\*|	F10|	+1|	Q, N|	2,950
+|Demon|	30%|	8|	12\*\*\*|	F12|	+1|	Q, N|	3,900
+|Dybbuk|	40%|	9	|14\*\*\*|	F14	|+1|	R|	4,900
+|Devil|	50%|	10	|16\*\*\*\*|	F16	|+2|	R|	7,200
+|Fiend|	70%|	11	|18\*\*\*\*\*\*|	F18	|+2|	R, N|	9,800
+|Archfiend|	90%|	12	|20\*\*\*\*\*\*\*|	F20|	+3|	R, Q|	15,400
 
 **Secondary Cacodemon Attributes**
 
 |Rank	|Dung. Enc.|	Wild. Enc.|	Special Abilities|	Chance Speech|	Caster Level| Spells/day: |	1|	2|	3|	4|	5|	6
-|:
+|:- | :- |:- | :- |:- | :- |:- | :- |:- | :- |:- | :- | :-
 |Spawn|	1d4|	1d4|	2 abilities	|1%|	1st| |	2|	-|	-|	-|	-|	-|
 |Imp|	1d4|	1d4|	2 abilities|	2%|	3rd| |	3|	1|	-|	-|	-|	-
 |Gremlin|	1d4|	1d4|	2 abilities|	5%|	5th| |	3|	2|	1|	-|	-|	-
@@ -129,7 +129,7 @@ A cacodemon’s movement rate and attack routine are determined by its body form
 **Cacodemon Attack Routines and Damage by Body Type and Power Category**
 
 |Body Type|	Arachnine|	Humanoid|	Monadine|	Scolopendrine|	Wyverine
-|:
+|:- |:- | :- |:- | :- | :-
 |AC|	+1|	0|	0|	+0|	+1
 |Move|	60’, 120’ fly| 	120’, 180’ fly|	30’, 60’ fly|	120’ , 180’ fly|	90’, 240’ fly
 |BME|	1.5|	2|	2.08|	1.5|	1.72
@@ -151,7 +151,7 @@ Cacodemon Size, mass, and Carrying Capacity
 A cacodemon’s mass (in pounds) is determined by its HD and its body mass exponent, according to the formula *mass = (HD x 10)BME*. The cacodemon’s weight then determines its carrying capacity and size category. Its carrying capacity is calculated according to the formula *carrying capacity = mass x CCF*. Size category is shown on the table below.
 
 |Mass|	35 lbs or less|	36 to 400 lbs|	401 to 2,000 lbs|	2,001 to 8,000 lbs|	8,001 to 32,000 lbs|	More than 32,000 lbs
-|:
+|:- | :- | :- | :- |:- | :- 
 |Size Category|	Small|	Man-Sized|	Large|	Huge|	Gigantic|	Colossal
 |Length/Height	|Less than 2’ long/tall|	Less than 8’ long/tall|	8’ to 12’ long/tall|	12’ to 20’ long/tall|	20’ to 32’ long/tall|	32’ or more long/tall
 
@@ -170,7 +170,7 @@ EXAMPLE: A particular cacodemon can cast illusion at will (4th level, usage 1), 
 Whatever their special abilities, cacodemons are unholy beings that can be held at bay by protection from evil, dispelled with dispel evil and turned by clerics as Infernal.
 
 |Usage| 	Usage Factor|	Usage|	Usage Factor
-|:
+|:- | :- | :- | :-
 |At will|	1|	1/day|	0.4
 |1/turn|	0.8|	1/week|	0.3
 |1/3 turns|	0.7|	1/month	|0.2
@@ -184,7 +184,7 @@ Refer to the Secondary Cacodemon Attributes table for the probability of speech 
 Cacodemons that can speak and cast spells should be counted as having two additional special abilities for purposes of XP. (This is already factored into the XP awards for Fiends and Archfiends, which always can speak and cast spells). If all cacodemons are unintelligent creatures incapable of speech in the Judge’s campaign setting, then cacodemons who would be capable of speech should gain an additional special ability instead.
 
 | Roll	| Special Ability
-|:
+|:- | :-
 | 01-02| Acid (1): The cacodemon’s attacks destroy non-magical armor or clothing on a successful hit. A non-magical weapon that strikes the cacodemon dissolves immediately after dealing damage. Magical weapons and armor are allowed a saving throw using the wearer’s save versus Death, adding any magical bonus to the roll if applicable.
 | 03-04| Aura (1): The cacodemon is surrounded by a damaging aura that deals damage to susceptible creatures each round. The aura has a radius of 2’ per HD, and deals 1d8 damage per round. Roll 1d8 for the type of aura: 1 – fire; 2 – lightning; 3 – freezing vapors; 4 – poison vapor; 5 – scouring wind; 6 – acid; 7 – blistering steam; 8 – fetid gas.
 | 05| 	Berserk (1): The cacodemon gains a +2 bonus to attack rolls and is immune to fear. Its morale score is raised to +4.
@@ -221,7 +221,7 @@ Cacodemons that can speak and cast spells should be counted as having two additi
 
 #### CAVE KRAKEN
 |% In Lair: |	100%
-|:
+|:- | :-
 |Dungeon Enc.: |	Solitary (1)
 |Wilderness Enc.: |	None
 |Alignment: |	Chaotic
@@ -234,11 +234,12 @@ Cacodemons that can speak and cast spells should be counted as having two additi
 |Morale: 	|	+2
 |Treasure Type: |	K
 |XP: 	|	1,560
+
 Cave krakens are frightening, octopus-like creatures often used by evil wizards to guard treasures in subterranean lakes and other bodies of water. They possess eight 12’ long tentacles, which are covered in wicked barbs. Tentacles that successfully strike a target constrict for 1d8 points of damage initially and then 1d8 per round thereafter until either the target is dead or the tentacle cut off. For every tentacle constricting a single target, the target suffers a -1 penalty to attack rolls.  A tentacle can be cut off if a total of 6 hit points or more of damage is dealt with one blow. If a cave kraken loses half or more of its tentacles, it will flee beneath the water, attacking again only if it is pursued or to defend any treasure it might be guarding.
 
 #### DRAGON, HEROIC FANTASY VARIANT
 |% In Lair:|	Varies
-|:
+|:- | :-
 |Dungeon Enc:	|Varies
 |Wilderness Enc:|	Varies
 |Alignment:	|Any
@@ -259,7 +260,7 @@ Dragons are an ancient and dangerous reptilian species, capable of surviving for
 In the world of the Auran Empire, dragons are elemental creatures whose very bodies adapt to whatever habitat they choose to lair in. In other worlds, dragons might have evolved in different ways in different habitats, or might have been created at different times for different environments. In any case, a dragon’s color and its breath weapon (if any) usually reflect the terrain and climate of their habitats, and dragons are often grouped into general categories on this basis. For instance, dragons that dwell in glaciers or frigid tundra will often have white hides and freezing breath weapons, earning the name white dragons.
 
 |Habitat|	Common Name|	Hide Color|	Breath Weapon
-|:
+|:- | :- | :- | :-
 |Any sinkhole of evil|	Wyrm|	Purple taupe, liver, charcoal, or black	|40’ long, 40’ wide, cloud, fetid gas
 |Any pinnacle of good	|Metallic dragon	|Bronze, silver, electrum, or gold	|90’ long, 30’ wide, cone, fire
 |Clouds, mountain peaks	|Blue dragon	|Sky blue, slate grey, cloud white	|100’ long, 5’ wide, line, lightning bolt
@@ -277,7 +278,7 @@ A dragon’s characteristics primarily depend on its age. See the Primary Dragon
 **Primary Dragon Attributes**
 
 | Category |	Age |	% In Lair |	AC |	HD |	Save |	Morale |	Treasure Type |	XP
-| :
+| :- | :-| :- | :-| :- | :-| :- | :-| :-
 | Spawn	| 1-5 years	| 90%	| 3	| 2**	| F2	| 0	| B	| 38
 | Very Young	| 6-15 years|	70%|	4|	4**|	F4|	0|	H|	190
 | Young|	16-25 years	|50%|	5|	6**|	F6|	0|	N|	820
@@ -293,7 +294,7 @@ A dragon’s characteristics primarily depend on its age. See the Primary Dragon
 
 
 | Category| 	Dung. Enc. | 	Wild. Enc. |	Chance Asleep |	Chance Speech |	Special Abilities* | Spells Per Day |	1 |	2 |	3 |	4 |	5
-| :
+| :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- 
 | Spawn |	1d4 |	1d4 |	80% |	1% |	1 ability |	 | 1 |	- |	- |	- |	- |
 | Very Young|	1d4|	1d4|	70%|	2%|	1 ability| |	2|	-|	-|	-|	-
 | Young|	1d4|	1d4|	60%|	5%|	1 ability| |	2|	1|	-|	-|	-
@@ -304,6 +305,7 @@ A dragon’s characteristics primarily depend on its age. See the Primary Dragon
 |Very Old|	1d2|	1d2|	10%|	75%|	3 abilities||	3|	3|	2|	2|	-
 |Ancient|	1d2|	1d2|	5%|	100%|	3 abilities|	|3|	3|	3|	2|	-
 |Venerable|	1|	1|	0%|	100%|	4 abilities||	3|	3|	3|	3|	2
+
 *Excluding special abilities gained from body form
 
 
@@ -322,7 +324,7 @@ A dragon’s movement rate and attack routine are determined by its body form. D
 **Dragon Attack Routines and Damage by Body Type and Age Category**
 
 |Body Type|	Guivre|	Lindworm|	Wyvern|	Monitor|
-|:
+|:- | :- | :- | :- | :-
 |Age Category|	2 (bite/tail)|	1 (bite)|	2 (bite/tail or talon/talon)|	3 (claw/claw/bite)
 |Spawn|	1d6/1d6|	2d6|	1d6/1d6|	1d2/1d2/2d3|
 |Very Young|	1d8/1d8|	2d8|	1d8/1d8|	1d3/1d3/2d4|
@@ -430,7 +432,7 @@ Sea dragons have the ability to breathe underwater and swim at a rate of 240’ 
  
 #### MANES
 |% In Lair:| 	None
-|:
+|:- | :-
 |Dungeon Enc: |	Plague (4d4)
 |Wilderness Enc: 	|Horde (5d20)
 |Alignment:|	 Chaotic
@@ -448,7 +450,7 @@ Manes are pathetic demons who grovel and serve both others of their kind as well
 
 #### SLUG, GIANT
 |% In Lair:|	None
-|:
+|:- | :-
 |Dungeon Enc: 	|Solitary (1)
 |Wilderness Enc: |	Solitary (1)
 |Alignment: |	Neutral
@@ -466,7 +468,7 @@ Giant slugs are larger, much stronger versions of normal slugs. A typical giant 
 
 #### SNAKE, GIANT CONSTRICTING VIPER
 | % In Lair:	|None
-|:
+|:- | :-
 |Dungeon Enc:	|Solitary (1)
 |Wilderness Enc:	|Solitary (1)
 |Alignment:	|Neutral
@@ -479,6 +481,7 @@ Giant slugs are larger, much stronger versions of normal slugs. A typical giant 
 |Morale:	|	+2
 |Treasure Type:|	None (make Incidental)
 |XP:	|	350
+
 The giant constricting viper is a primeval serpent that can grow to be up to 50’ long, with a head the size of a horse’s skull and a girth as tall as a man. When its yawning mouth opens, fangs drip with a venom that brings madness and death.
 
 Like other constrictor snakes, the constricting viper hunts by biting its prey, then squeezing it to death with its coils. Unlike pythons and boas, however, the bite of the constricting viper is venomous! A bitten victim must succeed in a saving throw v. Poison. If the save fails, the victim is immediately maddened (as the spell incite madness) from the pain. If the venom is not neutralized, the victim will die 1d4+2 turns later, screaming in agony.
@@ -487,7 +490,7 @@ On a successful bite, the giant constricting viper also automatically constricts
 
 #### STYMPH
 |% In Lair: 	40%
-|:
+|:- | :-
 |Dungeon Enc:	Flock (1d12) / Nest (4d12)
 |Wilderness Enc:	Storm (4d12) / Nest (4d12)
 |Alignment: 	Neutral
@@ -501,6 +504,7 @@ On a successful bite, the giant constricting viper also automatically constricts
 |Morale: 		-2
 |Treasure Type: 	F
 |XP: 		16
+
 Stymphs are man-eating cranes with brazen beaks and feathers. Their flight feathers are particularly large and sharp, and can be flung like darts to wound their prey. A stymph can throw two flight feathers per round while airborne. Flight feathers can hit targets up to 180’ away and deal 1d4 points of damage each. A stymph can throw up to 6 flight feathers without losing its capability to flight; a stymph will typically have 2d3 feathers available at the start of an encounter. Once a stymph has flung all of its available feathers, it will attack its prey in melee with its beak. The beak is armor-piercing, granting a +2 bonus to the stymph’s attack throws.
 
 Stymphs are rapacious and fecund. A flock of stymphs will soon desolate the area around its nest, eventually moving on when prey becomes scarce. A flock of stymphs on the move will destroy any crops, livestock, and countryfolk it encounters. In part, the creature’s rapacity is due to the high metabolic cost of replacing its flung flight feathers. A well-fed stymph can regrow its flung flight feathers at a rate of two per day, but if hungry stymph will be lucky to replace one per month.
@@ -509,7 +513,7 @@ Despite their ferocity, stymphs are easily frightened, and a flock can sometimes
 
 #### TROLL, STONE
 |% In Lair:|	40%
-|:
+|:- | :-
 |Dungeon Enc:|	Gang (1d8)
 |Wilderness Enc:|	Gang (1d8) / Lair (1d8 gangs)
 |Alignment:|	Chaotic
@@ -522,6 +526,7 @@ Despite their ferocity, stymphs are easily frightened, and a flock can sometimes
 |Morale:	|	+2 (0)
 |Treasure Type:	|O (per gang)
 |XP:	|	680
+
 A stone troll’s hide is usually of a grey or grey-brown, often of a pebbly texture. They are hairless, and are usually bulky and rotund. They stand 8’ to 10’ tall, and clothe themselves in rough loincloths of uncured hide. They are not picky eaters, but have a taste for intelligent humanoids.
 
 Stone trolls are only found above ground at night – a time they spend hunting, raiding, and scavenging for food and other materials. They do not range too far – perhaps only a few hour’s march from their lairs. Only bachelor groups migrating between lairs or seeking a new domicile are found further afield, unless they have been pressed into service by a more powerful being.
@@ -534,7 +539,7 @@ When stone trolls are encountered in a lair, certain additional creatures will b
 
 #### WRAITH, DEATHBOUND
 |% In Lair:|	25%
-|:
+|:- | :-
 |Dungeon Enc:	|Solitary (1) / Coven (1d3)
 |Wilderness Enc:|	Solitary (1) / Wrath (2d4+1)
 |Alignment:|	Chaotic
