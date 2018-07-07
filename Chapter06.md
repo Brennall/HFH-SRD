@@ -62,7 +62,7 @@ Tales of a dark overlord fielding entire armies of báleygr mounted on dragons a
 
 #### CACODEMON
 |% In Lair:	|Varies
-|:- | :- |:- | :- |:- | :- |:- | :- |
+|:- | :- 
 |Dungeon Enc:|Varies
 |Wilderness Enc:	|Varies
 |Alignment:|	Any
