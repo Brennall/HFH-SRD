@@ -1549,7 +1549,7 @@ This spell does *not* conjure up saddle and tack, nor does it automatically gran
 **No. Called by Caster Level**
 
 | Horse | 	7| 	8| 	9| 	10| 	11| 	12| 	13| 	14|
-| :-------- | :---
+| :-------- | :--- | :- | :- | :- | :- | :- | :- | :- |
 | Light Horse| 	7| 	8| 	9| 	10| 	11| 	12| 	13| 	14|
 | Medium Horse| 	4| 	5| 	6| 	6| 	7| 	8| 	8| 	9
 | Heavy Horse| 	3| 	4| 	4| 	5| 	5| 	6| 	6| 	7
