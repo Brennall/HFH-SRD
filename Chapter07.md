@@ -47,7 +47,7 @@ Note that the Special Treasure tables below have been updated from those found i
 **Roll 1d20 per 1,000cp:**
 
 | 1d20 | Treasure
-|:
+|:- | :-
 | 1 |	2d20 bags of grain or vegetables, worth 5sp each (4 stone each)
 | 2 |	1d3 barrels of preserved fish or pork, worth 5gp each (8 stone each)
 | 3 |	1d3 tenths of a cord of hardwood log, worth 5gp each (8 stone each)
@@ -63,7 +63,7 @@ Note that the Special Treasure tables below have been updated from those found i
 **Roll 1d20 per 1,000sp:**
 
 | 1d20 | Treasure
-|:
+|:- | :-
 | 1	| 10,000 copper pieces
 | 2	| 3d6x10gp of livestock (roll 1d6 on Animals table of Trade Goods)
 | 3	| 2d4 jars of lamp or cooking oil, worth 20gp each (6 stone per jar)
@@ -82,7 +82,7 @@ Note that the Special Treasure tables below have been updated from those found i
 **Roll 1d20 per 1,000ep:**
 
 | 1d20 | Treasure
-| :
+| :- | :-
 | 1	| 5,000 silver pieces
 | 2	| 1d3 captured or enslaved craftsmen or merchants,  worth 1d4x100gp  each (12 stone each if unconscious)
 | 3	| 1d3 crates of armor and weapons, worth 225gp each (10 stone each)		
@@ -99,7 +99,7 @@ Note that the Special Treasure tables below have been updated from those found i
 **Roll 1d20 per 1,000gp:**
 
 | 1d20 | Treasure
-|:
+|:- | :-
 | 1	| 10,000 silver pieces
 | 2	| 1 metamphora of preserved special components, worth 4d4 x 100gp (1 stone per 60gp value)
 | 3	| 1d6 fresh monster carcasses, with special components worth 1d10 x 50gp each (1 stone per 60gp value)
@@ -118,7 +118,7 @@ Note that the Special Treasure tables below have been updated from those found i
 **Roll 1d20 per 1,000pp:**
 
 | 1d20 | Treasure
-| :
+| :- | :-
 | 1	| 5,000 gold pieces (5 stone)
 | 2	| 3d10 ingots of precious metals, worth 300gp each (2 stone each)
 | 3	| 5d10 capes of common fur (such as beaver, fox, and rabbit), worth 1d6x50gp each (1 stone each)
@@ -134,7 +134,7 @@ Note that the Special Treasure tables below have been updated from those found i
 **Roll 1d12 per ornamental: (30)**
 
 | 1d12 | Treasure
-| :
+| :- | :-
 | 1	| 1d12 silver arrows, each worth 5gp	(1 item each)
 | 2	| 1d12 pouches of lungwort or willowbark, worth 5gp each (1 item each)
 | 3	| 1d6 pouches of birthwort, comfrey, goldenrod, or woundwort, worth 10gp each (1 item each)		
@@ -146,7 +146,7 @@ Note that the Special Treasure tables below have been updated from those found i
 **Roll 1d10 per gem: (200)**
 
 | 1d10 | Treasure
-| :
+| :- | :-
 | 1	| 1 pouch of black lotus, worth 200gp (1 item)
 | 2	| 1 set of superior thieves’ tools, worth 200gp	 (1 item)
 | 3	| 1d4 sets of engraved teeth, worth 2d6x10gp each (1 item each)
@@ -157,7 +157,7 @@ Note that the Special Treasure tables below have been updated from those found i
 **Roll 1d8 per brilliant: (4000)**
 
 | 1d8 | Treasure
-| :
+| :- | :-
 | 1	| 2d20 jade carvings of heroes, monsters, and gods, worth 200gp each (1 item per 6 carvings)		 	
 | 2	| 1d4 sets of masterwork thieves’ tools, worth 1,600gp each (1 item each)
 | 3	| 2d4 opal cameo portraits of historical figures and aristocrats, worth 800gp each (1 item per 6 portraits)
@@ -167,7 +167,7 @@ Note that the Special Treasure tables below have been updated from those found i
 **Roll 1d10 per trinket: (225)**
 
 | 1d10 | Treasure
-|:
+|:- | :-
 | 1	| 3d6 bone fetishes and figurines, each worth 2d20gp (1 item each)
 | 2	| 2d6 glass eyes, lenses, or prisms, each worth 1d6x10gp (1 item each)
 | 3	| 1d4 items of superior quality, worth 70+5d6gp each (1 item each)
@@ -177,7 +177,7 @@ Note that the Special Treasure tables below have been updated from those found i
 **Roll 1d10 per piece of jewelry: (1000)**
 
 | 1d10 | Treasure
-|:
+|:- | :-
 | 1	| 1d8 trinkets (1 item each)
 | 2	| 1 cape of large animal fur (such as black bear, hyena, or wolf), worth 2d4x200gp (1 stone each)
 | 3	| 1d10 vials of common poison (animal venom or plant toxin) worth 2d6x25gp each (1 item each)
@@ -188,7 +188,7 @@ Note that the Special Treasure tables below have been updated from those found i
 **Roll 1d12 per regalia: (11,000)**
 
 | 1d12 | Treasure
-| :
+| :- | :-
 | 1	| 4d8 pieces of jewelry (1 item each)
 | 2	| 1d6 capes of rare animal or monster fur (such as ermine, mink, sable, or chimera), worth 1d6x1000gp each (1 stone each)
 | 3	| 1d4 coats of large common or uncommon animal fur (such as apes, bears, or great cats), worth 1d6+1x1000gp  (1 stone each)
@@ -204,7 +204,7 @@ Note that the Special Treasure tables below have been updated from those found i
 **Common Items**
 
 | Roll d00	| Common Item	| 	| Roll d00	| Common Item
-| :
+| :- | :- | :- | :- | :-
 | 1-5	| *Armor, Masterwork*| 		| 41	| Potion of Righteous Wrath
 | 6-15	| *Miscellaneous Weapon, Masterwork*| 		| 42-43	| Potion of Silent Step
 | 16-17	| Oil of Bane-Rune| 		| 44| Potion of Speaking With Animals
@@ -227,7 +227,7 @@ Note that the Special Treasure tables below have been updated from those found i
 **Uncommon Items**
 
 | Roll d00	| Uncommon Item	| 	| Roll d00	| Uncommon Item
-| :
+| :- | :- | :- | :- | :-
 | 1-5	| Armor +1| 		| 41| 	Potion of Levitation
 | 6	| Arrow +3, Slaying Arrow| 		| 42| 	Potion of Necromantic Invulnerability
 | 7	| Arrows +1, 2d6 (7)| 		| 43| 	Potion of Poison
@@ -266,7 +266,7 @@ Note that the Special Treasure tables below have been updated from those found i
 **Rare Items**
 
 | Roll d00	| Rare Item| 		| Roll d00	| Rare Item
-| :
+| :- | :- | :- | :- | :- 
 | 1	| Armor +1 and Shield +1|		| 46	|Spell Scroll (22 spell levels)
 | 2-3	| Armor +2|		|47|	Spell Scroll (24 spell levels)
 | 4	| Armor +2 and Shield +1|		| 48	|Spell Scroll (26 spell levels)
@@ -307,7 +307,7 @@ Note that the Special Treasure tables below have been updated from those found i
 **Very Rare Items**
 
 | Roll d00|	Very Rare Item|		|Roll d00|	Very Rare Item
-|:
+| :- | :- | :- | :- | :- 
 | 1| 	Amulet versus Crystal Balls and ESP| 		| 48| 	Ring of Command Plant
 | 2|	Armor +1 and Shield +3|		|49|	Ring of Fire Resistance
 | 3|	Armor +2 and Shield +3|		|50|	Ring of Invisibility
@@ -350,7 +350,7 @@ Note that the Special Treasure tables below have been updated from those found i
 **Legendary Items**
 
 |Roll d00|	Legendary Item
-| :
+| :- | :- 
 |1-2|	Apparatus of the Crab
 |3-4|	*Armor of the Invincible Conqueror*
 |5-6|	*Bow of the Great Eagles*
@@ -404,7 +404,7 @@ Entries in italics indicate new items described below. 
 In most cases, the entries for armor, swords, and weapons on the Magic Item tables do not specify the exact item found. A suit of armor might be hide, ring, or plate; a sword might be a short sword or a two-handed sword; a miscellaneous weapon might be a battle axe or spear or a warhammer. What is found will depend on the source of the treasure. The Judge can use the tables below to guide placement of appropriate armors, swords, and weapons in his treasure hoards based on the campaign setting and treasure source.
 
 |Armor Type Roll 1d20	|Ancient Myth	|Classical Epic|	Northern Saga|	Chivalric Romance|	Arabian Adventure|	High Fantasy|	Sword & Sorcery
-| :
+| :- | :- | :- | :- | :- | :- | :- | :- 
 |Hide|	1|	1|	1|	-|	1|	-|	-|
 |Leather|	2-5|	2-6|	2-6|	1-5|	2-6|	1-5|	1-5
 |Light Arena|	6-7|	7|	-|	-|	-|	-|	6
@@ -417,14 +417,14 @@ In most cases, the entries for armor, swords, and weapons on the Magic Item tabl
 |Plate|	18-20|	17-20|	17-20|	17-20|	20|	15-20|	16-20
 
 |Sword Type Roll 1d10	|Ancient Myth	|Classical Epic|	Northern Saga|	Chivalric Romance|	Arabian Adventure|	High Fantasy|	Sword & Sorcery
-| :
+| :- | :- | :- | :- | :- | :- | :- | :- 
 |Dagger|	1-3|	1-3|	1-3|	1-3|	1-3|	1-3|	1-2
 |Short Sword|	4-9|	4-7|	4-6|	4-5|	4-6|	4-5|	3-5
 |Sword|	10|	8-9|	7-9|	6-8|	7-9|	6-8|	6-8
 |Two-Handed Sword|	-|	10|	10|	9-10|	10|	9-10|	9-10
 
 |Misc. Weapon Type Roll 1d100	|Ancient Myth	|Classical Epic|	Northern Saga|	Chivalric Romance|	Arabian Adventure|	High Fantasy|	Sword & Sorcery
-| :
+| :- | :- | :- | :- | :- | :- | :- | :- 
 |Arbalest|	-|	-|	-|	01-05|	-|	01-05|	01-02
 |Axe, Battle|	01-05|	01-05|	01-10|	06-10|	01-03|	06-10|	03-09
 |Axe, Great|	-|	-|	11-15|	11-15|	-|	11-15|	10-14|
@@ -473,7 +473,7 @@ Magical weapons and armor follow the same class restrictions as all normal weapo
 When a sword or other weapon has a plus, such as a dagger +1, this means that attack throws and damage rolls both receive a +1 bonus. Masterwork weapons grant a +1 bonus to attack throws and damage, but cannot affect creatures which can only be harmed by magic. If a weapon has more than one bonus listed, the first bonus applies to all attacks and damage, and the second applies only to an exclusive group of creatures. If the weapon’s entry does not specify which group of creatures the secondary bonus applies to, the Judge can choose or roll for the creatures affected on the table below.
 
 |Roll 1d20|	Type|	|Roll 1d20|	Type
-| :
+| :- | :- | :- | :- | :- 
 |1	|Animals*|	|11	|Men
 |2	|Avians*|	|12	|Lycanthropes
 |3	|Beastmen|	|13	|Oozes
@@ -491,7 +491,7 @@ When a sword or other weapon has a plus, such as a dagger +1, this means that at
 Items of proficiency can be activated three times per day (3/day). When activated, items of proficiency grant their wielder the proficiency for one hour, or until the wearer drops the item or the effect is dispelled. This effect is worth 6,000gp (it’s effectively a 1st level spell 3/day). Some legendary items, such as the bow of the great eagles, grant proficiencies whenever they are wielded, without requiring activation. As permanent powers, these effect cannot be dispelled, but are much more expensive to enchant!
 
 |Roll 1d10|	Shield|		|Roll 1d10|	Missile Weapon
-|:
+|:- | :- | :- | :- | :- 
 |1	|Alertness|		|1	|Acrobatics
 |2	|Berserkergang|		|2	|Alertness
 |3	|Combat Trickery (force back)|		|3	|Combat Reflexes
@@ -504,7 +504,7 @@ Items of proficiency can be activated three times per day (3/day). When activate
 |10	|Skirmishing|		|10	|Weapon Focus
 
 |Roll 1d10|	 Small Melee Weapon|		|Roll 1d10|	Medium Melee Weapon|		|Roll 1d10|	Large Melee Weapon
-| :
+| :- | :- | :- | :- | :- | :- | :- | :- 
 |1	|Acrobatics|		|1	|Alertness|		|1|	Alertness
 |2	|Cat Burglary|		|2	|Berserkergang|		|2|	Berserkergang
 |3	|Combat Reflexes|		|3|	Combat Trickery (disarm)|		|3|	Combat Trickery (force back)
@@ -565,7 +565,7 @@ But what if Marcus were slain at 4th level, after unlocking Fist of Iron / Tooth
 Crew	Combat Characteristics	Dimensions
 
 |Chariot Type|	Driver|	Warriors|	Animals|	Move|	Max Move|	AC|	AC Bonus|	SHP|	Chariot	Cab  / Platform
-|:
+|:- | :- | :- | :- | :- | :- | :- | :- | :- | :- 
 |Light|	1|	1|	1 - 2|	x3/4|	360’|	0|	0|	5|	5’9” x 11’6”	3’3” x 1’8” x 2’6”
 |Medium|	1|	2|	2 - 3|	x2/3|	240’|	1|	+1|	8|	6’6” x 13’	4’ x 3’ x 3’
 |Heavy|	1|	3|	3 - 4|	x1/2|	180’|	2|	+2|	10|	7’ x 15’	4’6” x 3’3” x 3’9”
@@ -606,7 +606,7 @@ If the emblem is carried as the flag of an army leader’s unit, then so long as
 Any character literate in Ancient Zaharan can read the iron-bound book. Reading the entire book requires one day (8 hours) of game time, but need not take place in one sitting. Each time a character reads the entire book, he should roll 1d100 to determine whether he has learned some valuable piece of lore. The chance of learning lore starts at 6% and increases with each additional re-read of the entire book, as shown on the Iron-Bound Book table, adjacent. If a character successfully learns from the book the Judge should roll 1d20 on the Black Lore table below to determine what the character learns – a spell formula, a potion formula, a ritual formula, or the true name of a cacodemon. (Ceremonialists who read the book should learn ceremonial formulas instead of spell formulas.)
 
 |Number of Readings|	Learn Lore|	Slip Into Madness
-|:
+|:- | :- | :- 
 |1|	6%|	1%
 |2|	9%|	3%
 |3|	12%|	5%
@@ -622,7 +622,7 @@ Any character literate in Ancient Zaharan can read the iron-bound book. Reading 
 |13+	|95%	|100%
 
 |Roll (d20)|	Lore Learned|	|Roll (d20)|	Lore Learned
-| :
+| :- | :- | :- | :- | :- 
 |1|	2d6-1 1st level spell formulas|	|11|	True names of 1d2 devils
 |2|	2d3-1 2nd level spell formulas|	|12|	True name of 1 fiend
 |3|	1d3 3rd level spell formulas|	|13|	True name of 1 archfiend
@@ -689,7 +689,7 @@ Each of these magic items generally uses a charge when its effect is triggered, 
 The table below lists the constellations of the zodiac for the Auran Empire setting, along with the powers afforded to the bearer when so configured. The Judge may substitute zodiac signs of his own design in lieu of those listed below; each zodiac sign should have three powers, totaling 12 total levels of spells (e.g. 1 6th, 1 4th, and 1 2nd level power, or 1 6th, 1 5th, and 1 st, or 2 5th and 1 2nd, etc.) All of the spells are cast at minimum caster level. Value: 360,000gp (12 spell levels available for daily use one month out of each year, at a cost of x5, for 12 x 500 x 5 = 30,000gp per set of monthly powers, x 12 months).
 
 |Zodiac	|Powers
-| :
+| :- | :- 
 |The Empress	|enslave, voice of command, voice of persuasion
 |The Cowl	|necromantic invulnerability, animate dead, deathless minion
 |The Eye	|greater clairvoyance, contact other sphere, incite madness
@@ -732,7 +732,7 @@ EXAMPLE: The Judge is placing a rare scroll of 20 spell levels. He first rolls 1
 **Scroll Color**
 
 |Roll D6	|Scroll Color
-| :
+| :- | :- 
 |1|	White
 |2|	White
 |3|	Grey
@@ -743,7 +743,7 @@ EXAMPLE: The Judge is placing a rare scroll of 20 spell levels. He first rolls 1
 **Spell Color by Scroll Color**
 
 |Roll D6|	White|	Grey|	Black
-| :			
+| :- | :- 
 |1|	White|	White|	White
 |2|	White|	Grey|	Grey
 |3|	White|	Grey|	Grey
@@ -754,7 +754,7 @@ EXAMPLE: The Judge is placing a rare scroll of 20 spell levels. He first rolls 1
 **Language by Scroll Color**
 
 |Scroll’s Language|	White|	Grey|	Black
-| :
+| :- | :- 
 |Classical Auran|	01-30|	01-20|	01-05
 |Common|	21-40|	21-30|	06-15
 |Draconic|	41-60|	31-50|	16-35
@@ -804,7 +804,7 @@ The Judge then rolls 1d100 five times on the Trinket & Talisman Object table, cr
 **T&T Tradition (1d8)**
 
 |Roll D8|	Tradition
-| :
+| :- | :- 
 | 1 | Antiquarian
 | 2 | Chthonic
 | 3 | Liturgical
@@ -817,7 +817,7 @@ The Judge then rolls 1d100 five times on the Trinket & Talisman Object table, cr
 **Trinket Spell Color by Tradition (Roll 1d10)**
 
 |Tradition| White|	Grey|	Black
-| :
+| :- | :- 
 |Antiquarian|	1-5|	6-9|	10
 |Chthonic|	1|	2-4|	5-10
 |Liturgical|	1-7|	8-9|	10
@@ -837,7 +837,7 @@ EXAMPLE: The Judge is placing a rare trinket +5. He first rolls 1d8 to determine
 **Talisman Bonus Type by Tradition (Roll 1d10)**
 
 |Type| 	Antiquarian|	Chthonic|	Liturgical|	Runic|	Sylvan|	Shamanic|	Theurgical
-| :
+| :- | :- | :- | :- | :- | :- | :- | :- 
 |Death & Necromancy|	01-04| 	01-20|	01-03|	01-08|	01-04|	01-08| 	01-12
 |Detection|	05-16|	21-28|	04-15|	08-20|	05-12|	09-16|	21-24
 |Elemental Air|	17-24|	29-36|	16-23|	21-28|	13-22|	17-26|	25-32|
@@ -854,7 +854,7 @@ EXAMPLE: The Judge is placing a rare trinket +5. He first rolls 1d8 to determine
 **Trinket & Talisman Object by Tradition (Roll 1d100)**
 
 |Type|	Antiquarian|	Chthonic|	Liturgical|	Runic|	Sylvan|	Shamanic|	Theurgical
-| :
+| :- | :- | :- | :- | :- | :- | :- | :- 
 |Amulet|	01-04|	01-04|	01-04|	01-05|	01-05|	01-04|	01-04
 |Animal parts|	-|	-|	-|	-|	06-10|	05-10|	-
 |Altar cloth|	-|	05-08|	05-08|	-|	-|	-|	05-08
