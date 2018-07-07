@@ -817,7 +817,7 @@ The Judge then rolls 1d100 five times on the Trinket & Talisman Object table, cr
 **Trinket Spell Color by Tradition (Roll 1d10)**
 
 |Tradition| White|	Grey|	Black
-| :- | :- 
+| :- | :- | :- | :-
 |Antiquarian|	1-5|	6-9|	10
 |Chthonic|	1|	2-4|	5-10
 |Liturgical|	1-7|	8-9|	10
