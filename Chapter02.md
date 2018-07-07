@@ -152,7 +152,7 @@ When a beastmaster reaches 5th level (Mighty Warrior), his animal magnetism begi
 At 9th level (Lord of the Wild), a beastmaster can establish an encampment in a wilderness hex. A beastmaster’s encampment is often centered on a wooden cabin or house perched in the highest branches of a great tree. A beastmaster does not attract followers when he establishes an encampment, but he does gain the fellowship of animals: all ordinary animals within 5 miles of it become kind and helpful (as per an elven fastness).
 
 <b>Beastmaster Proficiency List:</b> Alertness, Animal Husbandry, Animal Training, Berserkergang, Blind Fighting, Combat Trickery (disarm, incapacitate, knock down, overrun), Dungeon Bashing, Endurance, Fighting Style, Land Surveying, Mountaineering, Naturalism, Navigation, Passing Without Trace, Precise Shooting, Riding, Running, Skirmishing, Sniping, Survival, Swashbuckling, Trapping, Wakefulness, Weapon Finesse, Weapon Focus*
-*Modified or new proficiency described on p. XX.
+*Modified or new proficiency described in [New and Modified Proficiencies](#new-and-modified-proficiencies).
 
 | Template:           | Wolfpack Runner
 | :------------------ | :--------
