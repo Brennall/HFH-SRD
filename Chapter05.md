@@ -1582,7 +1582,7 @@ For the duration of the spell, the cats will understand the spellcaster’s spee
 **No. Called by Caster Level**
 
 | Type of Large Cat |	9|	10|	11|	12|	13|	14|	Native Terrain
-|:-------- | :---
+|:-------- | :--- | :- | :- | :- | :- | :- | :- |
 | Mountain Lion |	5|	6|	6|	7|	7|	8|	Hills, Mountains, Barren
 |Panther|	4|	5|	6|	6|	6|	7|	Clear, Grass, Scrub, Woods, River, Jungle
 |Lion|	4|	4|	4|	5|	5|	6|	Clear, Grass, Scrub, Desert, Jungle
