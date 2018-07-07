@@ -151,7 +151,7 @@ Cacodemon Size, mass, and Carrying Capacity
 A cacodemon’s mass (in pounds) is determined by its HD and its body mass exponent, according to the formula *mass = (HD x 10)BME*. The cacodemon’s weight then determines its carrying capacity and size category. Its carrying capacity is calculated according to the formula *carrying capacity = mass x CCF*. Size category is shown on the table below.
 
 |Mass|	35 lbs or less|	36 to 400 lbs|	401 to 2,000 lbs|	2,001 to 8,000 lbs|	8,001 to 32,000 lbs|	More than 32,000 lbs
-|:- | :- | :- | :- |:- | :- 
+|:- | :- | :- | :- |:- | :- | :-
 |Size Category|	Small|	Man-Sized|	Large|	Huge|	Gigantic|	Colossal
 |Length/Height	|Less than 2’ long/tall|	Less than 8’ long/tall|	8’ to 12’ long/tall|	12’ to 20’ long/tall|	20’ to 32’ long/tall|	32’ or more long/tall
 
