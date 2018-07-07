@@ -12,7 +12,7 @@
 Treasure - the wage of heroes! A dragon’s or evil sorcerer-king’s hoard will lay glimmering in the torchlight, coin in uncountable volume like the sands of the desert. Sprinkled among the coin will be goods from exotic lands, trophies of monsters and victories won, and possibly even items of legendary power. Bold adventurers may carry off a few choice items and precious metals, but few parties could plunder the full hoard unless they’ve brought an army. To better reflect these genre tropes, the Treasure Type tables have been substantially adjusted for the *Heroic Fantasy Handbook*.
 
 | Treasure Type  & Avg. Value |	1000s of Copper |	1000s of Silver |	1000s of Electrum |	1000s of Gold |	1000s of Platinum |	Gems |	Jewelry |	Magic Items
-| :
+| :- | :- | :- | :- | :- | :- | :- | :- | :- 
 |A	Incidental 275gp | 	30% 2d4 |	30% 1d3 |	None |	None |	None |	30% 1d4 ornamentals |	30% 1d4 trinkets |	20% 1 common, 2% 1 uncommon
 |B	Hoarder 500gp |	80% 4d4 |	80% 1d4 |	None |	None |	None |	70% 1d4 ornamentals |	30% 1d4 trinkets |	50% 1 common, 25% 1 uncommon, 5% 1 rare
 | C	Incidental 700gp |	35% 2d4 |	35% 1d3 |	10% 1d3 |	None |	None |	40% 1d6 gems |	30% 1d6 trinkets |	25% 1 common, 15% 1 uncommon, 2% 1 rare
