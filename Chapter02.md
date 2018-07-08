@@ -1076,7 +1076,7 @@ Loremaster Proficiency List: Alchemy*, Battle Magic, Beast Friendship, Black Lor
 #### Loremaster Saving Throws
 
 | Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | | Level | Attack Throw
-| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | | ----: | -----------:
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: |:- | ----: | -----------:
 | 1-2   |                       13+ |            10+ |            16+ |            13+ |    15+ | | 1-3   |   10+
 | 3-4   |                       12+ |             9+ |            15+ |            12+ |    14+ | | 4-6   |    9+
 | 5-6   |                       11+ |             8+ |            14+ |            11+ |    13+ | | 7-9   |    8+
