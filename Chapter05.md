@@ -281,7 +281,7 @@ Characters within the place who perform ceremonial magic or magical research of 
 
 Spellsinging is an alternative way to perform magic that is more fluid and flexible than traditional spellcasting. Spellsinging was inspired by the magic of Middle Earth, as used by Tom Bombadil and Lúthien Tinúviel; the magic of the Kalevala, itself based on traditional Finnish spellsongs; the magic of the Greek hero Orpheus; the magic of Blue in the Apprentice Adept series; and more. It could also represent other fluid types of spellcasting, such as the Wheel of Time’s channeling or the linguistic magic of the wizards of Earthsea.
 
-The following rules explain how spellsinging works. The Elven Spellsinger class in these rules is built on these mechanics, but the Judge may convert other classes to spellsingers if desired. The [Heroic Secrets](Chapter08.md#heroic-secrets) chapter has further details on building and converting classes.
+The following rules explain how spellsinging works. The Elven Spellsinger class in these rules is built on these mechanics, but the Judge may convert other classes to spellsingers if desired. The [Heroic Secrets](Chapter08.md#chapter-8-heroic-secrets) chapter has further details on building and converting classes.
 
 ### Spell Points
 
