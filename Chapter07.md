@@ -743,7 +743,7 @@ A scroll of spells will be found with anywhere from 1 to 42 spell levels written
 **Spell Color by Scroll Color**
 
 |Roll D6|	White|	Grey|	Black
-| :- | :- 
+| :- | :- | :- | :-
 |1|	White|	White|	White
 |2|	White|	Grey|	Grey
 |3|	White|	Grey|	Grey
@@ -754,7 +754,7 @@ A scroll of spells will be found with anywhere from 1 to 42 spell levels written
 **Language by Scroll Color**
 
 |Scroll’s Language|	White|	Grey|	Black
-| :- | :- 
+| :- | :- | :- | :-
 |Classical Auran|	01-30|	01-20|	01-05
 |Common|	21-40|	21-30|	06-15
 |Draconic|	41-60|	31-50|	16-35
