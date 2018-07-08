@@ -1,4 +1,4 @@
-[Previous](Chapter01.md#chapter-1-introduction) [Top](Chapter00.md#table-of-contents) [Next](Chapter03.md#chapter-3-heroic-deeds)
+[Previous](Chapter01.md#chapter-1-introduction) [Top](Chapter00.md#table-of-contents) [Next](Chapter03.md)
 
 * * *
 
