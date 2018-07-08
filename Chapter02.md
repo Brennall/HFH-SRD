@@ -2328,3 +2328,7 @@ If the character’s personal talisman is ever lost or destroyed, the character 
 | Sylvan |	animal clippings and parts, candle set, herb bundle, small cauldron,  various crystals and stones, wand
 | Shamanic |	animal clippings and parts, bell, drum, drum stick, doll, medicine bag, pipe, rattle, various ribbons,  various crystals and stones
 | Theurgical |	altar cloth, book, candle set, censer, ceremonial sword, crown, holy water, holy symbol, lamp, pitcher, quill and ink, ritual chalice
+
+* * *
+
+[Previous](Chapter01.md#chapter-1-introduction) [Top](Chapter00.md#table-of-contents) [Next](Chapter03.md#chapter-3-heroic-deeds)
