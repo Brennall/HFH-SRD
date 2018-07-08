@@ -281,13 +281,13 @@ Characters within the place who perform ceremonial magic or magical research of 
 
 Spellsinging is an alternative way to perform magic that is more fluid and flexible than traditional spellcasting. Spellsinging was inspired by the magic of Middle Earth, as used by Tom Bombadil and Lúthien Tinúviel; the magic of the Kalevala, itself based on traditional Finnish spellsongs; the magic of the Greek hero Orpheus; the magic of Blue in the Apprentice Adept series; and more. It could also represent other fluid types of spellcasting, such as the Wheel of Time’s channeling or the linguistic magic of the wizards of Earthsea.
 
-The following rules explain how spellsinging works. The Elven Spellsinger class in these rules is built on these mechanics, but the Judge may convert other classes to spellsingers if desired. The [Heroic Secrets](chapter08.md#heroic-secrets) chapter has further details on building and converting classes.
+The following rules explain how spellsinging works. The Elven Spellsinger class in these rules is built on these mechanics, but the Judge may convert other classes to spellsingers if desired. The [Heroic Secrets](Chapter08.md#heroic-secrets) chapter has further details on building and converting classes.
 
 ### Spell Points
 
 Spellsingers perform magic by spending spell points (SP) rather than by expending daily spell castings. The spellsingers’ use of spell points gives them the flexibility to choose to cast a large number of low level spells, a small number of high level spells, or any combination in between. The number of spell points that a spellsinger has is determined by his casting progression and level of experience, as shown on the Spell Points Per Day table.
 
-Spellsingers recover their spell points in the same way spellcasters recover their daily spell castings, by spending eight hours resting without interruption and one hour concentrating on prayer or study. Spell points can only be recovered by resting once every 24 hours. However, in some circumstances spellsingers can recover spell points more quickly by [tapping ambient magic](chapter06.md#tapping-power).
+Spellsingers recover their spell points in the same way spellcasters recover their daily spell castings, by spending eight hours resting without interruption and one hour concentrating on prayer or study. Spell points can only be recovered by resting once every 24 hours. However, in some circumstances spellsingers can recover spell points more quickly by [tapping ambient magic](Chapter05.md#tapping-power).
 
 
 **Spells Points per Day by Level of Experience**
@@ -415,7 +415,7 @@ When a mishap occurs, the spellsinger must roll 1d10 on the Spellsinging Mishaps
 
 *Adamancus of Zaar set about the dark ritual without delay. First, with a pointed Rod of Power, he traced a luminous circle about the column whereto Sumia was led helpless in the invisible bonds. Another such circle he set about Shangoth… Having set in place the circles of protection, he next kindled a Hell Flame on a low altar of black emerald. The weird crimson flame smoldered a few inches about the surface of the gemlike substance… Now he was ready to begin the last ritual. Arming himself with potent talismans whereon terrific runes of Elder Lore were graven deep on pendent disks of rarest orichalc and precious jazite, he began the great conjuration… He chanted a series of names in that uncouth language of the magi for which the lips of men were never shapen to speak…  The thunderous invocation rose, shaking the room with the seism impact of these terrific Names of Power… and a smoky wraith began to form out of empty air!* – Thongor Against the Gods (Lin Carter)
 
-Ceremonial magic is the art of performing ceremonies – complex rituals that rely on lengthy chants, symbolic patterns, magical reagents, and complicated movements to cast spells. Ceremonies may only be performed by characters of special classes (of which the [occultist](chapter02.md#occultist) class is one example) or by spellcasters who have taken the Ceremonial Magic proficiency. Collectively, characters capable of using ceremonial magic are called ceremonialists.
+Ceremonial magic is the art of performing ceremonies – complex rituals that rely on lengthy chants, symbolic patterns, magical reagents, and complicated movements to cast spells. Ceremonies may only be performed by characters of special classes (of which the [occultist](Chapter02.md#occultist) class is one example) or by spellcasters who have taken the Ceremonial Magic proficiency. Collectively, characters capable of using ceremonial magic are called ceremonialists.
 
 Like spells, ceremonies have unique names, types, and effects, with levels that measure how powerful they are. The name, type, and level of a ceremony are always identical to those of the spell that the ceremony casts. Thus, a bane-rune ceremony would be a 1st level eldritch ceremony, because bane-rune itself is a 1st level eldritch spell. Since this rulebook focuses on eldritch magic, all of the ceremonies and ceremonialists discussed herein are eldritch, but Judges could create arcane and divine ceremonialist for their campaigns if desired.
 
@@ -1937,7 +1937,7 @@ This spell raises the bones or body of a single dead creature within range as an
 
 Skeletons will have Hit Dice equal to the number the monster had in life; for skeletons of humans or demi-humans, this means one Hit Die, regardless of the character level of the deceased. Zombies will have one more Hit Die than the monster had in life. Unlike animate dead, the HD of the skeleton or zombie created are not limited by the caster’s level. However, a deathless minion lasts for just one hour, after which it crumbles to dust.
 
->**Note that the spell effects above should revise and replace the deathless minion spell in *Player’s Companion*. See [Death Effect Notes](chapter08.md#death-effects-notes) in Chapter 8 of this book for an explanation why.**
+>**Note that the spell effects above should revise and replace the deathless minion spell in *Player’s Companion*. See [Death Effect Notes](Chapter08.md#death-effects-notes) in Chapter 8 of this book for an explanation why.**
 
 
 #### Destroy Dead
@@ -2804,7 +2804,7 @@ This spell strengthens one or more undead creatures within range. The caster can
 |Eldritch| 1 (Black)
 |		Duration:|	1 day
 
-The caster summons one manes per level of experience from the Outer Darkness to serve him (see [Manes](chapter06.md#manes) in the Heroic Monsters chapter for details). The manes appear anywhere within range. The wretched demons will slavishly respond to the caster’s will. The manes vanish when destroyed or dispelled, or when the spell expires. Because of the soul-blasting nature of this spell, it cannot be cast more than once per day.
+The caster summons one manes per level of experience from the Outer Darkness to serve him (see [Manes](Chapter06.md#manes) in the Heroic Monsters chapter for details). The manes appear anywhere within range. The wretched demons will slavishly respond to the caster’s will. The manes vanish when destroyed or dispelled, or when the spell expires. Because of the soul-blasting nature of this spell, it cannot be cast more than once per day.
 
 #### Summon Insect Swarm
 |	Range:|	10’

@@ -33,7 +33,7 @@ The virtues within a code are always listed in order of importance. When contrad
 
 >EXAMPLE: Sigwulf has sworn an oath to slay his brother’s murderer, Bjorn, on sight. Sigwulf is awakened one morning by Bjorn, crippled in battle, asking for refuge in Sigwulf’s home. Since hospitality takes precedence over reliability (not breaking an oath) and loyalty (taking revenge for his brother’s killing), Sigwulf extends the guest-rite to Bjorn.
 
-Characters who have accumulated so much corruption (see [Shades of Magic](chapter05.md#shades-of-magic) section) that their alignment has or would have shifted cannot benefit from a heroic code.
+Characters who have accumulated so much corruption (see [Shades of Magic](Chapter05.md#shades-of-magic) section) that their alignment has or would have shifted cannot benefit from a heroic code.
 
 
 ## Heroic Funerals
@@ -85,7 +85,7 @@ A Fate Point may be used in the following ways:
 *	A character may spend a Fate Point after making an attack throw, proficiency throw, or saving throw to re-roll the throw. Additional Fate Points can be spent to re-roll again if desired. However, a character can never re-roll a natural 1. (This rule ensures that save-or-die effects are always dangerous, regardless of how many Fate Points a character has.)
 *	A character may spend a Fate Point after making a damage roll to re-roll the damage. Additional Fate Points can be spent to re-roll again if desired.
 *	A character may spend a Fate Point to cleave after a successful attack throw, even if not otherwise eligible to do so (e.g. because the target of the attack was not slain, or because the character has already cleaved to the maximum amount that round). Doing so does not count against the character’s maximum number of cleaves per round.
-*	A character may spend a Fate Point to cast a 1st level spell or perform a  ceremony from the character’s repertoire in lieu of expending one of his daily slots, expending spell points, or suffering stigma. Additional Fate Points can be spent for higher level spells, spending a number of Fate Points equal to the spell point cost of a spell of that level (see [Singing Spells](chapter05.md#singing-spells) in Chapter 5).
+*	A character may spend a Fate Point to cast a 1st level spell or perform a  ceremony from the character’s repertoire in lieu of expending one of his daily slots, expending spell points, or suffering stigma. Additional Fate Points can be spent for higher level spells, spending a number of Fate Points equal to the spell point cost of a spell of that level (see [Singing Spells](Chapter05.md#singing-spells) in Chapter 5).
 *	A character may spend a Fate Point to temporarily gain one rank in any proficiency available to his class or to temporarily gain a thief ability (excluding backstab) at one-half his class level. The effect lasts 1 turn (10 minutes).
 *	A character with at least 1 hp may spend a Fate Point to recover hp equal to his Base Healing Rate in one turn of rest. This counts as magical healing for purposes of recovering from mortal wounds.
 *	A character with 0 or fewer hit points may spend a Fate Point to immediately recover to 1 hp. Unless the character has savage resilience, he is considered to have been knocked out and will need one night’s bed rest or magical healing. He must roll 1d6 on Row 21-25 of the Mortal Wounds table. If the character does have savage resilience, then he is considered to have been “just dazed” and does not need any bed rest. He may roll 1d6 twice on Row 26+ of the Mortal Wounds table and choose the preferred result.

@@ -37,7 +37,7 @@ The selection of class powers received from the Eldritch Value may be exchanged 
 
 #### Spellcasting and Magic Research
 
-All eldritch spellcasters use the same spell progression as Nobiran wizards (a spell progression which is roughly 15% better than that of mages). They select their spells from the eldritch spell list and are susceptible to corruption (see [The Shades of Magic](chapter05.md#the-shades-of-magic)). They may collect and use divine power as clerics. Eldritch spellcasters with an effective caster level of 5 or more can research spells, brew potions, and scribe scrolls. Eldritch spellcasters with an effective caster level of 9 or more can create permanent magic items. Eldritch spellcasters with an effective caster level of 11 or more can create constructs, create undead, crossbreed monsters, and cast ritual magic.
+All eldritch spellcasters use the same spell progression as Nobiran wizards (a spell progression which is roughly 15% better than that of mages). They select their spells from the eldritch spell list and are susceptible to corruption (see [The Shades of Magic](Chapter05.md#the-shades-of-magic)). They may collect and use divine power as clerics. Eldritch spellcasters with an effective caster level of 5 or more can research spells, brew potions, and scribe scrolls. Eldritch spellcasters with an effective caster level of 9 or more can create permanent magic items. Eldritch spellcasters with an effective caster level of 11 or more can create constructs, create undead, crossbreed monsters, and cast ritual magic.
 
 #### Saving Throw Progression
 
@@ -51,7 +51,7 @@ Eldritch classes (e.g. those for which the Eldritch category is the highest rati
 
 #### Converting Arcane Classes to Eldritch Classes
 
-Since the XP Cost for the Arcane and Eldritch Values are identical, classes from ACKS Core or Player’s Companion with 1 or more points in the Arcane Value can be converted into Heroic Fantasy classes by substituting an equivalent number of points in the Eldritch value. The class’s level progression, Hit Dice, and attack throw progression are unchanged. If the class uses the mage saving throw progression and proficiency progression, substitute the cleric progression instead. Replace the mage spell progression (or fraction thereof) with the Nobiran wizard spell progression (or fraction thereof). Instead of selecting its spell repertoire from the arcane spell list, the class selects from the [eldritch spells list](chapter05.md#eldritch-spell-lists), and it becomes subject to the rules for [the shades of magic](chapter05.md#the-shades-of-magic). In exchange, the class gains either spellsinging or bonus class powers.
+Since the XP Cost for the Arcane and Eldritch Values are identical, classes from ACKS Core or Player’s Companion with 1 or more points in the Arcane Value can be converted into Heroic Fantasy classes by substituting an equivalent number of points in the Eldritch value. The class’s level progression, Hit Dice, and attack throw progression are unchanged. If the class uses the mage saving throw progression and proficiency progression, substitute the cleric progression instead. Replace the mage spell progression (or fraction thereof) with the Nobiran wizard spell progression (or fraction thereof). Instead of selecting its spell repertoire from the arcane spell list, the class selects from the [eldritch spells list](Chapter05.md#eldritch-spell-lists), and it becomes subject to the rules for [the shades of magic](Chapter05.md#the-shades-of-magic). In exchange, the class gains either spellsinging or bonus class powers.
 
 ### Ceremonial Value
 
@@ -63,7 +63,7 @@ Since the XP Cost for the Arcane and Eldritch Values are identical, classes from
 |1|	½ level Runemaker|	250
 |0|	none|	0
 
-The Ceremonial Value allows the class to perform eldritch ceremonies, to create talismans and trinkets to store magical effects (see [Ceremonial Magic](chapter05.md#ceremonial-magic)), and to engage in magical research.
+The Ceremonial Value allows the class to perform eldritch ceremonies, to create talismans and trinkets to store magical effects (see [Ceremonial Magic](Chapter05.md#ceremonial-magic)), and to engage in magical research.
 
 **Ceremonial 1:** A Ceremonial Value of 1 gives the class one class power along with the ability to perform eldritch ceremonies and engage in magical research as a runemaker of ½ the character’s actual class level, rounded up. For instance, at 5th level, the character has the abilities of a 3rd level runemaker. The class uses its effective ceremonialist level (½ class level) for purposes of level-dependent ceremony ranges, durations, and damage.  
 
@@ -77,7 +77,7 @@ The selection of class powers received from the Ceremonial Value may be exchange
 
 #### Ceremonial Performance and Magic Research
 
-Ceremonialists select their ceremonies from the eldritch spell list and are susceptible to corruption (see [Shades of Magic](chapter05.md#the-shades-of-magic) and [Ceremonial Magic](chapter05.md#ceremonial-magic)). They may collect and use divine power as clerics. Ceremonialists with an effective caster level of 1 or more can create trinkets. Ceremonialists with an effective caster level of 5 or more can research spells, brew potions, scribe scrolls, and create talismans. Ceremonialists with an effective caster level of 9 or more can create permanent magic items. Ceremonialists with an effective caster level of 11 or more can create constructs, create undead, crossbreed monsters, and cast ritual magic.
+Ceremonialists select their ceremonies from the eldritch spell list and are susceptible to corruption (see [Shades of Magic](Chapter05.md#the-shades-of-magic) and [Ceremonial Magic](Chapter05.md#ceremonial-magic)). They may collect and use divine power as clerics. Ceremonialists with an effective caster level of 1 or more can create trinkets. Ceremonialists with an effective caster level of 5 or more can research spells, brew potions, scribe scrolls, and create talismans. Ceremonialists with an effective caster level of 9 or more can create permanent magic items. Ceremonialists with an effective caster level of 11 or more can create constructs, create undead, crossbreed monsters, and cast ritual magic.
 
 #### Saving Throw Progression
 
@@ -95,7 +95,7 @@ The following rules apply to classes using the occultist saving throw progressio
 
 Since the XP Cost for the Divine and Ceremonial Values are identical, classes from ACKS Core or Player’s Companion with 1 or more points in the Divine Value can be converted into Heroic Fantasy classes by substituting an equivalent number of points in the Ceremonial value. The class’s level progression, Hit Dice, attack throw progression, saving throw progression, and proficiencies are unchanged. The class gains the ability to use magic items usable by mages.
 
-Instead of casting spells from its class spell list, however, the class now can perform ceremonies drawn from the [eldritch spells list](chapter05.md#eldritch-spell-lists) and it becomes subject to the rules for [the shades of magic](chapter05.md#the-shades-of-magic). The class should be assigned a tradition appropriate to its class powers and flavor. It replaces its divine spell progression with the eldritch ceremony progression. The class is no longer subject to its Divine Value Code. Other changes may be desirable for cosmetic reasons.
+Instead of casting spells from its class spell list, however, the class now can perform ceremonies drawn from the [eldritch spells list](Chapter05.md#eldritch-spell-lists) and it becomes subject to the rules for [the shades of magic](Chapter05.md#the-shades-of-magic). The class should be assigned a tradition appropriate to its class powers and flavor. It replaces its divine spell progression with the eldritch ceremony progression. The class is no longer subject to its Divine Value Code. Other changes may be desirable for cosmetic reasons.
 
 #### Arcane and Divine Ceremonialists
 
@@ -408,7 +408,7 @@ To correct this error, the cost of animate dead effect has been reduced from 10 
 
 >animate dead target as undead skeleton/zombie (5), target 2 HD worth of creature per level (x3.5), range 0’  (x0.4), duration 1 day (x7), no saving throw (x1), arcane (x1), total cost 49.
 
-This correction impacts the effects of [deathless minion](chapter05.md#deathless-minion), which has been revised in this rulebook (see below).
+This correction impacts the effects of [deathless minion](Chapter05.md#deathless-minion), which has been revised in this rulebook (see below).
 
 **Choking/Vomiting:** A choking or vomiting creature a cannot attack, cast spells, move, or speak. However, it can still defend itself. This effect replaces the effect “held helpless” effect found in the Player’s Companion spell choking grip. Holding a target helpless is now a 40-point effect.
 
