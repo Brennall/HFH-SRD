@@ -113,7 +113,7 @@ Adroit and nimble thieves are more likely to succeed than their less-gifted bret
 Thieves, and other classes which use thief skills, benefit from being light on their feet. If the character’s encumbrance is 5 stones or less, he gains a +2 bonus on proficiency throws to climb walls, hide in shadows, and move silently. If the character’s encumbrance is 2 stones or less, the bonus is increased to +4. The bonuses do not apply to hijinks.
 
 ### Equipment for Thieves
-The following new items, found in the [Equipment](Chapter02#new-and-modified-weapons-armor-and-equipment) section are of benefit to thieves and related classes: adventurer’s harness, ear trumpet, padded shoes, thieves’ garb, thieves’ tools companion kit, superior thieves’ tools, and masterwork thieves’ tools.
+The following new items, found in the [Equipment](Chapter02.md#new-and-modified-weapons-armor-and-equipment) section are of benefit to thieves and related classes: adventurer’s harness, ear trumpet, padded shoes, thieves’ garb, thieves’ tools companion kit, superior thieves’ tools, and masterwork thieves’ tools.
 
 ### Revised Thief Skills
 **Open Locks:** Picking a lock requires one turn and a successful proficiency throw. Characters can pick locks in one round instead of one turn at a -10 penalty. (Characters with Lockpicking proficiency can pick locks in one round at a -4 penalty.) The thief may try again if the throw fails. However, if the thief ever fails the throw by 10 or more, or with a natural 1,  he immediately breaks his thieves' tools. Broken thieves’ tools are useless.
