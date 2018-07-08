@@ -1937,7 +1937,7 @@ This spell raises the bones or body of a single dead creature within range as an
 
 Skeletons will have Hit Dice equal to the number the monster had in life; for skeletons of humans or demi-humans, this means one Hit Die, regardless of the character level of the deceased. Zombies will have one more Hit Die than the monster had in life. Unlike animate dead, the HD of the skeleton or zombie created are not limited by the caster’s level. However, a deathless minion lasts for just one hour, after which it crumbles to dust.
 
->**Note that the spell effects above should revise and replace the deathless minion spell in *Player’s Companion*. See [Death Effect Notes](Chapter08.md#death-effects-notes) in Chapter 8 of this book for an explanation why.**
+>**Note that the spell effects above should revise and replace the deathless minion spell in *Player’s Companion*. See [Death Effect Notes](Chapter08.md#death-effect-notes) in Chapter 8 of this book for an explanation why.**
 
 
 #### Destroy Dead
