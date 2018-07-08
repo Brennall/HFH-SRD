@@ -33,7 +33,7 @@ The virtues within a code are always listed in order of importance. When contrad
 
 >EXAMPLE: Sigwulf has sworn an oath to slay his brother’s murderer, Bjorn, on sight. Sigwulf is awakened one morning by Bjorn, crippled in battle, asking for refuge in Sigwulf’s home. Since hospitality takes precedence over reliability (not breaking an oath) and loyalty (taking revenge for his brother’s killing), Sigwulf extends the guest-rite to Bjorn.
 
-Characters who have accumulated so much corruption (see [Shades of Magic](Chapter05.md#shades-of-magic) section) that their alignment has or would have shifted cannot benefit from a heroic code.
+Characters who have accumulated so much corruption (see [Shades of Magic](Chapter05.md#the-shades-of-magic) section) that their alignment has or would have shifted cannot benefit from a heroic code.
 
 
 ## Heroic Funerals
