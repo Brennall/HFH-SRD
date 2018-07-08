@@ -2065,7 +2065,7 @@ When using the core, campaign, and racial classes found in ACKS and PC, the foll
 
 ### Fighting and Thieving Classes
 
-In most heroic fantasy campaigns, the anti-paladin, assassin, barbarian, bard, explorer, fighter, mystic, paladin, and thief can be used without modification. See the [New and Modified Equipment](#new-and-modified-equipment) section and the [Heroic Adventures](Chapter04.md#heroic-adventures) section for important rules that apply to these classes, however!
+In most heroic fantasy campaigns, the anti-paladin, assassin, barbarian, bard, explorer, fighter, mystic, paladin, and thief can be used without modification. See the [New and Modified Equipment](#new-and-modified-equipment) section and the [Heroic Adventures](Chapter04.md#chapter-4-heroic-adventures) section for important rules that apply to these classes, however!
 
 In Tolkienesque campaigns, the dwarven delver, dwarven fury, dwarven vaultguard, and elven ranger can also be used without modification, but the Thrassian gladiator should not be used. The dwarven machinist may be used at the Judge’s discretion. In Howardian campaigns, the dwarven and elven demi-human classes should not be used, but the Thrassian gladiator might be used at the Judge’s discretion.
 
